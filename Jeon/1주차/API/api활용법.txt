@@ -1,2 +1,0 @@
-구글 위치기반 api활용
-http://littlecold2.tistory.com/1
