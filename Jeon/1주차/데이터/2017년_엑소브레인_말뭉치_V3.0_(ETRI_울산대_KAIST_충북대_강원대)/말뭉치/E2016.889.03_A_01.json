@@ -1,0 +1,279 @@
+{
+    "doc_id": "E2016.889.03_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "판문점", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "판문점(板門店)은 한국 전쟁의 정전 협상이 진행된 곳으로, 대한민국의 행정구역상으로는 경기도 파주시 진서면 어룡리, 조선민주주의인민공화국의 행정구역상 황해북도 개성특급시 판문점리에 위치하고 있으며, 원래의 행정구역은 경기도 장단군 진서면 어룡리였다.", 
+            "morp": [
+                {"id": 0, "lemma": "판문점", "type": "NNP", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 9, "weight": 1}, 
+                {"id": 2, "lemma": "板門店", "type": "SH", "position": 10, "weight": 1}, 
+                {"id": 3, "lemma": ")", "type": "SS", "position": 19, "weight": 1}, 
+                {"id": 4, "lemma": "은", "type": "JX", "position": 20, "weight": 0.0128817}, 
+                {"id": 5, "lemma": "한국", "type": "NNP", "position": 24, "weight": 0.0448181}, 
+                {"id": 6, "lemma": "전쟁", "type": "NNG", "position": 31, "weight": 0.9}, 
+                {"id": 7, "lemma": "의", "type": "JKG", "position": 37, "weight": 0.0694213}, 
+                {"id": 8, "lemma": "정전", "type": "NNG", "position": 41, "weight": 0.86458}, 
+                {"id": 9, "lemma": "협상", "type": "NNG", "position": 48, "weight": 0.9}, 
+                {"id": 10, "lemma": "이", "type": "JKS", "position": 54, "weight": 0.0360723}, 
+                {"id": 11, "lemma": "진행", "type": "NNG", "position": 58, "weight": 0.9}, 
+                {"id": 12, "lemma": "되", "type": "XSV", "position": 64, "weight": 0.000224177}, 
+                {"id": 13, "lemma": "ㄴ", "type": "ETM", "position": 64, "weight": 0.392321}, 
+                {"id": 14, "lemma": "곳", "type": "NNG", "position": 68, "weight": 0.658803}, 
+                {"id": 15, "lemma": "으로", "type": "JKB", "position": 71, "weight": 0.153406}, 
+                {"id": 16, "lemma": ",", "type": "SP", "position": 77, "weight": 1}, 
+                {"id": 17, "lemma": "대한민국", "type": "NNP", "position": 79, "weight": 0.12355}, 
+                {"id": 18, "lemma": "의", "type": "JKG", "position": 91, "weight": 0.0987295}, 
+                {"id": 19, "lemma": "행정", "type": "NNG", "position": 95, "weight": 0.9}, 
+                {"id": 20, "lemma": "구역", "type": "NNG", "position": 101, "weight": 0.9}, 
+                {"id": 21, "lemma": "상", "type": "XSN", "position": 107, "weight": 0.0188915}, 
+                {"id": 22, "lemma": "으로", "type": "JKB", "position": 110, "weight": 0.121717}, 
+                {"id": 23, "lemma": "는", "type": "JX", "position": 116, "weight": 0.0387928}, 
+                {"id": 24, "lemma": "경기도", "type": "NNP", "position": 120, "weight": 0.9}, 
+                {"id": 25, "lemma": "파주시", "type": "NNP", "position": 130, "weight": 0.9}, 
+                {"id": 26, "lemma": "진서면", "type": "NNP", "position": 140, "weight": 0.15}, 
+                {"id": 27, "lemma": "어룡리", "type": "NNP", "position": 150, "weight": 0.1}, 
+                {"id": 28, "lemma": ",", "type": "SP", "position": 159, "weight": 1}, 
+                {"id": 29, "lemma": "조선민주주의인민공화국", "type": "NNP", "position": 161, "weight": 0.65}, 
+                {"id": 30, "lemma": "의", "type": "JKG", "position": 194, "weight": 0.0987295}, 
+                {"id": 31, "lemma": "행정", "type": "NNG", "position": 198, "weight": 0.9}, 
+                {"id": 32, "lemma": "구역", "type": "NNG", "position": 204, "weight": 0.9}, 
+                {"id": 33, "lemma": "상", "type": "XSN", "position": 210, "weight": 0.0188915}, 
+                {"id": 34, "lemma": "황해북도", "type": "NNP", "position": 214, "weight": 0.65}, 
+                {"id": 35, "lemma": "개성특급시", "type": "NNP", "position": 227, "weight": 0.183167}, 
+                {"id": 36, "lemma": "판문점리", "type": "NNP", "position": 243, "weight": 0.6}, 
+                {"id": 37, "lemma": "에", "type": "JKB", "position": 255, "weight": 0.0823628}, 
+                {"id": 38, "lemma": "위치", "type": "NNG", "position": 259, "weight": 0.207864}, 
+                {"id": 39, "lemma": "하", "type": "XSV", "position": 265, "weight": 0.0001}, 
+                {"id": 40, "lemma": "고", "type": "EC", "position": 268, "weight": 0.359917}, 
+                {"id": 41, "lemma": "있", "type": "VX", "position": 272, "weight": 0.125953}, 
+                {"id": 42, "lemma": "으며", "type": "EC", "position": 275, "weight": 0.265281}, 
+                {"id": 43, "lemma": ",", "type": "SP", "position": 281, "weight": 1}, 
+                {"id": 44, "lemma": "원래", "type": "NNG", "position": 283, "weight": 0.9}, 
+                {"id": 45, "lemma": "의", "type": "JKG", "position": 289, "weight": 0.0694213}, 
+                {"id": 46, "lemma": "행정", "type": "NNG", "position": 293, "weight": 0.9}, 
+                {"id": 47, "lemma": "구역", "type": "NNG", "position": 299, "weight": 0.9}, 
+                {"id": 48, "lemma": "은", "type": "JX", "position": 305, "weight": 0.0449928}, 
+                {"id": 49, "lemma": "경기도", "type": "NNP", "position": 309, "weight": 0.9}, 
+                {"id": 50, "lemma": "장단군", "type": "NNP", "position": 319, "weight": 0.45}, 
+                {"id": 51, "lemma": "진서면", "type": "NNP", "position": 329, "weight": 0.15}, 
+                {"id": 52, "lemma": "어룡리", "type": "NNP", "position": 339, "weight": 0.1}, 
+                {"id": 53, "lemma": "이", "type": "VCP", "position": 348, "weight": 0.0177525}, 
+                {"id": 54, "lemma": "었", "type": "EP", "position": 348, "weight": 0.9}, 
+                {"id": 55, "lemma": "다", "type": "EF", "position": 351, "weight": 0.640954}, 
+                {"id": 56, "lemma": ".", "type": "SF", "position": 354, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "판문점", "type": "NNP", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 9, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "板門店", "type": "SH", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 19, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "한국", "type": "NNP", "scode": "050002", "weight": 0.142857, "position": 24, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "전쟁", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 31, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 37, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "정전", "type": "NNG", "scode": "130000", "weight": 0.0555556, "position": 41, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "협상", "type": "NNG", "scode": "010002", "weight": 0.333333, "position": 48, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 54, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "진행되", "type": "VV", "scode": "000002", "weight": 0.333333, "position": 58, "begin": 11, "end": 12}, 
+                {"id": 12, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 64, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "곳", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 68, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 71, "begin": 15, "end": 15}, 
+                {"id": 15, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 77, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "대한민국", "type": "NNP", "scode": "000000", "weight": 1, "position": 79, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 91, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "행정구역", "type": "NNG", "scode": "000000", "weight": 1, "position": 95, "begin": 19, "end": 20}, 
+                {"id": 19, "text": "상", "type": "XSN", "scode": "260002", "weight": 0.0227273, "position": 107, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 110, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 116, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "경기도", "type": "NNP", "scode": "000000", "weight": 1, "position": 120, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "파주시", "type": "NNP", "scode": "000000", "weight": 0, "position": 130, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "진서면", "type": "NNP", "scode": "000000", "weight": 0, "position": 140, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "어룡리", "type": "NNP", "scode": "000000", "weight": 0, "position": 150, "begin": 27, "end": 27}, 
+                {"id": 26, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 159, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "조선민주주의인민공화국", "type": "NNP", "scode": "000000", "weight": 0, "position": 161, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 194, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "행정구역", "type": "NNG", "scode": "000000", "weight": 1, "position": 198, "begin": 31, "end": 32}, 
+                {"id": 30, "text": "상", "type": "XSN", "scode": "260002", "weight": 0.0227273, "position": 210, "begin": 33, "end": 33}, 
+                {"id": 31, "text": "황해북도", "type": "NNP", "scode": "000000", "weight": 1, "position": 214, "begin": 34, "end": 34}, 
+                {"id": 32, "text": "개성특급시", "type": "NNP", "scode": "000000", "weight": 0, "position": 227, "begin": 35, "end": 35}, 
+                {"id": 33, "text": "판문점리", "type": "NNP", "scode": "000000", "weight": 0, "position": 243, "begin": 36, "end": 36}, 
+                {"id": 34, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 255, "begin": 37, "end": 37}, 
+                {"id": 35, "text": "위치하", "type": "VV", "scode": "000000", "weight": 1, "position": 259, "begin": 38, "end": 39}, 
+                {"id": 36, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 268, "begin": 40, "end": 40}, 
+                {"id": 37, "text": "있", "type": "VX", "scode": "010902", "weight": 0.0416667, "position": 272, "begin": 41, "end": 41}, 
+                {"id": 38, "text": "으며", "type": "EC", "scode": "000000", "weight": 1, "position": 275, "begin": 42, "end": 42}, 
+                {"id": 39, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 281, "begin": 43, "end": 43}, 
+                {"id": 40, "text": "원래", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 283, "begin": 44, "end": 44}, 
+                {"id": 41, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 289, "begin": 45, "end": 45}, 
+                {"id": 42, "text": "행정구역", "type": "NNG", "scode": "000000", "weight": 1, "position": 293, "begin": 46, "end": 47}, 
+                {"id": 43, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 305, "begin": 48, "end": 48}, 
+                {"id": 44, "text": "경기도", "type": "NNP", "scode": "000000", "weight": 1, "position": 309, "begin": 49, "end": 49}, 
+                {"id": 45, "text": "장단군", "type": "NNP", "scode": "000000", "weight": 1, "position": 319, "begin": 50, "end": 50}, 
+                {"id": 46, "text": "진서면", "type": "NNP", "scode": "000000", "weight": 0, "position": 329, "begin": 51, "end": 51}, 
+                {"id": 47, "text": "어룡리", "type": "NNP", "scode": "000000", "weight": 0, "position": 339, "begin": 52, "end": 52}, 
+                {"id": 48, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 348, "begin": 53, "end": 53}, 
+                {"id": 49, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 348, "begin": 54, "end": 54}, 
+                {"id": 50, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 351, "begin": 55, "end": 55}, 
+                {"id": 51, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 354, "begin": 56, "end": 56}
+            ], 
+            "word": [
+                {"id": 0, "text": "판문점(板門店)은", "type": "", "begin": 0, "end": 4}, 
+                {"id": 1, "text": "한국", "type": "", "begin": 5, "end": 5}, 
+                {"id": 2, "text": "전쟁의", "type": "", "begin": 6, "end": 7}, 
+                {"id": 3, "text": "정전", "type": "", "begin": 8, "end": 8}, 
+                {"id": 4, "text": "협상이", "type": "", "begin": 9, "end": 10}, 
+                {"id": 5, "text": "진행된", "type": "", "begin": 11, "end": 13}, 
+                {"id": 6, "text": "곳으로,", "type": "", "begin": 14, "end": 16}, 
+                {"id": 7, "text": "대한민국의", "type": "", "begin": 17, "end": 18}, 
+                {"id": 8, "text": "행정구역상으로는", "type": "", "begin": 19, "end": 23}, 
+                {"id": 9, "text": "경기도", "type": "", "begin": 24, "end": 24}, 
+                {"id": 10, "text": "파주시", "type": "", "begin": 25, "end": 25}, 
+                {"id": 11, "text": "진서면", "type": "", "begin": 26, "end": 26}, 
+                {"id": 12, "text": "어룡리,", "type": "", "begin": 27, "end": 28}, 
+                {"id": 13, "text": "조선민주주의인민공화국의", "type": "", "begin": 29, "end": 30}, 
+                {"id": 14, "text": "행정구역상", "type": "", "begin": 31, "end": 33}, 
+                {"id": 15, "text": "황해북도", "type": "", "begin": 34, "end": 34}, 
+                {"id": 16, "text": "개성특급시", "type": "", "begin": 35, "end": 35}, 
+                {"id": 17, "text": "판문점리에", "type": "", "begin": 36, "end": 37}, 
+                {"id": 18, "text": "위치하고", "type": "", "begin": 38, "end": 40}, 
+                {"id": 19, "text": "있으며,", "type": "", "begin": 41, "end": 43}, 
+                {"id": 20, "text": "원래의", "type": "", "begin": 44, "end": 45}, 
+                {"id": 21, "text": "행정구역은", "type": "", "begin": 46, "end": 48}, 
+                {"id": 22, "text": "경기도", "type": "", "begin": 49, "end": 49}, 
+                {"id": 23, "text": "장단군", "type": "", "begin": 50, "end": 50}, 
+                {"id": 24, "text": "진서면", "type": "", "begin": 51, "end": 51}, 
+                {"id": 25, "text": "어룡리였다.", "type": "", "begin": 52, "end": 56}
+            ], 
+            "NE": [
+                {"id": 0, "text": "판문점", "type": "LC_OTHERS", "begin": 0, "end": 0, "weight": 0.117671, "common_noun": 0}, 
+                {"id": 1, "text": "板門店", "type": "LC_OTHERS", "begin": 2, "end": 2, "weight": 0.103592, "common_noun": 0}, 
+                {"id": 2, "text": "한국 전쟁", "type": "EV_WAR_REVOLUTION", "begin": 5, "end": 6, "weight": 0.725098, "common_noun": 0}, 
+                {"id": 3, "text": "대한민국", "type": "LCP_COUNTRY", "begin": 17, "end": 17, "weight": 0.444953, "common_noun": 0}, 
+                {"id": 4, "text": "경기도", "type": "LCP_PROVINCE", "begin": 24, "end": 24, "weight": 0.782075, "common_noun": 0}, 
+                {"id": 5, "text": "파주시", "type": "LCP_CITY", "begin": 25, "end": 25, "weight": 0.802122, "common_noun": 0}, 
+                {"id": 6, "text": "진서면", "type": "LCP_COUNTY", "begin": 26, "end": 26, "weight": 0.446761, "common_noun": 0}, 
+                {"id": 7, "text": "어룡리", "type": "LCP_COUNTY", "begin": 27, "end": 27, "weight": 0.30092, "common_noun": 0}, 
+                {"id": 8, "text": "조선민주주의인민공화국", "type": "LCP_COUNTRY", "begin": 29, "end": 29, "weight": 0.51574, "common_noun": 0}, 
+                {"id": 9, "text": "황해북도", "type": "LCP_PROVINCE", "begin": 34, "end": 34, "weight": 0.635132, "common_noun": 0}, 
+                {"id": 10, "text": "개성특급시", "type": "LCP_CITY", "begin": 35, "end": 35, "weight": 0.429758, "common_noun": 0}, 
+                {"id": 11, "text": "판문점리", "type": "LCP_COUNTY", "begin": 36, "end": 36, "weight": 0.306282, "common_noun": 0}, 
+                {"id": 12, "text": "경기도", "type": "LCP_PROVINCE", "begin": 49, "end": 49, "weight": 0.771214, "common_noun": 0}, 
+                {"id": 13, "text": "장단군", "type": "LCP_COUNTY", "begin": 50, "end": 50, "weight": 0.641648, "common_noun": 0}, 
+                {"id": 14, "text": "진서면", "type": "LCP_COUNTY", "begin": 51, "end": 51, "weight": 0.374105, "common_noun": 0}, 
+                {"id": 15, "text": "어룡리", "type": "LCP_COUNTY", "begin": 52, "end": 52, "weight": 0.18868, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "판문점(板門店)은", "head": 6, "label": "NP_SBJ", "mod": [], "weight": 0.557602}, 
+                {"id": 1, "text": "한국", "head": 2, "label": "NP", "mod": [], "weight": 0.709669}, 
+                {"id": 2, "text": "전쟁의", "head": 4, "label": "NP_MOD", "mod": [1], "weight": 0.664603}, 
+                {"id": 3, "text": "정전", "head": 4, "label": "NP", "mod": [], "weight": 0.630106}, 
+                {"id": 4, "text": "협상이", "head": 5, "label": "NP_SBJ", "mod": [2, 3], "weight": 0.754307}, 
+                {"id": 5, "text": "진행된", "head": 6, "label": "VP_MOD", "mod": [4], "weight": 0.817164}, 
+                {"id": 6, "text": "곳으로,", "head": 18, "label": "NP_AJT", "mod": [0, 5], "weight": 0.620128}, 
+                {"id": 7, "text": "대한민국의", "head": 8, "label": "NP_MOD", "mod": [], "weight": 0.672992}, 
+                {"id": 8, "text": "행정구역상으로는", "head": 18, "label": "NP_AJT", "mod": [7], "weight": 0.452923}, 
+                {"id": 9, "text": "경기도", "head": 10, "label": "NP", "mod": [], "weight": 0.781068}, 
+                {"id": 10, "text": "파주시", "head": 11, "label": "NP", "mod": [9], "weight": 0.348239}, 
+                {"id": 11, "text": "진서면", "head": 12, "label": "NP", "mod": [10], "weight": 0.693135}, 
+                {"id": 12, "text": "어룡리,", "head": 18, "label": "NP_AJT", "mod": [11], "weight": 0.411538}, 
+                {"id": 13, "text": "조선민주주의인민공화국의", "head": 14, "label": "NP_MOD", "mod": [], "weight": 0.719295}, 
+                {"id": 14, "text": "행정구역상", "head": 18, "label": "NP_AJT", "mod": [13], "weight": 0.0222933}, 
+                {"id": 15, "text": "황해북도", "head": 16, "label": "NP", "mod": [], "weight": 0.530018}, 
+                {"id": 16, "text": "개성특급시", "head": 17, "label": "NP", "mod": [15], "weight": 0.591659}, 
+                {"id": 17, "text": "판문점리에", "head": 18, "label": "NP_AJT", "mod": [16], "weight": 0.786638}, 
+                {"id": 18, "text": "위치하고", "head": 19, "label": "VP", "mod": [6, 8, 12, 14, 17], "weight": 0.776602}, 
+                {"id": 19, "text": "있으며,", "head": 25, "label": "VP", "mod": [18], "weight": 0.728962}, 
+                {"id": 20, "text": "원래의", "head": 21, "label": "NP_MOD", "mod": [], "weight": 0.67293}, 
+                {"id": 21, "text": "행정구역은", "head": 25, "label": "NP_SBJ", "mod": [20], "weight": 0.80804}, 
+                {"id": 22, "text": "경기도", "head": 23, "label": "NP", "mod": [], "weight": 0.726464}, 
+                {"id": 23, "text": "장단군", "head": 24, "label": "NP", "mod": [22], "weight": 0.612521}, 
+                {"id": 24, "text": "진서면", "head": 25, "label": "NP", "mod": [23], "weight": 0.555525}, 
+                {"id": 25, "text": "어룡리였다.", "head": -1, "label": "VNP", "mod": [19, 21, 24], "weight": 3.95452e-07}
+            ], 
+            "SRL": [
+                {"verb": "진행", "sense": 1, "word_id": 5, "weight": 0.246697, "argument": [
+                    {"type": "ARG1", "word_id": 4, "text": "협상이", "weight": 0.246697}, 
+                    {"type": "ARGM-LOC", "word_id": 6, "text": "곳으로,", "weight": 1}
+                ]}, 
+                {"verb": "위치", "sense": 1, "word_id": 18, "weight": 0.185088, "argument": [
+                    {"type": "ARG2", "word_id": 17, "text": "판문점리에", "weight": 0.207083}, 
+                    {"type": "AUX", "word_id": 19, "text": "있으며,", "weight": 0.251045}, 
+                    {"type": "ARG1", "word_id": 0, "text": "판문점(板門店)은", "weight": 1}, 
+                    {"type": "ARGM-CND", "word_id": 14, "text": "행정구역상", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "판문점(板門店)은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "판문점(板門店)은"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 6, "ne_id": -1, "text": "한국 전쟁의 정전 협상이 진행된 곳으로,", "start_eid_short": 6, "end_eid_short": 6, "text_short": "곳으로,"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 4, "ne_id": -1, "text": "한국 전쟁의 정전 협상이", "start_eid_short": 3, "end_eid_short": 4, "text_short": "정전 협상이"}
+        ]}, 
+        {"id": 2, "type": "EV_WAR_REVOLUTION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 1, "text": "한국 전쟁의", "start_eid_short": 1, "end_eid_short": 2, "text_short": "한국 전쟁의"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "정전", "start_eid_short": 3, "end_eid_short": 3, "text_short": "정전"}
+        ]}, 
+        {"id": 4, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 7, "end_eid": 12, "ne_id": 6, "text": "대한민국의 행정구역상으로는 경기도 파주시 진서면 어룡리,", "start_eid_short": 9, "end_eid_short": 12, "text_short": "경기도 파주시 진서면 어룡리,"}, 
+            {"id": 6, "sent_id": 0, "start_eid": 7, "end_eid": 8, "ne_id": -1, "text": "대한민국의 행정구역상으로는", "start_eid_short": 8, "end_eid_short": 8, "text_short": "행정구역상으로는"}
+        ]}, 
+        {"id": 5, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 2, "text": "대한민국의", "start_eid_short": 7, "end_eid_short": 7, "text_short": "대한민국의"}
+        ]}, 
+        {"id": 6, "type": "LCP_CITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 9, "end_eid": 10, "ne_id": 4, "text": "경기도 파주시", "start_eid_short": 9, "end_eid_short": 10, "text_short": "경기도 파주시"}
+        ]}, 
+        {"id": 7, "type": "LCP_PROVINCE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 9, "end_eid": 9, "ne_id": 3, "text": "경기도", "start_eid_short": 9, "end_eid_short": 9, "text_short": "경기도"}, 
+            {"id": 20, "sent_id": 0, "start_eid": 22, "end_eid": 22, "ne_id": 11, "text": "경기도", "start_eid_short": 22, "end_eid_short": 22, "text_short": "경기도"}
+        ]}, 
+        {"id": 8, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 9, "end_eid": 11, "ne_id": 5, "text": "경기도 파주시 진서면", "start_eid_short": 9, "end_eid_short": 11, "text_short": "경기도 파주시 진서면"}
+        ]}, 
+        {"id": 9, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 13, "sent_id": 0, "start_eid": 13, "end_eid": 13, "ne_id": 7, "text": "조선민주주의인민공화국의", "start_eid_short": 13, "end_eid_short": 13, "text_short": "조선민주주의인민공화국의"}
+        ]}, 
+        {"id": 10, "type": "LCP_CITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 14, "sent_id": 0, "start_eid": 15, "end_eid": 16, "ne_id": 9, "text": "황해북도 개성특급시", "start_eid_short": 15, "end_eid_short": 16, "text_short": "황해북도 개성특급시"}
+        ]}, 
+        {"id": 11, "type": "LCP_PROVINCE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 15, "sent_id": 0, "start_eid": 15, "end_eid": 15, "ne_id": 8, "text": "황해북도", "start_eid_short": 15, "end_eid_short": 15, "text_short": "황해북도"}
+        ]}, 
+        {"id": 12, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 11, "sent_id": 0, "start_eid": 13, "end_eid": 17, "ne_id": 10, "text": "조선민주주의인민공화국의 행정구역상 황해북도 개성특급시 판문점리에", "start_eid_short": 14, "end_eid_short": 17, "text_short": "행정구역상 황해북도 개성특급시 판문점리에"}, 
+            {"id": 12, "sent_id": 0, "start_eid": 13, "end_eid": 14, "ne_id": -1, "text": "조선민주주의인민공화국의 행정구역상", "start_eid_short": 14, "end_eid_short": 14, "text_short": "행정구역상"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 0, "start_eid": 20, "end_eid": 20, "ne_id": -1, "text": "원래의", "start_eid_short": 20, "end_eid_short": 20, "text_short": "원래의"}
+        ]}, 
+        {"id": 14, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 19, "sent_id": 0, "start_eid": 22, "end_eid": 23, "ne_id": 12, "text": "경기도 장단군", "start_eid_short": 22, "end_eid_short": 23, "text_short": "경기도 장단군"}
+        ]}, 
+        {"id": 15, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 18, "sent_id": 0, "start_eid": 22, "end_eid": 24, "ne_id": 13, "text": "경기도 장단군 진서면", "start_eid_short": 22, "end_eid_short": 24, "text_short": "경기도 장단군 진서면"}
+        ]}, 
+        {"id": 16, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 0, "start_eid": 20, "end_eid": 21, "ne_id": -1, "text": "원래의 행정구역은", "start_eid_short": 21, "end_eid_short": 21, "text_short": "행정구역은"}
+        ]}
+    ]
+}

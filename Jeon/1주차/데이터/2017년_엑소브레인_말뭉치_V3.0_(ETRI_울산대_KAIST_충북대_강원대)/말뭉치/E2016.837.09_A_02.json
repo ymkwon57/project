@@ -1,0 +1,467 @@
+{
+    "doc_id": "E2016.837.09_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "문익점", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<인명> 고려 말기의 문신(1329~1398).", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "인명", "type": "NNG", "position": 1, "weight": 0.153379}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "고려", "type": "NNP", "position": 9, "weight": 0.0642685}, 
+                {"id": 4, "lemma": "말기", "type": "NNG", "position": 16, "weight": 0.9}, 
+                {"id": 5, "lemma": "의", "type": "JKG", "position": 22, "weight": 0.0694213}, 
+                {"id": 6, "lemma": "문신", "type": "NNG", "position": 26, "weight": 0.9}, 
+                {"id": 7, "lemma": "(", "type": "SS", "position": 32, "weight": 1}, 
+                {"id": 8, "lemma": "1329", "type": "SN", "position": 33, "weight": 1}, 
+                {"id": 9, "lemma": "~", "type": "SO", "position": 37, "weight": 1}, 
+                {"id": 10, "lemma": "1398", "type": "SN", "position": 38, "weight": 1}, 
+                {"id": 11, "lemma": ")", "type": "SS", "position": 42, "weight": 1}, 
+                {"id": 12, "lemma": ".", "type": "SF", "position": 43, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "인명", "type": "NNG", "scode": "010000", "weight": 0.2, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "고려", "type": "NNP", "scode": "050001", "weight": 0.0833333, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "말기", "type": "NNG", "scode": "050000", "weight": 0.2, "position": 16, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 22, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "문신", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 26, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 32, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "1329", "type": "SN", "scode": "000000", "weight": 1, "position": 33, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "~", "type": "SO", "scode": "000000", "weight": 1, "position": 37, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "1398", "type": "SN", "scode": "000000", "weight": 1, "position": 38, "begin": 10, "end": 10}, 
+                {"id": 11, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 42, "begin": 11, "end": 11}, 
+                {"id": 12, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 43, "begin": 12, "end": 12}
+            ], 
+            "word": [
+                {"id": 0, "text": "<인명>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "고려", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "말기의", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "문신(1329~1398).", "type": "", "begin": 6, "end": 12}
+            ], 
+            "NE": [
+                {"id": 0, "text": "고려 말기", "type": "DT_DYNASTY", "begin": 3, "end": 4, "weight": 0.839393, "common_noun": 0}, 
+                {"id": 1, "text": "문신", "type": "CV_POSITION", "begin": 6, "end": 6, "weight": 0.434967, "common_noun": 0}, 
+                {"id": 2, "text": "1329~1398", "type": "DT_DURATION", "begin": 8, "end": 10, "weight": 0.414542, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<인명>", "head": 3, "label": "NP", "mod": [], "weight": 0.848603}, 
+                {"id": 1, "text": "고려", "head": 2, "label": "NP", "mod": [], "weight": 0.811392}, 
+                {"id": 2, "text": "말기의", "head": 3, "label": "NP_MOD", "mod": [1], "weight": 0.735061}, 
+                {"id": 3, "text": "문신(1329~1398).", "head": -1, "label": "NP", "mod": [0, 2], "weight": 0.423503}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "초명은 익첨(益瞻).", 
+            "morp": [
+                {"id": 0, "lemma": "초명", "type": "NNG", "position": 44, "weight": 0.9}, 
+                {"id": 1, "lemma": "은", "type": "JX", "position": 50, "weight": 0.0449928}, 
+                {"id": 2, "lemma": "익첨", "type": "NNP", "position": 54, "weight": 0.05}, 
+                {"id": 3, "lemma": "(", "type": "SS", "position": 60, "weight": 1}, 
+                {"id": 4, "lemma": "益瞻", "type": "SH", "position": 61, "weight": 1}, 
+                {"id": 5, "lemma": ")", "type": "SS", "position": 67, "weight": 1}, 
+                {"id": 6, "lemma": ".", "type": "SF", "position": 68, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "초명", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 44, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 50, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "익첨", "type": "NNP", "scode": "000000", "weight": 0, "position": 54, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 60, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "益瞻", "type": "SH", "scode": "000000", "weight": 1, "position": 61, "begin": 4, "end": 4}, 
+                {"id": 5, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 67, "begin": 5, "end": 5}, 
+                {"id": 6, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 68, "begin": 6, "end": 6}
+            ], 
+            "word": [
+                {"id": 0, "text": "초명은", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "익첨(益瞻).", "type": "", "begin": 2, "end": 6}
+            ], 
+            "NE": [
+                {"id": 0, "text": "익첨", "type": "PS_NAME", "begin": 2, "end": 2, "weight": 0.302614, "common_noun": 0}, 
+                {"id": 1, "text": "益瞻", "type": "PS_NAME", "begin": 4, "end": 4, "weight": 0.302614, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "초명은", "head": 1, "label": "NP_SBJ", "mod": [], "weight": 0.80443}, 
+                {"id": 1, "text": "익첨(益瞻).", "head": -1, "label": "NP", "mod": [0], "weight": 0.660347}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "자는 일신(日新).", 
+            "morp": [
+                {"id": 0, "lemma": "자", "type": "NNG", "position": 69, "weight": 0.0525675}, 
+                {"id": 1, "lemma": "는", "type": "JX", "position": 72, "weight": 0.0287565}, 
+                {"id": 2, "lemma": "일신", "type": "NNP", "position": 76, "weight": 0.00747814}, 
+                {"id": 3, "lemma": "(", "type": "SS", "position": 82, "weight": 1}, 
+                {"id": 4, "lemma": "日新", "type": "SH", "position": 83, "weight": 1}, 
+                {"id": 5, "lemma": ")", "type": "SS", "position": 89, "weight": 1}, 
+                {"id": 6, "lemma": ".", "type": "SF", "position": 90, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "자", "type": "NNG", "scode": "130000", "weight": 0.0217391, "position": 69, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 72, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "일신", "type": "NNP", "scode": "000000", "weight": 0.25, "position": 76, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 82, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "日新", "type": "SH", "scode": "000000", "weight": 1, "position": 83, "begin": 4, "end": 4}, 
+                {"id": 5, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 89, "begin": 5, "end": 5}, 
+                {"id": 6, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 90, "begin": 6, "end": 6}
+            ], 
+            "word": [
+                {"id": 0, "text": "자는", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "일신(日新).", "type": "", "begin": 2, "end": 6}
+            ], 
+            "NE": [
+                {"id": 0, "text": "일신", "type": "PS_NAME", "begin": 2, "end": 2, "weight": 0.160323, "common_noun": 0}, 
+                {"id": 1, "text": "日新", "type": "PS_NAME", "begin": 4, "end": 4, "weight": 0.160323, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "자는", "head": 1, "label": "NP_SBJ", "mod": [], "weight": 0.845093}, 
+                {"id": 1, "text": "일신(日新).", "head": -1, "label": "NP", "mod": [0], "weight": 0.726508}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 3, 
+            "reserve_str": "", 
+            "text": "호는 삼우당(三憂堂).", 
+            "morp": [
+                {"id": 0, "lemma": "호", "type": "NNG", "position": 91, "weight": 0.18669}, 
+                {"id": 1, "lemma": "는", "type": "JX", "position": 94, "weight": 0.0287565}, 
+                {"id": 2, "lemma": "삼우당", "type": "NNP", "position": 98, "weight": 0.05}, 
+                {"id": 3, "lemma": "(", "type": "SS", "position": 107, "weight": 1}, 
+                {"id": 4, "lemma": "三憂堂", "type": "SH", "position": 108, "weight": 1}, 
+                {"id": 5, "lemma": ")", "type": "SS", "position": 117, "weight": 1}, 
+                {"id": 6, "lemma": ".", "type": "SF", "position": 118, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "호", "type": "NNG", "scode": "130001", "weight": 0.0333333, "position": 91, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 94, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "삼우당", "type": "NNP", "scode": "000000", "weight": 1, "position": 98, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 107, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "三憂堂", "type": "SH", "scode": "000000", "weight": 1, "position": 108, "begin": 4, "end": 4}, 
+                {"id": 5, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 117, "begin": 5, "end": 5}, 
+                {"id": 6, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 118, "begin": 6, "end": 6}
+            ], 
+            "word": [
+                {"id": 0, "text": "호는", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "삼우당(三憂堂).", "type": "", "begin": 2, "end": 6}
+            ], 
+            "NE": [
+                {"id": 0, "text": "삼우당", "type": "PS_NAME", "begin": 2, "end": 2, "weight": 0.568445, "common_noun": 0}, 
+                {"id": 1, "text": "三憂堂", "type": "PS_NAME", "begin": 4, "end": 4, "weight": 1, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "호는", "head": 1, "label": "NP_SBJ", "mod": [], "weight": 0.841318}, 
+                {"id": 1, "text": "삼우당(三憂堂).", "head": -1, "label": "NP", "mod": [0], "weight": 0.74314}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 4, 
+            "reserve_str": "", 
+            "text": "사신으로 중국 원나라에 들어가 덕흥군(德興君)을 왕으로 내세우는 일에 가담하였으나 실패하고, 돌아올 때 목화씨를 붓대 속에 넣어 가지고 와서 심어 우리나라에 처음으로 목화를 번식시켰다.", 
+            "morp": [
+                {"id": 0, "lemma": "사신", "type": "NNG", "position": 119, "weight": 0.437124}, 
+                {"id": 1, "lemma": "으로", "type": "JKB", "position": 125, "weight": 0.153406}, 
+                {"id": 2, "lemma": "중국", "type": "NNP", "position": 132, "weight": 0.0230121}, 
+                {"id": 3, "lemma": "원", "type": "NNP", "position": 139, "weight": 0.0115539}, 
+                {"id": 4, "lemma": "나라", "type": "NNG", "position": 142, "weight": 0.184431}, 
+                {"id": 5, "lemma": "에", "type": "JKB", "position": 148, "weight": 0.153364}, 
+                {"id": 6, "lemma": "들어가", "type": "VV", "position": 152, "weight": 0.9}, 
+                {"id": 7, "lemma": "아", "type": "EC", "position": 158, "weight": 0.398809}, 
+                {"id": 8, "lemma": "덕흥군", "type": "NNP", "position": 162, "weight": 0.1}, 
+                {"id": 9, "lemma": "(", "type": "SS", "position": 171, "weight": 1}, 
+                {"id": 10, "lemma": "德興君", "type": "SH", "position": 172, "weight": 1}, 
+                {"id": 11, "lemma": ")", "type": "SS", "position": 181, "weight": 1}, 
+                {"id": 12, "lemma": "을", "type": "JKO", "position": 182, "weight": 0.0336085}, 
+                {"id": 13, "lemma": "왕", "type": "NNG", "position": 186, "weight": 0.0923534}, 
+                {"id": 14, "lemma": "으로", "type": "JKB", "position": 189, "weight": 0.153406}, 
+                {"id": 15, "lemma": "내세우", "type": "VV", "position": 196, "weight": 0.9}, 
+                {"id": 16, "lemma": "는", "type": "ETM", "position": 205, "weight": 0.184941}, 
+                {"id": 17, "lemma": "일", "type": "NNG", "position": 209, "weight": 0.421798}, 
+                {"id": 18, "lemma": "에", "type": "JKB", "position": 212, "weight": 0.153364}, 
+                {"id": 19, "lemma": "가담", "type": "NNG", "position": 216, "weight": 0.9}, 
+                {"id": 20, "lemma": "하", "type": "XSV", "position": 222, "weight": 0.0001}, 
+                {"id": 21, "lemma": "았", "type": "EP", "position": 225, "weight": 0.9}, 
+                {"id": 22, "lemma": "으나", "type": "EC", "position": 228, "weight": 0.197698}, 
+                {"id": 23, "lemma": "실패", "type": "NNG", "position": 235, "weight": 0.9}, 
+                {"id": 24, "lemma": "하", "type": "XSV", "position": 241, "weight": 0.0001}, 
+                {"id": 25, "lemma": "고", "type": "EC", "position": 244, "weight": 0.359917}, 
+                {"id": 26, "lemma": ",", "type": "SP", "position": 247, "weight": 1}, 
+                {"id": 27, "lemma": "돌아오", "type": "VV", "position": 249, "weight": 0.9}, 
+                {"id": 28, "lemma": "ㄹ", "type": "ETM", "position": 255, "weight": 0.300746}, 
+                {"id": 29, "lemma": "때", "type": "NNG", "position": 259, "weight": 0.656522}, 
+                {"id": 30, "lemma": "목화", "type": "NNG", "position": 263, "weight": 0.173828}, 
+                {"id": 31, "lemma": "씨", "type": "NNG", "position": 269, "weight": 0.0104663}, 
+                {"id": 32, "lemma": "를", "type": "JKO", "position": 272, "weight": 0.137686}, 
+                {"id": 33, "lemma": "붓대", "type": "NNG", "position": 276, "weight": 0.9}, 
+                {"id": 34, "lemma": "속", "type": "NNG", "position": 283, "weight": 0.18219}, 
+                {"id": 35, "lemma": "에", "type": "JKB", "position": 286, "weight": 0.153364}, 
+                {"id": 36, "lemma": "넣", "type": "VV", "position": 290, "weight": 0.44529}, 
+                {"id": 37, "lemma": "어", "type": "EC", "position": 293, "weight": 0.41831}, 
+                {"id": 38, "lemma": "가지", "type": "VV", "position": 297, "weight": 0.116804}, 
+                {"id": 39, "lemma": "고", "type": "EC", "position": 303, "weight": 0.416679}, 
+                {"id": 40, "lemma": "오", "type": "VV", "position": 307, "weight": 0.115798}, 
+                {"id": 41, "lemma": "아서", "type": "EC", "position": 307, "weight": 0.428178}, 
+                {"id": 42, "lemma": "심", "type": "VV", "position": 314, "weight": 0.170852}, 
+                {"id": 43, "lemma": "어", "type": "EC", "position": 317, "weight": 0.41831}, 
+                {"id": 44, "lemma": "우리", "type": "NNG", "position": 321, "weight": 0.0007654}, 
+                {"id": 45, "lemma": "나라", "type": "NNG", "position": 327, "weight": 0.184431}, 
+                {"id": 46, "lemma": "에", "type": "JKB", "position": 333, "weight": 0.153364}, 
+                {"id": 47, "lemma": "처음", "type": "NNG", "position": 337, "weight": 0.9}, 
+                {"id": 48, "lemma": "으로", "type": "JKB", "position": 343, "weight": 0.153406}, 
+                {"id": 49, "lemma": "목화", "type": "NNG", "position": 350, "weight": 0.195652}, 
+                {"id": 50, "lemma": "를", "type": "JKO", "position": 356, "weight": 0.137686}, 
+                {"id": 51, "lemma": "번식", "type": "NNG", "position": 360, "weight": 0.9}, 
+                {"id": 52, "lemma": "시키", "type": "XSV", "position": 366, "weight": 0.00340357}, 
+                {"id": 53, "lemma": "었", "type": "EP", "position": 369, "weight": 0.9}, 
+                {"id": 54, "lemma": "다", "type": "EF", "position": 372, "weight": 0.640954}, 
+                {"id": 55, "lemma": ".", "type": "SF", "position": 375, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "사신", "type": "NNG", "scode": "120000", "weight": 0.0588235, "position": 119, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 125, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "중국", "type": "NNP", "scode": "010000", "weight": 0.5, "position": 132, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "원나라", "type": "NNP", "scode": "000000", "weight": 1, "position": 139, "begin": 3, "end": 4}, 
+                {"id": 4, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 148, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "들어가", "type": "VV", "scode": "010101", "weight": 0.0714286, "position": 152, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 158, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "덕흥군", "type": "NNP", "scode": "000000", "weight": 0, "position": 162, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 171, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "德興君", "type": "SH", "scode": "000000", "weight": 1, "position": 172, "begin": 10, "end": 10}, 
+                {"id": 10, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 181, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 182, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "왕", "type": "NNG", "scode": "040001", "weight": 0.0833333, "position": 186, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 189, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "내세우", "type": "VV", "scode": "000102", "weight": 0.2, "position": 196, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 205, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "일", "type": "NNG", "scode": "010010", "weight": 0.04, "position": 209, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 212, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "가담하", "type": "VV", "scode": "000000", "weight": 1, "position": 216, "begin": 19, "end": 20}, 
+                {"id": 19, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 225, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "으나", "type": "EC", "scode": "000000", "weight": 1, "position": 228, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "실패하", "type": "VV", "scode": "010002", "weight": 0.333333, "position": 235, "begin": 23, "end": 24}, 
+                {"id": 22, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 244, "begin": 25, "end": 25}, 
+                {"id": 23, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 247, "begin": 26, "end": 26}, 
+                {"id": 24, "text": "돌아오", "type": "VV", "scode": "000101", "weight": 0.125, "position": 249, "begin": 27, "end": 27}, 
+                {"id": 25, "text": "ㄹ", "type": "ETM", "scode": "000000", "weight": 1, "position": 255, "begin": 28, "end": 28}, 
+                {"id": 26, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 259, "begin": 29, "end": 29}, 
+                {"id": 27, "text": "목화씨", "type": "NNG", "scode": "000000", "weight": 1, "position": 263, "begin": 30, "end": 31}, 
+                {"id": 28, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 272, "begin": 32, "end": 32}, 
+                {"id": 29, "text": "붓대", "type": "NNG", "scode": "000000", "weight": 1, "position": 276, "begin": 33, "end": 33}, 
+                {"id": 30, "text": "속", "type": "NNG", "scode": "010002", "weight": 0.0416667, "position": 283, "begin": 34, "end": 34}, 
+                {"id": 31, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 286, "begin": 35, "end": 35}, 
+                {"id": 32, "text": "넣", "type": "VV", "scode": "000101", "weight": 0.0833333, "position": 290, "begin": 36, "end": 36}, 
+                {"id": 33, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 293, "begin": 37, "end": 37}, 
+                {"id": 34, "text": "가지", "type": "VV", "scode": "000101", "weight": 0.0909091, "position": 297, "begin": 38, "end": 38}, 
+                {"id": 35, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 303, "begin": 39, "end": 39}, 
+                {"id": 36, "text": "오", "type": "VV", "scode": "010101", "weight": 0.0384615, "position": 307, "begin": 40, "end": 40}, 
+                {"id": 37, "text": "아서", "type": "EC", "scode": "000000", "weight": 1, "position": 307, "begin": 41, "end": 41}, 
+                {"id": 38, "text": "심", "type": "VV", "scode": "010001", "weight": 0.142857, "position": 314, "begin": 42, "end": 42}, 
+                {"id": 39, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 317, "begin": 43, "end": 43}, 
+                {"id": 40, "text": "우리나라", "type": "NNG", "scode": "000000", "weight": 1, "position": 321, "begin": 44, "end": 45}, 
+                {"id": 41, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 333, "begin": 46, "end": 46}, 
+                {"id": 42, "text": "처음", "type": "NNG", "scode": "000000", "weight": 1, "position": 337, "begin": 47, "end": 47}, 
+                {"id": 43, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 343, "begin": 48, "end": 48}, 
+                {"id": 44, "text": "목화", "type": "NNG", "scode": "020002", "weight": 0.2, "position": 350, "begin": 49, "end": 49}, 
+                {"id": 45, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 356, "begin": 50, "end": 50}, 
+                {"id": 46, "text": "번식", "type": "NNG", "scode": "000000", "weight": 1, "position": 360, "begin": 51, "end": 51}, 
+                {"id": 47, "text": "시키", "type": "XSV", "scode": "000000", "weight": 0, "position": 366, "begin": 52, "end": 52}, 
+                {"id": 48, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 369, "begin": 53, "end": 53}, 
+                {"id": 49, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 372, "begin": 54, "end": 54}, 
+                {"id": 50, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 375, "begin": 55, "end": 55}
+            ], 
+            "word": [
+                {"id": 0, "text": "사신으로", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "중국", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "원나라에", "type": "", "begin": 3, "end": 5}, 
+                {"id": 3, "text": "들어가", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "덕흥군(德興君)을", "type": "", "begin": 8, "end": 12}, 
+                {"id": 5, "text": "왕으로", "type": "", "begin": 13, "end": 14}, 
+                {"id": 6, "text": "내세우는", "type": "", "begin": 15, "end": 16}, 
+                {"id": 7, "text": "일에", "type": "", "begin": 17, "end": 18}, 
+                {"id": 8, "text": "가담하였으나", "type": "", "begin": 19, "end": 22}, 
+                {"id": 9, "text": "실패하고,", "type": "", "begin": 23, "end": 26}, 
+                {"id": 10, "text": "돌아올", "type": "", "begin": 27, "end": 28}, 
+                {"id": 11, "text": "때", "type": "", "begin": 29, "end": 29}, 
+                {"id": 12, "text": "목화씨를", "type": "", "begin": 30, "end": 32}, 
+                {"id": 13, "text": "붓대", "type": "", "begin": 33, "end": 33}, 
+                {"id": 14, "text": "속에", "type": "", "begin": 34, "end": 35}, 
+                {"id": 15, "text": "넣어", "type": "", "begin": 36, "end": 37}, 
+                {"id": 16, "text": "가지고", "type": "", "begin": 38, "end": 39}, 
+                {"id": 17, "text": "와서", "type": "", "begin": 40, "end": 41}, 
+                {"id": 18, "text": "심어", "type": "", "begin": 42, "end": 43}, 
+                {"id": 19, "text": "우리나라에", "type": "", "begin": 44, "end": 46}, 
+                {"id": 20, "text": "처음으로", "type": "", "begin": 47, "end": 48}, 
+                {"id": 21, "text": "목화를", "type": "", "begin": 49, "end": 50}, 
+                {"id": 22, "text": "번식시켰다.", "type": "", "begin": 51, "end": 55}
+            ], 
+            "NE": [
+                {"id": 0, "text": "사신", "type": "CV_POSITION", "begin": 0, "end": 0, "weight": 0.292923, "common_noun": 0}, 
+                {"id": 1, "text": "중국", "type": "LCP_COUNTRY", "begin": 2, "end": 2, "weight": 0.714046, "common_noun": 0}, 
+                {"id": 2, "text": "원나라", "type": "LCP_COUNTRY", "begin": 3, "end": 4, "weight": 0.623695, "common_noun": 0}, 
+                {"id": 3, "text": "덕흥군", "type": "PS_NAME", "begin": 8, "end": 8, "weight": 0.355941, "common_noun": 0}, 
+                {"id": 4, "text": "德興君", "type": "PS_NAME", "begin": 10, "end": 10, "weight": 1, "common_noun": 0}, 
+                {"id": 5, "text": "왕", "type": "CV_POSITION", "begin": 13, "end": 13, "weight": 0.557846, "common_noun": 0}, 
+                {"id": 6, "text": "목화씨", "type": "PT_PART", "begin": 30, "end": 31, "weight": 0.370941, "common_noun": 0}, 
+                {"id": 7, "text": "목화", "type": "PT_GRASS", "begin": 49, "end": 49, "weight": 0.445421, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "사신으로", "head": 3, "label": "NP_AJT", "mod": [], "weight": 0.431715}, 
+                {"id": 1, "text": "중국", "head": 2, "label": "NP", "mod": [], "weight": 0.592065}, 
+                {"id": 2, "text": "원나라에", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.811427}, 
+                {"id": 3, "text": "들어가", "head": 8, "label": "VP", "mod": [0, 2], "weight": 0.318764}, 
+                {"id": 4, "text": "덕흥군(德興君)을", "head": 6, "label": "NP_OBJ", "mod": [], "weight": 0.677776}, 
+                {"id": 5, "text": "왕으로", "head": 6, "label": "NP_AJT", "mod": [], "weight": 0.78962}, 
+                {"id": 6, "text": "내세우는", "head": 7, "label": "VP_MOD", "mod": [4, 5], "weight": 0.793119}, 
+                {"id": 7, "text": "일에", "head": 8, "label": "NP_AJT", "mod": [6], "weight": 0.712782}, 
+                {"id": 8, "text": "가담하였으나", "head": 9, "label": "VP", "mod": [7, 3], "weight": 0.609471}, 
+                {"id": 9, "text": "실패하고,", "head": 10, "label": "VP", "mod": [8], "weight": 0.0753038}, 
+                {"id": 10, "text": "돌아올", "head": 11, "label": "VP_MOD", "mod": [9], "weight": 0.678459}, 
+                {"id": 11, "text": "때", "head": 15, "label": "NP_AJT", "mod": [10], "weight": 0.673794}, 
+                {"id": 12, "text": "목화씨를", "head": 15, "label": "NP_OBJ", "mod": [], "weight": 0.746911}, 
+                {"id": 13, "text": "붓대", "head": 14, "label": "NP", "mod": [], "weight": 0.68589}, 
+                {"id": 14, "text": "속에", "head": 15, "label": "NP_AJT", "mod": [13], "weight": 0.705923}, 
+                {"id": 15, "text": "넣어", "head": 16, "label": "VP", "mod": [11, 12, 14], "weight": 0.854483}, 
+                {"id": 16, "text": "가지고", "head": 17, "label": "VP", "mod": [15], "weight": 0.883295}, 
+                {"id": 17, "text": "와서", "head": 18, "label": "VP", "mod": [16], "weight": 0.45919}, 
+                {"id": 18, "text": "심어", "head": 22, "label": "VP", "mod": [17], "weight": 0.78903}, 
+                {"id": 19, "text": "우리나라에", "head": 22, "label": "NP_AJT", "mod": [], "weight": 0.821904}, 
+                {"id": 20, "text": "처음으로", "head": 22, "label": "NP_AJT", "mod": [], "weight": 0.791289}, 
+                {"id": 21, "text": "목화를", "head": 22, "label": "NP_OBJ", "mod": [], "weight": 0.819119}, 
+                {"id": 22, "text": "번식시켰다.", "head": -1, "label": "VP", "mod": [18, 19, 20, 21], "weight": 1.85358e-05}
+            ], 
+            "SRL": [
+                {"verb": "들어가", "sense": 2, "word_id": 3, "weight": 0.12469, "argument": [
+                    {"type": "ARGM-CND", "word_id": 0, "text": "사신으로", "weight": 1}, 
+                    {"type": "ARG2", "word_id": 2, "text": "원나라에", "weight": 0.167634}
+                ]}, 
+                {"verb": "내세우", "sense": 1, "word_id": 6, "weight": 0.149467, "argument": [
+                    {"type": "ARG1", "word_id": 4, "text": "덕흥군(德興君)을", "weight": 0.225603}, 
+                    {"type": "ARGM-CND", "word_id": 5, "text": "왕으로", "weight": 1}
+                ]}, 
+                {"verb": "가담", "sense": 1, "word_id": 8, "weight": 0.225786, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "일에", "weight": 0.225786}
+                ]}, 
+                {"verb": "넣", "sense": 1, "word_id": 15, "weight": 0.330526, "argument": [
+                    {"type": "ARG1", "word_id": 12, "text": "목화씨를", "weight": 0.414044}, 
+                    {"type": "ARG2", "word_id": 14, "text": "속에", "weight": 0.247007}, 
+                    {"type": "ARGM-TMP", "word_id": 11, "text": "때", "weight": 1}
+                ]}, 
+                {"verb": "가지", "sense": 1, "word_id": 16, "weight": 0.179384, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 15, "text": "넣어", "weight": 0.179384}
+                ]}, 
+                {"verb": "오", "sense": 1, "word_id": 17, "weight": 0.0682988, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 16, "text": "가지고", "weight": 0.0682988}
+                ]}, 
+                {"verb": "심", "sense": 1, "word_id": 18, "weight": 0, "argument": [
+                    {"type": "ARG1", "word_id": 12, "text": "목화씨를", "weight": 1}
+                ]}, 
+                {"verb": "번식", "sense": 1, "word_id": 22, "weight": 0.139575, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 18, "text": "심어", "weight": 1}, 
+                    {"type": "ARGM-PRD", "word_id": 20, "text": "처음으로", "weight": 0.110427}, 
+                    {"type": "ARG1", "word_id": 21, "text": "목화를", "weight": 0.188868}, 
+                    {"type": "ARGM-LOC", "word_id": 19, "text": "우리나라에", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 0, "text": "고려 말기의", "start_eid_short": 1, "end_eid_short": 2, "text_short": "고려 말기의"}
+        ]}, 
+        {"id": 1, "type": "DT_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": 1, "text": "고려 말기의 문신(1329~1398).", "start_eid_short": 3, "end_eid_short": 3, "text_short": "문신(1329~1398)."}, 
+            {"id": 3, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "익첨(益瞻).", "start_eid_short": 1, "end_eid_short": 0, "text_short": ""}, 
+            {"id": 5, "sent_id": 2, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "일신(日新).", "start_eid_short": 1, "end_eid_short": 0, "text_short": ""}, 
+            {"id": 7, "sent_id": 3, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "삼우당(三憂堂).", "start_eid_short": 1, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "초명은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "초명은"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 2, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "자는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "자는"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 3, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "호는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "호는"}
+        ]}, 
+        {"id": 5, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 9, "sent_id": 4, "start_eid": 1, "end_eid": 2, "ne_id": 2, "text": "중국 원나라에", "start_eid_short": 1, "end_eid_short": 2, "text_short": "중국 원나라에"}
+        ]}, 
+        {"id": 6, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 10, "sent_id": 4, "start_eid": 1, "end_eid": 1, "ne_id": 1, "text": "중국", "start_eid_short": 1, "end_eid_short": 1, "text_short": "중국"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 4, "start_eid": 4, "end_eid": 11, "ne_id": -1, "text": "덕흥군(德興君)을 왕으로 내세우는 일에 가담하였으나 실패하고, 돌아올 때", "start_eid_short": 11, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 4, "start_eid": 4, "end_eid": 7, "ne_id": -1, "text": "덕흥군(德興君)을 왕으로 내세우는 일에", "start_eid_short": 7, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 9, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 13, "sent_id": 4, "start_eid": 4, "end_eid": 4, "ne_id": 3, "text": "덕흥군(德興君)을", "start_eid_short": 4, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 10, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 14, "sent_id": 4, "start_eid": 5, "end_eid": 5, "ne_id": 5, "text": "왕으로", "start_eid_short": 5, "end_eid_short": 5, "text_short": "왕으로"}
+        ]}, 
+        {"id": 11, "type": "PT_GRASS", "number": "singular", "gender": "", "person": "", "animacy": "plant", "mention": [
+            {"id": 15, "sent_id": 4, "start_eid": 12, "end_eid": 12, "ne_id": 6, "text": "목화씨를", "start_eid_short": 12, "end_eid_short": 12, "text_short": "목화씨를"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 4, "start_eid": 13, "end_eid": 14, "ne_id": -1, "text": "붓대 속에", "start_eid_short": 13, "end_eid_short": 14, "text_short": "붓대 속에"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 4, "start_eid": 13, "end_eid": 13, "ne_id": -1, "text": "붓대", "start_eid_short": 13, "end_eid_short": 13, "text_short": "붓대"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 4, "start_eid": 19, "end_eid": 19, "ne_id": -1, "text": "우리나라에", "start_eid_short": 19, "end_eid_short": 19, "text_short": "우리나라에"}
+        ]}, 
+        {"id": 15, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 4, "start_eid": 20, "end_eid": 20, "ne_id": -1, "text": "처음으로", "start_eid_short": 20, "end_eid_short": 20, "text_short": "처음으로"}
+        ]}, 
+        {"id": 16, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 8, "sent_id": 4, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "사신으로", "start_eid_short": 0, "end_eid_short": 0, "text_short": "사신으로"}
+        ]}, 
+        {"id": 17, "type": "PT_GRASS", "number": "singular", "gender": "", "person": "", "animacy": "plant", "mention": [
+            {"id": 20, "sent_id": 4, "start_eid": 21, "end_eid": 21, "ne_id": 7, "text": "목화를", "start_eid_short": 21, "end_eid_short": 21, "text_short": "목화를"}
+        ]}
+    ]
+}

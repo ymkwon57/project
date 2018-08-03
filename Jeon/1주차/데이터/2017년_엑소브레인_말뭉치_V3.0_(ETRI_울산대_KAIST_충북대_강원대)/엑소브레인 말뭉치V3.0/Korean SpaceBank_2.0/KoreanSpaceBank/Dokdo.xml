@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+독도(Dokdo)는 대한민국 동해에 있는 울릉도에서 가까운 섬이다. 그것은 두개의 작은 섬 동도와 서도로 구성된다. 섬은 리앙쿠르 바위(Liancourt Rocks)로도 알려져 있는데 그 이름은 프랑스 포경선에의해 1849년에 명명되었고 일본인들에게는 다케시마로 알려져있다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="3" text="독도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="12" end="16" text="대한민국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="17" end="19" text="동해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="24" end="27" text="울릉도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="34" end="35" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="50" end="51" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="작은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="52" end="54" text="동도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="56" end="58" text="서도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="66" end="67" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="69" end="76" text="리앙쿠르 바위" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="142" end="146" text="다케시마" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="19" end="20" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me1" start="30" end="32" text="가까" value="NEAR" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="38" text="독도(Dokdo)는 대한민국 동해에 있는 울릉도에서 가까운 섬이다." comment="" />
+<SENTENCE id="sent1" start="39" end="65" text="그것은 두개의 작은 섬 동도와 서도로 구성된다." comment="" />
+<SENTENCE id="sent2" start="66" end="155" text="섬은 리앙쿠르 바위(Liancourt Rocks)로도 알려져 있는데 그 이름은 프랑스 포경선에의해 1849년에 명명되었고 일본인들에게는 다케시마로 알려져있다. " comment="" />
+<QSLINK id="qsl1" fromID="pl4" fromText="섬" toID="pl2" toText="동해" relType="NTPP" trajector="pl4" landmark="pl2" trigger="s0" comment="" />
+<QSLINK id="qsl2" fromID="pl0" fromText="독도" toID="pl2" toText="동해" relType="NTPP" trajector="pl0" landmark="pl2" trigger="s0" comment="" />
+<MEASURELINK id="ml0" fromID="pl4" fromText="섬" toID="pl3" toText="울릉도" trajector="pl4" landmark="pl3" relType="DISTANCE" val="me1" endPoint1="pl4" endPoint2="pl3" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

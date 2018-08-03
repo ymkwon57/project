@@ -1,0 +1,199 @@
+{
+    "doc_id": "E2016.788.11_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "영일만", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<지명> 경상북도 동해안 남부와 영일 반도 사이에 있는 만.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "지명", "type": "NNG", "position": 1, "weight": 0.164578}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "경상북도", "type": "NNP", "position": 9, "weight": 0.9}, 
+                {"id": 4, "lemma": "동해", "type": "NNP", "position": 22, "weight": 0.0730623}, 
+                {"id": 5, "lemma": "안", "type": "XSN", "position": 28, "weight": 0}, 
+                {"id": 6, "lemma": "남부", "type": "NNG", "position": 32, "weight": 0.9}, 
+                {"id": 7, "lemma": "와", "type": "JKB", "position": 38, "weight": 0.0567862}, 
+                {"id": 8, "lemma": "영일", "type": "NNP", "position": 42, "weight": 0.0104636}, 
+                {"id": 9, "lemma": "반도", "type": "NNG", "position": 49, "weight": 0.27481}, 
+                {"id": 10, "lemma": "사이", "type": "NNG", "position": 56, "weight": 0.184827}, 
+                {"id": 11, "lemma": "에", "type": "JKB", "position": 62, "weight": 0.153364}, 
+                {"id": 12, "lemma": "있", "type": "VA", "position": 66, "weight": 0.037292}, 
+                {"id": 13, "lemma": "는", "type": "ETM", "position": 69, "weight": 0.26168}, 
+                {"id": 14, "lemma": "만", "type": "NNG", "position": 73, "weight": 0.00620548}, 
+                {"id": 15, "lemma": ".", "type": "SF", "position": 76, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "지명", "type": "NNG", "scode": "010000", "weight": 0.0909091, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "경상북도", "type": "NNP", "scode": "000000", "weight": 1, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "동해안", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 22, "begin": 4, "end": 5}, 
+                {"id": 5, "text": "남부", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 32, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "와", "type": "JKB", "scode": "000000", "weight": 1, "position": 38, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "영일", "type": "NNP", "scode": "000000", "weight": 0.142857, "position": 42, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "반도", "type": "NNG", "scode": "020000", "weight": 0.111111, "position": 49, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "사이", "type": "NNG", "scode": "010001", "weight": 0.0833333, "position": 56, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 62, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "있", "type": "VA", "scode": "010301", "weight": 0.0416667, "position": 66, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 69, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "만", "type": "NNG", "scode": "110000", "weight": 0.0416667, "position": 73, "begin": 14, "end": 14}, 
+                {"id": 14, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 76, "begin": 15, "end": 15}
+            ], 
+            "word": [
+                {"id": 0, "text": "<지명>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "경상북도", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "동해안", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "남부와", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "영일", "type": "", "begin": 8, "end": 8}, 
+                {"id": 5, "text": "반도", "type": "", "begin": 9, "end": 9}, 
+                {"id": 6, "text": "사이에", "type": "", "begin": 10, "end": 11}, 
+                {"id": 7, "text": "있는", "type": "", "begin": 12, "end": 13}, 
+                {"id": 8, "text": "만.", "type": "", "begin": 14, "end": 15}
+            ], 
+            "NE": [
+                {"id": 0, "text": "경상북도", "type": "LCP_PROVINCE", "begin": 3, "end": 3, "weight": 0.930816, "common_noun": 0}, 
+                {"id": 1, "text": "동해안", "type": "LC_OTHERS", "begin": 4, "end": 5, "weight": 0.900024, "common_noun": 0}, 
+                {"id": 2, "text": "남부", "type": "TM_DIRECTION", "begin": 6, "end": 6, "weight": 0.243024, "common_noun": 0}, 
+                {"id": 3, "text": "영일 반도", "type": "LCG_BAY", "begin": 8, "end": 9, "weight": 0.642243, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<지명>", "head": 8, "label": "NP", "mod": [], "weight": 0.891704}, 
+                {"id": 1, "text": "경상북도", "head": 2, "label": "NP", "mod": [], "weight": 0.546675}, 
+                {"id": 2, "text": "동해안", "head": 3, "label": "NP", "mod": [1], "weight": 0.834434}, 
+                {"id": 3, "text": "남부와", "head": 5, "label": "NP_CNJ", "mod": [2], "weight": 0.459035}, 
+                {"id": 4, "text": "영일", "head": 5, "label": "NP", "mod": [], "weight": 0.721533}, 
+                {"id": 5, "text": "반도", "head": 6, "label": "NP", "mod": [3, 4], "weight": 0.779432}, 
+                {"id": 6, "text": "사이에", "head": 7, "label": "NP_AJT", "mod": [5], "weight": 0.812923}, 
+                {"id": 7, "text": "있는", "head": 8, "label": "VP_MOD", "mod": [6], "weight": 0.866209}, 
+                {"id": 8, "text": "만.", "head": -1, "label": "NP", "mod": [0, 7], "weight": 0.0576294}
+            ], 
+            "SRL": [
+                {"verb": "있", "sense": 1, "word_id": 7, "weight": 0.177666, "argument": [
+                    {"type": "ARG2", "word_id": 6, "text": "사이에", "weight": 0.201246}, 
+                    {"type": "ARG1", "word_id": 8, "text": "만.", "weight": 0.154086}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "포항시를 안고 있으며 포항 제철 공업 지대가 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "포항시", "type": "NNP", "position": 77, "weight": 0.9}, 
+                {"id": 1, "lemma": "를", "type": "JKO", "position": 86, "weight": 0.0283046}, 
+                {"id": 2, "lemma": "안", "type": "VV", "position": 90, "weight": 0.0473862}, 
+                {"id": 3, "lemma": "고", "type": "EC", "position": 93, "weight": 0.416679}, 
+                {"id": 4, "lemma": "있", "type": "VX", "position": 97, "weight": 0.125953}, 
+                {"id": 5, "lemma": "으며", "type": "EC", "position": 100, "weight": 0.265281}, 
+                {"id": 6, "lemma": "포항", "type": "NNP", "position": 107, "weight": 0.9}, 
+                {"id": 7, "lemma": "제철", "type": "NNG", "position": 114, "weight": 0.280959}, 
+                {"id": 8, "lemma": "공업", "type": "NNG", "position": 121, "weight": 0.9}, 
+                {"id": 9, "lemma": "지대", "type": "NNG", "position": 128, "weight": 0.9}, 
+                {"id": 10, "lemma": "가", "type": "JKS", "position": 134, "weight": 0.066324}, 
+                {"id": 11, "lemma": "있", "type": "VA", "position": 138, "weight": 0.12767}, 
+                {"id": 12, "lemma": "다", "type": "EF", "position": 141, "weight": 0.132573}, 
+                {"id": 13, "lemma": ".", "type": "SF", "position": 144, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "포항시", "type": "NNP", "scode": "000000", "weight": 0, "position": 77, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 86, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "안", "type": "VV", "scode": "010101", "weight": 0.1, "position": 90, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 93, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 97, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "으며", "type": "EC", "scode": "000000", "weight": 1, "position": 100, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "포항", "type": "NNP", "scode": "030000", "weight": 0.333333, "position": 107, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "제철", "type": "NNG", "scode": "020000", "weight": 0.333333, "position": 114, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "공업", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 121, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "지대", "type": "NNG", "scode": "070000", "weight": 0.0833333, "position": 128, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 134, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "있", "type": "VA", "scode": "010301", "weight": 0.0416667, "position": 138, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 141, "begin": 12, "end": 12}, 
+                {"id": 13, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 144, "begin": 13, "end": 13}
+            ], 
+            "word": [
+                {"id": 0, "text": "포항시를", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "안고", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "있으며", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "포항", "type": "", "begin": 6, "end": 6}, 
+                {"id": 4, "text": "제철", "type": "", "begin": 7, "end": 7}, 
+                {"id": 5, "text": "공업", "type": "", "begin": 8, "end": 8}, 
+                {"id": 6, "text": "지대가", "type": "", "begin": 9, "end": 10}, 
+                {"id": 7, "text": "있다.", "type": "", "begin": 11, "end": 13}
+            ], 
+            "NE": [
+                {"id": 0, "text": "포항시", "type": "LCP_CITY", "begin": 0, "end": 0, "weight": 0.147793, "common_noun": 0}, 
+                {"id": 1, "text": "포항 제철", "type": "OGG_ECONOMY", "begin": 6, "end": 7, "weight": 0.417006, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "포항시를", "head": 1, "label": "NP_OBJ", "mod": [], "weight": 0.772393}, 
+                {"id": 1, "text": "안고", "head": 2, "label": "VP", "mod": [0], "weight": 0.891723}, 
+                {"id": 2, "text": "있으며", "head": 7, "label": "VP", "mod": [1], "weight": 0.763967}, 
+                {"id": 3, "text": "포항", "head": 4, "label": "NP", "mod": [], "weight": 0.852567}, 
+                {"id": 4, "text": "제철", "head": 5, "label": "NP", "mod": [3], "weight": 0.614055}, 
+                {"id": 5, "text": "공업", "head": 6, "label": "NP", "mod": [4], "weight": 0.679336}, 
+                {"id": 6, "text": "지대가", "head": 7, "label": "NP_SBJ", "mod": [5], "weight": 0.737797}, 
+                {"id": 7, "text": "있다.", "head": -1, "label": "VP", "mod": [2, 6], "weight": 0.100411}
+            ], 
+            "SRL": [
+                {"verb": "안", "sense": 1, "word_id": 1, "weight": 0.209402, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "포항시를", "weight": 0.126596}, 
+                    {"type": "AUX", "word_id": 2, "text": "있으며", "weight": 0.292208}
+                ]}, 
+                {"verb": "있", "sense": 1, "word_id": 7, "weight": 0.238691, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "지대가", "weight": 0.238691}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": 1, "text": "동해안", "start_eid_short": 2, "end_eid_short": 2, "text_short": "동해안"}
+        ]}, 
+        {"id": 1, "type": "LCP_PROVINCE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "경상북도", "start_eid_short": 1, "end_eid_short": 1, "text_short": "경상북도"}
+        ]}, 
+        {"id": 2, "type": "TM_DIRECTION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": 2, "text": "경상북도 동해안 남부와", "start_eid_short": 1, "end_eid_short": 3, "text_short": "경상북도 동해안 남부와"}
+        ]}, 
+        {"id": 3, "type": "LCG_BAY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 4, "end_eid": 5, "ne_id": 3, "text": "영일 반도", "start_eid_short": 4, "end_eid_short": 5, "text_short": "영일 반도"}
+        ]}, 
+        {"id": 4, "type": "LCP_CITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "포항시를", "start_eid_short": 0, "end_eid_short": 0, "text_short": "포항시를"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "공업", "start_eid_short": 5, "end_eid_short": 5, "text_short": "공업"}
+        ]}, 
+        {"id": 6, "type": "OGG_ECONOMY", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 3, "end_eid": 4, "ne_id": 1, "text": "포항 제철", "start_eid_short": 3, "end_eid_short": 4, "text_short": "포항 제철"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 3, "end_eid": 6, "ne_id": -1, "text": "포항 제철 공업 지대가", "start_eid_short": 3, "end_eid_short": 6, "text_short": "포항 제철 공업 지대가"}
+        ]}, 
+        {"id": 8, "type": "LCG_BAY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 5, "ne_id": 3, "text": "경상북도 동해안 남부와 영일 반도", "start_eid_short": 4, "end_eid_short": 5, "text_short": "영일 반도"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 1, "end_eid": 8, "ne_id": -1, "text": "경상북도 동해안 남부와 영일 반도 사이에 있는 만.", "start_eid_short": 8, "end_eid_short": 8, "text_short": "만."}
+        ]}
+    ]
+}

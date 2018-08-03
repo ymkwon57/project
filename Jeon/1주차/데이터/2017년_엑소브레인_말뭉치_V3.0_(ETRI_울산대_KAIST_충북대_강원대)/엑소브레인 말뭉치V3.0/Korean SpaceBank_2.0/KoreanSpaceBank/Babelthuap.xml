@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+바벨투아프[Babelthuap, Palau, Baberudaobu, Arrecifos] 또는 필라우 섬은 캐롤라인 제도뿐만 아니라 팔라우 공화국(1981년 국내 자치 시작) 전체에서도 가장 큰 섬이다. 필리핀 제도에서 동쪽으로 885㎞ 떨어진 서태평양에 있다. 주민은 주로 팔라우 제도의 바벨투아프섬, 코로르섬, 말라칼섬, 펠렐리우섬, 아라카베산섬 등에 거주하며 가장 큰 섬은 바벨투아프섬이다.
+팔라우 제도중 가장 큰 바벨투아프 섬은 면적 370㎢, 최고 해발고도 217m이며 수도 콜로르는 바벨투아프섬 남쪽 680m 지점에 있다. 이 제도의 주요 항구와 라디오 방송국, 텔레비전 방송국 등은 코로르 섬에 있고, 국제공항은 바벨투아프 섬에 있다. 코로르 섬에 병원이 있으며, 진료소에서 치료를 받을 수 있다.
+아라카베산· 말라칼 섬은 화산섬이며, 바벨투아프·코로르 섬에는 높은 석회암 지대와 화산암 지대가 있다
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="6" text="바벨투아프" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="53" end="58" text="필라우 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="60" end="67" text="캐롤라인 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="109" end="110" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="큰" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="114" end="120" text="필리핀 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="154" end="160" text="팔라우 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="162" end="168" text="바벨투아프섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="170" end="174" text="코로르섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="176" end="180" text="말라칼섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="182" end="187" text="펠렐리우섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="189" end="195" text="아라카베산섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="209" end="210" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="큰" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="212" end="218" text="바벨투아프섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="222" end="228" text="팔라우 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="235" end="242" text="바벨투아프 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me2" mod="큰" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="268" end="270" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="271" end="274" text="콜로르" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="276" end="282" text="바벨투아프섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="291" end="293" text="지점" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="301" end="303" text="제도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="333" end="338" text="코로르 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="350" end="357" text="바벨투아프 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="363" end="368" text="코로르 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="398" end="403" text="아라카베산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="405" end="410" text="말라칼 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="412" end="415" text="화산섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="419" end="424" text="바벨투아프" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="425" end="430" text="코로르 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="114" />
+<PLACE id="pl3" start="74" end="81" text="팔라우 공화국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="137" end="141" text="서태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="147" end="149" text="주민" type="PERSON" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="344" end="348" text="국제공항" type="ARTIFACT" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="370" end="372" text="병원" type="ARTIFACT" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="312" end="319" text="라디오 방송국" type="ARTIFACT" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="321" end="329" text="텔레비전 방송국" type="ARTIFACT" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="308" end="310" text="항구" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se6" start="436" end="442" text="석회암 지대" type="ARTIFACT" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se7" start="444" end="450" text="화산암 지대" type="ARTIFACT" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="123" end="125" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="197" end="198" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="283" end="285" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="293" end="294" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="338" end="339" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="357" end="358" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="368" end="369" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="430" end="431" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="133" end="136" text="떨어진" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="141" end="142" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="160" end="161" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me0" start="128" end="132" text="885㎞" value="885" unit="km" comment="" />
+<MEASURE id="me1" start="247" end="251" text="370㎢" value="370" unit="km2" comment="" />
+<MEASURE id="me2" start="261" end="265" text="217m" value="217" unit="m" comment="" />
+<MEASURE id="me3" start="286" end="290" text="680m" value="680" unit="m" comment="" />
+<SENTENCE id="sent0" start="1" end="113" text="바벨투아프[Babelthuap, Palau, Baberudaobu, Arrecifos] 또는 필라우 섬은 캐롤라인 제도뿐만 아니라 팔라우 공화국(1981년 국내 자치 시작) 전체에서도 가장 큰 섬이다." comment="" />
+<SENTENCE id="sent1" start="114" end="146" text="필리핀 제도에서 동쪽으로 885㎞ 떨어진 서태평양에 있다." comment="" />
+<SENTENCE id="sent2" start="147" end="221" text="주민은 주로 팔라우 제도의 바벨투아프섬, 코로르섬, 말라칼섬, 펠렐리우섬, 아라카베산섬 등에 거주하며 가장 큰 섬은 바벨투아프섬이다." comment="" />
+<SENTENCE id="sent3" start="222" end="298" text="팔라우 제도중 가장 큰 바벨투아프 섬은 면적 370㎢, 최고 해발고도 217m이며 수도 콜로르는 바벨투아프섬 남쪽 680m 지점에 있다." comment="" />
+<SENTENCE id="sent4" start="299" end="362" text="이 제도의 주요 항구와 라디오 방송국, 텔레비전 방송국 등은 코로르 섬에 있고, 국제공항은 바벨투아프 섬에 있다." comment="" />
+<SENTENCE id="sent5" start="363" end="397" text="코로르 섬에 병원이 있으며, 진료소에서 치료를 받을 수 있다." comment="" />
+<SENTENCE id="sent6" start="398" end="454" text="아라카베산· 말라칼 섬은 화산섬이며, 바벨투아프·코로르 섬에는 높은 석회암 지대와 화산암 지대가 있다" comment="" />
+<QSLINK id="qsl11" fromID="pl4" fromText="서태평양" toID="pl7" toText="필리핀 제도" relType="DC" trajector="pl4" landmark="pl7" trigger="s12" comment="" />
+<QSLINK id="qsl13" fromID="pl4" fromText="서태평양" toID="s1" toText="에" relType="NTPP" trajector="pl25" landmark="pl4" trigger="s1" comment="" />
+<QSLINK id="qsl14" fromID="se0" fromText="주민" toID="pl10" toText="바벨투아프섬" relType="NTPP" trajector="se0" landmark="pl10" trigger="s3" comment="" />
+<QSLINK id="qsl15" fromID="se0" fromText="주민" toID="pl11" toText="코로르섬" relType="NTPP" trajector="se0" landmark="pl11" trigger="s3" comment="" />
+<QSLINK id="qsl16" fromID="se0" fromText="주민" toID="pl12" toText="말라칼섬" relType="NTPP" trajector="se0" landmark="pl12" trigger="s3" comment="" />
+<QSLINK id="qsl17" fromID="se0" fromText="주민" toID="pl13" toText="펠렐리우섬" relType="NTPP" trajector="se0" landmark="pl13" trigger="s3" comment="" />
+<QSLINK id="qsl18" fromID="se0" fromText="주민" toID="pl14" toText="아라카베산섬" relType="NTPP" trajector="se0" landmark="pl14" trigger="s3" comment="" />
+<QSLINK id="qsl19" fromID="pl20" fromText="콜로르" toID="pl22" toText="지점" relType="NTPP" trajector="pl20" landmark="pl22" trigger="s5" comment="" />
+<QSLINK id="qsl31" fromID="se5" fromText="항구" toID="pl29" toText="코로르 섬" relType="NTPP" trajector="se5" landmark="pl29" trigger="s7" comment="" />
+<QSLINK id="qsl32" fromID="se1" fromText="라디오 방송국" toID="pl29" toText="코로르 섬" relType="NTPP" trajector="se1" landmark="pl29" trigger="s7" comment="" />
+<QSLINK id="qsl33" fromID="se2" fromText="텔레비전 방송국" toID="pl29" toText="코로르 섬" relType="NTPP" trajector="se2" landmark="pl29" trigger="s7" comment="" />
+<QSLINK id="qsl34" fromID="se3" fromText="국제공항" toID="pl31" toText="바벨투아프 섬" relType="NTPP" trajector="se3" landmark="pl31" trigger="s8" comment="" />
+<QSLINK id="qsl35" fromID="se4" fromText="병원" toID="pl32" toText="코로르 섬" relType="NTPP" trajector="se4" landmark="pl32" trigger="s9" comment="" />
+<QSLINK id="qsl0" fromID="se6" fromText="석회암 지대" toID="pl39" toText="코로르 섬" relType="NTPP" trajector="se6" landmark="pl39" trigger="s11" comment="" />
+<QSLINK id="qsl1" fromID="se7" fromText="화산암 지대" toID="pl39" toText="코로르 섬" relType="NTPP" trajector="se7" landmark="pl39" trigger="s11" comment="" />
+<QSLINK id="qsl2" fromID="pl10" fromText="바벨투아프섬" toID="pl9" toText="팔라우 제도" relType="NTPP" trajector="pl10" landmark="pl9" trigger="s2" comment="" />
+<QSLINK id="qsl7" fromID="pl38" fromText="바벨투아프" toID="se6" toText="석회암 지대" relType="NTPP" trajector="se6" landmark="pl38" trigger="s11" comment="" />
+<QSLINK id="qsl8" fromID="pl38" fromText="바벨투아프" toID="se7" toText="화산암 지대" relType="NTPP" trajector="se7" landmark="pl38" trigger="s11" comment="" />
+<OLINK id="ol0" fromID="pl4" fromText="서태평양" toID="pl7" toText="필리핀 제도" relType="동" trajector="pl4" landmark="pl7" trigger="s0" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl22" fromText="지점" toID="pl21" toText="바벨투아프섬" relType="남" trajector="pl22" landmark="pl21" trigger="s4" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<MEASURELINK id="ml0" fromID="pl18" fromText="바벨투아프 섬" toID="me1" toText="370㎢" trajector="pl18" landmark="pl18" relType="GENERAL_DIMENSION" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml5" fromID="pl4" fromText="서태평양" toID="pl7" toText="필리핀 제도" trajector="pl4" landmark="pl7" relType="DISTANCE" val="me0" endPoint1="pl4" endPoint2="pl7" comment="" />
+<MEASURELINK id="ml6" fromID="me2" fromText="217m" toID="pl18" toText="바벨투아프 섬" trajector="pl18" landmark="pl18" relType="HEIGHT" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml7" fromID="pl22" fromText="지점" toID="pl21" toText="바벨투아프섬" trajector="pl22" landmark="pl21" relType="DISTANCE" val="me3" endPoint1="pl22" endPoint2="pl21" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

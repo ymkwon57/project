@@ -1,0 +1,439 @@
+{
+    "doc_id": "E2016.790.15_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "파킨슨병", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<의학> 사지와 몸이 떨리고 경직되는 중추 신경 계통의 퇴행병.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "의학", "type": "NNG", "position": 1, "weight": 0.9}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "사지", "type": "NNG", "position": 9, "weight": 0.9}, 
+                {"id": 4, "lemma": "와", "type": "JC", "position": 15, "weight": 0.0169714}, 
+                {"id": 5, "lemma": "몸", "type": "NNG", "position": 19, "weight": 0.802846}, 
+                {"id": 6, "lemma": "이", "type": "JKS", "position": 22, "weight": 0.0360723}, 
+                {"id": 7, "lemma": "떨리", "type": "VV", "position": 26, "weight": 0.9}, 
+                {"id": 8, "lemma": "고", "type": "EC", "position": 32, "weight": 0.416679}, 
+                {"id": 9, "lemma": "경직", "type": "NNG", "position": 36, "weight": 0.214072}, 
+                {"id": 10, "lemma": "되", "type": "XSV", "position": 42, "weight": 0.000224177}, 
+                {"id": 11, "lemma": "는", "type": "ETM", "position": 45, "weight": 0.238503}, 
+                {"id": 12, "lemma": "중추", "type": "NNG", "position": 49, "weight": 0.9}, 
+                {"id": 13, "lemma": "신경", "type": "NNG", "position": 56, "weight": 0.184633}, 
+                {"id": 14, "lemma": "계통", "type": "NNG", "position": 63, "weight": 0.9}, 
+                {"id": 15, "lemma": "의", "type": "JKG", "position": 69, "weight": 0.0694213}, 
+                {"id": 16, "lemma": "퇴행병", "type": "NNG", "position": 73, "weight": 0.6}, 
+                {"id": 17, "lemma": ".", "type": "SF", "position": 82, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의학", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "사지", "type": "NNG", "scode": "060000", "weight": 0.0434783, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 15, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "몸", "type": "NNG", "scode": "010001", "weight": 0.125, "position": 19, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 22, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "떨리", "type": "VV", "scode": "010001", "weight": 0.25, "position": 26, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 32, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "경직되", "type": "VV", "scode": "000001", "weight": 0.5, "position": 36, "begin": 9, "end": 10}, 
+                {"id": 10, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 45, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "중추", "type": "NNG", "scode": "010002", "weight": 0.25, "position": 49, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "신경", "type": "NNG", "scode": "040001", "weight": 0.0833333, "position": 56, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "계통", "type": "NNG", "scode": "010001", "weight": 0.125, "position": 63, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 69, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "퇴행병", "type": "NNG", "scode": "000000", "weight": 0, "position": 73, "begin": 16, "end": 16}, 
+                {"id": 16, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 82, "begin": 17, "end": 17}
+            ], 
+            "word": [
+                {"id": 0, "text": "<의학>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "사지와", "type": "", "begin": 3, "end": 4}, 
+                {"id": 2, "text": "몸이", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "떨리고", "type": "", "begin": 7, "end": 8}, 
+                {"id": 4, "text": "경직되는", "type": "", "begin": 9, "end": 11}, 
+                {"id": 5, "text": "중추", "type": "", "begin": 12, "end": 12}, 
+                {"id": 6, "text": "신경", "type": "", "begin": 13, "end": 13}, 
+                {"id": 7, "text": "계통의", "type": "", "begin": 14, "end": 15}, 
+                {"id": 8, "text": "퇴행병.", "type": "", "begin": 16, "end": 17}
+            ], 
+            "NE": [
+                {"id": 0, "text": "의학", "type": "FD_MEDICINE", "begin": 1, "end": 1, "weight": 0.564669, "common_noun": 0}, 
+                {"id": 1, "text": "사지", "type": "AM_PART", "begin": 3, "end": 3, "weight": 0.200473, "common_noun": 0}, 
+                {"id": 2, "text": "몸", "type": "AM_PART", "begin": 5, "end": 5, "weight": 0.381588, "common_noun": 0}, 
+                {"id": 3, "text": "중추 신경 계통", "type": "TM_CELL_TISSUE", "begin": 12, "end": 14, "weight": 0.276824, "common_noun": 0}, 
+                {"id": 4, "text": "퇴행병", "type": "TMM_DISEASE", "begin": 16, "end": 16, "weight": 0.276824, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<의학>", "head": 8, "label": "NP", "mod": [], "weight": 0.852373}, 
+                {"id": 1, "text": "사지와", "head": 2, "label": "NP_CNJ", "mod": [], "weight": 0.111729}, 
+                {"id": 2, "text": "몸이", "head": 3, "label": "NP_SBJ", "mod": [1], "weight": 0.864894}, 
+                {"id": 3, "text": "떨리고", "head": 4, "label": "VP", "mod": [2], "weight": 0.809474}, 
+                {"id": 4, "text": "경직되는", "head": 8, "label": "VP_MOD", "mod": [3], "weight": 0.811184}, 
+                {"id": 5, "text": "중추", "head": 6, "label": "NP", "mod": [], "weight": 0.412866}, 
+                {"id": 6, "text": "신경", "head": 7, "label": "NP", "mod": [5], "weight": 0.777425}, 
+                {"id": 7, "text": "계통의", "head": 8, "label": "NP_MOD", "mod": [6], "weight": 0.799256}, 
+                {"id": 8, "text": "퇴행병.", "head": -1, "label": "NP", "mod": [0, 4, 7], "weight": 0.0100533}
+            ], 
+            "SRL": [
+                {"verb": "떨리", "sense": 1, "word_id": 3, "weight": 0.179199, "argument": [
+                    {"type": "ARG1", "word_id": 2, "text": "몸이", "weight": 0.179199}
+                ]}, 
+                {"verb": "경직", "sense": 1, "word_id": 4, "weight": 0, "argument": [
+                    {"type": "ARG1", "word_id": 2, "text": "몸이", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "머리를 앞으로 내밀고 몸통과 무릎이 굽은 자세와 작은 보폭의 독특한 보행을 보이며 얼굴이 가면 같은 표정으로 바뀐다.", 
+            "morp": [
+                {"id": 0, "lemma": "머리", "type": "NNG", "position": 83, "weight": 0.437773}, 
+                {"id": 1, "lemma": "를", "type": "JKO", "position": 89, "weight": 0.137686}, 
+                {"id": 2, "lemma": "앞", "type": "NNG", "position": 93, "weight": 0.9}, 
+                {"id": 3, "lemma": "으로", "type": "JKB", "position": 96, "weight": 0.153406}, 
+                {"id": 4, "lemma": "내밀", "type": "VV", "position": 103, "weight": 0.445099}, 
+                {"id": 5, "lemma": "고", "type": "EC", "position": 109, "weight": 0.416679}, 
+                {"id": 6, "lemma": "몸통", "type": "NNG", "position": 113, "weight": 0.9}, 
+                {"id": 7, "lemma": "과", "type": "JC", "position": 119, "weight": 0.017569}, 
+                {"id": 8, "lemma": "무릎", "type": "NNG", "position": 123, "weight": 0.9}, 
+                {"id": 9, "lemma": "이", "type": "JKS", "position": 129, "weight": 0.0360723}, 
+                {"id": 10, "lemma": "굽", "type": "VA", "position": 133, "weight": 0.0398302}, 
+                {"id": 11, "lemma": "은", "type": "ETM", "position": 136, "weight": 0.155123}, 
+                {"id": 12, "lemma": "자세", "type": "NNG", "position": 140, "weight": 0.658317}, 
+                {"id": 13, "lemma": "와", "type": "JKB", "position": 146, "weight": 0.0567862}, 
+                {"id": 14, "lemma": "작", "type": "VA", "position": 150, "weight": 0.0688646}, 
+                {"id": 15, "lemma": "은", "type": "ETM", "position": 153, "weight": 0.155123}, 
+                {"id": 16, "lemma": "보폭", "type": "NNG", "position": 157, "weight": 0.9}, 
+                {"id": 17, "lemma": "의", "type": "JKG", "position": 163, "weight": 0.0694213}, 
+                {"id": 18, "lemma": "독특", "type": "NNG", "position": 167, "weight": 0.15}, 
+                {"id": 19, "lemma": "하", "type": "XSA", "position": 173, "weight": 0.0001}, 
+                {"id": 20, "lemma": "ㄴ", "type": "ETM", "position": 173, "weight": 0.488779}, 
+                {"id": 21, "lemma": "보행", "type": "NNG", "position": 177, "weight": 0.9}, 
+                {"id": 22, "lemma": "을", "type": "JKO", "position": 183, "weight": 0.129611}, 
+                {"id": 23, "lemma": "보이", "type": "VV", "position": 187, "weight": 0.776105}, 
+                {"id": 24, "lemma": "며", "type": "EC", "position": 193, "weight": 0.429701}, 
+                {"id": 25, "lemma": "얼굴", "type": "NNG", "position": 197, "weight": 0.9}, 
+                {"id": 26, "lemma": "이", "type": "JKS", "position": 203, "weight": 0.0360723}, 
+                {"id": 27, "lemma": "가면", "type": "NNG", "position": 207, "weight": 0.208197}, 
+                {"id": 28, "lemma": "같", "type": "VA", "position": 214, "weight": 0.00587343}, 
+                {"id": 29, "lemma": "은", "type": "ETM", "position": 217, "weight": 0.155123}, 
+                {"id": 30, "lemma": "표정", "type": "NNG", "position": 221, "weight": 0.9}, 
+                {"id": 31, "lemma": "으로", "type": "JKB", "position": 227, "weight": 0.153406}, 
+                {"id": 32, "lemma": "바뀌", "type": "VV", "position": 234, "weight": 0.9}, 
+                {"id": 33, "lemma": "ㄴ다", "type": "EF", "position": 237, "weight": 0.0793196}, 
+                {"id": 34, "lemma": ".", "type": "SF", "position": 243, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "머리", "type": "NNG", "scode": "010001", "weight": 0.0555556, "position": 83, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 89, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "앞", "type": "NNG", "scode": "000001", "weight": 0.125, "position": 93, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 96, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "내밀", "type": "VV", "scode": "000101", "weight": 0.2, "position": 103, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 109, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "몸통", "type": "NNG", "scode": "000000", "weight": 1, "position": 113, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 119, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "무릎", "type": "NNG", "scode": "000000", "weight": 1, "position": 123, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 129, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "굽", "type": "VA", "scode": "020100", "weight": 0.1, "position": 133, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 136, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "자세", "type": "NNG", "scode": "020001", "weight": 0.25, "position": 140, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "와", "type": "JKB", "scode": "000000", "weight": 1, "position": 146, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "작", "type": "VA", "scode": "010001", "weight": 0.125, "position": 150, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 153, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "보폭", "type": "NNG", "scode": "000000", "weight": 1, "position": 157, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 163, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "독특하", "type": "VA", "scode": "000001", "weight": 0.5, "position": 167, "begin": 18, "end": 19}, 
+                {"id": 19, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 173, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "보행", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 177, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 183, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "보이", "type": "VV", "scode": "010101", "weight": 0.0909091, "position": 187, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "며", "type": "EC", "scode": "000000", "weight": 1, "position": 193, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "얼굴", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 197, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 203, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "가면", "type": "NNG", "scode": "020001", "weight": 0.25, "position": 207, "begin": 27, "end": 27}, 
+                {"id": 27, "text": "같", "type": "VA", "scode": "000201", "weight": 0.125, "position": 214, "begin": 28, "end": 28}, 
+                {"id": 28, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 217, "begin": 29, "end": 29}, 
+                {"id": 29, "text": "표정", "type": "NNG", "scode": "030000", "weight": 0.166667, "position": 221, "begin": 30, "end": 30}, 
+                {"id": 30, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 227, "begin": 31, "end": 31}, 
+                {"id": 31, "text": "바뀌", "type": "VV", "scode": "000101", "weight": 0.166667, "position": 234, "begin": 32, "end": 32}, 
+                {"id": 32, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 237, "begin": 33, "end": 33}, 
+                {"id": 33, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 243, "begin": 34, "end": 34}
+            ], 
+            "word": [
+                {"id": 0, "text": "머리를", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "앞으로", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "내밀고", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "몸통과", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "무릎이", "type": "", "begin": 8, "end": 9}, 
+                {"id": 5, "text": "굽은", "type": "", "begin": 10, "end": 11}, 
+                {"id": 6, "text": "자세와", "type": "", "begin": 12, "end": 13}, 
+                {"id": 7, "text": "작은", "type": "", "begin": 14, "end": 15}, 
+                {"id": 8, "text": "보폭의", "type": "", "begin": 16, "end": 17}, 
+                {"id": 9, "text": "독특한", "type": "", "begin": 18, "end": 20}, 
+                {"id": 10, "text": "보행을", "type": "", "begin": 21, "end": 22}, 
+                {"id": 11, "text": "보이며", "type": "", "begin": 23, "end": 24}, 
+                {"id": 12, "text": "얼굴이", "type": "", "begin": 25, "end": 26}, 
+                {"id": 13, "text": "가면", "type": "", "begin": 27, "end": 27}, 
+                {"id": 14, "text": "같은", "type": "", "begin": 28, "end": 29}, 
+                {"id": 15, "text": "표정으로", "type": "", "begin": 30, "end": 31}, 
+                {"id": 16, "text": "바뀐다.", "type": "", "begin": 32, "end": 34}
+            ], 
+            "NE": [
+                {"id": 0, "text": "머리", "type": "AM_PART", "begin": 0, "end": 0, "weight": 0.437612, "common_noun": 0}, 
+                {"id": 1, "text": "몸통", "type": "AM_PART", "begin": 6, "end": 6, "weight": 0.443597, "common_noun": 0}, 
+                {"id": 2, "text": "무릎", "type": "AM_PART", "begin": 8, "end": 8, "weight": 0.621505, "common_noun": 0}, 
+                {"id": 3, "text": "얼굴", "type": "AM_PART", "begin": 25, "end": 25, "weight": 0.783026, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "머리를", "head": 2, "label": "NP_OBJ", "mod": [], "weight": 0.854413}, 
+                {"id": 1, "text": "앞으로", "head": 2, "label": "NP_AJT", "mod": [], "weight": 0.766993}, 
+                {"id": 2, "text": "내밀고", "head": 5, "label": "VP", "mod": [0, 1], "weight": 0.811117}, 
+                {"id": 3, "text": "몸통과", "head": 4, "label": "NP_CNJ", "mod": [], "weight": 0.120763}, 
+                {"id": 4, "text": "무릎이", "head": 5, "label": "NP_SBJ", "mod": [3], "weight": 0.0813514}, 
+                {"id": 5, "text": "굽은", "head": 6, "label": "VP_MOD", "mod": [4, 2], "weight": 0.686208}, 
+                {"id": 6, "text": "자세와", "head": 10, "label": "NP_CNJ", "mod": [5], "weight": 0.240963}, 
+                {"id": 7, "text": "작은", "head": 8, "label": "VP_MOD", "mod": [], "weight": 0.768601}, 
+                {"id": 8, "text": "보폭의", "head": 10, "label": "NP_MOD", "mod": [7], "weight": 0.698311}, 
+                {"id": 9, "text": "독특한", "head": 10, "label": "VP_MOD", "mod": [], "weight": 0.678806}, 
+                {"id": 10, "text": "보행을", "head": 11, "label": "NP_OBJ", "mod": [6, 8, 9], "weight": 0.823968}, 
+                {"id": 11, "text": "보이며", "head": 16, "label": "VP", "mod": [10], "weight": 0.791119}, 
+                {"id": 12, "text": "얼굴이", "head": 16, "label": "NP_SBJ", "mod": [], "weight": 0.786986}, 
+                {"id": 13, "text": "가면", "head": 14, "label": "NP_AJT", "mod": [], "weight": 0.711574}, 
+                {"id": 14, "text": "같은", "head": 15, "label": "VP_MOD", "mod": [13], "weight": 0.686146}, 
+                {"id": 15, "text": "표정으로", "head": 16, "label": "NP_AJT", "mod": [14], "weight": 0.85279}, 
+                {"id": 16, "text": "바뀐다.", "head": -1, "label": "VP", "mod": [11, 12, 15], "weight": 5.73806e-05}
+            ], 
+            "SRL": [
+                {"verb": "내밀", "sense": 1, "word_id": 2, "weight": 0.147532, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "머리를", "weight": 0.232814}, 
+                    {"type": "ARGM-DIR", "word_id": 1, "text": "앞으로", "weight": 1}
+                ]}, 
+                {"verb": "굽02", "sense": 1, "word_id": 5, "weight": 0.13753, "argument": [
+                    {"type": "ARG1", "word_id": 4, "text": "무릎이", "weight": 0.186593}
+                ]}, 
+                {"verb": "작", "sense": 1, "word_id": 7, "weight": 0.387978, "argument": [
+                    {"type": "ARG1", "word_id": 8, "text": "보폭의", "weight": 0.387978}
+                ]}, 
+                {"verb": "독특", "sense": 1, "word_id": 9, "weight": 0.345934, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "보행을", "weight": 0.345934}
+                ]}, 
+                {"verb": "보이", "sense": 1, "word_id": 11, "weight": 0.240461, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "보행을", "weight": 0.240461}
+                ]}, 
+                {"verb": "같", "sense": 1, "word_id": 14, "weight": 0.161385, "argument": [
+                    {"type": "ARG2", "word_id": 13, "text": "가면", "weight": 0.175281}, 
+                    {"type": "ARG1", "word_id": 12, "text": "얼굴이", "weight": 1}
+                ]}, 
+                {"verb": "바뀌", "sense": 1, "word_id": 16, "weight": 0.174038, "argument": [
+                    {"type": "ARG1", "word_id": 12, "text": "얼굴이", "weight": 0.210844}, 
+                    {"type": "ARG3", "word_id": 15, "text": "표정으로", "weight": 0.137232}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "대뇌의 신경 전달 물질인 도파민이 줄어들어 일어나며, 연령이 높을수록 발생 빈도가 높다.", 
+            "morp": [
+                {"id": 0, "lemma": "대뇌", "type": "NNG", "position": 244, "weight": 0.9}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 250, "weight": 0.0694213}, 
+                {"id": 2, "lemma": "신경", "type": "NNG", "position": 254, "weight": 0.87047}, 
+                {"id": 3, "lemma": "전달", "type": "NNG", "position": 261, "weight": 0.9}, 
+                {"id": 4, "lemma": "물질", "type": "NNG", "position": 268, "weight": 0.9}, 
+                {"id": 5, "lemma": "이", "type": "VCP", "position": 274, "weight": 0.0177525}, 
+                {"id": 6, "lemma": "ㄴ", "type": "ETM", "position": 274, "weight": 0.220712}, 
+                {"id": 7, "lemma": "도파민", "type": "NNG", "position": 278, "weight": 0.4}, 
+                {"id": 8, "lemma": "이", "type": "JKS", "position": 287, "weight": 0.0360723}, 
+                {"id": 9, "lemma": "줄어들", "type": "VV", "position": 291, "weight": 0.9}, 
+                {"id": 10, "lemma": "어", "type": "EC", "position": 300, "weight": 0.41831}, 
+                {"id": 11, "lemma": "일어나", "type": "VV", "position": 304, "weight": 0.9}, 
+                {"id": 12, "lemma": "며", "type": "EC", "position": 313, "weight": 0.429701}, 
+                {"id": 13, "lemma": ",", "type": "SP", "position": 316, "weight": 1}, 
+                {"id": 14, "lemma": "연령", "type": "NNG", "position": 318, "weight": 0.9}, 
+                {"id": 15, "lemma": "이", "type": "JKS", "position": 324, "weight": 0.0360723}, 
+                {"id": 16, "lemma": "높", "type": "VA", "position": 328, "weight": 0.249364}, 
+                {"id": 17, "lemma": "을수록", "type": "EC", "position": 331, "weight": 0.320375}, 
+                {"id": 18, "lemma": "발생", "type": "NNG", "position": 341, "weight": 0.9}, 
+                {"id": 19, "lemma": "빈도", "type": "NNG", "position": 348, "weight": 0.181118}, 
+                {"id": 20, "lemma": "가", "type": "JKS", "position": 354, "weight": 0.066324}, 
+                {"id": 21, "lemma": "높", "type": "VA", "position": 358, "weight": 0.249364}, 
+                {"id": 22, "lemma": "다", "type": "EF", "position": 361, "weight": 0.132573}, 
+                {"id": 23, "lemma": ".", "type": "SF", "position": 364, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "대뇌", "type": "NNG", "scode": "000000", "weight": 1, "position": 244, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 250, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "신경", "type": "NNG", "scode": "040001", "weight": 0.0833333, "position": 254, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "전달", "type": "NNG", "scode": "030002", "weight": 0.166667, "position": 261, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "물질", "type": "NNG", "scode": "020003", "weight": 0.2, "position": 268, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 274, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 274, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "도파민", "type": "NNG", "scode": "000000", "weight": 1, "position": 278, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 287, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "줄어들", "type": "VV", "scode": "000000", "weight": 1, "position": 291, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 300, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "일어나", "type": "VV", "scode": "000207", "weight": 0.0909091, "position": 304, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "며", "type": "EC", "scode": "000000", "weight": 1, "position": 313, "begin": 12, "end": 12}, 
+                {"id": 13, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 316, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "연령", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 318, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 324, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "높", "type": "VA", "scode": "000003", "weight": 0.0769231, "position": 328, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "을수록", "type": "EC", "scode": "000000", "weight": 1, "position": 331, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "발생", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 341, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "빈도", "type": "NNG", "scode": "030000", "weight": 0.25, "position": 348, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 354, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "높", "type": "VA", "scode": "000013", "weight": 0.0769231, "position": 358, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 361, "begin": 22, "end": 22}, 
+                {"id": 23, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 364, "begin": 23, "end": 23}
+            ], 
+            "word": [
+                {"id": 0, "text": "대뇌의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "신경", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "전달", "type": "", "begin": 3, "end": 3}, 
+                {"id": 3, "text": "물질인", "type": "", "begin": 4, "end": 6}, 
+                {"id": 4, "text": "도파민이", "type": "", "begin": 7, "end": 8}, 
+                {"id": 5, "text": "줄어들어", "type": "", "begin": 9, "end": 10}, 
+                {"id": 6, "text": "일어나며,", "type": "", "begin": 11, "end": 13}, 
+                {"id": 7, "text": "연령이", "type": "", "begin": 14, "end": 15}, 
+                {"id": 8, "text": "높을수록", "type": "", "begin": 16, "end": 17}, 
+                {"id": 9, "text": "발생", "type": "", "begin": 18, "end": 18}, 
+                {"id": 10, "text": "빈도가", "type": "", "begin": 19, "end": 20}, 
+                {"id": 11, "text": "높다.", "type": "", "begin": 21, "end": 23}
+            ], 
+            "NE": [
+                {"id": 0, "text": "대뇌", "type": "TM_CELL_TISSUE", "begin": 0, "end": 0, "weight": 0.490956, "common_noun": 0}, 
+                {"id": 1, "text": "도파민", "type": "MT_CHEMICAL", "begin": 7, "end": 7, "weight": 0.193111, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "대뇌의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.491336}, 
+                {"id": 1, "text": "신경", "head": 2, "label": "NP", "mod": [], "weight": 0.238448}, 
+                {"id": 2, "text": "전달", "head": 3, "label": "NP", "mod": [1], "weight": 0.644315}, 
+                {"id": 3, "text": "물질인", "head": 4, "label": "VNP_MOD", "mod": [0, 2], "weight": 0.820807}, 
+                {"id": 4, "text": "도파민이", "head": 5, "label": "NP_SBJ", "mod": [3], "weight": 0.79512}, 
+                {"id": 5, "text": "줄어들어", "head": 6, "label": "VP", "mod": [4], "weight": 0.780483}, 
+                {"id": 6, "text": "일어나며,", "head": 11, "label": "VP", "mod": [5], "weight": 0.635456}, 
+                {"id": 7, "text": "연령이", "head": 8, "label": "NP_SBJ", "mod": [], "weight": 0.84606}, 
+                {"id": 8, "text": "높을수록", "head": 11, "label": "VP", "mod": [7], "weight": 0.671695}, 
+                {"id": 9, "text": "발생", "head": 10, "label": "NP", "mod": [], "weight": 0.625704}, 
+                {"id": 10, "text": "빈도가", "head": 11, "label": "NP_SBJ", "mod": [9], "weight": 0.690258}, 
+                {"id": 11, "text": "높다.", "head": -1, "label": "VP", "mod": [8, 10, 6], "weight": 0.00487075}
+            ], 
+            "SRL": [
+                {"verb": "줄어들", "sense": 1, "word_id": 5, "weight": 0.228241, "argument": [
+                    {"type": "ARG1", "word_id": 4, "text": "도파민이", "weight": 0.228241}
+                ]}, 
+                {"verb": "일어나", "sense": 1, "word_id": 6, "weight": 0.129404, "argument": [
+                    {"type": "ARGM-CAU", "word_id": 5, "text": "줄어들어", "weight": 0.129404}
+                ]}, 
+                {"verb": "높", "sense": 1, "word_id": 8, "weight": 0.239395, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "연령이", "weight": 0.239395}
+                ]}, 
+                {"verb": "높", "sense": 1, "word_id": 11, "weight": 0.217093, "argument": [
+                    {"type": "ARGM-CND", "word_id": 8, "text": "높을수록", "weight": 0.158596}, 
+                    {"type": "ARG1", "word_id": 10, "text": "빈도가", "weight": 0.27559}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "FD_MEDICINE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "<의학>", "start_eid_short": 0, "end_eid_short": 0, "text_short": "<의학>"}
+        ]}, 
+        {"id": 1, "type": "AM_PART", "number": "plural", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 2, "text": "사지와 몸이", "start_eid_short": 2, "end_eid_short": 2, "text_short": "몸이"}
+        ]}, 
+        {"id": 2, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 1, "text": "사지와", "start_eid_short": 1, "end_eid_short": 1, "text_short": "사지와"}
+        ]}, 
+        {"id": 3, "type": "TM_CELL_TISSUE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 5, "end_eid": 7, "ne_id": 3, "text": "중추 신경 계통의", "start_eid_short": 5, "end_eid_short": 7, "text_short": "중추 신경 계통의"}
+        ]}, 
+        {"id": 4, "type": "AM_PART", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "머리를", "start_eid_short": 0, "end_eid_short": 0, "text_short": "머리를"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "앞으로", "start_eid_short": 1, "end_eid_short": 1, "text_short": "앞으로"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 3, "end_eid": 6, "ne_id": -1, "text": "몸통과 무릎이 굽은 자세와", "start_eid_short": 6, "end_eid_short": 6, "text_short": "자세와"}
+        ]}, 
+        {"id": 7, "type": "AM_PART", "number": "plural", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 3, "end_eid": 4, "ne_id": 2, "text": "몸통과 무릎이", "start_eid_short": 4, "end_eid_short": 4, "text_short": "무릎이"}
+        ]}, 
+        {"id": 8, "type": "AM_PART", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 3, "end_eid": 3, "ne_id": 1, "text": "몸통과", "start_eid_short": 3, "end_eid_short": 3, "text_short": "몸통과"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 3, "end_eid": 10, "ne_id": -1, "text": "몸통과 무릎이 굽은 자세와 작은 보폭의 독특한 보행을", "start_eid_short": 10, "end_eid_short": 10, "text_short": "보행을"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 7, "end_eid": 8, "ne_id": -1, "text": "작은 보폭의", "start_eid_short": 8, "end_eid_short": 8, "text_short": "보폭의"}
+        ]}, 
+        {"id": 11, "type": "AM_PART", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 12, "end_eid": 12, "ne_id": 3, "text": "얼굴이", "start_eid_short": 12, "end_eid_short": 12, "text_short": "얼굴이"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 1, "start_eid": 13, "end_eid": 15, "ne_id": -1, "text": "가면 같은 표정으로", "start_eid_short": 15, "end_eid_short": 15, "text_short": "표정으로"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 13, "end_eid": 13, "ne_id": -1, "text": "가면", "start_eid_short": 13, "end_eid_short": 13, "text_short": "가면"}
+        ]}, 
+        {"id": 14, "type": "MT_CHEMICAL", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 2, "start_eid": 0, "end_eid": 4, "ne_id": 1, "text": "대뇌의 신경 전달 물질인 도파민이", "start_eid_short": 4, "end_eid_short": 4, "text_short": "도파민이"}, 
+            {"id": 19, "sent_id": 2, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "대뇌의 신경 전달 물질인", "start_eid_short": 3, "end_eid_short": 3, "text_short": "물질인"}
+        ]}, 
+        {"id": 15, "type": "TM_CELL_TISSUE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 2, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "대뇌의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "대뇌의"}
+        ]}, 
+        {"id": 16, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 21, "sent_id": 2, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "신경 전달", "start_eid_short": 1, "end_eid_short": 2, "text_short": "신경 전달"}
+        ]}, 
+        {"id": 17, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 22, "sent_id": 2, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "신경", "start_eid_short": 1, "end_eid_short": 1, "text_short": "신경"}
+        ]}, 
+        {"id": 18, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 23, "sent_id": 2, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "연령이", "start_eid_short": 7, "end_eid_short": 7, "text_short": "연령이"}
+        ]}, 
+        {"id": 19, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 24, "sent_id": 2, "start_eid": 9, "end_eid": 10, "ne_id": -1, "text": "발생 빈도가", "start_eid_short": 9, "end_eid_short": 10, "text_short": "발생 빈도가"}
+        ]}, 
+        {"id": 20, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 25, "sent_id": 2, "start_eid": 9, "end_eid": 9, "ne_id": -1, "text": "발생", "start_eid_short": 9, "end_eid_short": 9, "text_short": "발생"}
+        ]}, 
+        {"id": 21, "type": "AM_PART", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": 2, "text": "몸이", "start_eid_short": 2, "end_eid_short": 2, "text_short": "몸이"}
+        ]}, 
+        {"id": 22, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 8, "ne_id": -1, "text": "사지와 몸이 떨리고 경직되는 중추 신경 계통의 퇴행병.", "start_eid_short": 8, "end_eid_short": 8, "text_short": "퇴행병."}
+        ]}, 
+        {"id": 23, "type": "AM_PART", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": 2, "text": "무릎이", "start_eid_short": 4, "end_eid_short": 4, "text_short": "무릎이"}
+        ]}, 
+        {"id": 24, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 7, "end_eid": 10, "ne_id": -1, "text": "작은 보폭의 독특한 보행을", "start_eid_short": 10, "end_eid_short": 10, "text_short": "보행을"}
+        ]}
+    ]
+}

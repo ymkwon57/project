@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+홋카이도[Hokkaidô,北海道]는 일본 혼슈(本州) 북쪽에 있는 섬이다. 일본 최북단 홋카이도 그 크기는 한반도의 80%정도의 넓이라 다 둘러볼려면 일주일은 걸리고, 차없으면 일주하기 힘든 곳이다. 잘 알려져 있지 않지만 홋카이도를 가장 쾌적하게 여행할 수 있는 시기는 5월부터 9월경까지이다. 이 시기의 홋카이도는 대지가 겨울의 눈을 털어내고 생명의 기지개를 켜는 시기. 갖가지 고산 식물이 꽃을 피운다.
+치쿠와 빵은 기존의 빵에 치즈랑 어묵 혹은 계란 그리고 치즈를 넣은 색다른 개성적인 맛의 빵으로써 홋카이도가 원조이며 지금 일본전역으로 한참 인기몰이중이다.
+홋카이도는 북위 43도의 일본 열도 최북단 섬으로 기후나 풍토가 일본의 다른 지역과는 많이 다르다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="홋카이도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="21" end="23" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="24" end="26" text="혼슈" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="38" end="39" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="43" end="45" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="50" end="54" text="홋카이도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="61" end="64" text="한반도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="108" end="109" text="곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="126" end="130" text="홋카이도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="173" end="177" text="홋카이도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="179" end="181" text="대지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="285" end="289" text="홋카이도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="299" end="303" text="일본전역" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="318" end="322" text="홋카이도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="332" end="337" text="일본 열도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="342" end="343" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="354" end="356" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="361" end="363" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="324" end="330" text="북위 43도" beginID="" endID="" midIDs="" type="LANE" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="31" end="33" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="46" end="49" text="최북단" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="338" end="341" text="최북단" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="356" end="357" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SENTENCE id="sent0" start="1" end="42" text="홋카이도[Hokkaidô,北海道]는 일본 혼슈(本州) 북쪽에 있는 섬이다." comment="" />
+<SENTENCE id="sent1" start="43" end="112" text="일본 최북단 홋카이도 그 크기는 한반도의 80%정도의 넓이라 다 둘러볼려면 일주일은 걸리고, 차없으면 일주하기 힘든 곳이다." comment="" />
+<SENTENCE id="sent2" start="113" end="166" text="잘 알려져 있지 않지만 홋카이도를 가장 쾌적하게 여행할 수 있는 시기는 5월부터 9월경까지이다." comment="" />
+<SENTENCE id="sent3" start="167" end="210" text="이 시기의 홋카이도는 대지가 겨울의 눈을 털어내고 생명의 기지개를 켜는 시기." comment="" />
+<SENTENCE id="sent4" start="211" end="229" text="갖가지 고산 식물이 꽃을 피운다." comment="" />
+<SENTENCE id="sent5" start="230" end="317" text="치쿠와 빵은 기존의 빵에 치즈랑 어묵 혹은 계란 그리고 치즈를 넣은 색다른 개성적인 맛의 빵으로써 홋카이도가 원조이며 지금 일본전역으로 한참 인기몰이중이다." comment="" />
+<SENTENCE id="sent6" start="318" end="373" text="홋카이도는 북위 43도의 일본 열도 최북단 섬으로 기후나 풍토가 일본의 다른 지역과는 많이 다르다." comment="" />
+<QSLINK id="qsl0" fromID="pl18" fromText="지역" toID="pl17" toText="일본" relType="NTPP" trajector="pl18" landmark="pl17" trigger="s3" comment="" />
+<OLINK id="ol0" fromID="pl2" fromText="혼슈" toID="pl3" toText="섬" relType="북" trajector="pl3" landmark="pl2" trigger="s0" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl4" fromText="일본" toID="pl5" toText="홋카이도" relType="북" trajector="pl5" landmark="pl4" trigger="s1" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl15" fromText="일본 열도" toID="pl16" toText="섬" relType="북" trajector="pl16" landmark="pl15" trigger="s2" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

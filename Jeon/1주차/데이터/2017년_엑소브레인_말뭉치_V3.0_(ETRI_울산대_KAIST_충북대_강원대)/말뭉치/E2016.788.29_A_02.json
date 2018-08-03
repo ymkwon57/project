@@ -1,0 +1,257 @@
+{
+    "doc_id": "E2016.788.29_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "라마단", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<종교> 이슬람교에서, 단식과 재계(齋戒)를 하는 달.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "종교", "type": "NNG", "position": 1, "weight": 0.9}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "이슬람", "type": "NNG", "position": 9, "weight": 0.187542}, 
+                {"id": 4, "lemma": "교", "type": "NNG", "position": 18, "weight": 0.161048}, 
+                {"id": 5, "lemma": "에서", "type": "JKB", "position": 21, "weight": 0.153407}, 
+                {"id": 6, "lemma": ",", "type": "SP", "position": 27, "weight": 1}, 
+                {"id": 7, "lemma": "단식", "type": "NNG", "position": 29, "weight": 0.529571}, 
+                {"id": 8, "lemma": "과", "type": "JC", "position": 35, "weight": 0.017569}, 
+                {"id": 9, "lemma": "재계", "type": "NNG", "position": 39, "weight": 0.9}, 
+                {"id": 10, "lemma": "(", "type": "SS", "position": 45, "weight": 1}, 
+                {"id": 11, "lemma": "齋戒", "type": "SH", "position": 46, "weight": 1}, 
+                {"id": 12, "lemma": ")", "type": "SS", "position": 52, "weight": 1}, 
+                {"id": 13, "lemma": "를", "type": "JKO", "position": 53, "weight": 0.0357023}, 
+                {"id": 14, "lemma": "하", "type": "VV", "position": 57, "weight": 0.48169}, 
+                {"id": 15, "lemma": "는", "type": "ETM", "position": 60, "weight": 0.184941}, 
+                {"id": 16, "lemma": "달", "type": "NNG", "position": 64, "weight": 0.1591}, 
+                {"id": 17, "lemma": ".", "type": "SF", "position": 67, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "종교", "type": "NNG", "scode": "000000", "weight": 1, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "이슬람교", "type": "NNG", "scode": "000000", "weight": 1, "position": 9, "begin": 3, "end": 4}, 
+                {"id": 4, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 21, "begin": 5, "end": 5}, 
+                {"id": 5, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 27, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "단식", "type": "NNG", "scode": "040000", "weight": 0.142857, "position": 29, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 35, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "재계", "type": "NNG", "scode": "040000", "weight": 0.25, "position": 39, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 45, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "齋戒", "type": "SH", "scode": "000000", "weight": 1, "position": 46, "begin": 11, "end": 11}, 
+                {"id": 11, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 52, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 53, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "하", "type": "VV", "scode": "010101", "weight": 0.02, "position": 57, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 60, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "달", "type": "NNG", "scode": "050001", "weight": 0.0833333, "position": 64, "begin": 16, "end": 16}, 
+                {"id": 16, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 67, "begin": 17, "end": 17}
+            ], 
+            "word": [
+                {"id": 0, "text": "<종교>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "이슬람교에서,", "type": "", "begin": 3, "end": 6}, 
+                {"id": 2, "text": "단식과", "type": "", "begin": 7, "end": 8}, 
+                {"id": 3, "text": "재계(齋戒)를", "type": "", "begin": 9, "end": 13}, 
+                {"id": 4, "text": "하는", "type": "", "begin": 14, "end": 15}, 
+                {"id": 5, "text": "달.", "type": "", "begin": 16, "end": 17}
+            ], 
+            "NE": [
+                {"id": 0, "text": "이슬람교", "type": "OGG_RELIGION", "begin": 3, "end": 4, "weight": 0.426775, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<종교>", "head": 5, "label": "NP", "mod": [], "weight": 0.814501}, 
+                {"id": 1, "text": "이슬람교에서,", "head": 4, "label": "NP_AJT", "mod": [], "weight": 0.6354}, 
+                {"id": 2, "text": "단식과", "head": 3, "label": "NP_CNJ", "mod": [], "weight": 0.672201}, 
+                {"id": 3, "text": "재계(齋戒)를", "head": 4, "label": "NP_OBJ", "mod": [2], "weight": 0.660342}, 
+                {"id": 4, "text": "하는", "head": 5, "label": "VP_MOD", "mod": [1, 3], "weight": 0.812094}, 
+                {"id": 5, "text": "달.", "head": -1, "label": "NP", "mod": [0, 4], "weight": 0.158188}
+            ], 
+            "SRL": [
+                {"verb": "하", "sense": 1, "word_id": 4, "weight": 0.238119, "argument": [
+                    {"type": "ARG0", "word_id": 1, "text": "이슬람교에서,", "weight": 0.129108}, 
+                    {"type": "ARG1", "word_id": 3, "text": "재계(齋戒)를", "weight": 0.388827}, 
+                    {"type": "ARGM-TMP", "word_id": 5, "text": "달.", "weight": 0.210779}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "이슬람력의 아홉 번째 달로, 해가 뜰 때부터 해가 질 때까지 식사, 흡연, 음주, 성행위 따위를 금한다.", 
+            "morp": [
+                {"id": 0, "lemma": "이슬람", "type": "NNG", "position": 68, "weight": 0.410666}, 
+                {"id": 1, "lemma": "력", "type": "XSN", "position": 77, "weight": 0.0344464}, 
+                {"id": 2, "lemma": "의", "type": "JKG", "position": 80, "weight": 0.120732}, 
+                {"id": 3, "lemma": "아홉", "type": "NR", "position": 84, "weight": 0.9}, 
+                {"id": 4, "lemma": "번째", "type": "NNB", "position": 91, "weight": 0.383074}, 
+                {"id": 5, "lemma": "달", "type": "NNG", "position": 98, "weight": 0.0267124}, 
+                {"id": 6, "lemma": "로", "type": "JKB", "position": 101, "weight": 0.153229}, 
+                {"id": 7, "lemma": ",", "type": "SP", "position": 104, "weight": 1}, 
+                {"id": 8, "lemma": "해", "type": "NNG", "position": 106, "weight": 0.356657}, 
+                {"id": 9, "lemma": "가", "type": "JKS", "position": 109, "weight": 0.066324}, 
+                {"id": 10, "lemma": "뜨", "type": "VV", "position": 113, "weight": 0.313003}, 
+                {"id": 11, "lemma": "ㄹ", "type": "ETM", "position": 113, "weight": 0.300746}, 
+                {"id": 12, "lemma": "때", "type": "NNG", "position": 117, "weight": 0.656522}, 
+                {"id": 13, "lemma": "부터", "type": "JX", "position": 120, "weight": 0.0688504}, 
+                {"id": 14, "lemma": "해", "type": "NNG", "position": 127, "weight": 0.217994}, 
+                {"id": 15, "lemma": "가", "type": "JKS", "position": 130, "weight": 0.066324}, 
+                {"id": 16, "lemma": "지", "type": "VV", "position": 134, "weight": 0.00692835}, 
+                {"id": 17, "lemma": "ㄹ", "type": "ETM", "position": 134, "weight": 0.300746}, 
+                {"id": 18, "lemma": "때", "type": "NNG", "position": 138, "weight": 0.656522}, 
+                {"id": 19, "lemma": "까지", "type": "JX", "position": 141, "weight": 0.0687424}, 
+                {"id": 20, "lemma": "식사", "type": "NNG", "position": 148, "weight": 0.9}, 
+                {"id": 21, "lemma": ",", "type": "SP", "position": 154, "weight": 1}, 
+                {"id": 22, "lemma": "흡연", "type": "NNG", "position": 156, "weight": 0.9}, 
+                {"id": 23, "lemma": ",", "type": "SP", "position": 162, "weight": 1}, 
+                {"id": 24, "lemma": "음주", "type": "NNG", "position": 164, "weight": 0.9}, 
+                {"id": 25, "lemma": ",", "type": "SP", "position": 170, "weight": 1}, 
+                {"id": 26, "lemma": "성", "type": "NNG", "position": 172, "weight": 0.261285}, 
+                {"id": 27, "lemma": "행위", "type": "NNG", "position": 175, "weight": 0.9}, 
+                {"id": 28, "lemma": "따위", "type": "NNB", "position": 182, "weight": 0.9}, 
+                {"id": 29, "lemma": "를", "type": "JKO", "position": 188, "weight": 0.0669358}, 
+                {"id": 30, "lemma": "금하", "type": "VV", "position": 192, "weight": 0.0870693}, 
+                {"id": 31, "lemma": "ㄴ다", "type": "EF", "position": 195, "weight": 0.0449045}, 
+                {"id": 32, "lemma": ".", "type": "SF", "position": 201, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이슬람력", "type": "NNG", "scode": "000000", "weight": 1, "position": 68, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 80, "begin": 2, "end": 2}, 
+                {"id": 2, "text": "아홉", "type": "NR", "scode": "000000", "weight": 1, "position": 84, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "번째", "type": "NNB", "scode": "000000", "weight": 1, "position": 91, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "달", "type": "NNG", "scode": "050000", "weight": 0.0833333, "position": 98, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 101, "begin": 6, "end": 6}, 
+                {"id": 6, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 104, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "해", "type": "NNG", "scode": "010001", "weight": 0.0333333, "position": 106, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 109, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "뜨", "type": "VV", "scode": "010100", "weight": 0.0232558, "position": 113, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "ㄹ", "type": "ETM", "scode": "000000", "weight": 1, "position": 113, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 117, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "부터", "type": "JX", "scode": "000000", "weight": 1, "position": 120, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "해", "type": "NNG", "scode": "010001", "weight": 0.0333333, "position": 127, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 130, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "지", "type": "VV", "scode": "020001", "weight": 0.037037, "position": 134, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "ㄹ", "type": "ETM", "scode": "000000", "weight": 1, "position": 134, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 138, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "까지", "type": "JX", "scode": "000000", "weight": 1, "position": 141, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "식사", "type": "NNG", "scode": "030000", "weight": 0.142857, "position": 148, "begin": 20, "end": 20}, 
+                {"id": 20, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 154, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "흡연", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 156, "begin": 22, "end": 22}, 
+                {"id": 22, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 162, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "음주", "type": "NNG", "scode": "000000", "weight": 1, "position": 164, "begin": 24, "end": 24}, 
+                {"id": 24, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 170, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "성행위", "type": "NNG", "scode": "000000", "weight": 1, "position": 172, "begin": 26, "end": 27}, 
+                {"id": 26, "text": "따위", "type": "NNB", "scode": "000001", "weight": 0.5, "position": 182, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 188, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "금하", "type": "VV", "scode": "020001", "weight": 0.333333, "position": 192, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 195, "begin": 31, "end": 31}, 
+                {"id": 30, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 201, "begin": 32, "end": 32}
+            ], 
+            "word": [
+                {"id": 0, "text": "이슬람력의", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "아홉", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "번째", "type": "", "begin": 4, "end": 4}, 
+                {"id": 3, "text": "달로,", "type": "", "begin": 5, "end": 7}, 
+                {"id": 4, "text": "해가", "type": "", "begin": 8, "end": 9}, 
+                {"id": 5, "text": "뜰", "type": "", "begin": 10, "end": 11}, 
+                {"id": 6, "text": "때부터", "type": "", "begin": 12, "end": 13}, 
+                {"id": 7, "text": "해가", "type": "", "begin": 14, "end": 15}, 
+                {"id": 8, "text": "질", "type": "", "begin": 16, "end": 17}, 
+                {"id": 9, "text": "때까지", "type": "", "begin": 18, "end": 19}, 
+                {"id": 10, "text": "식사,", "type": "", "begin": 20, "end": 21}, 
+                {"id": 11, "text": "흡연,", "type": "", "begin": 22, "end": 23}, 
+                {"id": 12, "text": "음주,", "type": "", "begin": 24, "end": 25}, 
+                {"id": 13, "text": "성행위", "type": "", "begin": 26, "end": 27}, 
+                {"id": 14, "text": "따위를", "type": "", "begin": 28, "end": 29}, 
+                {"id": 15, "text": "금한다.", "type": "", "begin": 30, "end": 32}
+            ], 
+            "NE": [
+                {"id": 0, "text": "아홉 번째", "type": "QT_ORDER", "begin": 3, "end": 4, "weight": 0.419095, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이슬람력의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.446775}, 
+                {"id": 1, "text": "아홉", "head": 2, "label": "NP", "mod": [], "weight": 0.767907}, 
+                {"id": 2, "text": "번째", "head": 3, "label": "NP_AJT", "mod": [0, 1], "weight": 0.49628}, 
+                {"id": 3, "text": "달로,", "head": 15, "label": "NP_AJT", "mod": [2], "weight": 0.700873}, 
+                {"id": 4, "text": "해가", "head": 5, "label": "NP_SBJ", "mod": [], "weight": 0.860613}, 
+                {"id": 5, "text": "뜰", "head": 6, "label": "VP_MOD", "mod": [4], "weight": 0.752541}, 
+                {"id": 6, "text": "때부터", "head": 15, "label": "NP_AJT", "mod": [5], "weight": 0.782542}, 
+                {"id": 7, "text": "해가", "head": 8, "label": "NP_SBJ", "mod": [], "weight": 0.866195}, 
+                {"id": 8, "text": "질", "head": 9, "label": "VP_MOD", "mod": [7], "weight": 0.793142}, 
+                {"id": 9, "text": "때까지", "head": 15, "label": "NP_AJT", "mod": [8], "weight": 0.819954}, 
+                {"id": 10, "text": "식사,", "head": 13, "label": "NP_CNJ", "mod": [], "weight": 0.842926}, 
+                {"id": 11, "text": "흡연,", "head": 13, "label": "NP_CNJ", "mod": [], "weight": 0.811069}, 
+                {"id": 12, "text": "음주,", "head": 13, "label": "NP_CNJ", "mod": [], "weight": 0.663316}, 
+                {"id": 13, "text": "성행위", "head": 14, "label": "NP", "mod": [10, 11, 12], "weight": 0.68061}, 
+                {"id": 14, "text": "따위를", "head": 15, "label": "NP_OBJ", "mod": [13], "weight": 0.730063}, 
+                {"id": 15, "text": "금한다.", "head": -1, "label": "VP", "mod": [3, 6, 9, 14], "weight": 0.00647233}
+            ], 
+            "SRL": [
+                {"verb": "뜨", "sense": 1, "word_id": 5, "weight": 0.198215, "argument": [
+                    {"type": "ARG1", "word_id": 4, "text": "해가", "weight": 0.198215}
+                ]}, 
+                {"verb": "지", "sense": 3, "word_id": 8, "weight": 0.161385, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "해가", "weight": 0.161385}
+                ]}, 
+                {"verb": "금하", "sense": 1, "word_id": 15, "weight": 0.190709, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 6, "text": "때부터", "weight": 0.196904}, 
+                    {"type": "ARGM-TMP", "word_id": 9, "text": "때까지", "weight": 0.184749}, 
+                    {"type": "ARG1", "word_id": 14, "text": "따위를", "weight": 0.190473}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "OGG_RELIGION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "이슬람교에서,", "start_eid_short": 1, "end_eid_short": 1, "text_short": "이슬람교에서,"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "단식과", "start_eid_short": 2, "end_eid_short": 2, "text_short": "단식과"}
+        ]}, 
+        {"id": 2, "type": "LC_SPACE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 1, "end_eid": 5, "ne_id": 1, "text": "이슬람교에서, 단식과 재계(齋戒)를 하는 달.", "start_eid_short": 5, "end_eid_short": 5, "text_short": "달."}, 
+            {"id": 4, "sent_id": 1, "start_eid": 0, "end_eid": 3, "ne_id": 2, "text": "이슬람력의 아홉 번째 달로,", "start_eid_short": 3, "end_eid_short": 3, "text_short": "달로,"}
+        ]}, 
+        {"id": 3, "type": "DT_DAY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "이슬람력의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "이슬람력의"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 4, "end_eid": 9, "ne_id": -1, "text": "해가 뜰 때부터 해가 질 때까지", "start_eid_short": 9, "end_eid_short": 9, "text_short": "때까지"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 10, "end_eid": 14, "ne_id": -1, "text": "식사, 흡연, 음주, 성행위 따위를", "start_eid_short": 13, "end_eid_short": 14, "text_short": "성행위 따위를"}
+        ]}, 
+        {"id": 6, "type": "LC_SPACE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 3, "end_eid": 5, "ne_id": 1, "text": "재계(齋戒)를 하는 달.", "start_eid_short": 5, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 10, "end_eid": 10, "ne_id": -1, "text": "식사,", "start_eid_short": 10, "end_eid_short": 10, "text_short": "식사,"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 11, "end_eid": 11, "ne_id": -1, "text": "흡연,", "start_eid_short": 11, "end_eid_short": 11, "text_short": "흡연,"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 13, "end_eid": 13, "ne_id": -1, "text": "성행위", "start_eid_short": 13, "end_eid_short": 13, "text_short": "성행위"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 12, "end_eid": 12, "ne_id": -1, "text": "음주,", "start_eid_short": 12, "end_eid_short": 12, "text_short": "음주,"}
+        ]}, 
+        {"id": 11, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 1, "end_eid": 2, "ne_id": 1, "text": "아홉 번째", "start_eid_short": 1, "end_eid_short": 2, "text_short": "아홉 번째"}
+        ]}
+    ]
+}

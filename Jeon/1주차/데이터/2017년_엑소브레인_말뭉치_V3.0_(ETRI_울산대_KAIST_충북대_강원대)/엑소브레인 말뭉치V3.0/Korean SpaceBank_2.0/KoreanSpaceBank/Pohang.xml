@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+포항(Pohang)은 대한민국 경상북도 동남부 해안에 있는 시이며 경상북도 최대의 도시이다. 1970년대 초 포항제철이 조성되면서 급격한 인구 유입으로, 1995년 이후 통합된 새로운 형태의 도농복합도시가 되었다. 울릉도로 가는 페리가 있는 항구도시이며 주요한 철강 도시이다.
+
+동해남부선과 중앙선이 있어 대구·경주·원주·서울로 통하며, 또한 경주에서는 경부선과 연결될 수 있다. 간선도로망이 해안과 내륙으로 뻗어 있고, 항구는 1962년부터 국제개항장으로서 국내외의 각 항구로 통할 수 있다. 또한 근래 국내 항공로가 개설되어 수·륙·공의 교통이 모두 편리하다.
+
+포항은 큰 도시로 대개의 대도시에서 직접 가는 버스노선이 있다.
+
+기차편도 있지만 대개는 대구에서 갈아타며 많지는 않다.
+
+포항은 과메기로 유명하며 영덕 대게가 좋다.
+
+내연산은 포항시와 영덕군에 걸쳐있는 산이다. 12개의 폭포를 간직하고 있다. 영화 《가을로》의 한 부분이 연산폭포에서 촬영되었다. 내연산 향로봉은 높이가 930m에 이른다. 향로봉에 오르는 산행 코스도 좋지만, 보경사를 거쳐 연산폭포에 이르는 3.6km구간은 계곡을 따라 쉽게 다녀올 수 있는 트레킹 코스이다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="3" text="포항" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="13" end="17" text="대한민국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="18" end="22" text="경상북도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="27" end="29" text="해안" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="34" end="35" text="시" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="38" end="42" text="경상북도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="47" end="49" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="최대" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="121" end="124" text="울릉도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="150" end="152" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="172" end="174" text="대구" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="175" end="177" text="경주" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="178" end="180" text="원주" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="181" end="183" text="서울" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="193" end="195" text="경주" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="318" end="320" text="포항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="324" end="326" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="큰" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="221" end="223" text="해안" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="225" end="227" text="내륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="332" end="335" text="대도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="368" end="370" text="대구" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="387" end="389" text="포항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="413" end="416" text="내연산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="418" end="421" text="포항시" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="423" end="426" text="영덕군" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="433" end="434" text="산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="472" end="476" text="연산폭포" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="486" end="489" text="내연산" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="490" end="493" text="향로봉" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="510" end="513" text="향로봉" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="531" end="534" text="보경사" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="539" end="543" text="연산폭포" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="108" end="114" text="도농복합도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="136" end="140" text="항구도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="443" end="445" text="폭포" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PATH id="p0" start="157" end="162" text="동해남부선" beginID="" endID="pl11,pl12,pl13,pl14" midIDs="" type="ROAD" dimensionality="" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="164" end="167" text="중앙선" beginID="" endID="pl11,pl12,pl13,pl14" midIDs="" type="ROAD" dimensionality="" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="199" end="202" text="경부선" beginID="" endID="pl15" midIDs="" type="ROAD" dimensionality="" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="214" end="219" text="간선도로망" beginID="" endID="pl18,pl19" midIDs="" type="ROAD" dimensionality="" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p5" start="344" end="348" text="버스노선" beginID="pl24" endID="pl16" midIDs="" type="ROAD" dimensionality="" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p6" start="522" end="524" text="코스" beginID="" endID="pl35" midIDs="" type="ROAD" dimensionality="" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p7" start="554" end="556" text="구간" beginID="" endID="pl37" midIDs="pl36" type="ROAD" dimensionality="" form="" domain="" gazref="" latLong="" elevation="me1" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p8" start="558" end="560" text="계곡" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p9" start="581" end="583" text="코스" beginID="" endID="" midIDs="" type="ROAD" dimensionality="" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p4" start="284" end="290" text="국내 항공로" beginID="" endID="" midIDs="" type="" dimensionality="" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="129" end="131" text="페리" type="ARTIFACT" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="-1" end="-1" text="" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="318" />
+<SPATIAL_ENTITY id="se2" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="510" />
+<MOTION id="m0" start="126" end="127" text="가" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="515" end="517" text="오르" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="341" end="342" text="가" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m6" start="568" end="571" text="다녀올" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="29" end="30" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="428" end="430" text="걸쳐" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="204" end="207" text="연결될" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="23" end="26" text="동남부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="45" end="46" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="124" end="125" text="로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="513" end="514" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms6" start="335" end="337" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms7" start="560" end="564" text="을 따라" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="499" end="503" text="930m" value="930" unit="m" comment="" />
+<MEASURE id="me1" start="549" end="554" text="3.6km" value="3.6" unit="km" comment="" />
+<SENTENCE id="sent0" start="1" end="52" text="포항(Pohang)은 대한민국 경상북도 동남부 해안에 있는 시이며 경상북도 최대의 도시이다." comment="" />
+<SENTENCE id="sent1" start="53" end="120" text="1970년대 초 포항제철이 조성되면서 급격한 인구 유입으로, 1995년 이후 통합된 새로운 형태의 도농복합도시가 되었다." comment="" />
+<SENTENCE id="sent2" start="121" end="155" text="울릉도로 가는 페리가 있는 항구도시이며 주요한 철강 도시이다." comment="" />
+<SENTENCE id="sent3" start="157" end="213" text="동해남부선과 중앙선이 있어 대구·경주·원주·서울로 통하며, 또한 경주에서는 경부선과 연결될 수 있다." comment="" />
+<SENTENCE id="sent4" start="214" end="277" text="간선도로망이 해안과 내륙으로 뻗어 있고, 항구는 1962년부터 국제개항장으로서 국내외의 각 항구로 통할 수 있다." comment="" />
+<SENTENCE id="sent5" start="278" end="316" text="또한 근래 국내 항공로가 개설되어 수·륙·공의 교통이 모두 편리하다." comment="" />
+<SENTENCE id="sent6" start="318" end="353" text="포항은 큰 도시로 대개의 대도시에서 직접 가는 버스노선이 있다." comment="" />
+<SENTENCE id="sent7" start="355" end="385" text="기차편도 있지만 대개는 대구에서 갈아타며 많지는 않다." comment="" />
+<SENTENCE id="sent8" start="387" end="411" text="포항은 과메기로 유명하며 영덕 대게가 좋다." comment="" />
+<SENTENCE id="sent9" start="413" end="437" text="내연산은 포항시와 영덕군에 걸쳐있는 산이다." comment="" />
+<SENTENCE id="sent10" start="438" end="455" text="12개의 폭포를 간직하고 있다." comment="" />
+<SENTENCE id="sent11" start="456" end="485" text="영화 《가을로》의 한 부분이 연산폭포에서 촬영되었다." comment="" />
+<SENTENCE id="sent12" start="486" end="509" text="내연산 향로봉은 높이가 930m에 이른다." comment="" />
+<SENTENCE id="sent13" start="510" end="586" text="향로봉에 오르는 산행 코스도 좋지만, 보경사를 거쳐 연산폭포에 이르는 3.6km구간은 계곡을 따라 쉽게 다녀올 수 있는 트레킹 코스이다." comment="" />
+<QSLINK id="qsl0" fromID="pl4" fromText="시" toID="pl3" toText="해안" relType="IN" trajector="pl4" landmark="pl3" trigger="s1" comment="" />
+<QSLINK id="qsl1" fromID="pl15" fromText="경주" toID="p2" toText="경부선" relType="EC" trajector="pl15" landmark="p2" trigger="s0" comment="" />
+<QSLINK id="qsl4" fromID="pl30" fromText="산" toID="pl28" toText="포항시" relType="PO" trajector="pl30" landmark="pl28" trigger="s2" comment="" />
+<QSLINK id="qsl5" fromID="pl30" fromText="산" toID="pl29" toText="영덕군" relType="PO" trajector="pl30" landmark="pl29" trigger="s2" comment="" />
+<QSLINK id="qsl2" fromID="pl6" fromText="도시" toID="pl5" toText="경상북도" relType="NTPP" trajector="pl6" landmark="pl5" trigger="s4" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="가" toID="ms0" toText="로" trigger="m0" source="" goal="pl8" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="오르" toID="ms2" toText="에" trigger="m1" source="" goal="pl35" midPoint="" mover="p6" landmark="" goal_reached="NO" pathID="p6" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl2" fromID="pl24" fromText="대도시" toID="m3" toText="가" trigger="m3" source="pl24" goal="pl16" midPoint="" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms6" comment="" />
+<MOVELINK id="mvl6" fromID="p8" fromText="계곡" toID="m6" toText="다녀올" trigger="m6" source="" goal="" midPoint="" mover="se2" landmark="" goal_reached="UNCERTAIN" pathID="p8" motion_signalID="ms7" comment="" />
+<MEASURELINK id="ml0" fromID="pl34" fromText="향로봉" toID="me0" toText="930m" trajector="pl34" landmark="pl34" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="p7" fromText="구간" toID="me1" toText="3.6km" trajector="p7" landmark="p7" relType="LENGTH" val="me1" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

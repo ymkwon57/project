@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+크리스마스 산호섬은 세계 최대의 산호 섬으로 두꺼운 산호판이 형성되었고 그 위에 염전이 형성되어 있다. 남태평양 크리스마스섬에서 생산되는 천일염은 가격이 고가이고 생산량이 워낙 적어 소비자들이 식탁에서 쉽게 맛볼 수 없다. 이 소금이 국내에 출시된다. 영국정부에서는 조만간에 남태평양(크리스마스)섬에서 다시 핵무기를 실험하겠다 발포한 바 있었다.
+'크리스마스 섬(Christmas Island)'은 오스트레일리아 서부 퍼스(Perth)에서 북서쪽으로 2360킬로미터, 인도네시아의 자카르타로부터 남쪽으로 500킬로미터에 위치한 인도양의 작은 섬이다. 오스트레일리아의 비자치령에 속한다. 호주 본토에서 북서쪽으로 1600㎞ 떨어진 인도양의 크리스마스 섬이 이처럼 공포의 상징으로 떠올라 '제2의 관타나모 기지'라는 불명예를 얻고 있다. 매년 10월과 11월이 되면 온통 붉은 뭍게들로 뒤덮이는 크리스마스 섬 크리스마스 섬은 영국의 로얄 메리호가 1643년 성탄절에 도착함으로써 비롯된 것으로 선장이던 윌리엄 마이너스가 이름 붙여진 것이다.
+매년 11월 이맘때면 인도양 외딴 곳에 크리스마스 섬이라는 곳이 있는데 이 섬 삼림지역에 사는 1억2천만마리 붉은 게들이 짝짓고 산란하기 위하여 3주동안 바다로의 대 여행이 시작된다. 호주 크리스마스 섬의 명물 레드크랩은 아마도 알을 낳으러 가는 장면이 아닌가 생각이 드는데 정말 장관이다. 이때는 도로를 전부 뒤덮어 버리기 때문에 자원봉사자들이 삽으로 치운다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="10" text="크리스마스 산호섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="22" end="23" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="30" end="33" text="산호판" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="두꺼운" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="64" end="70" text="크리스마스섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="132" end="134" text="국내" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="155" end="159" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="160" end="165" text="크리스마스" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="166" end="167" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="196" end="203" text="크리스마스 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="224" end="231" text="오스트레일리아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="235" end="237" text="퍼스" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="263" end="268" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="270" end="274" text="자카르타" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="296" end="299" text="인도양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="304" end="305" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="작은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="309" end="316" text="오스트레일리아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="318" end="322" text="비자치령" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="353" end="356" text="인도양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="358" end="365" text="크리스마스 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="389" end="396" text="관타나모 기지" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="444" end="451" text="크리스마스 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="452" end="459" text="크리스마스 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="538" end="541" text="인도양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="545" end="546" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="548" end="555" text="크리스마스 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="559" end="560" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="568" end="569" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="570" end="574" text="삼림지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="612" end="614" text="바다" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="629" end="631" text="호주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="632" end="639" text="크리스마스 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="59" end="63" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="332" end="334" text="본토" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="12" end="14" text="세계" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="329" end="331" text="호주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="693" end="695" text="도로" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="644" end="648" text="레드크랩" type="FAC" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="590" end="592" text="게들" type="FAC" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="465" end="471" text="로얄 메리호" type="VEHICLE" dimensionality="POINT" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="46" end="48" text="염전" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="484" end="487" text="도착함" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="661" end="662" text="가" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s2" start="247" end="250" text="북서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="278" end="280" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="337" end="340" text="북서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="546" end="547" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="574" end="575" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="43" end="44" text="위" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="232" end="234" text="서부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="268" end="269" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="299" end="300" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="356" end="357" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="349" end="352" text="떨어진" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="17" end="18" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me0" start="253" end="261" text="2360킬로미터" value="2600" unit="km" comment="" />
+<MEASURE id="me1" start="343" end="348" text="1600㎞" value="1600" unit="km" comment="" />
+<MEASURE id="me2" start="283" end="290" text="500킬로미터" value="500" unit="km" comment="" />
+<SENTENCE id="sent0" start="1" end="58" text="크리스마스 산호섬은 세계 최대의 산호 섬으로 두꺼운 산호판이 형성되었고 그 위에 염전이 형성되어 있다." comment="" />
+<SENTENCE id="sent1" start="59" end="125" text="남태평양 크리스마스섬에서 생산되는 천일염은 가격이 고가이고 생산량이 워낙 적어 소비자들이 식탁에서 쉽게 맛볼 수 없다." comment="" />
+<SENTENCE id="sent2" start="126" end="141" text="이 소금이 국내에 출시된다." comment="" />
+<SENTENCE id="sent3" start="142" end="194" text="영국정부에서는 조만간에 남태평양(크리스마스)섬에서 다시 핵무기를 실험하겠다 발포한 바 있었다." comment="" />
+<SENTENCE id="sent4" start="195" end="308" text="'크리스마스 섬(Christmas Island)'은 오스트레일리아 서부 퍼스(Perth)에서 북서쪽으로 2360킬로미터, 인도네시아의 자카르타로부터 남쪽으로 500킬로미터에 위치한 인도양의 작은 섬이다." comment="" />
+<SENTENCE id="sent5" start="309" end="328" text="오스트레일리아의 비자치령에 속한다." comment="" />
+<SENTENCE id="sent6" start="329" end="411" text="호주 본토에서 북서쪽으로 1600㎞ 떨어진 인도양의 크리스마스 섬이 이처럼 공포의 상징으로 떠올라 '제2의 관타나모 기지'라는 불명예를 얻고 있다." comment="" />
+<SENTENCE id="sent7" start="412" end="525" text="매년 10월과 11월이 되면 온통 붉은 뭍게들로 뒤덮이는 크리스마스 섬 크리스마스 섬은 영국의 로얄 메리호가 1643년 성탄절에 도착함으로써 비롯된 것으로 선장이던 윌리엄 마이너스가 이름 붙여진 것이다." comment="" />
+<SENTENCE id="sent8" start="526" end="628" text="매년 11월 이맘때면 인도양 외딴 곳에 크리스마스 섬이라는 곳이 있는데 이 섬 삼림지역에 사는 1억2천만마리 붉은 게들이 짝짓고 산란하기 위하여 3주동안 바다로의 대 여행이 시작된다." comment="" />
+<SENTENCE id="sent9" start="629" end="688" text="호주 크리스마스 섬의 명물 레드크랩은 아마도 알을 낳으러 가는 장면이 아닌가 생각이 드는데 정말 장관이다." comment="" />
+<SENTENCE id="sent10" start="689" end="729" text="이때는 도로를 전부 뒤덮어 버리기 때문에 자원봉사자들이 삽으로 치운다. " comment="" />
+<QSLINK id="qsl5" fromID="pl29" fromText="곳" toID="pl30" toText="크리스마스 섬" relType="NTPP" trajector="pl30" landmark="p29" trigger="s9" comment="" />
+<QSLINK id="qsl6" fromID="pl33" fromText="삼림지역" toID="se1" toText="게들" relType="NTPP" trajector="se1" landmark="pl33" trigger="s5" comment="" />
+<QSLINK id="qsl0" fromID="pl14" fromText="자카르타" toID="pl13" toText="인도네시아" relType="NTPP" trajector="pl14" landmark="pl13" trigger="s1" comment="" />
+<QSLINK id="qsl1" fromID="pl17" fromText="섬" toID="pl16" toText="인도양" relType="NTPP" trajector="pl17" landmark="pl16" trigger="s3" comment="" />
+<QSLINK id="qsl2" fromID="pl23" fromText="크리스마스 섬" toID="pl22" toText="인도양" relType="NTPP" trajector="pl23" landmark="pl22" trigger="s6" comment="" />
+<QSLINK id="qsl4" fromID="pl23" fromText="크리스마스 섬" toID="pl3" toText="호주 본토" relType="NTPP" trajector="pl23" landmark="pl3" trigger="s8" comment="" />
+<QSLINK id="qsl8" fromID="pl1" fromText="섬" toID="pl6" toText="세계" relType="NTPP" trajector="pl1" landmark="pl6" trigger="s10" comment="" />
+<OLINK id="ol0" fromID="pl10" fromText="크리스마스 섬" toID="pl12" toText="퍼스" relType="북서" trajector="pl10" landmark="pl12" trigger="s2" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl14" fromText="자카르타" toID="pl16" toText="인도양" relType="남" trajector="pl16" landmark="pl14" trigger="s4" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="pl11" fromText="오스트레일리아" toID="pl12" toText="퍼스" relType="서" trajector="pl12" landmark="pl11" trigger="s11" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="se3" fromText="염전" toID="pl2" toText="산호판" relType="위" trajector="se3" landmark="pl2" trigger="s0" frame_type="INTRINSIC" referencePt="pl2" projective="FALSE" comment="" />
+<OLINK id="ol7" fromID="pl17" fromText="섬" toID="pl12" toText="퍼스" relType="북서" trajector="pl17" landmark="pl12" trigger="s2" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol8" fromID="pl17" fromText="섬" toID="pl14" toText="자카르타" relType="남" trajector="pl17" landmark="pl14" trigger="s4" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol9" fromID="pl23" fromText="크리스마스 섬" toID="pl3" toText="호주 본토" relType="북서" trajector="pl23" landmark="pl3" trigger="s7" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="se2" fromText="로얄 메리호" toID="pl26" toText="크리스마스 섬" trigger="m1" source="" goal="pl26" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl2" fromID="se0" fromText="레드크랩" toID="m3" toText="가" trigger="m3" source="pl37" goal="" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MEASURELINK id="ml0" fromID="pl10" fromText="크리스마스 섬" toID="pl12" toText="퍼스" trajector="pl10" landmark="pl12" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="pl14" fromText="자카르타" toID="pl17" toText="섬" trajector="pl17" landmark="pl14" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="pl15" fromText="남태평양" toID="pl4" toText="크리스마스섬" objectID1="pl4" objectID2="pl15" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl7" fromText="남태평양" toID="pl8" toText="크리스마스" objectID1="pl8" objectID2="pl7" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl10" fromText="크리스마스 섬" toID="pl17" toText="섬" objectID1="pl17" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl28" fromText="인도양" toID="pl29" toText="곳" objectID1="pl29" objectID2="pl28" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl32" fromText="섬" toID="pl33" toText="삼림지역" objectID1="pl33" objectID2="pl32" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl36" fromText="호주" toID="pl37" toText="크리스마스 섬" objectID1="pl37" objectID2="pl36" relType="SUBCOREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

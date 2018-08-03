@@ -1,0 +1,210 @@
+{
+    "doc_id": "E2016.788.18_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "순망치한", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "입술이 없으면 이가 시리다는 뜻으로, 서로 이해관계가 밀접한 사이에 어느 한쪽이 망하면 다른 한쪽도 그 영향을 받아 온전하기 어려움을 이르는 말.", 
+            "morp": [
+                {"id": 0, "lemma": "입술", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "이", "type": "JKS", "position": 6, "weight": 0.0360723}, 
+                {"id": 2, "lemma": "없", "type": "VA", "position": 10, "weight": 0.249359}, 
+                {"id": 3, "lemma": "으면", "type": "EC", "position": 13, "weight": 0.318116}, 
+                {"id": 4, "lemma": "이", "type": "NNG", "position": 20, "weight": 0.000229373}, 
+                {"id": 5, "lemma": "가", "type": "JKS", "position": 23, "weight": 0.066324}, 
+                {"id": 6, "lemma": "시리", "type": "VA", "position": 27, "weight": 0.247111}, 
+                {"id": 7, "lemma": "다는", "type": "ETM", "position": 33, "weight": 0.449331}, 
+                {"id": 8, "lemma": "뜻", "type": "NNG", "position": 40, "weight": 0.9}, 
+                {"id": 9, "lemma": "으로", "type": "JKB", "position": 43, "weight": 0.153406}, 
+                {"id": 10, "lemma": ",", "type": "SP", "position": 49, "weight": 1}, 
+                {"id": 11, "lemma": "서로", "type": "MAG", "position": 51, "weight": 0.0492016}, 
+                {"id": 12, "lemma": "이해", "type": "NNG", "position": 58, "weight": 0.9}, 
+                {"id": 13, "lemma": "관계", "type": "NNG", "position": 64, "weight": 0.9}, 
+                {"id": 14, "lemma": "가", "type": "JKS", "position": 70, "weight": 0.066324}, 
+                {"id": 15, "lemma": "밀접", "type": "NNG", "position": 74, "weight": 0.45}, 
+                {"id": 16, "lemma": "하", "type": "XSA", "position": 80, "weight": 0.0001}, 
+                {"id": 17, "lemma": "ㄴ", "type": "ETM", "position": 80, "weight": 0.488779}, 
+                {"id": 18, "lemma": "사이", "type": "NNG", "position": 84, "weight": 0.658797}, 
+                {"id": 19, "lemma": "에", "type": "JKB", "position": 90, "weight": 0.153364}, 
+                {"id": 20, "lemma": "어느", "type": "MM", "position": 94, "weight": 0.0183634}, 
+                {"id": 21, "lemma": "한쪽", "type": "NNG", "position": 101, "weight": 0.9}, 
+                {"id": 22, "lemma": "이", "type": "JKS", "position": 107, "weight": 0.0360723}, 
+                {"id": 23, "lemma": "망하", "type": "VV", "position": 111, "weight": 0.313829}, 
+                {"id": 24, "lemma": "면", "type": "EC", "position": 117, "weight": 0.399365}, 
+                {"id": 25, "lemma": "다른", "type": "MM", "position": 121, "weight": 0.9}, 
+                {"id": 26, "lemma": "한쪽", "type": "NNG", "position": 128, "weight": 0.9}, 
+                {"id": 27, "lemma": "도", "type": "JX", "position": 134, "weight": 0.0676272}, 
+                {"id": 28, "lemma": "그", "type": "MM", "position": 138, "weight": 0.0229726}, 
+                {"id": 29, "lemma": "영향", "type": "NNG", "position": 142, "weight": 0.9}, 
+                {"id": 30, "lemma": "을", "type": "JKO", "position": 148, "weight": 0.129611}, 
+                {"id": 31, "lemma": "받", "type": "VV", "position": 152, "weight": 0.765648}, 
+                {"id": 32, "lemma": "아", "type": "EC", "position": 155, "weight": 0.398809}, 
+                {"id": 33, "lemma": "온전하", "type": "VA", "position": 159, "weight": 0.9}, 
+                {"id": 34, "lemma": "기", "type": "ETN", "position": 168, "weight": 0.0217586}, 
+                {"id": 35, "lemma": "어려움", "type": "NNG", "position": 172, "weight": 0.9}, 
+                {"id": 36, "lemma": "을", "type": "JKO", "position": 181, "weight": 0.129611}, 
+                {"id": 37, "lemma": "이르", "type": "VV", "position": 185, "weight": 0.760305}, 
+                {"id": 38, "lemma": "는", "type": "ETM", "position": 191, "weight": 0.184941}, 
+                {"id": 39, "lemma": "말", "type": "NNG", "position": 195, "weight": 0.528926}, 
+                {"id": 40, "lemma": ".", "type": "SF", "position": 198, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "입술", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "없", "type": "VA", "scode": "010301", "weight": 0.0588235, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "으면", "type": "EC", "scode": "000000", "weight": 1, "position": 13, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이", "type": "NNG", "scode": "030001", "weight": 0.0172414, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 23, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "시리", "type": "VA", "scode": "010002", "weight": 0.25, "position": 27, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "다는", "type": "ETM", "scode": "000000", "weight": 1, "position": 33, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "뜻", "type": "NNG", "scode": "000002", "weight": 0.333333, "position": 40, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 43, "begin": 9, "end": 9}, 
+                {"id": 10, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 49, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "서로", "type": "MAG", "scode": "010000", "weight": 0.2, "position": 51, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "이해관계", "type": "NNG", "scode": "000000", "weight": 1, "position": 58, "begin": 12, "end": 13}, 
+                {"id": 13, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 70, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "밀접하", "type": "VA", "scode": "000000", "weight": 1, "position": 74, "begin": 15, "end": 16}, 
+                {"id": 15, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 80, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "사이", "type": "NNG", "scode": "010001", "weight": 0.0833333, "position": 84, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 90, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "어느", "type": "MM", "scode": "010002", "weight": 0.166667, "position": 94, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "한쪽", "type": "NNG", "scode": "000000", "weight": 1, "position": 101, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 107, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "망하", "type": "VV", "scode": "000101", "weight": 0.333333, "position": 111, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "면", "type": "EC", "scode": "000000", "weight": 1, "position": 117, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "다른", "type": "MM", "scode": "000000", "weight": 1, "position": 121, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "한쪽", "type": "NNG", "scode": "000000", "weight": 1, "position": 128, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 134, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "그", "type": "MM", "scode": "010102", "weight": 0.142857, "position": 138, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "영향", "type": "NNG", "scode": "040000", "weight": 0.25, "position": 142, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 148, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "받", "type": "VV", "scode": "010103", "weight": 0.037037, "position": 152, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 155, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "온전하", "type": "VA", "scode": "000001", "weight": 0.5, "position": 159, "begin": 33, "end": 33}, 
+                {"id": 32, "text": "기", "type": "ETN", "scode": "000000", "weight": 1, "position": 168, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "어려움", "type": "NNG", "scode": "000000", "weight": 1, "position": 172, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 181, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "이르", "type": "VV", "scode": "020200", "weight": 0.1, "position": 185, "begin": 37, "end": 37}, 
+                {"id": 36, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 191, "begin": 38, "end": 38}, 
+                {"id": 37, "text": "말", "type": "NNG", "scode": "010004", "weight": 0.0384615, "position": 195, "begin": 39, "end": 39}, 
+                {"id": 38, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 198, "begin": 40, "end": 40}
+            ], 
+            "word": [
+                {"id": 0, "text": "입술이", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "없으면", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "이가", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "시리다는", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "뜻으로,", "type": "", "begin": 8, "end": 10}, 
+                {"id": 5, "text": "서로", "type": "", "begin": 11, "end": 11}, 
+                {"id": 6, "text": "이해관계가", "type": "", "begin": 12, "end": 14}, 
+                {"id": 7, "text": "밀접한", "type": "", "begin": 15, "end": 17}, 
+                {"id": 8, "text": "사이에", "type": "", "begin": 18, "end": 19}, 
+                {"id": 9, "text": "어느", "type": "", "begin": 20, "end": 20}, 
+                {"id": 10, "text": "한쪽이", "type": "", "begin": 21, "end": 22}, 
+                {"id": 11, "text": "망하면", "type": "", "begin": 23, "end": 24}, 
+                {"id": 12, "text": "다른", "type": "", "begin": 25, "end": 25}, 
+                {"id": 13, "text": "한쪽도", "type": "", "begin": 26, "end": 27}, 
+                {"id": 14, "text": "그", "type": "", "begin": 28, "end": 28}, 
+                {"id": 15, "text": "영향을", "type": "", "begin": 29, "end": 30}, 
+                {"id": 16, "text": "받아", "type": "", "begin": 31, "end": 32}, 
+                {"id": 17, "text": "온전하기", "type": "", "begin": 33, "end": 34}, 
+                {"id": 18, "text": "어려움을", "type": "", "begin": 35, "end": 36}, 
+                {"id": 19, "text": "이르는", "type": "", "begin": 37, "end": 38}, 
+                {"id": 20, "text": "말.", "type": "", "begin": 39, "end": 40}
+            ], 
+            "NE": [
+                {"id": 0, "text": "입술", "type": "AM_PART", "begin": 0, "end": 0, "weight": 0.533929, "common_noun": 0}, 
+                {"id": 1, "text": "이", "type": "AM_PART", "begin": 4, "end": 4, "weight": 0.533929, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "입술이", "head": 1, "label": "NP_SBJ", "mod": [], "weight": 0.693278}, 
+                {"id": 1, "text": "없으면", "head": 3, "label": "VP", "mod": [0], "weight": 0.471335}, 
+                {"id": 2, "text": "이가", "head": 3, "label": "NP_SBJ", "mod": [], "weight": 0.582379}, 
+                {"id": 3, "text": "시리다는", "head": 4, "label": "VP_MOD", "mod": [1, 2], "weight": 0.813599}, 
+                {"id": 4, "text": "뜻으로,", "head": 20, "label": "NP_AJT", "mod": [3], "weight": 0.103811}, 
+                {"id": 5, "text": "서로", "head": 7, "label": "AP", "mod": [], "weight": 0.389759}, 
+                {"id": 6, "text": "이해관계가", "head": 7, "label": "NP_SBJ", "mod": [], "weight": 0.606531}, 
+                {"id": 7, "text": "밀접한", "head": 8, "label": "VP_MOD", "mod": [5, 6], "weight": 0.648932}, 
+                {"id": 8, "text": "사이에", "head": 11, "label": "NP_AJT", "mod": [7], "weight": 0.754659}, 
+                {"id": 9, "text": "어느", "head": 10, "label": "DP", "mod": [], "weight": 0.745547}, 
+                {"id": 10, "text": "한쪽이", "head": 11, "label": "NP_SBJ", "mod": [9], "weight": 0.773603}, 
+                {"id": 11, "text": "망하면", "head": 16, "label": "VP", "mod": [8, 10], "weight": 0.630259}, 
+                {"id": 12, "text": "다른", "head": 13, "label": "DP", "mod": [], "weight": 0.599592}, 
+                {"id": 13, "text": "한쪽도", "head": 16, "label": "NP_SBJ", "mod": [12], "weight": 0.336553}, 
+                {"id": 14, "text": "그", "head": 15, "label": "DP", "mod": [], "weight": 0.674819}, 
+                {"id": 15, "text": "영향을", "head": 16, "label": "NP_OBJ", "mod": [14], "weight": 0.835334}, 
+                {"id": 16, "text": "받아", "head": 18, "label": "VP", "mod": [11, 13, 15], "weight": 0.696255}, 
+                {"id": 17, "text": "온전하기", "head": 18, "label": "VP_SBJ", "mod": [], "weight": 0.780866}, 
+                {"id": 18, "text": "어려움을", "head": 19, "label": "NP_OBJ", "mod": [17, 16], "weight": 0.747696}, 
+                {"id": 19, "text": "이르는", "head": 20, "label": "VP_MOD", "mod": [18], "weight": 0.884524}, 
+                {"id": 20, "text": "말.", "head": -1, "label": "NP", "mod": [19, 4], "weight": 2.23983e-05}
+            ], 
+            "SRL": [
+                {"verb": "없", "sense": 1, "word_id": 1, "weight": 0.199175, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "입술이", "weight": 0.199175}
+                ]}, 
+                {"verb": "시리", "sense": 1, "word_id": 3, "weight": 0.190222, "argument": [
+                    {"type": "ARGM-CND", "word_id": 1, "text": "없으면", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 2, "text": "이가", "weight": 0.214588}
+                ]}, 
+                {"verb": "밀접", "sense": 1, "word_id": 7, "weight": 0.157743, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "이해관계가", "weight": 0.123858}
+                ]}, 
+                {"verb": "망하", "sense": 1, "word_id": 11, "weight": 0.168402, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "한쪽이", "weight": 0.168402}
+                ]}, 
+                {"verb": "받", "sense": 1, "word_id": 16, "weight": 0.163538, "argument": [
+                    {"type": "ARGM-CND", "word_id": 11, "text": "망하면", "weight": 0.147112}, 
+                    {"type": "ARG0", "word_id": 13, "text": "한쪽도", "weight": 0.0930412}, 
+                    {"type": "ARG1", "word_id": 15, "text": "영향을", "weight": 0.250459}
+                ]}, 
+                {"verb": "이르", "sense": 2, "word_id": 19, "weight": 0.330662, "argument": [
+                    {"type": "ARG1", "word_id": 18, "text": "어려움을", "weight": 0.330662}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "입술이 없으면 이가 시리다는 뜻으로,", "start_eid_short": 4, "end_eid_short": 4, "text_short": "뜻으로,"}, 
+            {"id": 3, "sent_id": 0, "start_eid": 5, "end_eid": 20, "ne_id": -1, "text": "서로 이해관계가 밀접한 사이에 어느 한쪽이 망하면 다른 한쪽도 그 영향을 받아 온전하기 어려움을 이르는 말.", "start_eid_short": 20, "end_eid_short": 20, "text_short": "말."}
+        ]}, 
+        {"id": 1, "type": "AM_PART", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "입술이", "start_eid_short": 0, "end_eid_short": 0, "text_short": "입술이"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "이가", "start_eid_short": 2, "end_eid_short": 2, "text_short": "이가"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 8, "ne_id": -1, "text": "서로 이해관계가 밀접한 사이에", "start_eid_short": 8, "end_eid_short": 8, "text_short": "사이에"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "이해관계가", "start_eid_short": 6, "end_eid_short": 6, "text_short": "이해관계가"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 9, "end_eid": 10, "ne_id": -1, "text": "어느 한쪽이", "start_eid_short": 9, "end_eid_short": 10, "text_short": "어느 한쪽이"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 12, "end_eid": 13, "ne_id": -1, "text": "다른 한쪽도", "start_eid_short": 12, "end_eid_short": 13, "text_short": "다른 한쪽도"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 14, "end_eid": 15, "ne_id": -1, "text": "그 영향을", "start_eid_short": 14, "end_eid_short": 15, "text_short": "그 영향을"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "서로", "start_eid_short": 5, "end_eid_short": 5, "text_short": "서로"}
+        ]}
+    ]
+}

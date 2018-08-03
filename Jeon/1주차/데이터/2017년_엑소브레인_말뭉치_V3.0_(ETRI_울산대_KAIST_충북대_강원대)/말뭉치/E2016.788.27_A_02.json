@@ -1,0 +1,280 @@
+{
+    "doc_id": "E2016.788.27_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "스피드건", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<기계> 자동차의 속도나 투수가 던지는 공의 속도를 측정하는 기구.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "기계", "type": "NNG", "position": 1, "weight": 0.199957}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "자동", "type": "NNG", "position": 9, "weight": 0.9}, 
+                {"id": 4, "lemma": "차", "type": "NNG", "position": 15, "weight": 0.0735127}, 
+                {"id": 5, "lemma": "의", "type": "JKG", "position": 18, "weight": 0.0694213}, 
+                {"id": 6, "lemma": "속도", "type": "NNG", "position": 22, "weight": 0.9}, 
+                {"id": 7, "lemma": "나", "type": "JC", "position": 28, "weight": 0.00543468}, 
+                {"id": 8, "lemma": "투수", "type": "NNG", "position": 32, "weight": 0.9}, 
+                {"id": 9, "lemma": "가", "type": "JKS", "position": 38, "weight": 0.066324}, 
+                {"id": 10, "lemma": "던지", "type": "VV", "position": 42, "weight": 0.250596}, 
+                {"id": 11, "lemma": "는", "type": "ETM", "position": 48, "weight": 0.184941}, 
+                {"id": 12, "lemma": "공", "type": "NNG", "position": 52, "weight": 0.624815}, 
+                {"id": 13, "lemma": "의", "type": "JKG", "position": 55, "weight": 0.0694213}, 
+                {"id": 14, "lemma": "속도", "type": "NNG", "position": 59, "weight": 0.9}, 
+                {"id": 15, "lemma": "를", "type": "JKO", "position": 65, "weight": 0.137686}, 
+                {"id": 16, "lemma": "측정", "type": "NNG", "position": 69, "weight": 0.9}, 
+                {"id": 17, "lemma": "하", "type": "XSV", "position": 75, "weight": 0.0001}, 
+                {"id": 18, "lemma": "는", "type": "ETM", "position": 78, "weight": 0.238503}, 
+                {"id": 19, "lemma": "기구", "type": "NNG", "position": 82, "weight": 0.9}, 
+                {"id": 20, "lemma": ".", "type": "SF", "position": 88, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "기계", "type": "NNG", "scode": "070001", "weight": 0.0909091, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "자동차", "type": "NNG", "scode": "000000", "weight": 1, "position": 9, "begin": 3, "end": 4}, 
+                {"id": 4, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 18, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "속도", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 22, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "나", "type": "JC", "scode": "000000", "weight": 1, "position": 28, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "투수", "type": "NNG", "scode": "010000", "weight": 0.2, "position": 32, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 38, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "던지", "type": "VV", "scode": "000101", "weight": 0.0769231, "position": 42, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 48, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "공", "type": "NNG", "scode": "010001", "weight": 0.0333333, "position": 52, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 55, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "속도", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 59, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 65, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "측정하", "type": "VV", "scode": "010001", "weight": 0.333333, "position": 69, "begin": 16, "end": 17}, 
+                {"id": 16, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 78, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "기구", "type": "NNG", "scode": "140001", "weight": 0.047619, "position": 82, "begin": 19, "end": 19}, 
+                {"id": 18, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 88, "begin": 20, "end": 20}
+            ], 
+            "word": [
+                {"id": 0, "text": "<기계>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "자동차의", "type": "", "begin": 3, "end": 5}, 
+                {"id": 2, "text": "속도나", "type": "", "begin": 6, "end": 7}, 
+                {"id": 3, "text": "투수가", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "던지는", "type": "", "begin": 10, "end": 11}, 
+                {"id": 5, "text": "공의", "type": "", "begin": 12, "end": 13}, 
+                {"id": 6, "text": "속도를", "type": "", "begin": 14, "end": 15}, 
+                {"id": 7, "text": "측정하는", "type": "", "begin": 16, "end": 18}, 
+                {"id": 8, "text": "기구.", "type": "", "begin": 19, "end": 20}
+            ], 
+            "NE": [
+                {"id": 0, "text": "자동차", "type": "AF_TRANSPORT", "begin": 3, "end": 4, "weight": 0.590185, "common_noun": 0}, 
+                {"id": 1, "text": "투수", "type": "CV_POSITION", "begin": 8, "end": 8, "weight": 0.521451, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<기계>", "head": 8, "label": "NP", "mod": [], "weight": 0.832046}, 
+                {"id": 1, "text": "자동차의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.77582}, 
+                {"id": 2, "text": "속도나", "head": 6, "label": "NP_CNJ", "mod": [1], "weight": 0.730972}, 
+                {"id": 3, "text": "투수가", "head": 4, "label": "NP_SBJ", "mod": [], "weight": 0.664797}, 
+                {"id": 4, "text": "던지는", "head": 5, "label": "VP_MOD", "mod": [3], "weight": 0.171113}, 
+                {"id": 5, "text": "공의", "head": 6, "label": "NP_MOD", "mod": [4], "weight": 0.777581}, 
+                {"id": 6, "text": "속도를", "head": 7, "label": "NP_OBJ", "mod": [2, 5], "weight": 0.750869}, 
+                {"id": 7, "text": "측정하는", "head": 8, "label": "VP_MOD", "mod": [6], "weight": 0.797037}, 
+                {"id": 8, "text": "기구.", "head": -1, "label": "NP", "mod": [0, 7], "weight": 0.0215738}
+            ], 
+            "SRL": [
+                {"verb": "던지", "sense": 1, "word_id": 4, "weight": 0.186335, "argument": [
+                    {"type": "ARG0", "word_id": 3, "text": "투수가", "weight": 0.264442}, 
+                    {"type": "ARG1", "word_id": 5, "text": "공의", "weight": 0.108228}
+                ]}, 
+                {"verb": "측정", "sense": 1, "word_id": 7, "weight": 0.170529, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "속도를", "weight": 0.243504}, 
+                    {"type": "ARG0", "word_id": 8, "text": "기구.", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "마이크로파를 움직이는 물체에 발사하면 물체의 속도에 따라 반사 파장이 변화하는 성질에 의해서 속도를 측정한다.", 
+            "morp": [
+                {"id": 0, "lemma": "마이크로", "type": "NNG", "position": 89, "weight": 0.9}, 
+                {"id": 1, "lemma": "파", "type": "XSN", "position": 101, "weight": 0.000623483}, 
+                {"id": 2, "lemma": "를", "type": "JKO", "position": 104, "weight": 0.0870227}, 
+                {"id": 3, "lemma": "움직이", "type": "VV", "position": 108, "weight": 0.9}, 
+                {"id": 4, "lemma": "는", "type": "ETM", "position": 117, "weight": 0.184941}, 
+                {"id": 5, "lemma": "물체", "type": "NNG", "position": 121, "weight": 0.9}, 
+                {"id": 6, "lemma": "에", "type": "JKB", "position": 127, "weight": 0.153364}, 
+                {"id": 7, "lemma": "발사", "type": "NNG", "position": 131, "weight": 0.207386}, 
+                {"id": 8, "lemma": "하", "type": "XSV", "position": 137, "weight": 0.0001}, 
+                {"id": 9, "lemma": "면", "type": "EC", "position": 140, "weight": 0.344962}, 
+                {"id": 10, "lemma": "물체", "type": "NNG", "position": 144, "weight": 0.9}, 
+                {"id": 11, "lemma": "의", "type": "JKG", "position": 150, "weight": 0.0694213}, 
+                {"id": 12, "lemma": "속도", "type": "NNG", "position": 154, "weight": 0.9}, 
+                {"id": 13, "lemma": "에", "type": "JKB", "position": 160, "weight": 0.153364}, 
+                {"id": 14, "lemma": "따르", "type": "VV", "position": 164, "weight": 0.9}, 
+                {"id": 15, "lemma": "아", "type": "EC", "position": 167, "weight": 0.398809}, 
+                {"id": 16, "lemma": "반사", "type": "NNG", "position": 171, "weight": 0.9}, 
+                {"id": 17, "lemma": "파장", "type": "NNG", "position": 178, "weight": 0.184483}, 
+                {"id": 18, "lemma": "이", "type": "JKS", "position": 184, "weight": 0.0360723}, 
+                {"id": 19, "lemma": "변화", "type": "NNG", "position": 188, "weight": 0.9}, 
+                {"id": 20, "lemma": "하", "type": "XSV", "position": 194, "weight": 0.0001}, 
+                {"id": 21, "lemma": "는", "type": "ETM", "position": 197, "weight": 0.238503}, 
+                {"id": 22, "lemma": "성질", "type": "NNG", "position": 201, "weight": 0.9}, 
+                {"id": 23, "lemma": "에", "type": "JKB", "position": 207, "weight": 0.153364}, 
+                {"id": 24, "lemma": "의하", "type": "VV", "position": 211, "weight": 0.9}, 
+                {"id": 25, "lemma": "여서", "type": "EC", "position": 214, "weight": 0.421998}, 
+                {"id": 26, "lemma": "속도", "type": "NNG", "position": 221, "weight": 0.9}, 
+                {"id": 27, "lemma": "를", "type": "JKO", "position": 227, "weight": 0.137686}, 
+                {"id": 28, "lemma": "측정", "type": "NNG", "position": 231, "weight": 0.9}, 
+                {"id": 29, "lemma": "하", "type": "XSV", "position": 237, "weight": 0.0001}, 
+                {"id": 30, "lemma": "ㄴ다", "type": "EF", "position": 237, "weight": 0.0449045}, 
+                {"id": 31, "lemma": ".", "type": "SF", "position": 243, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "마이크로파", "type": "NNG", "scode": "000000", "weight": 1, "position": 89, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 104, "begin": 2, "end": 2}, 
+                {"id": 2, "text": "움직이", "type": "VV", "scode": "000001", "weight": 0.2, "position": 108, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 117, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "물체", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 121, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 127, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "발사하", "type": "VV", "scode": "000000", "weight": 1, "position": 131, "begin": 7, "end": 8}, 
+                {"id": 7, "text": "면", "type": "EC", "scode": "000000", "weight": 1, "position": 140, "begin": 9, "end": 9}, 
+                {"id": 8, "text": "물체", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 144, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 150, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "속도", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 154, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 160, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "따르", "type": "VV", "scode": "010202", "weight": 0.125, "position": 164, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 167, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "반사", "type": "NNG", "scode": "010001", "weight": 0.0909091, "position": 171, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "파장", "type": "NNG", "scode": "020001", "weight": 0.2, "position": 178, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 184, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "변화하", "type": "VV", "scode": "000000", "weight": 1, "position": 188, "begin": 19, "end": 20}, 
+                {"id": 18, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 197, "begin": 21, "end": 21}, 
+                {"id": 19, "text": "성질", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 201, "begin": 22, "end": 22}, 
+                {"id": 20, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 207, "begin": 23, "end": 23}, 
+                {"id": 21, "text": "의하", "type": "VV", "scode": "010000", "weight": 0.5, "position": 211, "begin": 24, "end": 24}, 
+                {"id": 22, "text": "여서", "type": "EC", "scode": "000000", "weight": 1, "position": 214, "begin": 25, "end": 25}, 
+                {"id": 23, "text": "속도", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 221, "begin": 26, "end": 26}, 
+                {"id": 24, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 227, "begin": 27, "end": 27}, 
+                {"id": 25, "text": "측정하", "type": "VV", "scode": "010001", "weight": 0.333333, "position": 231, "begin": 28, "end": 29}, 
+                {"id": 26, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 237, "begin": 30, "end": 30}, 
+                {"id": 27, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 243, "begin": 31, "end": 31}
+            ], 
+            "word": [
+                {"id": 0, "text": "마이크로파를", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "움직이는", "type": "", "begin": 3, "end": 4}, 
+                {"id": 2, "text": "물체에", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "발사하면", "type": "", "begin": 7, "end": 9}, 
+                {"id": 4, "text": "물체의", "type": "", "begin": 10, "end": 11}, 
+                {"id": 5, "text": "속도에", "type": "", "begin": 12, "end": 13}, 
+                {"id": 6, "text": "따라", "type": "", "begin": 14, "end": 15}, 
+                {"id": 7, "text": "반사", "type": "", "begin": 16, "end": 16}, 
+                {"id": 8, "text": "파장이", "type": "", "begin": 17, "end": 18}, 
+                {"id": 9, "text": "변화하는", "type": "", "begin": 19, "end": 21}, 
+                {"id": 10, "text": "성질에", "type": "", "begin": 22, "end": 23}, 
+                {"id": 11, "text": "의해서", "type": "", "begin": 24, "end": 25}, 
+                {"id": 12, "text": "속도를", "type": "", "begin": 26, "end": 27}, 
+                {"id": 13, "text": "측정한다.", "type": "", "begin": 28, "end": 31}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "마이크로파를", "head": 3, "label": "NP_OBJ", "mod": [], "weight": 0.00912427}, 
+                {"id": 1, "text": "움직이는", "head": 2, "label": "VP_MOD", "mod": [], "weight": 0.820089}, 
+                {"id": 2, "text": "물체에", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.823267}, 
+                {"id": 3, "text": "발사하면", "head": 6, "label": "VP", "mod": [2, 0], "weight": 0.390406}, 
+                {"id": 4, "text": "물체의", "head": 5, "label": "NP_MOD", "mod": [], "weight": 0.838623}, 
+                {"id": 5, "text": "속도에", "head": 6, "label": "NP_AJT", "mod": [4], "weight": 0.746701}, 
+                {"id": 6, "text": "따라", "head": 9, "label": "VP", "mod": [3, 5], "weight": 0.848601}, 
+                {"id": 7, "text": "반사", "head": 8, "label": "NP", "mod": [], "weight": 0.426132}, 
+                {"id": 8, "text": "파장이", "head": 9, "label": "NP_SBJ", "mod": [7], "weight": 0.754462}, 
+                {"id": 9, "text": "변화하는", "head": 10, "label": "VP_MOD", "mod": [8, 6], "weight": 0.837104}, 
+                {"id": 10, "text": "성질에", "head": 11, "label": "NP_AJT", "mod": [9], "weight": 0.795145}, 
+                {"id": 11, "text": "의해서", "head": 13, "label": "VP", "mod": [10], "weight": 0.706851}, 
+                {"id": 12, "text": "속도를", "head": 13, "label": "NP_OBJ", "mod": [], "weight": 0.768521}, 
+                {"id": 13, "text": "측정한다.", "head": -1, "label": "VP", "mod": [11, 12], "weight": 0.0001265}
+            ], 
+            "SRL": [
+                {"verb": "움직이", "sense": 1, "word_id": 1, "weight": 0.187313, "argument": [
+                    {"type": "ARG0", "word_id": 2, "text": "물체에", "weight": 1}
+                ]}, 
+                {"verb": "발사", "sense": 1, "word_id": 3, "weight": 0.145666, "argument": [
+                    {"type": "ARG2", "word_id": 2, "text": "물체에", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 0, "text": "마이크로파를", "weight": 1}
+                ]}, 
+                {"verb": "따르", "sense": 2, "word_id": 6, "weight": 0.17558, "argument": [
+                    {"type": "ARG2", "word_id": 5, "text": "속도에", "weight": 0.17558}
+                ]}, 
+                {"verb": "변화", "sense": 1, "word_id": 9, "weight": 0.126191, "argument": [
+                    {"type": "ARGM-CAU", "word_id": 6, "text": "따라", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 8, "text": "파장이", "weight": 0.140177}
+                ]}, 
+                {"verb": "의하", "sense": 1, "word_id": 11, "weight": 0.202002, "argument": [
+                    {"type": "ARG2", "word_id": 10, "text": "성질에", "weight": 0.202002}
+                ]}, 
+                {"verb": "측정", "sense": 1, "word_id": 13, "weight": 0.181223, "argument": [
+                    {"type": "ARG1", "word_id": 12, "text": "속도를", "weight": 0.195821}, 
+                    {"type": "ARGM-MNR", "word_id": 11, "text": "의해서", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "자동차의 속도나", "start_eid_short": 2, "end_eid_short": 2, "text_short": "속도나"}
+        ]}, 
+        {"id": 1, "type": "AF_TRANSPORT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "자동차의", "start_eid_short": 1, "end_eid_short": 1, "text_short": "자동차의"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 6, "ne_id": -1, "text": "자동차의 속도나 투수가 던지는 공의 속도를", "start_eid_short": 6, "end_eid_short": 6, "text_short": "속도를"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 3, "end_eid": 5, "ne_id": -1, "text": "투수가 던지는 공의", "start_eid_short": 5, "end_eid_short": 5, "text_short": "공의"}
+        ]}, 
+        {"id": 4, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": 1, "text": "투수가", "start_eid_short": 3, "end_eid_short": 3, "text_short": "투수가"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "마이크로파를", "start_eid_short": 0, "end_eid_short": 0, "text_short": "마이크로파를"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "움직이는 물체에", "start_eid_short": 2, "end_eid_short": 2, "text_short": "물체에"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 4, "end_eid": 5, "ne_id": -1, "text": "물체의 속도에", "start_eid_short": 5, "end_eid_short": 5, "text_short": "속도에"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "물체의", "start_eid_short": 4, "end_eid_short": 4, "text_short": "물체의"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 7, "end_eid": 10, "ne_id": -1, "text": "반사 파장이 변화하는 성질에", "start_eid_short": 10, "end_eid_short": 10, "text_short": "성질에"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 7, "end_eid": 8, "ne_id": -1, "text": "반사 파장이", "start_eid_short": 7, "end_eid_short": 8, "text_short": "반사 파장이"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "반사", "start_eid_short": 7, "end_eid_short": 7, "text_short": "반사"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 12, "end_eid": 12, "ne_id": -1, "text": "속도를", "start_eid_short": 12, "end_eid_short": 12, "text_short": "속도를"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 3, "end_eid": 6, "ne_id": -1, "text": "투수가 던지는 공의 속도를", "start_eid_short": 6, "end_eid_short": 6, "text_short": "속도를"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 1, "end_eid": 8, "ne_id": -1, "text": "자동차의 속도나 투수가 던지는 공의 속도를 측정하는 기구.", "start_eid_short": 8, "end_eid_short": 8, "text_short": "기구."}
+        ]}
+    ]
+}

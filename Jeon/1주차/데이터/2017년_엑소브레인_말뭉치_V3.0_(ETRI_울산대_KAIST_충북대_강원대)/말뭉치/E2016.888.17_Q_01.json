@@ -1,0 +1,190 @@
+{
+    "doc_id": "E2016.888.17_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "‘여리’라는 말과 합쳐져 사자성어로 쓰이는 이것은 아슬아슬하고 위험한 상황을 이르는 단어다.", 
+            "morp": [
+                {"id": 0, "lemma": "‘", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "여리", "type": "NNG", "position": 3, "weight": 0.00248448}, 
+                {"id": 2, "lemma": "’", "type": "SS", "position": 9, "weight": 1}, 
+                {"id": 3, "lemma": "이", "type": "VCP", "position": 12, "weight": 0.00747344}, 
+                {"id": 4, "lemma": "라는", "type": "ETM", "position": 12, "weight": 0.230361}, 
+                {"id": 5, "lemma": "말", "type": "NNG", "position": 19, "weight": 0.528926}, 
+                {"id": 6, "lemma": "과", "type": "JKB", "position": 22, "weight": 0.0503087}, 
+                {"id": 7, "lemma": "합치", "type": "VV", "position": 26, "weight": 0.437998}, 
+                {"id": 8, "lemma": "어", "type": "EC", "position": 29, "weight": 0.41831}, 
+                {"id": 9, "lemma": "지", "type": "VX", "position": 29, "weight": 0.0539764}, 
+                {"id": 10, "lemma": "어", "type": "EC", "position": 29, "weight": 0.257443}, 
+                {"id": 11, "lemma": "사자", "type": "NNG", "position": 36, "weight": 0.9}, 
+                {"id": 12, "lemma": "성어", "type": "NNG", "position": 42, "weight": 0.9}, 
+                {"id": 13, "lemma": "로", "type": "JKB", "position": 48, "weight": 0.153229}, 
+                {"id": 14, "lemma": "쓰이", "type": "VV", "position": 52, "weight": 0.9}, 
+                {"id": 15, "lemma": "는", "type": "ETM", "position": 58, "weight": 0.184941}, 
+                {"id": 16, "lemma": "이것", "type": "NP", "position": 62, "weight": 0.0102992}, 
+                {"id": 17, "lemma": "은", "type": "JX", "position": 68, "weight": 0.191811}, 
+                {"id": 18, "lemma": "아슬아슬", "type": "MAG", "position": 72, "weight": 0.7}, 
+                {"id": 19, "lemma": "하", "type": "XSA", "position": 84, "weight": 0.0001}, 
+                {"id": 20, "lemma": "고", "type": "EC", "position": 87, "weight": 0.352693}, 
+                {"id": 21, "lemma": "위험", "type": "NNG", "position": 91, "weight": 0.9}, 
+                {"id": 22, "lemma": "하", "type": "XSA", "position": 97, "weight": 0.0001}, 
+                {"id": 23, "lemma": "ㄴ", "type": "ETM", "position": 97, "weight": 0.488779}, 
+                {"id": 24, "lemma": "상황", "type": "NNG", "position": 101, "weight": 0.9}, 
+                {"id": 25, "lemma": "을", "type": "JKO", "position": 107, "weight": 0.129611}, 
+                {"id": 26, "lemma": "이르", "type": "VV", "position": 111, "weight": 0.760305}, 
+                {"id": 27, "lemma": "는", "type": "ETM", "position": 117, "weight": 0.184941}, 
+                {"id": 28, "lemma": "단어", "type": "NNG", "position": 121, "weight": 0.9}, 
+                {"id": 29, "lemma": "이", "type": "VCP", "position": 124, "weight": 0.0177525}, 
+                {"id": 30, "lemma": "다", "type": "EF", "position": 127, "weight": 0.353579}, 
+                {"id": 31, "lemma": ".", "type": "SF", "position": 130, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "‘", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "여리", "type": "NNG", "scode": "000000", "weight": 1, "position": 3, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "’", "type": "SS", "scode": "000000", "weight": 1, "position": 9, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 12, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "라는", "type": "ETM", "scode": "000000", "weight": 1, "position": 12, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "말", "type": "NNG", "scode": "010004", "weight": 0.0384615, "position": 19, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "과", "type": "JKB", "scode": "000000", "weight": 1, "position": 22, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "합치", "type": "VV", "scode": "000000", "weight": 1, "position": 26, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 29, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "지", "type": "VX", "scode": "040101", "weight": 0.037037, "position": 29, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 29, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "사자성어", "type": "NNG", "scode": "000000", "weight": 0.0555556, "position": 36, "begin": 11, "end": 12}, 
+                {"id": 12, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 48, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "쓰이", "type": "VV", "scode": "030204", "weight": 0.0588235, "position": 52, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 58, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "이것", "type": "NP", "scode": "000001", "weight": 0.25, "position": 62, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 68, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "아슬아슬하", "type": "VA", "scode": "000002", "weight": 0.5, "position": 72, "begin": 18, "end": 19}, 
+                {"id": 18, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 87, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "위험하", "type": "VA", "scode": "000000", "weight": 1, "position": 91, "begin": 21, "end": 22}, 
+                {"id": 20, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 97, "begin": 23, "end": 23}, 
+                {"id": 21, "text": "상황", "type": "NNG", "scode": "020000", "weight": 0.2, "position": 101, "begin": 24, "end": 24}, 
+                {"id": 22, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 107, "begin": 25, "end": 25}, 
+                {"id": 23, "text": "이르", "type": "VV", "scode": "020200", "weight": 0.1, "position": 111, "begin": 26, "end": 26}, 
+                {"id": 24, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 117, "begin": 27, "end": 27}, 
+                {"id": 25, "text": "단어", "type": "NNG", "scode": "000000", "weight": 1, "position": 121, "begin": 28, "end": 28}, 
+                {"id": 26, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 124, "begin": 29, "end": 29}, 
+                {"id": 27, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 127, "begin": 30, "end": 30}, 
+                {"id": 28, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 130, "begin": 31, "end": 31}
+            ], 
+            "word": [
+                {"id": 0, "text": "‘여리’라는", "type": "", "begin": 0, "end": 4}, 
+                {"id": 1, "text": "말과", "type": "", "begin": 5, "end": 6}, 
+                {"id": 2, "text": "합쳐져", "type": "", "begin": 7, "end": 10}, 
+                {"id": 3, "text": "사자성어로", "type": "", "begin": 11, "end": 13}, 
+                {"id": 4, "text": "쓰이는", "type": "", "begin": 14, "end": 15}, 
+                {"id": 5, "text": "이것은", "type": "", "begin": 16, "end": 17}, 
+                {"id": 6, "text": "아슬아슬하고", "type": "", "begin": 18, "end": 20}, 
+                {"id": 7, "text": "위험한", "type": "", "begin": 21, "end": 23}, 
+                {"id": 8, "text": "상황을", "type": "", "begin": 24, "end": 25}, 
+                {"id": 9, "text": "이르는", "type": "", "begin": 26, "end": 27}, 
+                {"id": 10, "text": "단어다.", "type": "", "begin": 28, "end": 31}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "‘여리’라는", "head": 1, "label": "VNP_MOD", "mod": [], "weight": 0.506199}, 
+                {"id": 1, "text": "말과", "head": 2, "label": "NP_AJT", "mod": [0], "weight": 0.856475}, 
+                {"id": 2, "text": "합쳐져", "head": 4, "label": "VP", "mod": [1], "weight": 0.679576}, 
+                {"id": 3, "text": "사자성어로", "head": 4, "label": "NP_AJT", "mod": [], "weight": 0.722433}, 
+                {"id": 4, "text": "쓰이는", "head": 5, "label": "VP_MOD", "mod": [2, 3], "weight": 0.50411}, 
+                {"id": 5, "text": "이것은", "head": 10, "label": "NP_SBJ", "mod": [4], "weight": 0.644973}, 
+                {"id": 6, "text": "아슬아슬하고", "head": 7, "label": "VP", "mod": [], "weight": 0.00987747}, 
+                {"id": 7, "text": "위험한", "head": 8, "label": "VP_MOD", "mod": [6], "weight": 0.803983}, 
+                {"id": 8, "text": "상황을", "head": 9, "label": "NP_OBJ", "mod": [7], "weight": 0.816682}, 
+                {"id": 9, "text": "이르는", "head": 10, "label": "VP_MOD", "mod": [8], "weight": 0.828688}, 
+                {"id": 10, "text": "단어다.", "head": -1, "label": "VNP", "mod": [9, 5], "weight": 0.000313485}
+            ], 
+            "SRL": [
+                {"verb": "합치", "sense": 1, "word_id": 2, "weight": 0.178024, "argument": [
+                    {"type": "ARG2", "word_id": 1, "text": "말과", "weight": 0.150002}
+                ]}, 
+                {"verb": "쓰", "sense": 1, "word_id": 4, "weight": 0.182055, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 2, "text": "합쳐져", "weight": 0.143628}, 
+                    {"type": "ARG2", "word_id": 3, "text": "사자성어로", "weight": 0.156468}, 
+                    {"type": "ARG1", "word_id": 5, "text": "이것은", "weight": 0.246068}
+                ]}, 
+                {"verb": "아슬아슬하", "sense": 1, "word_id": 6, "weight": 0, "argument": [
+                    {"type": "ARG1", "word_id": 8, "text": "상황을", "weight": 1}
+                ]}, 
+                {"verb": "위험", "sense": 1, "word_id": 7, "weight": 0, "argument": [
+                    {"type": "ARG1", "word_id": 8, "text": "상황을", "weight": 1}
+                ]}, 
+                {"verb": "이르", "sense": 4, "word_id": 9, "weight": 0.206817, "argument": [
+                    {"type": "ARG1", "word_id": 8, "text": "상황을", "weight": 0.270592}, 
+                    {"type": "ARG2", "word_id": 10, "text": "단어다.", "weight": 0.143042}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "이 단어는 무엇일까? ", 
+            "morp": [
+                {"id": 0, "lemma": "이", "type": "MM", "position": 131, "weight": 0.0020222}, 
+                {"id": 1, "lemma": "단어", "type": "NNG", "position": 135, "weight": 0.9}, 
+                {"id": 2, "lemma": "는", "type": "JX", "position": 141, "weight": 0.0287565}, 
+                {"id": 3, "lemma": "무엇", "type": "NP", "position": 145, "weight": 0.9}, 
+                {"id": 4, "lemma": "이", "type": "VCP", "position": 151, "weight": 0.0175768}, 
+                {"id": 5, "lemma": "ㄹ까", "type": "EF", "position": 151, "weight": 0.258243}, 
+                {"id": 6, "lemma": "?", "type": "SF", "position": 157, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 131, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "단어", "type": "NNG", "scode": "000000", "weight": 1, "position": 135, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 141, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "무엇", "type": "NP", "scode": "000001", "weight": 0.5, "position": 145, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 151, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "ㄹ까", "type": "EF", "scode": "000000", "weight": 1, "position": 151, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 157, "begin": 6, "end": 6}
+            ], 
+            "word": [
+                {"id": 0, "text": "이", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "단어는", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "무엇일까?", "type": "", "begin": 3, "end": 6}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이", "head": 1, "label": "DP", "mod": [], "weight": 0.691035}, 
+                {"id": 1, "text": "단어는", "head": 2, "label": "NP_SBJ", "mod": [0], "weight": 0.896101}, 
+                {"id": 2, "text": "무엇일까?", "head": -1, "label": "VNP", "mod": [1], "weight": 0.543047}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": 0, "text": "‘여리’라는 말과 합쳐져 사자성어로", "start_eid_short": 3, "end_eid_short": 3, "text_short": "사자성어로"}, 
+            {"id": 2, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "이것은", "start_eid_short": 5, "end_eid_short": 5, "text_short": "이것은"}, 
+            {"id": 3, "sent_id": 0, "start_eid": 6, "end_eid": 10, "ne_id": -1, "text": "아슬아슬하고 위험한 상황을 이르는 단어다.", "start_eid_short": 10, "end_eid_short": 10, "text_short": "단어다."}, 
+            {"id": 5, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "이 단어는", "start_eid_short": 0, "end_eid_short": 1, "text_short": "이 단어는"}, 
+            {"id": 6, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "무엇일까?", "start_eid_short": 2, "end_eid_short": 2, "text_short": "무엇일까?"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "‘여리’라는 말과", "start_eid_short": 1, "end_eid_short": 1, "text_short": "말과"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 6, "end_eid": 8, "ne_id": -1, "text": "아슬아슬하고 위험한 상황을", "start_eid_short": 8, "end_eid_short": 8, "text_short": "상황을"}
+        ]}
+    ]
+}

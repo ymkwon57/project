@@ -1,0 +1,103 @@
+{
+    "doc_id": "E2016.889.09_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "테라로사", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<지리> 석회암의 풍화 작용으로 생긴 적갈색 토양.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "지리", "type": "NNG", "position": 1, "weight": 0.00107644}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "석회", "type": "NNG", "position": 9, "weight": 0.9}, 
+                {"id": 4, "lemma": "암", "type": "XSN", "position": 15, "weight": 0.0001}, 
+                {"id": 5, "lemma": "의", "type": "JKG", "position": 18, "weight": 0.120732}, 
+                {"id": 6, "lemma": "풍화", "type": "NNG", "position": 22, "weight": 0.9}, 
+                {"id": 7, "lemma": "작용", "type": "NNG", "position": 29, "weight": 0.9}, 
+                {"id": 8, "lemma": "으로", "type": "JKB", "position": 35, "weight": 0.153406}, 
+                {"id": 9, "lemma": "생기", "type": "VV", "position": 42, "weight": 0.432426}, 
+                {"id": 10, "lemma": "ㄴ", "type": "ETM", "position": 45, "weight": 0.304215}, 
+                {"id": 11, "lemma": "적", "type": "NNG", "position": 49, "weight": 0.0605124}, 
+                {"id": 12, "lemma": "갈색", "type": "NNG", "position": 52, "weight": 0.9}, 
+                {"id": 13, "lemma": "토양", "type": "NNG", "position": 59, "weight": 0.9}, 
+                {"id": 14, "lemma": ".", "type": "SF", "position": 65, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "지리", "type": "NNG", "scode": "030004", "weight": 0.1, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "석회암", "type": "NNG", "scode": "000000", "weight": 1, "position": 9, "begin": 3, "end": 4}, 
+                {"id": 4, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 18, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "풍화", "type": "NNG", "scode": "020001", "weight": 0.2, "position": 22, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "작용", "type": "NNG", "scode": "010002", "weight": 0.25, "position": 29, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 35, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "생기", "type": "VV", "scode": "000101", "weight": 0.2, "position": 42, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 45, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "적갈색", "type": "NNG", "scode": "000000", "weight": 1, "position": 49, "begin": 11, "end": 12}, 
+                {"id": 11, "text": "토양", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 59, "begin": 13, "end": 13}, 
+                {"id": 12, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 65, "begin": 14, "end": 14}
+            ], 
+            "word": [
+                {"id": 0, "text": "<지리>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "석회암의", "type": "", "begin": 3, "end": 5}, 
+                {"id": 2, "text": "풍화", "type": "", "begin": 6, "end": 6}, 
+                {"id": 3, "text": "작용으로", "type": "", "begin": 7, "end": 8}, 
+                {"id": 4, "text": "생긴", "type": "", "begin": 9, "end": 10}, 
+                {"id": 5, "text": "적갈색", "type": "", "begin": 11, "end": 12}, 
+                {"id": 6, "text": "토양.", "type": "", "begin": 13, "end": 14}
+            ], 
+            "NE": [
+                {"id": 0, "text": "석회암", "type": "MT_ROCK", "begin": 3, "end": 4, "weight": 0.631431, "common_noun": 0}, 
+                {"id": 1, "text": "적갈색", "type": "TM_COLOR", "begin": 11, "end": 12, "weight": 0.716325, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<지리>", "head": 6, "label": "NP", "mod": [], "weight": 0.832015}, 
+                {"id": 1, "text": "석회암의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.726227}, 
+                {"id": 2, "text": "풍화", "head": 3, "label": "NP", "mod": [], "weight": 0.659761}, 
+                {"id": 3, "text": "작용으로", "head": 4, "label": "NP_AJT", "mod": [1, 2], "weight": 0.769242}, 
+                {"id": 4, "text": "생긴", "head": 6, "label": "VP_MOD", "mod": [3], "weight": 0.757269}, 
+                {"id": 5, "text": "적갈색", "head": 6, "label": "NP", "mod": [], "weight": 0.661102}, 
+                {"id": 6, "text": "토양.", "head": -1, "label": "NP", "mod": [0, 4, 5], "weight": 0.133178}
+            ], 
+            "SRL": [
+                {"verb": "생기", "sense": 1, "word_id": 4, "weight": 0.161725, "argument": [
+                    {"type": "ARGM-CAU", "word_id": 3, "text": "작용으로", "weight": 0.159745}, 
+                    {"type": "ARG1", "word_id": 6, "text": "토양.", "weight": 0.163706}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": -1, "text": "석회암의 풍화 작용으로", "start_eid_short": 2, "end_eid_short": 3, "text_short": "풍화 작용으로"}
+        ]}, 
+        {"id": 1, "type": "MT_ROCK", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "석회암의", "start_eid_short": 1, "end_eid_short": 1, "text_short": "석회암의"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "풍화", "start_eid_short": 2, "end_eid_short": 2, "text_short": "풍화"}
+        ]}, 
+        {"id": 3, "type": "TM_COLOR", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": 1, "text": "적갈색", "start_eid_short": 5, "end_eid_short": 5, "text_short": "적갈색"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 6, "ne_id": -1, "text": "<지리> 석회암의 풍화 작용으로 생긴 적갈색 토양.", "start_eid_short": 5, "end_eid_short": 6, "text_short": "적갈색 토양."}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "<지리>", "start_eid_short": 0, "end_eid_short": 0, "text_short": "<지리>"}
+        ]}
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "doc_id": "E2016.835.08_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "르네상스의 중심 도시로 전체가 유네스코 세계문화유산으로 지정되어 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "르네상스", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 12, "weight": 0.0694213}, 
+                {"id": 2, "lemma": "중심", "type": "NNG", "position": 16, "weight": 0.9}, 
+                {"id": 3, "lemma": "도시", "type": "NNG", "position": 23, "weight": 0.184157}, 
+                {"id": 4, "lemma": "로", "type": "JKB", "position": 29, "weight": 0.153229}, 
+                {"id": 5, "lemma": "전체", "type": "NNG", "position": 33, "weight": 0.9}, 
+                {"id": 6, "lemma": "가", "type": "JKS", "position": 39, "weight": 0.066324}, 
+                {"id": 7, "lemma": "유네스코", "type": "NNP", "position": 43, "weight": 0.0139774}, 
+                {"id": 8, "lemma": "세계", "type": "NNG", "position": 56, "weight": 0.9}, 
+                {"id": 9, "lemma": "문화", "type": "NNG", "position": 62, "weight": 0.184467}, 
+                {"id": 10, "lemma": "유산", "type": "NNG", "position": 68, "weight": 0.184496}, 
+                {"id": 11, "lemma": "으로", "type": "JKB", "position": 74, "weight": 0.153406}, 
+                {"id": 12, "lemma": "지정", "type": "NNG", "position": 81, "weight": 0.9}, 
+                {"id": 13, "lemma": "되", "type": "XSV", "position": 87, "weight": 0.000224177}, 
+                {"id": 14, "lemma": "어", "type": "EC", "position": 90, "weight": 0.361326}, 
+                {"id": 15, "lemma": "있", "type": "VX", "position": 94, "weight": 0.125953}, 
+                {"id": 16, "lemma": "다", "type": "EF", "position": 97, "weight": 0.180366}, 
+                {"id": 17, "lemma": ".", "type": "SF", "position": 100, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "르네상스", "type": "NNG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 12, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "중심", "type": "NNG", "scode": "010002", "weight": 0.125, "position": 16, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "도시", "type": "NNG", "scode": "030000", "weight": 0.0909091, "position": 23, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 29, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "전체", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 33, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 39, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "유네스코", "type": "NNP", "scode": "000000", "weight": 1, "position": 43, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "세계", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 56, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "문화유산", "type": "NNG", "scode": "000000", "weight": 1, "position": 62, "begin": 9, "end": 10}, 
+                {"id": 10, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 74, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "지정되", "type": "VV", "scode": "000002", "weight": 0.5, "position": 81, "begin": 12, "end": 13}, 
+                {"id": 12, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 90, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 94, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 97, "begin": 16, "end": 16}, 
+                {"id": 15, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 100, "begin": 17, "end": 17}
+            ], 
+            "word": [
+                {"id": 0, "text": "르네상스의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "중심", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "도시로", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "전체가", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "유네스코", "type": "", "begin": 7, "end": 7}, 
+                {"id": 5, "text": "세계문화유산으로", "type": "", "begin": 8, "end": 11}, 
+                {"id": 6, "text": "지정되어", "type": "", "begin": 12, "end": 14}, 
+                {"id": 7, "text": "있다.", "type": "", "begin": 15, "end": 17}
+            ], 
+            "NE": [
+                {"id": 0, "text": "르네상스", "type": "EV_ACTIVITY", "begin": 0, "end": 0, "weight": 0.270358, "common_noun": 0}, 
+                {"id": 1, "text": "유네스코", "type": "OG_OTHERS", "begin": 7, "end": 7, "weight": 0.381869, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "르네상스의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.802543}, 
+                {"id": 1, "text": "중심", "head": 2, "label": "NP", "mod": [], "weight": 0.584631}, 
+                {"id": 2, "text": "도시로", "head": 6, "label": "NP_AJT", "mod": [0, 1], "weight": 0.690725}, 
+                {"id": 3, "text": "전체가", "head": 6, "label": "NP_SBJ", "mod": [], "weight": 0.848603}, 
+                {"id": 4, "text": "유네스코", "head": 5, "label": "NP", "mod": [], "weight": 0.787569}, 
+                {"id": 5, "text": "세계문화유산으로", "head": 6, "label": "NP_AJT", "mod": [4], "weight": 0.823384}, 
+                {"id": 6, "text": "지정되어", "head": 7, "label": "VP", "mod": [2, 3, 5], "weight": 0.794483}, 
+                {"id": 7, "text": "있다.", "head": -1, "label": "VP", "mod": [6], "weight": 0.10431}
+            ], 
+            "SRL": [
+                {"verb": "지정", "sense": 1, "word_id": 6, "weight": 0.239159, "argument": [
+                    {"type": "ARGM-PRD", "word_id": 2, "text": "도시로", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 3, "text": "전체가", "weight": 0.179126}, 
+                    {"type": "ARG2", "word_id": 5, "text": "세계문화유산으로", "weight": 0.186528}, 
+                    {"type": "AUX", "word_id": 7, "text": "있다.", "weight": 0.502698}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "'꽃 같은 도시'라는 뜻으로 '플로렌스'라고도 불리는 이 도시는?", 
+            "morp": [
+                {"id": 0, "lemma": "'", "type": "SS", "position": 101, "weight": 1}, 
+                {"id": 1, "lemma": "꽃", "type": "NNG", "position": 102, "weight": 0.199953}, 
+                {"id": 2, "lemma": "같", "type": "VA", "position": 106, "weight": 0.00587343}, 
+                {"id": 3, "lemma": "은", "type": "ETM", "position": 109, "weight": 0.155123}, 
+                {"id": 4, "lemma": "도시", "type": "NNG", "position": 113, "weight": 0.656406}, 
+                {"id": 5, "lemma": "'", "type": "SS", "position": 119, "weight": 1}, 
+                {"id": 6, "lemma": "이", "type": "VCP", "position": 120, "weight": 0.00747344}, 
+                {"id": 7, "lemma": "라는", "type": "ETM", "position": 120, "weight": 0.230361}, 
+                {"id": 8, "lemma": "뜻", "type": "NNG", "position": 127, "weight": 0.9}, 
+                {"id": 9, "lemma": "으로", "type": "JKB", "position": 130, "weight": 0.153406}, 
+                {"id": 10, "lemma": "'", "type": "SS", "position": 137, "weight": 1}, 
+                {"id": 11, "lemma": "플로렌스", "type": "NNP", "position": 138, "weight": 0.4}, 
+                {"id": 12, "lemma": "'", "type": "SS", "position": 150, "weight": 1}, 
+                {"id": 13, "lemma": "라고", "type": "JKQ", "position": 151, "weight": 0.00318431}, 
+                {"id": 14, "lemma": "도", "type": "JX", "position": 157, "weight": 0.0188913}, 
+                {"id": 15, "lemma": "불리", "type": "VV", "position": 161, "weight": 0.145182}, 
+                {"id": 16, "lemma": "는", "type": "ETM", "position": 167, "weight": 0.184941}, 
+                {"id": 17, "lemma": "이", "type": "MM", "position": 171, "weight": 0.00060084}, 
+                {"id": 18, "lemma": "도시", "type": "NNG", "position": 175, "weight": 0.734728}, 
+                {"id": 19, "lemma": "는", "type": "JX", "position": 181, "weight": 0.0287565}, 
+                {"id": 20, "lemma": "?", "type": "SF", "position": 184, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 101, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "꽃", "type": "NNG", "scode": "010001", "weight": 0.111111, "position": 102, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "같", "type": "VA", "scode": "000202", "weight": 0.125, "position": 106, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 109, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "도시", "type": "NNG", "scode": "030000", "weight": 0.0909091, "position": 113, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 119, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 120, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "라는", "type": "ETM", "scode": "000000", "weight": 1, "position": 120, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "뜻", "type": "NNG", "scode": "000002", "weight": 0.333333, "position": 127, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 130, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 137, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "플로렌스", "type": "NNP", "scode": "000000", "weight": 1, "position": 138, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 150, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "라고", "type": "JKQ", "scode": "000000", "weight": 1, "position": 151, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 157, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "불리", "type": "VV", "scode": "040300", "weight": 0.0714286, "position": 161, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 167, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 171, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "도시", "type": "NNG", "scode": "030000", "weight": 0.0909091, "position": 175, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 181, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 184, "begin": 20, "end": 20}
+            ], 
+            "word": [
+                {"id": 0, "text": "'꽃", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "같은", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "도시'라는", "type": "", "begin": 4, "end": 7}, 
+                {"id": 3, "text": "뜻으로", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "'플로렌스'라고도", "type": "", "begin": 10, "end": 14}, 
+                {"id": 5, "text": "불리는", "type": "", "begin": 15, "end": 16}, 
+                {"id": 6, "text": "이", "type": "", "begin": 17, "end": 17}, 
+                {"id": 7, "text": "도시는?", "type": "", "begin": 18, "end": 20}
+            ], 
+            "NE": [
+                {"id": 0, "text": "꽃", "type": "PT_PART", "begin": 1, "end": 1, "weight": 0.399925, "common_noun": 0}, 
+                {"id": 1, "text": "플로렌스", "type": "LCP_CITY", "begin": 11, "end": 11, "weight": 0.12454, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "'꽃", "head": 1, "label": "NP_AJT", "mod": [], "weight": 0.558862}, 
+                {"id": 1, "text": "같은", "head": 2, "label": "VP_MOD", "mod": [0], "weight": 0.60898}, 
+                {"id": 2, "text": "도시'라는", "head": 3, "label": "VNP_MOD", "mod": [1], "weight": 0.536062}, 
+                {"id": 3, "text": "뜻으로", "head": 5, "label": "NP_AJT", "mod": [2], "weight": 0.437303}, 
+                {"id": 4, "text": "'플로렌스'라고도", "head": 5, "label": "NP_CMP", "mod": [], "weight": 0.00158307}, 
+                {"id": 5, "text": "불리는", "head": 7, "label": "VP_MOD", "mod": [4, 3], "weight": 0.801167}, 
+                {"id": 6, "text": "이", "head": 7, "label": "DP", "mod": [], "weight": 0.526983}, 
+                {"id": 7, "text": "도시는?", "head": -1, "label": "NP", "mod": [5, 6], "weight": 2.79472e-05}
+            ], 
+            "SRL": [
+                {"verb": "같", "sense": 1, "word_id": 1, "weight": 0.165098, "argument": [
+                    {"type": "ARG2", "word_id": 0, "text": "'꽃", "weight": 0.170895}, 
+                    {"type": "ARG1", "word_id": 2, "text": "도시'라는", "weight": 0.159302}
+                ]}, 
+                {"verb": "불리", "sense": 2, "word_id": 5, "weight": 0.189673, "argument": [
+                    {"type": "ARG2", "word_id": 4, "text": "'플로렌스'라고도", "weight": 0.189673}, 
+                    {"type": "ARG1", "word_id": 7, "text": "도시는?", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "르네상스의 중심 도시로", "start_eid_short": 1, "end_eid_short": 2, "text_short": "중심 도시로"}
+        ]}, 
+        {"id": 1, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "르네상스의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "르네상스의"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "중심", "start_eid_short": 1, "end_eid_short": 1, "text_short": "중심"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "전체가", "start_eid_short": 3, "end_eid_short": 3, "text_short": "전체가"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 4, "end_eid": 5, "ne_id": -1, "text": "유네스코 세계문화유산으로", "start_eid_short": 4, "end_eid_short": 5, "text_short": "유네스코 세계문화유산으로"}
+        ]}, 
+        {"id": 5, "type": "OG_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": 1, "text": "유네스코", "start_eid_short": 4, "end_eid_short": 4, "text_short": "유네스코"}
+        ]}, 
+        {"id": 6, "type": "PT_PART", "number": "singular", "gender": "", "person": "", "animacy": "plant", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 0, "end_eid": 3, "ne_id": 0, "text": "'꽃 같은 도시'라는 뜻으로", "start_eid_short": 3, "end_eid_short": 3, "text_short": "뜻으로"}, 
+            {"id": 7, "sent_id": 1, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "'꽃 같은 도시'라는", "start_eid_short": 2, "end_eid_short": 2, "text_short": "도시'라는"}, 
+            {"id": 8, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": 1, "text": "'플로렌스'라고도", "start_eid_short": 4, "end_eid_short": 4, "text_short": "'플로렌스'라고도"}, 
+            {"id": 9, "sent_id": 1, "start_eid": 6, "end_eid": 7, "ne_id": -1, "text": "이 도시는?", "start_eid_short": 7, "end_eid_short": 7, "text_short": "도시는?"}
+        ]}
+    ]
+}

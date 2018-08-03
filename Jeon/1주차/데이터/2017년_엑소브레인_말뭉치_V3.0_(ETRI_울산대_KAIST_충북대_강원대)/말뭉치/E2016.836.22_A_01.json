@@ -1,0 +1,391 @@
+{
+    "doc_id": "E2016.836.22_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "북회귀선", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "북회귀선(北回歸線, 영어: Tropic of Cancer)은 태양이 머리 위 천정을 지나는 가장 북쪽 지점을 잇는 위선이다.", 
+            "morp": [
+                {"id": 0, "lemma": "북", "type": "NNG", "position": 0, "weight": 0.227058}, 
+                {"id": 1, "lemma": "회귀", "type": "NNG", "position": 3, "weight": 0.9}, 
+                {"id": 2, "lemma": "선", "type": "NNG", "position": 9, "weight": 0.164164}, 
+                {"id": 3, "lemma": "(", "type": "SS", "position": 12, "weight": 1}, 
+                {"id": 4, "lemma": "北回歸線", "type": "SH", "position": 13, "weight": 1}, 
+                {"id": 5, "lemma": ",", "type": "SP", "position": 25, "weight": 1}, 
+                {"id": 6, "lemma": "영어", "type": "NNP", "position": 27, "weight": 0.10426}, 
+                {"id": 7, "lemma": ":", "type": "SP", "position": 33, "weight": 1}, 
+                {"id": 8, "lemma": "Tropic", "type": "SL", "position": 35, "weight": 1}, 
+                {"id": 9, "lemma": "of", "type": "SL", "position": 42, "weight": 1}, 
+                {"id": 10, "lemma": "Cancer", "type": "SL", "position": 45, "weight": 1}, 
+                {"id": 11, "lemma": ")", "type": "SS", "position": 51, "weight": 1}, 
+                {"id": 12, "lemma": "은", "type": "JX", "position": 52, "weight": 0.0128817}, 
+                {"id": 13, "lemma": "태양", "type": "NNG", "position": 56, "weight": 0.323783}, 
+                {"id": 14, "lemma": "이", "type": "JKS", "position": 62, "weight": 0.0360723}, 
+                {"id": 15, "lemma": "머리", "type": "NNG", "position": 66, "weight": 0.209159}, 
+                {"id": 16, "lemma": "위", "type": "NNG", "position": 73, "weight": 0.165604}, 
+                {"id": 17, "lemma": "천정", "type": "NNG", "position": 77, "weight": 0.9}, 
+                {"id": 18, "lemma": "을", "type": "JKO", "position": 83, "weight": 0.129611}, 
+                {"id": 19, "lemma": "지나", "type": "VV", "position": 87, "weight": 0.777529}, 
+                {"id": 20, "lemma": "는", "type": "ETM", "position": 93, "weight": 0.184941}, 
+                {"id": 21, "lemma": "가장", "type": "MAG", "position": 97, "weight": 0.00258324}, 
+                {"id": 22, "lemma": "북쪽", "type": "NNG", "position": 104, "weight": 0.9}, 
+                {"id": 23, "lemma": "지점", "type": "NNG", "position": 111, "weight": 0.9}, 
+                {"id": 24, "lemma": "을", "type": "JKO", "position": 117, "weight": 0.129611}, 
+                {"id": 25, "lemma": "잇", "type": "VV", "position": 121, "weight": 0.774833}, 
+                {"id": 26, "lemma": "는", "type": "ETM", "position": 124, "weight": 0.184941}, 
+                {"id": 27, "lemma": "위선", "type": "NNG", "position": 128, "weight": 0.628299}, 
+                {"id": 28, "lemma": "이", "type": "VCP", "position": 134, "weight": 0.0177525}, 
+                {"id": 29, "lemma": "다", "type": "EF", "position": 137, "weight": 0.353579}, 
+                {"id": 30, "lemma": ".", "type": "SF", "position": 140, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "북회귀선", "type": "NNG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 2}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 12, "begin": 3, "end": 3}, 
+                {"id": 2, "text": "北回歸線", "type": "SH", "scode": "000000", "weight": 1, "position": 13, "begin": 4, "end": 4}, 
+                {"id": 3, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 25, "begin": 5, "end": 5}, 
+                {"id": 4, "text": "영어", "type": "NNP", "scode": "020000", "weight": 0.2, "position": 27, "begin": 6, "end": 6}, 
+                {"id": 5, "text": ":", "type": "SP", "scode": "000000", "weight": 1, "position": 33, "begin": 7, "end": 7}, 
+                {"id": 6, "text": "Tropic", "type": "SL", "scode": "000000", "weight": 1, "position": 35, "begin": 8, "end": 8}, 
+                {"id": 7, "text": "of", "type": "SL", "scode": "000000", "weight": 1, "position": 42, "begin": 9, "end": 9}, 
+                {"id": 8, "text": "Cancer", "type": "SL", "scode": "000000", "weight": 1, "position": 45, "begin": 10, "end": 10}, 
+                {"id": 9, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 51, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 52, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "태양", "type": "NNG", "scode": "020001", "weight": 0.142857, "position": 56, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 62, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "머리", "type": "NNG", "scode": "010001", "weight": 0.0555556, "position": 66, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "위", "type": "NNG", "scode": "010001", "weight": 0.0285714, "position": 73, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "천정", "type": "NNG", "scode": "070000", "weight": 0.0769231, "position": 77, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 83, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "지나", "type": "VV", "scode": "000301", "weight": 0.2, "position": 87, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 93, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "가장", "type": "MAG", "scode": "010000", "weight": 0.0555556, "position": 97, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "북쪽", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 104, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "지점", "type": "NNG", "scode": "030000", "weight": 0.125, "position": 111, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 117, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "잇", "type": "VV", "scode": "010100", "weight": 0.125, "position": 121, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 124, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "위선", "type": "NNG", "scode": "050000", "weight": 0.2, "position": 128, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 134, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 137, "begin": 29, "end": 29}, 
+                {"id": 28, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 140, "begin": 30, "end": 30}
+            ], 
+            "word": [
+                {"id": 0, "text": "북회귀선(北回歸線,", "type": "", "begin": 0, "end": 5}, 
+                {"id": 1, "text": "영어:", "type": "", "begin": 6, "end": 7}, 
+                {"id": 2, "text": "Tropic", "type": "", "begin": 8, "end": 8}, 
+                {"id": 3, "text": "of", "type": "", "begin": 9, "end": 9}, 
+                {"id": 4, "text": "Cancer)은", "type": "", "begin": 10, "end": 12}, 
+                {"id": 5, "text": "태양이", "type": "", "begin": 13, "end": 14}, 
+                {"id": 6, "text": "머리", "type": "", "begin": 15, "end": 15}, 
+                {"id": 7, "text": "위", "type": "", "begin": 16, "end": 16}, 
+                {"id": 8, "text": "천정을", "type": "", "begin": 17, "end": 18}, 
+                {"id": 9, "text": "지나는", "type": "", "begin": 19, "end": 20}, 
+                {"id": 10, "text": "가장", "type": "", "begin": 21, "end": 21}, 
+                {"id": 11, "text": "북쪽", "type": "", "begin": 22, "end": 22}, 
+                {"id": 12, "text": "지점을", "type": "", "begin": 23, "end": 24}, 
+                {"id": 13, "text": "잇는", "type": "", "begin": 25, "end": 26}, 
+                {"id": 14, "text": "위선이다.", "type": "", "begin": 27, "end": 30}
+            ], 
+            "NE": [
+                {"id": 0, "text": "영어", "type": "CV_LANGUAGE", "begin": 6, "end": 6, "weight": 0.329909, "common_noun": 0}, 
+                {"id": 1, "text": "태양", "type": "LC_SPACE", "begin": 13, "end": 13, "weight": 0.491146, "common_noun": 0}, 
+                {"id": 2, "text": "머리", "type": "AM_PART", "begin": 15, "end": 15, "weight": 0.407096, "common_noun": 0}, 
+                {"id": 3, "text": "북쪽", "type": "TM_DIRECTION", "begin": 22, "end": 22, "weight": 0.506169, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "북회귀선(北回歸線,", "head": 4, "label": "NP", "mod": [], "weight": 0.507823}, 
+                {"id": 1, "text": "영어:", "head": 4, "label": "NP", "mod": [], "weight": 0.679324}, 
+                {"id": 2, "text": "Tropic", "head": 3, "label": "NP", "mod": [], "weight": 0.498212}, 
+                {"id": 3, "text": "of", "head": 4, "label": "NP", "mod": [2], "weight": 0.729059}, 
+                {"id": 4, "text": "Cancer)은", "head": 14, "label": "NP_SBJ", "mod": [0, 1, 3], "weight": 0.713791}, 
+                {"id": 5, "text": "태양이", "head": 9, "label": "NP_SBJ", "mod": [], "weight": 0.812443}, 
+                {"id": 6, "text": "머리", "head": 7, "label": "NP", "mod": [], "weight": 0.796928}, 
+                {"id": 7, "text": "위", "head": 8, "label": "NP", "mod": [6], "weight": 0.740859}, 
+                {"id": 8, "text": "천정을", "head": 9, "label": "NP_OBJ", "mod": [7], "weight": 0.79001}, 
+                {"id": 9, "text": "지나는", "head": 12, "label": "VP_MOD", "mod": [5, 8], "weight": 0.754858}, 
+                {"id": 10, "text": "가장", "head": 11, "label": "AP", "mod": [], "weight": 0.654637}, 
+                {"id": 11, "text": "북쪽", "head": 12, "label": "NP", "mod": [10], "weight": 0.828791}, 
+                {"id": 12, "text": "지점을", "head": 13, "label": "NP_OBJ", "mod": [11, 9], "weight": 0.748911}, 
+                {"id": 13, "text": "잇는", "head": 14, "label": "VP_MOD", "mod": [12], "weight": 0.830582}, 
+                {"id": 14, "text": "위선이다.", "head": -1, "label": "VNP", "mod": [4, 13], "weight": 0.00664292}
+            ], 
+            "SRL": [
+                {"verb": "지나", "sense": 1, "word_id": 9, "weight": 0.206137, "argument": [
+                    {"type": "ARG0", "word_id": 5, "text": "태양이", "weight": 0.192676}, 
+                    {"type": "ARG1", "word_id": 8, "text": "천정을", "weight": 0.219598}
+                ]}, 
+                {"verb": "잇", "sense": 1, "word_id": 13, "weight": 0.174513, "argument": [
+                    {"type": "ARGM-EXT", "word_id": 10, "text": "가장", "weight": 0.166166}, 
+                    {"type": "ARG3", "word_id": 12, "text": "지점을", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 14, "text": "위선이다.", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "매년 북반구의 여름 하지 때 태양이 머리 위를 지나며, 하지선(夏至線)이라고도 한다.", 
+            "morp": [
+                {"id": 0, "lemma": "매년", "type": "MAG", "position": 141, "weight": 0.0635358}, 
+                {"id": 1, "lemma": "북", "type": "NNG", "position": 148, "weight": 0.135575}, 
+                {"id": 2, "lemma": "반구", "type": "NNG", "position": 151, "weight": 0.9}, 
+                {"id": 3, "lemma": "의", "type": "JKG", "position": 157, "weight": 0.0694213}, 
+                {"id": 4, "lemma": "여름", "type": "NNG", "position": 161, "weight": 0.9}, 
+                {"id": 5, "lemma": "하지", "type": "NNG", "position": 168, "weight": 0.00929845}, 
+                {"id": 6, "lemma": "때", "type": "NNG", "position": 175, "weight": 0.218651}, 
+                {"id": 7, "lemma": "태양", "type": "NNG", "position": 179, "weight": 0.184192}, 
+                {"id": 8, "lemma": "이", "type": "JKS", "position": 185, "weight": 0.0360723}, 
+                {"id": 9, "lemma": "머리", "type": "NNG", "position": 189, "weight": 0.209159}, 
+                {"id": 10, "lemma": "위", "type": "NNG", "position": 196, "weight": 0.165604}, 
+                {"id": 11, "lemma": "를", "type": "JKO", "position": 199, "weight": 0.137686}, 
+                {"id": 12, "lemma": "지나", "type": "VV", "position": 203, "weight": 0.777529}, 
+                {"id": 13, "lemma": "며", "type": "EC", "position": 209, "weight": 0.429701}, 
+                {"id": 14, "lemma": ",", "type": "SP", "position": 212, "weight": 1}, 
+                {"id": 15, "lemma": "하지", "type": "NNG", "position": 214, "weight": 0.492222}, 
+                {"id": 16, "lemma": "선", "type": "NNG", "position": 220, "weight": 0.00217259}, 
+                {"id": 17, "lemma": "(", "type": "SS", "position": 223, "weight": 1}, 
+                {"id": 18, "lemma": "夏至線", "type": "SH", "position": 224, "weight": 1}, 
+                {"id": 19, "lemma": ")", "type": "SS", "position": 233, "weight": 1}, 
+                {"id": 20, "lemma": "이라고", "type": "JKQ", "position": 234, "weight": 0.0202133}, 
+                {"id": 21, "lemma": "도", "type": "JX", "position": 243, "weight": 0.0188913}, 
+                {"id": 22, "lemma": "하", "type": "VV", "position": 247, "weight": 0.0910671}, 
+                {"id": 23, "lemma": "ㄴ다", "type": "EF", "position": 247, "weight": 0.0793196}, 
+                {"id": 24, "lemma": ".", "type": "SF", "position": 253, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "매년", "type": "MAG", "scode": "000200", "weight": 0.5, "position": 141, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "북반구", "type": "NNG", "scode": "000000", "weight": 1, "position": 148, "begin": 1, "end": 2}, 
+                {"id": 2, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 157, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "여름", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 161, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "하지", "type": "NNG", "scode": "080000", "weight": 0.0909091, "position": 168, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 175, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "태양", "type": "NNG", "scode": "020001", "weight": 0.142857, "position": 179, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 185, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "머리", "type": "NNG", "scode": "010001", "weight": 0.0555556, "position": 189, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "위", "type": "NNG", "scode": "010001", "weight": 0.0285714, "position": 196, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 199, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "지나", "type": "VV", "scode": "000301", "weight": 0.2, "position": 203, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "며", "type": "EC", "scode": "000000", "weight": 1, "position": 209, "begin": 13, "end": 13}, 
+                {"id": 13, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 212, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "하지선", "type": "NNG", "scode": "000000", "weight": 1, "position": 214, "begin": 15, "end": 16}, 
+                {"id": 15, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 223, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "夏至線", "type": "SH", "scode": "000000", "weight": 1, "position": 224, "begin": 18, "end": 18}, 
+                {"id": 17, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 233, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "이라고", "type": "JKQ", "scode": "000000", "weight": 1, "position": 234, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 243, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "하", "type": "VV", "scode": "010400", "weight": 0.02, "position": 247, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 247, "begin": 23, "end": 23}, 
+                {"id": 22, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 253, "begin": 24, "end": 24}
+            ], 
+            "word": [
+                {"id": 0, "text": "매년", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "북반구의", "type": "", "begin": 1, "end": 3}, 
+                {"id": 2, "text": "여름", "type": "", "begin": 4, "end": 4}, 
+                {"id": 3, "text": "하지", "type": "", "begin": 5, "end": 5}, 
+                {"id": 4, "text": "때", "type": "", "begin": 6, "end": 6}, 
+                {"id": 5, "text": "태양이", "type": "", "begin": 7, "end": 8}, 
+                {"id": 6, "text": "머리", "type": "", "begin": 9, "end": 9}, 
+                {"id": 7, "text": "위를", "type": "", "begin": 10, "end": 11}, 
+                {"id": 8, "text": "지나며,", "type": "", "begin": 12, "end": 14}, 
+                {"id": 9, "text": "하지선(夏至線)이라고도", "type": "", "begin": 15, "end": 21}, 
+                {"id": 10, "text": "한다.", "type": "", "begin": 22, "end": 24}
+            ], 
+            "NE": [
+                {"id": 0, "text": "북반구", "type": "LC_OTHERS", "begin": 1, "end": 2, "weight": 0.380269, "common_noun": 0}, 
+                {"id": 1, "text": "여름", "type": "DT_SEASON", "begin": 4, "end": 4, "weight": 0.744625, "common_noun": 0}, 
+                {"id": 2, "text": "하지 때", "type": "DT_OTHERS", "begin": 5, "end": 6, "weight": 0.301764, "common_noun": 0}, 
+                {"id": 3, "text": "태양", "type": "LC_SPACE", "begin": 7, "end": 7, "weight": 0.490469, "common_noun": 0}, 
+                {"id": 4, "text": "머리", "type": "AM_PART", "begin": 9, "end": 9, "weight": 0.50558, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "매년", "head": 8, "label": "AP", "mod": [], "weight": 0.605147}, 
+                {"id": 1, "text": "북반구의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.489851}, 
+                {"id": 2, "text": "여름", "head": 3, "label": "NP", "mod": [], "weight": 0.460098}, 
+                {"id": 3, "text": "하지", "head": 4, "label": "NP", "mod": [1, 2], "weight": 0.780637}, 
+                {"id": 4, "text": "때", "head": 8, "label": "NP_AJT", "mod": [3], "weight": 0.719865}, 
+                {"id": 5, "text": "태양이", "head": 8, "label": "NP_SBJ", "mod": [], "weight": 0.847172}, 
+                {"id": 6, "text": "머리", "head": 7, "label": "NP", "mod": [], "weight": 0.817133}, 
+                {"id": 7, "text": "위를", "head": 8, "label": "NP_OBJ", "mod": [6], "weight": 0.729392}, 
+                {"id": 8, "text": "지나며,", "head": 10, "label": "VP", "mod": [0, 4, 5, 7], "weight": 0.429735}, 
+                {"id": 9, "text": "하지선(夏至線)이라고도", "head": 10, "label": "NP_CMP", "mod": [], "weight": 0.560804}, 
+                {"id": 10, "text": "한다.", "head": -1, "label": "VP", "mod": [9, 8], "weight": 0.00711468}
+            ], 
+            "SRL": [
+                {"verb": "지나", "sense": 1, "word_id": 8, "weight": 0.16715, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 0, "text": "매년", "weight": 1}, 
+                    {"type": "ARGM-TMP", "word_id": 4, "text": "때", "weight": 0.171176}, 
+                    {"type": "ARG0", "word_id": 5, "text": "태양이", "weight": 0.19951}, 
+                    {"type": "ARG1", "word_id": 7, "text": "위를", "weight": 0.197654}
+                ]}, 
+                {"verb": "하", "sense": 2, "word_id": 10, "weight": 0.178793, "argument": [
+                    {"type": "ARG2", "word_id": 9, "text": "하지선(夏至線)이라고도", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "2011년을 기준으로, 북회귀선은 북위 23° 26′ 16″(23.4378°)을 지난다.", 
+            "morp": [
+                {"id": 0, "lemma": "2011", "type": "SN", "position": 254, "weight": 1}, 
+                {"id": 1, "lemma": "년", "type": "NNB", "position": 258, "weight": 0.414343}, 
+                {"id": 2, "lemma": "을", "type": "JKO", "position": 261, "weight": 0.0630104}, 
+                {"id": 3, "lemma": "기준", "type": "NNG", "position": 265, "weight": 0.10102}, 
+                {"id": 4, "lemma": "으로", "type": "JKB", "position": 271, "weight": 0.153406}, 
+                {"id": 5, "lemma": ",", "type": "SP", "position": 277, "weight": 1}, 
+                {"id": 6, "lemma": "북", "type": "NNG", "position": 279, "weight": 0.275612}, 
+                {"id": 7, "lemma": "회귀", "type": "NNG", "position": 282, "weight": 0.9}, 
+                {"id": 8, "lemma": "선", "type": "NNG", "position": 288, "weight": 0.164164}, 
+                {"id": 9, "lemma": "은", "type": "JX", "position": 291, "weight": 0.0449928}, 
+                {"id": 10, "lemma": "북위", "type": "NNG", "position": 295, "weight": 0.304772}, 
+                {"id": 11, "lemma": "23", "type": "SN", "position": 302, "weight": 1}, 
+                {"id": 12, "lemma": "°", "type": "SW", "position": 304, "weight": 1}, 
+                {"id": 13, "lemma": "26", "type": "SN", "position": 307, "weight": 1}, 
+                {"id": 14, "lemma": "′", "type": "SW", "position": 309, "weight": 1}, 
+                {"id": 15, "lemma": "16", "type": "SN", "position": 313, "weight": 1}, 
+                {"id": 16, "lemma": "″", "type": "SW", "position": 315, "weight": 1}, 
+                {"id": 17, "lemma": "(", "type": "SS", "position": 318, "weight": 1}, 
+                {"id": 18, "lemma": "23.4378", "type": "SN", "position": 319, "weight": 1}, 
+                {"id": 19, "lemma": "°", "type": "SW", "position": 326, "weight": 1}, 
+                {"id": 20, "lemma": ")", "type": "SS", "position": 328, "weight": 1}, 
+                {"id": 21, "lemma": "을", "type": "JKO", "position": 329, "weight": 0.0336085}, 
+                {"id": 22, "lemma": "지나", "type": "VV", "position": 333, "weight": 0.777529}, 
+                {"id": 23, "lemma": "ㄴ다", "type": "EF", "position": 336, "weight": 0.0793196}, 
+                {"id": 24, "lemma": ".", "type": "SF", "position": 342, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "2011", "type": "SN", "scode": "000000", "weight": 1, "position": 254, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 258, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 261, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "기준", "type": "NNG", "scode": "030000", "weight": 0.2, "position": 265, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 271, "begin": 4, "end": 4}, 
+                {"id": 5, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 277, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "북회귀선", "type": "NNG", "scode": "000000", "weight": 1, "position": 279, "begin": 6, "end": 8}, 
+                {"id": 7, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 291, "begin": 9, "end": 9}, 
+                {"id": 8, "text": "북위", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 295, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "23", "type": "SN", "scode": "000000", "weight": 1, "position": 302, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "°", "type": "SW", "scode": "000000", "weight": 1, "position": 304, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "26", "type": "SN", "scode": "000000", "weight": 1, "position": 307, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "′", "type": "SW", "scode": "000000", "weight": 1, "position": 309, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "16", "type": "SN", "scode": "000000", "weight": 1, "position": 313, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "″", "type": "SW", "scode": "000000", "weight": 1, "position": 315, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 318, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "23.4378", "type": "SN", "scode": "000000", "weight": 1, "position": 319, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "°", "type": "SW", "scode": "000000", "weight": 1, "position": 326, "begin": 19, "end": 19}, 
+                {"id": 18, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 328, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 329, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "지나", "type": "VV", "scode": "000301", "weight": 0.2, "position": 333, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 336, "begin": 23, "end": 23}, 
+                {"id": 22, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 342, "begin": 24, "end": 24}
+            ], 
+            "word": [
+                {"id": 0, "text": "2011년을", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "기준으로,", "type": "", "begin": 3, "end": 5}, 
+                {"id": 2, "text": "북회귀선은", "type": "", "begin": 6, "end": 9}, 
+                {"id": 3, "text": "북위", "type": "", "begin": 10, "end": 10}, 
+                {"id": 4, "text": "23°", "type": "", "begin": 11, "end": 12}, 
+                {"id": 5, "text": "26′", "type": "", "begin": 13, "end": 14}, 
+                {"id": 6, "text": "16″(23.4378°)을", "type": "", "begin": 15, "end": 21}, 
+                {"id": 7, "text": "지난다.", "type": "", "begin": 22, "end": 24}
+            ], 
+            "NE": [
+                {"id": 0, "text": "2011년", "type": "DT_YEAR", "begin": 0, "end": 1, "weight": 0.758207, "common_noun": 0}, 
+                {"id": 1, "text": "북위 23° 26′ 16″", "type": "QT_OTHERS", "begin": 10, "end": 16, "weight": 0.65054, "common_noun": 0}, 
+                {"id": 2, "text": "23.4378°", "type": "QT_OTHERS", "begin": 18, "end": 19, "weight": 0.431051, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "2011년을", "head": 1, "label": "NP_OBJ", "mod": [], "weight": 0.851884}, 
+                {"id": 1, "text": "기준으로,", "head": 7, "label": "NP_AJT", "mod": [0], "weight": 0.695118}, 
+                {"id": 2, "text": "북회귀선은", "head": 7, "label": "NP_SBJ", "mod": [], "weight": 0.725558}, 
+                {"id": 3, "text": "북위", "head": 4, "label": "NP", "mod": [], "weight": 0.62704}, 
+                {"id": 4, "text": "23°", "head": 5, "label": "NP", "mod": [3], "weight": 0.513736}, 
+                {"id": 5, "text": "26′", "head": 6, "label": "NP", "mod": [4], "weight": 0.678452}, 
+                {"id": 6, "text": "16″(23.4378°)을", "head": 7, "label": "NP_OBJ", "mod": [5], "weight": 0.768452}, 
+                {"id": 7, "text": "지난다.", "head": -1, "label": "VP", "mod": [1, 2, 6], "weight": 0.0612451}
+            ], 
+            "SRL": [
+                {"verb": "지나", "sense": 1, "word_id": 7, "weight": 0.144753, "argument": [
+                    {"type": "ARGM-PRD", "word_id": 1, "text": "기준으로,", "weight": 1}, 
+                    {"type": "ARG0", "word_id": 2, "text": "북회귀선은", "weight": 0.120739}, 
+                    {"type": "ARG1", "word_id": 6, "text": "16″(23.4378°)을", "weight": 0.174721}, 
+                    {"type": "ARGM-TMP", "word_id": 0, "text": "2011년을", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "AFW_DOCUMENT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": 0, "text": "북회귀선(北回歸線, 영어: Tropic of Cancer)은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "북회귀선(北回歸線,"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 5, "end_eid": 14, "ne_id": -1, "text": "태양이 머리 위 천정을 지나는 가장 북쪽 지점을 잇는 위선이다.", "start_eid_short": 14, "end_eid_short": 14, "text_short": "위선이다."}, 
+            {"id": 15, "sent_id": 1, "start_eid": 9, "end_eid": 9, "ne_id": 4, "text": "하지선(夏至線)이라고도", "start_eid_short": 9, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 5, "end_eid": 12, "ne_id": -1, "text": "태양이 머리 위 천정을 지나는 가장 북쪽 지점을", "start_eid_short": 10, "end_eid_short": 12, "text_short": "가장 북쪽 지점을"}
+        ]}, 
+        {"id": 2, "type": "LC_SPACE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": 2, "text": "태양이", "start_eid_short": 5, "end_eid_short": 5, "text_short": "태양이"}, 
+            {"id": 12, "sent_id": 1, "start_eid": 5, "end_eid": 5, "ne_id": 2, "text": "태양이", "start_eid_short": 5, "end_eid_short": 5, "text_short": "태양이"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 6, "end_eid": 7, "ne_id": -1, "text": "머리 위", "start_eid_short": 6, "end_eid_short": 7, "text_short": "머리 위"}, 
+            {"id": 13, "sent_id": 1, "start_eid": 6, "end_eid": 7, "ne_id": -1, "text": "머리 위를", "start_eid_short": 6, "end_eid_short": 7, "text_short": "머리 위를"}
+        ]}, 
+        {"id": 4, "type": "AM_PART", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": 3, "text": "머리", "start_eid_short": 6, "end_eid_short": 6, "text_short": "머리"}, 
+            {"id": 14, "sent_id": 1, "start_eid": 6, "end_eid": 6, "ne_id": 3, "text": "머리", "start_eid_short": 6, "end_eid_short": 6, "text_short": "머리"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 6, "end_eid": 8, "ne_id": -1, "text": "머리 위 천정을", "start_eid_short": 6, "end_eid_short": 8, "text_short": "머리 위 천정을"}
+        ]}, 
+        {"id": 6, "type": "TM_DIRECTION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 10, "end_eid": 11, "ne_id": 4, "text": "가장 북쪽", "start_eid_short": 10, "end_eid_short": 11, "text_short": "가장 북쪽"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "매년 북반구의 여름 하지", "start_eid_short": 2, "end_eid_short": 3, "text_short": "여름 하지"}
+        ]}, 
+        {"id": 8, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "북반구의", "start_eid_short": 1, "end_eid_short": 1, "text_short": "북반구의"}
+        ]}, 
+        {"id": 9, "type": "DT_SEASON", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 0, "end_eid": 2, "ne_id": 1, "text": "매년 북반구의 여름", "start_eid_short": 2, "end_eid_short": 2, "text_short": "여름"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "매년 북반구의 여름 하지 때", "start_eid_short": 2, "end_eid_short": 4, "text_short": "여름 하지 때"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 2, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "2011년을 기준으로,", "start_eid_short": 1, "end_eid_short": 1, "text_short": "기준으로,"}
+        ]}, 
+        {"id": 12, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 17, "sent_id": 2, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "2011년을", "start_eid_short": 0, "end_eid_short": 0, "text_short": "2011년을"}
+        ]}, 
+        {"id": 13, "type": "AF_WORKS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 2, "start_eid": 2, "end_eid": 2, "ne_id": 1, "text": "북회귀선은", "start_eid_short": 2, "end_eid_short": 2, "text_short": "북회귀선은"}
+        ]}, 
+        {"id": 14, "type": "QT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 2, "start_eid": 3, "end_eid": 6, "ne_id": 2, "text": "북위 23° 26′ 16″(23.4378°)을", "start_eid_short": 6, "end_eid_short": 6, "text_short": "16″(23.4378°)을"}
+        ]}
+    ]
+}

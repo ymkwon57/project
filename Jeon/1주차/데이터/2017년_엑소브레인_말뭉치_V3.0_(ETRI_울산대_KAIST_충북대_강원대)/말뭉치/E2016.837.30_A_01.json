@@ -1,0 +1,341 @@
+{
+    "doc_id": "E2016.837.30_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "경주 대릉원 일원", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "노동리의 봉황대 고분과 더불어 그 규모에 있어 쌍벽을 이루는 제130호 고분을 비롯해, 1921년에 금관이 출토된 금관총, 1926년에 일본 방문 길에 스웨덴의 황태자이며 고고학자인 구스타프 6세 아돌프가 들러 발굴을 조사 참관한 서봉총이 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "노동리", "type": "NNP", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 9, "weight": 0.0694213}, 
+                {"id": 2, "lemma": "봉황", "type": "NNG", "position": 13, "weight": 0.9}, 
+                {"id": 3, "lemma": "대", "type": "NNG", "position": 19, "weight": 0.00126276}, 
+                {"id": 4, "lemma": "고분", "type": "NNG", "position": 23, "weight": 0.130144}, 
+                {"id": 5, "lemma": "과", "type": "JKB", "position": 29, "weight": 0.0503087}, 
+                {"id": 6, "lemma": "더불", "type": "VV", "position": 33, "weight": 0.9}, 
+                {"id": 7, "lemma": "어", "type": "EC", "position": 39, "weight": 0.41831}, 
+                {"id": 8, "lemma": "그", "type": "MM", "position": 43, "weight": 0.0123347}, 
+                {"id": 9, "lemma": "규모", "type": "NNG", "position": 47, "weight": 0.9}, 
+                {"id": 10, "lemma": "에", "type": "JKB", "position": 53, "weight": 0.153364}, 
+                {"id": 11, "lemma": "있", "type": "VA", "position": 57, "weight": 0.037292}, 
+                {"id": 12, "lemma": "어", "type": "EC", "position": 60, "weight": 0.311591}, 
+                {"id": 13, "lemma": "쌍벽", "type": "NNG", "position": 64, "weight": 0.9}, 
+                {"id": 14, "lemma": "을", "type": "JKO", "position": 70, "weight": 0.129611}, 
+                {"id": 15, "lemma": "이루", "type": "VV", "position": 74, "weight": 0.760047}, 
+                {"id": 16, "lemma": "는", "type": "ETM", "position": 80, "weight": 0.184941}, 
+                {"id": 17, "lemma": "제", "type": "XPN", "position": 84, "weight": 0.000887051}, 
+                {"id": 18, "lemma": "130", "type": "SN", "position": 87, "weight": 1}, 
+                {"id": 19, "lemma": "호", "type": "NNB", "position": 90, "weight": 0.215698}, 
+                {"id": 20, "lemma": "고분", "type": "NNG", "position": 94, "weight": 0.109664}, 
+                {"id": 21, "lemma": "을", "type": "JKO", "position": 100, "weight": 0.129611}, 
+                {"id": 22, "lemma": "비롯하", "type": "VV", "position": 104, "weight": 0.9}, 
+                {"id": 23, "lemma": "아", "type": "EC", "position": 110, "weight": 0.41831}, 
+                {"id": 24, "lemma": ",", "type": "SP", "position": 113, "weight": 1}, 
+                {"id": 25, "lemma": "1921", "type": "SN", "position": 115, "weight": 1}, 
+                {"id": 26, "lemma": "년", "type": "NNB", "position": 119, "weight": 0.414343}, 
+                {"id": 27, "lemma": "에", "type": "JKB", "position": 122, "weight": 0.135559}, 
+                {"id": 28, "lemma": "금관", "type": "NNG", "position": 126, "weight": 0.205116}, 
+                {"id": 29, "lemma": "이", "type": "JKS", "position": 132, "weight": 0.0360723}, 
+                {"id": 30, "lemma": "출토", "type": "NNG", "position": 136, "weight": 0.9}, 
+                {"id": 31, "lemma": "되", "type": "XSV", "position": 142, "weight": 0.000224177}, 
+                {"id": 32, "lemma": "ㄴ", "type": "ETM", "position": 142, "weight": 0.392321}, 
+                {"id": 33, "lemma": "금관총", "type": "NNG", "position": 146, "weight": 0.649562}, 
+                {"id": 34, "lemma": ",", "type": "SP", "position": 155, "weight": 1}, 
+                {"id": 35, "lemma": "1926", "type": "SN", "position": 157, "weight": 1}, 
+                {"id": 36, "lemma": "년", "type": "NNB", "position": 161, "weight": 0.414343}, 
+                {"id": 37, "lemma": "에", "type": "JKB", "position": 164, "weight": 0.135559}, 
+                {"id": 38, "lemma": "일본", "type": "NNP", "position": 168, "weight": 0.0230184}, 
+                {"id": 39, "lemma": "방문", "type": "NNG", "position": 175, "weight": 0.9}, 
+                {"id": 40, "lemma": "길", "type": "NNG", "position": 182, "weight": 0.103685}, 
+                {"id": 41, "lemma": "에", "type": "JKB", "position": 185, "weight": 0.153364}, 
+                {"id": 42, "lemma": "스웨덴", "type": "NNP", "position": 189, "weight": 0.0228934}, 
+                {"id": 43, "lemma": "의", "type": "JKG", "position": 198, "weight": 0.0987295}, 
+                {"id": 44, "lemma": "황태자", "type": "NNG", "position": 202, "weight": 0.301085}, 
+                {"id": 45, "lemma": "이", "type": "VCP", "position": 211, "weight": 0.0177525}, 
+                {"id": 46, "lemma": "며", "type": "EC", "position": 214, "weight": 0.250555}, 
+                {"id": 47, "lemma": "고고", "type": "NNG", "position": 218, "weight": 0.215284}, 
+                {"id": 48, "lemma": "학자", "type": "NNG", "position": 224, "weight": 0.9}, 
+                {"id": 49, "lemma": "이", "type": "VCP", "position": 230, "weight": 0.0177525}, 
+                {"id": 50, "lemma": "ㄴ", "type": "ETM", "position": 230, "weight": 0.220712}, 
+                {"id": 51, "lemma": "구스타프", "type": "NNP", "position": 234, "weight": 0.15}, 
+                {"id": 52, "lemma": "6", "type": "SN", "position": 247, "weight": 1}, 
+                {"id": 53, "lemma": "세", "type": "NNB", "position": 248, "weight": 0.0850602}, 
+                {"id": 54, "lemma": "아돌프", "type": "NNP", "position": 252, "weight": 0.75}, 
+                {"id": 55, "lemma": "가", "type": "JKS", "position": 261, "weight": 0.0431193}, 
+                {"id": 56, "lemma": "들르", "type": "VV", "position": 265, "weight": 0.9}, 
+                {"id": 57, "lemma": "어", "type": "EC", "position": 268, "weight": 0.41831}, 
+                {"id": 58, "lemma": "발굴", "type": "NNG", "position": 272, "weight": 0.9}, 
+                {"id": 59, "lemma": "을", "type": "JKO", "position": 278, "weight": 0.129611}, 
+                {"id": 60, "lemma": "조사", "type": "NNG", "position": 282, "weight": 0.101385}, 
+                {"id": 61, "lemma": "참관", "type": "NNG", "position": 289, "weight": 0.9}, 
+                {"id": 62, "lemma": "하", "type": "XSV", "position": 295, "weight": 0.0001}, 
+                {"id": 63, "lemma": "ㄴ", "type": "ETM", "position": 295, "weight": 0.392321}, 
+                {"id": 64, "lemma": "서봉총", "type": "NNG", "position": 299, "weight": 0.2}, 
+                {"id": 65, "lemma": "이", "type": "JKS", "position": 308, "weight": 0.0360723}, 
+                {"id": 66, "lemma": "있", "type": "VA", "position": 312, "weight": 0.12767}, 
+                {"id": 67, "lemma": "다", "type": "EF", "position": 315, "weight": 0.132573}, 
+                {"id": 68, "lemma": ".", "type": "SF", "position": 318, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "노동리", "type": "NNP", "scode": "000000", "weight": 0, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 9, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "봉황대", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 13, "begin": 2, "end": 3}, 
+                {"id": 3, "text": "고분", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 23, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "과", "type": "JKB", "scode": "000000", "weight": 1, "position": 29, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "더불", "type": "VV", "scode": "000002", "weight": 0.333333, "position": 33, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 39, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "그", "type": "MM", "scode": "010102", "weight": 0.142857, "position": 43, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "규모", "type": "NNG", "scode": "000002", "weight": 0.333333, "position": 47, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 53, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "있", "type": "VA", "scode": "010301", "weight": 0.0416667, "position": 57, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 60, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "쌍벽", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 64, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 70, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "이루", "type": "VV", "scode": "010103", "weight": 0.2, "position": 74, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 80, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "제", "type": "XPN", "scode": "210000", "weight": 0.0322581, "position": 84, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "130", "type": "SN", "scode": "000000", "weight": 1, "position": 87, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "호", "type": "NNB", "scode": "140002", "weight": 0.0333333, "position": 90, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "고분", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 94, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 100, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "비롯하", "type": "VV", "scode": "000202", "weight": 0.333333, "position": 104, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 110, "begin": 23, "end": 23}, 
+                {"id": 23, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 113, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "1921", "type": "SN", "scode": "000000", "weight": 1, "position": 115, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 119, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 122, "begin": 27, "end": 27}, 
+                {"id": 27, "text": "금관", "type": "NNG", "scode": "010001", "weight": 0.1, "position": 126, "begin": 28, "end": 28}, 
+                {"id": 28, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 132, "begin": 29, "end": 29}, 
+                {"id": 29, "text": "출토되", "type": "VV", "scode": "000000", "weight": 1, "position": 136, "begin": 30, "end": 31}, 
+                {"id": 30, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 142, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "금관총", "type": "NNG", "scode": "000000", "weight": 1, "position": 146, "begin": 33, "end": 33}, 
+                {"id": 32, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 155, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "1926", "type": "SN", "scode": "000000", "weight": 1, "position": 157, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 161, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 164, "begin": 37, "end": 37}, 
+                {"id": 36, "text": "일본", "type": "NNP", "scode": "020000", "weight": 0.333333, "position": 168, "begin": 38, "end": 38}, 
+                {"id": 37, "text": "방문", "type": "NNG", "scode": "030000", "weight": 0.25, "position": 175, "begin": 39, "end": 39}, 
+                {"id": 38, "text": "길", "type": "NNG", "scode": "010009", "weight": 0.0454545, "position": 182, "begin": 40, "end": 40}, 
+                {"id": 39, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 185, "begin": 41, "end": 41}, 
+                {"id": 40, "text": "스웨덴", "type": "NNP", "scode": "000000", "weight": 1, "position": 189, "begin": 42, "end": 42}, 
+                {"id": 41, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 198, "begin": 43, "end": 43}, 
+                {"id": 42, "text": "황태자", "type": "NNG", "scode": "000000", "weight": 1, "position": 202, "begin": 44, "end": 44}, 
+                {"id": 43, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 211, "begin": 45, "end": 45}, 
+                {"id": 44, "text": "며", "type": "EC", "scode": "000000", "weight": 1, "position": 214, "begin": 46, "end": 46}, 
+                {"id": 45, "text": "고고학자", "type": "NNG", "scode": "000000", "weight": 1, "position": 218, "begin": 47, "end": 48}, 
+                {"id": 46, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 230, "begin": 49, "end": 49}, 
+                {"id": 47, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 230, "begin": 50, "end": 50}, 
+                {"id": 48, "text": "구스타프", "type": "NNP", "scode": "000000", "weight": 0, "position": 234, "begin": 51, "end": 51}, 
+                {"id": 49, "text": "6", "type": "SN", "scode": "000000", "weight": 1, "position": 247, "begin": 52, "end": 52}, 
+                {"id": 50, "text": "세", "type": "NNB", "scode": "130000", "weight": 0.0526316, "position": 248, "begin": 53, "end": 53}, 
+                {"id": 51, "text": "아돌프", "type": "NNP", "scode": "000000", "weight": 0, "position": 252, "begin": 54, "end": 54}, 
+                {"id": 52, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 261, "begin": 55, "end": 55}, 
+                {"id": 53, "text": "들르", "type": "VV", "scode": "000000", "weight": 1, "position": 265, "begin": 56, "end": 56}, 
+                {"id": 54, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 268, "begin": 57, "end": 57}, 
+                {"id": 55, "text": "발굴", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 272, "begin": 58, "end": 58}, 
+                {"id": 56, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 278, "begin": 59, "end": 59}, 
+                {"id": 57, "text": "조사", "type": "NNG", "scode": "300000", "weight": 0.025641, "position": 282, "begin": 60, "end": 60}, 
+                {"id": 58, "text": "참관하", "type": "VV", "scode": "000000", "weight": 1, "position": 289, "begin": 61, "end": 62}, 
+                {"id": 59, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 295, "begin": 63, "end": 63}, 
+                {"id": 60, "text": "서봉총", "type": "NNG", "scode": "000000", "weight": 1, "position": 299, "begin": 64, "end": 64}, 
+                {"id": 61, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 308, "begin": 65, "end": 65}, 
+                {"id": 62, "text": "있", "type": "VA", "scode": "010301", "weight": 0.0416667, "position": 312, "begin": 66, "end": 66}, 
+                {"id": 63, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 315, "begin": 67, "end": 67}, 
+                {"id": 64, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 318, "begin": 68, "end": 68}
+            ], 
+            "word": [
+                {"id": 0, "text": "노동리의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "봉황대", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "고분과", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "더불어", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "그", "type": "", "begin": 8, "end": 8}, 
+                {"id": 5, "text": "규모에", "type": "", "begin": 9, "end": 10}, 
+                {"id": 6, "text": "있어", "type": "", "begin": 11, "end": 12}, 
+                {"id": 7, "text": "쌍벽을", "type": "", "begin": 13, "end": 14}, 
+                {"id": 8, "text": "이루는", "type": "", "begin": 15, "end": 16}, 
+                {"id": 9, "text": "제130호", "type": "", "begin": 17, "end": 19}, 
+                {"id": 10, "text": "고분을", "type": "", "begin": 20, "end": 21}, 
+                {"id": 11, "text": "비롯해,", "type": "", "begin": 22, "end": 24}, 
+                {"id": 12, "text": "1921년에", "type": "", "begin": 25, "end": 27}, 
+                {"id": 13, "text": "금관이", "type": "", "begin": 28, "end": 29}, 
+                {"id": 14, "text": "출토된", "type": "", "begin": 30, "end": 32}, 
+                {"id": 15, "text": "금관총,", "type": "", "begin": 33, "end": 34}, 
+                {"id": 16, "text": "1926년에", "type": "", "begin": 35, "end": 37}, 
+                {"id": 17, "text": "일본", "type": "", "begin": 38, "end": 38}, 
+                {"id": 18, "text": "방문", "type": "", "begin": 39, "end": 39}, 
+                {"id": 19, "text": "길에", "type": "", "begin": 40, "end": 41}, 
+                {"id": 20, "text": "스웨덴의", "type": "", "begin": 42, "end": 43}, 
+                {"id": 21, "text": "황태자이며", "type": "", "begin": 44, "end": 46}, 
+                {"id": 22, "text": "고고학자인", "type": "", "begin": 47, "end": 50}, 
+                {"id": 23, "text": "구스타프", "type": "", "begin": 51, "end": 51}, 
+                {"id": 24, "text": "6세", "type": "", "begin": 52, "end": 53}, 
+                {"id": 25, "text": "아돌프가", "type": "", "begin": 54, "end": 55}, 
+                {"id": 26, "text": "들러", "type": "", "begin": 56, "end": 57}, 
+                {"id": 27, "text": "발굴을", "type": "", "begin": 58, "end": 59}, 
+                {"id": 28, "text": "조사", "type": "", "begin": 60, "end": 60}, 
+                {"id": 29, "text": "참관한", "type": "", "begin": 61, "end": 63}, 
+                {"id": 30, "text": "서봉총이", "type": "", "begin": 64, "end": 65}, 
+                {"id": 31, "text": "있다.", "type": "", "begin": 66, "end": 68}
+            ], 
+            "NE": [
+                {"id": 0, "text": "노동리", "type": "LCP_COUNTY", "begin": 0, "end": 0, "weight": 0.154294, "common_noun": 0}, 
+                {"id": 1, "text": "봉황대", "type": "AF_CULTURAL_ASSET", "begin": 2, "end": 3, "weight": 0.4271, "common_noun": 0}, 
+                {"id": 2, "text": "제130호", "type": "QT_ORDER", "begin": 17, "end": 19, "weight": 0.55543, "common_noun": 0}, 
+                {"id": 3, "text": "1921년", "type": "DT_YEAR", "begin": 25, "end": 26, "weight": 0.733946, "common_noun": 0}, 
+                {"id": 4, "text": "금관총", "type": "AF_CULTURAL_ASSET", "begin": 33, "end": 33, "weight": 0.275268, "common_noun": 0}, 
+                {"id": 5, "text": "1926년", "type": "DT_YEAR", "begin": 35, "end": 36, "weight": 0.788045, "common_noun": 0}, 
+                {"id": 6, "text": "일본", "type": "LCP_COUNTRY", "begin": 38, "end": 38, "weight": 0.694716, "common_noun": 0}, 
+                {"id": 7, "text": "스웨덴", "type": "LCP_COUNTRY", "begin": 42, "end": 42, "weight": 0.678658, "common_noun": 0}, 
+                {"id": 8, "text": "황태자", "type": "CV_POSITION", "begin": 44, "end": 44, "weight": 0.476401, "common_noun": 0}, 
+                {"id": 9, "text": "고고학자", "type": "CV_OCCUPATION", "begin": 47, "end": 48, "weight": 0.819384, "common_noun": 0}, 
+                {"id": 10, "text": "구스타프 6세 아돌프", "type": "PS_NAME", "begin": 51, "end": 54, "weight": 0.485871, "common_noun": 0}, 
+                {"id": 11, "text": "서봉총", "type": "AF_CULTURAL_ASSET", "begin": 64, "end": 64, "weight": 0.538792, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "노동리의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.720142}, 
+                {"id": 1, "text": "봉황대", "head": 2, "label": "NP", "mod": [], "weight": 0.631538}, 
+                {"id": 2, "text": "고분과", "head": 3, "label": "NP_AJT", "mod": [0, 1], "weight": 0.850473}, 
+                {"id": 3, "text": "더불어", "head": 6, "label": "VP", "mod": [2], "weight": 0.842415}, 
+                {"id": 4, "text": "그", "head": 5, "label": "DP", "mod": [], "weight": 0.68178}, 
+                {"id": 5, "text": "규모에", "head": 6, "label": "NP_AJT", "mod": [4], "weight": 0.840649}, 
+                {"id": 6, "text": "있어", "head": 8, "label": "VP", "mod": [3, 5], "weight": 0.816401}, 
+                {"id": 7, "text": "쌍벽을", "head": 8, "label": "NP_OBJ", "mod": [], "weight": 0.830905}, 
+                {"id": 8, "text": "이루는", "head": 10, "label": "VP_MOD", "mod": [7, 6], "weight": 0.748697}, 
+                {"id": 9, "text": "제130호", "head": 10, "label": "NP", "mod": [], "weight": 0.784664}, 
+                {"id": 10, "text": "고분을", "head": 11, "label": "NP_OBJ", "mod": [8, 9], "weight": 0.896063}, 
+                {"id": 11, "text": "비롯해,", "head": 31, "label": "VP", "mod": [10], "weight": 0.201315}, 
+                {"id": 12, "text": "1921년에", "head": 14, "label": "NP_AJT", "mod": [], "weight": 0.609722}, 
+                {"id": 13, "text": "금관이", "head": 14, "label": "NP_SBJ", "mod": [], "weight": 0.730662}, 
+                {"id": 14, "text": "출토된", "head": 15, "label": "VP_MOD", "mod": [12, 13], "weight": 0.839008}, 
+                {"id": 15, "text": "금관총,", "head": 30, "label": "NP_CNJ", "mod": [14], "weight": 0.0841752}, 
+                {"id": 16, "text": "1926년에", "head": 26, "label": "NP_AJT", "mod": [], "weight": 0.725235}, 
+                {"id": 17, "text": "일본", "head": 18, "label": "NP", "mod": [], "weight": 0.513452}, 
+                {"id": 18, "text": "방문", "head": 19, "label": "NP", "mod": [17], "weight": 0.752549}, 
+                {"id": 19, "text": "길에", "head": 26, "label": "NP_AJT", "mod": [18], "weight": 0.591228}, 
+                {"id": 20, "text": "스웨덴의", "head": 21, "label": "NP_MOD", "mod": [], "weight": 0.544079}, 
+                {"id": 21, "text": "황태자이며", "head": 22, "label": "VNP", "mod": [20], "weight": 0.22052}, 
+                {"id": 22, "text": "고고학자인", "head": 25, "label": "VNP_MOD", "mod": [21], "weight": 0.72078}, 
+                {"id": 23, "text": "구스타프", "head": 24, "label": "NP", "mod": [], "weight": 0.587466}, 
+                {"id": 24, "text": "6세", "head": 25, "label": "NP", "mod": [23], "weight": 0.393633}, 
+                {"id": 25, "text": "아돌프가", "head": 26, "label": "NP_SBJ", "mod": [22, 24], "weight": 0.874781}, 
+                {"id": 26, "text": "들러", "head": 29, "label": "VP", "mod": [16, 19, 25], "weight": 0.559338}, 
+                {"id": 27, "text": "발굴을", "head": 29, "label": "NP_OBJ", "mod": [], "weight": 0.746556}, 
+                {"id": 28, "text": "조사", "head": 29, "label": "NP_CNJ", "mod": [], "weight": 0.473539}, 
+                {"id": 29, "text": "참관한", "head": 30, "label": "VP_MOD", "mod": [26, 27, 28], "weight": 0.612942}, 
+                {"id": 30, "text": "서봉총이", "head": 31, "label": "NP_SBJ", "mod": [29, 15], "weight": 0.711152}, 
+                {"id": 31, "text": "있다.", "head": -1, "label": "VP", "mod": [30, 11], "weight": 7.71083e-08}
+            ], 
+            "SRL": [
+                {"verb": "더불", "sense": 1, "word_id": 3, "weight": 0, "argument": [
+                    {"type": "ARG2", "word_id": 2, "text": "고분과", "weight": 1}
+                ]}, 
+                {"verb": "있", "sense": 2, "word_id": 6, "weight": 0.28033, "argument": [
+                    {"type": "ARG2", "word_id": 5, "text": "규모에", "weight": 0.28033}
+                ]}, 
+                {"verb": "이루", "sense": 1, "word_id": 8, "weight": 0.145201, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "쌍벽을", "weight": 0.186013}, 
+                    {"type": "ARG0", "word_id": 10, "text": "고분을", "weight": 0.104389}, 
+                    {"type": "ARGM-EXT", "word_id": 9, "text": "제130호", "weight": 1}
+                ]}, 
+                {"verb": "비롯하", "sense": 1, "word_id": 11, "weight": 0.367897, "argument": [
+                    {"type": "ARG2", "word_id": 10, "text": "고분을", "weight": 0.367897}
+                ]}, 
+                {"verb": "출토", "sense": 1, "word_id": 14, "weight": 0.162366, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 12, "text": "1921년에", "weight": 0.168009}, 
+                    {"type": "ARG1", "word_id": 13, "text": "금관이", "weight": 0.15387}, 
+                    {"type": "ARG2", "word_id": 15, "text": "금관총,", "weight": 0.165218}
+                ]}, 
+                {"verb": "들르", "sense": 1, "word_id": 26, "weight": 0.292188, "argument": [
+                    {"type": "ARG0", "word_id": 25, "text": "아돌프가", "weight": 0.292188}, 
+                    {"type": "ARGM-TMP", "word_id": 16, "text": "1926년에", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 30, "text": "서봉총이", "weight": 1}, 
+                    {"type": "ARGM-EXT", "word_id": 24, "text": "6세", "weight": 1}
+                ]}, 
+                {"verb": "참관", "sense": 1, "word_id": 29, "weight": 0.195041, "argument": [
+                    {"type": "ARG1", "word_id": 27, "text": "발굴을", "weight": 0.260025}, 
+                    {"type": "ARG0", "word_id": 25, "text": "아돌프가", "weight": 1}, 
+                    {"type": "ARGM-LOC", "word_id": 30, "text": "서봉총이", "weight": 1}
+                ]}, 
+                {"verb": "있", "sense": 1, "word_id": 31, "weight": 0.240201, "argument": [
+                    {"type": "ARG1", "word_id": 30, "text": "서봉총이", "weight": 0.240201}, 
+                    {"type": "ARGM-PRD", "word_id": 11, "text": "비롯해,", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "노동리의 봉황대 고분과", "start_eid_short": 1, "end_eid_short": 2, "text_short": "봉황대 고분과"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "노동리의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "노동리의"}
+        ]}, 
+        {"id": 2, "type": "AF_CULTURAL_ASSET", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 1, "text": "봉황대", "start_eid_short": 1, "end_eid_short": 1, "text_short": "봉황대"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 4, "end_eid": 5, "ne_id": -1, "text": "그 규모에", "start_eid_short": 4, "end_eid_short": 5, "text_short": "그 규모에"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 10, "ne_id": -1, "text": "노동리의 봉황대 고분과 더불어 그 규모에 있어 쌍벽을 이루는 제130호 고분을", "start_eid_short": 9, "end_eid_short": 10, "text_short": "제130호 고분을"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "쌍벽을", "start_eid_short": 7, "end_eid_short": 7, "text_short": "쌍벽을"}
+        ]}, 
+        {"id": 6, "type": "QT_ORDER", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 9, "end_eid": 9, "ne_id": 2, "text": "제130호", "start_eid_short": 9, "end_eid_short": 9, "text_short": "제130호"}
+        ]}, 
+        {"id": 7, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 12, "end_eid": 12, "ne_id": 3, "text": "1921년에", "start_eid_short": 12, "end_eid_short": 12, "text_short": "1921년에"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 13, "end_eid": 13, "ne_id": -1, "text": "금관이", "start_eid_short": 13, "end_eid_short": 13, "text_short": "금관이"}
+        ]}, 
+        {"id": 9, "type": "AF_CULTURAL_ASSET", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 16, "end_eid": 30, "ne_id": 11, "text": "1926년에 일본 방문 길에 스웨덴의 황태자이며 고고학자인 구스타프 6세 아돌프가 들러 발굴을 조사 참관한 서봉총이", "start_eid_short": 30, "end_eid_short": 30, "text_short": "서봉총이"}
+        ]}, 
+        {"id": 10, "type": "AF_CULTURAL_ASSET", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 15, "end_eid": 15, "ne_id": 4, "text": "금관총,", "start_eid_short": 15, "end_eid_short": 15, "text_short": "금관총,"}
+        ]}, 
+        {"id": 11, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 11, "sent_id": 0, "start_eid": 16, "end_eid": 16, "ne_id": 5, "text": "1926년에", "start_eid_short": 16, "end_eid_short": 16, "text_short": "1926년에"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 0, "start_eid": 17, "end_eid": 18, "ne_id": -1, "text": "일본 방문", "start_eid_short": 17, "end_eid_short": 18, "text_short": "일본 방문"}
+        ]}, 
+        {"id": 13, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 14, "sent_id": 0, "start_eid": 17, "end_eid": 17, "ne_id": 6, "text": "일본", "start_eid_short": 17, "end_eid_short": 17, "text_short": "일본"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 0, "start_eid": 17, "end_eid": 19, "ne_id": -1, "text": "일본 방문 길에", "start_eid_short": 17, "end_eid_short": 19, "text_short": "일본 방문 길에"}
+        ]}, 
+        {"id": 15, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 15, "sent_id": 0, "start_eid": 20, "end_eid": 25, "ne_id": 10, "text": "스웨덴의 황태자이며 고고학자인 구스타프 6세 아돌프가", "start_eid_short": 23, "end_eid_short": 25, "text_short": "구스타프 6세 아돌프가"}, 
+            {"id": 16, "sent_id": 0, "start_eid": 20, "end_eid": 21, "ne_id": 8, "text": "스웨덴의 황태자이며", "start_eid_short": 21, "end_eid_short": 21, "text_short": "황태자이며"}, 
+            {"id": 18, "sent_id": 0, "start_eid": 22, "end_eid": 22, "ne_id": 9, "text": "고고학자인", "start_eid_short": 22, "end_eid_short": 22, "text_short": "고고학자인"}, 
+            {"id": 19, "sent_id": 0, "start_eid": 23, "end_eid": 24, "ne_id": -1, "text": "구스타프 6세", "start_eid_short": 23, "end_eid_short": 24, "text_short": "구스타프 6세"}
+        ]}, 
+        {"id": 16, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 17, "sent_id": 0, "start_eid": 20, "end_eid": 20, "ne_id": 7, "text": "스웨덴의", "start_eid_short": 20, "end_eid_short": 20, "text_short": "스웨덴의"}
+        ]}, 
+        {"id": 17, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 0, "start_eid": 27, "end_eid": 27, "ne_id": -1, "text": "발굴을", "start_eid_short": 27, "end_eid_short": 27, "text_short": "발굴을"}
+        ]}, 
+        {"id": 18, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 21, "sent_id": 0, "start_eid": 28, "end_eid": 28, "ne_id": -1, "text": "조사", "start_eid_short": 28, "end_eid_short": 28, "text_short": "조사"}
+        ]}
+    ]
+}

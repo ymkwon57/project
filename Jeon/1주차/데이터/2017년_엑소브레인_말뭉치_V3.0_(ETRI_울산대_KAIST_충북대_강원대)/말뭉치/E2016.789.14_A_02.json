@@ -1,0 +1,152 @@
+{
+    "doc_id": "E2016.789.14_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "굴비", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "조기를 소금에 절여 말린 것.", 
+            "morp": [
+                {"id": 0, "lemma": "조기", "type": "NNG", "position": 0, "weight": 0.429011}, 
+                {"id": 1, "lemma": "를", "type": "JKO", "position": 6, "weight": 0.137686}, 
+                {"id": 2, "lemma": "소금", "type": "NNG", "position": 10, "weight": 0.10132}, 
+                {"id": 3, "lemma": "에", "type": "JKB", "position": 16, "weight": 0.153364}, 
+                {"id": 4, "lemma": "절이", "type": "VV", "position": 20, "weight": 0.443757}, 
+                {"id": 5, "lemma": "어", "type": "EC", "position": 23, "weight": 0.41831}, 
+                {"id": 6, "lemma": "말리", "type": "VV", "position": 27, "weight": 0.223402}, 
+                {"id": 7, "lemma": "ㄴ", "type": "ETM", "position": 30, "weight": 0.304215}, 
+                {"id": 8, "lemma": "것", "type": "NNB", "position": 34, "weight": 0.228788}, 
+                {"id": 9, "lemma": ".", "type": "SF", "position": 37, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "조기", "type": "NNG", "scode": "010000", "weight": 0.0666667, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "소금", "type": "NNG", "scode": "010001", "weight": 0.1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 16, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "절이", "type": "VV", "scode": "000000", "weight": 1, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 23, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "말리", "type": "VV", "scode": "030001", "weight": 0.0714286, "position": 27, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 30, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 34, "begin": 8, "end": 8}, 
+                {"id": 9, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 37, "begin": 9, "end": 9}
+            ], 
+            "word": [
+                {"id": 0, "text": "조기를", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "소금에", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "절여", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "말린", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "것.", "type": "", "begin": 8, "end": 9}
+            ], 
+            "NE": [
+                {"id": 0, "text": "조기", "type": "AM_FISH", "begin": 0, "end": 0, "weight": 0.389766, "common_noun": 0}, 
+                {"id": 1, "text": "소금", "type": "CV_FOOD", "begin": 2, "end": 2, "weight": 0.424982, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "조기를", "head": 2, "label": "NP_OBJ", "mod": [], "weight": 0.651766}, 
+                {"id": 1, "text": "소금에", "head": 2, "label": "NP_AJT", "mod": [], "weight": 0.747335}, 
+                {"id": 2, "text": "절여", "head": 3, "label": "VP", "mod": [0, 1], "weight": 0.893103}, 
+                {"id": 3, "text": "말린", "head": 4, "label": "VP_MOD", "mod": [2], "weight": 0.777441}, 
+                {"id": 4, "text": "것.", "head": -1, "label": "NP", "mod": [3], "weight": 0.295542}
+            ], 
+            "SRL": [
+                {"verb": "절이", "sense": 1, "word_id": 2, "weight": 0.194908, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "조기를", "weight": 0.260785}, 
+                    {"type": "ARG2", "word_id": 1, "text": "소금에", "weight": 0.129031}
+                ]}, 
+                {"verb": "말리", "sense": 1, "word_id": 3, "weight": 0.120892, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 2, "text": "절여", "weight": 0.120892}, 
+                    {"type": "ARG1", "word_id": 4, "text": "것.", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "참조기로 만든 영광굴비가 유명하다.", 
+            "morp": [
+                {"id": 0, "lemma": "참조기", "type": "NNG", "position": 38, "weight": 0.0001}, 
+                {"id": 1, "lemma": "로", "type": "JKB", "position": 47, "weight": 0.153229}, 
+                {"id": 2, "lemma": "만들", "type": "VV", "position": 51, "weight": 0.9}, 
+                {"id": 3, "lemma": "ㄴ", "type": "ETM", "position": 54, "weight": 0.304215}, 
+                {"id": 4, "lemma": "영광", "type": "NNP", "position": 58, "weight": 0.00496947}, 
+                {"id": 5, "lemma": "굴비", "type": "NNG", "position": 64, "weight": 0.9}, 
+                {"id": 6, "lemma": "가", "type": "JKS", "position": 70, "weight": 0.066324}, 
+                {"id": 7, "lemma": "유명", "type": "NNG", "position": 74, "weight": 0.9}, 
+                {"id": 8, "lemma": "하", "type": "XSA", "position": 80, "weight": 0.0001}, 
+                {"id": 9, "lemma": "다", "type": "EF", "position": 83, "weight": 0.0497538}, 
+                {"id": 10, "lemma": ".", "type": "SF", "position": 86, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "참조기", "type": "NNG", "scode": "000000", "weight": 1, "position": 38, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 47, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "만들", "type": "VV", "scode": "000101", "weight": 0.0769231, "position": 51, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 54, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "영광", "type": "NNP", "scode": "030000", "weight": 0.25, "position": 58, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "굴비", "type": "NNG", "scode": "000000", "weight": 1, "position": 64, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 70, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "유명하", "type": "VA", "scode": "010000", "weight": 0.5, "position": 74, "begin": 7, "end": 8}, 
+                {"id": 8, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 83, "begin": 9, "end": 9}, 
+                {"id": 9, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 86, "begin": 10, "end": 10}
+            ], 
+            "word": [
+                {"id": 0, "text": "참조기로", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "만든", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "영광굴비가", "type": "", "begin": 4, "end": 6}, 
+                {"id": 3, "text": "유명하다.", "type": "", "begin": 7, "end": 10}
+            ], 
+            "NE": [
+                {"id": 0, "text": "참조기", "type": "AM_FISH", "begin": 0, "end": 0, "weight": 0.343961, "common_noun": 0}, 
+                {"id": 1, "text": "영광굴비", "type": "CV_FOOD", "begin": 4, "end": 5, "weight": 0.496495, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "참조기로", "head": 1, "label": "NP_AJT", "mod": [], "weight": 0.766802}, 
+                {"id": 1, "text": "만든", "head": 2, "label": "VP_MOD", "mod": [0], "weight": 0.730397}, 
+                {"id": 2, "text": "영광굴비가", "head": 3, "label": "NP_SBJ", "mod": [1], "weight": 0.825107}, 
+                {"id": 3, "text": "유명하다.", "head": -1, "label": "VP", "mod": [2], "weight": 0.37199}
+            ], 
+            "SRL": [
+                {"verb": "만들", "sense": 1, "word_id": 1, "weight": 0.159961, "argument": [
+                    {"type": "ARGM-INS", "word_id": 0, "text": "참조기로", "weight": 0.140743}, 
+                    {"type": "ARG1", "word_id": 2, "text": "영광굴비가", "weight": 0.17918}
+                ]}, 
+                {"verb": "유명", "sense": 1, "word_id": 3, "weight": 0.170586, "argument": [
+                    {"type": "ARG1", "word_id": 2, "text": "영광굴비가", "weight": 0.170586}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "조기를", "start_eid_short": 0, "end_eid_short": 0, "text_short": "조기를"}
+        ]}, 
+        {"id": 1, "type": "CV_FOOD", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "소금에", "start_eid_short": 1, "end_eid_short": 1, "text_short": "소금에"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 1, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "참조기로 만든 영광굴비가", "start_eid_short": 2, "end_eid_short": 2, "text_short": "영광굴비가"}
+        ]}, 
+        {"id": 3, "type": "AM_FISH", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 4, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "참조기로", "start_eid_short": 0, "end_eid_short": 0, "text_short": "참조기로"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "조기를 소금에 절여 말린 것.", "start_eid_short": 4, "end_eid_short": 4, "text_short": "것."}
+        ]}
+    ]
+}

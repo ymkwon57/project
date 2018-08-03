@@ -1,0 +1,186 @@
+{
+    "doc_id": "E2016.789.19_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "뱀", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "어미를 잡아먹는다는 별명이 있는 살모사(물론 실제로 어미를 잡아먹는 것은 아니다)는 호주와 극지방을 제외한 전 지역에서 서식한다.", 
+            "morp": [
+                {"id": 0, "lemma": "어미", "type": "NNG", "position": 0, "weight": 0.437794}, 
+                {"id": 1, "lemma": "를", "type": "JKO", "position": 6, "weight": 0.137686}, 
+                {"id": 2, "lemma": "잡아먹", "type": "VV", "position": 10, "weight": 0.9}, 
+                {"id": 3, "lemma": "는다는", "type": "ETM", "position": 19, "weight": 0.317035}, 
+                {"id": 4, "lemma": "별명", "type": "NNG", "position": 29, "weight": 0.9}, 
+                {"id": 5, "lemma": "이", "type": "JKS", "position": 35, "weight": 0.0360723}, 
+                {"id": 6, "lemma": "있", "type": "VA", "position": 39, "weight": 0.12767}, 
+                {"id": 7, "lemma": "는", "type": "ETM", "position": 42, "weight": 0.26168}, 
+                {"id": 8, "lemma": "살모사", "type": "NNG", "position": 46, "weight": 0.9}, 
+                {"id": 9, "lemma": "(", "type": "SS", "position": 55, "weight": 1}, 
+                {"id": 10, "lemma": "물론", "type": "MAG", "position": 56, "weight": 0.0174876}, 
+                {"id": 11, "lemma": "실제로", "type": "MAG", "position": 63, "weight": 0.9}, 
+                {"id": 12, "lemma": "어미", "type": "NNG", "position": 73, "weight": 0.261404}, 
+                {"id": 13, "lemma": "를", "type": "JKO", "position": 79, "weight": 0.137686}, 
+                {"id": 14, "lemma": "잡아먹", "type": "VV", "position": 83, "weight": 0.9}, 
+                {"id": 15, "lemma": "는", "type": "ETM", "position": 92, "weight": 0.184941}, 
+                {"id": 16, "lemma": "것", "type": "NNB", "position": 96, "weight": 0.228788}, 
+                {"id": 17, "lemma": "은", "type": "JX", "position": 99, "weight": 0.0688243}, 
+                {"id": 18, "lemma": "아니", "type": "VCN", "position": 103, "weight": 0.0112415}, 
+                {"id": 19, "lemma": "다", "type": "EF", "position": 109, "weight": 0.264641}, 
+                {"id": 20, "lemma": ")", "type": "SS", "position": 112, "weight": 1}, 
+                {"id": 21, "lemma": "는", "type": "JX", "position": 113, "weight": 0.00823314}, 
+                {"id": 22, "lemma": "호주", "type": "NNG", "position": 117, "weight": 0.0901765}, 
+                {"id": 23, "lemma": "와", "type": "JC", "position": 123, "weight": 0.0169714}, 
+                {"id": 24, "lemma": "극", "type": "NNG", "position": 127, "weight": 0.788437}, 
+                {"id": 25, "lemma": "지방", "type": "NNG", "position": 130, "weight": 0.9}, 
+                {"id": 26, "lemma": "을", "type": "JKO", "position": 136, "weight": 0.129611}, 
+                {"id": 27, "lemma": "제외", "type": "NNG", "position": 140, "weight": 0.9}, 
+                {"id": 28, "lemma": "하", "type": "XSV", "position": 146, "weight": 0.0001}, 
+                {"id": 29, "lemma": "ㄴ", "type": "ETM", "position": 146, "weight": 0.392321}, 
+                {"id": 30, "lemma": "전", "type": "MM", "position": 150, "weight": 0.00396334}, 
+                {"id": 31, "lemma": "지역", "type": "NNG", "position": 154, "weight": 0.9}, 
+                {"id": 32, "lemma": "에서", "type": "JKB", "position": 160, "weight": 0.153407}, 
+                {"id": 33, "lemma": "서식", "type": "NNG", "position": 167, "weight": 0.9}, 
+                {"id": 34, "lemma": "하", "type": "XSV", "position": 173, "weight": 0.0001}, 
+                {"id": 35, "lemma": "ㄴ다", "type": "EF", "position": 173, "weight": 0.0449045}, 
+                {"id": 36, "lemma": ".", "type": "SF", "position": 179, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "어미", "type": "NNG", "scode": "010002", "weight": 0.0625, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "잡아먹", "type": "VV", "scode": "000001", "weight": 0.25, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "는다는", "type": "ETM", "scode": "000000", "weight": 1, "position": 19, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "별명", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 29, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 35, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "있", "type": "VA", "scode": "010301", "weight": 0.0416667, "position": 39, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 42, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "살모사", "type": "NNG", "scode": "000000", "weight": 1, "position": 46, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 55, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "물론", "type": "MAG", "scode": "010100", "weight": 0.333333, "position": 56, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "실제로", "type": "MAG", "scode": "000000", "weight": 1, "position": 63, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "어미", "type": "NNG", "scode": "010002", "weight": 0.0625, "position": 73, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 79, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "잡아먹", "type": "VV", "scode": "000001", "weight": 0.25, "position": 83, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 92, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 96, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 99, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "아니", "type": "VCN", "scode": "000001", "weight": 0.2, "position": 103, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 109, "begin": 19, "end": 19}, 
+                {"id": 20, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 112, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 113, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "호주", "type": "NNG", "scode": "060000", "weight": 0.142857, "position": 117, "begin": 22, "end": 22}, 
+                {"id": 23, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 123, "begin": 23, "end": 23}, 
+                {"id": 24, "text": "극지방", "type": "NNG", "scode": "000000", "weight": 1, "position": 127, "begin": 24, "end": 25}, 
+                {"id": 25, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 136, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "제외하", "type": "VV", "scode": "000000", "weight": 1, "position": 140, "begin": 27, "end": 28}, 
+                {"id": 27, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 146, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "전", "type": "MM", "scode": "070000", "weight": 0.02, "position": 150, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "지역", "type": "NNG", "scode": "030001", "weight": 0.2, "position": 154, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 160, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "서식하", "type": "VV", "scode": "000000", "weight": 1, "position": 167, "begin": 33, "end": 34}, 
+                {"id": 32, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 173, "begin": 35, "end": 35}, 
+                {"id": 33, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 179, "begin": 36, "end": 36}
+            ], 
+            "word": [
+                {"id": 0, "text": "어미를", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "잡아먹는다는", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "별명이", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "있는", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "살모사(물론", "type": "", "begin": 8, "end": 10}, 
+                {"id": 5, "text": "실제로", "type": "", "begin": 11, "end": 11}, 
+                {"id": 6, "text": "어미를", "type": "", "begin": 12, "end": 13}, 
+                {"id": 7, "text": "잡아먹는", "type": "", "begin": 14, "end": 15}, 
+                {"id": 8, "text": "것은", "type": "", "begin": 16, "end": 17}, 
+                {"id": 9, "text": "아니다)는", "type": "", "begin": 18, "end": 21}, 
+                {"id": 10, "text": "호주와", "type": "", "begin": 22, "end": 23}, 
+                {"id": 11, "text": "극지방을", "type": "", "begin": 24, "end": 26}, 
+                {"id": 12, "text": "제외한", "type": "", "begin": 27, "end": 29}, 
+                {"id": 13, "text": "전", "type": "", "begin": 30, "end": 30}, 
+                {"id": 14, "text": "지역에서", "type": "", "begin": 31, "end": 32}, 
+                {"id": 15, "text": "서식한다.", "type": "", "begin": 33, "end": 36}
+            ], 
+            "NE": [
+                {"id": 0, "text": "어미", "type": "CV_RELATION", "begin": 0, "end": 0, "weight": 0.239973, "common_noun": 0}, 
+                {"id": 1, "text": "살모사", "type": "AM_REPTILIA", "begin": 8, "end": 8, "weight": 0.17604, "common_noun": 0}, 
+                {"id": 2, "text": "어미", "type": "CV_RELATION", "begin": 12, "end": 12, "weight": 0.244816, "common_noun": 0}, 
+                {"id": 3, "text": "호주", "type": "LCP_COUNTRY", "begin": 22, "end": 22, "weight": 0.553495, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "어미를", "head": 1, "label": "NP_OBJ", "mod": [], "weight": 0.720528}, 
+                {"id": 1, "text": "잡아먹는다는", "head": 2, "label": "VP_MOD", "mod": [0], "weight": 0.46253}, 
+                {"id": 2, "text": "별명이", "head": 3, "label": "NP_SBJ", "mod": [1], "weight": 0.765433}, 
+                {"id": 3, "text": "있는", "head": 4, "label": "VP_MOD", "mod": [2], "weight": 0.43797}, 
+                {"id": 4, "text": "살모사(물론", "head": 9, "label": "NP", "mod": [3], "weight": 0.254424}, 
+                {"id": 5, "text": "실제로", "head": 7, "label": "AP", "mod": [], "weight": 0.437557}, 
+                {"id": 6, "text": "어미를", "head": 7, "label": "NP_OBJ", "mod": [], "weight": 0.575179}, 
+                {"id": 7, "text": "잡아먹는", "head": 8, "label": "VP_MOD", "mod": [5, 6], "weight": 0.846525}, 
+                {"id": 8, "text": "것은", "head": 9, "label": "NP_CMP", "mod": [7], "weight": 0.256199}, 
+                {"id": 9, "text": "아니다)는", "head": 15, "label": "VP_SBJ", "mod": [8, 4], "weight": 0.119723}, 
+                {"id": 10, "text": "호주와", "head": 11, "label": "NP_CNJ", "mod": [], "weight": 0.714801}, 
+                {"id": 11, "text": "극지방을", "head": 12, "label": "NP_OBJ", "mod": [10], "weight": 0.673975}, 
+                {"id": 12, "text": "제외한", "head": 14, "label": "VP_MOD", "mod": [11], "weight": 0.742878}, 
+                {"id": 13, "text": "전", "head": 14, "label": "DP", "mod": [], "weight": 0.370145}, 
+                {"id": 14, "text": "지역에서", "head": 15, "label": "NP_AJT", "mod": [12, 13], "weight": 0.792836}, 
+                {"id": 15, "text": "서식한다.", "head": -1, "label": "VP", "mod": [9, 14], "weight": 1.78379e-05}
+            ], 
+            "SRL": [
+                {"verb": "잡아먹", "sense": 1, "word_id": 1, "weight": 0.217144, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "어미를", "weight": 0.217144}
+                ]}, 
+                {"verb": "있", "sense": 1, "word_id": 3, "weight": 0.133584, "argument": [
+                    {"type": "ARG1", "word_id": 2, "text": "별명이", "weight": 0.161123}
+                ]}, 
+                {"verb": "잡아먹", "sense": 1, "word_id": 7, "weight": 0.178121, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 5, "text": "실제로", "weight": 0.104463}, 
+                    {"type": "ARG1", "word_id": 6, "text": "어미를", "weight": 0.251779}
+                ]}, 
+                {"verb": "아니", "sense": 1, "word_id": 9, "weight": 0.194977, "argument": [
+                    {"type": "ARG2", "word_id": 8, "text": "것은", "weight": 0.194977}
+                ]}, 
+                {"verb": "제외", "sense": 1, "word_id": 12, "weight": 0.306589, "argument": [
+                    {"type": "ARG1", "word_id": 11, "text": "극지방을", "weight": 0.326863}, 
+                    {"type": "ARG2", "word_id": 14, "text": "지역에서", "weight": 0.286314}
+                ]}, 
+                {"verb": "서식", "sense": 1, "word_id": 15, "weight": 0.17256, "argument": [
+                    {"type": "ARG0", "word_id": 9, "text": "아니다)는", "weight": 0.227087}, 
+                    {"type": "ARG1", "word_id": 14, "text": "지역에서", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "어미를 잡아먹는다는 별명이", "start_eid_short": 2, "end_eid_short": 2, "text_short": "별명이"}
+        ]}, 
+        {"id": 1, "type": "CV_RELATION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "어미를", "start_eid_short": 0, "end_eid_short": 0, "text_short": "어미를"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 9, "ne_id": -1, "text": "어미를 잡아먹는다는 별명이 있는 살모사(물론 실제로 어미를 잡아먹는 것은 아니다)는", "start_eid_short": 9, "end_eid_short": 9, "text_short": "아니다)는"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 10, "end_eid": 14, "ne_id": -1, "text": "호주와 극지방을 제외한 전 지역에서", "start_eid_short": 13, "end_eid_short": 14, "text_short": "전 지역에서"}
+        ]}, 
+        {"id": 4, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 10, "end_eid": 11, "ne_id": -1, "text": "호주와 극지방을", "start_eid_short": 11, "end_eid_short": 11, "text_short": "극지방을"}
+        ]}, 
+        {"id": 5, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 10, "end_eid": 10, "ne_id": 3, "text": "호주와", "start_eid_short": 10, "end_eid_short": 10, "text_short": "호주와"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 11, "end_eid": 11, "ne_id": -1, "text": "극지방을", "start_eid_short": 11, "end_eid_short": 11, "text_short": "극지방을"}
+        ]}
+    ]
+}

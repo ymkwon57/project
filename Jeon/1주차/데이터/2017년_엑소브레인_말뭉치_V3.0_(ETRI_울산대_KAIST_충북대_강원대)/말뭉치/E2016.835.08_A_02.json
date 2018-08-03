@@ -1,0 +1,75 @@
+{
+    "doc_id": "E2016.835.08_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "플로렌스", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<지명> ‘피렌체’의 영어 이름.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "지명", "type": "NNG", "position": 1, "weight": 0.164578}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "‘", "type": "SS", "position": 9, "weight": 1}, 
+                {"id": 4, "lemma": "피렌체", "type": "NNP", "position": 12, "weight": 0.0683185}, 
+                {"id": 5, "lemma": "’", "type": "SS", "position": 21, "weight": 1}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 24, "weight": 0.0878251}, 
+                {"id": 7, "lemma": "영어", "type": "NNP", "position": 28, "weight": 0.0171194}, 
+                {"id": 8, "lemma": "이름", "type": "NNG", "position": 35, "weight": 0.9}, 
+                {"id": 9, "lemma": ".", "type": "SF", "position": 41, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "지명", "type": "NNG", "scode": "010000", "weight": 0.0909091, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "‘", "type": "SS", "scode": "000000", "weight": 1, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "피렌체", "type": "NNP", "scode": "000000", "weight": 1, "position": 12, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "’", "type": "SS", "scode": "000000", "weight": 1, "position": 21, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 24, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "영어", "type": "NNP", "scode": "020000", "weight": 0.2, "position": 28, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "이름", "type": "NNG", "scode": "000001", "weight": 0.111111, "position": 35, "begin": 8, "end": 8}, 
+                {"id": 9, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 41, "begin": 9, "end": 9}
+            ], 
+            "word": [
+                {"id": 0, "text": "<지명>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "‘피렌체’의", "type": "", "begin": 3, "end": 6}, 
+                {"id": 2, "text": "영어", "type": "", "begin": 7, "end": 7}, 
+                {"id": 3, "text": "이름.", "type": "", "begin": 8, "end": 9}
+            ], 
+            "NE": [
+                {"id": 0, "text": "피렌체", "type": "LCP_CITY", "begin": 4, "end": 4, "weight": 0.23071, "common_noun": 0}, 
+                {"id": 1, "text": "영어", "type": "CV_LANGUAGE", "begin": 7, "end": 7, "weight": 0.632451, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<지명>", "head": 3, "label": "NP", "mod": [], "weight": 0.880311}, 
+                {"id": 1, "text": "‘피렌체’의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.739743}, 
+                {"id": 2, "text": "영어", "head": 3, "label": "NP", "mod": [], "weight": 0.6959}, 
+                {"id": 3, "text": "이름.", "head": -1, "label": "NP", "mod": [0, 1, 2], "weight": 0.326322}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "LCP_CITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "‘피렌체’의", "start_eid_short": 1, "end_eid_short": 1, "text_short": "‘피렌체’의"}
+        ]}, 
+        {"id": 1, "type": "CV_LANGUAGE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": 1, "text": "영어", "start_eid_short": 2, "end_eid_short": 2, "text_short": "영어"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": -1, "text": "‘피렌체’의 영어 이름.", "start_eid_short": 2, "end_eid_short": 3, "text_short": "영어 이름."}
+        ]}
+    ]
+}

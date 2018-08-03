@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+북미(북아메리카,North America)는 세 번째로 큰 대륙이다. 면적은 24,221,490평방km이다. 그것은 북반구에 위치하며 태평양과 대서양의 사이에 있으며 남미 대륙의 북쪽이다. 북미의 최고봉은 알라스카의 매킨리 산으로 해발 6,194m이다.
+북미는 3개의 대국과 하나의 큰 섬영토로 이루어져 있다. 그들은 캐나다, 미국, 멕시코와 그린랜드이다. 남부에는 7개의 작은 나라가 있는데 중미로 불린다. 그리고 다양한 크기의 두 타스의 섬나라가 대서양의 캐리비언에 위치한다. 그리고 하나의 불란서 영토가 캐나다 대서양 해변의 섬에 위치한다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="3" text="북미" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="4" end="9" text="북아메리카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="76" end="79" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="81" end="84" text="대서양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="94" end="99" text="남미 대륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="107" end="109" text="북미" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="116" end="120" text="알라스카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="122" end="127" text="매킨리 산" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me1" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="143" end="145" text="북미" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="179" end="182" text="캐나다" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="184" end="186" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="188" end="191" text="멕시코" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="193" end="197" text="그린랜드" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="221" end="223" text="중미" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="253" end="256" text="대서양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="258" end="262" text="캐리비언" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="286" end="289" text="캐나다" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="40" />
+<PLACE id="pl20" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="201" />
+<PLACE id="pl2" start="66" end="69" text="북반구" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="34" end="36" text="대륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="62" end="64" text="그것" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="111" end="114" text="최고봉" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="151" end="153" text="대국" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="161" end="164" text="섬영토" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="175" end="177" text="그들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="213" end="215" text="나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="248" end="251" text="섬나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="274" end="276" text="하나" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="298" end="299" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="278" end="284" text="불란서 영토" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="290" end="296" text="대서양 해변" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="69" end="70" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="101" end="103" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="262" end="263" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="299" end="300" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="201" end="203" text="남부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="86" end="88" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="109" end="110" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="120" end="121" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="256" end="257" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="296" end="297" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me0" start="44" end="58" text="24,221,490평방km" value="24221490" unit="km2" comment="" />
+<MEASURE id="me1" start="133" end="139" text="6,194m" value="6194" unit="m" comment="" />
+<SENTENCE id="sent0" start="1" end="39" text="북미(북아메리카,North America)는 세 번째로 큰 대륙이다." comment="" />
+<SENTENCE id="sent1" start="40" end="61" text="면적은 24,221,490평방km이다." comment="" />
+<SENTENCE id="sent2" start="62" end="106" text="그것은 북반구에 위치하며 태평양과 대서양의 사이에 있으며 남미 대륙의 북쪽이다." comment="" />
+<SENTENCE id="sent3" start="107" end="142" text="북미의 최고봉은 알라스카의 매킨리 산으로 해발 6,194m이다." comment="" />
+<SENTENCE id="sent4" start="143" end="174" text="북미는 3개의 대국과 하나의 큰 섬영토로 이루어져 있다." comment="" />
+<SENTENCE id="sent5" start="175" end="200" text="그들은 캐나다, 미국, 멕시코와 그린랜드이다." comment="" />
+<SENTENCE id="sent6" start="201" end="229" text="남부에는 7개의 작은 나라가 있는데 중미로 불린다." comment="" />
+<SENTENCE id="sent7" start="230" end="269" text="그리고 다양한 크기의 두 타스의 섬나라가 대서양의 캐리비언에 위치한다." comment="" />
+<SENTENCE id="sent8" start="270" end="306" text="그리고 하나의 불란서 영토가 캐나다 대서양 해변의 섬에 위치한다." comment="" />
+<QSLINK id="qsl1" fromID="pl4" fromText="그것" toID="pl2" toText="북반구" relType="IN" trajector="pl4" landmark="pl2" trigger="s2" comment="" />
+<QSLINK id="qsl2" fromID="pl6" fromText="대서양" toID="pl5" toText="태평양" relType="DC" trajector="pl6" landmark="pl5" trigger="s1" comment="" />
+<QSLINK id="qsl3" fromID="pl5" fromText="태평양" toID="pl4" toText="그것" relType="OUT" trajector="pl4" landmark="pl5" trigger="s1" comment="" />
+<QSLINK id="qsl7" fromID="pl6" fromText="대서양" toID="pl4" toText="그것" relType="OUT" trajector="pl4" landmark="pl6" trigger="s1" comment="" />
+<QSLINK id="qsl10" fromID="pl25" fromText="캐리비언" toID="pl23" toText="섬나라" relType="IN" trajector="pl23" landmark="pl25" trigger="s4" comment="" />
+<QSLINK id="qsl0" fromID="pl9" fromText="최고봉" toID="pl8" toText="북미" relType="NTPP" trajector="pl9" landmark="pl8" trigger="s5" comment="" />
+<QSLINK id="qsl4" fromID="pl11" fromText="매킨리 산" toID="pl10" toText="알라스카" relType="NTPP" trajector="pl11" landmark="pl10" trigger="s7" comment="" />
+<QSLINK id="qsl5" fromID="pl25" fromText="캐리비언" toID="pl24" toText="대서양" relType="NTPP" trajector="pl25" landmark="pl24" trigger="s8" comment="" />
+<QSLINK id="qsl6" fromID="pl33" fromText="섬" toID="pl30" toText="대서양 해변" relType="NTPP" trajector="pl33" landmark="pl30" trigger="s9" comment="" />
+<QSLINK id="qsl8" fromID="pl29" fromText="불란서 영토" toID="pl33" toText="섬" relType="NTPP" trajector="pl29" landmark="pl33" trigger="s6" comment="" />
+<OLINK id="ol0" fromID="pl7" fromText="남미 대륙" toID="pl4" toText="그것" relType="북" trajector="pl4" landmark="pl7" trigger="s2" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl20" fromText="" toID="pl21" toText="나라" relType="남" trajector="pl21" landmark="pl20" trigger="s3" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<MEASURELINK id="ml0" fromID="pl32" fromText="" toID="me0" toText="24,221,490평방km" trajector="pl32" landmark="pl32" relType="GENERAL_DIMENSION" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl11" fromText="매킨리 산" toID="me1" toText="6,194m" trajector="pl11" landmark="pl11" relType="HEIGHT" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="pl9" fromText="최고봉" toID="me1" toText="6,194m" trajector="pl9" landmark="pl9" relType="HEIGHT" val="me1" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+콰잘린(kwajalein)은 마셜 제도의 섬으로 국제 공항이 있으며 국내선 비행기 몇 편이 환초들 사이에 취항하고 있다. 태평양의 콰잘린 환초에서 서북방향으로 300키로에 비키니 섬이 있다.
+2010년 2월 태평양 상공에서 실시된 이번 요격실험은 마셜 제도 서쪽의 콰잘린 환초 시험장에서 표적 미사일을 먼저 쏘아올린 다음 6분 후 미국 캘리포니아주 반덴버그 공군기지에서 요격하는 것이다. NMD용GBR-P프로토 타입 레이더는 1998년 콰잘린 환초에 설치되어 수 많은 유도탄 표적에 대한 시험을 수행했는데, 16,896개의 반도체 송수신 모듈의 배열이다.
+1942년 2월초 마샬 군도 콰잘린(Kwajalein)환초에 있는 일본 해군기지 회의실에서는 대본영으로부터 세부작전 계획을 입안하라는 지시르 받는다. 나무르 환초의 공군기지의 야마다 소장은 폭격으로 죽었고 마샬제도 방어의 총책임자 아끼야마 장군 또한 콰잘린 환초에 미군이 상륙하는 과정에서 죽었다.
+마주로 섬을 차기 작전을 위하여 점령 목표에 추가한 다음 1944년 2월 1일, 마샬 제도 중앙에 있던 콰잘린 환초에 상륙함으로써 마샬 제도 점령을 위한 부싯돌 작전(Operation Flintlock)을 시작했다. 일본의 웨이크 섬 공략 부대는 12월 8일 오후 1시 15분경 일본령 콰잘린 섬으로부터 출격하여 북쪽으로 840마일 떨어진 웨이크 섬을 목표로 항진하였다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="4" text="콰잘린" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="17" end="22" text="마셜 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="24" end="25" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="69" end="72" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="74" end="80" text="콰잘린 환초" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="97" end="102" text="비키니 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="117" end="120" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="139" end="144" text="마셜 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="186" end="188" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="189" end="195" text="캘리포니아주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="196" end="205" text="반덴버그 공군기지" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="245" end="251" text="콰잘린 환초" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="322" end="327" text="마샬 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="328" end="331" text="콰잘린" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="342" end="344" text="환초" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="396" end="402" text="나무르 환초" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="452" end="458" text="콰잘린 환초" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="479" end="484" text="마주로 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="524" end="529" text="마샬 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="537" end="543" text="콰잘린 환초" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="600" end="602" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="604" end="609" text="웨이크 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="635" end="638" text="일본령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="639" end="644" text="콰잘린 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="669" end="674" text="웨이크 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="52" end="55" text="환초들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="149" end="159" text="콰잘린 환초 시험장" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="349" end="360" text="일본 해군기지 회의실" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="165" end="168" text="미사일" type="ARTIFACT" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="460" end="462" text="미군" type="PERSON" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="610" end="615" text="공략 부대" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="404" end="408" text="공군기지" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="218" end="237" text="NMD용GBR-P프로토 타입 레이더" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se6" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="479" />
+<MOTION id="m0" start="173" end="177" text="쏘아올린" domain="" latLong="" elevation="" motion_type="PATH" motion_class="DEVIATE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="464" end="467" text="상륙하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="545" end="548" text="상륙함" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="649" end="652" text="출격하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="680" end="683" text="항진하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s3" start="83" end="87" text="서북방향" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="145" end="147" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="344" end="345" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s13" start="530" end="532" text="중앙" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s15" start="654" end="656" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="665" end="668" text="떨어진" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="22" end="23" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="72" end="73" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="251" end="252" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="402" end="403" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="458" end="459" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="543" end="544" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="644" end="648" text="으로부터" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="159" end="161" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="674" end="675" text="을" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="90" end="95" text="300키로" value="300" unit="km" comment="" />
+<MEASURE id="me1" start="659" end="664" text="840마일" value="840" unit="mile" comment="" />
+<SENTENCE id="sent0" start="1" end="68" text="콰잘린(kwajalein)은 마셜 제도의 섬으로 국제 공항이 있으며 국내선 비행기 몇 편이 환초들 사이에 취항하고 있다." comment="" />
+<SENTENCE id="sent1" start="69" end="107" text="태평양의 콰잘린 환초에서 서북방향으로 300키로에 비키니 섬이 있다." comment="" />
+<SENTENCE id="sent2" start="108" end="217" text="2010년 2월 태평양 상공에서 실시된 이번 요격실험은 마셜 제도 서쪽의 콰잘린 환초 시험장에서 표적 미사일을 먼저 쏘아올린 다음 6분 후 미국 캘리포니아주 반덴버그 공군기지에서 요격하는 것이다." comment="" />
+<SENTENCE id="sent3" start="218" end="311" text="NMD용GBR-P프로토 타입 레이더는 1998년 콰잘린 환초에 설치되어 수 많은 유도탄 표적에 대한 시험을 수행했는데, 16,896개의 반도체 송수신 모듈의 배열이다." comment="" />
+<SENTENCE id="sent4" start="312" end="395" text="1942년 2월초 마샬 군도 콰잘린(Kwajalein)환초에 있는 일본 해군기지 회의실에서는 대본영으로부터 세부작전 계획을 입안하라는 지시르 받는다." comment="" />
+<SENTENCE id="sent5" start="396" end="478" text="나무르 환초의 공군기지의 야마다 소장은 폭격으로 죽었고 마샬제도 방어의 총책임자 아끼야마 장군 또한 콰잘린 환초에 미군이 상륙하는 과정에서 죽었다." comment="" />
+<SENTENCE id="sent6" start="479" end="599" text="마주로 섬을 차기 작전을 위하여 점령 목표에 추가한 다음 1944년 2월 1일, 마샬 제도 중앙에 있던 콰잘린 환초에 상륙함으로써 마샬 제도 점령을 위한 부싯돌 작전(Operation Flintlock)을 시작했다." comment="" />
+<SENTENCE id="sent7" start="600" end="686" text="일본의 웨이크 섬 공략 부대는 12월 8일 오후 1시 15분경 일본령 콰잘린 섬으로부터 출격하여 북쪽으로 840마일 떨어진 웨이크 섬을 목표로 항진하였다." comment="" />
+<QSLINK id="qsl1" fromID="pl2" fromText="섬" toID="pl1" toText="마셜 제도" relType="NTPP" trajector="pl2" landmark="pl1" trigger="s0" comment="" />
+<QSLINK id="qsl3" fromID="pl5" fromText="콰잘린 환초" toID="pl4" toText="태평양" relType="NTPP" trajector="pl5" landmark="pl4" trigger="s1" comment="" />
+<QSLINK id="qsl4" fromID="se5" fromText="NMD용GBR-P프로토 타입 레이더" toID="pl14" toText="콰잘린 환초" relType="NTPP" trajector="se5" landmark="pl14" trigger="s4" comment="" />
+<QSLINK id="qsl5" fromID="pl36" fromText="웨이크 섬" toID="pl35" toText="콰잘린 섬" relType="DC" trajector="pl36" landmark="pl35" trigger="s2" comment="" />
+<QSLINK id="qsl8" fromID="se3" fromText="공군기지" toID="pl22" toText="나무르 환초" relType="NTPP" trajector="se3" landmark="pl22" trigger="s5" comment="" />
+<QSLINK id="qsl9" fromID="pl10" fromText="일본 해군기지 회의실" toID="pl18" toText="환초" relType="NTPP" trajector="pl10" landmark="pl18" trigger="s10" comment="" />
+<OLINK id="ol0" fromID="pl5" fromText="콰잘린 환초" toID="pl6" toText="비키니 섬" relType="서북" trajector="pl6" landmark="pl5" trigger="s3" frame_type="ABSOLUTE" referencePt="서북" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl35" fromText="콰잘린 섬" toID="pl36" toText="웨이크 섬" relType="북" trajector="pl36" landmark="pl35" trigger="s15" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="pl9" fromText="콰잘린 환초 시험장" toID="pl8" toText="마셜 제도" relType="서" trajector="pl9" landmark="pl8" trigger="s6" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl30" fromText="콰잘린 환초" toID="pl28" toText="마샬 제도" relType="중" trajector="pl30" landmark="pl28" trigger="s13" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="se0" fromText="미사일" toID="m0" toText="쏘아올린" trigger="m0" source="pl9" goal="" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl1" fromID="se1" fromText="미군" toID="m1" toText="상륙하" trigger="m1" source="" goal="pl25" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl2" fromID="pl30" fromText="콰잘린 환초" toID="m2" toText="상륙함" trigger="m2" source="" goal="pl30" midPoint="" mover="se6" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl3" fromID="pl35" fromText="콰잘린 섬" toID="m3" toText="출격하" trigger="m3" source="pl35" goal="pl36" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2, ms4" comment="" />
+<MOVELINK id="mvl4" fromID="pl36" fromText="웨이크 섬" toID="m4" toText="항진하" trigger="m4" source="pl35" goal="pl36" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2, ms4" comment="" />
+<MEASURELINK id="ml0" fromID="pl5" fromText="콰잘린 환초" toID="pl6" toText="비키니 섬" trajector="pl6" landmark="pl5" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl35" fromText="콰잘린 섬" toID="pl36" toText="웨이크 섬" trajector="pl36" landmark="pl35" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+마카오(Macao)는 이전의 포르투갈 식민지이며 현재에는 동양의 라스베이거스라 여겨지는 휴양 도시이다.
+마카오(Macau,Macao,澳門)는 중국의 특별행정지역으로 홍콩의 반대편 동쪽편 퍼얼 강의 강어귀에 자리잡고 있다. 1999년까지 마카오는 포르투갈의 해외 영토였다. 세계 최고밀의 지역인 마카오는 아시아 최대의 여행지로 도박으로 잘 알려져 있다.
+
+오랜동안 마카오로 가는 통상적인 방법은 홍콩으로 가서 페리를 타고 건너가는 것이였다. 오늘날 마카오는 저가의 항공 허브가 되고 있다. 그리고 약간의 사람들은 마카오로 가서 홍콩으로 도달한다.
+대부분의 방문자들은 비자가 필요하지 않으며, 많은 국적(대부분 아시아인, 유럽인과 아메리카인)의 사람들은 무비자로 입국한다. 자세한 것은 마카오 여행 사무소에서 확인하세요. 홍콩 주민은 그들의 신분증을 사용하여 출입할 수 있다. 그리고 1년까지 계속 머무를 수 있다. 비자가 필요한 이들은 중국 대사관, 영사관 또는 도착시 마카오에서 얻을 수 있다. 마카오 비자는 중국 본토 여행에 유효한 비자와는 별도이다.
+홍콩과 같이 마카오는 중국 본토와는 별도의 이민 체계를 지녔다. 그리고 본토에서 마카오로 가는 어떤 이도 중국을 떠나는 것으로 여겨진다. 마카오에서 중국으로 돌아오기 위해서는 이전의 것이 복수 출입 비자가 아니면 다른 중국 비자를 얻기 위해서 지원해야 한다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="4" text="마카오" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="33" end="35" text="동양" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="37" end="43" text="라스베이거스" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="53" end="55" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="59" end="62" text="마카오" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="80" end="82" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="93" end="95" text="홍콩" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="133" end="136" text="마카오" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="138" end="142" text="포르투갈" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="165" end="168" text="마카오" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="204" end="207" text="마카오" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="221" end="223" text="홍콩" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="251" end="254" text="마카오" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="287" end="290" text="마카오" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="295" end="297" text="홍콩" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="403" end="405" text="홍콩" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="468" end="474" text="중국 대사관" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="476" end="479" text="영사관" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="487" end="490" text="마카오" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="535" end="537" text="홍콩" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="542" end="545" text="마카오" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="575" end="577" text="본토" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="580" end="583" text="마카오" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="594" end="596" text="중국" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="612" end="615" text="마카오" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="618" end="620" text="중국" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="170" end="173" text="아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="502" end="505" text="마카오" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="84" end="90" text="특별행정지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="111" end="114" text="강어귀" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="434" />
+<PLACE id="pl45" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="306" />
+<PLACE id="pl47" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="403" />
+<PLACE id="pl15" start="178" end="181" text="여행지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="161" end="163" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="547" end="552" text="중국 본토" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="510" end="515" text="중국 본토" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="144" end="149" text="해외 영토" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="383" end="393" text="마카오 여행 사무소" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="105" end="109" text="퍼얼 강" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="282" end="285" text="사람들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="591" end="592" text="이" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="360" end="363" text="사람들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="406" end="408" text="주민" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="-1" end="-1" text="" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="434" />
+<SPATIAL_ENTITY id="se5" start="229" end="231" text="페리" type="VEHICLE" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="209" end="210" text="가" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="226" end="227" text="가" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="236" end="239" text="건너가" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="292" end="293" text="가" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="300" end="303" text="도달한" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m5" start="370" end="373" text="입국한" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m6" start="424" end="427" text="출입할" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m7" start="585" end="586" text="가" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m8" start="598" end="600" text="떠나" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m9" start="623" end="626" text="돌아오" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m11" start="233" end="234" text="타" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="97" end="100" text="반대편" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="101" end="104" text="동쪽편" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="114" end="115" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="82" end="83" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="142" end="143" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="109" end="110" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="35" end="36" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="176" end="177" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="207" end="208" text="로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="223" end="225" text="으로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="290" end="291" text="로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="297" end="299" text="으로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms5" start="577" end="579" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms6" start="596" end="597" text="을" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms7" start="615" end="617" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms8" start="620" end="622" text="으로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms9" start="583" end="584" text="로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="231" end="232" text="를" motion_signal_type="MANNER" comment="" />
+<SENTENCE id="sent0" start="1" end="58" text="마카오(Macao)는 이전의 포르투갈 식민지이며 현재에는 동양의 라스베이거스라 여겨지는 휴양 도시이다." comment="" />
+<SENTENCE id="sent1" start="59" end="124" text="마카오(Macau,Macao,澳門)는 중국의 특별행정지역으로 홍콩의 반대편 동쪽편 퍼얼 강의 강어귀에 자리잡고 있다." comment="" />
+<SENTENCE id="sent2" start="125" end="152" text="1999년까지 마카오는 포르투갈의 해외 영토였다." comment="" />
+<SENTENCE id="sent3" start="153" end="197" text="세계 최고밀의 지역인 마카오는 아시아 최대의 여행지로 도박으로 잘 알려져 있다." comment="" />
+<SENTENCE id="sent4" start="199" end="246" text="오랜동안 마카오로 가는 통상적인 방법은 홍콩으로 가서 페리를 타고 건너가는 것이였다." comment="" />
+<SENTENCE id="sent5" start="247" end="273" text="오늘날 마카오는 저가의 항공 허브가 되고 있다." comment="" />
+<SENTENCE id="sent6" start="274" end="305" text="그리고 약간의 사람들은 마카오로 가서 홍콩으로 도달한다." comment="" />
+<SENTENCE id="sent7" start="306" end="375" text="대부분의 방문자들은 비자가 필요하지 않으며, 많은 국적(대부분 아시아인, 유럽인과 아메리카인)의 사람들은 무비자로 입국한다." comment="" />
+<SENTENCE id="sent8" start="376" end="402" text="자세한 것은 마카오 여행 사무소에서 확인하세요." comment="" />
+<SENTENCE id="sent9" start="403" end="433" text="홍콩 주민은 그들의 신분증을 사용하여 출입할 수 있다." comment="" />
+<SENTENCE id="sent10" start="434" end="455" text="그리고 1년까지 계속 머무를 수 있다." comment="" />
+<SENTENCE id="sent11" start="456" end="501" text="비자가 필요한 이들은 중국 대사관, 영사관 또는 도착시 마카오에서 얻을 수 있다." comment="" />
+<SENTENCE id="sent12" start="502" end="534" text="마카오 비자는 중국 본토 여행에 유효한 비자와는 별도이다." comment="" />
+<SENTENCE id="sent13" start="535" end="570" text="홍콩과 같이 마카오는 중국 본토와는 별도의 이민 체계를 지녔다." comment="" />
+<SENTENCE id="sent14" start="571" end="611" text="그리고 본토에서 마카오로 가는 어떤 이도 중국을 떠나는 것으로 여겨진다." comment="" />
+<SENTENCE id="sent15" start="612" end="679" text="마카오에서 중국으로 돌아오기 위해서는 이전의 것이 복수 출입 비자가 아니면 다른 중국 비자를 얻기 위해서 지원해야 한다." comment="" />
+<QSLINK id="qsl0" fromID="pl8" fromText="특별행정지역" toID="pl24" toText="강어귀" relType="IN" trajector="pl8" landmark="pl24" trigger="s2" comment="" />
+<QSLINK id="qsl1" fromID="pl8" fromText="특별행정지역" toID="pl7" toText="중국" relType="IN" trajector="pl8" landmark="pl7" trigger="s3" comment="" />
+<QSLINK id="qsl3" fromID="pl10" fromText="해외 영토" toID="pl13" toText="포르투갈" relType="IN" trajector="pl10" landmark="pl13" trigger="s4" comment="" />
+<QSLINK id="qsl4" fromID="pl24" fromText="강어귀" toID="p0" toText="퍼얼 강" relType="IN" trajector="p0" landmark="pl24" trigger="s5" comment="" />
+<QSLINK id="qsl5" fromID="pl4" fromText="라스베이거스" toID="pl3" toText="동양" relType="NTPP" trajector="pl4" landmark="pl3" trigger="s6" comment="" />
+<QSLINK id="qsl6" fromID="pl15" fromText="여행지" toID="pl17" toText="아시아" relType="NTPP" trajector="pl15" landmark="pl17" trigger="s7" comment="" />
+<OLINK id="ol0" fromID="p0" fromText="퍼얼 강" toID="pl9" toText="홍콩" relType="동" trajector="p0" landmark="pl9" trigger="s1" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="p0" fromText="퍼얼 강" toID="pl9" toText="홍콩" relType="반대" trajector="p0" landmark="pl9" trigger="s0" frame_type="INTRINSIC" referencePt="pl9" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl24" fromText="강어귀" toID="pl9" toText="홍콩" relType="동" trajector="p0" landmark="pl9" trigger="s1" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl24" fromText="강어귀" toID="pl9" toText="홍콩" relType="반대" trajector="p0" landmark="pl9" trigger="s0" frame_type="INTRINSIC" referencePt="pl9" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="pl18" fromText="마카오" toID="m0" toText="가" trigger="m0" source="" goal="pl18" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="pl19" fromText="홍콩" toID="m1" toText="가" trigger="m1" source="" goal="pl19" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl2" fromID="pl18" fromText="마카오" toID="m2" toText="건너가" trigger="m2" source="pl19" goal="pl18" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl3" fromID="pl21" fromText="마카오" toID="m3" toText="가" trigger="m3" source="" goal="pl21" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl4" fromID="pl22" fromText="홍콩" toID="m4" toText="도달한" trigger="m4" source="pl21" goal="pl22" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms4" comment="" />
+<MOVELINK id="mvl6" fromID="se2" fromText="사람들" toID="m5" toText="입국한" trigger="m5" source="" goal="pl45" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl7" fromID="pl25" fromText="홍콩" toID="m6" toText="출입할" trigger="m6" source="" goal="pl47" midPoint="" mover="se3" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl9" fromID="pl36" fromText="마카오" toID="m7" toText="가" trigger="m7" source="pl35" goal="pl36" midPoint="" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms5,ms9" comment="" />
+<MOVELINK id="mvl10" fromID="pl37" fromText="중국" toID="m8" toText="떠나" trigger="m8" source="pl37" goal="" midPoint="" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms6" comment="" />
+<MOVELINK id="mvl11" fromID="pl38" fromText="마카오" toID="m9" toText="돌아오" trigger="m9" source="pl38" goal="pl39" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms7,ms8" comment="" />
+<MOVELINK id="mvl5" fromID="m11" fromText="타" toID="se5" toText="페리" trigger="m11" source="" goal="se5" midPoint="" mover="" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

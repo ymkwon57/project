@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+오사카는 간사이 지역에 위치한 크고 동적인 도시이다.
+
+간사이 국제공항이 가깝다.
+
+부산에서 매일 규슈, 후쿠오카후의 하카다항으로 떠나는 선박이 있다. 3시간 걸린다.
+하카다에서 신칸센 또는 JR을 타고 오사카로 간다. 신칸센의 경우 약 만엔.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="4" text="오사카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="25" end="27" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="크고" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="32" end="40" text="간사이 국제공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="48" end="50" text="부산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="56" end="58" text="규슈" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="60" end="65" text="후쿠오카후" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="67" end="71" text="하카다항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="95" end="98" text="하카다" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="115" end="118" text="오사카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="32" />
+<PLACE id="pl2" start="6" end="12" text="간사이 지역" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="78" end="80" text="선박" type="VEHICLE" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="101" end="104" text="신칸센" type="VEHICLE" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="108" end="110" text="JR" type="VEHICLE" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="95" />
+<MOTION id="m0" start="74" end="76" text="떠나" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="120" end="121" text="간" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="112" end="113" text="타" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="12" end="13" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="65" end="66" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="50" end="52" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="71" end="73" text="으로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="98" end="100" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms6" start="118" end="119" text="로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="110" end="111" text="을" motion_signal_type="" comment="" />
+<MEASURE id="me1" start="42" end="44" text="가깝" value="NEAR" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="30" text="오사카는 간사이 지역에 위치한 크고 동적인 도시이다." comment="" />
+<SENTENCE id="sent1" start="32" end="46" text="간사이 국제공항이 가깝다." comment="" />
+<SENTENCE id="sent2" start="48" end="85" text="부산에서 매일 규슈, 후쿠오카후의 하카다항으로 떠나는 선박이 있다." comment="" />
+<SENTENCE id="sent3" start="86" end="94" text="3시간 걸린다." comment="" />
+<SENTENCE id="sent4" start="95" end="123" text="하카다에서 신칸센 또는 JR을 타고 오사카로 간다." comment="" />
+<SENTENCE id="sent5" start="124" end="137" text="신칸센의 경우 약 만엔." comment="" />
+<QSLINK id="qsl1" fromID="pl4" fromText="도시" toID="pl2" toText="간사이 지역" relType="NTPP" trajector="pl4" landmark="pl2" trigger="s0" comment="" />
+<QSLINK id="qsl3" fromID="pl9" fromText="하카다항" toID="pl8" toText="후쿠오카후" relType="NTPP" trajector="pl9" landmark="pl8" trigger="s1" comment="" />
+<MOVELINK id="mvl0" fromID="pl6" fromText="부산" toID="pl7" toText="규슈" trigger="m0" source="pl6" goal="pl7" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0,ms1" comment="" />
+<MOVELINK id="mvl1" fromID="pl6" fromText="부산" toID="pl9" toText="하카다항" trigger="m0" source="pl6" goal="pl9" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0,ms1" comment="" />
+<MOVELINK id="mvl2" fromID="pl10" fromText="하카다" toID="pl11" toText="오사카" trigger="m1" source="pl10" goal="pl11" midPoint="" mover="se3" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms5" comment="" />
+<MOVELINK id="mvl3" fromID="pl10" fromText="하카다" toID="m2" toText="타" trigger="m2" source="" goal="se1" midPoint="" mover="se3" landmark="pl10" goal_reached="YES" pathID="" motion_signalID="ms2,ms3" comment="" />
+<MOVELINK id="mvl4" fromID="pl10" fromText="하카다" toID="m2" toText="타" trigger="m2" source="" goal="se2" midPoint="" mover="se3" landmark="pl10" goal_reached="YES" pathID="" motion_signalID="ms2,ms3" comment="" />
+<MEASURELINK id="ml0" fromID="pl1" fromText="" toID="pl5" toText="간사이 국제공항" trajector="pl1" landmark="pl5" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

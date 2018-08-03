@@ -1,0 +1,191 @@
+{
+    "doc_id": "E2016.837.21_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "레임덕", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<정치> 절름발이 오리라는 뜻으로, 임기 종료를 앞둔 대통령 등의 지도자 또는 그 시기에 있는 지도력의 공백 상태를 이르는 말.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "정치", "type": "NNG", "position": 1, "weight": 0.9}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "절름발", "type": "NNG", "position": 9, "weight": 0.6}, 
+                {"id": 4, "lemma": "이", "type": "XSN", "position": 18, "weight": 0.000294778}, 
+                {"id": 5, "lemma": "오리", "type": "NNG", "position": 22, "weight": 0.00768098}, 
+                {"id": 6, "lemma": "라는", "type": "ETM", "position": 25, "weight": 0.307765}, 
+                {"id": 7, "lemma": "뜻", "type": "NNG", "position": 35, "weight": 0.9}, 
+                {"id": 8, "lemma": "으로", "type": "JKB", "position": 38, "weight": 0.153406}, 
+                {"id": 9, "lemma": ",", "type": "SP", "position": 44, "weight": 1}, 
+                {"id": 10, "lemma": "임기", "type": "NNG", "position": 46, "weight": 0.9}, 
+                {"id": 11, "lemma": "종료", "type": "NNG", "position": 53, "weight": 0.9}, 
+                {"id": 12, "lemma": "를", "type": "JKO", "position": 59, "weight": 0.137686}, 
+                {"id": 13, "lemma": "앞두", "type": "VV", "position": 63, "weight": 0.9}, 
+                {"id": 14, "lemma": "ㄴ", "type": "ETM", "position": 66, "weight": 0.304215}, 
+                {"id": 15, "lemma": "대통령", "type": "NNG", "position": 70, "weight": 0.9}, 
+                {"id": 16, "lemma": "등", "type": "NNB", "position": 80, "weight": 0.0146757}, 
+                {"id": 17, "lemma": "의", "type": "JKG", "position": 83, "weight": 0.0520933}, 
+                {"id": 18, "lemma": "지도", "type": "NNG", "position": 87, "weight": 0.869829}, 
+                {"id": 19, "lemma": "자", "type": "XSN", "position": 93, "weight": 0.00398741}, 
+                {"id": 20, "lemma": "또는", "type": "MAJ", "position": 97, "weight": 0.000693319}, 
+                {"id": 21, "lemma": "그", "type": "MM", "position": 104, "weight": 0.100598}, 
+                {"id": 22, "lemma": "시기", "type": "NNG", "position": 108, "weight": 0.737}, 
+                {"id": 23, "lemma": "에", "type": "JKB", "position": 114, "weight": 0.153364}, 
+                {"id": 24, "lemma": "있", "type": "VA", "position": 118, "weight": 0.037292}, 
+                {"id": 25, "lemma": "는", "type": "ETM", "position": 121, "weight": 0.26168}, 
+                {"id": 26, "lemma": "지도", "type": "NNG", "position": 125, "weight": 0.657622}, 
+                {"id": 27, "lemma": "력", "type": "XSN", "position": 131, "weight": 0.0344464}, 
+                {"id": 28, "lemma": "의", "type": "JKG", "position": 134, "weight": 0.120732}, 
+                {"id": 29, "lemma": "공백", "type": "NNG", "position": 138, "weight": 0.9}, 
+                {"id": 30, "lemma": "상태", "type": "NNG", "position": 145, "weight": 0.184766}, 
+                {"id": 31, "lemma": "를", "type": "JKO", "position": 151, "weight": 0.137686}, 
+                {"id": 32, "lemma": "이르", "type": "VV", "position": 155, "weight": 0.760305}, 
+                {"id": 33, "lemma": "는", "type": "ETM", "position": 161, "weight": 0.184941}, 
+                {"id": 34, "lemma": "말", "type": "NNG", "position": 165, "weight": 0.528926}, 
+                {"id": 35, "lemma": ".", "type": "SF", "position": 168, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "정치", "type": "NNG", "scode": "030000", "weight": 0.142857, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "절름발이", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 9, "begin": 3, "end": 4}, 
+                {"id": 4, "text": "오리", "type": "NNG", "scode": "030001", "weight": 0.1, "position": 22, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "라는", "type": "ETM", "scode": "000000", "weight": 1, "position": 25, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "뜻", "type": "NNG", "scode": "000002", "weight": 0.333333, "position": 35, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 38, "begin": 8, "end": 8}, 
+                {"id": 8, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 44, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "임기", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 46, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "종료", "type": "NNG", "scode": "000000", "weight": 1, "position": 53, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 59, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "앞두", "type": "VV", "scode": "000000", "weight": 1, "position": 63, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 66, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "대통령", "type": "NNG", "scode": "000000", "weight": 1, "position": 70, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 80, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 83, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "지도자", "type": "NNG", "scode": "000000", "weight": 1, "position": 87, "begin": 18, "end": 19}, 
+                {"id": 18, "text": "또는", "type": "MAJ", "scode": "000000", "weight": 1, "position": 97, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "그", "type": "MM", "scode": "010102", "weight": 0.142857, "position": 104, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "시기", "type": "NNG", "scode": "040000", "weight": 0.0666667, "position": 108, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 114, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "있", "type": "VA", "scode": "010302", "weight": 0.0416667, "position": 118, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 121, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "지도력", "type": "NNG", "scode": "000000", "weight": 1, "position": 125, "begin": 26, "end": 27}, 
+                {"id": 25, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 134, "begin": 28, "end": 28}, 
+                {"id": 26, "text": "공백", "type": "NNG", "scode": "000003", "weight": 0.25, "position": 138, "begin": 29, "end": 29}, 
+                {"id": 27, "text": "상태", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 145, "begin": 30, "end": 30}, 
+                {"id": 28, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 151, "begin": 31, "end": 31}, 
+                {"id": 29, "text": "이르", "type": "VV", "scode": "020200", "weight": 0.1, "position": 155, "begin": 32, "end": 32}, 
+                {"id": 30, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 161, "begin": 33, "end": 33}, 
+                {"id": 31, "text": "말", "type": "NNG", "scode": "010004", "weight": 0.0384615, "position": 165, "begin": 34, "end": 34}, 
+                {"id": 32, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 168, "begin": 35, "end": 35}
+            ], 
+            "word": [
+                {"id": 0, "text": "<정치>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "절름발이", "type": "", "begin": 3, "end": 4}, 
+                {"id": 2, "text": "오리라는", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "뜻으로,", "type": "", "begin": 7, "end": 9}, 
+                {"id": 4, "text": "임기", "type": "", "begin": 10, "end": 10}, 
+                {"id": 5, "text": "종료를", "type": "", "begin": 11, "end": 12}, 
+                {"id": 6, "text": "앞둔", "type": "", "begin": 13, "end": 14}, 
+                {"id": 7, "text": "대통령", "type": "", "begin": 15, "end": 15}, 
+                {"id": 8, "text": "등의", "type": "", "begin": 16, "end": 17}, 
+                {"id": 9, "text": "지도자", "type": "", "begin": 18, "end": 19}, 
+                {"id": 10, "text": "또는", "type": "", "begin": 20, "end": 20}, 
+                {"id": 11, "text": "그", "type": "", "begin": 21, "end": 21}, 
+                {"id": 12, "text": "시기에", "type": "", "begin": 22, "end": 23}, 
+                {"id": 13, "text": "있는", "type": "", "begin": 24, "end": 25}, 
+                {"id": 14, "text": "지도력의", "type": "", "begin": 26, "end": 28}, 
+                {"id": 15, "text": "공백", "type": "", "begin": 29, "end": 29}, 
+                {"id": 16, "text": "상태를", "type": "", "begin": 30, "end": 31}, 
+                {"id": 17, "text": "이르는", "type": "", "begin": 32, "end": 33}, 
+                {"id": 18, "text": "말.", "type": "", "begin": 34, "end": 35}
+            ], 
+            "NE": [
+                {"id": 0, "text": "오리", "type": "AM_BIRD", "begin": 5, "end": 5, "weight": 0.210015, "common_noun": 0}, 
+                {"id": 1, "text": "대통령", "type": "CV_POSITION", "begin": 15, "end": 15, "weight": 0.531078, "common_noun": 0}, 
+                {"id": 2, "text": "지도자", "type": "CV_POSITION", "begin": 18, "end": 19, "weight": 0.676911, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<정치>", "head": 18, "label": "NP", "mod": [], "weight": 0.846398}, 
+                {"id": 1, "text": "절름발이", "head": 2, "label": "NP", "mod": [], "weight": 0.424361}, 
+                {"id": 2, "text": "오리라는", "head": 3, "label": "VNP_MOD", "mod": [1], "weight": 0.123757}, 
+                {"id": 3, "text": "뜻으로,", "head": 18, "label": "NP_AJT", "mod": [2], "weight": 0.777247}, 
+                {"id": 4, "text": "임기", "head": 5, "label": "NP", "mod": [], "weight": 0.749136}, 
+                {"id": 5, "text": "종료를", "head": 6, "label": "NP_OBJ", "mod": [4], "weight": 0.558489}, 
+                {"id": 6, "text": "앞둔", "head": 7, "label": "VP_MOD", "mod": [5], "weight": 0.359669}, 
+                {"id": 7, "text": "대통령", "head": 8, "label": "NP", "mod": [6], "weight": 0.524377}, 
+                {"id": 8, "text": "등의", "head": 9, "label": "NP_MOD", "mod": [7], "weight": 0.132339}, 
+                {"id": 9, "text": "지도자", "head": 14, "label": "NP_CNJ", "mod": [8], "weight": 0.448825}, 
+                {"id": 10, "text": "또는", "head": 14, "label": "AP", "mod": [], "weight": 0.0462944}, 
+                {"id": 11, "text": "그", "head": 12, "label": "DP", "mod": [], "weight": 0.582751}, 
+                {"id": 12, "text": "시기에", "head": 13, "label": "NP_AJT", "mod": [11], "weight": 0.682884}, 
+                {"id": 13, "text": "있는", "head": 14, "label": "VP_MOD", "mod": [12], "weight": 0.23697}, 
+                {"id": 14, "text": "지도력의", "head": 16, "label": "NP_MOD", "mod": [9, 10, 13], "weight": 0.118293}, 
+                {"id": 15, "text": "공백", "head": 16, "label": "NP", "mod": [], "weight": 0.728573}, 
+                {"id": 16, "text": "상태를", "head": 17, "label": "NP_OBJ", "mod": [15, 14], "weight": 0.73637}, 
+                {"id": 17, "text": "이르는", "head": 18, "label": "VP_MOD", "mod": [16], "weight": 0.846225}, 
+                {"id": 18, "text": "말.", "head": -1, "label": "NP", "mod": [0, 3, 17], "weight": 3.03714e-08}
+            ], 
+            "SRL": [
+                {"verb": "앞두", "sense": 1, "word_id": 6, "weight": 0.166671, "argument": [
+                    {"type": "ARG1", "word_id": 5, "text": "종료를", "weight": 0.222091}, 
+                    {"type": "ARG0", "word_id": 7, "text": "대통령", "weight": 0.111252}
+                ]}, 
+                {"verb": "있", "sense": 1, "word_id": 13, "weight": 0.173674, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 12, "text": "시기에", "weight": 0.171123}
+                ]}, 
+                {"verb": "이르", "sense": 4, "word_id": 17, "weight": 0.220371, "argument": [
+                    {"type": "ARG1", "word_id": 16, "text": "상태를", "weight": 0.300595}, 
+                    {"type": "ARG2", "word_id": 18, "text": "말.", "weight": 0.140148}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 18, "ne_id": -1, "text": "<정치> 절름발이 오리라는 뜻으로, 임기 종료를 앞둔 대통령 등의 지도자 또는 그 시기에 있는 지도력의 공백 상태를 이르는 말.", "start_eid_short": 18, "end_eid_short": 18, "text_short": "말."}, 
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": -1, "text": "절름발이 오리라는 뜻으로,", "start_eid_short": 3, "end_eid_short": 3, "text_short": "뜻으로,"}, 
+            {"id": 4, "sent_id": 0, "start_eid": 4, "end_eid": 9, "ne_id": 1, "text": "임기 종료를 앞둔 대통령 등의 지도자", "start_eid_short": 9, "end_eid_short": 9, "text_short": "지도자"}, 
+            {"id": 9, "sent_id": 0, "start_eid": 11, "end_eid": 16, "ne_id": -1, "text": "그 시기에 있는 지도력의 공백 상태를", "start_eid_short": 15, "end_eid_short": 16, "text_short": "공백 상태를"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "절름발이", "start_eid_short": 1, "end_eid_short": 1, "text_short": "절름발이"}
+        ]}, 
+        {"id": 2, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 4, "end_eid": 7, "ne_id": 0, "text": "임기 종료를 앞둔 대통령", "start_eid_short": 7, "end_eid_short": 7, "text_short": "대통령"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 4, "end_eid": 5, "ne_id": -1, "text": "임기 종료를", "start_eid_short": 4, "end_eid_short": 5, "text_short": "임기 종료를"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "임기", "start_eid_short": 4, "end_eid_short": 4, "text_short": "임기"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 4, "end_eid": 8, "ne_id": -1, "text": "임기 종료를 앞둔 대통령 등의", "start_eid_short": 7, "end_eid_short": 8, "text_short": "대통령 등의"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 0, "start_eid": 14, "end_eid": 14, "ne_id": -1, "text": "지도력의", "start_eid_short": 14, "end_eid_short": 14, "text_short": "지도력의"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 11, "end_eid": 12, "ne_id": -1, "text": "그 시기에", "start_eid_short": 11, "end_eid_short": 12, "text_short": "그 시기에"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 0, "start_eid": 15, "end_eid": 15, "ne_id": -1, "text": "공백", "start_eid_short": 15, "end_eid_short": 15, "text_short": "공백"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "<정치>", "start_eid_short": 0, "end_eid_short": 0, "text_short": "<정치>"}
+        ]}
+    ]
+}

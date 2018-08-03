@@ -1,0 +1,258 @@
+{
+    "doc_id": "E2016.837.30_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "서봉총", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<고적> 경상북도 경주에 있는 고분.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "고적", "type": "NNG", "position": 1, "weight": 0.194367}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "경상북도", "type": "NNP", "position": 9, "weight": 0.9}, 
+                {"id": 4, "lemma": "경주", "type": "NNP", "position": 22, "weight": 0.0577918}, 
+                {"id": 5, "lemma": "에", "type": "JKB", "position": 28, "weight": 0.0823628}, 
+                {"id": 6, "lemma": "있", "type": "VA", "position": 32, "weight": 0.037292}, 
+                {"id": 7, "lemma": "는", "type": "ETM", "position": 35, "weight": 0.26168}, 
+                {"id": 8, "lemma": "고분", "type": "NNG", "position": 39, "weight": 0.653161}, 
+                {"id": 9, "lemma": ".", "type": "SF", "position": 45, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "고적", "type": "NNG", "scode": "020001", "weight": 0.0909091, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "경상북도", "type": "NNP", "scode": "000000", "weight": 1, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "경주", "type": "NNP", "scode": "040000", "weight": 0.0909091, "position": 22, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 28, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "있", "type": "VA", "scode": "010301", "weight": 0.0416667, "position": 32, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 35, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "고분", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 39, "begin": 8, "end": 8}, 
+                {"id": 9, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 45, "begin": 9, "end": 9}
+            ], 
+            "word": [
+                {"id": 0, "text": "<고적>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "경상북도", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "경주에", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "있는", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "고분.", "type": "", "begin": 8, "end": 9}
+            ], 
+            "NE": [
+                {"id": 0, "text": "경상북도", "type": "LCP_PROVINCE", "begin": 3, "end": 3, "weight": 0.854101, "common_noun": 0}, 
+                {"id": 1, "text": "경주", "type": "LCP_CITY", "begin": 4, "end": 4, "weight": 0.615951, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<고적>", "head": 4, "label": "NP", "mod": [], "weight": 0.870971}, 
+                {"id": 1, "text": "경상북도", "head": 2, "label": "NP", "mod": [], "weight": 0.717576}, 
+                {"id": 2, "text": "경주에", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.792045}, 
+                {"id": 3, "text": "있는", "head": 4, "label": "VP_MOD", "mod": [2], "weight": 0.834176}, 
+                {"id": 4, "text": "고분.", "head": -1, "label": "NP", "mod": [0, 3], "weight": 0.322002}
+            ], 
+            "SRL": [
+                {"verb": "있", "sense": 1, "word_id": 3, "weight": 0.204233, "argument": [
+                    {"type": "ARG2", "word_id": 2, "text": "경주에", "weight": 0.235228}, 
+                    {"type": "ARG1", "word_id": 4, "text": "고분.", "weight": 0.173239}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "1926년 10월, 여행 중이던 스웨덴 황태자 구스타프(Gustav)의 참석 아래, 세 마리의 봉황이 붙은 금관과 장신구 따위가 발굴되었다.", 
+            "morp": [
+                {"id": 0, "lemma": "1926", "type": "SN", "position": 46, "weight": 1}, 
+                {"id": 1, "lemma": "년", "type": "NNB", "position": 50, "weight": 0.414343}, 
+                {"id": 2, "lemma": "10", "type": "SN", "position": 54, "weight": 1}, 
+                {"id": 3, "lemma": "월", "type": "NNB", "position": 56, "weight": 0.408539}, 
+                {"id": 4, "lemma": ",", "type": "SP", "position": 59, "weight": 1}, 
+                {"id": 5, "lemma": "여행", "type": "NNG", "position": 61, "weight": 0.9}, 
+                {"id": 6, "lemma": "중", "type": "NNB", "position": 68, "weight": 0.013531}, 
+                {"id": 7, "lemma": "이", "type": "VCP", "position": 71, "weight": 0.0607843}, 
+                {"id": 8, "lemma": "던", "type": "ETM", "position": 74, "weight": 0.230313}, 
+                {"id": 9, "lemma": "스웨덴", "type": "NNP", "position": 78, "weight": 0.0279058}, 
+                {"id": 10, "lemma": "황태자", "type": "NNG", "position": 88, "weight": 0.0974286}, 
+                {"id": 11, "lemma": "구스타프", "type": "NNP", "position": 98, "weight": 0.15}, 
+                {"id": 12, "lemma": "(", "type": "SS", "position": 110, "weight": 1}, 
+                {"id": 13, "lemma": "Gustav", "type": "SL", "position": 111, "weight": 1}, 
+                {"id": 14, "lemma": ")", "type": "SS", "position": 117, "weight": 1}, 
+                {"id": 15, "lemma": "의", "type": "JKG", "position": 118, "weight": 0.0878251}, 
+                {"id": 16, "lemma": "참석", "type": "NNG", "position": 122, "weight": 0.9}, 
+                {"id": 17, "lemma": "아래", "type": "NNG", "position": 129, "weight": 0.9}, 
+                {"id": 18, "lemma": ",", "type": "SP", "position": 135, "weight": 1}, 
+                {"id": 19, "lemma": "세", "type": "MM", "position": 137, "weight": 0.0161624}, 
+                {"id": 20, "lemma": "마리", "type": "NNB", "position": 141, "weight": 0.176075}, 
+                {"id": 21, "lemma": "의", "type": "JKG", "position": 147, "weight": 0.0520933}, 
+                {"id": 22, "lemma": "봉황", "type": "NNG", "position": 151, "weight": 0.9}, 
+                {"id": 23, "lemma": "이", "type": "JKS", "position": 157, "weight": 0.0360723}, 
+                {"id": 24, "lemma": "붙", "type": "VV", "position": 161, "weight": 0.9}, 
+                {"id": 25, "lemma": "은", "type": "ETM", "position": 164, "weight": 0.109632}, 
+                {"id": 26, "lemma": "금관", "type": "NNG", "position": 168, "weight": 0.649562}, 
+                {"id": 27, "lemma": "과", "type": "JC", "position": 174, "weight": 0.017569}, 
+                {"id": 28, "lemma": "장신구", "type": "NNG", "position": 178, "weight": 0.788477}, 
+                {"id": 29, "lemma": "따위", "type": "NNB", "position": 188, "weight": 0.9}, 
+                {"id": 30, "lemma": "가", "type": "JKS", "position": 194, "weight": 0.0691641}, 
+                {"id": 31, "lemma": "발굴", "type": "NNG", "position": 198, "weight": 0.9}, 
+                {"id": 32, "lemma": "되", "type": "XSV", "position": 204, "weight": 0.000224177}, 
+                {"id": 33, "lemma": "었", "type": "EP", "position": 207, "weight": 0.9}, 
+                {"id": 34, "lemma": "다", "type": "EF", "position": 210, "weight": 0.640954}, 
+                {"id": 35, "lemma": ".", "type": "SF", "position": 213, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "1926", "type": "SN", "scode": "000000", "weight": 1, "position": 46, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 50, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "10", "type": "SN", "scode": "000000", "weight": 1, "position": 54, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "월", "type": "NNB", "scode": "020100", "weight": 0.125, "position": 56, "begin": 3, "end": 3}, 
+                {"id": 4, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 59, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "여행", "type": "NNG", "scode": "020000", "weight": 0.166667, "position": 61, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "중", "type": "NNB", "scode": "040102", "weight": 0.0526316, "position": 68, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 71, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "던", "type": "ETM", "scode": "000000", "weight": 1, "position": 74, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "스웨덴", "type": "NNP", "scode": "000000", "weight": 1, "position": 78, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "황태자", "type": "NNG", "scode": "000000", "weight": 1, "position": 88, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "구스타프", "type": "NNP", "scode": "000000", "weight": 0, "position": 98, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 110, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "Gustav", "type": "SL", "scode": "000000", "weight": 1, "position": 111, "begin": 13, "end": 13}, 
+                {"id": 14, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 117, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 118, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "참석", "type": "NNG", "scode": "000000", "weight": 1, "position": 122, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "아래", "type": "NNG", "scode": "010003", "weight": 0.1, "position": 129, "begin": 17, "end": 17}, 
+                {"id": 18, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 135, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "세", "type": "MM", "scode": "010000", "weight": 0.0526316, "position": 137, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "마리", "type": "NNB", "scode": "010001", "weight": 0.1, "position": 141, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 147, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "봉황", "type": "NNG", "scode": "000000", "weight": 1, "position": 151, "begin": 22, "end": 22}, 
+                {"id": 23, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 157, "begin": 23, "end": 23}, 
+                {"id": 24, "text": "붙", "type": "VV", "scode": "000101", "weight": 0.0416667, "position": 161, "begin": 24, "end": 24}, 
+                {"id": 25, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 164, "begin": 25, "end": 25}, 
+                {"id": 26, "text": "금관", "type": "NNG", "scode": "010001", "weight": 0.1, "position": 168, "begin": 26, "end": 26}, 
+                {"id": 27, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 174, "begin": 27, "end": 27}, 
+                {"id": 28, "text": "장신구", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 178, "begin": 28, "end": 28}, 
+                {"id": 29, "text": "따위", "type": "NNB", "scode": "000001", "weight": 0.5, "position": 188, "begin": 29, "end": 29}, 
+                {"id": 30, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 194, "begin": 30, "end": 30}, 
+                {"id": 31, "text": "발굴되", "type": "VV", "scode": "000001", "weight": 0.5, "position": 198, "begin": 31, "end": 32}, 
+                {"id": 32, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 207, "begin": 33, "end": 33}, 
+                {"id": 33, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 210, "begin": 34, "end": 34}, 
+                {"id": 34, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 213, "begin": 35, "end": 35}
+            ], 
+            "word": [
+                {"id": 0, "text": "1926년", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "10월,", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "여행", "type": "", "begin": 5, "end": 5}, 
+                {"id": 3, "text": "중이던", "type": "", "begin": 6, "end": 8}, 
+                {"id": 4, "text": "스웨덴", "type": "", "begin": 9, "end": 9}, 
+                {"id": 5, "text": "황태자", "type": "", "begin": 10, "end": 10}, 
+                {"id": 6, "text": "구스타프(Gustav)의", "type": "", "begin": 11, "end": 15}, 
+                {"id": 7, "text": "참석", "type": "", "begin": 16, "end": 16}, 
+                {"id": 8, "text": "아래,", "type": "", "begin": 17, "end": 18}, 
+                {"id": 9, "text": "세", "type": "", "begin": 19, "end": 19}, 
+                {"id": 10, "text": "마리의", "type": "", "begin": 20, "end": 21}, 
+                {"id": 11, "text": "봉황이", "type": "", "begin": 22, "end": 23}, 
+                {"id": 12, "text": "붙은", "type": "", "begin": 24, "end": 25}, 
+                {"id": 13, "text": "금관과", "type": "", "begin": 26, "end": 27}, 
+                {"id": 14, "text": "장신구", "type": "", "begin": 28, "end": 28}, 
+                {"id": 15, "text": "따위가", "type": "", "begin": 29, "end": 30}, 
+                {"id": 16, "text": "발굴되었다.", "type": "", "begin": 31, "end": 35}
+            ], 
+            "NE": [
+                {"id": 0, "text": "1926년 10월", "type": "DT_OTHERS", "begin": 0, "end": 3, "weight": 0.720119, "common_noun": 0}, 
+                {"id": 1, "text": "스웨덴", "type": "LCP_COUNTRY", "begin": 9, "end": 9, "weight": 0.577199, "common_noun": 0}, 
+                {"id": 2, "text": "황태자", "type": "CV_POSITION", "begin": 10, "end": 10, "weight": 0.195058, "common_noun": 0}, 
+                {"id": 3, "text": "구스타프", "type": "PS_NAME", "begin": 11, "end": 11, "weight": 0.257356, "common_noun": 0}, 
+                {"id": 4, "text": "Gustav", "type": "PS_NAME", "begin": 13, "end": 13, "weight": 0.257356, "common_noun": 0}, 
+                {"id": 5, "text": "세 마리", "type": "QT_COUNT", "begin": 19, "end": 20, "weight": 0.748285, "common_noun": 0}, 
+                {"id": 6, "text": "봉황", "type": "AM_BIRD", "begin": 22, "end": 22, "weight": 0.741315, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "1926년", "head": 1, "label": "NP", "mod": [], "weight": 0.825321}, 
+                {"id": 1, "text": "10월,", "head": 16, "label": "NP_AJT", "mod": [0], "weight": 0.833837}, 
+                {"id": 2, "text": "여행", "head": 3, "label": "NP", "mod": [], "weight": 0.618868}, 
+                {"id": 3, "text": "중이던", "head": 6, "label": "VNP_MOD", "mod": [2], "weight": 0.325143}, 
+                {"id": 4, "text": "스웨덴", "head": 5, "label": "NP", "mod": [], "weight": 0.367125}, 
+                {"id": 5, "text": "황태자", "head": 6, "label": "NP", "mod": [4], "weight": 0.564954}, 
+                {"id": 6, "text": "구스타프(Gustav)의", "head": 7, "label": "NP_MOD", "mod": [5, 3], "weight": 0.231807}, 
+                {"id": 7, "text": "참석", "head": 8, "label": "NP", "mod": [6], "weight": 0.763814}, 
+                {"id": 8, "text": "아래,", "head": 16, "label": "NP_AJT", "mod": [7], "weight": 0.209571}, 
+                {"id": 9, "text": "세", "head": 10, "label": "DP", "mod": [], "weight": 0.63708}, 
+                {"id": 10, "text": "마리의", "head": 11, "label": "NP_MOD", "mod": [9], "weight": 0.650358}, 
+                {"id": 11, "text": "봉황이", "head": 12, "label": "NP_SBJ", "mod": [10], "weight": 0.646561}, 
+                {"id": 12, "text": "붙은", "head": 13, "label": "VP_MOD", "mod": [11], "weight": 0.226853}, 
+                {"id": 13, "text": "금관과", "head": 14, "label": "NP_CNJ", "mod": [12], "weight": 0.377132}, 
+                {"id": 14, "text": "장신구", "head": 15, "label": "NP", "mod": [13], "weight": 0.78821}, 
+                {"id": 15, "text": "따위가", "head": 16, "label": "NP_SBJ", "mod": [14], "weight": 0.850814}, 
+                {"id": 16, "text": "발굴되었다.", "head": -1, "label": "VP", "mod": [1, 15, 8], "weight": 1.24757e-05}
+            ], 
+            "SRL": [
+                {"verb": "붙", "sense": 1, "word_id": 12, "weight": 0.239631, "argument": [
+                    {"type": "ARG1", "word_id": 11, "text": "봉황이", "weight": 0.239631}
+                ]}, 
+                {"verb": "발굴", "sense": 1, "word_id": 16, "weight": 0.145972, "argument": [
+                    {"type": "ARG1", "word_id": 15, "text": "따위가", "weight": 0.145972}, 
+                    {"type": "ARGM-CND", "word_id": 8, "text": "아래,", "weight": 1}, 
+                    {"type": "ARGM-TMP", "word_id": 1, "text": "10월,", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "LCP_CITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 1, "text": "경상북도 경주에", "start_eid_short": 1, "end_eid_short": 2, "text_short": "경상북도 경주에"}
+        ]}, 
+        {"id": 1, "type": "LCP_PROVINCE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "경상북도", "start_eid_short": 1, "end_eid_short": 1, "text_short": "경상북도"}
+        ]}, 
+        {"id": 2, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 4, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "1926년 10월,", "start_eid_short": 0, "end_eid_short": 1, "text_short": "1926년 10월,"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "여행", "start_eid_short": 2, "end_eid_short": 2, "text_short": "여행"}
+        ]}, 
+        {"id": 4, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 4, "end_eid": 6, "ne_id": 3, "text": "스웨덴 황태자 구스타프(Gustav)의", "start_eid_short": 6, "end_eid_short": 6, "text_short": "구스타프(Gustav)의"}, 
+            {"id": 8, "sent_id": 1, "start_eid": 4, "end_eid": 5, "ne_id": 2, "text": "스웨덴 황태자", "start_eid_short": 4, "end_eid_short": 5, "text_short": "스웨덴 황태자"}
+        ]}, 
+        {"id": 5, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": 1, "text": "스웨덴", "start_eid_short": 4, "end_eid_short": 4, "text_short": "스웨덴"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 9, "end_eid": 13, "ne_id": -1, "text": "세 마리의 봉황이 붙은 금관과", "start_eid_short": 13, "end_eid_short": 13, "text_short": "금관과"}
+        ]}, 
+        {"id": 7, "type": "AM_BIRD", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 9, "end_eid": 11, "ne_id": 5, "text": "세 마리의 봉황이", "start_eid_short": 11, "end_eid_short": 11, "text_short": "봉황이"}
+        ]}, 
+        {"id": 8, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 9, "end_eid": 10, "ne_id": 4, "text": "세 마리의", "start_eid_short": 9, "end_eid_short": 10, "text_short": "세 마리의"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 14, "end_eid": 14, "ne_id": -1, "text": "장신구", "start_eid_short": 14, "end_eid_short": 14, "text_short": "장신구"}
+        ]}, 
+        {"id": 10, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 9, "end_eid": 15, "ne_id": -1, "text": "세 마리의 봉황이 붙은 금관과 장신구 따위가", "start_eid_short": 14, "end_eid_short": 15, "text_short": "장신구 따위가"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "<고적>", "start_eid_short": 0, "end_eid_short": 0, "text_short": "<고적>"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "<고적> 경상북도 경주에 있는 고분.", "start_eid_short": 4, "end_eid_short": 4, "text_short": "고분."}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 4, "end_eid": 7, "ne_id": -1, "text": "스웨덴 황태자 구스타프(Gustav)의 참석", "start_eid_short": 7, "end_eid_short": 7, "text_short": "참석"}
+        ]}
+    ]
+}

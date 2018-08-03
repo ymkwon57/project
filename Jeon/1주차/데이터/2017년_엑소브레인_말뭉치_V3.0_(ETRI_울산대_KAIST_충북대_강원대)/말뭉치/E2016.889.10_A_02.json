@@ -1,0 +1,408 @@
+{
+    "doc_id": "E2016.889.10_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "사창제", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "이에 1866년(고종 3년) 흥선 대원군은 기존의 환곡제를 개선해 마을 단위로 공동 운영하는 사창제를 실시해 농민 부담을 줄여 주었다.", 
+            "morp": [
+                {"id": 0, "lemma": "이", "type": "NP", "position": 0, "weight": 0.00185676}, 
+                {"id": 1, "lemma": "에", "type": "JKB", "position": 3, "weight": 0.126153}, 
+                {"id": 2, "lemma": "1866", "type": "SN", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "년", "type": "NNB", "position": 11, "weight": 0.414343}, 
+                {"id": 4, "lemma": "(", "type": "SS", "position": 14, "weight": 1}, 
+                {"id": 5, "lemma": "고종", "type": "NNP", "position": 15, "weight": 0.0657856}, 
+                {"id": 6, "lemma": "3", "type": "SN", "position": 22, "weight": 1}, 
+                {"id": 7, "lemma": "년", "type": "NNB", "position": 23, "weight": 0.414343}, 
+                {"id": 8, "lemma": ")", "type": "SS", "position": 26, "weight": 1}, 
+                {"id": 9, "lemma": "흥선", "type": "NNP", "position": 28, "weight": 0.9}, 
+                {"id": 10, "lemma": "대원군", "type": "NNG", "position": 35, "weight": 0.0019695}, 
+                {"id": 11, "lemma": "은", "type": "JX", "position": 44, "weight": 0.0449928}, 
+                {"id": 12, "lemma": "기존", "type": "NNG", "position": 48, "weight": 0.9}, 
+                {"id": 13, "lemma": "의", "type": "JKG", "position": 54, "weight": 0.0694213}, 
+                {"id": 14, "lemma": "환곡", "type": "NNG", "position": 58, "weight": 0.6}, 
+                {"id": 15, "lemma": "제", "type": "XSN", "position": 58, "weight": 0.6}, 
+                {"id": 16, "lemma": "를", "type": "JKO", "position": 67, "weight": 0.0283046}, 
+                {"id": 17, "lemma": "개선", "type": "NNG", "position": 71, "weight": 0.101276}, 
+                {"id": 18, "lemma": "하", "type": "XSV", "position": 77, "weight": 0.0001}, 
+                {"id": 19, "lemma": "아", "type": "EC", "position": 77, "weight": 0.361326}, 
+                {"id": 20, "lemma": "마을", "type": "NNG", "position": 81, "weight": 0.219387}, 
+                {"id": 21, "lemma": "단위", "type": "NNG", "position": 88, "weight": 0.9}, 
+                {"id": 22, "lemma": "로", "type": "JKB", "position": 94, "weight": 0.153229}, 
+                {"id": 23, "lemma": "공동", "type": "NNG", "position": 98, "weight": 0.207008}, 
+                {"id": 24, "lemma": "운영", "type": "NNG", "position": 105, "weight": 0.184741}, 
+                {"id": 25, "lemma": "하", "type": "XSV", "position": 111, "weight": 0.0001}, 
+                {"id": 26, "lemma": "는", "type": "ETM", "position": 114, "weight": 0.238503}, 
+                {"id": 27, "lemma": "사창", "type": "NNG", "position": 118, "weight": 0.6}, 
+                {"id": 28, "lemma": "제", "type": "XSN", "position": 118, "weight": 0.6}, 
+                {"id": 29, "lemma": "를", "type": "JKO", "position": 127, "weight": 0.0283046}, 
+                {"id": 30, "lemma": "실시", "type": "NNG", "position": 131, "weight": 0.9}, 
+                {"id": 31, "lemma": "하", "type": "XSV", "position": 137, "weight": 0.0001}, 
+                {"id": 32, "lemma": "아", "type": "EC", "position": 137, "weight": 0.361326}, 
+                {"id": 33, "lemma": "농민", "type": "NNG", "position": 141, "weight": 0.9}, 
+                {"id": 34, "lemma": "부담", "type": "NNG", "position": 148, "weight": 0.9}, 
+                {"id": 35, "lemma": "을", "type": "JKO", "position": 154, "weight": 0.129611}, 
+                {"id": 36, "lemma": "줄이", "type": "VV", "position": 158, "weight": 0.9}, 
+                {"id": 37, "lemma": "어", "type": "EC", "position": 161, "weight": 0.41831}, 
+                {"id": 38, "lemma": "주", "type": "VX", "position": 165, "weight": 0.161283}, 
+                {"id": 39, "lemma": "었", "type": "EP", "position": 168, "weight": 0.9}, 
+                {"id": 40, "lemma": "다", "type": "EF", "position": 171, "weight": 0.640954}, 
+                {"id": 41, "lemma": ".", "type": "SF", "position": 174, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이", "type": "NP", "scode": "050002", "weight": 0.0172414, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 3, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "1866", "type": "SN", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 11, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 14, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "고종", "type": "NNP", "scode": "090000", "weight": 0.0714286, "position": 15, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "3", "type": "SN", "scode": "000000", "weight": 1, "position": 22, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 23, "begin": 7, "end": 7}, 
+                {"id": 8, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 26, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "흥선", "type": "NNP", "scode": "000000", "weight": 0, "position": 28, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "대원군", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 35, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 44, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "기존", "type": "NNG", "scode": "000000", "weight": 1, "position": 48, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 54, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "환곡", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 58, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "제", "type": "XSN", "scode": "190000", "weight": 0.0322581, "position": 58, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 67, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "개선하", "type": "VV", "scode": "010000", "weight": 0.333333, "position": 71, "begin": 17, "end": 18}, 
+                {"id": 18, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 77, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "마을", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 81, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "단위", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 88, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 94, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "공동", "type": "NNG", "scode": "020000", "weight": 0.125, "position": 98, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "운영하", "type": "VV", "scode": "000001", "weight": 0.5, "position": 105, "begin": 24, "end": 25}, 
+                {"id": 24, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 114, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "사창", "type": "NNG", "scode": "030000", "weight": 0.2, "position": 118, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "제", "type": "XSN", "scode": "190000", "weight": 0.0322581, "position": 118, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 127, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "실시하", "type": "VV", "scode": "030000", "weight": 0.333333, "position": 131, "begin": 30, "end": 31}, 
+                {"id": 29, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 137, "begin": 32, "end": 32}, 
+                {"id": 30, "text": "농민", "type": "NNG", "scode": "000000", "weight": 1, "position": 141, "begin": 33, "end": 33}, 
+                {"id": 31, "text": "부담", "type": "NNG", "scode": "010001", "weight": 0.25, "position": 148, "begin": 34, "end": 34}, 
+                {"id": 32, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 154, "begin": 35, "end": 35}, 
+                {"id": 33, "text": "줄이", "type": "VV", "scode": "000002", "weight": 0.2, "position": 158, "begin": 36, "end": 36}, 
+                {"id": 34, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 161, "begin": 37, "end": 37}, 
+                {"id": 35, "text": "주", "type": "VX", "scode": "010300", "weight": 0.0714286, "position": 165, "begin": 38, "end": 38}, 
+                {"id": 36, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 168, "begin": 39, "end": 39}, 
+                {"id": 37, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 171, "begin": 40, "end": 40}, 
+                {"id": 38, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 174, "begin": 41, "end": 41}
+            ], 
+            "word": [
+                {"id": 0, "text": "이에", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "1866년(고종", "type": "", "begin": 2, "end": 5}, 
+                {"id": 2, "text": "3년)", "type": "", "begin": 6, "end": 8}, 
+                {"id": 3, "text": "흥선", "type": "", "begin": 9, "end": 9}, 
+                {"id": 4, "text": "대원군은", "type": "", "begin": 10, "end": 11}, 
+                {"id": 5, "text": "기존의", "type": "", "begin": 12, "end": 13}, 
+                {"id": 6, "text": "환곡제를", "type": "", "begin": 14, "end": 16}, 
+                {"id": 7, "text": "개선해", "type": "", "begin": 17, "end": 19}, 
+                {"id": 8, "text": "마을", "type": "", "begin": 20, "end": 20}, 
+                {"id": 9, "text": "단위로", "type": "", "begin": 21, "end": 22}, 
+                {"id": 10, "text": "공동", "type": "", "begin": 23, "end": 23}, 
+                {"id": 11, "text": "운영하는", "type": "", "begin": 24, "end": 26}, 
+                {"id": 12, "text": "사창제를", "type": "", "begin": 27, "end": 29}, 
+                {"id": 13, "text": "실시해", "type": "", "begin": 30, "end": 32}, 
+                {"id": 14, "text": "농민", "type": "", "begin": 33, "end": 33}, 
+                {"id": 15, "text": "부담을", "type": "", "begin": 34, "end": 35}, 
+                {"id": 16, "text": "줄여", "type": "", "begin": 36, "end": 37}, 
+                {"id": 17, "text": "주었다.", "type": "", "begin": 38, "end": 41}
+            ], 
+            "NE": [
+                {"id": 0, "text": "1866년", "type": "DT_YEAR", "begin": 2, "end": 3, "weight": 0.683849, "common_noun": 0}, 
+                {"id": 1, "text": "고종 3년", "type": "DT_DYNASTY", "begin": 5, "end": 7, "weight": 0.961325, "common_noun": 0}, 
+                {"id": 2, "text": "흥선 대원군", "type": "PS_NAME", "begin": 9, "end": 10, "weight": 0.562495, "common_noun": 0}, 
+                {"id": 3, "text": "환곡제", "type": "CV_POLICY", "begin": 14, "end": 15, "weight": 0.562683, "common_noun": 0}, 
+                {"id": 4, "text": "사창제", "type": "CV_POLICY", "begin": 27, "end": 28, "weight": 0.562683, "common_noun": 0}, 
+                {"id": 5, "text": "농민", "type": "CV_OCCUPATION", "begin": 33, "end": 33, "weight": 0.562683, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이에", "head": 13, "label": "NP_AJT", "mod": [], "weight": 0.737427}, 
+                {"id": 1, "text": "1866년(고종", "head": 2, "label": "NP", "mod": [], "weight": 0.740651}, 
+                {"id": 2, "text": "3년)", "head": 13, "label": "NP_AJT", "mod": [1], "weight": 0.172767}, 
+                {"id": 3, "text": "흥선", "head": 4, "label": "NP", "mod": [], "weight": 0.68675}, 
+                {"id": 4, "text": "대원군은", "head": 7, "label": "NP_SBJ", "mod": [3], "weight": 0.691106}, 
+                {"id": 5, "text": "기존의", "head": 6, "label": "NP_MOD", "mod": [], "weight": 0.710553}, 
+                {"id": 6, "text": "환곡제를", "head": 7, "label": "NP_OBJ", "mod": [5], "weight": 0.52984}, 
+                {"id": 7, "text": "개선해", "head": 13, "label": "VP", "mod": [6, 4], "weight": 0.0170007}, 
+                {"id": 8, "text": "마을", "head": 9, "label": "NP", "mod": [], "weight": 0.812307}, 
+                {"id": 9, "text": "단위로", "head": 11, "label": "NP_AJT", "mod": [8], "weight": 0.161269}, 
+                {"id": 10, "text": "공동", "head": 11, "label": "NP", "mod": [], "weight": 0.484856}, 
+                {"id": 11, "text": "운영하는", "head": 12, "label": "VP_MOD", "mod": [10, 9], "weight": 0.762913}, 
+                {"id": 12, "text": "사창제를", "head": 13, "label": "NP_OBJ", "mod": [11], "weight": 0.801276}, 
+                {"id": 13, "text": "실시해", "head": 16, "label": "VP", "mod": [0, 2, 12, 7], "weight": 0.810659}, 
+                {"id": 14, "text": "농민", "head": 15, "label": "NP", "mod": [], "weight": 0.73297}, 
+                {"id": 15, "text": "부담을", "head": 16, "label": "NP_OBJ", "mod": [14], "weight": 0.779015}, 
+                {"id": 16, "text": "줄여", "head": 17, "label": "VP", "mod": [13, 15], "weight": 0.822619}, 
+                {"id": 17, "text": "주었다.", "head": -1, "label": "VP", "mod": [16], "weight": 3.34188e-06}
+            ], 
+            "SRL": [
+                {"verb": "개선", "sense": 1, "word_id": 7, "weight": 0.309159, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "환곡제를", "weight": 0.309159}, 
+                    {"type": "ARG0", "word_id": 4, "text": "대원군은", "weight": 1}
+                ]}, 
+                {"verb": "운영", "sense": 1, "word_id": 11, "weight": 0.131907, "argument": [
+                    {"type": "ARGM-PRD", "word_id": 9, "text": "단위로", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 12, "text": "사창제를", "weight": 0.190788}
+                ]}, 
+                {"verb": "실시", "sense": 1, "word_id": 13, "weight": 0.263506, "argument": [
+                    {"type": "ARG1", "word_id": 12, "text": "사창제를", "weight": 0.263506}, 
+                    {"type": "ARG0", "word_id": 4, "text": "대원군은", "weight": 1}, 
+                    {"type": "ARGM-TMP", "word_id": 2, "text": "3년)", "weight": 1}
+                ]}, 
+                {"verb": "줄", "sense": 1, "word_id": 16, "weight": 0.353379, "argument": [
+                    {"type": "ARG1", "word_id": 15, "text": "부담을", "weight": 0.273263}, 
+                    {"type": "AUX", "word_id": 17, "text": "주었다.", "weight": 0.433496}, 
+                    {"type": "ARGM-MNR", "word_id": 13, "text": "실시해", "weight": 1}, 
+                    {"type": "ARG0", "word_id": 4, "text": "대원군은", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "사창제는 조선 전기에도 몇 차례 실시되었으나, 관리들의 부정부패로 점차 그 운영이 붕괴되었다.", 
+            "morp": [
+                {"id": 0, "lemma": "사창", "type": "NNG", "position": 175, "weight": 0.6}, 
+                {"id": 1, "lemma": "제", "type": "XSN", "position": 175, "weight": 0.6}, 
+                {"id": 2, "lemma": "는", "type": "JX", "position": 184, "weight": 0.0332677}, 
+                {"id": 3, "lemma": "조선", "type": "NNP", "position": 188, "weight": 0.0441558}, 
+                {"id": 4, "lemma": "전기", "type": "NNG", "position": 195, "weight": 0.280641}, 
+                {"id": 5, "lemma": "에", "type": "JKB", "position": 201, "weight": 0.153364}, 
+                {"id": 6, "lemma": "도", "type": "JX", "position": 204, "weight": 0.0912297}, 
+                {"id": 7, "lemma": "몇", "type": "MM", "position": 208, "weight": 0.0399668}, 
+                {"id": 8, "lemma": "차례", "type": "NNG", "position": 212, "weight": 0.9}, 
+                {"id": 9, "lemma": "실시", "type": "NNG", "position": 219, "weight": 0.9}, 
+                {"id": 10, "lemma": "되", "type": "XSV", "position": 225, "weight": 0.000224177}, 
+                {"id": 11, "lemma": "았", "type": "EP", "position": 228, "weight": 0.9}, 
+                {"id": 12, "lemma": "으나", "type": "EC", "position": 231, "weight": 0.197698}, 
+                {"id": 13, "lemma": ",", "type": "SP", "position": 237, "weight": 1}, 
+                {"id": 14, "lemma": "관리", "type": "NNG", "position": 239, "weight": 0.9}, 
+                {"id": 15, "lemma": "들", "type": "XSN", "position": 245, "weight": 0.0299841}, 
+                {"id": 16, "lemma": "의", "type": "JKG", "position": 248, "weight": 0.120732}, 
+                {"id": 17, "lemma": "부정", "type": "NNG", "position": 252, "weight": 0.9}, 
+                {"id": 18, "lemma": "부패", "type": "NNG", "position": 258, "weight": 0.9}, 
+                {"id": 19, "lemma": "로", "type": "JKB", "position": 264, "weight": 0.153229}, 
+                {"id": 20, "lemma": "점차", "type": "MAG", "position": 268, "weight": 0.9}, 
+                {"id": 21, "lemma": "그", "type": "MM", "position": 275, "weight": 0.0191185}, 
+                {"id": 22, "lemma": "운영", "type": "NNG", "position": 279, "weight": 0.737059}, 
+                {"id": 23, "lemma": "이", "type": "JKS", "position": 285, "weight": 0.0360723}, 
+                {"id": 24, "lemma": "붕괴", "type": "NNG", "position": 289, "weight": 0.208852}, 
+                {"id": 25, "lemma": "되", "type": "XSV", "position": 295, "weight": 0.000224177}, 
+                {"id": 26, "lemma": "았", "type": "EP", "position": 298, "weight": 0.9}, 
+                {"id": 27, "lemma": "다", "type": "EF", "position": 301, "weight": 0.640954}, 
+                {"id": 28, "lemma": ".", "type": "SF", "position": 304, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "사창", "type": "NNG", "scode": "030000", "weight": 0.2, "position": 175, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "제", "type": "XSN", "scode": "190000", "weight": 0.0322581, "position": 175, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 184, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "조선", "type": "NNP", "scode": "050002", "weight": 0.0833333, "position": 188, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "전기", "type": "NNG", "scode": "090001", "weight": 0.027027, "position": 195, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 201, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 204, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "몇", "type": "MM", "scode": "000101", "weight": 0.25, "position": 208, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "차례", "type": "NNG", "scode": "010001", "weight": 0.25, "position": 212, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "실시되", "type": "VV", "scode": "000000", "weight": 1, "position": 219, "begin": 9, "end": 10}, 
+                {"id": 10, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 228, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "으나", "type": "EC", "scode": "000000", "weight": 1, "position": 231, "begin": 12, "end": 12}, 
+                {"id": 12, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 237, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "관리", "type": "NNG", "scode": "010000", "weight": 0.142857, "position": 239, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "들", "type": "XSN", "scode": "090000", "weight": 0.0909091, "position": 245, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 248, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "부정부패", "type": "NNG", "scode": "000000", "weight": 1, "position": 252, "begin": 17, "end": 18}, 
+                {"id": 17, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 264, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "점차", "type": "MAG", "scode": "020000", "weight": 0.25, "position": 268, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "그", "type": "MM", "scode": "010102", "weight": 0.142857, "position": 275, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "운영", "type": "NNG", "scode": "030001", "weight": 0.25, "position": 279, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 285, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "붕괴되", "type": "VV", "scode": "000001", "weight": 0.5, "position": 289, "begin": 24, "end": 25}, 
+                {"id": 23, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 298, "begin": 26, "end": 26}, 
+                {"id": 24, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 301, "begin": 27, "end": 27}, 
+                {"id": 25, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 304, "begin": 28, "end": 28}
+            ], 
+            "word": [
+                {"id": 0, "text": "사창제는", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "조선", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "전기에도", "type": "", "begin": 4, "end": 6}, 
+                {"id": 3, "text": "몇", "type": "", "begin": 7, "end": 7}, 
+                {"id": 4, "text": "차례", "type": "", "begin": 8, "end": 8}, 
+                {"id": 5, "text": "실시되었으나,", "type": "", "begin": 9, "end": 13}, 
+                {"id": 6, "text": "관리들의", "type": "", "begin": 14, "end": 16}, 
+                {"id": 7, "text": "부정부패로", "type": "", "begin": 17, "end": 19}, 
+                {"id": 8, "text": "점차", "type": "", "begin": 20, "end": 20}, 
+                {"id": 9, "text": "그", "type": "", "begin": 21, "end": 21}, 
+                {"id": 10, "text": "운영이", "type": "", "begin": 22, "end": 23}, 
+                {"id": 11, "text": "붕괴되었다.", "type": "", "begin": 24, "end": 28}
+            ], 
+            "NE": [
+                {"id": 0, "text": "사창제", "type": "CV_POLICY", "begin": 0, "end": 1, "weight": 0.11202, "common_noun": 0}, 
+                {"id": 1, "text": "조선 전기", "type": "DT_DYNASTY", "begin": 3, "end": 4, "weight": 0.730279, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "사창제는", "head": 5, "label": "NP_SBJ", "mod": [], "weight": 0.626287}, 
+                {"id": 1, "text": "조선", "head": 2, "label": "NP", "mod": [], "weight": 0.770357}, 
+                {"id": 2, "text": "전기에도", "head": 5, "label": "NP_AJT", "mod": [1], "weight": 0.776473}, 
+                {"id": 3, "text": "몇", "head": 4, "label": "DP", "mod": [], "weight": 0.777147}, 
+                {"id": 4, "text": "차례", "head": 5, "label": "NP_AJT", "mod": [3], "weight": 0.497937}, 
+                {"id": 5, "text": "실시되었으나,", "head": 11, "label": "VP", "mod": [0, 2, 4], "weight": 0.587864}, 
+                {"id": 6, "text": "관리들의", "head": 7, "label": "NP_MOD", "mod": [], "weight": 0.71244}, 
+                {"id": 7, "text": "부정부패로", "head": 11, "label": "NP_AJT", "mod": [6], "weight": 0.817148}, 
+                {"id": 8, "text": "점차", "head": 11, "label": "AP", "mod": [], "weight": 0.71596}, 
+                {"id": 9, "text": "그", "head": 10, "label": "DP", "mod": [], "weight": 0.641196}, 
+                {"id": 10, "text": "운영이", "head": 11, "label": "NP_SBJ", "mod": [9], "weight": 0.852895}, 
+                {"id": 11, "text": "붕괴되었다.", "head": -1, "label": "VP", "mod": [5, 7, 8, 10], "weight": 0.0158777}
+            ], 
+            "SRL": [
+                {"verb": "실시", "sense": 1, "word_id": 5, "weight": 0.118937, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "사창제는", "weight": 0.1221}, 
+                    {"type": "ARGM-TMP", "word_id": 2, "text": "전기에도", "weight": 0.135937}, 
+                    {"type": "ARGM-EXT", "word_id": 4, "text": "차례", "weight": 0.0987739}
+                ]}, 
+                {"verb": "붕괴", "sense": 1, "word_id": 11, "weight": 0.142812, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "운영이", "weight": 0.142812}, 
+                    {"type": "ARGM-CAU", "word_id": 7, "text": "부정부패로", "weight": 1}, 
+                    {"type": "ARGM-ADV", "word_id": 8, "text": "점차", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "그것을 흥선 대원군이 다시 재정비한 것이다.", 
+            "morp": [
+                {"id": 0, "lemma": "그것", "type": "NP", "position": 305, "weight": 0.073371}, 
+                {"id": 1, "lemma": "을", "type": "JKO", "position": 311, "weight": 0.0761542}, 
+                {"id": 2, "lemma": "흥선", "type": "NNP", "position": 315, "weight": 0.9}, 
+                {"id": 3, "lemma": "대원군", "type": "NNG", "position": 322, "weight": 0.0019695}, 
+                {"id": 4, "lemma": "이", "type": "JKS", "position": 331, "weight": 0.0360723}, 
+                {"id": 5, "lemma": "다시", "type": "MAG", "position": 335, "weight": 0.116323}, 
+                {"id": 6, "lemma": "재정비", "type": "NNG", "position": 342, "weight": 0.8}, 
+                {"id": 7, "lemma": "하", "type": "XSV", "position": 351, "weight": 0.0001}, 
+                {"id": 8, "lemma": "ㄴ", "type": "ETM", "position": 351, "weight": 0.392321}, 
+                {"id": 9, "lemma": "것", "type": "NNB", "position": 355, "weight": 0.228788}, 
+                {"id": 10, "lemma": "이", "type": "VCP", "position": 358, "weight": 0.0607843}, 
+                {"id": 11, "lemma": "다", "type": "EF", "position": 361, "weight": 0.353579}, 
+                {"id": 12, "lemma": ".", "type": "SF", "position": 364, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "그것", "type": "NP", "scode": "000002", "weight": 0.25, "position": 305, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 311, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "흥선", "type": "NNP", "scode": "000000", "weight": 0, "position": 315, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "대원군", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 322, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 331, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "다시", "type": "MAG", "scode": "010001", "weight": 0.1, "position": 335, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "재정비하", "type": "VV", "scode": "000000", "weight": 1, "position": 342, "begin": 6, "end": 7}, 
+                {"id": 7, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 351, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 355, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 358, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 361, "begin": 11, "end": 11}, 
+                {"id": 11, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 364, "begin": 12, "end": 12}
+            ], 
+            "word": [
+                {"id": 0, "text": "그것을", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "흥선", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "대원군이", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "다시", "type": "", "begin": 5, "end": 5}, 
+                {"id": 4, "text": "재정비한", "type": "", "begin": 6, "end": 8}, 
+                {"id": 5, "text": "것이다.", "type": "", "begin": 9, "end": 12}
+            ], 
+            "NE": [
+                {"id": 0, "text": "흥선 대원군", "type": "PS_NAME", "begin": 2, "end": 3, "weight": 0.477085, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "그것을", "head": 4, "label": "NP_OBJ", "mod": [], "weight": 0.762068}, 
+                {"id": 1, "text": "흥선", "head": 2, "label": "NP", "mod": [], "weight": 0.63159}, 
+                {"id": 2, "text": "대원군이", "head": 4, "label": "NP_SBJ", "mod": [1], "weight": 0.834163}, 
+                {"id": 3, "text": "다시", "head": 4, "label": "AP", "mod": [], "weight": 0.687994}, 
+                {"id": 4, "text": "재정비한", "head": 5, "label": "VP_MOD", "mod": [0, 2, 3], "weight": 0.718759}, 
+                {"id": 5, "text": "것이다.", "head": -1, "label": "VNP", "mod": [4], "weight": 0.154663}
+            ], 
+            "SRL": [
+                {"verb": "재정비", "sense": 1, "word_id": 4, "weight": 0.197334, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "그것을", "weight": 0.256389}, 
+                    {"type": "ARG0", "word_id": 2, "text": "대원군이", "weight": 0.213575}, 
+                    {"type": "ARGM-ADV", "word_id": 3, "text": "다시", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "이에", "start_eid_short": 0, "end_eid_short": 0, "text_short": "이에"}
+        ]}, 
+        {"id": 1, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 1, "text": "1866년(고종 3년)", "start_eid_short": 1, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 6, "ne_id": -1, "text": "기존의 환곡제를", "start_eid_short": 6, "end_eid_short": 6, "text_short": "환곡제를"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "기존의", "start_eid_short": 5, "end_eid_short": 5, "text_short": "기존의"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 8, "end_eid": 9, "ne_id": -1, "text": "마을 단위로", "start_eid_short": 8, "end_eid_short": 9, "text_short": "마을 단위로"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "마을", "start_eid_short": 8, "end_eid_short": 8, "text_short": "마을"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 5, "end_eid": 12, "ne_id": -1, "text": "기존의 환곡제를 개선해 마을 단위로 공동 운영하는 사창제를", "start_eid_short": 12, "end_eid_short": 12, "text_short": "사창제를"}, 
+            {"id": 11, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "사창제는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "사창제는"}, 
+            {"id": 17, "sent_id": 2, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "그것을", "start_eid_short": 0, "end_eid_short": 0, "text_short": "그것을"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 10, "end_eid": 10, "ne_id": -1, "text": "공동", "start_eid_short": 10, "end_eid_short": 10, "text_short": "공동"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 14, "end_eid": 15, "ne_id": -1, "text": "농민 부담을", "start_eid_short": 14, "end_eid_short": 15, "text_short": "농민 부담을"}
+        ]}, 
+        {"id": 9, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 3, "end_eid": 4, "ne_id": 2, "text": "흥선 대원군은", "start_eid_short": 3, "end_eid_short": 4, "text_short": "흥선 대원군은"}, 
+            {"id": 18, "sent_id": 2, "start_eid": 1, "end_eid": 2, "ne_id": 0, "text": "흥선 대원군이", "start_eid_short": 1, "end_eid_short": 2, "text_short": "흥선 대원군이"}
+        ]}, 
+        {"id": 10, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 1, "end_eid": 2, "ne_id": 0, "text": "조선 전기에도", "start_eid_short": 2, "end_eid_short": 2, "text_short": "전기에도"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 3, "end_eid": 4, "ne_id": -1, "text": "몇 차례", "start_eid_short": 3, "end_eid_short": 4, "text_short": "몇 차례"}
+        ]}, 
+        {"id": 12, "type": "CV_LAW", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 6, "end_eid": 7, "ne_id": 1, "text": "관리들의 부정부패로", "start_eid_short": 7, "end_eid_short": 7, "text_short": "부정부패로"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "관리들의", "start_eid_short": 6, "end_eid_short": 6, "text_short": "관리들의"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 1, "start_eid": 9, "end_eid": 10, "ne_id": -1, "text": "그 운영이", "start_eid_short": 9, "end_eid_short": 10, "text_short": "그 운영이"}
+        ]}, 
+        {"id": 15, "type": "CV_OCCUPATION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 14, "end_eid": 14, "ne_id": 3, "text": "농민", "start_eid_short": 14, "end_eid_short": 14, "text_short": "농민"}
+        ]}
+    ]
+}

@@ -1,0 +1,303 @@
+{
+    "doc_id": "E2016.788.10_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "곶", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "갑(岬) 또는 단(端)이라고도 하고, 흔히 관(串)자를 빌려 ‘관’ 또는 ‘곶’으로 부르기도 한다.", 
+            "morp": [
+                {"id": 0, "lemma": "갑", "type": "NNG", "position": 0, "weight": 0.435367}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 3, "weight": 1}, 
+                {"id": 2, "lemma": "岬", "type": "SH", "position": 4, "weight": 1}, 
+                {"id": 3, "lemma": ")", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 4, "lemma": "또는", "type": "MAJ", "position": 9, "weight": 0.00307013}, 
+                {"id": 5, "lemma": "단", "type": "NNG", "position": 16, "weight": 0.079506}, 
+                {"id": 6, "lemma": "(", "type": "SS", "position": 19, "weight": 1}, 
+                {"id": 7, "lemma": "端", "type": "SH", "position": 20, "weight": 1}, 
+                {"id": 8, "lemma": ")", "type": "SS", "position": 23, "weight": 1}, 
+                {"id": 9, "lemma": "이라고", "type": "JKQ", "position": 24, "weight": 0.0202133}, 
+                {"id": 10, "lemma": "도", "type": "JX", "position": 33, "weight": 0.0188913}, 
+                {"id": 11, "lemma": "하", "type": "VV", "position": 37, "weight": 0.0910671}, 
+                {"id": 12, "lemma": "고", "type": "EC", "position": 40, "weight": 0.416679}, 
+                {"id": 13, "lemma": ",", "type": "SP", "position": 43, "weight": 1}, 
+                {"id": 14, "lemma": "흔히", "type": "MAG", "position": 45, "weight": 0.9}, 
+                {"id": 15, "lemma": "관", "type": "NNG", "position": 52, "weight": 0.163948}, 
+                {"id": 16, "lemma": "(", "type": "SS", "position": 55, "weight": 1}, 
+                {"id": 17, "lemma": "串", "type": "SH", "position": 56, "weight": 1}, 
+                {"id": 18, "lemma": ")", "type": "SS", "position": 59, "weight": 1}, 
+                {"id": 19, "lemma": "자", "type": "NNG", "position": 60, "weight": 0.0240063}, 
+                {"id": 20, "lemma": "를", "type": "JKO", "position": 63, "weight": 0.137686}, 
+                {"id": 21, "lemma": "빌리", "type": "VV", "position": 67, "weight": 0.75861}, 
+                {"id": 22, "lemma": "어", "type": "EC", "position": 70, "weight": 0.41831}, 
+                {"id": 23, "lemma": "‘", "type": "SS", "position": 74, "weight": 1}, 
+                {"id": 24, "lemma": "관", "type": "NNG", "position": 77, "weight": 0.125393}, 
+                {"id": 25, "lemma": "’", "type": "SS", "position": 80, "weight": 1}, 
+                {"id": 26, "lemma": "또는", "type": "MAJ", "position": 84, "weight": 0.00307013}, 
+                {"id": 27, "lemma": "‘", "type": "SS", "position": 91, "weight": 1}, 
+                {"id": 28, "lemma": "곶", "type": "NNG", "position": 94, "weight": 0.9}, 
+                {"id": 29, "lemma": "’", "type": "SS", "position": 97, "weight": 1}, 
+                {"id": 30, "lemma": "으로", "type": "JKB", "position": 100, "weight": 0.0486063}, 
+                {"id": 31, "lemma": "부르", "type": "VV", "position": 107, "weight": 0.436568}, 
+                {"id": 32, "lemma": "기", "type": "ETN", "position": 113, "weight": 0.0380514}, 
+                {"id": 33, "lemma": "도", "type": "JX", "position": 116, "weight": 0.147715}, 
+                {"id": 34, "lemma": "하", "type": "VX", "position": 120, "weight": 0.00978548}, 
+                {"id": 35, "lemma": "ㄴ다", "type": "EF", "position": 120, "weight": 0.184394}, 
+                {"id": 36, "lemma": ".", "type": "SF", "position": 126, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "갑", "type": "NNG", "scode": "060000", "weight": 0.0714286, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 3, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "岬", "type": "SH", "scode": "000000", "weight": 1, "position": 4, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "또는", "type": "MAJ", "scode": "000000", "weight": 1, "position": 9, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "단", "type": "NNG", "scode": "130000", "weight": 0.0277778, "position": 16, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 19, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "端", "type": "SH", "scode": "000000", "weight": 1, "position": 20, "begin": 7, "end": 7}, 
+                {"id": 8, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 23, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "이라고", "type": "JKQ", "scode": "000000", "weight": 1, "position": 24, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 33, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "하", "type": "VV", "scode": "010701", "weight": 0.02, "position": 37, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 40, "begin": 12, "end": 12}, 
+                {"id": 13, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 43, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "흔히", "type": "MAG", "scode": "000000", "weight": 1, "position": 45, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "관", "type": "NNG", "scode": "888888", "weight": 0.0285714, "position": 52, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 55, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "串", "type": "SH", "scode": "000000", "weight": 1, "position": 56, "begin": 17, "end": 17}, 
+                {"id": 18, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 59, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "자", "type": "NNG", "scode": "140001", "weight": 0.0217391, "position": 60, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 63, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "빌리", "type": "VV", "scode": "000100", "weight": 0.333333, "position": 67, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 70, "begin": 22, "end": 22}, 
+                {"id": 23, "text": "‘", "type": "SS", "scode": "000000", "weight": 1, "position": 74, "begin": 23, "end": 23}, 
+                {"id": 24, "text": "관", "type": "NNG", "scode": "888888", "weight": 0.0285714, "position": 77, "begin": 24, "end": 24}, 
+                {"id": 25, "text": "’", "type": "SS", "scode": "000000", "weight": 1, "position": 80, "begin": 25, "end": 25}, 
+                {"id": 26, "text": "또는", "type": "MAJ", "scode": "000000", "weight": 1, "position": 84, "begin": 26, "end": 26}, 
+                {"id": 27, "text": "‘", "type": "SS", "scode": "000000", "weight": 1, "position": 91, "begin": 27, "end": 27}, 
+                {"id": 28, "text": "곶", "type": "NNG", "scode": "020000", "weight": 0.2, "position": 94, "begin": 28, "end": 28}, 
+                {"id": 29, "text": "’", "type": "SS", "scode": "000000", "weight": 1, "position": 97, "begin": 29, "end": 29}, 
+                {"id": 30, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 100, "begin": 30, "end": 30}, 
+                {"id": 31, "text": "부르", "type": "VV", "scode": "010300", "weight": 0.0714286, "position": 107, "begin": 31, "end": 31}, 
+                {"id": 32, "text": "기", "type": "ETN", "scode": "000000", "weight": 1, "position": 113, "begin": 32, "end": 32}, 
+                {"id": 33, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 116, "begin": 33, "end": 33}, 
+                {"id": 34, "text": "하", "type": "VX", "scode": "011105", "weight": 0.02, "position": 120, "begin": 34, "end": 34}, 
+                {"id": 35, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 120, "begin": 35, "end": 35}, 
+                {"id": 36, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 126, "begin": 36, "end": 36}
+            ], 
+            "word": [
+                {"id": 0, "text": "갑(岬)", "type": "", "begin": 0, "end": 3}, 
+                {"id": 1, "text": "또는", "type": "", "begin": 4, "end": 4}, 
+                {"id": 2, "text": "단(端)이라고도", "type": "", "begin": 5, "end": 10}, 
+                {"id": 3, "text": "하고,", "type": "", "begin": 11, "end": 13}, 
+                {"id": 4, "text": "흔히", "type": "", "begin": 14, "end": 14}, 
+                {"id": 5, "text": "관(串)자를", "type": "", "begin": 15, "end": 20}, 
+                {"id": 6, "text": "빌려", "type": "", "begin": 21, "end": 22}, 
+                {"id": 7, "text": "‘관’", "type": "", "begin": 23, "end": 25}, 
+                {"id": 8, "text": "또는", "type": "", "begin": 26, "end": 26}, 
+                {"id": 9, "text": "‘곶’으로", "type": "", "begin": 27, "end": 30}, 
+                {"id": 10, "text": "부르기도", "type": "", "begin": 31, "end": 33}, 
+                {"id": 11, "text": "한다.", "type": "", "begin": 34, "end": 36}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "갑(岬)", "head": 2, "label": "NP_CNJ", "mod": [], "weight": 0.658808}, 
+                {"id": 1, "text": "또는", "head": 2, "label": "AP", "mod": [], "weight": 0.867735}, 
+                {"id": 2, "text": "단(端)이라고도", "head": 3, "label": "VNP_CMP", "mod": [0, 1], "weight": 0.184088}, 
+                {"id": 3, "text": "하고,", "head": 10, "label": "VP", "mod": [2], "weight": 0.561803}, 
+                {"id": 4, "text": "흔히", "head": 10, "label": "AP", "mod": [], "weight": 0.766923}, 
+                {"id": 5, "text": "관(串)자를", "head": 6, "label": "NP_OBJ", "mod": [], "weight": 0.637866}, 
+                {"id": 6, "text": "빌려", "head": 10, "label": "VP", "mod": [5], "weight": 0.839529}, 
+                {"id": 7, "text": "‘관’", "head": 9, "label": "NP_CNJ", "mod": [], "weight": 0.483776}, 
+                {"id": 8, "text": "또는", "head": 9, "label": "AP", "mod": [], "weight": 0.806999}, 
+                {"id": 9, "text": "‘곶’으로", "head": 10, "label": "NP_AJT", "mod": [7, 8], "weight": 0.734719}, 
+                {"id": 10, "text": "부르기도", "head": 11, "label": "VP", "mod": [6, 9, 3, 4], "weight": 0.553921}, 
+                {"id": 11, "text": "한다.", "head": -1, "label": "VP", "mod": [10], "weight": 0.00284332}
+            ], 
+            "SRL": [
+                {"verb": "하", "sense": 2, "word_id": 3, "weight": 0.102436, "argument": [
+                    {"type": "ARG2", "word_id": 2, "text": "단(端)이라고도", "weight": 1}
+                ]}, 
+                {"verb": "빌리", "sense": 1, "word_id": 6, "weight": 0.395145, "argument": [
+                    {"type": "ARG1", "word_id": 5, "text": "관(串)자를", "weight": 0.395145}
+                ]}, 
+                {"verb": "부르", "sense": 2, "word_id": 10, "weight": 0.271738, "argument": [
+                    {"type": "ARG2", "word_id": 9, "text": "‘곶’으로", "weight": 0.144332}, 
+                    {"type": "AUX", "word_id": 11, "text": "한다.", "weight": 0.399145}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "곶보다 규모가 큰 것을 반도라고 하는데, 반도의 말단부를 곶이라고 하는 경우도 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "곶", "type": "NNG", "position": 127, "weight": 0.9}, 
+                {"id": 1, "lemma": "보다", "type": "JKB", "position": 130, "weight": 0.143482}, 
+                {"id": 2, "lemma": "규모", "type": "NNG", "position": 137, "weight": 0.9}, 
+                {"id": 3, "lemma": "가", "type": "JKS", "position": 143, "weight": 0.066324}, 
+                {"id": 4, "lemma": "크", "type": "VA", "position": 147, "weight": 0.245792}, 
+                {"id": 5, "lemma": "ㄴ", "type": "ETM", "position": 147, "weight": 0.430446}, 
+                {"id": 6, "lemma": "것", "type": "NNB", "position": 151, "weight": 0.228788}, 
+                {"id": 7, "lemma": "을", "type": "JKO", "position": 154, "weight": 0.0630104}, 
+                {"id": 8, "lemma": "반도", "type": "NNG", "position": 158, "weight": 0.0988202}, 
+                {"id": 9, "lemma": "이", "type": "VCP", "position": 161, "weight": 0.0177525}, 
+                {"id": 10, "lemma": "라고", "type": "EC", "position": 164, "weight": 0.204147}, 
+                {"id": 11, "lemma": "하", "type": "VV", "position": 171, "weight": 0.140183}, 
+                {"id": 12, "lemma": "는데", "type": "EC", "position": 174, "weight": 0.410685}, 
+                {"id": 13, "lemma": ",", "type": "SP", "position": 180, "weight": 1}, 
+                {"id": 14, "lemma": "반도", "type": "NNG", "position": 182, "weight": 0.518061}, 
+                {"id": 15, "lemma": "의", "type": "JKG", "position": 188, "weight": 0.0694213}, 
+                {"id": 16, "lemma": "말단", "type": "NNG", "position": 192, "weight": 0.9}, 
+                {"id": 17, "lemma": "부", "type": "XSN", "position": 198, "weight": 0.0112289}, 
+                {"id": 18, "lemma": "를", "type": "JKO", "position": 201, "weight": 0.0870227}, 
+                {"id": 19, "lemma": "곶", "type": "NNG", "position": 205, "weight": 0.9}, 
+                {"id": 20, "lemma": "이", "type": "VCP", "position": 208, "weight": 0.0177525}, 
+                {"id": 21, "lemma": "라고", "type": "EC", "position": 211, "weight": 0.204147}, 
+                {"id": 22, "lemma": "하", "type": "VV", "position": 218, "weight": 0.140183}, 
+                {"id": 23, "lemma": "는", "type": "ETM", "position": 221, "weight": 0.184941}, 
+                {"id": 24, "lemma": "경우", "type": "NNG", "position": 225, "weight": 0.658545}, 
+                {"id": 25, "lemma": "도", "type": "JX", "position": 231, "weight": 0.0676272}, 
+                {"id": 26, "lemma": "있", "type": "VA", "position": 235, "weight": 0.0558599}, 
+                {"id": 27, "lemma": "다", "type": "EF", "position": 238, "weight": 0.132573}, 
+                {"id": 28, "lemma": ".", "type": "SF", "position": 241, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "곶", "type": "NNG", "scode": "020000", "weight": 0.2, "position": 127, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "보다", "type": "JKB", "scode": "000000", "weight": 1, "position": 130, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "규모", "type": "NNG", "scode": "000002", "weight": 0.333333, "position": 137, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 143, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "크", "type": "VA", "scode": "010001", "weight": 0.0555556, "position": 147, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 147, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 151, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 154, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "반도", "type": "NNG", "scode": "020000", "weight": 0.111111, "position": 158, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 161, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "라고", "type": "EC", "scode": "000000", "weight": 1, "position": 164, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "하", "type": "VV", "scode": "010400", "weight": 0.02, "position": 171, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "는데", "type": "EC", "scode": "000000", "weight": 1, "position": 174, "begin": 12, "end": 12}, 
+                {"id": 13, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 180, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "반도", "type": "NNG", "scode": "020000", "weight": 0.111111, "position": 182, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 188, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "말단", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 192, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "부", "type": "XSN", "scode": "230000", "weight": 0.027027, "position": 198, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 201, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "곶", "type": "NNG", "scode": "020000", "weight": 0.2, "position": 205, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 208, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "라고", "type": "EC", "scode": "000000", "weight": 1, "position": 211, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "하", "type": "VV", "scode": "010400", "weight": 0.02, "position": 218, "begin": 22, "end": 22}, 
+                {"id": 23, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 221, "begin": 23, "end": 23}, 
+                {"id": 24, "text": "경우", "type": "NNG", "scode": "030002", "weight": 0.125, "position": 225, "begin": 24, "end": 24}, 
+                {"id": 25, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 231, "begin": 25, "end": 25}, 
+                {"id": 26, "text": "있", "type": "VA", "scode": "010302", "weight": 0.0416667, "position": 235, "begin": 26, "end": 26}, 
+                {"id": 27, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 238, "begin": 27, "end": 27}, 
+                {"id": 28, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 241, "begin": 28, "end": 28}
+            ], 
+            "word": [
+                {"id": 0, "text": "곶보다", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "규모가", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "큰", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "것을", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "반도라고", "type": "", "begin": 8, "end": 10}, 
+                {"id": 5, "text": "하는데,", "type": "", "begin": 11, "end": 13}, 
+                {"id": 6, "text": "반도의", "type": "", "begin": 14, "end": 15}, 
+                {"id": 7, "text": "말단부를", "type": "", "begin": 16, "end": 18}, 
+                {"id": 8, "text": "곶이라고", "type": "", "begin": 19, "end": 21}, 
+                {"id": 9, "text": "하는", "type": "", "begin": 22, "end": 23}, 
+                {"id": 10, "text": "경우도", "type": "", "begin": 24, "end": 25}, 
+                {"id": 11, "text": "있다.", "type": "", "begin": 26, "end": 28}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "곶보다", "head": 2, "label": "NP_AJT", "mod": [], "weight": 0.505414}, 
+                {"id": 1, "text": "규모가", "head": 2, "label": "NP_SBJ", "mod": [], "weight": 0.660133}, 
+                {"id": 2, "text": "큰", "head": 3, "label": "VP_MOD", "mod": [0, 1], "weight": 0.772119}, 
+                {"id": 3, "text": "것을", "head": 4, "label": "NP_OBJ", "mod": [2], "weight": 0.760076}, 
+                {"id": 4, "text": "반도라고", "head": 5, "label": "VNP_CMP", "mod": [3], "weight": 0.537559}, 
+                {"id": 5, "text": "하는데,", "head": 8, "label": "VP", "mod": [4], "weight": 0.718801}, 
+                {"id": 6, "text": "반도의", "head": 7, "label": "NP_MOD", "mod": [], "weight": 0.557373}, 
+                {"id": 7, "text": "말단부를", "head": 8, "label": "NP_OBJ", "mod": [6], "weight": 0.634741}, 
+                {"id": 8, "text": "곶이라고", "head": 9, "label": "VNP_CMP", "mod": [7, 5], "weight": 0.345446}, 
+                {"id": 9, "text": "하는", "head": 10, "label": "VP_MOD", "mod": [8], "weight": 0.817172}, 
+                {"id": 10, "text": "경우도", "head": 11, "label": "NP_SBJ", "mod": [9], "weight": 0.82044}, 
+                {"id": 11, "text": "있다.", "head": -1, "label": "VP", "mod": [10], "weight": 0.00478667}
+            ], 
+            "SRL": [
+                {"verb": "크", "sense": 1, "word_id": 2, "weight": 0.239327, "argument": [
+                    {"type": "ARGM-CND", "word_id": 0, "text": "곶보다", "weight": 0.153525}, 
+                    {"type": "ARG1", "word_id": 1, "text": "규모가", "weight": 0.325129}
+                ]}, 
+                {"verb": "하", "sense": 2, "word_id": 5, "weight": 0.175292, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "것을", "weight": 0.197588}, 
+                    {"type": "ARG2", "word_id": 4, "text": "반도라고", "weight": 0.152996}
+                ]}, 
+                {"verb": "하", "sense": 2, "word_id": 9, "weight": 0.179768, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "말단부를", "weight": 0.193806}, 
+                    {"type": "ARG2", "word_id": 8, "text": "곶이라고", "weight": 0.16573}
+                ]}, 
+                {"verb": "있", "sense": 1, "word_id": 11, "weight": 0.160461, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "경우도", "weight": 0.160461}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "관(串)자를", "start_eid_short": 5, "end_eid_short": 0, "text_short": ""}, 
+            {"id": 5, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "‘관’", "start_eid_short": 7, "end_eid_short": 7, "text_short": "‘관’"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "곶보다 규모가 큰 것을", "start_eid_short": 3, "end_eid_short": 3, "text_short": "것을"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "곶보다", "start_eid_short": 0, "end_eid_short": 0, "text_short": "곶보다"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "규모가", "start_eid_short": 1, "end_eid_short": 1, "text_short": "규모가"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 6, "end_eid": 10, "ne_id": -1, "text": "반도의 말단부를 곶이라고 하는 경우도", "start_eid_short": 10, "end_eid_short": 10, "text_short": "경우도"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 6, "end_eid": 7, "ne_id": -1, "text": "반도의 말단부를", "start_eid_short": 7, "end_eid_short": 7, "text_short": "말단부를"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "반도의", "start_eid_short": 6, "end_eid_short": 6, "text_short": "반도의"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "갑(岬)", "start_eid_short": 0, "end_eid_short": 0, "text_short": "갑(岬)"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "단(端)이라고도", "start_eid_short": 2, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "갑(岬) 또는 단(端)이라고도", "start_eid_short": 0, "end_eid_short": 0, "text_short": "갑(岬)"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 9, "end_eid": 9, "ne_id": -1, "text": "‘곶’으로", "start_eid_short": 9, "end_eid_short": 9, "text_short": "‘곶’으로"}, 
+            {"id": 14, "sent_id": 1, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "곶이라고", "start_eid_short": 8, "end_eid_short": 8, "text_short": "곶이라고"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 7, "end_eid": 9, "ne_id": -1, "text": "‘관’ 또는 ‘곶’으로", "start_eid_short": 9, "end_eid_short": 9, "text_short": "‘곶’으로"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "반도라고", "start_eid_short": 4, "end_eid_short": 4, "text_short": "반도라고"}
+        ]}
+    ]
+}

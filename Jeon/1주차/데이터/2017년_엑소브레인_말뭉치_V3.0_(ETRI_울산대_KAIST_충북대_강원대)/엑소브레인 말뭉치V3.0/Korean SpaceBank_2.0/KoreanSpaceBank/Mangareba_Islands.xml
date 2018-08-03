@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+망가레바 제도는 남태평양 프랑스령 폴리네시아에 속하는 투아모투 제도의 남동부에 있는 섬들이다. 주도는 망가레바 섬. 4개의 섬과 23개의 환초로 이루어져 있으며, 환초는 대부분 무인도이다.
+폴로네시아 군도의 망가레바 섬에서 마르카즈 제도는 무려 1600킬로나 떨어져 있지만 옛날 망가레바 섬 사람들은 작은 카누를 타고 그 길을 오갔다. 환경(삼림)파괴로 인한 이스터 섬의 몰락, 핏케언 섬과 헨더슨 섬이 그들의 우호적인 이웃 망가레바 섬에 의존하며 살다가 망가레바 섬이 쇠락하면서 새로운 환경에 적응하려고 투쟁을 벌였지만 결국은 붕괴하였다.
+산호초가 죽는 이유 중의 하나는 핵무기 실험이다. 예를 들어 1995년에 프랑스는 폴리네시아 지역에서 핵무기 실험을 했는데, 그것 때문에 그 지역의 산호초가 손상되었다.
+프랑스는 당시 타히티에서 1000km 떨어진 망가레바 섬에서 핵실험을 진행했다. 이를 기념하기 위해 프랑스군 장성과 정치인 등 귀빈들이 핵 실험장에서 약 400km 떨어진 갬비어 군도의 망가레바 섬으로 모여들었다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="8" text="망가레바 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="10" end="14" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="31" end="38" text="투아모투 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="58" end="64" text="망가레바 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="107" end="115" text="폴로네시아 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="117" end="123" text="망가레바 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="126" end="133" text="마르카즈 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="202" end="207" text="이스터 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="213" end="218" text="핏케언 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="220" end="225" text="헨더슨 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="239" end="245" text="망가레바 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="256" end="262" text="망가레바 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="345" end="348" text="프랑스" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="350" end="358" text="폴리네시아 지역" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="399" end="402" text="프랑스" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="407" end="410" text="타히티" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="424" end="430" text="망가레바 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="495" end="501" text="갬비어 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="503" end="509" text="망가레바 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="477" end="480" text="실험장" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="157" end="163" text="망가레바 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="48" end="50" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="54" end="56" text="주도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="70" end="71" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="100" end="103" text="무인도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="383" end="385" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="15" end="19" text="프랑스령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="20" end="25" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="181" end="182" text="길" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="470" end="473" text="귀빈들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="464" end="467" text="정치인" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="460" end="462" text="장성" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="172" end="174" text="카누" type="VEHICLE" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="164" end="167" text="사람들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="512" end="514" text="모여" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="184" end="186" text="오갔" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="176" end="177" text="타" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="146" end="149" text="떨어져" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="25" end="26" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="491" end="494" text="떨어진" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="420" end="423" text="떨어진" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="40" end="43" text="남동부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="115" end="116" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms1" start="509" end="511" text="으로" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="138" end="144" text="1600킬로" value="1600" unit="km" comment="" />
+<MEASURE id="me1" start="413" end="419" text="1000km" value="1000" unit="km" comment="" />
+<MEASURE id="me2" start="485" end="490" text="400km" value="400" unit="km" comment="" />
+<SENTENCE id="sent0" start="1" end="53" text="망가레바 제도는 남태평양 프랑스령 폴리네시아에 속하는 투아모투 제도의 남동부에 있는 섬들이다." comment="" />
+<SENTENCE id="sent1" start="54" end="106" text="주도는 망가레바 섬. 4개의 섬과 23개의 환초로 이루어져 있으며, 환초는 대부분 무인도이다." comment="" />
+<SENTENCE id="sent2" start="107" end="188" text="폴로네시아 군도의 망가레바 섬에서 마르카즈 제도는 무려 1600킬로나 떨어져 있지만 옛날 망가레바 섬 사람들은 작은 카누를 타고 그 길을 오갔다." comment="" />
+<SENTENCE id="sent3" start="189" end="303" text="환경(삼림)파괴로 인한 이스터 섬의 몰락, 핏케언 섬과 헨더슨 섬이 그들의 우호적인 이웃 망가레바 섬에 의존하며 살다가 망가레바 섬이 쇠락하면서 새로운 환경에 적응하려고 투쟁을 벌였지만 결국은 붕괴하였다." comment="" />
+<SENTENCE id="sent4" start="304" end="331" text="산호초가 죽는 이유 중의 하나는 핵무기 실험이다." comment="" />
+<SENTENCE id="sent5" start="332" end="398" text="예를 들어 1995년에 프랑스는 폴리네시아 지역에서 핵무기 실험을 했는데, 그것 때문에 그 지역의 산호초가 손상되었다." comment="" />
+<SENTENCE id="sent6" start="399" end="443" text="프랑스는 당시 타히티에서 1000km 떨어진 망가레바 섬에서 핵실험을 진행했다." comment="" />
+<SENTENCE id="sent7" start="444" end="519" text="이를 기념하기 위해 프랑스군 장성과 정치인 등 귀빈들이 핵 실험장에서 약 400km 떨어진 갬비어 군도의 망가레바 섬으로 모여들었다. " comment="" />
+<QSLINK id="qsl3" fromID="pl13" fromText="마르카즈 제도" toID="pl12" toText="망가레바 섬" relType="DC" trajector="pl13" landmark="pl12" trigger="s1" comment="" />
+<QSLINK id="qsl4" fromID="pl25" fromText="망가레바 섬" toID="pl24" toText="타히티" relType="DC" trajector="pl25" landmark="pl24" trigger="s4" comment="" />
+<QSLINK id="qsl6" fromID="pl27" fromText="갬비어 군도" toID="pl14" toText="실험장" relType="DC" trajector="pl27" landmark="pl14" trigger="s3" comment="" />
+<QSLINK id="qsl1" fromID="pl12" fromText="망가레바 섬" toID="pl11" toText="폴로네시아 군도" relType="NTPP" trajector="pl12" landmark="pl11" trigger="s5" comment="" />
+<QSLINK id="qsl2" fromID="pl3" fromText="투아모투 제도" toID="pl10" toText="폴리네시아" relType="NTPP" trajector="pl3" landmark="pl10" trigger="s2" comment="" />
+<OLINK id="ol0" fromID="pl4" fromText="섬들" toID="pl3" toText="투아모투 제도" relType="남동" trajector="pl4" landmark="pl3" trigger="s0" frame_type="ABSOLUTE" referencePt="남동" projective="FALSE" comment="" />
+<MOVELINK id="mvl1" fromID="pl28" fromText="망가레바 섬" toID="m1" toText="모여" trigger="m1" source="" goal="pl27" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl2" fromID="se4" fromText="사람들" toID="p0" toText="길" trigger="m0" source="" goal="" midPoint="" mover="se4" landmark="" goal_reached="UNCERTAIN" pathID="p0" motion_signalID="" comment="" />
+<MOVELINK id="mvl3" fromID="se4" fromText="사람들" toID="se2" toText="카누" trigger="m2" source="" goal="se2" midPoint="" mover="se4" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MEASURELINK id="ml0" fromID="pl13" fromText="마르카즈 제도" toID="pl12" toText="망가레바 섬" trajector="pl13" landmark="pl12" relType="DISTANCE" val="me0" endPoint1="pl13" endPoint2="pl12" comment="" />
+<MEASURELINK id="ml1" fromID="pl25" fromText="망가레바 섬" toID="pl24" toText="타히티" trajector="pl25" landmark="pl24" relType="DISTANCE" val="me1" endPoint1="pl24" endPoint2="pl25" comment="" />
+<MEASURELINK id="ml2" fromID="pl27" fromText="갬비어 군도" toID="pl14" toText="실험장" trajector="pl27" landmark="pl14" relType="DISTANCE" val="me2" endPoint1="pl27" endPoint2="pl14" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

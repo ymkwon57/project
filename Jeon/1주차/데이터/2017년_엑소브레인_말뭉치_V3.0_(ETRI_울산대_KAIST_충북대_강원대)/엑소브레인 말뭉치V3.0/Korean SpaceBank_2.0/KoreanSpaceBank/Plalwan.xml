@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+팔라완[Palawan]은 필리핀 남서부 끝에 있는 커다란 섬이다. 남중국해와 술루해 사이에 북동쪽에서 남서쪽으로 길고 좁게 뻗어 있다. 가장 넓은 곳의 너비는 39㎞이며, 길이 434㎞인 산맥이 등뼈처럼 섬을 완전히 꿰뚫고 있다. 팔라완 섬(Palawan Island)은 필리핀 남서부에 있는 섬으로, 민도로 섬과 보르네오 섬(말레이시아) 사이에 있다. 북서쪽으로 남중국해, 남동쪽으로 술루해를 접한다.
+휴양지로는 팔라완이 제2의 몰디브다. 최후의 미개척지로 불리는 팔라완은 오랫동안 훌륭한 자연 서식지를 보존해왔다. 민도로(Mindoro) 섬과 말레이시아 사바(Sabah)섬의 북부에 위치한 팔라완은 150만헥타르에 이르는 필리핀의 섬이다. 깎아지른 듯한 석회암 절벽 사이사이로 에메랄드빛 바다가 햇빛에 반짝인다.
+민도르 해협과 보르네오 섬 사이에 길게 뻗어 있는 팔라완 섬은 대개 남부, 중부, 북부로 나눠 이야기한다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="4" text="팔라완" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="15" end="18" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="33" end="34" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="커다란" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="38" end="42" text="남중국해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="44" end="47" text="술루해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="83" end="84" text="곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="넓은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="115" end="116" text="섬" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="130" end="135" text="팔라완 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="153" end="156" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="165" end="166" text="섬" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="170" end="175" text="민도로 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="177" end="183" text="보르네오 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="184" end="189" text="말레이시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="205" end="209" text="남중국해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="217" end="220" text="술루해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="227" end="230" text="휴양지" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="233" end="236" text="팔라완" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="242" end="245" text="몰디브" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="262" end="265" text="팔라완" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="279" end="282" text="서식지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="291" end="294" text="민도로" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="304" end="305" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="307" end="312" text="말레이시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="313" end="315" text="사바" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="322" end="323" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="333" end="336" text="팔라완" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="351" end="354" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="356" end="357" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="388" end="390" text="바다" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="410" end="416" text="보르네오 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="430" end="435" text="팔라완 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="23" end="24" text="끝" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="38" />
+<PLACE id="pl40" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="199" />
+<PLACE id="pl18" start="252" end="256" text="미개척지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="402" />
+<PATH id="p0" start="106" end="108" text="산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="402" end="408" text="민도르 해협" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s5" start="191" end="193" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="199" end="202" text="북서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="211" end="214" text="남동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="222" end="224" text="접한" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="24" end="25" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="48" end="50" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="440" end="442" text="남부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s14" start="444" end="446" text="중부" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s15" start="448" end="450" text="북부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s16" start="417" end="419" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="157" end="160" text="남서부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="19" end="22" text="남서부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="325" end="327" text="북부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="354" end="355" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me0" start="90" end="93" text="39㎞" value="39" unit="KM" comment="" />
+<MEASURE id="me1" start="100" end="104" text="434㎞" value="434" unit="KM" comment="" />
+<MEASURE id="me2" start="338" end="345" text="150만헥타르" value="1500000" unit="HA" comment="" />
+<SENTENCE id="sent0" start="1" end="37" text="팔라완[Palawan]은 필리핀 남서부 끝에 있는 커다란 섬이다." comment="" />
+<SENTENCE id="sent1" start="38" end="76" text="남중국해와 술루해 사이에 북동쪽에서 남서쪽으로 길고 좁게 뻗어 있다." comment="" />
+<SENTENCE id="sent2" start="77" end="129" text="가장 넓은 곳의 너비는 39㎞이며, 길이 434㎞인 산맥이 등뼈처럼 섬을 완전히 꿰뚫고 있다." comment="" />
+<SENTENCE id="sent3" start="130" end="198" text="팔라완 섬(Palawan Island)은 필리핀 남서부에 있는 섬으로, 민도로 섬과 보르네오 섬(말레이시아) 사이에 있다." comment="" />
+<SENTENCE id="sent4" start="199" end="226" text="북서쪽으로 남중국해, 남동쪽으로 술루해를 접한다." comment="" />
+<SENTENCE id="sent5" start="227" end="247" text="휴양지로는 팔라완이 제2의 몰디브다." comment="" />
+<SENTENCE id="sent6" start="248" end="290" text="최후의 미개척지로 불리는 팔라완은 오랫동안 훌륭한 자연 서식지를 보존해왔다." comment="" />
+<SENTENCE id="sent7" start="291" end="360" text="민도로(Mindoro) 섬과 말레이시아 사바(Sabah)섬의 북부에 위치한 팔라완은 150만헥타르에 이르는 필리핀의 섬이다." comment="" />
+<SENTENCE id="sent8" start="361" end="401" text="깎아지른 듯한 석회암 절벽 사이사이로 에메랄드빛 바다가 햇빛에 반짝인다." comment="" />
+<SENTENCE id="sent9" start="402" end="461" text="민도르 해협과 보르네오 섬 사이에 길게 뻗어 있는 팔라완 섬은 대개 남부, 중부, 북부로 나눠 이야기한다." comment="" />
+<QSLINK id="qsl0" fromID="pl2" fromText="섬" toID="pl36" toText="끝" relType="IN" trajector="pl2" landmark="pl36" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="pl3" fromText="남중국해" toID="pl4" toText="술루해" relType="DC" trajector="pl3" landmark="pl4" trigger="s1" comment="" />
+<QSLINK id="qsl2" fromID="pl39" fromText="" toID="pl4" toText="술루해" relType="OUT" trajector="pl4" landmark="pl39" trigger="s1" comment="" />
+<QSLINK id="qsl3" fromID="pl3" fromText="남중국해" toID="pl39" toText="" relType="OUT" trajector="pl3" landmark="pl39" trigger="s1" comment="" />
+<QSLINK id="qsl5" fromID="pl10" fromText="민도로 섬" toID="pl9" toText="섬" relType="OUT" trajector="pl10" landmark="pl9" trigger="s5" comment="" />
+<QSLINK id="qsl6" fromID="pl11" fromText="보르네오 섬" toID="pl9" toText="섬" relType="OUT" trajector="pl11" landmark="pl9" trigger="s5" comment="" />
+<QSLINK id="qsl7" fromID="pl10" fromText="민도로 섬" toID="pl11" toText="보르네오 섬" relType="DC" trajector="pl10" landmark="pl11" trigger="s5" comment="" />
+<QSLINK id="qsl9" fromID="pl13" fromText="남중국해" toID="pl40" toText="" relType="EC" trajector="pl13" landmark="pl40" trigger="s8" comment="" />
+<QSLINK id="qsl10" fromID="pl14" fromText="술루해" toID="pl40" toText="" relType="EC" trajector="pl14" landmark="pl40" trigger="s8" comment="" />
+<QSLINK id="qsl14" fromID="pl30" fromText="보르네오 섬" toID="pl31" toText="팔라완 섬" relType="OUT" trajector="pl30" landmark="pl31" trigger="s16" comment="" />
+<QSLINK id="qsl15" fromID="p1" fromText="민도르 해협" toID="pl31" toText="팔라완 섬" relType="OUT" trajector="p1" landmark="pl31" trigger="s16" comment="" />
+<QSLINK id="qsl16" fromID="pl30" fromText="보르네오 섬" toID="p1" toText="민도르 해협" relType="DC" trajector="pl30" landmark="p1" trigger="s16" comment="" />
+<QSLINK id="qsl8" fromID="pl28" fromText="섬" toID="pl27" toText="필리핀" relType="NTPP" trajector="pl28" landmark="pl27" trigger="s12" comment="" />
+<QSLINK id="qsl12" fromID="pl32" fromText="" toID="pl31" toText="팔라완 섬" relType="NTPP" trajector="pl32" landmark="pl31" trigger="s14" comment="" />
+<OLINK id="ol0" fromID="pl13" fromText="남중국해" toID="pl40" toText="" relType="북서" trajector="pl13" landmark="pl40" trigger="s6" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl14" fromText="술루해" toID="pl40" toText="" relType="남동" trajector="pl14" landmark="pl40" trigger="s7" frame_type="ABSOLUTE" referencePt="남동" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl9" fromText="섬" toID="pl8" toText="필리핀" relType="남서" trajector="pl9" landmark="pl8" trigger="s4" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl36" fromText="끝" toID="pl1" toText="필리핀" relType="남서" trajector="pl36" landmark="pl1" trigger="s10" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="pl7" fromText="팔라완 섬" toID="pl8" toText="필리핀" relType="남서" trajector="pl7" landmark="pl8" trigger="s4" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="pl26" fromText="팔라완" toID="pl25" toText="섬" relType="북" trajector="pl26" landmark="pl25" trigger="s11" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol7" fromID="pl32" fromText="" toID="pl31" toText="팔라완 섬" relType="남" trajector="pl32" landmark="pl31" trigger="s9" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol8" fromID="pl32" fromText="" toID="pl31" toText="팔라완 섬" relType="북" trajector="pl32" landmark="pl31" trigger="s15" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol9" fromID="pl32" fromText="" toID="pl31" toText="팔라완 섬" relType="중" trajector="pl32" landmark="pl31" trigger="s14" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<MEASURELINK id="ml0" fromID="me0" fromText="39㎞" toID="pl5" toText="곳" trajector="pl5" landmark="pl5" relType="WIDTH" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="p0" fromText="산맥" toID="me1" toText="434㎞" trajector="p0" landmark="p0" relType="LENGTH" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="me2" fromText="150만헥타르" toID="pl26" toText="팔라완" trajector="pl26" landmark="pl26" relType="GENERAL_DIMENSION" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="pl28" fromText="섬" toID="me2" toText="150만헥타르" trajector="pl28" landmark="pl28" relType="GENERAL_DIMENSION" val="me2" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

@@ -1,0 +1,160 @@
+{
+    "doc_id": "E2016.788.24_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "동국정운", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "《동국정운》(東國正韻)은 1448년(세종 30년)에 반포된 한국 최초의 표준음에 관한 책, 운서(韻書)이다.", 
+            "morp": [
+                {"id": 0, "lemma": "《", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "동국정운", "type": "NNP", "position": 3, "weight": 0.064286}, 
+                {"id": 2, "lemma": "》", "type": "SS", "position": 15, "weight": 1}, 
+                {"id": 3, "lemma": "(", "type": "SS", "position": 18, "weight": 1}, 
+                {"id": 4, "lemma": "東國正韻", "type": "SH", "position": 19, "weight": 1}, 
+                {"id": 5, "lemma": ")", "type": "SS", "position": 31, "weight": 1}, 
+                {"id": 6, "lemma": "은", "type": "JX", "position": 32, "weight": 0.0128817}, 
+                {"id": 7, "lemma": "1448", "type": "SN", "position": 36, "weight": 1}, 
+                {"id": 8, "lemma": "년", "type": "NNB", "position": 40, "weight": 0.414343}, 
+                {"id": 9, "lemma": "(", "type": "SS", "position": 43, "weight": 1}, 
+                {"id": 10, "lemma": "세종", "type": "NNP", "position": 44, "weight": 0.0672521}, 
+                {"id": 11, "lemma": "30", "type": "SN", "position": 51, "weight": 1}, 
+                {"id": 12, "lemma": "년", "type": "NNB", "position": 53, "weight": 0.414343}, 
+                {"id": 13, "lemma": ")", "type": "SS", "position": 56, "weight": 1}, 
+                {"id": 14, "lemma": "에", "type": "JKB", "position": 57, "weight": 0.048593}, 
+                {"id": 15, "lemma": "반포", "type": "NNG", "position": 61, "weight": 0.0619185}, 
+                {"id": 16, "lemma": "되", "type": "XSV", "position": 67, "weight": 0.000224177}, 
+                {"id": 17, "lemma": "ㄴ", "type": "ETM", "position": 67, "weight": 0.392321}, 
+                {"id": 18, "lemma": "한국", "type": "NNP", "position": 71, "weight": 0.0280282}, 
+                {"id": 19, "lemma": "최초", "type": "NNG", "position": 78, "weight": 0.9}, 
+                {"id": 20, "lemma": "의", "type": "JKG", "position": 84, "weight": 0.0694213}, 
+                {"id": 21, "lemma": "표준", "type": "NNG", "position": 88, "weight": 0.9}, 
+                {"id": 22, "lemma": "음", "type": "NNG", "position": 94, "weight": 0.0140056}, 
+                {"id": 23, "lemma": "에", "type": "JKB", "position": 97, "weight": 0.153364}, 
+                {"id": 24, "lemma": "관하", "type": "VV", "position": 101, "weight": 0.130437}, 
+                {"id": 25, "lemma": "ㄴ", "type": "ETM", "position": 104, "weight": 0.392321}, 
+                {"id": 26, "lemma": "책", "type": "NNG", "position": 108, "weight": 0.642125}, 
+                {"id": 27, "lemma": ",", "type": "SP", "position": 111, "weight": 1}, 
+                {"id": 28, "lemma": "운서", "type": "NNG", "position": 113, "weight": 0.9}, 
+                {"id": 29, "lemma": "(", "type": "SS", "position": 119, "weight": 1}, 
+                {"id": 30, "lemma": "韻書", "type": "SH", "position": 120, "weight": 1}, 
+                {"id": 31, "lemma": ")", "type": "SS", "position": 126, "weight": 1}, 
+                {"id": 32, "lemma": "이", "type": "VCP", "position": 127, "weight": 0.00747344}, 
+                {"id": 33, "lemma": "다", "type": "EF", "position": 130, "weight": 0.353579}, 
+                {"id": 34, "lemma": ".", "type": "SF", "position": 133, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "《", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "동국정운", "type": "NNP", "scode": "000000", "weight": 1, "position": 3, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "》", "type": "SS", "scode": "000000", "weight": 1, "position": 15, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 18, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "東國正韻", "type": "SH", "scode": "000000", "weight": 1, "position": 19, "begin": 4, "end": 4}, 
+                {"id": 5, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 31, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 32, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "1448", "type": "SN", "scode": "000000", "weight": 1, "position": 36, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 40, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 43, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "세종", "type": "NNP", "scode": "020000", "weight": 0.166667, "position": 44, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "30", "type": "SN", "scode": "000000", "weight": 1, "position": 51, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 53, "begin": 12, "end": 12}, 
+                {"id": 13, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 56, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 57, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "반포되", "type": "VV", "scode": "000000", "weight": 1, "position": 61, "begin": 15, "end": 16}, 
+                {"id": 16, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 67, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "한국", "type": "NNP", "scode": "050002", "weight": 0.142857, "position": 71, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "최초", "type": "NNG", "scode": "000000", "weight": 1, "position": 78, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 84, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "표준음", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 88, "begin": 21, "end": 22}, 
+                {"id": 21, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 97, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "관하", "type": "VV", "scode": "020000", "weight": 0.333333, "position": 101, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 104, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "책", "type": "NNG", "scode": "010002", "weight": 0.0714286, "position": 108, "begin": 26, "end": 26}, 
+                {"id": 25, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 111, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "운서", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 113, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 119, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "韻書", "type": "SH", "scode": "000000", "weight": 1, "position": 120, "begin": 30, "end": 30}, 
+                {"id": 29, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 126, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 127, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 130, "begin": 33, "end": 33}, 
+                {"id": 32, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 133, "begin": 34, "end": 34}
+            ], 
+            "word": [
+                {"id": 0, "text": "《동국정운》(東國正韻)은", "type": "", "begin": 0, "end": 6}, 
+                {"id": 1, "text": "1448년(세종", "type": "", "begin": 7, "end": 10}, 
+                {"id": 2, "text": "30년)에", "type": "", "begin": 11, "end": 14}, 
+                {"id": 3, "text": "반포된", "type": "", "begin": 15, "end": 17}, 
+                {"id": 4, "text": "한국", "type": "", "begin": 18, "end": 18}, 
+                {"id": 5, "text": "최초의", "type": "", "begin": 19, "end": 20}, 
+                {"id": 6, "text": "표준음에", "type": "", "begin": 21, "end": 23}, 
+                {"id": 7, "text": "관한", "type": "", "begin": 24, "end": 25}, 
+                {"id": 8, "text": "책,", "type": "", "begin": 26, "end": 27}, 
+                {"id": 9, "text": "운서(韻書)이다.", "type": "", "begin": 28, "end": 34}
+            ], 
+            "NE": [
+                {"id": 0, "text": "동국정운", "type": "AFW_DOCUMENT", "begin": 1, "end": 1, "weight": 0.910316, "common_noun": 0}, 
+                {"id": 1, "text": "東國正韻", "type": "AFW_DOCUMENT", "begin": 4, "end": 4, "weight": 0.0124609, "common_noun": 0}, 
+                {"id": 2, "text": "1448년", "type": "DT_YEAR", "begin": 7, "end": 8, "weight": 0.627203, "common_noun": 0}, 
+                {"id": 3, "text": "세종 30년", "type": "DT_DYNASTY", "begin": 10, "end": 12, "weight": 0.649614, "common_noun": 0}, 
+                {"id": 4, "text": "한국", "type": "LCP_COUNTRY", "begin": 18, "end": 18, "weight": 0.593192, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "《동국정운》(東國正韻)은", "head": 9, "label": "NP_SBJ", "mod": [], "weight": 0.839704}, 
+                {"id": 1, "text": "1448년(세종", "head": 2, "label": "NP", "mod": [], "weight": 0.684996}, 
+                {"id": 2, "text": "30년)에", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.802266}, 
+                {"id": 3, "text": "반포된", "head": 8, "label": "VP_MOD", "mod": [2], "weight": 0.81911}, 
+                {"id": 4, "text": "한국", "head": 5, "label": "NP", "mod": [], "weight": 0.529369}, 
+                {"id": 5, "text": "최초의", "head": 6, "label": "NP_MOD", "mod": [4], "weight": 0.29932}, 
+                {"id": 6, "text": "표준음에", "head": 7, "label": "NP_AJT", "mod": [5], "weight": 0.631131}, 
+                {"id": 7, "text": "관한", "head": 8, "label": "VP_MOD", "mod": [6], "weight": 0.123607}, 
+                {"id": 8, "text": "책,", "head": 9, "label": "NP_CNJ", "mod": [7, 3], "weight": 0.290408}, 
+                {"id": 9, "text": "운서(韻書)이다.", "head": -1, "label": "VNP", "mod": [0, 8], "weight": 0.000698089}
+            ], 
+            "SRL": [
+                {"verb": "반포", "sense": 1, "word_id": 3, "weight": 0.184853, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 2, "text": "30년)에", "weight": 0.184853}, 
+                    {"type": "ARG1", "word_id": 8, "text": "책,", "weight": 1}
+                ]}, 
+                {"verb": "관하", "sense": 1, "word_id": 7, "weight": 0.131761, "argument": [
+                    {"type": "ARG2", "word_id": 6, "text": "표준음에", "weight": 0.118385}, 
+                    {"type": "ARG1", "word_id": 8, "text": "책,", "weight": 0.145137}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "AF_WORKS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "《동국정운》(東國正韻)은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "《동국정운》(東國正韻)은"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 9, "ne_id": -1, "text": "1448년(세종 30년)에 반포된 한국 최초의 표준음에 관한 책, 운서(韻書)이다.", "start_eid_short": 8, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 1, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 3, "text": "1448년(세종 30년)에", "start_eid_short": 1, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 4, "end_eid": 5, "ne_id": -1, "text": "한국 최초의", "start_eid_short": 4, "end_eid_short": 5, "text_short": "한국 최초의"}
+        ]}, 
+        {"id": 3, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": 4, "text": "한국", "start_eid_short": 4, "end_eid_short": 4, "text_short": "한국"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 6, "ne_id": -1, "text": "1448년(세종 30년)에 반포된 한국 최초의 표준음에", "start_eid_short": 4, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "책,", "start_eid_short": 8, "end_eid_short": 8, "text_short": "책,"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 9, "end_eid": 9, "ne_id": -1, "text": "운서(韻書)이다.", "start_eid_short": 9, "end_eid_short": 0, "text_short": ""}
+        ]}
+    ]
+}

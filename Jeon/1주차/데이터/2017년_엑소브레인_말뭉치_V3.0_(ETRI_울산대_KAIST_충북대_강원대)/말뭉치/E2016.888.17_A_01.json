@@ -1,0 +1,78 @@
+{
+    "doc_id": "E2016.888.17_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "박빙여림", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "살얼음을 밟는 것처럼 위태로움.", 
+            "morp": [
+                {"id": 0, "lemma": "살", "type": "XPN", "position": 0, "weight": 0}, 
+                {"id": 1, "lemma": "얼음", "type": "NNG", "position": 3, "weight": 0.9}, 
+                {"id": 2, "lemma": "을", "type": "JKO", "position": 9, "weight": 0.129611}, 
+                {"id": 3, "lemma": "밟", "type": "VV", "position": 13, "weight": 0.9}, 
+                {"id": 4, "lemma": "는", "type": "ETM", "position": 16, "weight": 0.184941}, 
+                {"id": 5, "lemma": "것", "type": "NNB", "position": 20, "weight": 0.228788}, 
+                {"id": 6, "lemma": "처럼", "type": "JKB", "position": 23, "weight": 0.9}, 
+                {"id": 7, "lemma": "위태롭", "type": "VA", "position": 30, "weight": 0.9}, 
+                {"id": 8, "lemma": "ㅁ", "type": "ETN", "position": 36, "weight": 0.0224989}, 
+                {"id": 9, "lemma": ".", "type": "SF", "position": 42, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "살얼음", "type": "NNG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 9, "begin": 2, "end": 2}, 
+                {"id": 2, "text": "밟", "type": "VV", "scode": "000001", "weight": 0.142857, "position": 13, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 16, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 20, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "처럼", "type": "JKB", "scode": "000000", "weight": 1, "position": 23, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "위태롭", "type": "VA", "scode": "000000", "weight": 1, "position": 30, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "ㅁ", "type": "ETN", "scode": "000000", "weight": 1, "position": 36, "begin": 8, "end": 8}, 
+                {"id": 8, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 42, "begin": 9, "end": 9}
+            ], 
+            "word": [
+                {"id": 0, "text": "살얼음을", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "밟는", "type": "", "begin": 3, "end": 4}, 
+                {"id": 2, "text": "것처럼", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "위태로움.", "type": "", "begin": 7, "end": 9}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "살얼음을", "head": 1, "label": "NP_OBJ", "mod": [], "weight": 0.731714}, 
+                {"id": 1, "text": "밟는", "head": 2, "label": "VP_MOD", "mod": [0], "weight": 0.870197}, 
+                {"id": 2, "text": "것처럼", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.709127}, 
+                {"id": 3, "text": "위태로움.", "head": -1, "label": "VP", "mod": [2], "weight": 0.376122}
+            ], 
+            "SRL": [
+                {"verb": "밟", "sense": 1, "word_id": 1, "weight": 0.216873, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "살얼음을", "weight": 0.216873}
+                ]}, 
+                {"verb": "위태롭", "sense": 1, "word_id": 3, "weight": 0.0791907, "argument": [
+                    {"type": "ARGM-PRD", "word_id": 2, "text": "것처럼", "weight": 0.0791907}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "살얼음을 밟는 것처럼", "start_eid_short": 2, "end_eid_short": 2, "text_short": "것처럼"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "살얼음을", "start_eid_short": 0, "end_eid_short": 0, "text_short": "살얼음을"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "살얼음을 밟는 것처럼 위태로움.", "start_eid_short": 3, "end_eid_short": 3, "text_short": "위태로움."}
+        ]}
+    ]
+}

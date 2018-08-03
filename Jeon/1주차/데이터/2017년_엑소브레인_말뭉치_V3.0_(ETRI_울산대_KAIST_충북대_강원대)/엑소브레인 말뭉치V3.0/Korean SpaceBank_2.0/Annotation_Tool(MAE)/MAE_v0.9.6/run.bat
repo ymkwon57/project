@@ -1,0 +1,1 @@
+java -jar mae_v0.9.6.jar

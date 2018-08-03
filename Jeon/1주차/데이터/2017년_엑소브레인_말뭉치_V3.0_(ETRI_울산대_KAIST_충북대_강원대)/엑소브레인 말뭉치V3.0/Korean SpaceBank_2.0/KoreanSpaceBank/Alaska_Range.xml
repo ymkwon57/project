@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+알래스카 산맥(Alaska Range)은 퍼시픽코스트 산맥의 일부이다. 미국 알래스카 주(州) 중남부에서 태평양 연안과 거의 나란히 뻗은 산맥이다. 알류샨 산맥에서 미국 알래스카 주 남부에 있는 유콘 준주 경계에 이르기까지 대개 북쪽과 동쪽으로 640km가량 뻗어 있다. 가파른 산이 많고, 환태평양 화산대 의 일부를 이룬다.
+데날리 국립공원에 속한 매킨리 산(6,194m)이 최고봉이다. 알래스카(Alaska) 데날리 국립공원(Denali National Park)은 알래스카 산맥(Alaska Range) 미국 알래스카 내륙에 위치해 있으며, 북아메리카에서 가장 높은 산인 매킨리산(McKinley Mt.또는 데날리산(Denali Mt.))을 포함하고 있다. 신비를 간직하고 있는 '드날리 국립공원' 은 인디안말로 '신성함'을 의미한다. 해발 6200미터로 북미 최고봉이자 알래스카를 동서로 가로지르는 알래스카 산맥의 주 봉우리인 그곳에 오르기 위해 한 해에도 1000여 명에 이르는 등반가가 그곳을 찾는다.
+알래스카주는 지세적(地勢的)으로는 북변(北邊)에 브룩스 산맥이 동서로 뻗어 있고, 태평양쪽으로는 알래스카산맥이 부채 모양으로 펼쳐져 있다. 이 두 산맥 사이를 거의 병행하며 유콘강이 알래스카 중앙부를 가로질러 흐른다. 알래스카남부는 바다에 접해 있기 때문에, 바다에서 불어오는 습한 바람이 알래스카 산맥에 부딪혀 많은 비와 눈을 내리게 한다. 알래스카는 미답사의 황야, 빙하, 화산, 거대한 산맥(북미 대륙의 최고봉 매킨리산 /2만 320피트/이 있음)등 여러 가지의 신비적인 자연이 가득하다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="41" end="43" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="44" end="50" text="알래스카 주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="93" end="95" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="96" end="102" text="알래스카 주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="110" end="115" text="유콘 준주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="157" end="158" text="산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="184" end="192" text="데날리 국립공원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="197" end="202" text="매킨리 산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me1" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="212" end="215" text="최고봉" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="219" end="223" text="알래스카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="232" end="240" text="데날리 국립공원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="286" end="288" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="307" end="312" text="북아메리카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="321" end="322" text="산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="높은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="324" end="328" text="매킨리산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="344" end="348" text="데날리산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="385" end="393" text="드날리 국립공원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="427" end="429" text="북미" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="430" end="433" text="최고봉" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me2" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="436" end="440" text="알래스카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="463" end="466" text="봉우리" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="468" end="470" text="그곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="503" end="505" text="그곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="512" end="517" text="알래스카주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="614" end="618" text="알래스카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="657" end="659" text="바다" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="704" end="708" text="알래스카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="741" end="744" text="최고봉" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="745" end="749" text="매킨리산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="35" end="37" text="일부" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="175" end="177" text="일부" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="715" end="717" text="황야" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="723" end="725" text="화산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="558" end="561" text="태평양" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="-1" end="-1" text="" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="84" />
+<PLACE id="pl28" start="634" end="640" text="알래스카남부" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="719" end="721" text="빙하" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="60" end="66" text="태평양 연안" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="289" end="296" text="알래스카 내륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="-1" end="-1" text="" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="84" />
+<PLACE id="pl46" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="590" />
+<PLACE id="pl47" start="642" end="644" text="바다" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl48" start="734" end="739" text="북미 대륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="41" />
+<PATH id="p0" start="1" end="8" text="알래스카 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="24" end="33" text="퍼시픽코스트 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p4" start="78" end="80" text="산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p5" start="84" end="90" text="알류샨 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p6" start="116" end="118" text="경계" beginID="" endID="" midIDs="" type="BOUNDARY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p7" start="164" end="172" text="환태평양 화산대" beginID="" endID="" midIDs="" type="LANE" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p8" start="264" end="271" text="알래스카 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p9" start="452" end="459" text="알래스카 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p10" start="539" end="545" text="브룩스 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p11" start="566" end="572" text="알래스카산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p12" start="594" end="596" text="산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p15" start="674" end="681" text="알래스카 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p16" start="731" end="733" text="산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="me3" mod="거대한" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p17" start="-1" end="-1" text="" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="590" />
+<SPATIAL_ENTITY id="se0" start="498" end="501" text="등반가" type="PERSON" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="670" end="672" text="바람" type="DYNAMIC_EVENT" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="609" end="612" text="유콘강" type="DYNAMIC_EVENT" dimensionality="LINE" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="690" end="691" text="비" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="693" end="694" text="눈" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="472" end="474" text="오르" domain="" latLong="" elevation="" motion_type="PATH" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="507" end="508" text="찾" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="629" end="631" text="흐른" domain="" latLong="" elevation="" motion_type="PATH" motion_class="FOLLOW" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="662" end="665" text="불어오" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="683" end="686" text="부딪혀" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m5" start="696" end="699" text="내리게" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s2" start="129" end="131" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="133" end="135" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="296" end="297" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="312" end="314" text="에서" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="531" end="533" text="북변" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="646" end="648" text="접해" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="363" end="366" text="포함하" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s15" start="192" end="193" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="561" end="562" text="쪽" cluster="" semantic_type="DIRECTIONAL" comment="태평양쪽" />
+<SPATIAL_SIGNAL id="s8" start="103" end="105" text="남부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="173" end="174" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="597" end="599" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="619" end="622" text="중앙부" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s13" start="33" end="34" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s14" start="459" end="460" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="54" end="57" text="중남부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s16" start="739" end="740" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="659" end="661" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="470" end="471" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="505" end="506" text="을" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="622" end="623" text="를" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="681" end="682" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms5" start="694" end="695" text="을" motion_signal_type="" comment="" />
+<MEASURE id="me1" start="203" end="209" text="6,194m" value="6194" unit="m" comment="" />
+<MEASURE id="me2" start="419" end="425" text="6200미터" value="6200" unit="m" comment="" />
+<MEASURE id="me3" start="751" end="759" text="2만 320피트" value="20320" unit="ft" comment="" />
+<MEASURE id="me0" start="138" end="143" text="640km" value="640" unit="km" comment="" />
+<SENTENCE id="sent0" start="1" end="40" text="알래스카 산맥(Alaska Range)은 퍼시픽코스트 산맥의 일부이다." comment="" />
+<SENTENCE id="sent1" start="41" end="83" text="미국 알래스카 주(州) 중남부에서 태평양 연안과 거의 나란히 뻗은 산맥이다." comment="" />
+<SENTENCE id="sent2" start="84" end="152" text="알류샨 산맥에서 미국 알래스카 주 남부에 있는 유콘 준주 경계에 이르기까지 대개 북쪽과 동쪽으로 640km가량 뻗어 있다." comment="" />
+<SENTENCE id="sent3" start="153" end="183" text="가파른 산이 많고, 환태평양 화산대 의 일부를 이룬다." comment="" />
+<SENTENCE id="sent4" start="184" end="218" text="데날리 국립공원에 속한 매킨리 산(6,194m)이 최고봉이다." comment="" />
+<SENTENCE id="sent5" start="219" end="371" text="알래스카(Alaska) 데날리 국립공원(Denali National Park)은 알래스카 산맥(Alaska Range) 미국 알래스카 내륙에 위치해 있으며, 북아메리카에서 가장 높은 산인 매킨리산(McKinley Mt.또는 데날리산(Denali Mt.))을 포함하고 있다." comment="" />
+<SENTENCE id="sent6" start="372" end="415" text="신비를 간직하고 있는 '드날리 국립공원' 은 인디안말로 '신성함'을 의미한다." comment="" />
+<SENTENCE id="sent7" start="416" end="511" text="해발 6200미터로 북미 최고봉이자 알래스카를 동서로 가로지르는 알래스카 산맥의 주 봉우리인 그곳에 오르기 위해 한 해에도 1000여 명에 이르는 등반가가 그곳을 찾는다." comment="" />
+<SENTENCE id="sent8" start="512" end="589" text="알래스카주는 지세적(地勢的)으로는 북변(北邊)에 브룩스 산맥이 동서로 뻗어 있고, 태평양쪽으로는 알래스카산맥이 부채 모양으로 펼쳐져 있다." comment="" />
+<SENTENCE id="sent9" start="590" end="633" text="이 두 산맥 사이를 거의 병행하며 유콘강이 알래스카 중앙부를 가로질러 흐른다." comment="" />
+<SENTENCE id="sent10" start="634" end="703" text="알래스카남부는 바다에 접해 있기 때문에, 바다에서 불어오는 습한 바람이 알래스카 산맥에 부딪혀 많은 비와 눈을 내리게 한다." comment="" />
+<SENTENCE id="sent11" start="704" end="788" text="알래스카는 미답사의 황야, 빙하, 화산, 거대한 산맥(북미 대륙의 최고봉 매킨리산 /2만 320피트/이 있음)등 여러 가지의 신비적인 자연이 가득하다." comment="" />
+<QSLINK id="qsl0" fromID="pl2" fromText="일부" toID="p1" toText="퍼시픽코스트 산맥" relType="IN" trajector="pl2" landmark="p1" trigger="s13" comment="" />
+<QSLINK id="qsl7" fromID="pl37" fromText="일부" toID="p7" toText="환태평양 화산대" relType="IN" trajector="pl37" landmark="p7" trigger="s7" comment="" />
+<QSLINK id="qsl8" fromID="pl8" fromText="매킨리 산" toID="pl7" toText="데날리 국립공원" relType="NTPP" trajector="pl8" landmark="pl7" trigger="s15" comment="" />
+<QSLINK id="qsl10" fromID="pl11" fromText="데날리 국립공원" toID="pl42" toText="알래스카 내륙" relType="NTPP" trajector="pl11" landmark="pl42" trigger="s4" comment="" />
+<QSLINK id="qsl13" fromID="pl16" fromText="산" toID="pl15" toText="북아메리카" relType="NTPP" trajector="pl16" landmark="pl15" trigger="s5" comment="" />
+<QSLINK id="qsl16" fromID="pl17" fromText="매킨리산" toID="pl11" toText="데날리 국립공원" relType="IN" trajector="pl17" landmark="pl11" trigger="s11" comment="" />
+<QSLINK id="qsl17" fromID="pl18" fromText="데날리산" toID="pl11" toText="데날리 국립공원" relType="IN" trajector="pl18" landmark="pl11" trigger="s11" comment="" />
+<QSLINK id="qsl18" fromID="pl23" fromText="봉우리" toID="p9" toText="알래스카 산맥" relType="NTPP" trajector="pl23" landmark="p9" trigger="s14" comment="" />
+<QSLINK id="qsl20" fromID="se1" fromText="유콘강" toID="p12" toText="산맥" relType="NTPP" trajector="se1" landmark="p12" trigger="s9" comment="" />
+<QSLINK id="qsl21" fromID="pl27" fromText="알래스카" toID="s12" toText="중앙부" relType="NTPP" trajector="pl46" landmark="pl27" trigger="s12" comment="" />
+<QSLINK id="qsl22" fromID="pl28" fromText="알래스카남부" toID="pl47" toText="바다" relType="EC" trajector="pl28" landmark="pl47" trigger="s10" comment="" />
+<QSLINK id="qsl1" fromID="pl35" fromText="최고봉" toID="pl48" toText="북미 대륙" relType="NTPP" trajector="pl35" landmark="pl48" trigger="s16" comment="" />
+<OLINK id="ol6" fromID="p6" fromText="경계" toID="pl4" toText="알래스카 주" relType="남" trajector="p6" landmark="pl4" trigger="s8" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol8" fromID="p6" fromText="경계" toID="s2" toText="북쪽" relType="북" trajector="pl43" landmark="p6" trigger="s2" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol9" fromID="p6" fromText="경계" toID="s3" toText="동쪽" relType="동" trajector="pl44" landmark="p6" trigger="s3" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol11" fromID="p10" fromText="브룩스 산맥" toID="pl26" toText="알래스카주" relType="북" trajector="p10" landmark="pl26" trigger="s6" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol12" fromID="p11" fromText="알래스카산맥" toID="pl32" toText="태평양" relType="pl32" trajector="p11" landmark="pl32" trigger="s1" frame_type="RELATIVE" referencePt="pl32" projective="FALSE" comment="" />
+<OLINK id="ol0" fromID="pl13" fromText="" toID="s0" toText="중남부" relType="중남" trajector="pl13" landmark="pl1" trigger="s0" frame_type="ABSOLUTE" referencePt="중남" projective="FALSE" comment="" />
+<MOVELINK id="mvl2" fromID="m0" fromText="오르" toID="pl24" toText="그곳" trigger="m0" source="" goal="pl24" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl3" fromID="pl25" fromText="그곳" toID="se0" toText="등반가" trigger="m1" source="" goal="pl25" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl4" fromID="se1" fromText="유콘강" toID="m3" toText="흐른" trigger="m3" source="" goal="" midPoint="" mover="se1" landmark="pl46" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl6" fromID="p15" fromText="알래스카 산맥" toID="pl29" toText="바다" trigger="m2" source="pl29" goal="" midPoint="" mover="se2" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl7" fromID="p15" fromText="알래스카 산맥" toID="se2" toText="바람" trigger="m4" source="" goal="p15" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="ms4" comment="" />
+<MOVELINK id="mvl8" fromID="se3" fromText="비" toID="m5" toText="내리게" trigger="m5" source="" goal="" midPoint="" mover="se3" landmark="p15" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms4, ms5" comment="" />
+<MOVELINK id="mvl9" fromID="se4" fromText="눈" toID="m5" toText="내리게" trigger="m5" source="" goal="" midPoint="" mover="se4" landmark="p15" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms4, ms5" comment="" />
+<MEASURELINK id="ml1" fromID="pl44" fromText="알류샨 산맥에서 미국 알래스카 주 남부에 있는 유콘 준주 경계에 이르기까지 대개 북쪽과 동쪽으로 640km가량 뻗어 있다." toID="pl43" toText="알류샨 산맥에서 미국 알래스카 주 남부에 있는 유콘 준주 경계에 이르기까지 대개 북쪽과 동쪽으로 640km가량 뻗어 있다." trajector="pl44" landmark="pl43" relType="LENGTH" val="me0" endPoint1="pl44" endPoint2="pl43" comment="" />
+<MEASURELINK id="ml2" fromID="pl8" fromText="매킨리 산" toID="me1" toText="6,194m" trajector="pl8" landmark="pl8" relType="HEIGHT" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="me2" fromText="6200미터" toID="pl21" toText="최고봉" trajector="pl21" landmark="pl21" relType="HEIGHT" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml4" fromID="pl36" fromText="매킨리산" toID="me3" toText="2만 320피트" trajector="pl36" landmark="pl36" relType="HEIGHT" val="me3" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

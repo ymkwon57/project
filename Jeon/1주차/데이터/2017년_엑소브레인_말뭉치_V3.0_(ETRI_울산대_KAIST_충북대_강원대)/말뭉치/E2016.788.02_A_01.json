@@ -1,0 +1,70 @@
+{
+    "doc_id": "E2016.788.02_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "해리", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "해리(海里)는 길이의 단위이다.", 
+            "morp": [
+                {"id": 0, "lemma": "해리", "type": "NNG", "position": 0, "weight": 0.050994}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 6, "weight": 1}, 
+                {"id": 2, "lemma": "海里", "type": "SH", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": ")", "type": "SS", "position": 13, "weight": 1}, 
+                {"id": 4, "lemma": "는", "type": "JX", "position": 14, "weight": 0.00823314}, 
+                {"id": 5, "lemma": "길이", "type": "NNG", "position": 18, "weight": 0.320992}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 24, "weight": 0.0694213}, 
+                {"id": 7, "lemma": "단위", "type": "NNG", "position": 28, "weight": 0.9}, 
+                {"id": 8, "lemma": "이", "type": "VCP", "position": 34, "weight": 0.0177525}, 
+                {"id": 9, "lemma": "다", "type": "EF", "position": 37, "weight": 0.353579}, 
+                {"id": 10, "lemma": ".", "type": "SF", "position": 40, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "해리", "type": "NNG", "scode": "010000", "weight": 0.2, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "海里", "type": "SH", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 13, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 14, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "길이", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 18, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 24, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "단위", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 28, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 34, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 37, "begin": 9, "end": 9}, 
+                {"id": 10, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 40, "begin": 10, "end": 10}
+            ], 
+            "word": [
+                {"id": 0, "text": "해리(海里)는", "type": "", "begin": 0, "end": 4}, 
+                {"id": 1, "text": "길이의", "type": "", "begin": 5, "end": 6}, 
+                {"id": 2, "text": "단위이다.", "type": "", "begin": 7, "end": 10}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "해리(海里)는", "head": 2, "label": "NP_SBJ", "mod": [], "weight": 0.690489}, 
+                {"id": 1, "text": "길이의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.782268}, 
+                {"id": 2, "text": "단위이다.", "head": -1, "label": "VNP", "mod": [0, 1], "weight": 0.462029}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "해리(海里)는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "해리(海里)는"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "길이의 단위이다.", "start_eid_short": 2, "end_eid_short": 2, "text_short": "단위이다."}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "길이의", "start_eid_short": 1, "end_eid_short": 1, "text_short": "길이의"}
+        ]}
+    ]
+}

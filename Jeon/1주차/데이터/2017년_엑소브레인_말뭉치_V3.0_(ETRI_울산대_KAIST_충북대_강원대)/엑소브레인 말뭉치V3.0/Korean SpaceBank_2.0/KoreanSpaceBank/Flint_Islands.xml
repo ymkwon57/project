@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+플린트섬은 라인 제도의 섬이다.
+라인 제도는 몰덴·스타버크 제도로 이루어진 중부 제도와 보스톡 제도, 플린트 제도, 캐롤라인 환초로 이루어진 남부 라인 제도는 처음부터 키리바시 공화국의 일부였다.
+수몰 위기의 나라 키리바시는 서쪽의 오션섬(길버트)에서 동쪽의 키리티마티섬(북라인)까지 동서 3870㎞, 북쪽의 워싱턴섬(북라인)에서 남쪽의 플린트섬(남라인)까지는 남북 2050㎞, 면적으로는 500만㎢의 해역에 이른다 그 가운데 육지 면적은 726㎢에 지나지 않는다.
+소설 보물섬에서 전설적인 해적 플린트가 숨겨놓은 보물이 있는 섬을 가리키는 지도를 알게 된 트릴로니는 바로 보물섬으로 떠날 채비를 갖추게 되고, 짐 역시 이 흥분되는 모험에 동참하게 된다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="플린트섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="7" end="12" text="라인 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="14" end="15" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="19" end="24" text="라인 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="26" end="28" text="몰덴" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="29" end="36" text="스타버크 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="58" end="64" text="플린트 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="50" end="56" text="보스톡 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="43" end="48" text="중부 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="118" end="120" text="나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="121" end="125" text="키리바시" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="131" end="134" text="오션섬" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="135" end="138" text="길버트" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="146" end="152" text="키리티마티섬" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="153" end="156" text="북라인" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="174" end="178" text="워싱턴섬" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="179" end="182" text="북라인" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="190" end="194" text="플린트섬" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="195" end="198" text="남라인" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="226" end="228" text="해역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="240" end="242" text="육지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="296" end="297" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="322" end="325" text="보물섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="66" end="73" text="캐롤라인 환초" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="105" end="107" text="일부" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="80" end="88" text="남부 라인 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="95" end="103" text="키리바시 공화국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="313" end="317" text="트릴로니" type="PERSON" dimensionality="POINT" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="328" end="330" text="떠날" domain="" latLong="" elevation="" motion_type="" motion_class="" motion_sense="" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s3" start="127" end="129" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="142" end="144" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="170" end="172" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="186" end="188" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="12" end="13" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="103" end="104" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="325" end="327" text="으로" motion_signal_type="" comment="" />
+<MEASURE id="me0" start="163" end="168" text="3870㎞" value="3870" unit="km" comment="" />
+<MEASURE id="me1" start="206" end="211" text="2050㎞" value="2050" unit="km" comment="" />
+<MEASURE id="me2" start="219" end="224" text="500만㎢" value="5000000" unit="km2" comment="" />
+<MEASURE id="me3" start="247" end="251" text="726㎢" value="726" unit="km2" comment="" />
+<SENTENCE id="sent0" start="1" end="18" text="플린트섬은 라인 제도의 섬이다." comment="" />
+<SENTENCE id="sent1" start="19" end="110" text="라인 제도는 몰덴·스타버크 제도로 이루어진 중부 제도와 보스톡 제도, 플린트 제도, 캐롤라인 환초로 이루어진 남부 라인 제도는 처음부터 키리바시 공화국의 일부였다." comment="" />
+<SENTENCE id="sent2" start="111" end="233" text="수몰 위기의 나라 키리바시는 서쪽의 오션섬(길버트)에서 동쪽의 키리티마티섬(북라인)까지 동서 3870㎞, 북쪽의 워싱턴섬(북라인)에서 남쪽의 플린트섬(남라인)까지는 남북 2050㎞, 면적으로는 500만㎢의 해역에 이른다" comment="" />
+<SENTENCE id="sent3" start="234" end="261" text="그 가운데 육지 면적은 726㎢에 지나지 않는다." comment="" />
+<SENTENCE id="sent4" start="262" end="367" text="소설 보물섬에서 전설적인 해적 플린트가 숨겨놓은 보물이 있는 섬을 가리키는 지도를 알게 된 트릴로니는 바로 보물섬으로 떠날 채비를 갖추게 되고, 짐 역시 이 흥분되는 모험에 동참하게 된다." comment="" />
+<QSLINK id="qsl0" fromID="pl2" fromText="섬" toID="pl1" toText="라인 제도" relType="NTPP" trajector="pl2" landmark="pl1" trigger="s0" comment="" />
+<QSLINK id="qsl2" fromID="pl28" fromText="일부" toID="pl12" toText="키리바시 공화국" relType="NTPP" trajector="pl28" landmark="pl12" trigger="s1" comment="" />
+<OLINK id="ol0" fromID="pl15" fromText="키리바시" toID="pl16" toText="오션섬" relType="서" trajector="pl15" landmark="pl16" trigger="s3" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl15" fromText="키리바시" toID="pl18" toText="키리티마티섬" relType="동" trajector="pl15" landmark="pl18" trigger="s4" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl15" fromText="키리바시" toID="pl20" toText="워싱턴섬" relType="북" trajector="pl15" landmark="pl20" trigger="s5" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl15" fromText="키리바시" toID="pl22" toText="플린트섬" relType="남" trajector="pl15" landmark="pl22" trigger="s6" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="pl17" fromText="길버트" toID="pl15" toText="키리바시" relType="서" trajector="pl17" landmark="pl15" trigger="s3" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol16" fromID="pl16" fromText="오션섬" toID="pl15" toText="키리바시" relType="서" trajector="pl16" landmark="pl15" trigger="s3" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol17" fromID="pl18" fromText="키리티마티섬" toID="pl15" toText="키리바시" relType="동" trajector="pl18" landmark="pl15" trigger="s4" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol18" fromID="pl20" fromText="워싱턴섬" toID="pl15" toText="키리바시" relType="북" trajector="pl20" landmark="pl15" trigger="s5" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol19" fromID="pl22" fromText="플린트섬" toID="pl15" toText="키리바시" relType="남" trajector="pl22" landmark="pl15" trigger="s6" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<MOVELINK id="mvl1" fromID="se0" fromText="트릴로니" toID="m0" toText="떠날" trigger="m0" source="" goal="pl26" midPoint="" mover="se0" landmark="" goal_reached="NO" pathID="" motion_signalID="ms0" comment="" />
+<MEASURELINK id="ml0" fromID="pl15" fromText="키리바시" toID="me0" toText="3870㎞" trajector="pl15" landmark="pl15" relType="LENGTH" val="me0" endPoint1="pl16" endPoint2="pl18" comment="" />
+<MEASURELINK id="ml1" fromID="pl15" fromText="키리바시" toID="me1" toText="2050㎞" trajector="pl15" landmark="pl15" relType="LENGTH" val="me1" endPoint1="pl20" endPoint2="pl22" comment="" />
+<MEASURELINK id="ml2" fromID="pl15" fromText="키리바시" toID="me2" toText="500만㎢" trajector="pl15" landmark="pl15" relType="GENERAL_DIMENSION" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="pl25" fromText="육지" toID="me3" toText="726㎢" trajector="pl25" landmark="pl25" relType="GENERAL_DIMENSION" val="me3" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+트루크(Truk Islands)섬 또는 추크 제도(Chuuk Islands)는 태평양 남서쪽에 있는 섬의 무리이며, 미국령 미크로네시아의 수도이다. 야프 섬과 트루크 제도에 속하는 6개 섬의 높이는 150m 이상이며, 코스라이에·포나페 섬은 600m 이상의 봉우리를 가지고 있다. 야프 제도, 코스라이에 섬, 폰페이 섬 과 함께 미크로네시아 연방을 이룬다.
+나우루는 제2차 세계 대전 중에는 한동안 일본군에게 점령되었으며, 주민은 트루크섬으로 강제 이주되기도 하였다. 큰 비행장을 만드는 게 힘들다는 것과 주변에 전지기지를 둘 섬이 없다는 정도였다. 트루크 제도는 연합함대의 기항지로써 1944년 초반까지 일본에게 가장 중요한 전략적 거점 중 하나였다.
+트루크 섬은 개전 이래 연합 함대의 전진 근거지로서 중요한 역할을 해왔다. 제2차 세계대전 후로는 다시 앞의 3개국에 의한 국제연합 공동 신탁 통치령이 되었다.
+제도에 산이 많아서 현지인들이 '산이 많다'는 뜻인 '추크'라고 불렸는데, 이후 독일인들이 이를 트루크(truk)라 옮긴 지명이 현재까지 사용되고 있다. 에위니아란 이름은 미크로네시아 연방에서 제출한 이름으로 추크 제도에서 전해져 내려오는 폭풍의 신의 이름이다.
+1944년 2월, 미군은 마셜 제도를 점령하면서 추크 제도(Chuuk Islands)에 대규모 공습을 실시했다. 1944년 2월에 마셜 제도 및 추크 제도에 맹공격을 가하고, 6월 15일에는 사이판섬에 상륙했다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl2" start="23" end="28" text="추크 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="45" end="48" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="57" end="58" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="66" end="69" text="미국령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="70" end="76" text="미크로네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="78" end="80" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="84" end="88" text="야프 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="90" end="96" text="트루크 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="105" end="106" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="123" end="128" text="코스라이에" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="129" end="134" text="포나페 섬" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="145" end="148" text="봉우리" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me1" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="158" end="163" text="야프 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="165" end="172" text="코스라이에 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="174" end="179" text="폰페이 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="201" end="204" text="나우루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="242" end="246" text="트루크섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="309" end="315" text="트루크 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="323" end="326" text="기항지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="356" end="358" text="거점" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="367" end="372" text="트루크 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="390" end="393" text="근거지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="457" end="459" text="제도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="461" end="462" text="산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="475" end="476" text="산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="487" end="489" text="추크" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="511" end="514" text="트루크" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="574" end="579" text="추크 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="618" end="623" text="마셜 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="631" end="636" text="추크 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="677" end="682" text="마셜 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="685" end="690" text="추크 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="711" end="715" text="사이판섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="60" end="62" text="무리" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="361" end="363" text="하나" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="263" />
+<PLACE id="pl0" start="1" end="4" text="트루크" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="553" end="562" text="미크로네시아 연방" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="185" end="194" text="미크로네시아 연방" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="18" end="19" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="296" end="297" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="238" end="240" text="주민" type="PERSON" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="-1" end="-1" text="" type="PERSON" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="667" />
+<MOTION id="m0" start="252" end="255" text="이주되" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="717" end="720" text="상륙했" domain="" latLong="" elevation="" motion_type="PATH" motion_class="DEVIATE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="49" end="52" text="남서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="459" end="460" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="98" end="100" text="속하" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="76" end="77" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="246" end="248" text="으로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="715" end="716" text="에" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="112" end="116" text="150m" value="150" unit="m" comment="" />
+<MEASURE id="me1" start="136" end="140" text="600m" value="600" unit="m" comment="" />
+<SENTENCE id="sent0" start="1" end="83" text="트루크(Truk Islands)섬 또는 추크 제도(Chuuk Islands)는 태평양 남서쪽에 있는 섬의 무리이며, 미국령 미크로네시아의 수도이다." comment="" />
+<SENTENCE id="sent1" start="84" end="157" text="야프 섬과 트루크 제도에 속하는 6개 섬의 높이는 150m 이상이며, 코스라이에·포나페 섬은 600m 이상의 봉우리를 가지고 있다." comment="" />
+<SENTENCE id="sent2" start="158" end="200" text="야프 제도, 코스라이에 섬, 폰페이 섬 과 함께 미크로네시아 연방을 이룬다." comment="" />
+<SENTENCE id="sent3" start="201" end="262" text="나우루는 제2차 세계 대전 중에는 한동안 일본군에게 점령되었으며, 주민은 트루크섬으로 강제 이주되기도 하였다." comment="" />
+<SENTENCE id="sent4" start="263" end="308" text="큰 비행장을 만드는 게 힘들다는 것과 주변에 전지기지를 둘 섬이 없다는 정도였다." comment="" />
+<SENTENCE id="sent5" start="309" end="366" text="트루크 제도는 연합함대의 기항지로써 1944년 초반까지 일본에게 가장 중요한 전략적 거점 중 하나였다." comment="" />
+<SENTENCE id="sent6" start="367" end="408" text="트루크 섬은 개전 이래 연합 함대의 전진 근거지로서 중요한 역할을 해왔다." comment="" />
+<SENTENCE id="sent7" start="409" end="456" text="제2차 세계대전 후로는 다시 앞의 3개국에 의한 국제연합 공동 신탁 통치령이 되었다." comment="" />
+<SENTENCE id="sent8" start="457" end="542" text="제도에 산이 많아서 현지인들이 '산이 많다'는 뜻인 '추크'라고 불렸는데, 이후 독일인들이 이를 트루크(truk)라 옮긴 지명이 현재까지 사용되고 있다." comment="" />
+<SENTENCE id="sent9" start="543" end="603" text="에위니아란 이름은 미크로네시아 연방에서 제출한 이름으로 추크 제도에서 전해져 내려오는 폭풍의 신의 이름이다." comment="" />
+<SENTENCE id="sent10" start="604" end="666" text="1944년 2월, 미군은 마셜 제도를 점령하면서 추크 제도(Chuuk Islands)에 대규모 공습을 실시했다." comment="" />
+<SENTENCE id="sent11" start="667" end="722" text="1944년 2월에 마셜 제도 및 추크 제도에 맹공격을 가하고, 6월 15일에는 사이판섬에 상륙했다." comment="" />
+<QSLINK id="qsl2" fromID="pl31" fromText="제도" toID="pl32" toText="산" relType="NTPP" trajector="pl32" landmark="pl31" trigger="s4" comment="" />
+<QSLINK id="qsl5" fromID="pl9" fromText="트루크 제도" toID="pl10" toText="섬" relType="NTPP" trajector="pl10" landmark="pl9" trigger="s2" comment="" />
+<QSLINK id="qsl6" fromID="pl8" fromText="야프 섬" toID="pl10" toText="섬" relType="NTPP" trajector="pl10" landmark="pl8" trigger="s2" comment="" />
+<QSLINK id="qsl0" fromID="pl7" fromText="수도" toID="pl6" toText="미크로네시아" relType="NTPP" trajector="pl7" landmark="pl6" trigger="s1" comment="" />
+<OLINK id="ol0" fromID="pl3" fromText="태평양" toID="pl4" toText="섬" relType="남서" trajector="pl4" landmark="pl3" trigger="s0" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl44" fromText="무리" toID="pl3" toText="태평양" relType="남서" trajector="pl44" landmark="pl3" trigger="s0" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl2" fromText="추크 제도" toID="pl3" toText="태평양" relType="남서" trajector="pl2" landmark="pl3" trigger="s0" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl0" fromText="트루크" toID="pl3" toText="태평양" relType="남서" trajector="pl0" landmark="pl3" trigger="s0" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="se0" fromText="주민" toID="m0" toText="이주되" trigger="m0" source="pl19" goal="pl20" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="pl43" fromText="사이판섬" toID="m2" toText="상륙했" trigger="m2" source="" goal="pl43" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MEASURELINK id="ml0" fromID="pl10" fromText="섬" toID="me0" toText="150m 이상" trajector="pl10" landmark="pl10" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl13" fromText="봉우리" toID="me1" toText="600m 이상" trajector="pl13" landmark="pl13" relType="HEIGHT" val="me1" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

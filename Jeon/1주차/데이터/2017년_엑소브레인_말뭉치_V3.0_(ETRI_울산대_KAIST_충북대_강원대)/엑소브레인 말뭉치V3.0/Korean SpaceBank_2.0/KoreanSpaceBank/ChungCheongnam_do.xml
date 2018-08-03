@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+충청 남도 (South Chungcheong, 忠清南道 Chungcheongnam-do)는 대한민국의 지방이다. 나라의 중서부. 평야로 곡창지대이다. 사통팔달의 도로교통의 요지이다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="6" text="충청 남도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="52" end="56" text="대한민국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="58" end="60" text="지방" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="64" end="66" text="나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="73" end="75" text="평야" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="77" end="81" text="곡창지대" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="97" end="99" text="요지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="64" />
+<SPATIAL_SIGNAL id="s0" start="68" end="71" text="중서부" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s1" start="56" end="57" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SENTENCE id="sent0" start="1" end="63" text="충청 남도 (South Chungcheong, 忠清南道 Chungcheongnam-do)는 대한민국의 지방이다." comment="" />
+<SENTENCE id="sent1" start="64" end="72" text="나라의 중서부." comment="" />
+<SENTENCE id="sent2" start="73" end="84" text="평야로 곡창지대이다." comment="" />
+<SENTENCE id="sent3" start="85" end="102" text="사통팔달의 도로교통의 요지이다." comment="" />
+<QSLINK id="qsl0" fromID="pl7" fromText="" toID="pl3" toText="나라" relType="NTPP" trajector="pl7" landmark="pl3" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="pl2" fromText="지방" toID="pl1" toText="대한민국" relType="NTPP" trajector="pl2" landmark="pl1" trigger="s1" comment="" />
+<OLINK id="ol0" fromID="pl7" fromText="" toID="pl3" toText="나라" relType="서" trajector="pl7" landmark="pl3" trigger="s0" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

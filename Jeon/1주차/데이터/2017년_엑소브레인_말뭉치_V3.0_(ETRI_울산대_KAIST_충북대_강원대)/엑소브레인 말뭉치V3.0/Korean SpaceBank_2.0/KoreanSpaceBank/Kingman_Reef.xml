@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+킹맨 섬(Kingman Reef)은 북태평양에 있는 산호초로, 미국 령의 해외 영토이다. 미국령 원양 소도서군은 태평양의 베이커 섬·하울랜드 섬·자비스 섬·존스턴 섬·킹맨 섬·미드웨이 제도·팔미라 섬·웨이크 섬과 카리브 해의 나바사 섬을 이른다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="킹맨 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="21" end="25" text="북태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="45" end="47" text="영토" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="51" end="62" text="미국령 원양 소도서군" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="64" end="67" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="69" end="74" text="베이커 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="75" end="81" text="하울랜드 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="82" end="87" text="자비스 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="88" end="93" text="존스턴 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="94" end="98" text="킹맨 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="99" end="106" text="미드웨이 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="107" end="112" text="팔미라 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="113" end="118" text="웨이크 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="120" end="125" text="카리브 해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="127" end="132" text="나바사 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="36" end="40" text="미국 령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="30" end="33" text="산호초" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="25" end="26" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="125" end="126" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="67" end="68" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SENTENCE id="sent0" start="1" end="50" text="킹맨 섬(Kingman Reef)은 북태평양에 있는 산호초로, 미국 령의 해외 영토이다." comment="" />
+<SENTENCE id="sent1" start="51" end="138" text="미국령 원양 소도서군은 태평양의 베이커 섬·하울랜드 섬·자비스 섬·존스턴 섬·킹맨 섬·미드웨이 제도·팔미라 섬·웨이크 섬과 카리브 해의 나바사 섬을 이른다." comment="" />
+<QSLINK id="qsl0" fromID="pl1" fromText="북태평양" toID="se0" toText="산호초" relType="NTPP" trajector="se0" landmark="pl1" trigger="s0" comment="" />
+<QSLINK id="qsl2" fromID="pl9" fromText="베이커 섬" toID="pl8" toText="태평양" relType="NTPP" trajector="pl9" landmark="pl8" trigger="s2" comment="" />
+<QSLINK id="qsl3" fromID="pl10" fromText="하울랜드 섬" toID="pl8" toText="태평양" relType="NTPP" trajector="pl10" landmark="pl8" trigger="s2" comment="" />
+<QSLINK id="qsl4" fromID="pl11" fromText="자비스 섬" toID="pl8" toText="태평양" relType="NTPP" trajector="pl11" landmark="pl8" trigger="s2" comment="" />
+<QSLINK id="qsl5" fromID="pl12" fromText="존스턴 섬" toID="pl8" toText="태평양" relType="NTPP" trajector="pl12" landmark="pl8" trigger="s2" comment="" />
+<QSLINK id="qsl7" fromID="pl14" fromText="미드웨이 제도" toID="pl8" toText="태평양" relType="NTPP" trajector="pl14" landmark="pl8" trigger="s2" comment="" />
+<QSLINK id="qsl8" fromID="pl15" fromText="팔미라 섬" toID="pl8" toText="태평양" relType="NTPP" trajector="pl15" landmark="pl8" trigger="s2" comment="" />
+<QSLINK id="qsl9" fromID="pl16" fromText="웨이크 섬" toID="pl8" toText="태평양" relType="NTPP" trajector="pl16" landmark="pl8" trigger="s2" comment="" />
+<QSLINK id="qsl10" fromID="pl13" fromText="킹맨 섬" toID="pl8" toText="태평양" relType="NTPP" trajector="pl13" landmark="pl8" trigger="s2" comment="" />
+<QSLINK id="qsl11" fromID="pl18" fromText="나바사 섬" toID="pl17" toText="카리브 해" relType="NTPP" trajector="pl18" landmark="pl17" trigger="s1" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

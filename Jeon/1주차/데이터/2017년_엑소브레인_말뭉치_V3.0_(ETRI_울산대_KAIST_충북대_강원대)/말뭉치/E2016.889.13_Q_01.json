@@ -1,0 +1,299 @@
+{
+    "doc_id": "E2016.889.13_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "이것은 주민의 직접 참여를 통해 지방 공직자를 통제하는 장치로, 지방 자치 단체장이나 지방 의원 등에게 문제가 있을 때 임기 중 주민 투표를 통해 해직시킬 수 있는 제도다.", 
+            "morp": [
+                {"id": 0, "lemma": "이것", "type": "NP", "position": 0, "weight": 0.0733657}, 
+                {"id": 1, "lemma": "은", "type": "JX", "position": 6, "weight": 0.191811}, 
+                {"id": 2, "lemma": "주민", "type": "NNG", "position": 10, "weight": 0.9}, 
+                {"id": 3, "lemma": "의", "type": "JKG", "position": 16, "weight": 0.0694213}, 
+                {"id": 4, "lemma": "직접", "type": "MAG", "position": 20, "weight": 0.00332808}, 
+                {"id": 5, "lemma": "참여", "type": "NNG", "position": 27, "weight": 0.9}, 
+                {"id": 6, "lemma": "를", "type": "JKO", "position": 33, "weight": 0.137686}, 
+                {"id": 7, "lemma": "통하", "type": "VV", "position": 37, "weight": 0.9}, 
+                {"id": 8, "lemma": "아", "type": "EC", "position": 40, "weight": 0.41831}, 
+                {"id": 9, "lemma": "지방", "type": "NNG", "position": 44, "weight": 0.9}, 
+                {"id": 10, "lemma": "공직", "type": "NNG", "position": 51, "weight": 0.9}, 
+                {"id": 11, "lemma": "자", "type": "XSN", "position": 57, "weight": 0.00398741}, 
+                {"id": 12, "lemma": "를", "type": "JKO", "position": 60, "weight": 0.0870227}, 
+                {"id": 13, "lemma": "통제", "type": "NNG", "position": 64, "weight": 0.9}, 
+                {"id": 14, "lemma": "하", "type": "XSV", "position": 70, "weight": 0.0001}, 
+                {"id": 15, "lemma": "는", "type": "ETM", "position": 73, "weight": 0.238503}, 
+                {"id": 16, "lemma": "장치", "type": "NNG", "position": 77, "weight": 0.658694}, 
+                {"id": 17, "lemma": "로", "type": "JKB", "position": 83, "weight": 0.153229}, 
+                {"id": 18, "lemma": ",", "type": "SP", "position": 86, "weight": 1}, 
+                {"id": 19, "lemma": "지방", "type": "NNG", "position": 88, "weight": 0.9}, 
+                {"id": 20, "lemma": "자치", "type": "NNG", "position": 95, "weight": 0.9}, 
+                {"id": 21, "lemma": "단체", "type": "NNG", "position": 102, "weight": 0.184808}, 
+                {"id": 22, "lemma": "장", "type": "XSN", "position": 108, "weight": 0.0110513}, 
+                {"id": 23, "lemma": "이나", "type": "JC", "position": 111, "weight": 0.0131102}, 
+                {"id": 24, "lemma": "지방", "type": "NNG", "position": 118, "weight": 0.9}, 
+                {"id": 25, "lemma": "의원", "type": "NNG", "position": 125, "weight": 0.9}, 
+                {"id": 26, "lemma": "등", "type": "NNB", "position": 132, "weight": 0.0146757}, 
+                {"id": 27, "lemma": "에게", "type": "JKB", "position": 135, "weight": 0.135552}, 
+                {"id": 28, "lemma": "문제", "type": "NNG", "position": 142, "weight": 0.207789}, 
+                {"id": 29, "lemma": "가", "type": "JKS", "position": 148, "weight": 0.066324}, 
+                {"id": 30, "lemma": "있", "type": "VA", "position": 152, "weight": 0.12767}, 
+                {"id": 31, "lemma": "을", "type": "ETM", "position": 155, "weight": 0.0306722}, 
+                {"id": 32, "lemma": "때", "type": "NNG", "position": 159, "weight": 0.656522}, 
+                {"id": 33, "lemma": "임기", "type": "NNG", "position": 163, "weight": 0.9}, 
+                {"id": 34, "lemma": "중", "type": "NNB", "position": 170, "weight": 0.013531}, 
+                {"id": 35, "lemma": "주민", "type": "NNG", "position": 174, "weight": 0.9}, 
+                {"id": 36, "lemma": "투표", "type": "NNG", "position": 181, "weight": 0.9}, 
+                {"id": 37, "lemma": "를", "type": "JKO", "position": 187, "weight": 0.137686}, 
+                {"id": 38, "lemma": "통하", "type": "VV", "position": 191, "weight": 0.9}, 
+                {"id": 39, "lemma": "아", "type": "EC", "position": 194, "weight": 0.41831}, 
+                {"id": 40, "lemma": "해직", "type": "NNG", "position": 198, "weight": 0.9}, 
+                {"id": 41, "lemma": "시키", "type": "XSV", "position": 204, "weight": 0.00340357}, 
+                {"id": 42, "lemma": "ㄹ", "type": "ETM", "position": 207, "weight": 0.387847}, 
+                {"id": 43, "lemma": "수", "type": "NNB", "position": 211, "weight": 0.215617}, 
+                {"id": 44, "lemma": "있", "type": "VA", "position": 215, "weight": 0.0518488}, 
+                {"id": 45, "lemma": "는", "type": "ETM", "position": 218, "weight": 0.26168}, 
+                {"id": 46, "lemma": "제도", "type": "NNG", "position": 222, "weight": 0.9}, 
+                {"id": 47, "lemma": "이", "type": "VCP", "position": 225, "weight": 0.0177525}, 
+                {"id": 48, "lemma": "다", "type": "EF", "position": 228, "weight": 0.353579}, 
+                {"id": 49, "lemma": ".", "type": "SF", "position": 231, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이것", "type": "NP", "scode": "000001", "weight": 0.25, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "주민", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 16, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "직접", "type": "MAG", "scode": "000200", "weight": 0.5, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "참여", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 27, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 33, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "통하", "type": "VV", "scode": "000702", "weight": 0.0625, "position": 37, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 40, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "지방", "type": "NNG", "scode": "050002", "weight": 0.0909091, "position": 44, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "공직자", "type": "NNG", "scode": "000000", "weight": 1, "position": 51, "begin": 10, "end": 11}, 
+                {"id": 11, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 60, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "통제하", "type": "VV", "scode": "000001", "weight": 0.5, "position": 64, "begin": 13, "end": 14}, 
+                {"id": 13, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 73, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "장치", "type": "NNG", "scode": "070002", "weight": 0.0833333, "position": 77, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 83, "begin": 17, "end": 17}, 
+                {"id": 16, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 86, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "지방", "type": "NNG", "scode": "050002", "weight": 0.0909091, "position": 88, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "자치", "type": "NNG", "scode": "060003", "weight": 0.0833333, "position": 95, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "단체장", "type": "NNG", "scode": "000000", "weight": 1, "position": 102, "begin": 21, "end": 22}, 
+                {"id": 20, "text": "이나", "type": "JC", "scode": "000000", "weight": 1, "position": 111, "begin": 23, "end": 23}, 
+                {"id": 21, "text": "지방", "type": "NNG", "scode": "050002", "weight": 0.0909091, "position": 118, "begin": 24, "end": 24}, 
+                {"id": 22, "text": "의원", "type": "NNG", "scode": "050000", "weight": 0.166667, "position": 125, "begin": 25, "end": 25}, 
+                {"id": 23, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 132, "begin": 26, "end": 26}, 
+                {"id": 24, "text": "에게", "type": "JKB", "scode": "000000", "weight": 1, "position": 135, "begin": 27, "end": 27}, 
+                {"id": 25, "text": "문제", "type": "NNG", "scode": "060002", "weight": 0.1, "position": 142, "begin": 28, "end": 28}, 
+                {"id": 26, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 148, "begin": 29, "end": 29}, 
+                {"id": 27, "text": "있", "type": "VA", "scode": "010302", "weight": 0.0416667, "position": 152, "begin": 30, "end": 30}, 
+                {"id": 28, "text": "을", "type": "ETM", "scode": "000000", "weight": 1, "position": 155, "begin": 31, "end": 31}, 
+                {"id": 29, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 159, "begin": 32, "end": 32}, 
+                {"id": 30, "text": "임기", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 163, "begin": 33, "end": 33}, 
+                {"id": 31, "text": "중", "type": "NNB", "scode": "040102", "weight": 0.0526316, "position": 170, "begin": 34, "end": 34}, 
+                {"id": 32, "text": "주민", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 174, "begin": 35, "end": 35}, 
+                {"id": 33, "text": "투표", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 181, "begin": 36, "end": 36}, 
+                {"id": 34, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 187, "begin": 37, "end": 37}, 
+                {"id": 35, "text": "통하", "type": "VV", "scode": "000702", "weight": 0.0625, "position": 191, "begin": 38, "end": 38}, 
+                {"id": 36, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 194, "begin": 39, "end": 39}, 
+                {"id": 37, "text": "해직", "type": "NNG", "scode": "000000", "weight": 1, "position": 198, "begin": 40, "end": 40}, 
+                {"id": 38, "text": "시키", "type": "XSV", "scode": "000000", "weight": 0, "position": 204, "begin": 41, "end": 41}, 
+                {"id": 39, "text": "ㄹ", "type": "ETM", "scode": "000000", "weight": 1, "position": 207, "begin": 42, "end": 42}, 
+                {"id": 40, "text": "수", "type": "NNB", "scode": "020100", "weight": 0.02, "position": 211, "begin": 43, "end": 43}, 
+                {"id": 41, "text": "있", "type": "VA", "scode": "010305", "weight": 0.0416667, "position": 215, "begin": 44, "end": 44}, 
+                {"id": 42, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 218, "begin": 45, "end": 45}, 
+                {"id": 43, "text": "제도", "type": "NNG", "scode": "010000", "weight": 0.0769231, "position": 222, "begin": 46, "end": 46}, 
+                {"id": 44, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 225, "begin": 47, "end": 47}, 
+                {"id": 45, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 228, "begin": 48, "end": 48}, 
+                {"id": 46, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 231, "begin": 49, "end": 49}
+            ], 
+            "word": [
+                {"id": 0, "text": "이것은", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "주민의", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "직접", "type": "", "begin": 4, "end": 4}, 
+                {"id": 3, "text": "참여를", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "통해", "type": "", "begin": 7, "end": 8}, 
+                {"id": 5, "text": "지방", "type": "", "begin": 9, "end": 9}, 
+                {"id": 6, "text": "공직자를", "type": "", "begin": 10, "end": 12}, 
+                {"id": 7, "text": "통제하는", "type": "", "begin": 13, "end": 15}, 
+                {"id": 8, "text": "장치로,", "type": "", "begin": 16, "end": 18}, 
+                {"id": 9, "text": "지방", "type": "", "begin": 19, "end": 19}, 
+                {"id": 10, "text": "자치", "type": "", "begin": 20, "end": 20}, 
+                {"id": 11, "text": "단체장이나", "type": "", "begin": 21, "end": 23}, 
+                {"id": 12, "text": "지방", "type": "", "begin": 24, "end": 24}, 
+                {"id": 13, "text": "의원", "type": "", "begin": 25, "end": 25}, 
+                {"id": 14, "text": "등에게", "type": "", "begin": 26, "end": 27}, 
+                {"id": 15, "text": "문제가", "type": "", "begin": 28, "end": 29}, 
+                {"id": 16, "text": "있을", "type": "", "begin": 30, "end": 31}, 
+                {"id": 17, "text": "때", "type": "", "begin": 32, "end": 32}, 
+                {"id": 18, "text": "임기", "type": "", "begin": 33, "end": 33}, 
+                {"id": 19, "text": "중", "type": "", "begin": 34, "end": 34}, 
+                {"id": 20, "text": "주민", "type": "", "begin": 35, "end": 35}, 
+                {"id": 21, "text": "투표를", "type": "", "begin": 36, "end": 37}, 
+                {"id": 22, "text": "통해", "type": "", "begin": 38, "end": 39}, 
+                {"id": 23, "text": "해직시킬", "type": "", "begin": 40, "end": 42}, 
+                {"id": 24, "text": "수", "type": "", "begin": 43, "end": 43}, 
+                {"id": 25, "text": "있는", "type": "", "begin": 44, "end": 45}, 
+                {"id": 26, "text": "제도다.", "type": "", "begin": 46, "end": 49}
+            ], 
+            "NE": [
+                {"id": 0, "text": "주민", "type": "CV_POSITION", "begin": 2, "end": 2, "weight": 0.641566, "common_noun": 0}, 
+                {"id": 1, "text": "공직자", "type": "CV_POSITION", "begin": 10, "end": 11, "weight": 0.641566, "common_noun": 0}, 
+                {"id": 2, "text": "자치 단체장", "type": "CV_POSITION", "begin": 20, "end": 22, "weight": 0.439944, "common_noun": 0}, 
+                {"id": 3, "text": "지방 의원", "type": "CV_POSITION", "begin": 24, "end": 25, "weight": 0.487283, "common_noun": 0}, 
+                {"id": 4, "text": "주민 투표", "type": "EV_OTHERS", "begin": 35, "end": 36, "weight": 0.232536, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이것은", "head": 8, "label": "NP_SBJ", "mod": [], "weight": 0.800525}, 
+                {"id": 1, "text": "주민의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.793984}, 
+                {"id": 2, "text": "직접", "head": 3, "label": "AP", "mod": [], "weight": 0.200601}, 
+                {"id": 3, "text": "참여를", "head": 4, "label": "NP_OBJ", "mod": [1, 2], "weight": 0.838698}, 
+                {"id": 4, "text": "통해", "head": 7, "label": "VP", "mod": [3], "weight": 0.40079}, 
+                {"id": 5, "text": "지방", "head": 6, "label": "NP", "mod": [], "weight": 0.666762}, 
+                {"id": 6, "text": "공직자를", "head": 7, "label": "NP_OBJ", "mod": [5], "weight": 0.617121}, 
+                {"id": 7, "text": "통제하는", "head": 8, "label": "VP_MOD", "mod": [4, 6], "weight": 0.735059}, 
+                {"id": 8, "text": "장치로,", "head": 26, "label": "NP_AJT", "mod": [0, 7], "weight": 0.842588}, 
+                {"id": 9, "text": "지방", "head": 10, "label": "NP", "mod": [], "weight": 0.274843}, 
+                {"id": 10, "text": "자치", "head": 11, "label": "NP", "mod": [9], "weight": 0.858064}, 
+                {"id": 11, "text": "단체장이나", "head": 13, "label": "NP_CNJ", "mod": [10], "weight": 0.659114}, 
+                {"id": 12, "text": "지방", "head": 13, "label": "NP", "mod": [], "weight": 0.710585}, 
+                {"id": 13, "text": "의원", "head": 14, "label": "NP", "mod": [11, 12], "weight": 0.824496}, 
+                {"id": 14, "text": "등에게", "head": 16, "label": "NP_AJT", "mod": [13], "weight": 0.33956}, 
+                {"id": 15, "text": "문제가", "head": 16, "label": "NP_SBJ", "mod": [], "weight": 0.813553}, 
+                {"id": 16, "text": "있을", "head": 17, "label": "VP_MOD", "mod": [15, 14], "weight": 0.705997}, 
+                {"id": 17, "text": "때", "head": 22, "label": "NP_AJT", "mod": [16], "weight": 0.489547}, 
+                {"id": 18, "text": "임기", "head": 19, "label": "NP", "mod": [], "weight": 0.773529}, 
+                {"id": 19, "text": "중", "head": 22, "label": "NP_AJT", "mod": [18], "weight": 0.278088}, 
+                {"id": 20, "text": "주민", "head": 21, "label": "NP", "mod": [], "weight": 0.818108}, 
+                {"id": 21, "text": "투표를", "head": 22, "label": "NP_OBJ", "mod": [20], "weight": 0.849958}, 
+                {"id": 22, "text": "통해", "head": 23, "label": "VP", "mod": [17, 19, 21], "weight": 0.592109}, 
+                {"id": 23, "text": "해직시킬", "head": 24, "label": "VP_MOD", "mod": [22], "weight": 0.59523}, 
+                {"id": 24, "text": "수", "head": 25, "label": "NP_SBJ", "mod": [23], "weight": 0.815333}, 
+                {"id": 25, "text": "있는", "head": 26, "label": "VP_MOD", "mod": [24], "weight": 0.784141}, 
+                {"id": 26, "text": "제도다.", "head": -1, "label": "VNP", "mod": [8, 25], "weight": 2.71158e-06}
+            ], 
+            "SRL": [
+                {"verb": "통하", "sense": 1, "word_id": 4, "weight": 0.276764, "argument": [
+                    {"type": "ARG2", "word_id": 3, "text": "참여를", "weight": 0.276764}
+                ]}, 
+                {"verb": "통제", "sense": 1, "word_id": 7, "weight": 0.260691, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "공직자를", "weight": 0.260691}, 
+                    {"type": "ARGM-MNR", "word_id": 4, "text": "통해", "weight": 1}
+                ]}, 
+                {"verb": "있", "sense": 1, "word_id": 16, "weight": 0.339576, "argument": [
+                    {"type": "ARG1", "word_id": 15, "text": "문제가", "weight": 0.339576}, 
+                    {"type": "ARG2", "word_id": 14, "text": "등에게", "weight": 1}
+                ]}, 
+                {"verb": "통하", "sense": 1, "word_id": 22, "weight": 0.337114, "argument": [
+                    {"type": "ARG2", "word_id": 21, "text": "투표를", "weight": 0.337114}, 
+                    {"type": "ARGM-TMP", "word_id": 19, "text": "중", "weight": 1}, 
+                    {"type": "ARGM-CND", "word_id": 17, "text": "때", "weight": 1}
+                ]}, 
+                {"verb": "해직", "sense": 1, "word_id": 23, "weight": 0.258315, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 22, "text": "통해", "weight": 0.129925}, 
+                    {"type": "AUX", "word_id": 25, "text": "있는", "weight": 0.442712}, 
+                    {"type": "ARG1", "word_id": 14, "text": "등에게", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "이 제도는 무엇일까? ", 
+            "morp": [
+                {"id": 0, "lemma": "이", "type": "MM", "position": 232, "weight": 0.0020222}, 
+                {"id": 1, "lemma": "제도", "type": "NNG", "position": 236, "weight": 0.9}, 
+                {"id": 2, "lemma": "는", "type": "JX", "position": 242, "weight": 0.0287565}, 
+                {"id": 3, "lemma": "무엇", "type": "NP", "position": 246, "weight": 0.9}, 
+                {"id": 4, "lemma": "이", "type": "VCP", "position": 252, "weight": 0.0175768}, 
+                {"id": 5, "lemma": "ㄹ까", "type": "EF", "position": 252, "weight": 0.258243}, 
+                {"id": 6, "lemma": "?", "type": "SF", "position": 258, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 232, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "제도", "type": "NNG", "scode": "010000", "weight": 0.0769231, "position": 236, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 242, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "무엇", "type": "NP", "scode": "000001", "weight": 0.5, "position": 246, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 252, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "ㄹ까", "type": "EF", "scode": "000000", "weight": 1, "position": 252, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 258, "begin": 6, "end": 6}
+            ], 
+            "word": [
+                {"id": 0, "text": "이", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "제도는", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "무엇일까?", "type": "", "begin": 3, "end": 6}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이", "head": 1, "label": "DP", "mod": [], "weight": 0.600153}, 
+                {"id": 1, "text": "제도는", "head": 2, "label": "NP_SBJ", "mod": [0], "weight": 0.887023}, 
+                {"id": 2, "text": "무엇일까?", "head": -1, "label": "VNP", "mod": [1], "weight": 0.461264}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "이것은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "이것은"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 8, "ne_id": -1, "text": "주민의 직접 참여를 통해 지방 공직자를 통제하는 장치로,", "start_eid_short": 8, "end_eid_short": 8, "text_short": "장치로,"}, 
+            {"id": 6, "sent_id": 0, "start_eid": 9, "end_eid": 26, "ne_id": -1, "text": "지방 자치 단체장이나 지방 의원 등에게 문제가 있을 때 임기 중 주민 투표를 통해 해직시킬 수 있는 제도다.", "start_eid_short": 26, "end_eid_short": 26, "text_short": "제도다."}, 
+            {"id": 17, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "이 제도는", "start_eid_short": 0, "end_eid_short": 1, "text_short": "이 제도는"}, 
+            {"id": 18, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "무엇일까?", "start_eid_short": 2, "end_eid_short": 2, "text_short": "무엇일까?"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": -1, "text": "주민의 직접 참여를", "start_eid_short": 3, "end_eid_short": 3, "text_short": "참여를"}
+        ]}, 
+        {"id": 2, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "주민의", "start_eid_short": 1, "end_eid_short": 1, "text_short": "주민의"}, 
+            {"id": 16, "sent_id": 0, "start_eid": 20, "end_eid": 20, "ne_id": -1, "text": "주민", "start_eid_short": 20, "end_eid_short": 20, "text_short": "주민"}
+        ]}, 
+        {"id": 3, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 6, "ne_id": 1, "text": "지방 공직자를", "start_eid_short": 5, "end_eid_short": 6, "text_short": "지방 공직자를"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "지방", "start_eid_short": 5, "end_eid_short": 5, "text_short": "지방"}, 
+            {"id": 11, "sent_id": 0, "start_eid": 9, "end_eid": 9, "ne_id": -1, "text": "지방", "start_eid_short": 9, "end_eid_short": 9, "text_short": "지방"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 9, "end_eid": 10, "ne_id": -1, "text": "지방 자치", "start_eid_short": 9, "end_eid_short": 10, "text_short": "지방 자치"}
+        ]}, 
+        {"id": 6, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 9, "end_eid": 11, "ne_id": 2, "text": "지방 자치 단체장이나", "start_eid_short": 9, "end_eid_short": 11, "text_short": "지방 자치 단체장이나"}
+        ]}, 
+        {"id": 7, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 12, "sent_id": 0, "start_eid": 12, "end_eid": 13, "ne_id": 3, "text": "지방 의원", "start_eid_short": 12, "end_eid_short": 13, "text_short": "지방 의원"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 9, "end_eid": 14, "ne_id": -1, "text": "지방 자치 단체장이나 지방 의원 등에게", "start_eid_short": 12, "end_eid_short": 14, "text_short": "지방 의원 등에게"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 9, "end_eid": 17, "ne_id": -1, "text": "지방 자치 단체장이나 지방 의원 등에게 문제가 있을 때", "start_eid_short": 17, "end_eid_short": 17, "text_short": "때"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 0, "start_eid": 15, "end_eid": 15, "ne_id": -1, "text": "문제가", "start_eid_short": 15, "end_eid_short": 15, "text_short": "문제가"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 0, "start_eid": 18, "end_eid": 18, "ne_id": -1, "text": "임기", "start_eid_short": 18, "end_eid_short": 18, "text_short": "임기"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 0, "start_eid": 20, "end_eid": 21, "ne_id": -1, "text": "주민 투표를", "start_eid_short": 20, "end_eid_short": 21, "text_short": "주민 투표를"}
+        ]}
+    ]
+}

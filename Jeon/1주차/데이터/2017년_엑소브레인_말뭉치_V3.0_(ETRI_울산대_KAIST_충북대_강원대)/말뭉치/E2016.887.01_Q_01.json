@@ -1,0 +1,216 @@
+{
+    "doc_id": "E2016.887.01_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "고전 소설 <춘향전>에서는 ‘아름다운 술은 일천 백성의 피요, 안주는 일반 백성의 이것이라.’라는 표현이 나온다.", 
+            "morp": [
+                {"id": 0, "lemma": "고전", "type": "NNG", "position": 0, "weight": 0.437336}, 
+                {"id": 1, "lemma": "소설", "type": "NNG", "position": 7, "weight": 0.9}, 
+                {"id": 2, "lemma": "<", "type": "SS", "position": 14, "weight": 1}, 
+                {"id": 3, "lemma": "춘향", "type": "NNP", "position": 15, "weight": 0.0592529}, 
+                {"id": 4, "lemma": "전", "type": "XSN", "position": 21, "weight": 0.164488}, 
+                {"id": 5, "lemma": ">", "type": "SS", "position": 24, "weight": 1}, 
+                {"id": 6, "lemma": "에서", "type": "JKB", "position": 25, "weight": 0.0486066}, 
+                {"id": 7, "lemma": "는", "type": "JX", "position": 31, "weight": 0.0387928}, 
+                {"id": 8, "lemma": "‘", "type": "SS", "position": 35, "weight": 1}, 
+                {"id": 9, "lemma": "아름답", "type": "VA", "position": 38, "weight": 0.0243904}, 
+                {"id": 10, "lemma": "ㄴ", "type": "ETM", "position": 44, "weight": 0.488779}, 
+                {"id": 11, "lemma": "술", "type": "NNG", "position": 51, "weight": 0.634869}, 
+                {"id": 12, "lemma": "은", "type": "JX", "position": 54, "weight": 0.0449928}, 
+                {"id": 13, "lemma": "일천", "type": "NR", "position": 58, "weight": 0.0278504}, 
+                {"id": 14, "lemma": "백성", "type": "NNG", "position": 65, "weight": 0.9}, 
+                {"id": 15, "lemma": "의", "type": "JKG", "position": 71, "weight": 0.0694213}, 
+                {"id": 16, "lemma": "피", "type": "NNG", "position": 75, "weight": 0.297677}, 
+                {"id": 17, "lemma": "이", "type": "VCP", "position": 75, "weight": 0.0177525}, 
+                {"id": 18, "lemma": "요", "type": "EC", "position": 78, "weight": 0.0428704}, 
+                {"id": 19, "lemma": ",", "type": "SP", "position": 81, "weight": 1}, 
+                {"id": 20, "lemma": "안주", "type": "NNG", "position": 83, "weight": 0.496479}, 
+                {"id": 21, "lemma": "는", "type": "JX", "position": 89, "weight": 0.0287565}, 
+                {"id": 22, "lemma": "일반", "type": "NNG", "position": 93, "weight": 0.9}, 
+                {"id": 23, "lemma": "백성", "type": "NNG", "position": 100, "weight": 0.9}, 
+                {"id": 24, "lemma": "의", "type": "JKG", "position": 106, "weight": 0.0694213}, 
+                {"id": 25, "lemma": "이것", "type": "NP", "position": 110, "weight": 0.0030442}, 
+                {"id": 26, "lemma": "이", "type": "VCP", "position": 116, "weight": 0.0175768}, 
+                {"id": 27, "lemma": "라", "type": "EF", "position": 119, "weight": 0.0468542}, 
+                {"id": 28, "lemma": ".", "type": "SF", "position": 122, "weight": 1}, 
+                {"id": 29, "lemma": "’", "type": "SS", "position": 123, "weight": 1}, 
+                {"id": 30, "lemma": "이", "type": "VCP", "position": 126, "weight": 0.00747344}, 
+                {"id": 31, "lemma": "라는", "type": "ETM", "position": 126, "weight": 0.230361}, 
+                {"id": 32, "lemma": "표현", "type": "NNG", "position": 133, "weight": 0.9}, 
+                {"id": 33, "lemma": "이", "type": "JKS", "position": 139, "weight": 0.0360723}, 
+                {"id": 34, "lemma": "나오", "type": "VV", "position": 143, "weight": 0.9}, 
+                {"id": 35, "lemma": "ㄴ다", "type": "EF", "position": 146, "weight": 0.0793196}, 
+                {"id": 36, "lemma": ".", "type": "SF", "position": 152, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "고전", "type": "NNG", "scode": "020002", "weight": 0.0714286, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "소설", "type": "NNG", "scode": "030001", "weight": 0.0666667, "position": 7, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 14, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "춘향전", "type": "NNG", "scode": "000000", "weight": 1, "position": 15, "begin": 3, "end": 4}, 
+                {"id": 4, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 24, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 25, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 31, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "‘", "type": "SS", "scode": "000000", "weight": 1, "position": 35, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "아름답", "type": "VA", "scode": "000001", "weight": 0.5, "position": 38, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 44, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "술", "type": "NNG", "scode": "010000", "weight": 0.0769231, "position": 51, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 54, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "일천", "type": "NR", "scode": "010000", "weight": 0.2, "position": 58, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "백성", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 65, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 71, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "피", "type": "NNG", "scode": "020000", "weight": 0.0625, "position": 75, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 75, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "요", "type": "EC", "scode": "000000", "weight": 1, "position": 78, "begin": 18, "end": 18}, 
+                {"id": 18, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 81, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "안주", "type": "NNG", "scode": "040000", "weight": 0.125, "position": 83, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 89, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "일반", "type": "NNG", "scode": "020002", "weight": 0.142857, "position": 93, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "백성", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 100, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 106, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "이것", "type": "NP", "scode": "000001", "weight": 0.25, "position": 110, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 116, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "라", "type": "EF", "scode": "000000", "weight": 1, "position": 119, "begin": 27, "end": 27}, 
+                {"id": 27, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 122, "begin": 28, "end": 28}, 
+                {"id": 28, "text": "’", "type": "SS", "scode": "000000", "weight": 1, "position": 123, "begin": 29, "end": 29}, 
+                {"id": 29, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 126, "begin": 30, "end": 30}, 
+                {"id": 30, "text": "라는", "type": "ETM", "scode": "000000", "weight": 1, "position": 126, "begin": 31, "end": 31}, 
+                {"id": 31, "text": "표현", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 133, "begin": 32, "end": 32}, 
+                {"id": 32, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 139, "begin": 33, "end": 33}, 
+                {"id": 33, "text": "나오", "type": "VV", "scode": "000404", "weight": 0.0384615, "position": 143, "begin": 34, "end": 34}, 
+                {"id": 34, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 146, "begin": 35, "end": 35}, 
+                {"id": 35, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 152, "begin": 36, "end": 36}
+            ], 
+            "word": [
+                {"id": 0, "text": "고전", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "소설", "type": "", "begin": 1, "end": 1}, 
+                {"id": 2, "text": "<춘향전>에서는", "type": "", "begin": 2, "end": 7}, 
+                {"id": 3, "text": "‘아름다운", "type": "", "begin": 8, "end": 10}, 
+                {"id": 4, "text": "술은", "type": "", "begin": 11, "end": 12}, 
+                {"id": 5, "text": "일천", "type": "", "begin": 13, "end": 13}, 
+                {"id": 6, "text": "백성의", "type": "", "begin": 14, "end": 15}, 
+                {"id": 7, "text": "피요,", "type": "", "begin": 16, "end": 19}, 
+                {"id": 8, "text": "안주는", "type": "", "begin": 20, "end": 21}, 
+                {"id": 9, "text": "일반", "type": "", "begin": 22, "end": 22}, 
+                {"id": 10, "text": "백성의", "type": "", "begin": 23, "end": 24}, 
+                {"id": 11, "text": "이것이라.’라는", "type": "", "begin": 25, "end": 31}, 
+                {"id": 12, "text": "표현이", "type": "", "begin": 32, "end": 33}, 
+                {"id": 13, "text": "나온다.", "type": "", "begin": 34, "end": 36}
+            ], 
+            "NE": [
+                {"id": 0, "text": "고전 소설", "type": "FD_ART", "begin": 0, "end": 1, "weight": 0.883043, "common_noun": 0}, 
+                {"id": 1, "text": "춘향전", "type": "AFW_DOCUMENT", "begin": 3, "end": 4, "weight": 0.979359, "common_noun": 0}, 
+                {"id": 2, "text": "술", "type": "CV_DRINK", "begin": 11, "end": 11, "weight": 0.331199, "common_noun": 0}, 
+                {"id": 3, "text": "일천", "type": "QT_COUNT", "begin": 13, "end": 13, "weight": 0.341669, "common_noun": 0}, 
+                {"id": 4, "text": "안주", "type": "CV_FOOD", "begin": 20, "end": 20, "weight": 0.174842, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "고전", "head": 1, "label": "NP", "mod": [], "weight": 0.400527}, 
+                {"id": 1, "text": "소설", "head": 2, "label": "NP", "mod": [0], "weight": 0.83012}, 
+                {"id": 2, "text": "<춘향전>에서는", "head": 13, "label": "NP_AJT", "mod": [1], "weight": 0.713421}, 
+                {"id": 3, "text": "‘아름다운", "head": 4, "label": "VP_MOD", "mod": [], "weight": 0.741045}, 
+                {"id": 4, "text": "술은", "head": 7, "label": "NP_SBJ", "mod": [3], "weight": 0.359812}, 
+                {"id": 5, "text": "일천", "head": 6, "label": "NP", "mod": [], "weight": 0.463248}, 
+                {"id": 6, "text": "백성의", "head": 7, "label": "NP_MOD", "mod": [5], "weight": 0.677762}, 
+                {"id": 7, "text": "피요,", "head": 11, "label": "VNP", "mod": [4, 6], "weight": 0.784866}, 
+                {"id": 8, "text": "안주는", "head": 11, "label": "NP_SBJ", "mod": [], "weight": 0.842771}, 
+                {"id": 9, "text": "일반", "head": 10, "label": "NP", "mod": [], "weight": 0.706185}, 
+                {"id": 10, "text": "백성의", "head": 11, "label": "NP_MOD", "mod": [9], "weight": 0.618761}, 
+                {"id": 11, "text": "이것이라.’라는", "head": 12, "label": "VNP_MOD", "mod": [7, 8, 10], "weight": 0.388195}, 
+                {"id": 12, "text": "표현이", "head": 13, "label": "NP_SBJ", "mod": [11], "weight": 0.860084}, 
+                {"id": 13, "text": "나온다.", "head": -1, "label": "VP", "mod": [2, 12], "weight": 0.00158783}
+            ], 
+            "SRL": [
+                {"verb": "아름답", "sense": 1, "word_id": 3, "weight": 0.216929, "argument": [
+                    {"type": "ARG1", "word_id": 4, "text": "술은", "weight": 0.216929}
+                ]}, 
+                {"verb": "나오", "sense": 1, "word_id": 13, "weight": 0.157402, "argument": [
+                    {"type": "ARG2", "word_id": 2, "text": "<춘향전>에서는", "weight": 0.166258}, 
+                    {"type": "ARG1", "word_id": 12, "text": "표현이", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "이때 이것은 무엇일까?", 
+            "morp": [
+                {"id": 0, "lemma": "이때", "type": "NNG", "position": 153, "weight": 0.9}, 
+                {"id": 1, "lemma": "이것", "type": "NP", "position": 160, "weight": 0.00177062}, 
+                {"id": 2, "lemma": "은", "type": "JX", "position": 166, "weight": 0.191811}, 
+                {"id": 3, "lemma": "무엇", "type": "NP", "position": 170, "weight": 0.9}, 
+                {"id": 4, "lemma": "이", "type": "VCP", "position": 176, "weight": 0.0175768}, 
+                {"id": 5, "lemma": "ㄹ까", "type": "EF", "position": 176, "weight": 0.258243}, 
+                {"id": 6, "lemma": "?", "type": "SF", "position": 182, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이때", "type": "NNG", "scode": "000000", "weight": 1, "position": 153, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "이것", "type": "NP", "scode": "000001", "weight": 0.25, "position": 160, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 166, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "무엇", "type": "NP", "scode": "000001", "weight": 0.5, "position": 170, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 176, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "ㄹ까", "type": "EF", "scode": "000000", "weight": 1, "position": 176, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 182, "begin": 6, "end": 6}
+            ], 
+            "word": [
+                {"id": 0, "text": "이때", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "이것은", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "무엇일까?", "type": "", "begin": 3, "end": 6}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이때", "head": 2, "label": "NP_AJT", "mod": [], "weight": 0.612393}, 
+                {"id": 1, "text": "이것은", "head": 2, "label": "NP_SBJ", "mod": [], "weight": 0.72124}, 
+                {"id": 2, "text": "무엇일까?", "head": -1, "label": "VNP", "mod": [0, 1], "weight": 0.372528}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "안주는", "start_eid_short": 8, "end_eid_short": 8, "text_short": "안주는"}, 
+            {"id": 8, "sent_id": 0, "start_eid": 11, "end_eid": 11, "ne_id": -1, "text": "이것이라.’라는", "start_eid_short": 11, "end_eid_short": 11, "text_short": "이것이라.’라는"}, 
+            {"id": 10, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "이것은", "start_eid_short": 1, "end_eid_short": 1, "text_short": "이것은"}, 
+            {"id": 11, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "무엇일까?", "start_eid_short": 2, "end_eid_short": 2, "text_short": "무엇일까?"}
+        ]}, 
+        {"id": 1, "type": "AFW_DOCUMENT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": 1, "text": "고전 소설 <춘향전>에서는", "start_eid_short": 2, "end_eid_short": 2, "text_short": "<춘향전>에서는"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 3, "end_eid": 12, "ne_id": -1, "text": "‘아름다운 술은 일천 백성의 피요, 안주는 일반 백성의 이것이라.’라는 표현이", "start_eid_short": 12, "end_eid_short": 12, "text_short": "표현이"}, 
+            {"id": 3, "sent_id": 0, "start_eid": 3, "end_eid": 11, "ne_id": -1, "text": "‘아름다운 술은 일천 백성의 피요, 안주는 일반 백성의 이것이라.’라는", "start_eid_short": 11, "end_eid_short": 11, "text_short": "이것이라.’라는"}
+        ]}, 
+        {"id": 3, "type": "FD_ART", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "고전 소설", "start_eid_short": 0, "end_eid_short": 1, "text_short": "고전 소설"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "이때", "start_eid_short": 0, "end_eid_short": 0, "text_short": "이때"}
+        ]}, 
+        {"id": 5, "type": "CV_DRINK", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 3, "end_eid": 4, "ne_id": 2, "text": "‘아름다운 술은", "start_eid_short": 4, "end_eid_short": 4, "text_short": "술은"}, 
+            {"id": 5, "sent_id": 0, "start_eid": 5, "end_eid": 7, "ne_id": -1, "text": "일천 백성의 피요,", "start_eid_short": 7, "end_eid_short": 7, "text_short": "피요,"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 9, "end_eid": 10, "ne_id": -1, "text": "일반 백성의", "start_eid_short": 9, "end_eid_short": 10, "text_short": "일반 백성의"}
+        ]}
+    ]
+}

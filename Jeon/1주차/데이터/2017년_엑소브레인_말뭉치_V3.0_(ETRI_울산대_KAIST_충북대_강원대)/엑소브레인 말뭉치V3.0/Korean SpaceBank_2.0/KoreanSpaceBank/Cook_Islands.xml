@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+쿡 제도(Cook Islands, 마오리어: Kuki Airani)는 뉴질랜드의 연합국이다. 수도는 아바루아(Avarua)이고, 공용어는 영어와 마오리어이다. 남태평양에 위치한 뉴질랜드 자치령으로 대부분이 환초로 구성되어 있다. 지도상에서 쿡 제도는 태평양이라는 거대한 캔버스에 표현주의 화가가 붓물을 튀긴 것처럼 보인다. 하지만 그곳에 실제로 도착해보면 쿡 제도는 예상했던 것만큼 크게 보이지 않는다. 마우케·아티우·미티아로 등에는 내륙에 화산이 있다. 그중 지질 역사가 가장 짧고 지형이 험한 라로통가에는 쿡 제도에서 가장 높은 테망가산(652m)이 솟아 있다.
+쿡이라는 이름을 가진 선장이 발견한 섬이다. 1773, 1774, 1777년 3차례의 항해에서 이 제도의 많은 섬들을 탐험했는데, 이 섬들은 그의 이름을 따서 쿡 제도라고 명명되었다. 영국 군함 바운티호 의 윌리엄 블라이 대령이 라로통가와 아이투타키를 발견했다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="쿡 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="40" end="44" text="뉴질랜드" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="53" end="55" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="57" end="61" text="아바루아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="135" end="139" text="쿡 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="186" end="188" text="그곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="200" end="204" text="쿡 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="227" end="230" text="마우케" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="231" end="234" text="아티우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="235" end="239" text="미티아로" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="244" end="246" text="내륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="248" end="250" text="화산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="279" end="283" text="라로통가" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="286" end="290" text="쿡 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="338" end="339" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="373" end="375" text="제도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="380" end="382" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="393" end="395" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="407" end="411" text="쿡 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="446" end="450" text="라로통가" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="452" end="457" text="아이투타키" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="141" end="144" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="90" end="94" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="46" end="49" text="연합국" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="100" end="108" text="뉴질랜드 자치령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="299" end="303" text="테망가산" type="FAC" dimensionality="AREA" form="NAM" domain="" latLong="" elevation="me0" mod="높은" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="366" end="368" text="항해" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="194" end="197" text="도착해" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="311" end="312" text="솟" domain="" latLong="" elevation="" motion_type="PATH" motion_class="DEVIATE" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="384" end="387" text="탐험했" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="94" end="95" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="246" end="247" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="290" end="292" text="에서" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="241" end="242" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="283" end="284" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="44" end="45" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="188" end="189" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="382" end="383" text="을" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="304" end="308" text="652m" value="652" unit="m" comment="" />
+<SENTENCE id="sent0" start="1" end="52" text="쿡 제도(Cook Islands, 마오리어: Kuki Airani)는 뉴질랜드의 연합국이다." comment="" />
+<SENTENCE id="sent1" start="53" end="89" text="수도는 아바루아(Avarua)이고, 공용어는 영어와 마오리어이다." comment="" />
+<SENTENCE id="sent2" start="90" end="128" text="남태평양에 위치한 뉴질랜드 자치령으로 대부분이 환초로 구성되어 있다." comment="" />
+<SENTENCE id="sent3" start="129" end="181" text="지도상에서 쿡 제도는 태평양이라는 거대한 캔버스에 표현주의 화가가 붓물을 튀긴 것처럼 보인다." comment="" />
+<SENTENCE id="sent4" start="182" end="226" text="하지만 그곳에 실제로 도착해보면 쿡 제도는 예상했던 것만큼 크게 보이지 않는다." comment="" />
+<SENTENCE id="sent5" start="227" end="255" text="마우케·아티우·미티아로 등에는 내륙에 화산이 있다." comment="" />
+<SENTENCE id="sent6" start="256" end="317" text="그중 지질 역사가 가장 짧고 지형이 험한 라로통가에는 쿡 제도에서 가장 높은 테망가산(652m)이 솟아 있다." comment="" />
+<SENTENCE id="sent7" start="318" end="342" text="쿡이라는 이름을 가진 선장이 발견한 섬이다." comment="" />
+<SENTENCE id="sent8" start="343" end="420" text="1773, 1774, 1777년 3차례의 항해에서 이 제도의 많은 섬들을 탐험했는데, 이 섬들은 그의 이름을 따서 쿡 제도라고 명명되었다." comment="" />
+<SENTENCE id="sent9" start="421" end="465" text="영국 군함 바운티호 의 윌리엄 블라이 대령이 라로통가와 아이투타키를 발견했다. " comment="" />
+<QSLINK id="qsl1" fromID="pl14" fromText="내륙" toID="pl15" toText="화산" relType="NTPP" trajector="pl15" landmark="pl14" trigger="s4" comment="" />
+<QSLINK id="qsl2" fromID="pl18" fromText="쿡 제도" toID="se1" toText="테망가산" relType="NTPP" trajector="se1" landmark="pl18" trigger="s6" comment="" />
+<QSLINK id="qsl4" fromID="pl11" fromText="마우케" toID="pl15" toText="화산" relType="NTPP" trajector="pl14" landmark="pl11" trigger="s4" comment="" />
+<QSLINK id="qsl5" fromID="pl12" fromText="아티우" toID="pl15" toText="화산" relType="NTPP" trajector="pl14" landmark="pl12" trigger="s4" comment="" />
+<QSLINK id="qsl6" fromID="pl13" fromText="미티아로" toID="pl15" toText="화산" relType="NTPP" trajector="pl14" landmark="pl13" trigger="s4" comment="" />
+<QSLINK id="qsl8" fromID="pl16" fromText="라로통가" toID="se1" toText="테망가산" relType="NTPP" trajector="se1" landmark="pl16" trigger="s2" comment="" />
+<QSLINK id="qsl0" fromID="pl19" fromText="뉴질랜드 자치령" toID="pl5" toText="남태평양" relType="NTPP" trajector="pl19" landmark="pl5" trigger="s1" comment="" />
+<QSLINK id="qsl3" fromID="pl17" fromText="연합국" toID="pl1" toText="뉴질랜드" relType="NTPP" trajector="pl17" landmark="pl1" trigger="s3" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="항해" toID="pl22" toText="섬들" trigger="m0" source="" goal="" midPoint="" mover="" landmark="pl22" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="도착해" toID="pl9" toText="그곳" trigger="m1" source="" goal="pl9" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl2" fromID="se1" fromText="테망가산" toID="m2" toText="솟" trigger="m2" source="" goal="" midPoint="" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl3" fromID="m3" fromText="탐험" toID="pl22" toText="섬들" trigger="m3" source="" goal="" midPoint="" mover="" landmark="pl22" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MEASURELINK id="ml0" fromID="se1" fromText="테망가산" toID="me0" toText="652m" trajector="se1" landmark="se1" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

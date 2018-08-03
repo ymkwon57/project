@@ -1,0 +1,236 @@
+{
+    "doc_id": "E2016.790.19_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "솔거", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<인명> 신라 진흥왕 때의 화가(?~?).", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "인명", "type": "NNG", "position": 1, "weight": 0.0157248}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "신라", "type": "NNP", "position": 9, "weight": 0.9}, 
+                {"id": 4, "lemma": "진흥왕", "type": "NNP", "position": 16, "weight": 0.080116}, 
+                {"id": 5, "lemma": "때", "type": "NNG", "position": 26, "weight": 0.280999}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 29, "weight": 0.0694213}, 
+                {"id": 7, "lemma": "화가", "type": "NNG", "position": 33, "weight": 0.9}, 
+                {"id": 8, "lemma": "(", "type": "SS", "position": 39, "weight": 1}, 
+                {"id": 9, "lemma": "?", "type": "SF", "position": 40, "weight": 1}, 
+                {"id": 10, "lemma": "~", "type": "SO", "position": 41, "weight": 1}, 
+                {"id": 11, "lemma": "?", "type": "SF", "position": 42, "weight": 1}, 
+                {"id": 12, "lemma": ")", "type": "SS", "position": 43, "weight": 1}, 
+                {"id": 13, "lemma": ".", "type": "SF", "position": 44, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "인명", "type": "NNG", "scode": "010000", "weight": 0.2, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "신라", "type": "NNP", "scode": "000000", "weight": 1, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "진흥왕", "type": "NNP", "scode": "000000", "weight": 1, "position": 16, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "때", "type": "NNG", "scode": "010001", "weight": 0.0666667, "position": 26, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 29, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "화가", "type": "NNG", "scode": "030000", "weight": 0.333333, "position": 33, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 39, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 40, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "~", "type": "SO", "scode": "000000", "weight": 1, "position": 41, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 42, "begin": 11, "end": 11}, 
+                {"id": 12, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 43, "begin": 12, "end": 12}, 
+                {"id": 13, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 44, "begin": 13, "end": 13}
+            ], 
+            "word": [
+                {"id": 0, "text": "<인명>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "신라", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "진흥왕", "type": "", "begin": 4, "end": 4}, 
+                {"id": 3, "text": "때의", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "화가(?~?).", "type": "", "begin": 7, "end": 13}
+            ], 
+            "NE": [
+                {"id": 0, "text": "신라 진흥왕 때", "type": "DT_DYNASTY", "begin": 3, "end": 5, "weight": 0.766043, "common_noun": 0}, 
+                {"id": 1, "text": "화가", "type": "CV_OCCUPATION", "begin": 7, "end": 7, "weight": 0.513615, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<인명>", "head": 4, "label": "NP", "mod": [], "weight": 0.845832}, 
+                {"id": 1, "text": "신라", "head": 2, "label": "NP", "mod": [], "weight": 0.758274}, 
+                {"id": 2, "text": "진흥왕", "head": 3, "label": "NP", "mod": [1], "weight": 0.784684}, 
+                {"id": 3, "text": "때의", "head": 4, "label": "NP_MOD", "mod": [2], "weight": 0.795357}, 
+                {"id": 4, "text": "화가(?~?).", "head": -1, "label": "NP", "mod": [0, 3], "weight": 0.339168}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "황룡사의 벽화 <노송도>와 분황사의 <관음보살>, 진주 단속사의 <유마거사상> 따위를 그렸으나 지금은 전하지 않는다.", 
+            "morp": [
+                {"id": 0, "lemma": "황룡사", "type": "NNP", "position": 46, "weight": 0.00183411}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 55, "weight": 0.120732}, 
+                {"id": 2, "lemma": "벽화", "type": "NNG", "position": 59, "weight": 0.9}, 
+                {"id": 3, "lemma": "<", "type": "SS", "position": 66, "weight": 1}, 
+                {"id": 4, "lemma": "노송도", "type": "NNP", "position": 67, "weight": 0.0337285}, 
+                {"id": 5, "lemma": ">", "type": "SS", "position": 76, "weight": 1}, 
+                {"id": 6, "lemma": "와", "type": "JKB", "position": 77, "weight": 0.0179926}, 
+                {"id": 7, "lemma": "분황사", "type": "NNP", "position": 81, "weight": 0.6}, 
+                {"id": 8, "lemma": "의", "type": "JKG", "position": 90, "weight": 0.120732}, 
+                {"id": 9, "lemma": "<", "type": "SS", "position": 94, "weight": 1}, 
+                {"id": 10, "lemma": "관음보살", "type": "NNP", "position": 95, "weight": 0.9}, 
+                {"id": 11, "lemma": ">", "type": "SS", "position": 107, "weight": 1}, 
+                {"id": 12, "lemma": ",", "type": "SP", "position": 108, "weight": 1}, 
+                {"id": 13, "lemma": "진주", "type": "NNP", "position": 110, "weight": 0.0668817}, 
+                {"id": 14, "lemma": "단속사", "type": "NNP", "position": 117, "weight": 0.9}, 
+                {"id": 15, "lemma": "의", "type": "JKG", "position": 126, "weight": 0.120732}, 
+                {"id": 16, "lemma": "<", "type": "SS", "position": 130, "weight": 1}, 
+                {"id": 17, "lemma": "유마거사상", "type": "NNP", "position": 131, "weight": 0.05}, 
+                {"id": 18, "lemma": ">", "type": "SS", "position": 146, "weight": 1}, 
+                {"id": 19, "lemma": "따위", "type": "NNB", "position": 148, "weight": 0.9}, 
+                {"id": 20, "lemma": "를", "type": "JKO", "position": 154, "weight": 0.0669358}, 
+                {"id": 21, "lemma": "그리", "type": "VV", "position": 158, "weight": 0.604417}, 
+                {"id": 22, "lemma": "었", "type": "EP", "position": 161, "weight": 0.9}, 
+                {"id": 23, "lemma": "으나", "type": "EC", "position": 164, "weight": 0.197698}, 
+                {"id": 24, "lemma": "지금", "type": "NNG", "position": 171, "weight": 0.125279}, 
+                {"id": 25, "lemma": "은", "type": "JX", "position": 177, "weight": 0.0449928}, 
+                {"id": 26, "lemma": "전하", "type": "VV", "position": 181, "weight": 0.138896}, 
+                {"id": 27, "lemma": "지", "type": "EC", "position": 187, "weight": 0.301842}, 
+                {"id": 28, "lemma": "않", "type": "VX", "position": 191, "weight": 0.256301}, 
+                {"id": 29, "lemma": "는다", "type": "EF", "position": 194, "weight": 0.181907}, 
+                {"id": 30, "lemma": ".", "type": "SF", "position": 200, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "황룡사", "type": "NNP", "scode": "000000", "weight": 1, "position": 46, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 55, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "벽화", "type": "NNG", "scode": "000000", "weight": 1, "position": 59, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 66, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "노송도", "type": "NNP", "scode": "000000", "weight": 0, "position": 67, "begin": 4, "end": 4}, 
+                {"id": 5, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 76, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "와", "type": "JKB", "scode": "000000", "weight": 1, "position": 77, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "분황사", "type": "NNP", "scode": "000000", "weight": 1, "position": 81, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 90, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 94, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "관음보살", "type": "NNP", "scode": "000000", "weight": 1, "position": 95, "begin": 10, "end": 10}, 
+                {"id": 11, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 107, "begin": 11, "end": 11}, 
+                {"id": 12, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 108, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "진주", "type": "NNP", "scode": "030000", "weight": 0.1, "position": 110, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "단속사", "type": "NNP", "scode": "000000", "weight": 1, "position": 117, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 126, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 130, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "유마거사상", "type": "NNP", "scode": "000000", "weight": 0, "position": 131, "begin": 17, "end": 17}, 
+                {"id": 18, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 146, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "따위", "type": "NNB", "scode": "000001", "weight": 0.5, "position": 148, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 154, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "그리", "type": "VV", "scode": "020001", "weight": 0.166667, "position": 158, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 161, "begin": 22, "end": 22}, 
+                {"id": 23, "text": "으나", "type": "EC", "scode": "000000", "weight": 1, "position": 164, "begin": 23, "end": 23}, 
+                {"id": 24, "text": "지금", "type": "NNG", "scode": "030000", "weight": 0.1, "position": 171, "begin": 24, "end": 24}, 
+                {"id": 25, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 177, "begin": 25, "end": 25}, 
+                {"id": 26, "text": "전하", "type": "VV", "scode": "000100", "weight": 0.25, "position": 181, "begin": 26, "end": 26}, 
+                {"id": 27, "text": "지", "type": "EC", "scode": "000000", "weight": 1, "position": 187, "begin": 27, "end": 27}, 
+                {"id": 28, "text": "않", "type": "VX", "scode": "000200", "weight": 0.333333, "position": 191, "begin": 28, "end": 28}, 
+                {"id": 29, "text": "는다", "type": "EF", "scode": "000000", "weight": 1, "position": 194, "begin": 29, "end": 29}, 
+                {"id": 30, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 200, "begin": 30, "end": 30}
+            ], 
+            "word": [
+                {"id": 0, "text": "황룡사의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "벽화", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "<노송도>와", "type": "", "begin": 3, "end": 6}, 
+                {"id": 3, "text": "분황사의", "type": "", "begin": 7, "end": 8}, 
+                {"id": 4, "text": "<관음보살>,", "type": "", "begin": 9, "end": 12}, 
+                {"id": 5, "text": "진주", "type": "", "begin": 13, "end": 13}, 
+                {"id": 6, "text": "단속사의", "type": "", "begin": 14, "end": 15}, 
+                {"id": 7, "text": "<유마거사상>", "type": "", "begin": 16, "end": 18}, 
+                {"id": 8, "text": "따위를", "type": "", "begin": 19, "end": 20}, 
+                {"id": 9, "text": "그렸으나", "type": "", "begin": 21, "end": 23}, 
+                {"id": 10, "text": "지금은", "type": "", "begin": 24, "end": 25}, 
+                {"id": 11, "text": "전하지", "type": "", "begin": 26, "end": 27}, 
+                {"id": 12, "text": "않는다.", "type": "", "begin": 28, "end": 30}
+            ], 
+            "NE": [
+                {"id": 0, "text": "황룡사", "type": "AF_CULTURAL_ASSET", "begin": 0, "end": 0, "weight": 0.75273, "common_noun": 0}, 
+                {"id": 1, "text": "벽화", "type": "FD_ART", "begin": 2, "end": 2, "weight": 0.856064, "common_noun": 0}, 
+                {"id": 2, "text": "노송도", "type": "AFW_ART_CRAFT", "begin": 4, "end": 4, "weight": 0.453093, "common_noun": 0}, 
+                {"id": 3, "text": "분황사", "type": "AF_CULTURAL_ASSET", "begin": 7, "end": 7, "weight": 1, "common_noun": 0}, 
+                {"id": 4, "text": "관음보살", "type": "AFW_ART_CRAFT", "begin": 10, "end": 10, "weight": 0.270766, "common_noun": 0}, 
+                {"id": 5, "text": "진주", "type": "LCP_CITY", "begin": 13, "end": 13, "weight": 0.359007, "common_noun": 0}, 
+                {"id": 6, "text": "단속사", "type": "AF_CULTURAL_ASSET", "begin": 14, "end": 14, "weight": 1, "common_noun": 0}, 
+                {"id": 7, "text": "유마거사상", "type": "AFW_ART_CRAFT", "begin": 17, "end": 17, "weight": 0.406194, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "황룡사의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.132218}, 
+                {"id": 1, "text": "벽화", "head": 2, "label": "NP", "mod": [0], "weight": 0.401013}, 
+                {"id": 2, "text": "<노송도>와", "head": 7, "label": "NP_CNJ", "mod": [1], "weight": 0.409078}, 
+                {"id": 3, "text": "분황사의", "head": 4, "label": "NP_MOD", "mod": [], "weight": 0.743376}, 
+                {"id": 4, "text": "<관음보살>,", "head": 7, "label": "NP_CNJ", "mod": [3], "weight": 0.351188}, 
+                {"id": 5, "text": "진주", "head": 6, "label": "NP", "mod": [], "weight": 0.722031}, 
+                {"id": 6, "text": "단속사의", "head": 7, "label": "NP_MOD", "mod": [5], "weight": 0.690608}, 
+                {"id": 7, "text": "<유마거사상>", "head": 8, "label": "NP", "mod": [2, 4, 6], "weight": 0.512192}, 
+                {"id": 8, "text": "따위를", "head": 9, "label": "NP_OBJ", "mod": [7], "weight": 0.793153}, 
+                {"id": 9, "text": "그렸으나", "head": 11, "label": "VP", "mod": [8], "weight": 0.575909}, 
+                {"id": 10, "text": "지금은", "head": 11, "label": "NP_AJT", "mod": [], "weight": 0.282535}, 
+                {"id": 11, "text": "전하지", "head": 12, "label": "VP", "mod": [9, 10], "weight": 0.758564}, 
+                {"id": 12, "text": "않는다.", "head": -1, "label": "VP", "mod": [11], "weight": 0.000123725}
+            ], 
+            "SRL": [
+                {"verb": "그리", "sense": 1, "word_id": 9, "weight": 0.514891, "argument": [
+                    {"type": "ARG1", "word_id": 8, "text": "따위를", "weight": 0.514891}
+                ]}, 
+                {"verb": "전하", "sense": 1, "word_id": 11, "weight": 0.452106, "argument": [
+                    {"type": "ARG1", "word_id": 8, "text": "따위를", "weight": 0.352428}, 
+                    {"type": "ARGM-TMP", "word_id": 10, "text": "지금은", "weight": 0.387114}, 
+                    {"type": "ARGM-NEG", "word_id": 12, "text": "않는다.", "weight": 0.616776}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": 0, "text": "신라 진흥왕 때의", "start_eid_short": 1, "end_eid_short": 3, "text_short": "신라 진흥왕 때의"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 1, "end_eid": 4, "ne_id": 1, "text": "신라 진흥왕 때의 화가(?~?).", "start_eid_short": 1, "end_eid_short": 4, "text_short": "신라 진흥왕 때의 화가(?~?)."}
+        ]}, 
+        {"id": 2, "type": "AF_CULTURAL_ASSET", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "황룡사의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "황룡사의"}
+        ]}, 
+        {"id": 3, "type": "FD_ART", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 1, "start_eid": 0, "end_eid": 2, "ne_id": 2, "text": "황룡사의 벽화 <노송도>와", "start_eid_short": 0, "end_eid_short": 2, "text_short": "황룡사의 벽화 <노송도>와"}, 
+            {"id": 4, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "황룡사의 벽화", "start_eid_short": 0, "end_eid_short": 1, "text_short": "황룡사의 벽화"}
+        ]}, 
+        {"id": 4, "type": "AF_CULTURAL_ASSET", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 3, "end_eid": 3, "ne_id": 3, "text": "분황사의", "start_eid_short": 3, "end_eid_short": 3, "text_short": "분황사의"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 3, "end_eid": 4, "ne_id": 4, "text": "분황사의 <관음보살>,", "start_eid_short": 3, "end_eid_short": 4, "text_short": "분황사의 <관음보살>,"}
+        ]}, 
+        {"id": 6, "type": "AF_CULTURAL_ASSET", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 5, "end_eid": 6, "ne_id": 6, "text": "진주 단속사의", "start_eid_short": 5, "end_eid_short": 6, "text_short": "진주 단속사의"}
+        ]}, 
+        {"id": 7, "type": "LCP_CITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 5, "end_eid": 5, "ne_id": 5, "text": "진주", "start_eid_short": 5, "end_eid_short": 5, "text_short": "진주"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 5, "end_eid": 7, "ne_id": 7, "text": "진주 단속사의 <유마거사상>", "start_eid_short": 5, "end_eid_short": 7, "text_short": "진주 단속사의 <유마거사상>"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 10, "end_eid": 10, "ne_id": -1, "text": "지금은", "start_eid_short": 10, "end_eid_short": 10, "text_short": "지금은"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 1, "start_eid": 0, "end_eid": 8, "ne_id": -1, "text": "황룡사의 벽화 <노송도>와 분황사의 <관음보살>, 진주 단속사의 <유마거사상> 따위를", "start_eid_short": 3, "end_eid_short": 8, "text_short": "분황사의 <관음보살>, 진주 단속사의 <유마거사상> 따위를"}
+        ]}
+    ]
+}

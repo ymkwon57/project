@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+미드웨이 제도[Midway Islands]는 태평양 한가운데 있는 미국의 영토이다. 호놀룰루에서 북서쪽으로 2,100㎞ 떨어져 있다. 하와이 군도의 서쪽 끝 가까이에 있는 제도로서 이스턴(그린)과 샌드라는 2개의 섬과 그를 둘러싸는 원둘레 24㎞의 미드웨이 환초로 구성되어 있다. 1867년에 미국은 미드웨이 제도를 점령하고, 러시아-아메리카 무역 회사로부터 알래스카를 700만달러에 사들였다.
+제2차 세계 대전 때 미드웨이 해전의 격전지로 유명했다. 일본은 전략의 주도권을 잃어버렸기 때문에, 누벨칼레도니와 피지 제도 및 사모아 섬의 침략 계획을 취소했다. 42년 5월의 산호해 해전과 같은 해 6월 미드웨이 해전에서 심대한 타격을 받았다. 미드웨이 해전은 태평양 전쟁 초기인 1942년 6월 5일에서 7일에 걸쳐 하와이 북서쪽 미드웨이 앞바다에서 있었던 미·일 양군의 전투이다. 미국은 일본과 그 동맹국들에게 선전 포고를 하고 태평양의 미드웨이 제도 근처에서 일본군에게 복수했다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="8" text="미드웨이 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="26" end="29" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="38" end="40" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="48" end="52" text="호놀룰루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="76" end="82" text="하와이 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="102" end="105" text="이스턴" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="106" end="108" text="그린" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="111" end="113" text="샌드" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="123" end="124" text="그" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="165" end="167" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="169" end="176" text="미드웨이 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="202" end="206" text="알래스카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="278" end="284" text="누벨칼레도니" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="286" end="291" text="피지 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="294" end="299" text="사모아 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="402" end="405" text="하와이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="466" end="469" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="471" end="478" text="미드웨이 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="140" end="147" text="미드웨이 환초" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me2" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="48" />
+<PLACE id="pl3" start="42" end="44" text="영토" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="97" end="99" text="제도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="87" end="88" text="끝" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="120" end="121" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="243" end="246" text="격전지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="410" end="414" text="미드웨이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="415" end="418" text="앞바다" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="439" end="441" text="미국" type="PERSON" dimensionality="POINT" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="484" end="487" text="일본군" type="PERSON" dimensionality="POINT" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="30" end="34" text="한가운데" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="55" end="58" text="북서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="84" end="86" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="126" end="129" text="둘러싸" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="406" end="409" text="북서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="68" end="71" text="떨어져" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="469" end="470" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="40" end="41" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me0" start="61" end="67" text="2,100㎞" value="2100" unit="km" comment="" />
+<MEASURE id="me1" start="89" end="92" text="가까이" value="근처" unit="" comment="" />
+<MEASURE id="me2" start="135" end="138" text="24㎞" value="24" unit="km" comment="" />
+<MEASURE id="me3" start="479" end="481" text="근처" value="근처" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="47" text="미드웨이 제도[Midway Islands]는 태평양 한가운데 있는 미국의 영토이다." comment="" />
+<SENTENCE id="sent1" start="48" end="75" text="호놀룰루에서 북서쪽으로 2,100㎞ 떨어져 있다." comment="" />
+<SENTENCE id="sent2" start="76" end="157" text="하와이 군도의 서쪽 끝 가까이에 있는 제도로서 이스턴(그린)과 샌드라는 2개의 섬과 그를 둘러싸는 원둘레 24㎞의 미드웨이 환초로 구성되어 있다." comment="" />
+<SENTENCE id="sent3" start="158" end="221" text="1867년에 미국은 미드웨이 제도를 점령하고, 러시아-아메리카 무역 회사로부터 알래스카를 700만달러에 사들였다." comment="" />
+<SENTENCE id="sent4" start="222" end="253" text="제2차 세계 대전 때 미드웨이 해전의 격전지로 유명했다." comment="" />
+<SENTENCE id="sent5" start="254" end="313" text="일본은 전략의 주도권을 잃어버렸기 때문에, 누벨칼레도니와 피지 제도 및 사모아 섬의 침략 계획을 취소했다." comment="" />
+<SENTENCE id="sent6" start="314" end="360" text="42년 5월의 산호해 해전과 같은 해 6월 미드웨이 해전에서 심대한 타격을 받았다." comment="" />
+<SENTENCE id="sent7" start="361" end="438" text="미드웨이 해전은 태평양 전쟁 초기인 1942년 6월 5일에서 7일에 걸쳐 하와이 북서쪽 미드웨이 앞바다에서 있었던 미·일 양군의 전투이다." comment="" />
+<SENTENCE id="sent8" start="439" end="495" text="미국은 일본과 그 동맹국들에게 선전 포고를 하고 태평양의 미드웨이 제도 근처에서 일본군에게 복수했다." comment="" />
+<QSLINK id="qsl2" fromID="pl4" fromText="호놀룰루" toID="pl18" toText="" relType="DC" trajector="pl4" landmark="pl18" trigger="s6" comment="" />
+<QSLINK id="qsl3" fromID="pl37" fromText="미드웨이 환초" toID="pl11" toText="그" relType="NTPP" trajector="pl37" landmark="pl11" trigger="s3" comment="" />
+<QSLINK id="qsl5" fromID="se0" fromText="미국" toID="pl35" toText="미드웨이 제도" relType="OUT" trajector="se0" landmark="pl35" trigger="s7" comment="" />
+<QSLINK id="qsl1" fromID="pl3" fromText="영토" toID="pl1" toText="태평양" relType="IN" trajector="pl3" landmark="pl1" trigger="s0" comment="" />
+<QSLINK id="qsl0" fromID="pl0" fromText="미드웨이 제도" toID="pl1" toText="태평양" relType="IN" trajector="pl0" landmark="pl1" trigger="s0" comment="" />
+<QSLINK id="qsl4" fromID="pl35" fromText="미드웨이 제도" toID="pl34" toText="태평양" relType="NTPP" trajector="pl35" landmark="pl34" trigger="s5" comment="" />
+<QSLINK id="qsl7" fromID="pl3" fromText="영토" toID="pl2" toText="미국" relType="NTPP" trajector="pl3" landmark="pl2" trigger="s8" comment="" />
+<OLINK id="ol0" fromID="pl4" fromText="호놀룰루" toID="pl18" toText="" relType="북서" trajector="pl4" landmark="pl18" trigger="s1" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl5" fromText="하와이 군도" toID="pl6" toText="제도" relType="서" trajector="pl6" landmark="pl5" trigger="s2" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl10" fromText="끝" toID="pl5" toText="하와이 군도" relType="서" trajector="pl10" landmark="pl5" trigger="s2" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="pl17" fromText="미드웨이 앞바다" toID="pl27" toText="하와이" relType="북서" trajector="pl17" landmark="pl27" trigger="s4" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<MEASURELINK id="ml0" fromID="pl4" fromText="호놀룰루" toID="pl18" toText="" trajector="pl18" landmark="pl4" relType="DISTANCE" val="ms0" endPoint1="pl18" endPoint2="pl4" comment="" />
+<MEASURELINK id="ml2" fromID="pl37" fromText="미드웨이 환초" toID="me2" toText="24㎞" trajector="pl37" landmark="pl37" relType="LENGTH" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl6" fromText="제도" toID="pl10" toText="끝" trajector="pl6" landmark="pl10" relType="DISTANCE" val="me1" endPoint1="pl6" endPoint2="pl10" comment="" />
+<MEASURELINK id="ml3" fromID="se1" fromText="일본군" toID="pl35" toText="미드웨이 제도" trajector="se1" landmark="pl35" relType="DISTANCE" val="" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

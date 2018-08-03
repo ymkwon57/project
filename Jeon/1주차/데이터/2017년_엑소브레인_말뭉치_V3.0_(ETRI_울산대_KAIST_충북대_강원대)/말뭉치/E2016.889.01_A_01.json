@@ -1,0 +1,439 @@
+{
+    "doc_id": "E2016.889.01_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "노인과 바다", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "《노인과 바다》(The Old Man and the Sea)는 미국의 소설가 어니스트 헤밍웨이의 단편소설이다.", 
+            "morp": [
+                {"id": 0, "lemma": "《", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "노인", "type": "NNG", "position": 3, "weight": 0.9}, 
+                {"id": 2, "lemma": "과", "type": "JC", "position": 9, "weight": 0.017569}, 
+                {"id": 3, "lemma": "바다", "type": "NNG", "position": 13, "weight": 0.774346}, 
+                {"id": 4, "lemma": "》", "type": "SS", "position": 19, "weight": 1}, 
+                {"id": 5, "lemma": "(", "type": "SS", "position": 22, "weight": 1}, 
+                {"id": 6, "lemma": "The", "type": "SL", "position": 23, "weight": 1}, 
+                {"id": 7, "lemma": "Old", "type": "SL", "position": 27, "weight": 1}, 
+                {"id": 8, "lemma": "Man", "type": "SL", "position": 31, "weight": 1}, 
+                {"id": 9, "lemma": "and", "type": "SL", "position": 35, "weight": 1}, 
+                {"id": 10, "lemma": "the", "type": "SL", "position": 39, "weight": 1}, 
+                {"id": 11, "lemma": "Sea", "type": "SL", "position": 43, "weight": 1}, 
+                {"id": 12, "lemma": ")", "type": "SS", "position": 46, "weight": 1}, 
+                {"id": 13, "lemma": "는", "type": "JX", "position": 47, "weight": 0.00823314}, 
+                {"id": 14, "lemma": "미국", "type": "NNP", "position": 51, "weight": 0.0448659}, 
+                {"id": 15, "lemma": "의", "type": "JKG", "position": 57, "weight": 0.0987295}, 
+                {"id": 16, "lemma": "소설", "type": "NNG", "position": 61, "weight": 0.9}, 
+                {"id": 17, "lemma": "가", "type": "XSN", "position": 67, "weight": 0.000115417}, 
+                {"id": 18, "lemma": "어니스트", "type": "NNP", "position": 71, "weight": 0.5}, 
+                {"id": 19, "lemma": "헤밍웨이", "type": "NNP", "position": 84, "weight": 0.9}, 
+                {"id": 20, "lemma": "의", "type": "JKG", "position": 96, "weight": 0.0987295}, 
+                {"id": 21, "lemma": "단편", "type": "NNG", "position": 100, "weight": 0.9}, 
+                {"id": 22, "lemma": "소설", "type": "NNG", "position": 106, "weight": 0.9}, 
+                {"id": 23, "lemma": "이", "type": "VCP", "position": 112, "weight": 0.0177525}, 
+                {"id": 24, "lemma": "다", "type": "EF", "position": 115, "weight": 0.353579}, 
+                {"id": 25, "lemma": ".", "type": "SF", "position": 118, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "《", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "노인", "type": "NNG", "scode": "010000", "weight": 0.166667, "position": 3, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 9, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "바다", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 13, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "》", "type": "SS", "scode": "000000", "weight": 1, "position": 19, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 22, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "The", "type": "SL", "scode": "000000", "weight": 1, "position": 23, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "Old", "type": "SL", "scode": "000000", "weight": 1, "position": 27, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "Man", "type": "SL", "scode": "000000", "weight": 1, "position": 31, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "and", "type": "SL", "scode": "000000", "weight": 1, "position": 35, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "the", "type": "SL", "scode": "000000", "weight": 1, "position": 39, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "Sea", "type": "SL", "scode": "000000", "weight": 1, "position": 43, "begin": 11, "end": 11}, 
+                {"id": 12, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 46, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 47, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "미국", "type": "NNP", "scode": "030000", "weight": 0.333333, "position": 51, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 57, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "소설가", "type": "NNG", "scode": "000000", "weight": 1, "position": 61, "begin": 16, "end": 17}, 
+                {"id": 17, "text": "어니스트", "type": "NNP", "scode": "000000", "weight": 0, "position": 71, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "헤밍웨이", "type": "NNP", "scode": "000000", "weight": 1, "position": 84, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 96, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "단편소설", "type": "NNG", "scode": "000000", "weight": 1, "position": 100, "begin": 21, "end": 22}, 
+                {"id": 21, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 112, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 115, "begin": 24, "end": 24}, 
+                {"id": 23, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 118, "begin": 25, "end": 25}
+            ], 
+            "word": [
+                {"id": 0, "text": "《노인과", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "바다》(The", "type": "", "begin": 3, "end": 6}, 
+                {"id": 2, "text": "Old", "type": "", "begin": 7, "end": 7}, 
+                {"id": 3, "text": "Man", "type": "", "begin": 8, "end": 8}, 
+                {"id": 4, "text": "and", "type": "", "begin": 9, "end": 9}, 
+                {"id": 5, "text": "the", "type": "", "begin": 10, "end": 10}, 
+                {"id": 6, "text": "Sea)는", "type": "", "begin": 11, "end": 13}, 
+                {"id": 7, "text": "미국의", "type": "", "begin": 14, "end": 15}, 
+                {"id": 8, "text": "소설가", "type": "", "begin": 16, "end": 17}, 
+                {"id": 9, "text": "어니스트", "type": "", "begin": 18, "end": 18}, 
+                {"id": 10, "text": "헤밍웨이의", "type": "", "begin": 19, "end": 20}, 
+                {"id": 11, "text": "단편소설이다.", "type": "", "begin": 21, "end": 25}
+            ], 
+            "NE": [
+                {"id": 0, "text": "노인과 바다", "type": "AFW_DOCUMENT", "begin": 1, "end": 3, "weight": 0.994153, "common_noun": 0}, 
+                {"id": 1, "text": "The Old Man and the Sea", "type": "AFW_DOCUMENT", "begin": 6, "end": 11, "weight": 0.994153, "common_noun": 0}, 
+                {"id": 2, "text": "미국", "type": "LCP_COUNTRY", "begin": 14, "end": 14, "weight": 0.490506, "common_noun": 0}, 
+                {"id": 3, "text": "소설가", "type": "CV_OCCUPATION", "begin": 16, "end": 17, "weight": 0.464119, "common_noun": 0}, 
+                {"id": 4, "text": "어니스트 헤밍웨이", "type": "PS_NAME", "begin": 18, "end": 19, "weight": 0.481327, "common_noun": 0}, 
+                {"id": 5, "text": "단편소설", "type": "FD_ART", "begin": 21, "end": 22, "weight": 0.937547, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "《노인과", "head": 1, "label": "NP_CNJ", "mod": [], "weight": 0.722229}, 
+                {"id": 1, "text": "바다》(The", "head": 2, "label": "NP", "mod": [0], "weight": 0.339749}, 
+                {"id": 2, "text": "Old", "head": 3, "label": "NP", "mod": [1], "weight": 0.422492}, 
+                {"id": 3, "text": "Man", "head": 4, "label": "NP", "mod": [2], "weight": 0.482446}, 
+                {"id": 4, "text": "and", "head": 6, "label": "NP", "mod": [3], "weight": 0.624032}, 
+                {"id": 5, "text": "the", "head": 6, "label": "NP", "mod": [], "weight": 0.711827}, 
+                {"id": 6, "text": "Sea)는", "head": 11, "label": "NP_SBJ", "mod": [4, 5], "weight": 0.739348}, 
+                {"id": 7, "text": "미국의", "head": 8, "label": "NP_MOD", "mod": [], "weight": 0.718586}, 
+                {"id": 8, "text": "소설가", "head": 10, "label": "NP", "mod": [7], "weight": 0.673897}, 
+                {"id": 9, "text": "어니스트", "head": 10, "label": "NP", "mod": [], "weight": 0.664333}, 
+                {"id": 10, "text": "헤밍웨이의", "head": 11, "label": "NP_MOD", "mod": [8, 9], "weight": 0.828728}, 
+                {"id": 11, "text": "단편소설이다.", "head": -1, "label": "VNP", "mod": [6, 10], "weight": 0.00395124}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "1952년에 쓰였으며 낚시가 취미였던 저자의 해박한 지식이 배경이다.", 
+            "morp": [
+                {"id": 0, "lemma": "1952", "type": "SN", "position": 119, "weight": 1}, 
+                {"id": 1, "lemma": "년", "type": "NNB", "position": 123, "weight": 0.414343}, 
+                {"id": 2, "lemma": "에", "type": "JKB", "position": 126, "weight": 0.135559}, 
+                {"id": 3, "lemma": "쓰이", "type": "VV", "position": 130, "weight": 0.9}, 
+                {"id": 4, "lemma": "었", "type": "EP", "position": 133, "weight": 0.9}, 
+                {"id": 5, "lemma": "으며", "type": "EC", "position": 136, "weight": 0.197482}, 
+                {"id": 6, "lemma": "낚시", "type": "NNG", "position": 143, "weight": 0.9}, 
+                {"id": 7, "lemma": "가", "type": "JKS", "position": 149, "weight": 0.066324}, 
+                {"id": 8, "lemma": "취미", "type": "NNG", "position": 153, "weight": 0.9}, 
+                {"id": 9, "lemma": "이", "type": "VCP", "position": 159, "weight": 0.0177525}, 
+                {"id": 10, "lemma": "었", "type": "EP", "position": 159, "weight": 0.9}, 
+                {"id": 11, "lemma": "던", "type": "ETM", "position": 162, "weight": 0.107547}, 
+                {"id": 12, "lemma": "저자", "type": "NNG", "position": 166, "weight": 0.646957}, 
+                {"id": 13, "lemma": "의", "type": "JKG", "position": 172, "weight": 0.0694213}, 
+                {"id": 14, "lemma": "해박", "type": "NNG", "position": 176, "weight": 0.6}, 
+                {"id": 15, "lemma": "하", "type": "XSA", "position": 182, "weight": 0.0001}, 
+                {"id": 16, "lemma": "ㄴ", "type": "ETM", "position": 182, "weight": 0.488779}, 
+                {"id": 17, "lemma": "지식", "type": "NNG", "position": 186, "weight": 0.9}, 
+                {"id": 18, "lemma": "이", "type": "JKS", "position": 192, "weight": 0.0360723}, 
+                {"id": 19, "lemma": "배경", "type": "NNG", "position": 196, "weight": 0.9}, 
+                {"id": 20, "lemma": "이", "type": "VCP", "position": 202, "weight": 0.0177525}, 
+                {"id": 21, "lemma": "다", "type": "EF", "position": 205, "weight": 0.353579}, 
+                {"id": 22, "lemma": ".", "type": "SF", "position": 208, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "1952", "type": "SN", "scode": "000000", "weight": 1, "position": 119, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 123, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 126, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "쓰이", "type": "VV", "scode": "010102", "weight": 0.0588235, "position": 130, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 133, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "으며", "type": "EC", "scode": "000000", "weight": 1, "position": 136, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "낚시", "type": "NNG", "scode": "000003", "weight": 0.25, "position": 143, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 149, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "취미", "type": "NNG", "scode": "040001", "weight": 0.111111, "position": 153, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 159, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 159, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "던", "type": "ETM", "scode": "000000", "weight": 1, "position": 162, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "저자", "type": "NNG", "scode": "050000", "weight": 0.111111, "position": 166, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 172, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "해박하", "type": "VA", "scode": "020000", "weight": 0.5, "position": 176, "begin": 14, "end": 15}, 
+                {"id": 15, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 182, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "지식", "type": "NNG", "scode": "020002", "weight": 0.111111, "position": 186, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 192, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "배경", "type": "NNG", "scode": "010004", "weight": 0.142857, "position": 196, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 202, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 205, "begin": 21, "end": 21}, 
+                {"id": 21, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 208, "begin": 22, "end": 22}
+            ], 
+            "word": [
+                {"id": 0, "text": "1952년에", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "쓰였으며", "type": "", "begin": 3, "end": 5}, 
+                {"id": 2, "text": "낚시가", "type": "", "begin": 6, "end": 7}, 
+                {"id": 3, "text": "취미였던", "type": "", "begin": 8, "end": 11}, 
+                {"id": 4, "text": "저자의", "type": "", "begin": 12, "end": 13}, 
+                {"id": 5, "text": "해박한", "type": "", "begin": 14, "end": 16}, 
+                {"id": 6, "text": "지식이", "type": "", "begin": 17, "end": 18}, 
+                {"id": 7, "text": "배경이다.", "type": "", "begin": 19, "end": 22}
+            ], 
+            "NE": [
+                {"id": 0, "text": "1952년", "type": "DT_YEAR", "begin": 0, "end": 1, "weight": 0.740696, "common_noun": 0}, 
+                {"id": 1, "text": "낚시", "type": "CV_SPORTS", "begin": 6, "end": 6, "weight": 0.524071, "common_noun": 0}, 
+                {"id": 2, "text": "저자", "type": "CV_POSITION", "begin": 12, "end": 12, "weight": 0.524071, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "1952년에", "head": 1, "label": "NP_AJT", "mod": [], "weight": 0.844579}, 
+                {"id": 1, "text": "쓰였으며", "head": 7, "label": "VP", "mod": [0], "weight": 0.748185}, 
+                {"id": 2, "text": "낚시가", "head": 3, "label": "NP_SBJ", "mod": [], "weight": 0.732171}, 
+                {"id": 3, "text": "취미였던", "head": 4, "label": "VNP_MOD", "mod": [2], "weight": 0.387904}, 
+                {"id": 4, "text": "저자의", "head": 6, "label": "NP_MOD", "mod": [3], "weight": 0.640251}, 
+                {"id": 5, "text": "해박한", "head": 6, "label": "VP_MOD", "mod": [], "weight": 0.788291}, 
+                {"id": 6, "text": "지식이", "head": 7, "label": "NP_SBJ", "mod": [4, 5], "weight": 0.493663}, 
+                {"id": 7, "text": "배경이다.", "head": -1, "label": "VNP", "mod": [1, 6], "weight": 0.0352904}
+            ], 
+            "SRL": [
+                {"verb": "쓰", "sense": 2, "word_id": 1, "weight": 0.196328, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 0, "text": "1952년에", "weight": 0.196328}
+                ]}, 
+                {"verb": "해박", "sense": 1, "word_id": 5, "weight": 0.292882, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "지식이", "weight": 0.292882}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "어부인 산티아고 노인이 커다란 청새치를 낚시로 잡지만, 항구로 돌아오는 길에 모두 장완흉상어들에게 빼앗긴 실패와 사자꿈을 꾸는 희망을 담고 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "어부", "type": "NNG", "position": 209, "weight": 0.436019}, 
+                {"id": 1, "lemma": "이", "type": "VCP", "position": 215, "weight": 0.0177525}, 
+                {"id": 2, "lemma": "ㄴ", "type": "ETM", "position": 215, "weight": 0.220712}, 
+                {"id": 3, "lemma": "산티아고", "type": "NNP", "position": 219, "weight": 0.55}, 
+                {"id": 4, "lemma": "노인", "type": "NNG", "position": 232, "weight": 0.9}, 
+                {"id": 5, "lemma": "이", "type": "JKS", "position": 238, "weight": 0.0360723}, 
+                {"id": 6, "lemma": "커다랗", "type": "VA", "position": 242, "weight": 0.9}, 
+                {"id": 7, "lemma": "ㄴ", "type": "ETM", "position": 248, "weight": 0.430446}, 
+                {"id": 8, "lemma": "청", "type": "NNG", "position": 252, "weight": 0.315098}, 
+                {"id": 9, "lemma": "새치", "type": "NNG", "position": 255, "weight": 0.9}, 
+                {"id": 10, "lemma": "를", "type": "JKO", "position": 261, "weight": 0.137686}, 
+                {"id": 11, "lemma": "낚시", "type": "NNG", "position": 265, "weight": 0.9}, 
+                {"id": 12, "lemma": "로", "type": "JKB", "position": 271, "weight": 0.153229}, 
+                {"id": 13, "lemma": "잡", "type": "VV", "position": 275, "weight": 0.444201}, 
+                {"id": 14, "lemma": "지만", "type": "EC", "position": 278, "weight": 0.423647}, 
+                {"id": 15, "lemma": ",", "type": "SP", "position": 284, "weight": 1}, 
+                {"id": 16, "lemma": "항구", "type": "NNG", "position": 286, "weight": 0.9}, 
+                {"id": 17, "lemma": "로", "type": "JKB", "position": 292, "weight": 0.153229}, 
+                {"id": 18, "lemma": "돌아오", "type": "VV", "position": 296, "weight": 0.9}, 
+                {"id": 19, "lemma": "는", "type": "ETM", "position": 305, "weight": 0.184941}, 
+                {"id": 20, "lemma": "길", "type": "NNG", "position": 309, "weight": 0.369575}, 
+                {"id": 21, "lemma": "에", "type": "JKB", "position": 312, "weight": 0.153364}, 
+                {"id": 22, "lemma": "모두", "type": "MAG", "position": 316, "weight": 0.0442972}, 
+                {"id": 23, "lemma": "장완흉상어", "type": "NNG", "position": 323, "weight": 0.6}, 
+                {"id": 24, "lemma": "들", "type": "XSN", "position": 338, "weight": 0.0299841}, 
+                {"id": 25, "lemma": "에게", "type": "JKB", "position": 341, "weight": 0.121677}, 
+                {"id": 26, "lemma": "빼앗기", "type": "VV", "position": 348, "weight": 0.9}, 
+                {"id": 27, "lemma": "ㄴ", "type": "ETM", "position": 354, "weight": 0.304215}, 
+                {"id": 28, "lemma": "실패", "type": "NNG", "position": 358, "weight": 0.9}, 
+                {"id": 29, "lemma": "와", "type": "JC", "position": 364, "weight": 0.0169714}, 
+                {"id": 30, "lemma": "사자", "type": "NNG", "position": 368, "weight": 0.6}, 
+                {"id": 31, "lemma": "꿈", "type": "NNG", "position": 368, "weight": 0.6}, 
+                {"id": 32, "lemma": "을", "type": "JKO", "position": 377, "weight": 0.0266447}, 
+                {"id": 33, "lemma": "꾸", "type": "VV", "position": 381, "weight": 0.768042}, 
+                {"id": 34, "lemma": "는", "type": "ETM", "position": 384, "weight": 0.184941}, 
+                {"id": 35, "lemma": "희망", "type": "NNG", "position": 388, "weight": 0.658493}, 
+                {"id": 36, "lemma": "을", "type": "JKO", "position": 394, "weight": 0.129611}, 
+                {"id": 37, "lemma": "담", "type": "VV", "position": 398, "weight": 0.603567}, 
+                {"id": 38, "lemma": "고", "type": "EC", "position": 401, "weight": 0.416679}, 
+                {"id": 39, "lemma": "있", "type": "VX", "position": 405, "weight": 0.125953}, 
+                {"id": 40, "lemma": "다", "type": "EF", "position": 408, "weight": 0.180366}, 
+                {"id": 41, "lemma": ".", "type": "SF", "position": 411, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "어부", "type": "NNG", "scode": "030000", "weight": 0.333333, "position": 209, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 215, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 215, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "산티아고", "type": "NNP", "scode": "000000", "weight": 1, "position": 219, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "노인", "type": "NNG", "scode": "010000", "weight": 0.166667, "position": 232, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 238, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "커다랗", "type": "VA", "scode": "000000", "weight": 1, "position": 242, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 248, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "청새치", "type": "NNG", "scode": "000000", "weight": 1, "position": 252, "begin": 8, "end": 9}, 
+                {"id": 9, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 261, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "낚시", "type": "NNG", "scode": "000001", "weight": 0.25, "position": 265, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 271, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "잡", "type": "VV", "scode": "010102", "weight": 0.0322581, "position": 275, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "지만", "type": "EC", "scode": "000000", "weight": 1, "position": 278, "begin": 14, "end": 14}, 
+                {"id": 14, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 284, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "항구", "type": "NNG", "scode": "030000", "weight": 0.333333, "position": 286, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 292, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "돌아오", "type": "VV", "scode": "000101", "weight": 0.125, "position": 296, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 305, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "길", "type": "NNG", "scode": "010002", "weight": 0.0454545, "position": 309, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 312, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "모두", "type": "MAG", "scode": "010000", "weight": 0.2, "position": 316, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "장완흉상어", "type": "NNG", "scode": "000000", "weight": 0, "position": 323, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "들", "type": "XSN", "scode": "090000", "weight": 0.0909091, "position": 338, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "에게", "type": "JKB", "scode": "000000", "weight": 1, "position": 341, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "빼앗기", "type": "VV", "scode": "000001", "weight": 0.2, "position": 348, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 354, "begin": 27, "end": 27}, 
+                {"id": 27, "text": "실패", "type": "NNG", "scode": "020000", "weight": 0.333333, "position": 358, "begin": 28, "end": 28}, 
+                {"id": 28, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 364, "begin": 29, "end": 29}, 
+                {"id": 29, "text": "사자", "type": "NNG", "scode": "110000", "weight": 0.0555556, "position": 368, "begin": 30, "end": 30}, 
+                {"id": 30, "text": "꿈", "type": "NNG", "scode": "010001", "weight": 0.25, "position": 368, "begin": 31, "end": 31}, 
+                {"id": 31, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 377, "begin": 32, "end": 32}, 
+                {"id": 32, "text": "꾸", "type": "VV", "scode": "010000", "weight": 0.25, "position": 381, "begin": 33, "end": 33}, 
+                {"id": 33, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 384, "begin": 34, "end": 34}, 
+                {"id": 34, "text": "희망", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 388, "begin": 35, "end": 35}, 
+                {"id": 35, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 394, "begin": 36, "end": 36}, 
+                {"id": 36, "text": "담", "type": "VV", "scode": "010002", "weight": 0.333333, "position": 398, "begin": 37, "end": 37}, 
+                {"id": 37, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 401, "begin": 38, "end": 38}, 
+                {"id": 38, "text": "있", "type": "VX", "scode": "010902", "weight": 0.0416667, "position": 405, "begin": 39, "end": 39}, 
+                {"id": 39, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 408, "begin": 40, "end": 40}, 
+                {"id": 40, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 411, "begin": 41, "end": 41}
+            ], 
+            "word": [
+                {"id": 0, "text": "어부인", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "산티아고", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "노인이", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "커다란", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "청새치를", "type": "", "begin": 8, "end": 10}, 
+                {"id": 5, "text": "낚시로", "type": "", "begin": 11, "end": 12}, 
+                {"id": 6, "text": "잡지만,", "type": "", "begin": 13, "end": 15}, 
+                {"id": 7, "text": "항구로", "type": "", "begin": 16, "end": 17}, 
+                {"id": 8, "text": "돌아오는", "type": "", "begin": 18, "end": 19}, 
+                {"id": 9, "text": "길에", "type": "", "begin": 20, "end": 21}, 
+                {"id": 10, "text": "모두", "type": "", "begin": 22, "end": 22}, 
+                {"id": 11, "text": "장완흉상어들에게", "type": "", "begin": 23, "end": 25}, 
+                {"id": 12, "text": "빼앗긴", "type": "", "begin": 26, "end": 27}, 
+                {"id": 13, "text": "실패와", "type": "", "begin": 28, "end": 29}, 
+                {"id": 14, "text": "사자꿈을", "type": "", "begin": 30, "end": 32}, 
+                {"id": 15, "text": "꾸는", "type": "", "begin": 33, "end": 34}, 
+                {"id": 16, "text": "희망을", "type": "", "begin": 35, "end": 36}, 
+                {"id": 17, "text": "담고", "type": "", "begin": 37, "end": 38}, 
+                {"id": 18, "text": "있다.", "type": "", "begin": 39, "end": 41}
+            ], 
+            "NE": [
+                {"id": 0, "text": "어부", "type": "CV_OCCUPATION", "begin": 0, "end": 0, "weight": 0.422106, "common_noun": 0}, 
+                {"id": 1, "text": "산티아고", "type": "PS_NAME", "begin": 3, "end": 3, "weight": 0.17785, "common_noun": 0}, 
+                {"id": 2, "text": "청새치", "type": "AM_FISH", "begin": 8, "end": 9, "weight": 0.250478, "common_noun": 0}, 
+                {"id": 3, "text": "낚시", "type": "CV_SPORTS", "begin": 11, "end": 11, "weight": 0.487594, "common_noun": 0}, 
+                {"id": 4, "text": "장완흉상어", "type": "AM_FISH", "begin": 23, "end": 23, "weight": 0.224081, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "어부인", "head": 2, "label": "VNP_MOD", "mod": [], "weight": 0.773472}, 
+                {"id": 1, "text": "산티아고", "head": 2, "label": "NP", "mod": [], "weight": 0.686327}, 
+                {"id": 2, "text": "노인이", "head": 6, "label": "NP_SBJ", "mod": [0, 1], "weight": 0.840788}, 
+                {"id": 3, "text": "커다란", "head": 4, "label": "VP_MOD", "mod": [], "weight": 0.774019}, 
+                {"id": 4, "text": "청새치를", "head": 6, "label": "NP_OBJ", "mod": [3], "weight": 0.771898}, 
+                {"id": 5, "text": "낚시로", "head": 6, "label": "NP_AJT", "mod": [], "weight": 0.63876}, 
+                {"id": 6, "text": "잡지만,", "head": 12, "label": "VP", "mod": [2, 4, 5], "weight": 0.751068}, 
+                {"id": 7, "text": "항구로", "head": 8, "label": "NP_AJT", "mod": [], "weight": 0.852876}, 
+                {"id": 8, "text": "돌아오는", "head": 9, "label": "VP_MOD", "mod": [7], "weight": 0.833692}, 
+                {"id": 9, "text": "길에", "head": 12, "label": "NP_AJT", "mod": [8], "weight": 0.768357}, 
+                {"id": 10, "text": "모두", "head": 12, "label": "AP", "mod": [], "weight": 0.373889}, 
+                {"id": 11, "text": "장완흉상어들에게", "head": 12, "label": "NP_AJT", "mod": [], "weight": 0.796837}, 
+                {"id": 12, "text": "빼앗긴", "head": 13, "label": "VP_MOD", "mod": [10, 11, 9, 6], "weight": 0.786764}, 
+                {"id": 13, "text": "실패와", "head": 16, "label": "NP_CNJ", "mod": [12], "weight": 0.392416}, 
+                {"id": 14, "text": "사자꿈을", "head": 15, "label": "NP_OBJ", "mod": [], "weight": 0.737522}, 
+                {"id": 15, "text": "꾸는", "head": 16, "label": "VP_MOD", "mod": [14], "weight": 0.793848}, 
+                {"id": 16, "text": "희망을", "head": 17, "label": "NP_OBJ", "mod": [13, 15], "weight": 0.74538}, 
+                {"id": 17, "text": "담고", "head": 18, "label": "VP", "mod": [16], "weight": 0.787924}, 
+                {"id": 18, "text": "있다.", "head": -1, "label": "VP", "mod": [17], "weight": 0.00160996}
+            ], 
+            "SRL": [
+                {"verb": "커다랗", "sense": 1, "word_id": 3, "weight": 0.173134, "argument": [
+                    {"type": "ARG1", "word_id": 4, "text": "청새치를", "weight": 0.173134}
+                ]}, 
+                {"verb": "잡", "sense": 1, "word_id": 6, "weight": 0.195715, "argument": [
+                    {"type": "ARG0", "word_id": 2, "text": "노인이", "weight": 0.221245}, 
+                    {"type": "ARG1", "word_id": 4, "text": "청새치를", "weight": 0.270739}, 
+                    {"type": "ARGM-MNR", "word_id": 5, "text": "낚시로", "weight": 0.0951604}
+                ]}, 
+                {"verb": "돌아오", "sense": 1, "word_id": 8, "weight": 0.16829, "argument": [
+                    {"type": "ARG3", "word_id": 7, "text": "항구로", "weight": 0.0958121}, 
+                    {"type": "ARG0", "word_id": 2, "text": "노인이", "weight": 1}
+                ]}, 
+                {"verb": "빼앗기", "sense": 1, "word_id": 12, "weight": 0.135158, "argument": [
+                    {"type": "ARGM-EXT", "word_id": 10, "text": "모두", "weight": 0.122344}, 
+                    {"type": "ARG2", "word_id": 11, "text": "장완흉상어들에게", "weight": 0.147972}, 
+                    {"type": "ARG1", "word_id": 4, "text": "청새치를", "weight": 1}, 
+                    {"type": "ARG0", "word_id": 2, "text": "노인이", "weight": 1}, 
+                    {"type": "ARGM-TMP", "word_id": 9, "text": "길에", "weight": 1}
+                ]}, 
+                {"verb": "꾸", "sense": 1, "word_id": 15, "weight": 0.211325, "argument": [
+                    {"type": "ARG1", "word_id": 14, "text": "사자꿈을", "weight": 0.211325}, 
+                    {"type": "ARG0", "word_id": 2, "text": "노인이", "weight": 1}
+                ]}, 
+                {"verb": "담", "sense": 1, "word_id": 17, "weight": 0.331449, "argument": [
+                    {"type": "ARG1", "word_id": 16, "text": "희망을", "weight": 0.272266}, 
+                    {"type": "AUX", "word_id": 18, "text": "있다.", "weight": 0.390632}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 6, "ne_id": -1, "text": "《노인과 바다》(The Old Man and the Sea)는", "start_eid_short": 6, "end_eid_short": 6, "text_short": "Sea)는"}, 
+            {"id": 5, "sent_id": 1, "start_eid": 0, "end_eid": 7, "ne_id": -1, "text": "1952년에 쓰였으며 낚시가 취미였던 저자의 해박한 지식이 배경이다.", "start_eid_short": 7, "end_eid_short": 7, "text_short": "배경이다."}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 1, "text": "미국의", "start_eid_short": 7, "end_eid_short": 7, "text_short": "미국의"}
+        ]}, 
+        {"id": 2, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 7, "end_eid": 10, "ne_id": 3, "text": "미국의 소설가 어니스트 헤밍웨이의", "start_eid_short": 8, "end_eid_short": 10, "text_short": "소설가 어니스트 헤밍웨이의"}, 
+            {"id": 3, "sent_id": 0, "start_eid": 7, "end_eid": 8, "ne_id": 2, "text": "미국의 소설가", "start_eid_short": 8, "end_eid_short": 8, "text_short": "소설가"}, 
+            {"id": 8, "sent_id": 1, "start_eid": 2, "end_eid": 4, "ne_id": 2, "text": "낚시가 취미였던 저자의", "start_eid_short": 4, "end_eid_short": 4, "text_short": "저자의"}
+        ]}, 
+        {"id": 3, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "1952년에", "start_eid_short": 0, "end_eid_short": 0, "text_short": "1952년에"}
+        ]}, 
+        {"id": 4, "type": "CV_SPORTS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": 1, "text": "낚시가", "start_eid_short": 2, "end_eid_short": 2, "text_short": "낚시가"}, 
+            {"id": 14, "sent_id": 2, "start_eid": 5, "end_eid": 5, "ne_id": 3, "text": "낚시로", "start_eid_short": 5, "end_eid_short": 5, "text_short": "낚시로"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 2, "end_eid": 6, "ne_id": -1, "text": "낚시가 취미였던 저자의 해박한 지식이", "start_eid_short": 6, "end_eid_short": 6, "text_short": "지식이"}
+        ]}, 
+        {"id": 6, "type": "CV_OCCUPATION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 2, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "어부인 산티아고 노인이", "start_eid_short": 1, "end_eid_short": 2, "text_short": "산티아고 노인이"}, 
+            {"id": 11, "sent_id": 2, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "어부인", "start_eid_short": 0, "end_eid_short": 0, "text_short": "어부인"}
+        ]}, 
+        {"id": 7, "type": "LCP_CAPITALCITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 12, "sent_id": 2, "start_eid": 1, "end_eid": 1, "ne_id": 1, "text": "산티아고", "start_eid_short": 1, "end_eid_short": 1, "text_short": "산티아고"}
+        ]}, 
+        {"id": 8, "type": "AM_FISH", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 13, "sent_id": 2, "start_eid": 4, "end_eid": 4, "ne_id": 2, "text": "청새치를", "start_eid_short": 4, "end_eid_short": 4, "text_short": "청새치를"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 2, "start_eid": 7, "end_eid": 9, "ne_id": -1, "text": "항구로 돌아오는 길에", "start_eid_short": 9, "end_eid_short": 9, "text_short": "길에"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 2, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "항구로", "start_eid_short": 7, "end_eid_short": 7, "text_short": "항구로"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 2, "start_eid": 10, "end_eid": 13, "ne_id": -1, "text": "모두 장완흉상어들에게 빼앗긴 실패와", "start_eid_short": 13, "end_eid_short": 13, "text_short": "실패와"}
+        ]}, 
+        {"id": 12, "type": "AM_FISH", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 19, "sent_id": 2, "start_eid": 11, "end_eid": 11, "ne_id": 4, "text": "장완흉상어들에게", "start_eid_short": 11, "end_eid_short": 11, "text_short": "장완흉상어들에게"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 2, "start_eid": 10, "end_eid": 16, "ne_id": -1, "text": "모두 장완흉상어들에게 빼앗긴 실패와 사자꿈을 꾸는 희망을", "start_eid_short": 16, "end_eid_short": 16, "text_short": "희망을"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 21, "sent_id": 2, "start_eid": 14, "end_eid": 14, "ne_id": -1, "text": "사자꿈을", "start_eid_short": 14, "end_eid_short": 14, "text_short": "사자꿈을"}
+        ]}, 
+        {"id": 15, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 2, "start_eid": 14, "end_eid": 16, "ne_id": -1, "text": "사자꿈을 꾸는 희망을", "start_eid_short": 16, "end_eid_short": 16, "text_short": "희망을"}
+        ]}, 
+        {"id": 16, "type": "FD_ART", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 7, "end_eid": 11, "ne_id": 4, "text": "미국의 소설가 어니스트 헤밍웨이의 단편소설이다.", "start_eid_short": 11, "end_eid_short": 11, "text_short": "단편소설이다."}
+        ]}
+    ]
+}

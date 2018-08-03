@@ -1,0 +1,208 @@
+{
+    "doc_id": "E2016.837.18_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "혜성", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "혜성(彗星) 또는 살별은 태양계를 구성하는 천체 중의 하나로, 태양복사에 의해 핵으로부터 발생한 코마(핵을 둘러싼 구름층)와 꼬리를 갖는다.", 
+            "morp": [
+                {"id": 0, "lemma": "혜성", "type": "NNG", "position": 0, "weight": 0.422847}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 6, "weight": 1}, 
+                {"id": 2, "lemma": "彗星", "type": "SH", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": ")", "type": "SS", "position": 13, "weight": 1}, 
+                {"id": 4, "lemma": "또는", "type": "MAJ", "position": 15, "weight": 0.00307013}, 
+                {"id": 5, "lemma": "살별", "type": "NNG", "position": 22, "weight": 0.3}, 
+                {"id": 6, "lemma": "은", "type": "JX", "position": 28, "weight": 0.0449928}, 
+                {"id": 7, "lemma": "태양", "type": "NNG", "position": 32, "weight": 0.323783}, 
+                {"id": 8, "lemma": "계", "type": "XSN", "position": 38, "weight": 0.027803}, 
+                {"id": 9, "lemma": "를", "type": "JKO", "position": 41, "weight": 0.0870227}, 
+                {"id": 10, "lemma": "구성", "type": "NNG", "position": 45, "weight": 0.101187}, 
+                {"id": 11, "lemma": "하", "type": "XSV", "position": 51, "weight": 0.0001}, 
+                {"id": 12, "lemma": "는", "type": "ETM", "position": 54, "weight": 0.238503}, 
+                {"id": 13, "lemma": "천체", "type": "NNG", "position": 58, "weight": 0.9}, 
+                {"id": 14, "lemma": "중", "type": "NNB", "position": 65, "weight": 0.013531}, 
+                {"id": 15, "lemma": "의", "type": "JKG", "position": 68, "weight": 0.0520933}, 
+                {"id": 16, "lemma": "하나", "type": "NNG", "position": 72, "weight": 0.000723053}, 
+                {"id": 17, "lemma": "로", "type": "JKB", "position": 78, "weight": 0.0190976}, 
+                {"id": 18, "lemma": ",", "type": "SP", "position": 81, "weight": 1}, 
+                {"id": 19, "lemma": "태양", "type": "NNG", "position": 83, "weight": 0.529737}, 
+                {"id": 20, "lemma": "복사", "type": "NNG", "position": 89, "weight": 0.9}, 
+                {"id": 21, "lemma": "에", "type": "JKB", "position": 95, "weight": 0.153364}, 
+                {"id": 22, "lemma": "의하", "type": "VV", "position": 99, "weight": 0.9}, 
+                {"id": 23, "lemma": "아", "type": "EC", "position": 102, "weight": 0.41831}, 
+                {"id": 24, "lemma": "핵", "type": "NNG", "position": 106, "weight": 0.9}, 
+                {"id": 25, "lemma": "으로부터", "type": "JKB", "position": 109, "weight": 0.9}, 
+                {"id": 26, "lemma": "발생", "type": "NNG", "position": 122, "weight": 0.9}, 
+                {"id": 27, "lemma": "하", "type": "XSV", "position": 128, "weight": 0.0001}, 
+                {"id": 28, "lemma": "ㄴ", "type": "ETM", "position": 128, "weight": 0.392321}, 
+                {"id": 29, "lemma": "코마", "type": "NNG", "position": 132, "weight": 0.15}, 
+                {"id": 30, "lemma": "(", "type": "SS", "position": 138, "weight": 1}, 
+                {"id": 31, "lemma": "핵", "type": "NNG", "position": 139, "weight": 0.9}, 
+                {"id": 32, "lemma": "을", "type": "JKO", "position": 142, "weight": 0.129611}, 
+                {"id": 33, "lemma": "둘러싸", "type": "VV", "position": 146, "weight": 0.9}, 
+                {"id": 34, "lemma": "ㄴ", "type": "ETM", "position": 152, "weight": 0.304215}, 
+                {"id": 35, "lemma": "구름", "type": "NNG", "position": 156, "weight": 0.658009}, 
+                {"id": 36, "lemma": "층", "type": "XSN", "position": 162, "weight": 0.141586}, 
+                {"id": 37, "lemma": ")", "type": "SS", "position": 165, "weight": 1}, 
+                {"id": 38, "lemma": "와", "type": "JC", "position": 166, "weight": 0.00426109}, 
+                {"id": 39, "lemma": "꼬리", "type": "NNG", "position": 170, "weight": 0.9}, 
+                {"id": 40, "lemma": "를", "type": "JKO", "position": 176, "weight": 0.137686}, 
+                {"id": 41, "lemma": "갖", "type": "VV", "position": 180, "weight": 0.775071}, 
+                {"id": 42, "lemma": "는다", "type": "EF", "position": 183, "weight": 0.0782495}, 
+                {"id": 43, "lemma": ".", "type": "SF", "position": 189, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "혜성", "type": "NNG", "scode": "010001", "weight": 0.25, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "彗星", "type": "SH", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 13, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "또는", "type": "MAJ", "scode": "000000", "weight": 1, "position": 15, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "살별", "type": "NNG", "scode": "000000", "weight": 1, "position": 22, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 28, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "태양계", "type": "NNG", "scode": "000000", "weight": 1, "position": 32, "begin": 7, "end": 8}, 
+                {"id": 8, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 41, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "구성하", "type": "VV", "scode": "000001", "weight": 0.333333, "position": 45, "begin": 10, "end": 11}, 
+                {"id": 10, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 54, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "천체", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 58, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "중", "type": "NNB", "scode": "040101", "weight": 0.0526316, "position": 65, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 68, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "하나", "type": "NNG", "scode": "000202", "weight": 0.166667, "position": 72, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 78, "begin": 17, "end": 17}, 
+                {"id": 16, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 81, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "태양복사", "type": "NNG", "scode": "000000", "weight": 1, "position": 83, "begin": 19, "end": 20}, 
+                {"id": 18, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 95, "begin": 21, "end": 21}, 
+                {"id": 19, "text": "의하", "type": "VV", "scode": "010000", "weight": 0.5, "position": 99, "begin": 22, "end": 22}, 
+                {"id": 20, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 102, "begin": 23, "end": 23}, 
+                {"id": 21, "text": "핵", "type": "NNG", "scode": "000003", "weight": 0.142857, "position": 106, "begin": 24, "end": 24}, 
+                {"id": 22, "text": "으로부터", "type": "JKB", "scode": "000000", "weight": 1, "position": 109, "begin": 25, "end": 25}, 
+                {"id": 23, "text": "발생하", "type": "VV", "scode": "000001", "weight": 0.5, "position": 122, "begin": 26, "end": 27}, 
+                {"id": 24, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 128, "begin": 28, "end": 28}, 
+                {"id": 25, "text": "코마", "type": "NNG", "scode": "020002", "weight": 0.333333, "position": 132, "begin": 29, "end": 29}, 
+                {"id": 26, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 138, "begin": 30, "end": 30}, 
+                {"id": 27, "text": "핵", "type": "NNG", "scode": "000003", "weight": 0.142857, "position": 139, "begin": 31, "end": 31}, 
+                {"id": 28, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 142, "begin": 32, "end": 32}, 
+                {"id": 29, "text": "둘러싸", "type": "VV", "scode": "000100", "weight": 0.333333, "position": 146, "begin": 33, "end": 33}, 
+                {"id": 30, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 152, "begin": 34, "end": 34}, 
+                {"id": 31, "text": "구름층", "type": "NNG", "scode": "000000", "weight": 1, "position": 156, "begin": 35, "end": 36}, 
+                {"id": 32, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 165, "begin": 37, "end": 37}, 
+                {"id": 33, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 166, "begin": 38, "end": 38}, 
+                {"id": 34, "text": "꼬리", "type": "NNG", "scode": "010002", "weight": 0.166667, "position": 170, "begin": 39, "end": 39}, 
+                {"id": 35, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 176, "begin": 40, "end": 40}, 
+                {"id": 36, "text": "갖", "type": "VV", "scode": "010102", "weight": 0.0833333, "position": 180, "begin": 41, "end": 41}, 
+                {"id": 37, "text": "는다", "type": "EF", "scode": "000000", "weight": 1, "position": 183, "begin": 42, "end": 42}, 
+                {"id": 38, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 189, "begin": 43, "end": 43}
+            ], 
+            "word": [
+                {"id": 0, "text": "혜성(彗星)", "type": "", "begin": 0, "end": 3}, 
+                {"id": 1, "text": "또는", "type": "", "begin": 4, "end": 4}, 
+                {"id": 2, "text": "살별은", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "태양계를", "type": "", "begin": 7, "end": 9}, 
+                {"id": 4, "text": "구성하는", "type": "", "begin": 10, "end": 12}, 
+                {"id": 5, "text": "천체", "type": "", "begin": 13, "end": 13}, 
+                {"id": 6, "text": "중의", "type": "", "begin": 14, "end": 15}, 
+                {"id": 7, "text": "하나로,", "type": "", "begin": 16, "end": 18}, 
+                {"id": 8, "text": "태양복사에", "type": "", "begin": 19, "end": 21}, 
+                {"id": 9, "text": "의해", "type": "", "begin": 22, "end": 23}, 
+                {"id": 10, "text": "핵으로부터", "type": "", "begin": 24, "end": 25}, 
+                {"id": 11, "text": "발생한", "type": "", "begin": 26, "end": 28}, 
+                {"id": 12, "text": "코마(핵을", "type": "", "begin": 29, "end": 32}, 
+                {"id": 13, "text": "둘러싼", "type": "", "begin": 33, "end": 34}, 
+                {"id": 14, "text": "구름층)와", "type": "", "begin": 35, "end": 38}, 
+                {"id": 15, "text": "꼬리를", "type": "", "begin": 39, "end": 40}, 
+                {"id": 16, "text": "갖는다.", "type": "", "begin": 41, "end": 43}
+            ], 
+            "NE": [
+                {"id": 0, "text": "혜성", "type": "LC_SPACE", "begin": 0, "end": 0, "weight": 0.157746, "common_noun": 0}, 
+                {"id": 1, "text": "彗星", "type": "LC_SPACE", "begin": 2, "end": 2, "weight": 0.103014, "common_noun": 0}, 
+                {"id": 2, "text": "살별", "type": "LC_SPACE", "begin": 5, "end": 5, "weight": 0.103014, "common_noun": 0}, 
+                {"id": 3, "text": "태양계", "type": "LC_SPACE", "begin": 7, "end": 8, "weight": 0.709638, "common_noun": 0}, 
+                {"id": 4, "text": "하나", "type": "QT_COUNT", "begin": 16, "end": 16, "weight": 0.538934, "common_noun": 0}, 
+                {"id": 5, "text": "태양", "type": "LC_SPACE", "begin": 19, "end": 19, "weight": 0.470646, "common_noun": 0}, 
+                {"id": 6, "text": "꼬리", "type": "AM_PART", "begin": 39, "end": 39, "weight": 0.44049, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "혜성(彗星)", "head": 2, "label": "NP_CNJ", "mod": [], "weight": 0.425423}, 
+                {"id": 1, "text": "또는", "head": 2, "label": "AP", "mod": [], "weight": 0.475976}, 
+                {"id": 2, "text": "살별은", "head": 7, "label": "NP_SBJ", "mod": [0, 1], "weight": 0.387088}, 
+                {"id": 3, "text": "태양계를", "head": 4, "label": "NP_OBJ", "mod": [], "weight": 0.665591}, 
+                {"id": 4, "text": "구성하는", "head": 5, "label": "VP_MOD", "mod": [3], "weight": 0.393108}, 
+                {"id": 5, "text": "천체", "head": 6, "label": "NP", "mod": [4], "weight": 0.857812}, 
+                {"id": 6, "text": "중의", "head": 7, "label": "NP_MOD", "mod": [5], "weight": 0.695511}, 
+                {"id": 7, "text": "하나로,", "head": 16, "label": "NP_AJT", "mod": [2, 6], "weight": 0.765619}, 
+                {"id": 8, "text": "태양복사에", "head": 9, "label": "NP_AJT", "mod": [], "weight": 0.631873}, 
+                {"id": 9, "text": "의해", "head": 11, "label": "VP", "mod": [8], "weight": 0.565535}, 
+                {"id": 10, "text": "핵으로부터", "head": 11, "label": "NP_AJT", "mod": [], "weight": 0.757788}, 
+                {"id": 11, "text": "발생한", "head": 12, "label": "VP_MOD", "mod": [9, 10], "weight": 0.392068}, 
+                {"id": 12, "text": "코마(핵을", "head": 13, "label": "NP_OBJ", "mod": [11], "weight": 0.499953}, 
+                {"id": 13, "text": "둘러싼", "head": 14, "label": "VP_MOD", "mod": [12], "weight": 0.170488}, 
+                {"id": 14, "text": "구름층)와", "head": 15, "label": "NP_CNJ", "mod": [13], "weight": 0.134747}, 
+                {"id": 15, "text": "꼬리를", "head": 16, "label": "NP_OBJ", "mod": [14], "weight": 0.761696}, 
+                {"id": 16, "text": "갖는다.", "head": -1, "label": "VP", "mod": [7, 15], "weight": 7.40333e-06}
+            ], 
+            "SRL": [
+                {"verb": "구성", "sense": 1, "word_id": 4, "weight": 0.119039, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "태양계를", "weight": 0.149253}, 
+                    {"type": "ARG2", "word_id": 5, "text": "천체", "weight": 1}
+                ]}, 
+                {"verb": "의하", "sense": 1, "word_id": 9, "weight": 0.319202, "argument": [
+                    {"type": "ARG2", "word_id": 8, "text": "태양복사에", "weight": 0.319202}
+                ]}, 
+                {"verb": "발생", "sense": 1, "word_id": 11, "weight": 0.164586, "argument": [
+                    {"type": "ARGM-CAU", "word_id": 9, "text": "의해", "weight": 0.105426}, 
+                    {"type": "ARG2", "word_id": 10, "text": "핵으로부터", "weight": 0.112589}, 
+                    {"type": "ARG1", "word_id": 12, "text": "코마(핵을", "weight": 0.275744}
+                ]}, 
+                {"verb": "둘러싸", "sense": 1, "word_id": 13, "weight": 0.212392, "argument": [
+                    {"type": "ARG1", "word_id": 12, "text": "코마(핵을", "weight": 0.212392}, 
+                    {"type": "ARG2", "word_id": 14, "text": "구름층)와", "weight": 1}
+                ]}, 
+                {"verb": "갖", "sense": 1, "word_id": 16, "weight": 0.210791, "argument": [
+                    {"type": "ARG0", "word_id": 2, "text": "살별은", "weight": 0.198665}, 
+                    {"type": "ARG1", "word_id": 15, "text": "꼬리를", "weight": 0.222917}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 7, "ne_id": 1, "text": "혜성(彗星) 또는 살별은 태양계를 구성하는 천체 중의 하나로,", "start_eid_short": 5, "end_eid_short": 0, "text_short": ""}, 
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "혜성(彗星) 또는 살별은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "혜성(彗星)"}, 
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "혜성(彗星)", "start_eid_short": 0, "end_eid_short": 0, "text_short": "혜성(彗星)"}, 
+            {"id": 3, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "살별은", "start_eid_short": 2, "end_eid_short": 2, "text_short": "살별은"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 3, "end_eid": 5, "ne_id": -1, "text": "태양계를 구성하는 천체", "start_eid_short": 5, "end_eid_short": 5, "text_short": "천체"}
+        ]}, 
+        {"id": 2, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": 0, "text": "태양계를", "start_eid_short": 3, "end_eid_short": 3, "text_short": "태양계를"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 12, "end_eid": 14, "ne_id": -1, "text": "코마(핵을 둘러싼 구름층)와", "start_eid_short": 14, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 4, "type": "LC_SPACE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": 2, "text": "태양복사에", "start_eid_short": 8, "end_eid_short": 8, "text_short": "태양복사에"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 10, "end_eid": 10, "ne_id": -1, "text": "핵으로부터", "start_eid_short": 10, "end_eid_short": 10, "text_short": "핵으로부터"}
+        ]}, 
+        {"id": 6, "type": "AM_PART", "number": "plural", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 8, "end_eid": 15, "ne_id": 3, "text": "태양복사에 의해 핵으로부터 발생한 코마(핵을 둘러싼 구름층)와 꼬리를", "start_eid_short": 15, "end_eid_short": 15, "text_short": "꼬리를"}
+        ]}, 
+        {"id": 7, "type": "AM_PART", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 15, "end_eid": 15, "ne_id": 3, "text": "꼬리를", "start_eid_short": 15, "end_eid_short": 15, "text_short": "꼬리를"}
+        ]}
+    ]
+}

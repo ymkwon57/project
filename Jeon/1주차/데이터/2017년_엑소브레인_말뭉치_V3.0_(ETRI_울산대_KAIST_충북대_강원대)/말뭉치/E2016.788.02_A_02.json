@@ -1,0 +1,148 @@
+{
+    "doc_id": "E2016.788.02_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "해리", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "거리의 단위.", 
+            "morp": [
+                {"id": 0, "lemma": "거리", "type": "NNG", "position": 0, "weight": 0.395149}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 6, "weight": 0.0694213}, 
+                {"id": 2, "lemma": "단위", "type": "NNG", "position": 10, "weight": 0.9}, 
+                {"id": 3, "lemma": ".", "type": "SF", "position": 16, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "거리", "type": "NNG", "scode": "080001", "weight": 0.0434783, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "단위", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 16, "begin": 3, "end": 3}
+            ], 
+            "word": [
+                {"id": 0, "text": "거리의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "단위.", "type": "", "begin": 2, "end": 3}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "거리의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.752043}, 
+                {"id": 1, "text": "단위.", "head": -1, "label": "NP", "mod": [0], "weight": 0.642342}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "바다 위나 공중에서 긴 거리를 나타낼 때 쓴다.", 
+            "morp": [
+                {"id": 0, "lemma": "바다", "type": "NNG", "position": 17, "weight": 0.422279}, 
+                {"id": 1, "lemma": "위", "type": "NNG", "position": 24, "weight": 0.165604}, 
+                {"id": 2, "lemma": "나", "type": "JC", "position": 27, "weight": 0.00543468}, 
+                {"id": 3, "lemma": "공중", "type": "NNG", "position": 31, "weight": 0.802316}, 
+                {"id": 4, "lemma": "에서", "type": "JKB", "position": 37, "weight": 0.153407}, 
+                {"id": 5, "lemma": "길", "type": "VA", "position": 44, "weight": 0.0309698}, 
+                {"id": 6, "lemma": "ㄴ", "type": "ETM", "position": 44, "weight": 0.430446}, 
+                {"id": 7, "lemma": "거리", "type": "NNG", "position": 48, "weight": 0.594454}, 
+                {"id": 8, "lemma": "를", "type": "JKO", "position": 54, "weight": 0.137686}, 
+                {"id": 9, "lemma": "나타내", "type": "VV", "position": 58, "weight": 0.9}, 
+                {"id": 10, "lemma": "ㄹ", "type": "ETM", "position": 64, "weight": 0.300746}, 
+                {"id": 11, "lemma": "때", "type": "NNG", "position": 68, "weight": 0.656522}, 
+                {"id": 12, "lemma": "쓰", "type": "VV", "position": 72, "weight": 0.0149133}, 
+                {"id": 13, "lemma": "ㄴ다", "type": "EF", "position": 72, "weight": 0.0793196}, 
+                {"id": 14, "lemma": ".", "type": "SF", "position": 78, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "바다", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 17, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "위", "type": "NNG", "scode": "010001", "weight": 0.0285714, "position": 24, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "나", "type": "JC", "scode": "000000", "weight": 1, "position": 27, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "공중", "type": "NNG", "scode": "030000", "weight": 0.25, "position": 31, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 37, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "길", "type": "VA", "scode": "020001", "weight": 0.166667, "position": 44, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 44, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "거리", "type": "NNG", "scode": "080001", "weight": 0.0434783, "position": 48, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 54, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "나타내", "type": "VV", "scode": "000300", "weight": 0.25, "position": 58, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "ㄹ", "type": "ETM", "scode": "000000", "weight": 1, "position": 64, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 68, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "쓰", "type": "VV", "scode": "030101", "weight": 0.0384615, "position": 72, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 72, "begin": 13, "end": 13}, 
+                {"id": 14, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 78, "begin": 14, "end": 14}
+            ], 
+            "word": [
+                {"id": 0, "text": "바다", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "위나", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "공중에서", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "긴", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "거리를", "type": "", "begin": 7, "end": 8}, 
+                {"id": 5, "text": "나타낼", "type": "", "begin": 9, "end": 10}, 
+                {"id": 6, "text": "때", "type": "", "begin": 11, "end": 11}, 
+                {"id": 7, "text": "쓴다.", "type": "", "begin": 12, "end": 14}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "바다", "head": 1, "label": "NP", "mod": [], "weight": 0.729353}, 
+                {"id": 1, "text": "위나", "head": 2, "label": "NP_CNJ", "mod": [0], "weight": 0.612342}, 
+                {"id": 2, "text": "공중에서", "head": 5, "label": "NP_AJT", "mod": [1], "weight": 0.828}, 
+                {"id": 3, "text": "긴", "head": 4, "label": "VP_MOD", "mod": [], "weight": 0.691977}, 
+                {"id": 4, "text": "거리를", "head": 5, "label": "NP_OBJ", "mod": [3], "weight": 0.829126}, 
+                {"id": 5, "text": "나타낼", "head": 6, "label": "VP_MOD", "mod": [2, 4], "weight": 0.745909}, 
+                {"id": 6, "text": "때", "head": 7, "label": "NP_AJT", "mod": [5], "weight": 0.602282}, 
+                {"id": 7, "text": "쓴다.", "head": -1, "label": "VP", "mod": [6], "weight": 0.0780287}
+            ], 
+            "SRL": [
+                {"verb": "길", "sense": 1, "word_id": 3, "weight": 0.379351, "argument": [
+                    {"type": "ARG1", "word_id": 4, "text": "거리를", "weight": 0.379351}
+                ]}, 
+                {"verb": "나타내", "sense": 1, "word_id": 5, "weight": 0.175945, "argument": [
+                    {"type": "ARG2", "word_id": 2, "text": "공중에서", "weight": 0.0750935}, 
+                    {"type": "ARG1", "word_id": 4, "text": "거리를", "weight": 0.276797}
+                ]}, 
+                {"verb": "쓰", "sense": 1, "word_id": 7, "weight": 0.155752, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 6, "text": "때", "weight": 0.155752}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "거리의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "거리의"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 1, "start_eid": 0, "end_eid": 6, "ne_id": -1, "text": "바다 위나 공중에서 긴 거리를 나타낼 때", "start_eid_short": 6, "end_eid_short": 6, "text_short": "때"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "바다 위나", "start_eid_short": 0, "end_eid_short": 1, "text_short": "바다 위나"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "바다", "start_eid_short": 0, "end_eid_short": 0, "text_short": "바다"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "공중에서", "start_eid_short": 2, "end_eid_short": 2, "text_short": "공중에서"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 3, "end_eid": 4, "ne_id": -1, "text": "긴 거리를", "start_eid_short": 4, "end_eid_short": 4, "text_short": "거리를"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "거리의 단위.", "start_eid_short": 1, "end_eid_short": 1, "text_short": "단위."}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 1, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "바다 위나 공중에서", "start_eid_short": 2, "end_eid_short": 2, "text_short": "공중에서"}
+        ]}
+    ]
+}

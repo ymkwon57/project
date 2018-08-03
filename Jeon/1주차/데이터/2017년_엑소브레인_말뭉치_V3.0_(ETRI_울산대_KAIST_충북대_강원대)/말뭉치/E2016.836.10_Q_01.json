@@ -1,0 +1,272 @@
+{
+    "doc_id": "E2016.836.10_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "고지대의 비교적 평탄한 지형에서 여름철 서늘한 기후를 이용해 이루어지는 농업으로 감자, 배추 등의 작물을 재배하는 농업이다.", 
+            "morp": [
+                {"id": 0, "lemma": "고", "type": "XPN", "position": 0, "weight": 0.0001}, 
+                {"id": 1, "lemma": "지대", "type": "NNG", "position": 3, "weight": 0.9}, 
+                {"id": 2, "lemma": "의", "type": "JKG", "position": 9, "weight": 0.0694213}, 
+                {"id": 3, "lemma": "비교", "type": "NNG", "position": 13, "weight": 0.9}, 
+                {"id": 4, "lemma": "적", "type": "XSN", "position": 19, "weight": 0.0168756}, 
+                {"id": 5, "lemma": "평탄", "type": "NNG", "position": 23, "weight": 0.4}, 
+                {"id": 6, "lemma": "하", "type": "XSA", "position": 29, "weight": 0.0001}, 
+                {"id": 7, "lemma": "ㄴ", "type": "ETM", "position": 29, "weight": 0.488779}, 
+                {"id": 8, "lemma": "지형", "type": "NNG", "position": 33, "weight": 0.657634}, 
+                {"id": 9, "lemma": "에서", "type": "JKB", "position": 39, "weight": 0.153407}, 
+                {"id": 10, "lemma": "여름", "type": "NNG", "position": 46, "weight": 0.9}, 
+                {"id": 11, "lemma": "철", "type": "NNG", "position": 52, "weight": 0.177462}, 
+                {"id": 12, "lemma": "서늘하", "type": "VA", "position": 56, "weight": 0.9}, 
+                {"id": 13, "lemma": "ㄴ", "type": "ETM", "position": 62, "weight": 0.430446}, 
+                {"id": 14, "lemma": "기후", "type": "NNG", "position": 66, "weight": 0.656428}, 
+                {"id": 15, "lemma": "를", "type": "JKO", "position": 72, "weight": 0.137686}, 
+                {"id": 16, "lemma": "이용", "type": "NNG", "position": 76, "weight": 0.101224}, 
+                {"id": 17, "lemma": "하", "type": "XSV", "position": 82, "weight": 0.0001}, 
+                {"id": 18, "lemma": "아", "type": "EC", "position": 82, "weight": 0.361326}, 
+                {"id": 19, "lemma": "이루어지", "type": "VV", "position": 86, "weight": 0.9}, 
+                {"id": 20, "lemma": "는", "type": "ETM", "position": 98, "weight": 0.184941}, 
+                {"id": 21, "lemma": "농업", "type": "NNG", "position": 102, "weight": 0.9}, 
+                {"id": 22, "lemma": "으로", "type": "JKB", "position": 108, "weight": 0.153406}, 
+                {"id": 23, "lemma": "감자", "type": "NNG", "position": 115, "weight": 0.207744}, 
+                {"id": 24, "lemma": ",", "type": "SP", "position": 121, "weight": 1}, 
+                {"id": 25, "lemma": "배추", "type": "NNG", "position": 123, "weight": 0.9}, 
+                {"id": 26, "lemma": "등", "type": "NNB", "position": 130, "weight": 0.0146757}, 
+                {"id": 27, "lemma": "의", "type": "JKG", "position": 133, "weight": 0.0520933}, 
+                {"id": 28, "lemma": "작물", "type": "NNG", "position": 137, "weight": 0.9}, 
+                {"id": 29, "lemma": "을", "type": "JKO", "position": 143, "weight": 0.129611}, 
+                {"id": 30, "lemma": "재배", "type": "NNG", "position": 147, "weight": 0.9}, 
+                {"id": 31, "lemma": "하", "type": "XSV", "position": 153, "weight": 0.0001}, 
+                {"id": 32, "lemma": "는", "type": "ETM", "position": 156, "weight": 0.238503}, 
+                {"id": 33, "lemma": "농업", "type": "NNG", "position": 160, "weight": 0.9}, 
+                {"id": 34, "lemma": "이", "type": "VCP", "position": 166, "weight": 0.0177525}, 
+                {"id": 35, "lemma": "다", "type": "EF", "position": 169, "weight": 0.353579}, 
+                {"id": 36, "lemma": ".", "type": "SF", "position": 172, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "고지대", "type": "NNG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 9, "begin": 2, "end": 2}, 
+                {"id": 2, "text": "비교적", "type": "MAG", "scode": "000100", "weight": 0.5, "position": 13, "begin": 3, "end": 4}, 
+                {"id": 3, "text": "평탄하", "type": "VA", "scode": "000001", "weight": 0.333333, "position": 23, "begin": 5, "end": 6}, 
+                {"id": 4, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 29, "begin": 7, "end": 7}, 
+                {"id": 5, "text": "지형", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 33, "begin": 8, "end": 8}, 
+                {"id": 6, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 39, "begin": 9, "end": 9}, 
+                {"id": 7, "text": "여름철", "type": "NNG", "scode": "000000", "weight": 1, "position": 46, "begin": 10, "end": 11}, 
+                {"id": 8, "text": "서늘하", "type": "VA", "scode": "000101", "weight": 0.25, "position": 56, "begin": 12, "end": 12}, 
+                {"id": 9, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 62, "begin": 13, "end": 13}, 
+                {"id": 10, "text": "기후", "type": "NNG", "scode": "050003", "weight": 0.125, "position": 66, "begin": 14, "end": 14}, 
+                {"id": 11, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 72, "begin": 15, "end": 15}, 
+                {"id": 12, "text": "이용하", "type": "VV", "scode": "010001", "weight": 0.333333, "position": 76, "begin": 16, "end": 17}, 
+                {"id": 13, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 82, "begin": 18, "end": 18}, 
+                {"id": 14, "text": "이루어지", "type": "VV", "scode": "000101", "weight": 0.333333, "position": 86, "begin": 19, "end": 19}, 
+                {"id": 15, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 98, "begin": 20, "end": 20}, 
+                {"id": 16, "text": "농업", "type": "NNG", "scode": "000000", "weight": 1, "position": 102, "begin": 21, "end": 21}, 
+                {"id": 17, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 108, "begin": 22, "end": 22}, 
+                {"id": 18, "text": "감자", "type": "NNG", "scode": "010002", "weight": 0.142857, "position": 115, "begin": 23, "end": 23}, 
+                {"id": 19, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 121, "begin": 24, "end": 24}, 
+                {"id": 20, "text": "배추", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 123, "begin": 25, "end": 25}, 
+                {"id": 21, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 130, "begin": 26, "end": 26}, 
+                {"id": 22, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 133, "begin": 27, "end": 27}, 
+                {"id": 23, "text": "작물", "type": "NNG", "scode": "000000", "weight": 1, "position": 137, "begin": 28, "end": 28}, 
+                {"id": 24, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 143, "begin": 29, "end": 29}, 
+                {"id": 25, "text": "재배하", "type": "VV", "scode": "030000", "weight": 0.333333, "position": 147, "begin": 30, "end": 31}, 
+                {"id": 26, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 156, "begin": 32, "end": 32}, 
+                {"id": 27, "text": "농업", "type": "NNG", "scode": "000000", "weight": 1, "position": 160, "begin": 33, "end": 33}, 
+                {"id": 28, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 166, "begin": 34, "end": 34}, 
+                {"id": 29, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 169, "begin": 35, "end": 35}, 
+                {"id": 30, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 172, "begin": 36, "end": 36}
+            ], 
+            "word": [
+                {"id": 0, "text": "고지대의", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "비교적", "type": "", "begin": 3, "end": 4}, 
+                {"id": 2, "text": "평탄한", "type": "", "begin": 5, "end": 7}, 
+                {"id": 3, "text": "지형에서", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "여름철", "type": "", "begin": 10, "end": 11}, 
+                {"id": 5, "text": "서늘한", "type": "", "begin": 12, "end": 13}, 
+                {"id": 6, "text": "기후를", "type": "", "begin": 14, "end": 15}, 
+                {"id": 7, "text": "이용해", "type": "", "begin": 16, "end": 18}, 
+                {"id": 8, "text": "이루어지는", "type": "", "begin": 19, "end": 20}, 
+                {"id": 9, "text": "농업으로", "type": "", "begin": 21, "end": 22}, 
+                {"id": 10, "text": "감자,", "type": "", "begin": 23, "end": 24}, 
+                {"id": 11, "text": "배추", "type": "", "begin": 25, "end": 25}, 
+                {"id": 12, "text": "등의", "type": "", "begin": 26, "end": 27}, 
+                {"id": 13, "text": "작물을", "type": "", "begin": 28, "end": 29}, 
+                {"id": 14, "text": "재배하는", "type": "", "begin": 30, "end": 32}, 
+                {"id": 15, "text": "농업이다.", "type": "", "begin": 33, "end": 36}
+            ], 
+            "NE": [
+                {"id": 0, "text": "여름철", "type": "DT_SEASON", "begin": 10, "end": 11, "weight": 0.654673, "common_noun": 0}, 
+                {"id": 1, "text": "감자", "type": "PT_GRASS", "begin": 23, "end": 23, "weight": 0.864955, "common_noun": 0}, 
+                {"id": 2, "text": "배추", "type": "PT_GRASS", "begin": 25, "end": 25, "weight": 0.654205, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "고지대의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.817166}, 
+                {"id": 1, "text": "비교적", "head": 2, "label": "NP", "mod": [], "weight": 0.101729}, 
+                {"id": 2, "text": "평탄한", "head": 3, "label": "VP_MOD", "mod": [1], "weight": 0.704788}, 
+                {"id": 3, "text": "지형에서", "head": 7, "label": "NP_AJT", "mod": [0, 2], "weight": 0.652484}, 
+                {"id": 4, "text": "여름철", "head": 5, "label": "NP_AJT", "mod": [], "weight": 0.483073}, 
+                {"id": 5, "text": "서늘한", "head": 6, "label": "VP_MOD", "mod": [4], "weight": 0.660802}, 
+                {"id": 6, "text": "기후를", "head": 7, "label": "NP_OBJ", "mod": [5], "weight": 0.811636}, 
+                {"id": 7, "text": "이용해", "head": 8, "label": "VP", "mod": [3, 6], "weight": 0.389911}, 
+                {"id": 8, "text": "이루어지는", "head": 9, "label": "VP_MOD", "mod": [7], "weight": 0.711658}, 
+                {"id": 9, "text": "농업으로", "head": 15, "label": "NP_AJT", "mod": [8], "weight": 0.788767}, 
+                {"id": 10, "text": "감자,", "head": 11, "label": "NP_CNJ", "mod": [], "weight": 0.240871}, 
+                {"id": 11, "text": "배추", "head": 12, "label": "NP", "mod": [10], "weight": 0.610065}, 
+                {"id": 12, "text": "등의", "head": 13, "label": "NP_MOD", "mod": [11], "weight": 0.749781}, 
+                {"id": 13, "text": "작물을", "head": 14, "label": "NP_OBJ", "mod": [12], "weight": 0.769797}, 
+                {"id": 14, "text": "재배하는", "head": 15, "label": "VP_MOD", "mod": [13], "weight": 0.87861}, 
+                {"id": 15, "text": "농업이다.", "head": -1, "label": "VNP", "mod": [14, 9], "weight": 0.000131168}
+            ], 
+            "SRL": [
+                {"verb": "평탄", "sense": 1, "word_id": 2, "weight": 0.184731, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "지형에서", "weight": 0.184731}, 
+                    {"type": "ARGM-ADV", "word_id": 1, "text": "비교적", "weight": 1}
+                ]}, 
+                {"verb": "서늘하", "sense": 1, "word_id": 5, "weight": 0.352999, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "기후를", "weight": 0.352999}, 
+                    {"type": "ARGM-TMP", "word_id": 4, "text": "여름철", "weight": 1}
+                ]}, 
+                {"verb": "이용", "sense": 1, "word_id": 7, "weight": 0.233678, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "기후를", "weight": 0.226335}, 
+                    {"type": "ARGM-LOC", "word_id": 3, "text": "지형에서", "weight": 1}
+                ]}, 
+                {"verb": "이루어지", "sense": 1, "word_id": 8, "weight": 0.190875, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 7, "text": "이용해", "weight": 0.122096}, 
+                    {"type": "ARG1", "word_id": 9, "text": "농업으로", "weight": 0.259654}
+                ]}, 
+                {"verb": "재배", "sense": 1, "word_id": 14, "weight": 0.245717, "argument": [
+                    {"type": "ARG1", "word_id": 13, "text": "작물을", "weight": 0.245717}, 
+                    {"type": "ARGM-PRD", "word_id": 9, "text": "농업으로", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "대관령, 진안고원 등지에서 행해지는 이 농업은?", 
+            "morp": [
+                {"id": 0, "lemma": "대관령", "type": "NNP", "position": 173, "weight": 0.9}, 
+                {"id": 1, "lemma": ",", "type": "SP", "position": 182, "weight": 1}, 
+                {"id": 2, "lemma": "진안고원", "type": "NNP", "position": 184, "weight": 0.15}, 
+                {"id": 3, "lemma": "등지", "type": "NNB", "position": 197, "weight": 0.0467593}, 
+                {"id": 4, "lemma": "에서", "type": "JKB", "position": 203, "weight": 0.135597}, 
+                {"id": 5, "lemma": "행하", "type": "VV", "position": 210, "weight": 0.442614}, 
+                {"id": 6, "lemma": "아", "type": "EC", "position": 213, "weight": 0.41831}, 
+                {"id": 7, "lemma": "지", "type": "VX", "position": 216, "weight": 0.0539764}, 
+                {"id": 8, "lemma": "는", "type": "ETM", "position": 219, "weight": 0.183966}, 
+                {"id": 9, "lemma": "이", "type": "MM", "position": 223, "weight": 0.00060084}, 
+                {"id": 10, "lemma": "농업", "type": "NNG", "position": 227, "weight": 0.9}, 
+                {"id": 11, "lemma": "은", "type": "JX", "position": 233, "weight": 0.0449928}, 
+                {"id": 12, "lemma": "?", "type": "SF", "position": 236, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "대관령", "type": "NNP", "scode": "000000", "weight": 1, "position": 173, "begin": 0, "end": 0}, 
+                {"id": 1, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 182, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "진안고원", "type": "NNP", "scode": "000000", "weight": 1, "position": 184, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "등지", "type": "NNB", "scode": "020000", "weight": 0.333333, "position": 197, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 203, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "행하", "type": "VV", "scode": "000000", "weight": 1, "position": 210, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 213, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "지", "type": "VX", "scode": "040101", "weight": 0.037037, "position": 216, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 219, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "이", "type": "MM", "scode": "050002", "weight": 0.0172414, "position": 223, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "농업", "type": "NNG", "scode": "000000", "weight": 1, "position": 227, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 233, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 236, "begin": 12, "end": 12}
+            ], 
+            "word": [
+                {"id": 0, "text": "대관령,", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "진안고원", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "등지에서", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "행해지는", "type": "", "begin": 5, "end": 8}, 
+                {"id": 4, "text": "이", "type": "", "begin": 9, "end": 9}, 
+                {"id": 5, "text": "농업은?", "type": "", "begin": 10, "end": 12}
+            ], 
+            "NE": [
+                {"id": 0, "text": "대관령", "type": "LCG_MOUNTAIN", "begin": 0, "end": 0, "weight": 0.52059, "common_noun": 0}, 
+                {"id": 1, "text": "진안고원", "type": "LC_OTHERS", "begin": 2, "end": 2, "weight": 0.580279, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "대관령,", "head": 1, "label": "NP_CNJ", "mod": [], "weight": 0.301782}, 
+                {"id": 1, "text": "진안고원", "head": 2, "label": "NP", "mod": [0], "weight": 0.649653}, 
+                {"id": 2, "text": "등지에서", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.845225}, 
+                {"id": 3, "text": "행해지는", "head": 5, "label": "VP_MOD", "mod": [2], "weight": 0.841531}, 
+                {"id": 4, "text": "이", "head": 5, "label": "DP", "mod": [], "weight": 0.71307}, 
+                {"id": 5, "text": "농업은?", "head": -1, "label": "NP_SBJ", "mod": [3, 4], "weight": 0.0531183}
+            ], 
+            "SRL": [
+                {"verb": "행하", "sense": 1, "word_id": 3, "weight": 0.149532, "argument": [
+                    {"type": "ARGM-LOC", "word_id": 2, "text": "등지에서", "weight": 0.149532}, 
+                    {"type": "ARG1", "word_id": 5, "text": "농업은?", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 9, "ne_id": -1, "text": "고지대의 비교적 평탄한 지형에서 여름철 서늘한 기후를 이용해 이루어지는 농업으로", "start_eid_short": 9, "end_eid_short": 9, "text_short": "농업으로"}, 
+            {"id": 15, "sent_id": 1, "start_eid": 4, "end_eid": 5, "ne_id": -1, "text": "이 농업은?", "start_eid_short": 5, "end_eid_short": 5, "text_short": "농업은?"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "고지대의 비교적 평탄한 지형에서", "start_eid_short": 3, "end_eid_short": 3, "text_short": "지형에서"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "고지대의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "고지대의"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "비교적", "start_eid_short": 1, "end_eid_short": 1, "text_short": "비교적"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 4, "end_eid": 6, "ne_id": -1, "text": "여름철 서늘한 기후를", "start_eid_short": 6, "end_eid_short": 6, "text_short": "기후를"}
+        ]}, 
+        {"id": 5, "type": "DT_SEASON", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": 0, "text": "여름철", "start_eid_short": 4, "end_eid_short": 4, "text_short": "여름철"}
+        ]}, 
+        {"id": 6, "type": "PT_GRASS", "number": "singular", "gender": "", "person": "", "animacy": "plant", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 10, "end_eid": 12, "ne_id": 2, "text": "감자, 배추 등의", "start_eid_short": 11, "end_eid_short": 12, "text_short": "배추 등의"}
+        ]}, 
+        {"id": 7, "type": "PT_GRASS", "number": "singular", "gender": "", "person": "", "animacy": "plant", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 11, "end_eid": 11, "ne_id": 2, "text": "배추", "start_eid_short": 11, "end_eid_short": 11, "text_short": "배추"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 10, "end_eid": 13, "ne_id": -1, "text": "감자, 배추 등의 작물을", "start_eid_short": 13, "end_eid_short": 13, "text_short": "작물을"}
+        ]}, 
+        {"id": 9, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 0, "end_eid": 2, "ne_id": 1, "text": "대관령, 진안고원 등지에서", "start_eid_short": 1, "end_eid_short": 2, "text_short": "진안고원 등지에서"}
+        ]}, 
+        {"id": 10, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "대관령, 진안고원", "start_eid_short": 1, "end_eid_short": 1, "text_short": "진안고원"}
+        ]}, 
+        {"id": 11, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": 1, "text": "진안고원", "start_eid_short": 1, "end_eid_short": 1, "text_short": "진안고원"}
+        ]}, 
+        {"id": 12, "type": "PT_GRASS", "number": "singular", "gender": "", "person": "", "animacy": "plant", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 10, "end_eid": 10, "ne_id": 1, "text": "감자,", "start_eid_short": 10, "end_eid_short": 10, "text_short": "감자,"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 10, "end_eid": 15, "ne_id": -1, "text": "감자, 배추 등의 작물을 재배하는 농업이다.", "start_eid_short": 15, "end_eid_short": 15, "text_short": "농업이다."}
+        ]}, 
+        {"id": 14, "type": "LCG_MOUNTAIN", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "대관령,", "start_eid_short": 0, "end_eid_short": 0, "text_short": "대관령,"}
+        ]}
+    ]
+}

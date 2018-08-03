@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+마르케사 군도는 프랑스령 폴리네시아이다. 세상의 끝에 온 듯한 보석 같은 섬나라이다. 10세기경 마르케사스 군도를 거쳐 무인도에 도착하여 살기 시작한 폴리네시아인들로 추정되며 이들은 1778년 영국의 탐험가인 제임스 쿡 선장이 하와이 섬에 도착하기 전까지 여러 섬들에 독립 왕국을 건설하였다. 프랑스 화가 고갱이 타히티를 버리고 마지막으로 정주한 잃어버린 낙원이며 원색 남태평양 바다와 절벽이 있다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="8" text="마르케사 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="128" end="133" text="하와이 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="176" end="179" text="타히티" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="55" end="63" text="마르케사스 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="165" />
+<PLACE id="pl11" start="208" end="212" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="147" end="149" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="154" end="156" text="왕국" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="68" end="71" text="무인도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="10" end="14" text="프랑스령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="15" end="20" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="85" end="92" text="폴리네시아인들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="118" end="123" text="제임스 쿡" type="PERSON" dimensionality="POINT" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="172" end="174" text="고갱" type="PERSON" dimensionality="POINT" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="65" end="67" text="거쳐" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="73" end="76" text="도착하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m5" start="135" end="138" text="도착하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m7" start="191" end="194" text="정주한" domain="" latLong="" elevation="" motion_type="PATH" motion_class="STAY" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="149" end="150" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="71" end="72" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="133" end="134" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="179" end="180" text="를" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="63" end="64" text="를" motion_signal_type="PATH" comment="" />
+<SENTENCE id="sent0" start="1" end="23" text="마르케사 군도는 프랑스령 폴리네시아이다." comment="" />
+<SENTENCE id="sent1" start="24" end="48" text="세상의 끝에 온 듯한 보석 같은 섬나라이다." comment="" />
+<SENTENCE id="sent2" start="49" end="164" text="10세기경 마르케사스 군도를 거쳐 무인도에 도착하여 살기 시작한 폴리네시아인들로 추정되며 이들은 1778년 영국의 탐험가인 제임스 쿡 선장이 하와이 섬에 도착하기 전까지 여러 섬들에 독립 왕국을 건설하였다." comment="" />
+<SENTENCE id="sent3" start="165" end="225" text="프랑스 화가 고갱이 타히티를 버리고 마지막으로 정주한 잃어버린 낙원이며 원색 남태평양 바다와 절벽이 있다. " comment="" />
+<QSLINK id="qsl0" fromID="pl3" fromText="왕국" toID="pl2" toText="섬들" relType="EQ" trajector="pl3" landmark="pl2" trigger="s0" comment="" />
+<MOVELINK id="mvl0" fromID="pl12" fromText="마르케사스 군도" toID="m3" toText="거쳐" trigger="m3" source="" goal="" midPoint="pl12" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl2" fromID="pl5" fromText="하와이 섬" toID="m5" toText="도착하" trigger="m5" source="" goal="pl15" midPoint="" mover="se1" landmark="" goal_reached="NO" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl3" fromID="se2" fromText="고갱" toID="m7" toText="정주한" trigger="m7" source="" goal="" midPoint="" mover="se2" landmark="pl13" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl1" fromID="pl7" fromText="무인도" toID="m4" toText="도착하" trigger="m4" source="" goal="pl7" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<METALINK id="metal4" fromID="pl13" fromText="" toID="pl0" toText="마르케사 군도" objectID1="pl13" objectID2="pl0" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

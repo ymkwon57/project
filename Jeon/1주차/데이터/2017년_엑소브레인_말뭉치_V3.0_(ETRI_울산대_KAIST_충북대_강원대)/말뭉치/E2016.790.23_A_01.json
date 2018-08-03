@@ -1,0 +1,172 @@
+{
+    "doc_id": "E2016.790.23_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "재활용", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "영어의 리사이클(recycle)은 그대로 명사도 되지만 기본적으로 동사이며, 명사적 의미로는 리사이클링(recycling)으로 부르는 것이 보통이다.", 
+            "morp": [
+                {"id": 0, "lemma": "영어", "type": "NNP", "position": 0, "weight": 0.0752038}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 6, "weight": 0.0987295}, 
+                {"id": 2, "lemma": "리사이클", "type": "NNG", "position": 10, "weight": 0.15}, 
+                {"id": 3, "lemma": "(", "type": "SS", "position": 22, "weight": 1}, 
+                {"id": 4, "lemma": "recycle", "type": "SL", "position": 23, "weight": 1}, 
+                {"id": 5, "lemma": ")", "type": "SS", "position": 30, "weight": 1}, 
+                {"id": 6, "lemma": "은", "type": "JX", "position": 31, "weight": 0.0128817}, 
+                {"id": 7, "lemma": "그대로", "type": "MAG", "position": 35, "weight": 0.9}, 
+                {"id": 8, "lemma": "명사", "type": "NNG", "position": 45, "weight": 0.255013}, 
+                {"id": 9, "lemma": "도", "type": "JX", "position": 51, "weight": 0.0676272}, 
+                {"id": 10, "lemma": "되", "type": "VV", "position": 55, "weight": 0.136395}, 
+                {"id": 11, "lemma": "지만", "type": "EC", "position": 58, "weight": 0.423647}, 
+                {"id": 12, "lemma": "기본", "type": "NNG", "position": 65, "weight": 0.9}, 
+                {"id": 13, "lemma": "적", "type": "XSN", "position": 71, "weight": 0.0168756}, 
+                {"id": 14, "lemma": "으로", "type": "JKB", "position": 74, "weight": 0.121717}, 
+                {"id": 15, "lemma": "동사", "type": "NNG", "position": 81, "weight": 0.207258}, 
+                {"id": 16, "lemma": "이", "type": "VCP", "position": 87, "weight": 0.0177525}, 
+                {"id": 17, "lemma": "며", "type": "EC", "position": 90, "weight": 0.250555}, 
+                {"id": 18, "lemma": ",", "type": "SP", "position": 93, "weight": 1}, 
+                {"id": 19, "lemma": "명사", "type": "NNG", "position": 95, "weight": 0.518419}, 
+                {"id": 20, "lemma": "적", "type": "XSN", "position": 101, "weight": 0.0168756}, 
+                {"id": 21, "lemma": "의미", "type": "NNG", "position": 105, "weight": 0.9}, 
+                {"id": 22, "lemma": "로", "type": "JKB", "position": 111, "weight": 0.153229}, 
+                {"id": 23, "lemma": "는", "type": "JX", "position": 114, "weight": 0.0387928}, 
+                {"id": 24, "lemma": "리사이클링", "type": "NNG", "position": 118, "weight": 0.25}, 
+                {"id": 25, "lemma": "(", "type": "SS", "position": 133, "weight": 1}, 
+                {"id": 26, "lemma": "recycling", "type": "SL", "position": 134, "weight": 1}, 
+                {"id": 27, "lemma": ")", "type": "SS", "position": 143, "weight": 1}, 
+                {"id": 28, "lemma": "으로", "type": "JKB", "position": 144, "weight": 0.0486063}, 
+                {"id": 29, "lemma": "부르", "type": "VV", "position": 151, "weight": 0.436568}, 
+                {"id": 30, "lemma": "는", "type": "ETM", "position": 157, "weight": 0.184941}, 
+                {"id": 31, "lemma": "것", "type": "NNB", "position": 161, "weight": 0.228788}, 
+                {"id": 32, "lemma": "이", "type": "JKS", "position": 164, "weight": 0.0376169}, 
+                {"id": 33, "lemma": "보통", "type": "NNG", "position": 168, "weight": 0.14145}, 
+                {"id": 34, "lemma": "이", "type": "VCP", "position": 174, "weight": 0.0177525}, 
+                {"id": 35, "lemma": "다", "type": "EF", "position": 177, "weight": 0.353579}, 
+                {"id": 36, "lemma": ".", "type": "SF", "position": 180, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "영어", "type": "NNP", "scode": "020000", "weight": 0.2, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "리사이클", "type": "NNG", "scode": "000000", "weight": 0, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 22, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "recycle", "type": "SL", "scode": "000000", "weight": 1, "position": 23, "begin": 4, "end": 4}, 
+                {"id": 5, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 30, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 31, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "그대로", "type": "MAG", "scode": "000001", "weight": 0.5, "position": 35, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "명사", "type": "NNG", "scode": "030000", "weight": 0.0666667, "position": 45, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 51, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "되", "type": "VV", "scode": "010202", "weight": 0.03125, "position": 55, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "지만", "type": "EC", "scode": "000000", "weight": 1, "position": 58, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "기본적", "type": "NNG", "scode": "000000", "weight": 1, "position": 65, "begin": 12, "end": 13}, 
+                {"id": 13, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 74, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "동사", "type": "NNG", "scode": "090000", "weight": 0.0769231, "position": 81, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 87, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "며", "type": "EC", "scode": "000000", "weight": 1, "position": 90, "begin": 17, "end": 17}, 
+                {"id": 17, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 93, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "명사", "type": "NNG", "scode": "030000", "weight": 0.0666667, "position": 95, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "적", "type": "XSN", "scode": "180000", "weight": 0.0434783, "position": 101, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "의미", "type": "NNG", "scode": "020001", "weight": 0.25, "position": 105, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 111, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 114, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "리사이클링", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 118, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 133, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "recycling", "type": "SL", "scode": "000000", "weight": 1, "position": 134, "begin": 26, "end": 26}, 
+                {"id": 26, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 143, "begin": 27, "end": 27}, 
+                {"id": 27, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 144, "begin": 28, "end": 28}, 
+                {"id": 28, "text": "부르", "type": "VV", "scode": "010300", "weight": 0.0714286, "position": 151, "begin": 29, "end": 29}, 
+                {"id": 29, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 157, "begin": 30, "end": 30}, 
+                {"id": 30, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 161, "begin": 31, "end": 31}, 
+                {"id": 31, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 164, "begin": 32, "end": 32}, 
+                {"id": 32, "text": "보통", "type": "NNG", "scode": "000100", "weight": 0.5, "position": 168, "begin": 33, "end": 33}, 
+                {"id": 33, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 174, "begin": 34, "end": 34}, 
+                {"id": 34, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 177, "begin": 35, "end": 35}, 
+                {"id": 35, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 180, "begin": 36, "end": 36}
+            ], 
+            "word": [
+                {"id": 0, "text": "영어의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "리사이클(recycle)은", "type": "", "begin": 2, "end": 6}, 
+                {"id": 2, "text": "그대로", "type": "", "begin": 7, "end": 7}, 
+                {"id": 3, "text": "명사도", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "되지만", "type": "", "begin": 10, "end": 11}, 
+                {"id": 5, "text": "기본적으로", "type": "", "begin": 12, "end": 14}, 
+                {"id": 6, "text": "동사이며,", "type": "", "begin": 15, "end": 18}, 
+                {"id": 7, "text": "명사적", "type": "", "begin": 19, "end": 20}, 
+                {"id": 8, "text": "의미로는", "type": "", "begin": 21, "end": 23}, 
+                {"id": 9, "text": "리사이클링(recycling)으로", "type": "", "begin": 24, "end": 28}, 
+                {"id": 10, "text": "부르는", "type": "", "begin": 29, "end": 30}, 
+                {"id": 11, "text": "것이", "type": "", "begin": 31, "end": 32}, 
+                {"id": 12, "text": "보통이다.", "type": "", "begin": 33, "end": 36}
+            ], 
+            "NE": [
+                {"id": 0, "text": "영어", "type": "CV_LANGUAGE", "begin": 0, "end": 0, "weight": 0.490957, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "영어의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.643724}, 
+                {"id": 1, "text": "리사이클(recycle)은", "head": 4, "label": "NP_SBJ", "mod": [0], "weight": 0.758951}, 
+                {"id": 2, "text": "그대로", "head": 4, "label": "AP", "mod": [], "weight": 0.865567}, 
+                {"id": 3, "text": "명사도", "head": 4, "label": "NP_SBJ", "mod": [], "weight": 0.0270508}, 
+                {"id": 4, "text": "되지만", "head": 6, "label": "VP", "mod": [1, 2, 3], "weight": 0.737701}, 
+                {"id": 5, "text": "기본적으로", "head": 6, "label": "NP_AJT", "mod": [], "weight": 0.867831}, 
+                {"id": 6, "text": "동사이며,", "head": 12, "label": "VNP", "mod": [4, 5], "weight": 0.117662}, 
+                {"id": 7, "text": "명사적", "head": 8, "label": "NP", "mod": [], "weight": 0.641535}, 
+                {"id": 8, "text": "의미로는", "head": 10, "label": "NP_AJT", "mod": [7], "weight": 0.732522}, 
+                {"id": 9, "text": "리사이클링(recycling)으로", "head": 10, "label": "NP_AJT", "mod": [], "weight": 0.679373}, 
+                {"id": 10, "text": "부르는", "head": 11, "label": "VP_MOD", "mod": [9, 8], "weight": 0.819202}, 
+                {"id": 11, "text": "것이", "head": 12, "label": "NP_SBJ", "mod": [10], "weight": 0.824383}, 
+                {"id": 12, "text": "보통이다.", "head": -1, "label": "VNP", "mod": [6, 11], "weight": 0.000159645}
+            ], 
+            "SRL": [
+                {"verb": "되", "sense": 1, "word_id": 4, "weight": 0.146967, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 2, "text": "그대로", "weight": 0.142935}, 
+                    {"type": "ARG2", "word_id": 3, "text": "명사도", "weight": 0.150999}, 
+                    {"type": "ARG1", "word_id": 1, "text": "리사이클(recycle)은", "weight": 1}
+                ]}, 
+                {"verb": "부르", "sense": 2, "word_id": 10, "weight": 0.0895321, "argument": [
+                    {"type": "ARGM-PRD", "word_id": 8, "text": "의미로는", "weight": 1}, 
+                    {"type": "ARG2", "word_id": 9, "text": "리사이클링(recycling)으로", "weight": 0.0667494}, 
+                    {"type": "ARG1", "word_id": 11, "text": "것이", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "CV_LANGUAGE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "영어의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "영어의"}
+        ]}, 
+        {"id": 1, "type": "CV_SPORTS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "영어의 리사이클(recycle)은", "start_eid_short": 1, "end_eid_short": 1, "text_short": "리사이클(recycle)은"}, 
+            {"id": 2, "sent_id": 0, "start_eid": 2, "end_eid": 12, "ne_id": -1, "text": "그대로 명사도 되지만 기본적으로 동사이며, 명사적 의미로는 리사이클링(recycling)으로 부르는 것이 보통이다.", "start_eid_short": 12, "end_eid_short": 12, "text_short": "보통이다."}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "명사도", "start_eid_short": 3, "end_eid_short": 3, "text_short": "명사도"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "기본적으로", "start_eid_short": 5, "end_eid_short": 5, "text_short": "기본적으로"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 7, "end_eid": 8, "ne_id": -1, "text": "명사적 의미로는", "start_eid_short": 8, "end_eid_short": 8, "text_short": "의미로는"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "명사적", "start_eid_short": 7, "end_eid_short": 7, "text_short": "명사적"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 7, "end_eid": 11, "ne_id": -1, "text": "명사적 의미로는 리사이클링(recycling)으로 부르는 것이", "start_eid_short": 11, "end_eid_short": 11, "text_short": "것이"}
+        ]}, 
+        {"id": 7, "type": "CV_SPORTS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 7, "end_eid": 9, "ne_id": 2, "text": "명사적 의미로는 리사이클링(recycling)으로", "start_eid_short": 9, "end_eid_short": 9, "text_short": "리사이클링(recycling)으로"}
+        ]}
+    ]
+}

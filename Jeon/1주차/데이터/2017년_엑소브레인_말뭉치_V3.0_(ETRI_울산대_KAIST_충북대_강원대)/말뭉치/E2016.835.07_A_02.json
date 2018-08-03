@@ -1,0 +1,135 @@
+{
+    "doc_id": "E2016.835.07_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "장미전쟁", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<역사> 1455년부터 1485년까지 영국의 랭커스터가와 요크가 사이에서 벌어졌던 왕위 쟁탈전.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "역사", "type": "NNG", "position": 1, "weight": 0.199932}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "1455", "type": "SN", "position": 9, "weight": 1}, 
+                {"id": 4, "lemma": "년", "type": "NNB", "position": 13, "weight": 0.414343}, 
+                {"id": 5, "lemma": "부터", "type": "JX", "position": 16, "weight": 0.105319}, 
+                {"id": 6, "lemma": "1485", "type": "SN", "position": 23, "weight": 1}, 
+                {"id": 7, "lemma": "년", "type": "NNB", "position": 27, "weight": 0.414343}, 
+                {"id": 8, "lemma": "까지", "type": "JX", "position": 30, "weight": 0.105153}, 
+                {"id": 9, "lemma": "영국", "type": "NNP", "position": 37, "weight": 0.9}, 
+                {"id": 10, "lemma": "의", "type": "JKG", "position": 43, "weight": 0.0987295}, 
+                {"id": 11, "lemma": "랭커스터", "type": "NNP", "position": 47, "weight": 0.4}, 
+                {"id": 12, "lemma": "가", "type": "XSN", "position": 59, "weight": 0.000509419}, 
+                {"id": 13, "lemma": "와", "type": "JC", "position": 62, "weight": 0.0169714}, 
+                {"id": 14, "lemma": "요크", "type": "NNP", "position": 66, "weight": 0.173639}, 
+                {"id": 15, "lemma": "가", "type": "XSN", "position": 72, "weight": 0.066324}, 
+                {"id": 16, "lemma": "사이", "type": "NNG", "position": 76, "weight": 0.209229}, 
+                {"id": 17, "lemma": "에서", "type": "JKB", "position": 82, "weight": 0.153407}, 
+                {"id": 18, "lemma": "벌어지", "type": "VV", "position": 89, "weight": 0.9}, 
+                {"id": 19, "lemma": "었", "type": "EP", "position": 95, "weight": 0.9}, 
+                {"id": 20, "lemma": "던", "type": "ETM", "position": 98, "weight": 0.107547}, 
+                {"id": 21, "lemma": "왕위", "type": "NNG", "position": 102, "weight": 0.656826}, 
+                {"id": 22, "lemma": "쟁탈", "type": "NNG", "position": 109, "weight": 0.9}, 
+                {"id": 23, "lemma": "전", "type": "XSN", "position": 115, "weight": 0.00343717}, 
+                {"id": 24, "lemma": ".", "type": "SF", "position": 118, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "역사", "type": "NNG", "scode": "040001", "weight": 0.0526316, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "1455", "type": "SN", "scode": "000000", "weight": 1, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 13, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "부터", "type": "JX", "scode": "000000", "weight": 1, "position": 16, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "1485", "type": "SN", "scode": "000000", "weight": 1, "position": 23, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 27, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "까지", "type": "JX", "scode": "000000", "weight": 1, "position": 30, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "영국", "type": "NNP", "scode": "010000", "weight": 0.5, "position": 37, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 43, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "랭커스터가", "type": "NNG", "scode": "000000", "weight": 1, "position": 47, "begin": 11, "end": 12}, 
+                {"id": 12, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 62, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "요크가", "type": "NNG", "scode": "000000", "weight": 1, "position": 66, "begin": 14, "end": 15}, 
+                {"id": 14, "text": "사이", "type": "NNG", "scode": "010004", "weight": 0.0833333, "position": 76, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 82, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "벌어지", "type": "VV", "scode": "020000", "weight": 0.111111, "position": 89, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 95, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "던", "type": "ETM", "scode": "000000", "weight": 1, "position": 98, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "왕위", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 102, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "쟁탈전", "type": "NNG", "scode": "000000", "weight": 1, "position": 109, "begin": 22, "end": 23}, 
+                {"id": 21, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 118, "begin": 24, "end": 24}
+            ], 
+            "word": [
+                {"id": 0, "text": "<역사>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "1455년부터", "type": "", "begin": 3, "end": 5}, 
+                {"id": 2, "text": "1485년까지", "type": "", "begin": 6, "end": 8}, 
+                {"id": 3, "text": "영국의", "type": "", "begin": 9, "end": 10}, 
+                {"id": 4, "text": "랭커스터가와", "type": "", "begin": 11, "end": 13}, 
+                {"id": 5, "text": "요크가", "type": "", "begin": 14, "end": 15}, 
+                {"id": 6, "text": "사이에서", "type": "", "begin": 16, "end": 17}, 
+                {"id": 7, "text": "벌어졌던", "type": "", "begin": 18, "end": 20}, 
+                {"id": 8, "text": "왕위", "type": "", "begin": 21, "end": 21}, 
+                {"id": 9, "text": "쟁탈전.", "type": "", "begin": 22, "end": 24}
+            ], 
+            "NE": [
+                {"id": 0, "text": "1455년부터 1485년까지", "type": "DT_DURATION", "begin": 3, "end": 8, "weight": 0.842696, "common_noun": 0}, 
+                {"id": 1, "text": "영국", "type": "LCP_COUNTRY", "begin": 9, "end": 9, "weight": 0.63282, "common_noun": 0}, 
+                {"id": 2, "text": "랭커스터가", "type": "OG_OTHERS", "begin": 11, "end": 12, "weight": 0.348555, "common_noun": 0}, 
+                {"id": 3, "text": "요크가", "type": "OG_OTHERS", "begin": 14, "end": 15, "weight": 0.421789, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<역사>", "head": 9, "label": "NP", "mod": [], "weight": 0.784769}, 
+                {"id": 1, "text": "1455년부터", "head": 7, "label": "NP_AJT", "mod": [], "weight": 0.135339}, 
+                {"id": 2, "text": "1485년까지", "head": 7, "label": "NP_AJT", "mod": [], "weight": 0.545904}, 
+                {"id": 3, "text": "영국의", "head": 4, "label": "NP_MOD", "mod": [], "weight": 0.488343}, 
+                {"id": 4, "text": "랭커스터가와", "head": 5, "label": "NP_CNJ", "mod": [3], "weight": 0.596068}, 
+                {"id": 5, "text": "요크가", "head": 6, "label": "NP", "mod": [4], "weight": 0.6937}, 
+                {"id": 6, "text": "사이에서", "head": 7, "label": "NP_AJT", "mod": [5], "weight": 0.856929}, 
+                {"id": 7, "text": "벌어졌던", "head": 9, "label": "VP_MOD", "mod": [2, 6, 1], "weight": 0.80463}, 
+                {"id": 8, "text": "왕위", "head": 9, "label": "NP", "mod": [], "weight": 0.713538}, 
+                {"id": 9, "text": "쟁탈전.", "head": -1, "label": "NP", "mod": [0, 7, 8], "weight": 0.00516987}
+            ], 
+            "SRL": [
+                {"verb": "벌어지", "sense": 1, "word_id": 7, "weight": 0.167667, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 1, "text": "1455년부터", "weight": 0.188641}, 
+                    {"type": "ARGM-TMP", "word_id": 2, "text": "1485년까지", "weight": 0.175478}, 
+                    {"type": "ARG1", "word_id": 9, "text": "쟁탈전.", "weight": 0.122602}, 
+                    {"type": "ARGM-PRD", "word_id": 6, "text": "사이에서", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "DT_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 0, "text": "1455년부터 1485년까지", "start_eid_short": 2, "end_eid_short": 2, "text_short": "1485년까지"}
+        ]}, 
+        {"id": 1, "type": "OG_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": 2, "text": "랭커스터가와", "start_eid_short": 4, "end_eid_short": 4, "text_short": "랭커스터가와"}
+        ]}, 
+        {"id": 2, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": 1, "text": "영국의", "start_eid_short": 3, "end_eid_short": 3, "text_short": "영국의"}
+        ]}, 
+        {"id": 3, "type": "OG_OTHERS", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 3, "end_eid": 5, "ne_id": 3, "text": "영국의 랭커스터가와 요크가", "start_eid_short": 5, "end_eid_short": 5, "text_short": "요크가"}
+        ]}, 
+        {"id": 4, "type": "OG_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": 3, "text": "요크가", "start_eid_short": 5, "end_eid_short": 5, "text_short": "요크가"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "왕위", "start_eid_short": 8, "end_eid_short": 8, "text_short": "왕위"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 1, "end_eid": 9, "ne_id": -1, "text": "1455년부터 1485년까지 영국의 랭커스터가와 요크가 사이에서 벌어졌던 왕위 쟁탈전.", "start_eid_short": 8, "end_eid_short": 9, "text_short": "왕위 쟁탈전."}
+        ]}
+    ]
+}

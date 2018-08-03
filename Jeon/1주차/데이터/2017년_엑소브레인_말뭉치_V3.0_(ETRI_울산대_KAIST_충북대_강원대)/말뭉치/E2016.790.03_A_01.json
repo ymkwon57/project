@@ -1,0 +1,300 @@
+{
+    "doc_id": "E2016.790.03_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "노을", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "노을 또는 놀은 새벽이나 아침, 저녁에 태양 광선이 대기를 통과하는 거리가 길어져서 태양 광선 중 파장이 짧은 파란색은 대기 중에서 산란되고, 파장이 긴 빨간색은 산란되지 않아 하늘이 빨간색으로 보이는 현상이다.", 
+            "morp": [
+                {"id": 0, "lemma": "노을", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "또는", "type": "MAJ", "position": 7, "weight": 0.0017557}, 
+                {"id": 2, "lemma": "놀", "type": "NNG", "position": 14, "weight": 0.0110686}, 
+                {"id": 3, "lemma": "은", "type": "JX", "position": 17, "weight": 0.0449928}, 
+                {"id": 4, "lemma": "새벽", "type": "NNG", "position": 21, "weight": 0.324617}, 
+                {"id": 5, "lemma": "이나", "type": "JC", "position": 27, "weight": 0.0238189}, 
+                {"id": 6, "lemma": "아침", "type": "NNG", "position": 34, "weight": 0.802923}, 
+                {"id": 7, "lemma": ",", "type": "SP", "position": 40, "weight": 1}, 
+                {"id": 8, "lemma": "저녁", "type": "NNG", "position": 42, "weight": 0.9}, 
+                {"id": 9, "lemma": "에", "type": "JKB", "position": 48, "weight": 0.153364}, 
+                {"id": 10, "lemma": "태양", "type": "NNG", "position": 52, "weight": 0.207317}, 
+                {"id": 11, "lemma": "광선", "type": "NNG", "position": 59, "weight": 0.9}, 
+                {"id": 12, "lemma": "이", "type": "JKS", "position": 65, "weight": 0.0360723}, 
+                {"id": 13, "lemma": "대기", "type": "NNG", "position": 69, "weight": 0.208466}, 
+                {"id": 14, "lemma": "를", "type": "JKO", "position": 75, "weight": 0.137686}, 
+                {"id": 15, "lemma": "통과", "type": "NNG", "position": 79, "weight": 0.9}, 
+                {"id": 16, "lemma": "하", "type": "XSV", "position": 85, "weight": 0.0001}, 
+                {"id": 17, "lemma": "는", "type": "ETM", "position": 88, "weight": 0.238503}, 
+                {"id": 18, "lemma": "거리", "type": "NNG", "position": 92, "weight": 0.594454}, 
+                {"id": 19, "lemma": "가", "type": "JKS", "position": 98, "weight": 0.066324}, 
+                {"id": 20, "lemma": "길어지", "type": "VV", "position": 102, "weight": 0.9}, 
+                {"id": 21, "lemma": "어서", "type": "EC", "position": 108, "weight": 0.421998}, 
+                {"id": 22, "lemma": "태양", "type": "NNG", "position": 115, "weight": 0.218655}, 
+                {"id": 23, "lemma": "광선", "type": "NNG", "position": 122, "weight": 0.9}, 
+                {"id": 24, "lemma": "중", "type": "NNB", "position": 129, "weight": 0.013531}, 
+                {"id": 25, "lemma": "파장", "type": "NNG", "position": 133, "weight": 0.110404}, 
+                {"id": 26, "lemma": "이", "type": "JKS", "position": 139, "weight": 0.0360723}, 
+                {"id": 27, "lemma": "짧", "type": "VA", "position": 143, "weight": 0.9}, 
+                {"id": 28, "lemma": "은", "type": "ETM", "position": 146, "weight": 0.155123}, 
+                {"id": 29, "lemma": "파란", "type": "NNG", "position": 150, "weight": 0.9}, 
+                {"id": 30, "lemma": "색", "type": "NNG", "position": 156, "weight": 0}, 
+                {"id": 31, "lemma": "은", "type": "JX", "position": 159, "weight": 0.100393}, 
+                {"id": 32, "lemma": "대기", "type": "NNG", "position": 163, "weight": 0.323715}, 
+                {"id": 33, "lemma": "중", "type": "NNB", "position": 170, "weight": 0.013531}, 
+                {"id": 34, "lemma": "에서", "type": "JKB", "position": 173, "weight": 0.135597}, 
+                {"id": 35, "lemma": "산란", "type": "NNG", "position": 180, "weight": 0}, 
+                {"id": 36, "lemma": "되", "type": "XSV", "position": 180, "weight": 0}, 
+                {"id": 37, "lemma": "고", "type": "EC", "position": 189, "weight": 0.416679}, 
+                {"id": 38, "lemma": ",", "type": "SP", "position": 192, "weight": 1}, 
+                {"id": 39, "lemma": "파장", "type": "NNG", "position": 194, "weight": 0.530573}, 
+                {"id": 40, "lemma": "이", "type": "JKS", "position": 200, "weight": 0.0360723}, 
+                {"id": 41, "lemma": "길", "type": "VA", "position": 204, "weight": 0.106026}, 
+                {"id": 42, "lemma": "ㄴ", "type": "ETM", "position": 204, "weight": 0.430446}, 
+                {"id": 43, "lemma": "빨간", "type": "NNG", "position": 208, "weight": 0.05}, 
+                {"id": 44, "lemma": "색", "type": "NNG", "position": 214, "weight": 0.184754}, 
+                {"id": 45, "lemma": "은", "type": "JX", "position": 217, "weight": 0.0449928}, 
+                {"id": 46, "lemma": "산란", "type": "NNG", "position": 221, "weight": 0}, 
+                {"id": 47, "lemma": "되", "type": "XSV", "position": 221, "weight": 0}, 
+                {"id": 48, "lemma": "지", "type": "EC", "position": 230, "weight": 0.301842}, 
+                {"id": 49, "lemma": "않", "type": "VX", "position": 234, "weight": 0.256301}, 
+                {"id": 50, "lemma": "아", "type": "EC", "position": 237, "weight": 0.245442}, 
+                {"id": 51, "lemma": "하늘", "type": "NNG", "position": 241, "weight": 0.219387}, 
+                {"id": 52, "lemma": "이", "type": "JKS", "position": 247, "weight": 0.0360723}, 
+                {"id": 53, "lemma": "빨간", "type": "NNG", "position": 251, "weight": 0.05}, 
+                {"id": 54, "lemma": "색", "type": "NNG", "position": 257, "weight": 0.184754}, 
+                {"id": 55, "lemma": "으로", "type": "JKB", "position": 260, "weight": 0.153406}, 
+                {"id": 56, "lemma": "보이", "type": "VV", "position": 267, "weight": 0.443925}, 
+                {"id": 57, "lemma": "는", "type": "ETM", "position": 273, "weight": 0.184941}, 
+                {"id": 58, "lemma": "현상", "type": "NNG", "position": 277, "weight": 0.65874}, 
+                {"id": 59, "lemma": "이", "type": "VCP", "position": 283, "weight": 0.0177525}, 
+                {"id": 60, "lemma": "다", "type": "EF", "position": 286, "weight": 0.353579}, 
+                {"id": 61, "lemma": ".", "type": "SF", "position": 289, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "노을", "type": "NNG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "또는", "type": "MAJ", "scode": "000000", "weight": 1, "position": 7, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "놀", "type": "NNG", "scode": "010000", "weight": 0.125, "position": 14, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 17, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "새벽", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 21, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "이나", "type": "JC", "scode": "000000", "weight": 1, "position": 27, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "아침", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 34, "begin": 6, "end": 6}, 
+                {"id": 7, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 40, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "저녁", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 42, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 48, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "태양", "type": "NNG", "scode": "020001", "weight": 0.142857, "position": 52, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "광선", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 59, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 65, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "대기", "type": "NNG", "scode": "070002", "weight": 0.0333333, "position": 69, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 75, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "통과하", "type": "VV", "scode": "000101", "weight": 0.2, "position": 79, "begin": 15, "end": 16}, 
+                {"id": 16, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 88, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "거리", "type": "NNG", "scode": "080001", "weight": 0.0434783, "position": 92, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 98, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "길어지", "type": "VV", "scode": "000000", "weight": 1, "position": 102, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "어서", "type": "EC", "scode": "000000", "weight": 1, "position": 108, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "태양", "type": "NNG", "scode": "020001", "weight": 0.142857, "position": 115, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "광선", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 122, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "중", "type": "NNB", "scode": "040101", "weight": 0.0526316, "position": 129, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "파장", "type": "NNG", "scode": "020001", "weight": 0.2, "position": 133, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 139, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "짧", "type": "VA", "scode": "000001", "weight": 0.25, "position": 143, "begin": 27, "end": 27}, 
+                {"id": 27, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 146, "begin": 28, "end": 28}, 
+                {"id": 28, "text": "파란색", "type": "NNG", "scode": "000000", "weight": 1, "position": 150, "begin": 29, "end": 30}, 
+                {"id": 29, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 159, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "대기", "type": "NNG", "scode": "070002", "weight": 0.0333333, "position": 163, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "중", "type": "NNB", "scode": "040105", "weight": 0.0526316, "position": 170, "begin": 33, "end": 33}, 
+                {"id": 32, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 173, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "산란", "type": "NNG", "scode": "030000", "weight": 0.25, "position": 180, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "되", "type": "XSV", "scode": "050001", "weight": 0.0714286, "position": 180, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 189, "begin": 37, "end": 37}, 
+                {"id": 36, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 192, "begin": 38, "end": 38}, 
+                {"id": 37, "text": "파장", "type": "NNG", "scode": "020001", "weight": 0.2, "position": 194, "begin": 39, "end": 39}, 
+                {"id": 38, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 200, "begin": 40, "end": 40}, 
+                {"id": 39, "text": "길", "type": "VA", "scode": "020001", "weight": 0.166667, "position": 204, "begin": 41, "end": 41}, 
+                {"id": 40, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 204, "begin": 42, "end": 42}, 
+                {"id": 41, "text": "빨간색", "type": "NNG", "scode": "000000", "weight": 1, "position": 208, "begin": 43, "end": 44}, 
+                {"id": 42, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 217, "begin": 45, "end": 45}, 
+                {"id": 43, "text": "산란", "type": "NNG", "scode": "030000", "weight": 0.25, "position": 221, "begin": 46, "end": 46}, 
+                {"id": 44, "text": "되", "type": "XSV", "scode": "050001", "weight": 0.0714286, "position": 221, "begin": 47, "end": 47}, 
+                {"id": 45, "text": "지", "type": "EC", "scode": "000000", "weight": 1, "position": 230, "begin": 48, "end": 48}, 
+                {"id": 46, "text": "않", "type": "VX", "scode": "000200", "weight": 0.333333, "position": 234, "begin": 49, "end": 49}, 
+                {"id": 47, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 237, "begin": 50, "end": 50}, 
+                {"id": 48, "text": "하늘", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 241, "begin": 51, "end": 51}, 
+                {"id": 49, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 247, "begin": 52, "end": 52}, 
+                {"id": 50, "text": "빨간색", "type": "NNG", "scode": "000000", "weight": 1, "position": 251, "begin": 53, "end": 54}, 
+                {"id": 51, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 260, "begin": 55, "end": 55}, 
+                {"id": 52, "text": "보이", "type": "VV", "scode": "010101", "weight": 0.0909091, "position": 267, "begin": 56, "end": 56}, 
+                {"id": 53, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 273, "begin": 57, "end": 57}, 
+                {"id": 54, "text": "현상", "type": "NNG", "scode": "040001", "weight": 0.0833333, "position": 277, "begin": 58, "end": 58}, 
+                {"id": 55, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 283, "begin": 59, "end": 59}, 
+                {"id": 56, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 286, "begin": 60, "end": 60}, 
+                {"id": 57, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 289, "begin": 61, "end": 61}
+            ], 
+            "word": [
+                {"id": 0, "text": "노을", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "또는", "type": "", "begin": 1, "end": 1}, 
+                {"id": 2, "text": "놀은", "type": "", "begin": 2, "end": 3}, 
+                {"id": 3, "text": "새벽이나", "type": "", "begin": 4, "end": 5}, 
+                {"id": 4, "text": "아침,", "type": "", "begin": 6, "end": 7}, 
+                {"id": 5, "text": "저녁에", "type": "", "begin": 8, "end": 9}, 
+                {"id": 6, "text": "태양", "type": "", "begin": 10, "end": 10}, 
+                {"id": 7, "text": "광선이", "type": "", "begin": 11, "end": 12}, 
+                {"id": 8, "text": "대기를", "type": "", "begin": 13, "end": 14}, 
+                {"id": 9, "text": "통과하는", "type": "", "begin": 15, "end": 17}, 
+                {"id": 10, "text": "거리가", "type": "", "begin": 18, "end": 19}, 
+                {"id": 11, "text": "길어져서", "type": "", "begin": 20, "end": 21}, 
+                {"id": 12, "text": "태양", "type": "", "begin": 22, "end": 22}, 
+                {"id": 13, "text": "광선", "type": "", "begin": 23, "end": 23}, 
+                {"id": 14, "text": "중", "type": "", "begin": 24, "end": 24}, 
+                {"id": 15, "text": "파장이", "type": "", "begin": 25, "end": 26}, 
+                {"id": 16, "text": "짧은", "type": "", "begin": 27, "end": 28}, 
+                {"id": 17, "text": "파란색은", "type": "", "begin": 29, "end": 31}, 
+                {"id": 18, "text": "대기", "type": "", "begin": 32, "end": 32}, 
+                {"id": 19, "text": "중에서", "type": "", "begin": 33, "end": 34}, 
+                {"id": 20, "text": "산란되고,", "type": "", "begin": 35, "end": 38}, 
+                {"id": 21, "text": "파장이", "type": "", "begin": 39, "end": 40}, 
+                {"id": 22, "text": "긴", "type": "", "begin": 41, "end": 42}, 
+                {"id": 23, "text": "빨간색은", "type": "", "begin": 43, "end": 45}, 
+                {"id": 24, "text": "산란되지", "type": "", "begin": 46, "end": 48}, 
+                {"id": 25, "text": "않아", "type": "", "begin": 49, "end": 50}, 
+                {"id": 26, "text": "하늘이", "type": "", "begin": 51, "end": 52}, 
+                {"id": 27, "text": "빨간색으로", "type": "", "begin": 53, "end": 55}, 
+                {"id": 28, "text": "보이는", "type": "", "begin": 56, "end": 57}, 
+                {"id": 29, "text": "현상이다.", "type": "", "begin": 58, "end": 61}
+            ], 
+            "NE": [
+                {"id": 0, "text": "새벽", "type": "TI_DURATION", "begin": 4, "end": 4, "weight": 0.632132, "common_noun": 0}, 
+                {"id": 1, "text": "아침", "type": "TI_DURATION", "begin": 6, "end": 6, "weight": 0.664853, "common_noun": 0}, 
+                {"id": 2, "text": "저녁", "type": "TI_DURATION", "begin": 8, "end": 8, "weight": 0.560763, "common_noun": 0}, 
+                {"id": 3, "text": "태양", "type": "LC_SPACE", "begin": 10, "end": 10, "weight": 0.592394, "common_noun": 0}, 
+                {"id": 4, "text": "태양", "type": "LC_SPACE", "begin": 22, "end": 22, "weight": 0.808453, "common_noun": 0}, 
+                {"id": 5, "text": "파란색", "type": "TM_COLOR", "begin": 29, "end": 30, "weight": 0.506729, "common_noun": 0}, 
+                {"id": 6, "text": "빨간색", "type": "TM_COLOR", "begin": 43, "end": 44, "weight": 0.490062, "common_noun": 0}, 
+                {"id": 7, "text": "빨간색", "type": "TM_COLOR", "begin": 53, "end": 54, "weight": 0.565735, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "노을", "head": 2, "label": "NP_CNJ", "mod": [], "weight": 0.452581}, 
+                {"id": 1, "text": "또는", "head": 2, "label": "AP", "mod": [], "weight": 0.833903}, 
+                {"id": 2, "text": "놀은", "head": 29, "label": "NP_SBJ", "mod": [0, 1], "weight": 0.469996}, 
+                {"id": 3, "text": "새벽이나", "head": 5, "label": "NP_CNJ", "mod": [], "weight": 0.797068}, 
+                {"id": 4, "text": "아침,", "head": 5, "label": "NP_CNJ", "mod": [], "weight": 0.609697}, 
+                {"id": 5, "text": "저녁에", "head": 11, "label": "NP_AJT", "mod": [3, 4], "weight": 0.7813}, 
+                {"id": 6, "text": "태양", "head": 7, "label": "NP", "mod": [], "weight": 0.710918}, 
+                {"id": 7, "text": "광선이", "head": 9, "label": "NP_SBJ", "mod": [6], "weight": 0.465202}, 
+                {"id": 8, "text": "대기를", "head": 9, "label": "NP_OBJ", "mod": [], "weight": 0.713842}, 
+                {"id": 9, "text": "통과하는", "head": 10, "label": "VP_MOD", "mod": [7, 8], "weight": 0.739761}, 
+                {"id": 10, "text": "거리가", "head": 11, "label": "NP_SBJ", "mod": [9], "weight": 0.780919}, 
+                {"id": 11, "text": "길어져서", "head": 20, "label": "VP", "mod": [5, 10], "weight": 0.754383}, 
+                {"id": 12, "text": "태양", "head": 13, "label": "NP", "mod": [], "weight": 0.739372}, 
+                {"id": 13, "text": "광선", "head": 14, "label": "NP", "mod": [12], "weight": 0.834086}, 
+                {"id": 14, "text": "중", "head": 16, "label": "NP_AJT", "mod": [13], "weight": 0.157423}, 
+                {"id": 15, "text": "파장이", "head": 16, "label": "NP_SBJ", "mod": [], "weight": 0.739233}, 
+                {"id": 16, "text": "짧은", "head": 17, "label": "VP_MOD", "mod": [14, 15], "weight": 0.713473}, 
+                {"id": 17, "text": "파란색은", "head": 20, "label": "NP_SBJ", "mod": [16], "weight": 0.3114}, 
+                {"id": 18, "text": "대기", "head": 19, "label": "NP", "mod": [], "weight": 0.777529}, 
+                {"id": 19, "text": "중에서", "head": 20, "label": "NP_AJT", "mod": [18], "weight": 0.758374}, 
+                {"id": 20, "text": "산란되고,", "head": 24, "label": "VP", "mod": [11, 17, 19], "weight": 0.460976}, 
+                {"id": 21, "text": "파장이", "head": 22, "label": "NP_SBJ", "mod": [], "weight": 0.799083}, 
+                {"id": 22, "text": "긴", "head": 23, "label": "VP_MOD", "mod": [21], "weight": 0.595684}, 
+                {"id": 23, "text": "빨간색은", "head": 24, "label": "NP_SBJ", "mod": [22], "weight": 0.415675}, 
+                {"id": 24, "text": "산란되지", "head": 25, "label": "VP", "mod": [20, 23], "weight": 0.709405}, 
+                {"id": 25, "text": "않아", "head": 28, "label": "VP", "mod": [24], "weight": 0.633867}, 
+                {"id": 26, "text": "하늘이", "head": 28, "label": "NP_SBJ", "mod": [], "weight": 0.745108}, 
+                {"id": 27, "text": "빨간색으로", "head": 28, "label": "NP_AJT", "mod": [], "weight": 0.798373}, 
+                {"id": 28, "text": "보이는", "head": 29, "label": "VP_MOD", "mod": [25, 26, 27], "weight": 0.78389}, 
+                {"id": 29, "text": "현상이다.", "head": -1, "label": "VNP", "mod": [28, 2], "weight": 9.90379e-07}
+            ], 
+            "SRL": [
+                {"verb": "통과", "sense": 1, "word_id": 9, "weight": 0.238056, "argument": [
+                    {"type": "ARG0", "word_id": 7, "text": "광선이", "weight": 0.266223}, 
+                    {"type": "ARG1", "word_id": 8, "text": "대기를", "weight": 0.209889}, 
+                    {"type": "ARGM-TMP", "word_id": 5, "text": "저녁에", "weight": 1}
+                ]}, 
+                {"verb": "길어지", "sense": 1, "word_id": 11, "weight": 0.184921, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 5, "text": "저녁에", "weight": 0.12079}, 
+                    {"type": "ARG1", "word_id": 10, "text": "거리가", "weight": 0.249051}
+                ]}, 
+                {"verb": "짧", "sense": 1, "word_id": 16, "weight": 0.216887, "argument": [
+                    {"type": "ARG1", "word_id": 15, "text": "파장이", "weight": 0.320062}
+                ]}, 
+                {"verb": "산란", "sense": 1, "word_id": 20, "weight": 0.0944403, "argument": [
+                    {"type": "ARG1", "word_id": 17, "text": "파란색은", "weight": 0.11189}, 
+                    {"type": "ARGM-LOC", "word_id": 19, "text": "중에서", "weight": 0.076991}, 
+                    {"type": "ARGM-CAU", "word_id": 11, "text": "길어져서", "weight": 1}
+                ]}, 
+                {"verb": "길", "sense": 1, "word_id": 22, "weight": 0.205588, "argument": [
+                    {"type": "ARG1", "word_id": 21, "text": "파장이", "weight": 0.205588}
+                ]}, 
+                {"verb": "산란", "sense": 1, "word_id": 24, "weight": 0.232208, "argument": [
+                    {"type": "ARG1", "word_id": 23, "text": "빨간색은", "weight": 0.178596}, 
+                    {"type": "ARGM-NEG", "word_id": 25, "text": "않아", "weight": 0.285821}
+                ]}, 
+                {"verb": "보이", "sense": 1, "word_id": 28, "weight": 0.144352, "argument": [
+                    {"type": "ARGM-CAU", "word_id": 25, "text": "않아", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 26, "text": "하늘이", "weight": 0.201682}, 
+                    {"type": "ARGM-PRD", "word_id": 27, "text": "빨간색으로", "weight": 0.0791575}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "노을 또는 놀은", "start_eid_short": 2, "end_eid_short": 2, "text_short": "놀은"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "노을", "start_eid_short": 0, "end_eid_short": 0, "text_short": "노을"}, 
+            {"id": 2, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "놀은", "start_eid_short": 2, "end_eid_short": 2, "text_short": "놀은"}, 
+            {"id": 3, "sent_id": 0, "start_eid": 3, "end_eid": 29, "ne_id": -1, "text": "새벽이나 아침, 저녁에 태양 광선이 대기를 통과하는 거리가 길어져서 태양 광선 중 파장이 짧은 파란색은 대기 중에서 산란되고, 파장이 긴 빨간색은 산란되지 않아 하늘이 빨간색으로 보이는 현상이다.", "start_eid_short": 29, "end_eid_short": 29, "text_short": "현상이다."}
+        ]}, 
+        {"id": 1, "type": "TI_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 3, "end_eid": 5, "ne_id": 2, "text": "새벽이나 아침, 저녁에", "start_eid_short": 5, "end_eid_short": 5, "text_short": "저녁에"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 6, "end_eid": 10, "ne_id": -1, "text": "태양 광선이 대기를 통과하는 거리가", "start_eid_short": 10, "end_eid_short": 10, "text_short": "거리가"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 6, "end_eid": 7, "ne_id": -1, "text": "태양 광선이", "start_eid_short": 6, "end_eid_short": 7, "text_short": "태양 광선이"}, 
+            {"id": 13, "sent_id": 0, "start_eid": 12, "end_eid": 13, "ne_id": -1, "text": "태양 광선", "start_eid_short": 12, "end_eid_short": 13, "text_short": "태양 광선"}
+        ]}, 
+        {"id": 4, "type": "LC_SPACE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": 3, "text": "태양", "start_eid_short": 6, "end_eid_short": 6, "text_short": "태양"}, 
+            {"id": 14, "sent_id": 0, "start_eid": 12, "end_eid": 12, "ne_id": 4, "text": "태양", "start_eid_short": 12, "end_eid_short": 12, "text_short": "태양"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "대기를", "start_eid_short": 8, "end_eid_short": 8, "text_short": "대기를"}, 
+            {"id": 16, "sent_id": 0, "start_eid": 18, "end_eid": 18, "ne_id": -1, "text": "대기", "start_eid_short": 18, "end_eid_short": 18, "text_short": "대기"}
+        ]}, 
+        {"id": 6, "type": "TM_COLOR", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 0, "start_eid": 12, "end_eid": 17, "ne_id": 5, "text": "태양 광선 중 파장이 짧은 파란색은", "start_eid_short": 17, "end_eid_short": 17, "text_short": "파란색은"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 0, "start_eid": 15, "end_eid": 15, "ne_id": -1, "text": "파장이", "start_eid_short": 15, "end_eid_short": 15, "text_short": "파장이"}, 
+            {"id": 18, "sent_id": 0, "start_eid": 21, "end_eid": 21, "ne_id": -1, "text": "파장이", "start_eid_short": 21, "end_eid_short": 21, "text_short": "파장이"}
+        ]}, 
+        {"id": 8, "type": "TM_COLOR", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 0, "start_eid": 21, "end_eid": 23, "ne_id": 6, "text": "파장이 긴 빨간색은", "start_eid_short": 23, "end_eid_short": 23, "text_short": "빨간색은"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 0, "start_eid": 26, "end_eid": 26, "ne_id": -1, "text": "하늘이", "start_eid_short": 26, "end_eid_short": 26, "text_short": "하늘이"}
+        ]}, 
+        {"id": 10, "type": "TI_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": 2, "text": "저녁에", "start_eid_short": 5, "end_eid_short": 5, "text_short": "저녁에"}
+        ]}, 
+        {"id": 11, "type": "TI_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": 1, "text": "아침,", "start_eid_short": 4, "end_eid_short": 4, "text_short": "아침,"}
+        ]}, 
+        {"id": 12, "type": "TI_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": 0, "text": "새벽이나", "start_eid_short": 3, "end_eid_short": 3, "text_short": "새벽이나"}
+        ]}
+    ]
+}

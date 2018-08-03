@@ -1,0 +1,291 @@
+{
+    "doc_id": "E2016.835.01_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "5현제", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "로마 제국의 전성시대에 잇달아 군림한 5인의 명군(名君).", 
+            "morp": [
+                {"id": 0, "lemma": "로마", "type": "NNP", "position": 0, "weight": 0.243702}, 
+                {"id": 1, "lemma": "제국", "type": "NNG", "position": 7, "weight": 0.184695}, 
+                {"id": 2, "lemma": "의", "type": "JKG", "position": 13, "weight": 0.0694213}, 
+                {"id": 3, "lemma": "전성", "type": "NNG", "position": 17, "weight": 0.9}, 
+                {"id": 4, "lemma": "시대", "type": "NNG", "position": 23, "weight": 0.9}, 
+                {"id": 5, "lemma": "에", "type": "JKB", "position": 29, "weight": 0.153364}, 
+                {"id": 6, "lemma": "잇달", "type": "VV", "position": 33, "weight": 0.9}, 
+                {"id": 7, "lemma": "아", "type": "EC", "position": 39, "weight": 0.398809}, 
+                {"id": 8, "lemma": "군림", "type": "NNG", "position": 43, "weight": 0.55}, 
+                {"id": 9, "lemma": "하", "type": "XSV", "position": 49, "weight": 0.0001}, 
+                {"id": 10, "lemma": "ㄴ", "type": "ETM", "position": 49, "weight": 0.392321}, 
+                {"id": 11, "lemma": "5", "type": "SN", "position": 53, "weight": 1}, 
+                {"id": 12, "lemma": "인", "type": "NNG", "position": 54, "weight": 0.0408214}, 
+                {"id": 13, "lemma": "의", "type": "JKG", "position": 57, "weight": 0.0694213}, 
+                {"id": 14, "lemma": "명군", "type": "NNG", "position": 61, "weight": 0.45}, 
+                {"id": 15, "lemma": "(", "type": "SS", "position": 67, "weight": 1}, 
+                {"id": 16, "lemma": "名君", "type": "SH", "position": 68, "weight": 1}, 
+                {"id": 17, "lemma": ")", "type": "SS", "position": 74, "weight": 1}, 
+                {"id": 18, "lemma": ".", "type": "SF", "position": 75, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "로마", "type": "NNP", "scode": "020003", "weight": 0.2, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "제국", "type": "NNG", "scode": "020000", "weight": 0.25, "position": 7, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 13, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "전성시대", "type": "NNG", "scode": "000000", "weight": 1, "position": 17, "begin": 3, "end": 4}, 
+                {"id": 4, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 29, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "잇달", "type": "VV", "scode": "000102", "weight": 0.333333, "position": 33, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 39, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "군림하", "type": "VV", "scode": "000002", "weight": 0.5, "position": 43, "begin": 8, "end": 9}, 
+                {"id": 8, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 49, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "5", "type": "SN", "scode": "000000", "weight": 1, "position": 53, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "인", "type": "NNG", "scode": "020002", "weight": 0.0357143, "position": 54, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 57, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "명군", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 61, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 67, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "名君", "type": "SH", "scode": "000000", "weight": 1, "position": 68, "begin": 16, "end": 16}, 
+                {"id": 15, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 74, "begin": 17, "end": 17}, 
+                {"id": 16, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 75, "begin": 18, "end": 18}
+            ], 
+            "word": [
+                {"id": 0, "text": "로마", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "제국의", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "전성시대에", "type": "", "begin": 3, "end": 5}, 
+                {"id": 3, "text": "잇달아", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "군림한", "type": "", "begin": 8, "end": 10}, 
+                {"id": 5, "text": "5인의", "type": "", "begin": 11, "end": 13}, 
+                {"id": 6, "text": "명군(名君).", "type": "", "begin": 14, "end": 18}
+            ], 
+            "NE": [
+                {"id": 0, "text": "로마 제국", "type": "LCP_COUNTRY", "begin": 0, "end": 1, "weight": 0.390039, "common_noun": 0}, 
+                {"id": 1, "text": "5인", "type": "QT_MAN_COUNT", "begin": 11, "end": 12, "weight": 1, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "로마", "head": 1, "label": "NP", "mod": [], "weight": 0.717163}, 
+                {"id": 1, "text": "제국의", "head": 2, "label": "NP_MOD", "mod": [0], "weight": 0.795428}, 
+                {"id": 2, "text": "전성시대에", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.585628}, 
+                {"id": 3, "text": "잇달아", "head": 4, "label": "VP", "mod": [2], "weight": 0.776839}, 
+                {"id": 4, "text": "군림한", "head": 6, "label": "VP_MOD", "mod": [3], "weight": 0.774477}, 
+                {"id": 5, "text": "5인의", "head": 6, "label": "NP_MOD", "mod": [], "weight": 0.706907}, 
+                {"id": 6, "text": "명군(名君).", "head": -1, "label": "NP", "mod": [4, 5], "weight": 0.124273}
+            ], 
+            "SRL": [
+                {"verb": "잇달", "sense": 1, "word_id": 3, "weight": 0.0690094, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 2, "text": "전성시대에", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 6, "text": "명군(名君).", "weight": 1}
+                ]}, 
+                {"verb": "군림", "sense": 1, "word_id": 4, "weight": 0, "argument": [
+                    {"type": "ARG0", "word_id": 6, "text": "명군(名君).", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "네르바(재위 96∼98), 트라야누스(재위 98∼117), 하드리아누스(재위 117∼138), 안토니누스 피우스(재위 138∼161), 마르쿠스 아우렐리우스(재위 161∼180)의 5제(帝)를 말한다.", 
+            "morp": [
+                {"id": 0, "lemma": "네르바", "type": "NNP", "position": 76, "weight": 0.05}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 85, "weight": 1}, 
+                {"id": 2, "lemma": "재위", "type": "NNG", "position": 86, "weight": 0.9}, 
+                {"id": 3, "lemma": "96", "type": "SN", "position": 93, "weight": 1}, 
+                {"id": 4, "lemma": "∼", "type": "SO", "position": 95, "weight": 1}, 
+                {"id": 5, "lemma": "98", "type": "SN", "position": 98, "weight": 1}, 
+                {"id": 6, "lemma": ")", "type": "SS", "position": 100, "weight": 1}, 
+                {"id": 7, "lemma": ",", "type": "SP", "position": 101, "weight": 1}, 
+                {"id": 8, "lemma": "트라야누스", "type": "NNP", "position": 103, "weight": 0.3}, 
+                {"id": 9, "lemma": "(", "type": "SS", "position": 118, "weight": 1}, 
+                {"id": 10, "lemma": "재위", "type": "NNG", "position": 119, "weight": 0.9}, 
+                {"id": 11, "lemma": "98", "type": "SN", "position": 126, "weight": 1}, 
+                {"id": 12, "lemma": "∼", "type": "SO", "position": 128, "weight": 1}, 
+                {"id": 13, "lemma": "117", "type": "SN", "position": 131, "weight": 1}, 
+                {"id": 14, "lemma": ")", "type": "SS", "position": 134, "weight": 1}, 
+                {"id": 15, "lemma": ",", "type": "SP", "position": 135, "weight": 1}, 
+                {"id": 16, "lemma": "하드리아누스", "type": "NNP", "position": 137, "weight": 0.15}, 
+                {"id": 17, "lemma": "(", "type": "SS", "position": 155, "weight": 1}, 
+                {"id": 18, "lemma": "재위", "type": "NNG", "position": 156, "weight": 0.9}, 
+                {"id": 19, "lemma": "117", "type": "SN", "position": 163, "weight": 1}, 
+                {"id": 20, "lemma": "∼", "type": "SO", "position": 166, "weight": 1}, 
+                {"id": 21, "lemma": "138", "type": "SN", "position": 169, "weight": 1}, 
+                {"id": 22, "lemma": ")", "type": "SS", "position": 172, "weight": 1}, 
+                {"id": 23, "lemma": ",", "type": "SP", "position": 173, "weight": 1}, 
+                {"id": 24, "lemma": "안토니누스", "type": "NNP", "position": 175, "weight": 0.15}, 
+                {"id": 25, "lemma": "피우스", "type": "NNP", "position": 191, "weight": 0.05}, 
+                {"id": 26, "lemma": "(", "type": "SS", "position": 200, "weight": 1}, 
+                {"id": 27, "lemma": "재위", "type": "NNG", "position": 201, "weight": 0.9}, 
+                {"id": 28, "lemma": "138", "type": "SN", "position": 208, "weight": 1}, 
+                {"id": 29, "lemma": "∼", "type": "SO", "position": 211, "weight": 1}, 
+                {"id": 30, "lemma": "161", "type": "SN", "position": 214, "weight": 1}, 
+                {"id": 31, "lemma": ")", "type": "SS", "position": 217, "weight": 1}, 
+                {"id": 32, "lemma": ",", "type": "SP", "position": 218, "weight": 1}, 
+                {"id": 33, "lemma": "마르쿠스", "type": "NNP", "position": 220, "weight": 0.25}, 
+                {"id": 34, "lemma": "아우렐리우스", "type": "NNP", "position": 233, "weight": 0.4}, 
+                {"id": 35, "lemma": "(", "type": "SS", "position": 251, "weight": 1}, 
+                {"id": 36, "lemma": "재위", "type": "NNG", "position": 252, "weight": 0.9}, 
+                {"id": 37, "lemma": "161", "type": "SN", "position": 259, "weight": 1}, 
+                {"id": 38, "lemma": "∼", "type": "SO", "position": 262, "weight": 1}, 
+                {"id": 39, "lemma": "180", "type": "SN", "position": 265, "weight": 1}, 
+                {"id": 40, "lemma": ")", "type": "SS", "position": 268, "weight": 1}, 
+                {"id": 41, "lemma": "의", "type": "JKG", "position": 269, "weight": 0.0878251}, 
+                {"id": 42, "lemma": "5", "type": "SN", "position": 273, "weight": 1}, 
+                {"id": 43, "lemma": "제", "type": "NNG", "position": 274, "weight": 0.00138412}, 
+                {"id": 44, "lemma": "(", "type": "SS", "position": 277, "weight": 1}, 
+                {"id": 45, "lemma": "帝", "type": "SH", "position": 278, "weight": 1}, 
+                {"id": 46, "lemma": ")", "type": "SS", "position": 281, "weight": 1}, 
+                {"id": 47, "lemma": "를", "type": "JKO", "position": 282, "weight": 0.0357023}, 
+                {"id": 48, "lemma": "말", "type": "NNG", "position": 286, "weight": 0.0814073}, 
+                {"id": 49, "lemma": "하", "type": "XSV", "position": 289, "weight": 0.0001}, 
+                {"id": 50, "lemma": "ㄴ다", "type": "EF", "position": 289, "weight": 0.0449045}, 
+                {"id": 51, "lemma": ".", "type": "SF", "position": 295, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "네르바", "type": "NNP", "scode": "000000", "weight": 1, "position": 76, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 85, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "재위", "type": "NNG", "scode": "000000", "weight": 1, "position": 86, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "96", "type": "SN", "scode": "000000", "weight": 1, "position": 93, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "∼", "type": "SO", "scode": "000000", "weight": 1, "position": 95, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "98", "type": "SN", "scode": "000000", "weight": 1, "position": 98, "begin": 5, "end": 5}, 
+                {"id": 6, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 100, "begin": 6, "end": 6}, 
+                {"id": 7, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 101, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "트라야누스", "type": "NNP", "scode": "000000", "weight": 1, "position": 103, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 118, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "재위", "type": "NNG", "scode": "000000", "weight": 1, "position": 119, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "98", "type": "SN", "scode": "000000", "weight": 1, "position": 126, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "∼", "type": "SO", "scode": "000000", "weight": 1, "position": 128, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "117", "type": "SN", "scode": "000000", "weight": 1, "position": 131, "begin": 13, "end": 13}, 
+                {"id": 14, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 134, "begin": 14, "end": 14}, 
+                {"id": 15, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 135, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "하드리아누스", "type": "NNP", "scode": "000000", "weight": 1, "position": 137, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 155, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "재위", "type": "NNG", "scode": "000000", "weight": 1, "position": 156, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "117", "type": "SN", "scode": "000000", "weight": 1, "position": 163, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "∼", "type": "SO", "scode": "000000", "weight": 1, "position": 166, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "138", "type": "SN", "scode": "000000", "weight": 1, "position": 169, "begin": 21, "end": 21}, 
+                {"id": 22, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 172, "begin": 22, "end": 22}, 
+                {"id": 23, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 173, "begin": 23, "end": 23}, 
+                {"id": 24, "text": "안토니누스", "type": "NNP", "scode": "000000", "weight": 0, "position": 175, "begin": 24, "end": 24}, 
+                {"id": 25, "text": "피우스", "type": "NNP", "scode": "000000", "weight": 0, "position": 191, "begin": 25, "end": 25}, 
+                {"id": 26, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 200, "begin": 26, "end": 26}, 
+                {"id": 27, "text": "재위", "type": "NNG", "scode": "000000", "weight": 1, "position": 201, "begin": 27, "end": 27}, 
+                {"id": 28, "text": "138", "type": "SN", "scode": "000000", "weight": 1, "position": 208, "begin": 28, "end": 28}, 
+                {"id": 29, "text": "∼", "type": "SO", "scode": "000000", "weight": 1, "position": 211, "begin": 29, "end": 29}, 
+                {"id": 30, "text": "161", "type": "SN", "scode": "000000", "weight": 1, "position": 214, "begin": 30, "end": 30}, 
+                {"id": 31, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 217, "begin": 31, "end": 31}, 
+                {"id": 32, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 218, "begin": 32, "end": 32}, 
+                {"id": 33, "text": "마르쿠스", "type": "NNP", "scode": "000000", "weight": 0, "position": 220, "begin": 33, "end": 33}, 
+                {"id": 34, "text": "아우렐리우스", "type": "NNP", "scode": "000000", "weight": 1, "position": 233, "begin": 34, "end": 34}, 
+                {"id": 35, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 251, "begin": 35, "end": 35}, 
+                {"id": 36, "text": "재위", "type": "NNG", "scode": "000000", "weight": 1, "position": 252, "begin": 36, "end": 36}, 
+                {"id": 37, "text": "161", "type": "SN", "scode": "000000", "weight": 1, "position": 259, "begin": 37, "end": 37}, 
+                {"id": 38, "text": "∼", "type": "SO", "scode": "000000", "weight": 1, "position": 262, "begin": 38, "end": 38}, 
+                {"id": 39, "text": "180", "type": "SN", "scode": "000000", "weight": 1, "position": 265, "begin": 39, "end": 39}, 
+                {"id": 40, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 268, "begin": 40, "end": 40}, 
+                {"id": 41, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 269, "begin": 41, "end": 41}, 
+                {"id": 42, "text": "5", "type": "SN", "scode": "000000", "weight": 1, "position": 273, "begin": 42, "end": 42}, 
+                {"id": 43, "text": "제", "type": "NNG", "scode": "888888", "weight": 0.0322581, "position": 274, "begin": 43, "end": 43}, 
+                {"id": 44, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 277, "begin": 44, "end": 44}, 
+                {"id": 45, "text": "帝", "type": "SH", "scode": "000000", "weight": 1, "position": 278, "begin": 45, "end": 45}, 
+                {"id": 46, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 281, "begin": 46, "end": 46}, 
+                {"id": 47, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 282, "begin": 47, "end": 47}, 
+                {"id": 48, "text": "말하", "type": "VV", "scode": "000102", "weight": 0.125, "position": 286, "begin": 48, "end": 49}, 
+                {"id": 49, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 289, "begin": 50, "end": 50}, 
+                {"id": 50, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 295, "begin": 51, "end": 51}
+            ], 
+            "word": [
+                {"id": 0, "text": "네르바(재위", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "96∼98),", "type": "", "begin": 3, "end": 7}, 
+                {"id": 2, "text": "트라야누스(재위", "type": "", "begin": 8, "end": 10}, 
+                {"id": 3, "text": "98∼117),", "type": "", "begin": 11, "end": 15}, 
+                {"id": 4, "text": "하드리아누스(재위", "type": "", "begin": 16, "end": 18}, 
+                {"id": 5, "text": "117∼138),", "type": "", "begin": 19, "end": 23}, 
+                {"id": 6, "text": "안토니누스", "type": "", "begin": 24, "end": 24}, 
+                {"id": 7, "text": "피우스(재위", "type": "", "begin": 25, "end": 27}, 
+                {"id": 8, "text": "138∼161),", "type": "", "begin": 28, "end": 32}, 
+                {"id": 9, "text": "마르쿠스", "type": "", "begin": 33, "end": 33}, 
+                {"id": 10, "text": "아우렐리우스(재위", "type": "", "begin": 34, "end": 36}, 
+                {"id": 11, "text": "161∼180)의", "type": "", "begin": 37, "end": 41}, 
+                {"id": 12, "text": "5제(帝)를", "type": "", "begin": 42, "end": 47}, 
+                {"id": 13, "text": "말한다.", "type": "", "begin": 48, "end": 51}
+            ], 
+            "NE": [
+                {"id": 0, "text": "네르바", "type": "PS_NAME", "begin": 0, "end": 0, "weight": 0.347821, "common_noun": 0}, 
+                {"id": 1, "text": "96∼98", "type": "DT_DURATION", "begin": 3, "end": 5, "weight": 0.668408, "common_noun": 0}, 
+                {"id": 2, "text": "트라야누스", "type": "PS_NAME", "begin": 8, "end": 8, "weight": 0.420063, "common_noun": 0}, 
+                {"id": 3, "text": "98∼117", "type": "DT_DURATION", "begin": 11, "end": 13, "weight": 0.572375, "common_noun": 0}, 
+                {"id": 4, "text": "하드리아누스", "type": "PS_NAME", "begin": 16, "end": 16, "weight": 0.422255, "common_noun": 0}, 
+                {"id": 5, "text": "117∼138", "type": "DT_DURATION", "begin": 19, "end": 21, "weight": 0.433373, "common_noun": 0}, 
+                {"id": 6, "text": "안토니누스 피우스", "type": "PS_NAME", "begin": 24, "end": 25, "weight": 0.535976, "common_noun": 0}, 
+                {"id": 7, "text": "138∼161", "type": "DT_DURATION", "begin": 28, "end": 30, "weight": 0.474023, "common_noun": 0}, 
+                {"id": 8, "text": "마르쿠스 아우렐리우스", "type": "PS_NAME", "begin": 33, "end": 34, "weight": 0.663871, "common_noun": 0}, 
+                {"id": 9, "text": "161∼180", "type": "DT_DURATION", "begin": 37, "end": 39, "weight": 0.47654, "common_noun": 0}, 
+                {"id": 10, "text": "5제", "type": "QT_COUNT", "begin": 42, "end": 43, "weight": 0.282897, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "네르바(재위", "head": 1, "label": "NP", "mod": [], "weight": 0.357793}, 
+                {"id": 1, "text": "96∼98),", "head": 11, "label": "NP_CNJ", "mod": [0], "weight": 0.283728}, 
+                {"id": 2, "text": "트라야누스(재위", "head": 3, "label": "NP", "mod": [], "weight": 0.581952}, 
+                {"id": 3, "text": "98∼117),", "head": 11, "label": "NP_CNJ", "mod": [2], "weight": 0.31668}, 
+                {"id": 4, "text": "하드리아누스(재위", "head": 5, "label": "NP", "mod": [], "weight": 0.776885}, 
+                {"id": 5, "text": "117∼138),", "head": 11, "label": "NP_CNJ", "mod": [4], "weight": 0.440156}, 
+                {"id": 6, "text": "안토니누스", "head": 7, "label": "NP", "mod": [], "weight": 0.51433}, 
+                {"id": 7, "text": "피우스(재위", "head": 8, "label": "NP", "mod": [6], "weight": 0.709018}, 
+                {"id": 8, "text": "138∼161),", "head": 11, "label": "NP_CNJ", "mod": [7], "weight": 0.375804}, 
+                {"id": 9, "text": "마르쿠스", "head": 10, "label": "NP", "mod": [], "weight": 0.795962}, 
+                {"id": 10, "text": "아우렐리우스(재위", "head": 11, "label": "NP", "mod": [9], "weight": 0.773077}, 
+                {"id": 11, "text": "161∼180)의", "head": 12, "label": "NP_MOD", "mod": [1, 3, 5, 8, 10], "weight": 0.73533}, 
+                {"id": 12, "text": "5제(帝)를", "head": 13, "label": "NP_OBJ", "mod": [11], "weight": 0.689503}, 
+                {"id": 13, "text": "말한다.", "head": -1, "label": "VP", "mod": [12], "weight": 0.000237822}
+            ], 
+            "SRL": [
+                {"verb": "말하", "sense": 1, "word_id": 13, "weight": 0.104939, "argument": [
+                    {"type": "ARG1", "word_id": 12, "text": "5제(帝)를", "weight": 0.104939}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "로마 제국의 전성시대에", "start_eid_short": 2, "end_eid_short": 2, "text_short": "전성시대에"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "로마 제국의", "start_eid_short": 0, "end_eid_short": 1, "text_short": "로마 제국의"}
+        ]}, 
+        {"id": 2, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": 1, "text": "5인의", "start_eid_short": 5, "end_eid_short": 5, "text_short": "5인의"}
+        ]}, 
+        {"id": 3, "type": "OGG_MILITARY", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 6, "ne_id": 2, "text": "로마 제국의 전성시대에 잇달아 군림한 5인의 명군(名君).", "start_eid_short": 6, "end_eid_short": 6, "text_short": "명군(名君)."}, 
+            {"id": 4, "sent_id": 1, "start_eid": 0, "end_eid": 12, "ne_id": 10, "text": "네르바(재위 96∼98), 트라야누스(재위 98∼117), 하드리아누스(재위 117∼138), 안토니누스 피우스(재위 138∼161), 마르쿠스 아우렐리우스(재위 161∼180)의 5제(帝)를", "start_eid_short": 0, "end_eid_short": 0, "text_short": "네르바(재위"}
+        ]}, 
+        {"id": 4, "type": "DT_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "네르바(재위 96∼98),", "start_eid_short": 0, "end_eid_short": 0, "text_short": "네르바(재위"}
+        ]}, 
+        {"id": 5, "type": "DT_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 2, "end_eid": 3, "ne_id": 3, "text": "트라야누스(재위 98∼117),", "start_eid_short": 2, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 6, "type": "DT_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 4, "end_eid": 5, "ne_id": 5, "text": "하드리아누스(재위 117∼138),", "start_eid_short": 4, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 7, "type": "DT_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 9, "end_eid": 11, "ne_id": 9, "text": "마르쿠스 아우렐리우스(재위 161∼180)의", "start_eid_short": 11, "end_eid_short": 11, "text_short": "161∼180)의"}
+        ]}, 
+        {"id": 8, "type": "DT_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 6, "end_eid": 8, "ne_id": 7, "text": "안토니누스 피우스(재위 138∼161),", "start_eid_short": 8, "end_eid_short": 8, "text_short": "138∼161),"}
+        ]}
+    ]
+}

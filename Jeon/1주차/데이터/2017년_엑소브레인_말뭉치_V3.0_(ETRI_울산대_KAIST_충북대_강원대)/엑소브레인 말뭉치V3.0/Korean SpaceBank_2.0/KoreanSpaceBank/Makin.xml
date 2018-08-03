@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+마킨은 길버트 제도의 섬이다. 마킨(Makin) 섬으로는 아름다운 암초를 지나 카누를 타고 돌아볼 수 있다.
+1943년 9월부터 일본군이 점령하고 있었다. 연합군은 이 길버트 제도의 섬 중에서 마킨 섬과 타라와 섬에 공격을 집중하기로 했다. 타라와 섬에는 미 제2해병사단이, 마킨 섬에는 미 제27보병사단이 상륙한다. 마킨섬을 쉽게 점령되었지만 타라와는 쉽지 않았다. 5월 29일 아투 섬 점령을 시작으로 7월 29일의 아스카 섬 점령, 11월의 마킨 섬과 타라와 섬 탈환과 함께 1944년으로 들어갔다.
+이차 대전동안 미국 잠수함들은 일본이 점령했던 마킨 섬에 병력들을 수송했다. 그리고 기습 요원(raiders)들의 일본 본토 침투를 지원했다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="3" text="마킨" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="5" end="11" text="길버트 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="18" end="20" text="마킨" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="95" end="101" text="길버트 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="109" end="113" text="마킨 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="115" end="120" text="타라와 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="136" end="141" text="타라와 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="155" end="159" text="마킨 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="179" end="182" text="마킨섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="194" end="197" text="타라와" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="310" end="314" text="마킨 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="348" end="353" text="일본 본토" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="236" end="241" text="아스카 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="214" end="218" text="아투 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="251" end="255" text="마킨 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="257" end="262" text="타라와 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="18" />
+<PLACE id="pl23" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="18" />
+<PLACE id="pl2" start="13" end="14" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="28" end="29" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="103" end="104" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="38" end="40" text="암초" type="" dimensionality="" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="144" end="152" text="미 제2해병사단" type="FAC" dimensionality="" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="162" end="171" text="미 제27보병사단" type="FAC" dimensionality="" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="316" end="319" text="병력들" type="PERSON" dimensionality="" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="45" end="47" text="카누" type="VEHICLE" dimensionality="" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="18" />
+<NONMOTION_EVENT id="e1" start="122" end="124" text="공격" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="187" end="190" text="점령되" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="14" end="15" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e3" start="219" end="221" text="점령" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e4" start="242" end="244" text="점령" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e5" start="305" end="308" text="점령했" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e7" start="263" end="265" text="탈환" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e8" start="358" end="361" text="지원했" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e9" start="58" end="59" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="42" end="44" text="지나" domain="" latLong="" elevation="" motion_type="PATH" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="52" end="55" text="돌아볼" domain="" latLong="" elevation="" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="321" end="324" text="수송했" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="49" end="50" text="타" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="173" end="176" text="상륙한" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s2" start="101" end="102" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="11" end="12" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="40" end="41" text="를" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="314" end="315" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="141" end="143" text="에는" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="159" end="161" text="에는" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="47" end="48" text="를" motion_signal_type="MANNER" comment="" />
+<MOTION_SIGNAL id="ms5" start="29" end="31" text="으로" motion_signal_type="PATH" comment="" />
+<SENTENCE id="sent0" start="1" end="17" text="마킨은 길버트 제도의 섬이다." comment="" />
+<SENTENCE id="sent1" start="18" end="61" text="마킨(Makin) 섬으로는 아름다운 암초를 지나 카누를 타고 돌아볼 수 있다." comment="" />
+<SENTENCE id="sent2" start="62" end="87" text="1943년 9월부터 일본군이 점령하고 있었다." comment="" />
+<SENTENCE id="sent3" start="88" end="135" text="연합군은 이 길버트 제도의 섬 중에서 마킨 섬과 타라와 섬에 공격을 집중하기로 했다." comment="" />
+<SENTENCE id="sent4" start="136" end="178" text="타라와 섬에는 미 제2해병사단이, 마킨 섬에는 미 제27보병사단이 상륙한다." comment="" />
+<SENTENCE id="sent5" start="179" end="206" text="마킨섬을 쉽게 점령되었지만 타라와는 쉽지 않았다." comment="" />
+<SENTENCE id="sent6" start="207" end="283" text="5월 29일 아투 섬 점령을 시작으로 7월 29일의 아스카 섬 점령, 11월의 마킨 섬과 타라와 섬 탈환과 함께 1944년으로 들어갔다." comment="" />
+<SENTENCE id="sent7" start="284" end="326" text="이차 대전동안 미국 잠수함들은 일본이 점령했던 마킨 섬에 병력들을 수송했다." comment="" />
+<SENTENCE id="sent8" start="327" end="363" text="그리고 기습 요원(raiders)들의 일본 본토 침투를 지원했다." comment="" />
+<QSLINK id="qsl0" fromID="pl7" fromText="섬" toID="pl6" toText="길버트 제도" relType="IN" trajector="pl7" landmark="pl6" trigger="s2" comment="" />
+<QSLINK id="qsl1" fromID="pl2" fromText="섬" toID="pl1" toText="길버트 제도" relType="IN" trajector="pl2" landmark="pl1" trigger="s3" comment="" />
+<MOVELINK id="mvl0" fromID="se0" fromText="암초" toID="m0" toText="지나" trigger="m0" source="pl22" goal="pl23" midPoint="se0" mover="se5" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="pl3" fromText="마킨" toID="m1" toText="돌아볼" trigger="m1" source="" goal="pl3" midPoint="se0" mover="se5" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms5" comment="" />
+<MOVELINK id="mvl2" fromID="pl14" fromText="마킨 섬" toID="m2" toText="수송했" trigger="m2" source="" goal="pl14" midPoint="" mover="se3" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl3" fromID="m3" fromText="타" toID="se4" toText="카누" trigger="m3" source="" goal="se4" midPoint="" mover="se5" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms4" comment="" />
+<MOVELINK id="mvl4" fromID="se2" fromText="미 제27보병사단" toID="pl11" toText="마킨 섬" trigger="m4" source="" goal="pl11" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl5" fromID="se1" fromText="미 제2해병사단" toID="pl10" toText="타라와 섬" trigger="m4" source="" goal="pl10" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

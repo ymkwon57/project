@@ -1,0 +1,331 @@
+{
+    "doc_id": "E2016.836.25_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "한 소녀가 곰이 끓인 세 가지의 수프, 즉 뜨거운 것과 차가운 것, 적당한 것 중에서 적당한 것을 먹고 기뻐했다는 전래 동화에서 비롯된 말로, 높은 경제 성장에도 물가 상승이 없는 이상적인 상황을 지칭하는 이 경제용어는?", 
+            "morp": [
+                {"id": 0, "lemma": "한", "type": "MM", "position": 0, "weight": 0.0440825}, 
+                {"id": 1, "lemma": "소녀", "type": "NNG", "position": 4, "weight": 0.73582}, 
+                {"id": 2, "lemma": "가", "type": "JKS", "position": 10, "weight": 0.066324}, 
+                {"id": 3, "lemma": "곰", "type": "NNG", "position": 14, "weight": 0.207324}, 
+                {"id": 4, "lemma": "이", "type": "JKS", "position": 17, "weight": 0.0360723}, 
+                {"id": 5, "lemma": "끓이", "type": "VV", "position": 21, "weight": 0.9}, 
+                {"id": 6, "lemma": "ㄴ", "type": "ETM", "position": 24, "weight": 0.304215}, 
+                {"id": 7, "lemma": "세", "type": "MM", "position": 28, "weight": 0.00562987}, 
+                {"id": 8, "lemma": "가지", "type": "NNB", "position": 32, "weight": 0.0671689}, 
+                {"id": 9, "lemma": "의", "type": "JKG", "position": 38, "weight": 0.0520933}, 
+                {"id": 10, "lemma": "수프", "type": "NNG", "position": 42, "weight": 0.9}, 
+                {"id": 11, "lemma": ",", "type": "SP", "position": 48, "weight": 1}, 
+                {"id": 12, "lemma": "즉", "type": "MAJ", "position": 50, "weight": 0.00801197}, 
+                {"id": 13, "lemma": "뜨겁", "type": "VA", "position": 54, "weight": 0.9}, 
+                {"id": 14, "lemma": "ㄴ", "type": "ETM", "position": 57, "weight": 0.430446}, 
+                {"id": 15, "lemma": "것", "type": "NNB", "position": 64, "weight": 0.228788}, 
+                {"id": 16, "lemma": "과", "type": "JKB", "position": 67, "weight": 0.0444681}, 
+                {"id": 17, "lemma": "차갑", "type": "VA", "position": 71, "weight": 0.0727734}, 
+                {"id": 18, "lemma": "ㄴ", "type": "ETM", "position": 74, "weight": 0.430446}, 
+                {"id": 19, "lemma": "것", "type": "NNB", "position": 81, "weight": 0.228788}, 
+                {"id": 20, "lemma": ",", "type": "SP", "position": 84, "weight": 1}, 
+                {"id": 21, "lemma": "적당", "type": "NNG", "position": 86, "weight": 0.9}, 
+                {"id": 22, "lemma": "하", "type": "XSA", "position": 116, "weight": 0.0001}, 
+                {"id": 23, "lemma": "ㄴ", "type": "ETM", "position": 92, "weight": 0.488779}, 
+                {"id": 24, "lemma": "것", "type": "NNB", "position": 96, "weight": 0.228788}, 
+                {"id": 25, "lemma": "중", "type": "NNB", "position": 100, "weight": 0.00859691}, 
+                {"id": 26, "lemma": "에서", "type": "JKB", "position": 103, "weight": 0.135597}, 
+                {"id": 27, "lemma": "적당", "type": "NNG", "position": 110, "weight": 0.9}, 
+                {"id": 28, "lemma": "하", "type": "XSA", "position": 116, "weight": 0.0001}, 
+                {"id": 29, "lemma": "ㄴ", "type": "ETM", "position": 116, "weight": 0.488779}, 
+                {"id": 30, "lemma": "것", "type": "NNB", "position": 120, "weight": 0.228788}, 
+                {"id": 31, "lemma": "을", "type": "JKO", "position": 123, "weight": 0.0630104}, 
+                {"id": 32, "lemma": "먹", "type": "VV", "position": 127, "weight": 0.742472}, 
+                {"id": 33, "lemma": "고", "type": "EC", "position": 130, "weight": 0.416679}, 
+                {"id": 34, "lemma": "기뻐하", "type": "VV", "position": 134, "weight": 0.9}, 
+                {"id": 35, "lemma": "았", "type": "EP", "position": 140, "weight": 0.9}, 
+                {"id": 36, "lemma": "다는", "type": "ETM", "position": 143, "weight": 0.107585}, 
+                {"id": 37, "lemma": "전래", "type": "NNG", "position": 150, "weight": 0.9}, 
+                {"id": 38, "lemma": "동화", "type": "NNG", "position": 157, "weight": 0.177613}, 
+                {"id": 39, "lemma": "에서", "type": "JKB", "position": 163, "weight": 0.153407}, 
+                {"id": 40, "lemma": "비롯되", "type": "VV", "position": 170, "weight": 0.9}, 
+                {"id": 41, "lemma": "ㄴ", "type": "ETM", "position": 176, "weight": 0.304215}, 
+                {"id": 42, "lemma": "말", "type": "NNG", "position": 180, "weight": 0.528926}, 
+                {"id": 43, "lemma": "로", "type": "JKB", "position": 183, "weight": 0.153229}, 
+                {"id": 44, "lemma": ",", "type": "SP", "position": 186, "weight": 1}, 
+                {"id": 45, "lemma": "높", "type": "VA", "position": 188, "weight": 0.0332831}, 
+                {"id": 46, "lemma": "은", "type": "ETM", "position": 191, "weight": 0.155123}, 
+                {"id": 47, "lemma": "경제", "type": "NNG", "position": 195, "weight": 0.658777}, 
+                {"id": 48, "lemma": "성장", "type": "NNG", "position": 202, "weight": 0.9}, 
+                {"id": 49, "lemma": "에", "type": "JKB", "position": 208, "weight": 0.153364}, 
+                {"id": 50, "lemma": "도", "type": "JX", "position": 211, "weight": 0.0912297}, 
+                {"id": 51, "lemma": "물가", "type": "NNG", "position": 215, "weight": 0.9}, 
+                {"id": 52, "lemma": "상승", "type": "NNG", "position": 222, "weight": 0.9}, 
+                {"id": 53, "lemma": "이", "type": "JKS", "position": 228, "weight": 0.0360723}, 
+                {"id": 54, "lemma": "없", "type": "VA", "position": 232, "weight": 0.249359}, 
+                {"id": 55, "lemma": "는", "type": "ETM", "position": 235, "weight": 0.26168}, 
+                {"id": 56, "lemma": "이상", "type": "NNG", "position": 239, "weight": 0.000688714}, 
+                {"id": 57, "lemma": "적", "type": "XSN", "position": 242, "weight": 0.05}, 
+                {"id": 58, "lemma": "이", "type": "VCP", "position": 248, "weight": 0.0177525}, 
+                {"id": 59, "lemma": "ㄴ", "type": "ETM", "position": 248, "weight": 0.220712}, 
+                {"id": 60, "lemma": "상황", "type": "NNG", "position": 252, "weight": 0.9}, 
+                {"id": 61, "lemma": "을", "type": "JKO", "position": 258, "weight": 0.129611}, 
+                {"id": 62, "lemma": "지칭", "type": "NNG", "position": 262, "weight": 0.9}, 
+                {"id": 63, "lemma": "하", "type": "XSV", "position": 268, "weight": 0.0001}, 
+                {"id": 64, "lemma": "는", "type": "ETM", "position": 271, "weight": 0.238503}, 
+                {"id": 65, "lemma": "이", "type": "MM", "position": 275, "weight": 0.00060084}, 
+                {"id": 66, "lemma": "경제", "type": "NNG", "position": 279, "weight": 0.737381}, 
+                {"id": 67, "lemma": "용어", "type": "NNG", "position": 285, "weight": 0.9}, 
+                {"id": 68, "lemma": "는", "type": "JX", "position": 291, "weight": 0.0287565}, 
+                {"id": 69, "lemma": "?", "type": "SF", "position": 294, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "한", "type": "MM", "scode": "010001", "weight": 0.0357143, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "소녀", "type": "NNG", "scode": "020000", "weight": 0.333333, "position": 4, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "곰", "type": "NNG", "scode": "030001", "weight": 0.1, "position": 14, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 17, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "끓이", "type": "VV", "scode": "010001", "weight": 0.25, "position": 21, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 24, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "세", "type": "MM", "scode": "010000", "weight": 0.0526316, "position": 28, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "가지", "type": "NNB", "scode": "040001", "weight": 0.0588235, "position": 32, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 38, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "수프", "type": "NNG", "scode": "000000", "weight": 1, "position": 42, "begin": 10, "end": 10}, 
+                {"id": 11, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 48, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "즉", "type": "MAJ", "scode": "010000", "weight": 0.333333, "position": 50, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "뜨겁", "type": "VA", "scode": "000001", "weight": 0.25, "position": 54, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 57, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 64, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "과", "type": "JKB", "scode": "000000", "weight": 1, "position": 67, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "차갑", "type": "VA", "scode": "000001", "weight": 0.5, "position": 71, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 74, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 81, "begin": 19, "end": 19}, 
+                {"id": 20, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 84, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "적당하", "type": "VA", "scode": "020001", "weight": 0.333333, "position": 86, "begin": 21, "end": 22}, 
+                {"id": 22, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 92, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 96, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "중", "type": "NNB", "scode": "040101", "weight": 0.0526316, "position": 100, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 103, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "적당하", "type": "VA", "scode": "020001", "weight": 0.333333, "position": 110, "begin": 27, "end": 28}, 
+                {"id": 27, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 116, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 120, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 123, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "먹", "type": "VV", "scode": "020101", "weight": 0.047619, "position": 127, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 130, "begin": 33, "end": 33}, 
+                {"id": 32, "text": "기뻐하", "type": "VV", "scode": "000000", "weight": 1, "position": 134, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 140, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "다는", "type": "ETM", "scode": "000000", "weight": 1, "position": 143, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "전래", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 150, "begin": 37, "end": 37}, 
+                {"id": 36, "text": "동화", "type": "NNG", "scode": "070000", "weight": 0.0588235, "position": 157, "begin": 38, "end": 38}, 
+                {"id": 37, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 163, "begin": 39, "end": 39}, 
+                {"id": 38, "text": "비롯되", "type": "VV", "scode": "000000", "weight": 1, "position": 170, "begin": 40, "end": 40}, 
+                {"id": 39, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 176, "begin": 41, "end": 41}, 
+                {"id": 40, "text": "말", "type": "NNG", "scode": "010004", "weight": 0.0384615, "position": 180, "begin": 42, "end": 42}, 
+                {"id": 41, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 183, "begin": 43, "end": 43}, 
+                {"id": 42, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 186, "begin": 44, "end": 44}, 
+                {"id": 43, "text": "높", "type": "VA", "scode": "000004", "weight": 0.0769231, "position": 188, "begin": 45, "end": 45}, 
+                {"id": 44, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 191, "begin": 46, "end": 46}, 
+                {"id": 45, "text": "경제", "type": "NNG", "scode": "040001", "weight": 0.111111, "position": 195, "begin": 47, "end": 47}, 
+                {"id": 46, "text": "성장", "type": "NNG", "scode": "010002", "weight": 0.0769231, "position": 202, "begin": 48, "end": 48}, 
+                {"id": 47, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 208, "begin": 49, "end": 49}, 
+                {"id": 48, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 211, "begin": 50, "end": 50}, 
+                {"id": 49, "text": "물가", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 215, "begin": 51, "end": 51}, 
+                {"id": 50, "text": "상승", "type": "NNG", "scode": "010000", "weight": 0.125, "position": 222, "begin": 52, "end": 52}, 
+                {"id": 51, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 228, "begin": 53, "end": 53}, 
+                {"id": 52, "text": "없", "type": "VA", "scode": "010103", "weight": 0.0588235, "position": 232, "begin": 54, "end": 54}, 
+                {"id": 53, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 235, "begin": 55, "end": 55}, 
+                {"id": 54, "text": "이상적", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 239, "begin": 56, "end": 57}, 
+                {"id": 55, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 248, "begin": 58, "end": 58}, 
+                {"id": 56, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 248, "begin": 59, "end": 59}, 
+                {"id": 57, "text": "상황", "type": "NNG", "scode": "020000", "weight": 0.2, "position": 252, "begin": 60, "end": 60}, 
+                {"id": 58, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 258, "begin": 61, "end": 61}, 
+                {"id": 59, "text": "지칭하", "type": "VV", "scode": "000000", "weight": 1, "position": 262, "begin": 62, "end": 63}, 
+                {"id": 60, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 271, "begin": 64, "end": 64}, 
+                {"id": 61, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 275, "begin": 65, "end": 65}, 
+                {"id": 62, "text": "경제", "type": "NNG", "scode": "040001", "weight": 0.111111, "position": 279, "begin": 66, "end": 66}, 
+                {"id": 63, "text": "용어", "type": "NNG", "scode": "020000", "weight": 0.2, "position": 285, "begin": 67, "end": 67}, 
+                {"id": 64, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 291, "begin": 68, "end": 68}, 
+                {"id": 65, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 294, "begin": 69, "end": 69}
+            ], 
+            "word": [
+                {"id": 0, "text": "한", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "소녀가", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "곰이", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "끓인", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "세", "type": "", "begin": 7, "end": 7}, 
+                {"id": 5, "text": "가지의", "type": "", "begin": 8, "end": 9}, 
+                {"id": 6, "text": "수프,", "type": "", "begin": 10, "end": 11}, 
+                {"id": 7, "text": "즉", "type": "", "begin": 12, "end": 12}, 
+                {"id": 8, "text": "뜨거운", "type": "", "begin": 13, "end": 14}, 
+                {"id": 9, "text": "것과", "type": "", "begin": 15, "end": 16}, 
+                {"id": 10, "text": "차가운", "type": "", "begin": 17, "end": 18}, 
+                {"id": 11, "text": "것,", "type": "", "begin": 19, "end": 20}, 
+                {"id": 12, "text": "적당한", "type": "", "begin": 21, "end": 23}, 
+                {"id": 13, "text": "것", "type": "", "begin": 24, "end": 24}, 
+                {"id": 14, "text": "중에서", "type": "", "begin": 25, "end": 26}, 
+                {"id": 15, "text": "적당한", "type": "", "begin": 27, "end": 29}, 
+                {"id": 16, "text": "것을", "type": "", "begin": 30, "end": 31}, 
+                {"id": 17, "text": "먹고", "type": "", "begin": 32, "end": 33}, 
+                {"id": 18, "text": "기뻐했다는", "type": "", "begin": 34, "end": 36}, 
+                {"id": 19, "text": "전래", "type": "", "begin": 37, "end": 37}, 
+                {"id": 20, "text": "동화에서", "type": "", "begin": 38, "end": 39}, 
+                {"id": 21, "text": "비롯된", "type": "", "begin": 40, "end": 41}, 
+                {"id": 22, "text": "말로,", "type": "", "begin": 42, "end": 44}, 
+                {"id": 23, "text": "높은", "type": "", "begin": 45, "end": 46}, 
+                {"id": 24, "text": "경제", "type": "", "begin": 47, "end": 47}, 
+                {"id": 25, "text": "성장에도", "type": "", "begin": 48, "end": 50}, 
+                {"id": 26, "text": "물가", "type": "", "begin": 51, "end": 51}, 
+                {"id": 27, "text": "상승이", "type": "", "begin": 52, "end": 53}, 
+                {"id": 28, "text": "없는", "type": "", "begin": 54, "end": 55}, 
+                {"id": 29, "text": "이상적인", "type": "", "begin": 56, "end": 59}, 
+                {"id": 30, "text": "상황을", "type": "", "begin": 60, "end": 61}, 
+                {"id": 31, "text": "지칭하는", "type": "", "begin": 62, "end": 64}, 
+                {"id": 32, "text": "이", "type": "", "begin": 65, "end": 65}, 
+                {"id": 33, "text": "경제용어는?", "type": "", "begin": 66, "end": 69}
+            ], 
+            "NE": [
+                {"id": 0, "text": "한 소녀", "type": "QT_MAN_COUNT", "begin": 0, "end": 1, "weight": 0.249562, "common_noun": 0}, 
+                {"id": 1, "text": "곰", "type": "AM_MAMMALIA", "begin": 3, "end": 3, "weight": 0.401197, "common_noun": 0}, 
+                {"id": 2, "text": "세 가지", "type": "QT_COUNT", "begin": 7, "end": 8, "weight": 0.786141, "common_noun": 0}, 
+                {"id": 3, "text": "수프", "type": "CV_FOOD", "begin": 10, "end": 10, "weight": 0.238408, "common_noun": 0}, 
+                {"id": 4, "text": "전래 동화", "type": "FD_ART", "begin": 37, "end": 38, "weight": 0.392917, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "한", "head": 1, "label": "DP", "mod": [], "weight": 0.68894}, 
+                {"id": 1, "text": "소녀가", "head": 17, "label": "NP_SBJ", "mod": [0], "weight": 0.281503}, 
+                {"id": 2, "text": "곰이", "head": 3, "label": "NP_SBJ", "mod": [], "weight": 0.866149}, 
+                {"id": 3, "text": "끓인", "head": 6, "label": "VP_MOD", "mod": [2], "weight": 0.82863}, 
+                {"id": 4, "text": "세", "head": 5, "label": "DP", "mod": [], "weight": 0.607838}, 
+                {"id": 5, "text": "가지의", "head": 6, "label": "NP_MOD", "mod": [4], "weight": 0.738824}, 
+                {"id": 6, "text": "수프,", "head": 13, "label": "NP_CNJ", "mod": [3, 5], "weight": 0.19298}, 
+                {"id": 7, "text": "즉", "head": 13, "label": "AP", "mod": [], "weight": 0.0108101}, 
+                {"id": 8, "text": "뜨거운", "head": 9, "label": "VP_MOD", "mod": [], "weight": 0.693197}, 
+                {"id": 9, "text": "것과", "head": 13, "label": "NP_CNJ", "mod": [8], "weight": 0.111032}, 
+                {"id": 10, "text": "차가운", "head": 11, "label": "VP_MOD", "mod": [], "weight": 0.815666}, 
+                {"id": 11, "text": "것,", "head": 13, "label": "NP_CNJ", "mod": [10], "weight": 0.171471}, 
+                {"id": 12, "text": "적당한", "head": 13, "label": "VP_MOD", "mod": [], "weight": 0.748979}, 
+                {"id": 13, "text": "것", "head": 14, "label": "NP", "mod": [11, 12, 9, 6, 7], "weight": 0.691118}, 
+                {"id": 14, "text": "중에서", "head": 17, "label": "NP_AJT", "mod": [13], "weight": 0.297236}, 
+                {"id": 15, "text": "적당한", "head": 16, "label": "VP_MOD", "mod": [], "weight": 0.777223}, 
+                {"id": 16, "text": "것을", "head": 17, "label": "NP_OBJ", "mod": [15], "weight": 0.534031}, 
+                {"id": 17, "text": "먹고", "head": 18, "label": "VP", "mod": [1, 14, 16], "weight": 0.540431}, 
+                {"id": 18, "text": "기뻐했다는", "head": 20, "label": "VP_MOD", "mod": [17], "weight": 0.625175}, 
+                {"id": 19, "text": "전래", "head": 20, "label": "NP", "mod": [], "weight": 0.759079}, 
+                {"id": 20, "text": "동화에서", "head": 21, "label": "NP_AJT", "mod": [18, 19], "weight": 0.57901}, 
+                {"id": 21, "text": "비롯된", "head": 22, "label": "VP_MOD", "mod": [20], "weight": 0.766947}, 
+                {"id": 22, "text": "말로,", "head": 31, "label": "NP_AJT", "mod": [21], "weight": 0.181857}, 
+                {"id": 23, "text": "높은", "head": 25, "label": "VP_MOD", "mod": [], "weight": 0.690231}, 
+                {"id": 24, "text": "경제", "head": 25, "label": "NP", "mod": [], "weight": 0.540162}, 
+                {"id": 25, "text": "성장에도", "head": 28, "label": "NP_AJT", "mod": [23, 24], "weight": 0.371431}, 
+                {"id": 26, "text": "물가", "head": 27, "label": "NP", "mod": [], "weight": 0.639898}, 
+                {"id": 27, "text": "상승이", "head": 28, "label": "NP_SBJ", "mod": [26], "weight": 0.50646}, 
+                {"id": 28, "text": "없는", "head": 30, "label": "VP_MOD", "mod": [27, 25], "weight": 0.749367}, 
+                {"id": 29, "text": "이상적인", "head": 30, "label": "VNP_MOD", "mod": [], "weight": 0.669585}, 
+                {"id": 30, "text": "상황을", "head": 31, "label": "NP_OBJ", "mod": [28, 29], "weight": 0.78269}, 
+                {"id": 31, "text": "지칭하는", "head": 33, "label": "VP_MOD", "mod": [22, 30], "weight": 0.768972}, 
+                {"id": 32, "text": "이", "head": 33, "label": "DP", "mod": [], "weight": 0.562237}, 
+                {"id": 33, "text": "경제용어는?", "head": -1, "label": "NP", "mod": [31, 32], "weight": 8.54745e-12}
+            ], 
+            "SRL": [
+                {"verb": "끓이", "sense": 1, "word_id": 3, "weight": 0.152267, "argument": [
+                    {"type": "ARG0", "word_id": 2, "text": "곰이", "weight": 0.152267}, 
+                    {"type": "ARG1", "word_id": 6, "text": "수프,", "weight": 1}, 
+                    {"type": "ARGM-EXT", "word_id": 5, "text": "가지의", "weight": 1}
+                ]}, 
+                {"verb": "뜨겁", "sense": 1, "word_id": 8, "weight": 0.361459, "argument": [
+                    {"type": "ARG1", "word_id": 9, "text": "것과", "weight": 0.361459}
+                ]}, 
+                {"verb": "차갑", "sense": 1, "word_id": 10, "weight": 0.168617, "argument": [
+                    {"type": "ARG1", "word_id": 11, "text": "것,", "weight": 0.198949}
+                ]}, 
+                {"verb": "적당", "sense": 1, "word_id": 12, "weight": 0.234164, "argument": [
+                    {"type": "ARG1", "word_id": 13, "text": "것", "weight": 0.234164}
+                ]}, 
+                {"verb": "적당하", "sense": 1, "word_id": 15, "weight": 0, "argument": [
+                    {"type": "ARG1", "word_id": 16, "text": "것을", "weight": 1}
+                ]}, 
+                {"verb": "먹", "sense": 1, "word_id": 17, "weight": 0.275619, "argument": [
+                    {"type": "ARG1", "word_id": 16, "text": "것을", "weight": 0.275619}, 
+                    {"type": "ARGM-CND", "word_id": 14, "text": "중에서", "weight": 1}, 
+                    {"type": "ARG0", "word_id": 1, "text": "소녀가", "weight": 1}
+                ]}, 
+                {"verb": "기뻐하", "sense": 1, "word_id": 18, "weight": 0, "argument": [
+                    {"type": "ARG1", "word_id": 1, "text": "소녀가", "weight": 1}
+                ]}, 
+                {"verb": "비롯되", "sense": 1, "word_id": 21, "weight": 0.169628, "argument": [
+                    {"type": "ARG2", "word_id": 20, "text": "동화에서", "weight": 0.126708}, 
+                    {"type": "ARG1", "word_id": 22, "text": "말로,", "weight": 0.212547}
+                ]}, 
+                {"verb": "높", "sense": 1, "word_id": 23, "weight": 0.277274, "argument": [
+                    {"type": "ARG1", "word_id": 25, "text": "성장에도", "weight": 0.277274}
+                ]}, 
+                {"verb": "없", "sense": 1, "word_id": 28, "weight": 0.162451, "argument": [
+                    {"type": "ARG1", "word_id": 27, "text": "상승이", "weight": 0.162451}, 
+                    {"type": "ARGM-CND", "word_id": 25, "text": "성장에도", "weight": 1}
+                ]}, 
+                {"verb": "지칭", "sense": 1, "word_id": 31, "weight": 0.13708, "argument": [
+                    {"type": "ARG2", "word_id": 30, "text": "상황을", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 33, "text": "경제용어는?", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 22, "ne_id": -1, "text": "한 소녀가 곰이 끓인 세 가지의 수프, 즉 뜨거운 것과 차가운 것, 적당한 것 중에서 적당한 것을 먹고 기뻐했다는 전래 동화에서 비롯된 말로,", "start_eid_short": 22, "end_eid_short": 22, "text_short": "말로,"}, 
+            {"id": 11, "sent_id": 0, "start_eid": 23, "end_eid": 30, "ne_id": -1, "text": "높은 경제 성장에도 물가 상승이 없는 이상적인 상황을", "start_eid_short": 30, "end_eid_short": 30, "text_short": "상황을"}, 
+            {"id": 16, "sent_id": 0, "start_eid": 32, "end_eid": 33, "ne_id": -1, "text": "이 경제용어는?", "start_eid_short": 33, "end_eid_short": 33, "text_short": "경제용어는?"}
+        ]}, 
+        {"id": 1, "type": "FD_ART", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 20, "ne_id": 4, "text": "한 소녀가 곰이 끓인 세 가지의 수프, 즉 뜨거운 것과 차가운 것, 적당한 것 중에서 적당한 것을 먹고 기뻐했다는 전래 동화에서", "start_eid_short": 19, "end_eid_short": 20, "text_short": "전래 동화에서"}
+        ]}, 
+        {"id": 2, "type": "QT_MAN_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "한 소녀가", "start_eid_short": 0, "end_eid_short": 1, "text_short": "한 소녀가"}
+        ]}, 
+        {"id": 3, "type": "AM_MAMMALIA", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": 1, "text": "곰이", "start_eid_short": 2, "end_eid_short": 2, "text_short": "곰이"}
+        ]}, 
+        {"id": 4, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 4, "end_eid": 5, "ne_id": 2, "text": "세 가지의", "start_eid_short": 4, "end_eid_short": 5, "text_short": "세 가지의"}
+        ]}, 
+        {"id": 5, "type": "CV_FOOD", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 4, "end_eid": 6, "ne_id": 3, "text": "세 가지의 수프,", "start_eid_short": 6, "end_eid_short": 6, "text_short": "수프,"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 8, "end_eid": 13, "ne_id": -1, "text": "뜨거운 것과 차가운 것, 적당한 것", "start_eid_short": 13, "end_eid_short": 13, "text_short": "것"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 0, "start_eid": 23, "end_eid": 25, "ne_id": -1, "text": "높은 경제 성장에도", "start_eid_short": 25, "end_eid_short": 25, "text_short": "성장에도"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 0, "start_eid": 24, "end_eid": 24, "ne_id": -1, "text": "경제", "start_eid_short": 24, "end_eid_short": 24, "text_short": "경제"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 0, "start_eid": 26, "end_eid": 27, "ne_id": -1, "text": "물가 상승이", "start_eid_short": 26, "end_eid_short": 27, "text_short": "물가 상승이"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 0, "start_eid": 26, "end_eid": 26, "ne_id": -1, "text": "물가", "start_eid_short": 26, "end_eid_short": 26, "text_short": "물가"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 12, "end_eid": 13, "ne_id": -1, "text": "적당한 것", "start_eid_short": 13, "end_eid_short": 13, "text_short": "것"}, 
+            {"id": 10, "sent_id": 0, "start_eid": 15, "end_eid": 16, "ne_id": -1, "text": "적당한 것을", "start_eid_short": 16, "end_eid_short": 16, "text_short": "것을"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 8, "end_eid": 9, "ne_id": -1, "text": "뜨거운 것과", "start_eid_short": 9, "end_eid_short": 9, "text_short": "것과"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 10, "end_eid": 11, "ne_id": -1, "text": "차가운 것,", "start_eid_short": 11, "end_eid_short": 11, "text_short": "것,"}
+        ]}
+    ]
+}

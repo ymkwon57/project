@@ -1,0 +1,240 @@
+{
+    "doc_id": "E2016.836.09_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "몽골이나 중국 북부 내륙 지역의 건조지대의 미세 모래 먼지가 편서풍을 타고 이동해오는 현상이다.", 
+            "morp": [
+                {"id": 0, "lemma": "몽골", "type": "NNP", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "이나", "type": "JC", "position": 6, "weight": 0.014671}, 
+                {"id": 2, "lemma": "중국", "type": "NNP", "position": 13, "weight": 0.0704877}, 
+                {"id": 3, "lemma": "북부", "type": "NNG", "position": 20, "weight": 0.281793}, 
+                {"id": 4, "lemma": "내륙", "type": "NNG", "position": 27, "weight": 0.9}, 
+                {"id": 5, "lemma": "지역", "type": "NNG", "position": 34, "weight": 0.9}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 40, "weight": 0.0694213}, 
+                {"id": 7, "lemma": "건조", "type": "NNG", "position": 44, "weight": 0.9}, 
+                {"id": 8, "lemma": "지대", "type": "NNG", "position": 50, "weight": 0.9}, 
+                {"id": 9, "lemma": "의", "type": "JKG", "position": 56, "weight": 0.0694213}, 
+                {"id": 10, "lemma": "미세", "type": "NNG", "position": 60, "weight": 0.9}, 
+                {"id": 11, "lemma": "모래", "type": "NNG", "position": 67, "weight": 0.9}, 
+                {"id": 12, "lemma": "먼지", "type": "NNG", "position": 74, "weight": 0.9}, 
+                {"id": 13, "lemma": "가", "type": "JKS", "position": 80, "weight": 0.066324}, 
+                {"id": 14, "lemma": "편서풍", "type": "NNG", "position": 84, "weight": 0.25}, 
+                {"id": 15, "lemma": "을", "type": "JKO", "position": 93, "weight": 0.129611}, 
+                {"id": 16, "lemma": "타", "type": "VV", "position": 97, "weight": 0.743915}, 
+                {"id": 17, "lemma": "고", "type": "EC", "position": 100, "weight": 0.416679}, 
+                {"id": 18, "lemma": "이동", "type": "NNG", "position": 104, "weight": 0.217633}, 
+                {"id": 19, "lemma": "하", "type": "XSV", "position": 110, "weight": 0.0001}, 
+                {"id": 20, "lemma": "아", "type": "EC", "position": 110, "weight": 0.361326}, 
+                {"id": 21, "lemma": "오", "type": "VX", "position": 113, "weight": 0.0910275}, 
+                {"id": 22, "lemma": "는", "type": "ETM", "position": 116, "weight": 0.183966}, 
+                {"id": 23, "lemma": "현상", "type": "NNG", "position": 120, "weight": 0.65874}, 
+                {"id": 24, "lemma": "이", "type": "VCP", "position": 126, "weight": 0.0177525}, 
+                {"id": 25, "lemma": "다", "type": "EF", "position": 129, "weight": 0.353579}, 
+                {"id": 26, "lemma": ".", "type": "SF", "position": 132, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "몽골", "type": "NNP", "scode": "000001", "weight": 0.5, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "이나", "type": "JC", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "중국", "type": "NNP", "scode": "010000", "weight": 0.5, "position": 13, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "북부", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 20, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "내륙", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 27, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "지역", "type": "NNG", "scode": "030001", "weight": 0.2, "position": 34, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 40, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "건조", "type": "NNG", "scode": "040002", "weight": 0.166667, "position": 44, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "지대", "type": "NNG", "scode": "070000", "weight": 0.0833333, "position": 50, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 56, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "미세", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 60, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "모래", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 67, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "먼지", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 74, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 80, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "편서풍", "type": "NNG", "scode": "000000", "weight": 1, "position": 84, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 93, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "타", "type": "VV", "scode": "020100", "weight": 0.0357143, "position": 97, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 100, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "이동하", "type": "VV", "scode": "000001", "weight": 0.5, "position": 104, "begin": 18, "end": 19}, 
+                {"id": 19, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 110, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "오", "type": "VX", "scode": "010900", "weight": 0.0384615, "position": 113, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 116, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "현상", "type": "NNG", "scode": "040001", "weight": 0.0833333, "position": 120, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 126, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 129, "begin": 25, "end": 25}, 
+                {"id": 25, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 132, "begin": 26, "end": 26}
+            ], 
+            "word": [
+                {"id": 0, "text": "몽골이나", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "중국", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "북부", "type": "", "begin": 3, "end": 3}, 
+                {"id": 3, "text": "내륙", "type": "", "begin": 4, "end": 4}, 
+                {"id": 4, "text": "지역의", "type": "", "begin": 5, "end": 6}, 
+                {"id": 5, "text": "건조지대의", "type": "", "begin": 7, "end": 9}, 
+                {"id": 6, "text": "미세", "type": "", "begin": 10, "end": 10}, 
+                {"id": 7, "text": "모래", "type": "", "begin": 11, "end": 11}, 
+                {"id": 8, "text": "먼지가", "type": "", "begin": 12, "end": 13}, 
+                {"id": 9, "text": "편서풍을", "type": "", "begin": 14, "end": 15}, 
+                {"id": 10, "text": "타고", "type": "", "begin": 16, "end": 17}, 
+                {"id": 11, "text": "이동해오는", "type": "", "begin": 18, "end": 22}, 
+                {"id": 12, "text": "현상이다.", "type": "", "begin": 23, "end": 26}
+            ], 
+            "NE": [
+                {"id": 0, "text": "몽골", "type": "LCP_COUNTRY", "begin": 0, "end": 0, "weight": 0.808647, "common_noun": 0}, 
+                {"id": 1, "text": "중국", "type": "LCP_COUNTRY", "begin": 2, "end": 2, "weight": 0.899367, "common_noun": 0}, 
+                {"id": 2, "text": "북부", "type": "TM_DIRECTION", "begin": 3, "end": 3, "weight": 0.336885, "common_noun": 0}, 
+                {"id": 3, "text": "건조지대", "type": "TM_CLIMATE", "begin": 7, "end": 8, "weight": 1, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "몽골이나", "head": 4, "label": "NP_CNJ", "mod": [], "weight": 0.0998534}, 
+                {"id": 1, "text": "중국", "head": 2, "label": "NP", "mod": [], "weight": 0.0960614}, 
+                {"id": 2, "text": "북부", "head": 3, "label": "NP", "mod": [1], "weight": 0.437725}, 
+                {"id": 3, "text": "내륙", "head": 4, "label": "NP", "mod": [2], "weight": 0.841137}, 
+                {"id": 4, "text": "지역의", "head": 5, "label": "NP_MOD", "mod": [3, 0], "weight": 0.317382}, 
+                {"id": 5, "text": "건조지대의", "head": 8, "label": "NP_MOD", "mod": [4], "weight": 0.804977}, 
+                {"id": 6, "text": "미세", "head": 7, "label": "NP", "mod": [], "weight": 0.264372}, 
+                {"id": 7, "text": "모래", "head": 8, "label": "NP", "mod": [6], "weight": 0.694153}, 
+                {"id": 8, "text": "먼지가", "head": 10, "label": "NP_SBJ", "mod": [5, 7], "weight": 0.832885}, 
+                {"id": 9, "text": "편서풍을", "head": 10, "label": "NP_OBJ", "mod": [], "weight": 0.711717}, 
+                {"id": 10, "text": "타고", "head": 11, "label": "VP", "mod": [8, 9], "weight": 0.807938}, 
+                {"id": 11, "text": "이동해오는", "head": 12, "label": "VP_MOD", "mod": [10], "weight": 0.830054}, 
+                {"id": 12, "text": "현상이다.", "head": -1, "label": "VNP", "mod": [11], "weight": 5.7825e-05}
+            ], 
+            "SRL": [
+                {"verb": "타", "sense": 2, "word_id": 10, "weight": 0.175727, "argument": [
+                    {"type": "ARG1", "word_id": 8, "text": "먼지가", "weight": 1}, 
+                    {"type": "ARG2", "word_id": 9, "text": "편서풍을", "weight": 1}
+                ]}, 
+                {"verb": "이동", "sense": 1, "word_id": 11, "weight": 0.141728, "argument": [
+                    {"type": "ARG0", "word_id": 8, "text": "먼지가", "weight": 0.174792}, 
+                    {"type": "ARGM-MNR", "word_id": 10, "text": "타고", "weight": 0.108664}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "주로 3월에서 5월에 발생하는 이 현상은?", 
+            "morp": [
+                {"id": 0, "lemma": "주로", "type": "MAG", "position": 133, "weight": 0.0656917}, 
+                {"id": 1, "lemma": "3", "type": "SN", "position": 140, "weight": 1}, 
+                {"id": 2, "lemma": "월", "type": "NNB", "position": 141, "weight": 0.408539}, 
+                {"id": 3, "lemma": "에서", "type": "JKB", "position": 144, "weight": 0.135597}, 
+                {"id": 4, "lemma": "5", "type": "SN", "position": 151, "weight": 1}, 
+                {"id": 5, "lemma": "월", "type": "NNB", "position": 152, "weight": 0.408539}, 
+                {"id": 6, "lemma": "에", "type": "JKB", "position": 155, "weight": 0.135559}, 
+                {"id": 7, "lemma": "발생", "type": "NNG", "position": 159, "weight": 0.9}, 
+                {"id": 8, "lemma": "하", "type": "XSV", "position": 165, "weight": 0.0001}, 
+                {"id": 9, "lemma": "는", "type": "ETM", "position": 168, "weight": 0.238503}, 
+                {"id": 10, "lemma": "이", "type": "MM", "position": 172, "weight": 0.00060084}, 
+                {"id": 11, "lemma": "현상", "type": "NNG", "position": 176, "weight": 0.73734}, 
+                {"id": 12, "lemma": "은", "type": "JX", "position": 182, "weight": 0.0449928}, 
+                {"id": 13, "lemma": "?", "type": "SF", "position": 185, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "주로", "type": "MAG", "scode": "010000", "weight": 0.142857, "position": 133, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "3", "type": "SN", "scode": "000000", "weight": 1, "position": 140, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "월", "type": "NNB", "scode": "020100", "weight": 0.125, "position": 141, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 144, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "5", "type": "SN", "scode": "000000", "weight": 1, "position": 151, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "월", "type": "NNB", "scode": "020100", "weight": 0.125, "position": 152, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 155, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "발생하", "type": "VV", "scode": "000001", "weight": 0.5, "position": 159, "begin": 7, "end": 8}, 
+                {"id": 8, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 168, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "이", "type": "MM", "scode": "050002", "weight": 0.0172414, "position": 172, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "현상", "type": "NNG", "scode": "040001", "weight": 0.0833333, "position": 176, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 182, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 185, "begin": 13, "end": 13}
+            ], 
+            "word": [
+                {"id": 0, "text": "주로", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "3월에서", "type": "", "begin": 1, "end": 3}, 
+                {"id": 2, "text": "5월에", "type": "", "begin": 4, "end": 6}, 
+                {"id": 3, "text": "발생하는", "type": "", "begin": 7, "end": 9}, 
+                {"id": 4, "text": "이", "type": "", "begin": 10, "end": 10}, 
+                {"id": 5, "text": "현상은?", "type": "", "begin": 11, "end": 13}
+            ], 
+            "NE": [
+                {"id": 0, "text": "3월", "type": "DT_MONTH", "begin": 1, "end": 2, "weight": 0.64434, "common_noun": 0}, 
+                {"id": 1, "text": "5월", "type": "DT_MONTH", "begin": 4, "end": 5, "weight": 0.589232, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "주로", "head": 3, "label": "AP", "mod": [], "weight": 0.652408}, 
+                {"id": 1, "text": "3월에서", "head": 2, "label": "NP_AJT", "mod": [], "weight": 0.422298}, 
+                {"id": 2, "text": "5월에", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.753446}, 
+                {"id": 3, "text": "발생하는", "head": 5, "label": "VP_MOD", "mod": [0, 2], "weight": 0.855695}, 
+                {"id": 4, "text": "이", "head": 5, "label": "DP", "mod": [], "weight": 0.759109}, 
+                {"id": 5, "text": "현상은?", "head": -1, "label": "NP_SBJ", "mod": [3, 4], "weight": 0.0801547}
+            ], 
+            "SRL": [
+                {"verb": "발생", "sense": 1, "word_id": 3, "weight": 0.113616, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 1, "text": "3월에서", "weight": 1}, 
+                    {"type": "ARGM-TMP", "word_id": 2, "text": "5월에", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 5, "text": "현상은?", "weight": 1}, 
+                    {"type": "ARGM-ADV", "word_id": 0, "text": "주로", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "몽골이나 중국 북부 내륙 지역의", "start_eid_short": 1, "end_eid_short": 4, "text_short": "중국 북부 내륙 지역의"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "몽골이나", "start_eid_short": 0, "end_eid_short": 0, "text_short": "몽골이나"}
+        ]}, 
+        {"id": 2, "type": "TM_DIRECTION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 2, "text": "중국 북부", "start_eid_short": 1, "end_eid_short": 2, "text_short": "중국 북부"}
+        ]}, 
+        {"id": 3, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 1, "text": "중국", "start_eid_short": 1, "end_eid_short": 1, "text_short": "중국"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": -1, "text": "중국 북부 내륙", "start_eid_short": 1, "end_eid_short": 3, "text_short": "중국 북부 내륙"}
+        ]}, 
+        {"id": 5, "type": "TM_CLIMATE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 5, "ne_id": 3, "text": "몽골이나 중국 북부 내륙 지역의 건조지대의", "start_eid_short": 5, "end_eid_short": 5, "text_short": "건조지대의"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 8, "ne_id": -1, "text": "몽골이나 중국 북부 내륙 지역의 건조지대의 미세 모래 먼지가", "start_eid_short": 6, "end_eid_short": 8, "text_short": "미세 모래 먼지가"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 6, "end_eid": 7, "ne_id": -1, "text": "미세 모래", "start_eid_short": 6, "end_eid_short": 7, "text_short": "미세 모래"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "미세", "start_eid_short": 6, "end_eid_short": 6, "text_short": "미세"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 9, "end_eid": 9, "ne_id": -1, "text": "편서풍을", "start_eid_short": 9, "end_eid_short": 9, "text_short": "편서풍을"}
+        ]}, 
+        {"id": 10, "type": "DT_MONTH", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 1, "end_eid": 2, "ne_id": 1, "text": "3월에서 5월에", "start_eid_short": 2, "end_eid_short": 2, "text_short": "5월에"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 12, "ne_id": -1, "text": "몽골이나 중국 북부 내륙 지역의 건조지대의 미세 모래 먼지가 편서풍을 타고 이동해오는 현상이다.", "start_eid_short": 12, "end_eid_short": 12, "text_short": "현상이다."}, 
+            {"id": 14, "sent_id": 1, "start_eid": 4, "end_eid": 5, "ne_id": -1, "text": "이 현상은?", "start_eid_short": 5, "end_eid_short": 5, "text_short": "현상은?"}
+        ]}, 
+        {"id": 12, "type": "DT_MONTH", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "3월에서", "start_eid_short": 1, "end_eid_short": 1, "text_short": "3월에서"}
+        ]}, 
+        {"id": 13, "type": "DT_MONTH", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": 1, "text": "5월에", "start_eid_short": 2, "end_eid_short": 2, "text_short": "5월에"}
+        ]}
+    ]
+}

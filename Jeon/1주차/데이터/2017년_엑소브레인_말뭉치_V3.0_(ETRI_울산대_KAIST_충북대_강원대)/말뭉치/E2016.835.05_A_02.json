@@ -1,0 +1,359 @@
+{
+    "doc_id": "E2016.835.05_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "얄타회담", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<역사> 1945년 2월 크림 반도의 얄타에서 열린 연합국 수뇌 회담.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "역사", "type": "NNG", "position": 1, "weight": 0.199932}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "1945", "type": "SN", "position": 9, "weight": 1}, 
+                {"id": 4, "lemma": "년", "type": "NNB", "position": 13, "weight": 0.414343}, 
+                {"id": 5, "lemma": "2", "type": "SN", "position": 17, "weight": 1}, 
+                {"id": 6, "lemma": "월", "type": "NNB", "position": 18, "weight": 0.408539}, 
+                {"id": 7, "lemma": "크림", "type": "NNG", "position": 22, "weight": 0.109136}, 
+                {"id": 8, "lemma": "반도", "type": "NNG", "position": 29, "weight": 0.180132}, 
+                {"id": 9, "lemma": "의", "type": "JKG", "position": 35, "weight": 0.0694213}, 
+                {"id": 10, "lemma": "얄타", "type": "NNP", "position": 39, "weight": 0.7}, 
+                {"id": 11, "lemma": "에서", "type": "JKB", "position": 45, "weight": 0.0823859}, 
+                {"id": 12, "lemma": "열리", "type": "VV", "position": 52, "weight": 0.9}, 
+                {"id": 13, "lemma": "ㄴ", "type": "ETM", "position": 55, "weight": 0.304215}, 
+                {"id": 14, "lemma": "연합", "type": "NNG", "position": 59, "weight": 0.651113}, 
+                {"id": 15, "lemma": "국", "type": "XSN", "position": 65, "weight": 0.0205107}, 
+                {"id": 16, "lemma": "수뇌", "type": "NNG", "position": 69, "weight": 0.9}, 
+                {"id": 17, "lemma": "회담", "type": "NNG", "position": 76, "weight": 0.9}, 
+                {"id": 18, "lemma": ".", "type": "SF", "position": 82, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "역사", "type": "NNG", "scode": "040001", "weight": 0.0526316, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "1945", "type": "SN", "scode": "000000", "weight": 1, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 13, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "2", "type": "SN", "scode": "000000", "weight": 1, "position": 17, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "월", "type": "NNB", "scode": "020100", "weight": 0.125, "position": 18, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "크림", "type": "NNG", "scode": "000000", "weight": 0.25, "position": 22, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "반도", "type": "NNG", "scode": "020000", "weight": 0.111111, "position": 29, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 35, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "얄타", "type": "NNP", "scode": "000000", "weight": 1, "position": 39, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 45, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "열리", "type": "VV", "scode": "020102", "weight": 0.166667, "position": 52, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 55, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "연합국", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 59, "begin": 14, "end": 15}, 
+                {"id": 15, "text": "수뇌", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 69, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "회담", "type": "NNG", "scode": "000000", "weight": 1, "position": 76, "begin": 17, "end": 17}, 
+                {"id": 17, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 82, "begin": 18, "end": 18}
+            ], 
+            "word": [
+                {"id": 0, "text": "<역사>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "1945년", "type": "", "begin": 3, "end": 4}, 
+                {"id": 2, "text": "2월", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "크림", "type": "", "begin": 7, "end": 7}, 
+                {"id": 4, "text": "반도의", "type": "", "begin": 8, "end": 9}, 
+                {"id": 5, "text": "얄타에서", "type": "", "begin": 10, "end": 11}, 
+                {"id": 6, "text": "열린", "type": "", "begin": 12, "end": 13}, 
+                {"id": 7, "text": "연합국", "type": "", "begin": 14, "end": 15}, 
+                {"id": 8, "text": "수뇌", "type": "", "begin": 16, "end": 16}, 
+                {"id": 9, "text": "회담.", "type": "", "begin": 17, "end": 18}
+            ], 
+            "NE": [
+                {"id": 0, "text": "1945년 2월", "type": "DT_OTHERS", "begin": 3, "end": 6, "weight": 0.733734, "common_noun": 0}, 
+                {"id": 1, "text": "크림 반도", "type": "LCG_BAY", "begin": 7, "end": 8, "weight": 0.385619, "common_noun": 0}, 
+                {"id": 2, "text": "얄타", "type": "LCP_CITY", "begin": 10, "end": 10, "weight": 0.297424, "common_noun": 0}, 
+                {"id": 3, "text": "연합국", "type": "OGG_MILITARY", "begin": 14, "end": 15, "weight": 0.849077, "common_noun": 0}, 
+                {"id": 4, "text": "수뇌", "type": "CV_POSITION", "begin": 16, "end": 16, "weight": 0.161186, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<역사>", "head": 9, "label": "NP", "mod": [], "weight": 0.890847}, 
+                {"id": 1, "text": "1945년", "head": 2, "label": "NP", "mod": [], "weight": 0.764113}, 
+                {"id": 2, "text": "2월", "head": 6, "label": "NP_AJT", "mod": [1], "weight": 0.521051}, 
+                {"id": 3, "text": "크림", "head": 4, "label": "NP", "mod": [], "weight": 0.703003}, 
+                {"id": 4, "text": "반도의", "head": 5, "label": "NP_MOD", "mod": [3], "weight": 0.743043}, 
+                {"id": 5, "text": "얄타에서", "head": 6, "label": "NP_AJT", "mod": [4], "weight": 0.766432}, 
+                {"id": 6, "text": "열린", "head": 9, "label": "VP_MOD", "mod": [2, 5], "weight": 0.753873}, 
+                {"id": 7, "text": "연합국", "head": 8, "label": "NP", "mod": [], "weight": 0.268853}, 
+                {"id": 8, "text": "수뇌", "head": 9, "label": "NP", "mod": [7], "weight": 0.759494}, 
+                {"id": 9, "text": "회담.", "head": -1, "label": "NP", "mod": [0, 6, 8], "weight": 0.0185649}
+            ], 
+            "SRL": [
+                {"verb": "열리", "sense": 1, "word_id": 6, "weight": 0.273006, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 2, "text": "2월", "weight": 0.397264}, 
+                    {"type": "ARGM-LOC", "word_id": 5, "text": "얄타에서", "weight": 0.156146}, 
+                    {"type": "ARG1", "word_id": 9, "text": "회담.", "weight": 0.265607}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "미국의 루스벨트, 영국의 처칠, 소련의 스탈린이 참석하여 패전국에 대한 처리, 국제연합의 창설, 소련의 대일(對日) 참전 따위에 관하여 협의하였으며 얄타 비밀 협정을 체결하였다.", 
+            "morp": [
+                {"id": 0, "lemma": "미국", "type": "NNP", "position": 83, "weight": 0.0892934}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 89, "weight": 0.0987295}, 
+                {"id": 2, "lemma": "루스벨트", "type": "NNP", "position": 93, "weight": 0.9}, 
+                {"id": 3, "lemma": ",", "type": "SP", "position": 105, "weight": 1}, 
+                {"id": 4, "lemma": "영국", "type": "NNP", "position": 107, "weight": 0.9}, 
+                {"id": 5, "lemma": "의", "type": "JKG", "position": 113, "weight": 0.0987295}, 
+                {"id": 6, "lemma": "처칠", "type": "NNP", "position": 117, "weight": 0.9}, 
+                {"id": 7, "lemma": ",", "type": "SP", "position": 123, "weight": 1}, 
+                {"id": 8, "lemma": "소련", "type": "NNP", "position": 125, "weight": 0.123754}, 
+                {"id": 9, "lemma": "의", "type": "JKG", "position": 131, "weight": 0.0987295}, 
+                {"id": 10, "lemma": "스탈린", "type": "NNP", "position": 135, "weight": 0.9}, 
+                {"id": 11, "lemma": "이", "type": "JKS", "position": 144, "weight": 0.0234517}, 
+                {"id": 12, "lemma": "참석", "type": "NNG", "position": 148, "weight": 0.9}, 
+                {"id": 13, "lemma": "하", "type": "XSV", "position": 154, "weight": 0.0001}, 
+                {"id": 14, "lemma": "여", "type": "EC", "position": 157, "weight": 0.361326}, 
+                {"id": 15, "lemma": "패전", "type": "NNG", "position": 161, "weight": 0.9}, 
+                {"id": 16, "lemma": "국", "type": "XSN", "position": 167, "weight": 0.0205107}, 
+                {"id": 17, "lemma": "에", "type": "JKB", "position": 170, "weight": 0.121683}, 
+                {"id": 18, "lemma": "대하", "type": "VV", "position": 174, "weight": 0.0312871}, 
+                {"id": 19, "lemma": "ㄴ", "type": "ETM", "position": 177, "weight": 0.392321}, 
+                {"id": 20, "lemma": "처리", "type": "NNG", "position": 181, "weight": 0.9}, 
+                {"id": 21, "lemma": ",", "type": "SP", "position": 187, "weight": 1}, 
+                {"id": 22, "lemma": "국제연합", "type": "NNP", "position": 189, "weight": 0.529269}, 
+                {"id": 23, "lemma": "의", "type": "JKG", "position": 201, "weight": 0.0694213}, 
+                {"id": 24, "lemma": "창설", "type": "NNG", "position": 205, "weight": 0.9}, 
+                {"id": 25, "lemma": ",", "type": "SP", "position": 211, "weight": 1}, 
+                {"id": 26, "lemma": "소련", "type": "NNP", "position": 213, "weight": 0.123754}, 
+                {"id": 27, "lemma": "의", "type": "JKG", "position": 219, "weight": 0.0987295}, 
+                {"id": 28, "lemma": "대일", "type": "NNG", "position": 223, "weight": 0.626655}, 
+                {"id": 29, "lemma": "(", "type": "SS", "position": 229, "weight": 1}, 
+                {"id": 30, "lemma": "對日", "type": "SH", "position": 230, "weight": 1}, 
+                {"id": 31, "lemma": ")", "type": "SS", "position": 236, "weight": 1}, 
+                {"id": 32, "lemma": "참전", "type": "NNG", "position": 238, "weight": 0.9}, 
+                {"id": 33, "lemma": "따위", "type": "NNB", "position": 245, "weight": 0.9}, 
+                {"id": 34, "lemma": "에", "type": "JKB", "position": 251, "weight": 0.135559}, 
+                {"id": 35, "lemma": "관하", "type": "VV", "position": 255, "weight": 0.130437}, 
+                {"id": 36, "lemma": "여", "type": "EC", "position": 261, "weight": 0.361326}, 
+                {"id": 37, "lemma": "협의", "type": "NNG", "position": 265, "weight": 0.9}, 
+                {"id": 38, "lemma": "하", "type": "XSV", "position": 271, "weight": 0.0001}, 
+                {"id": 39, "lemma": "였", "type": "EP", "position": 274, "weight": 0.9}, 
+                {"id": 40, "lemma": "으며", "type": "EC", "position": 277, "weight": 0.197482}, 
+                {"id": 41, "lemma": "얄타", "type": "NNP", "position": 284, "weight": 0.7}, 
+                {"id": 42, "lemma": "비밀", "type": "NNG", "position": 291, "weight": 0.281824}, 
+                {"id": 43, "lemma": "협정", "type": "NNG", "position": 298, "weight": 0.9}, 
+                {"id": 44, "lemma": "을", "type": "JKO", "position": 304, "weight": 0.129611}, 
+                {"id": 45, "lemma": "체결", "type": "NNG", "position": 308, "weight": 0.9}, 
+                {"id": 46, "lemma": "하", "type": "XSV", "position": 314, "weight": 0.0001}, 
+                {"id": 47, "lemma": "였", "type": "EP", "position": 317, "weight": 0.9}, 
+                {"id": 48, "lemma": "다", "type": "EF", "position": 320, "weight": 0.640954}, 
+                {"id": 49, "lemma": ".", "type": "SF", "position": 323, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "미국", "type": "NNP", "scode": "030000", "weight": 0.333333, "position": 83, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 89, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "루스벨트", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 93, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 105, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "영국", "type": "NNP", "scode": "010000", "weight": 0.5, "position": 107, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 113, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "처칠", "type": "NNP", "scode": "030000", "weight": 0.333333, "position": 117, "begin": 6, "end": 6}, 
+                {"id": 7, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 123, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "소련", "type": "NNP", "scode": "030000", "weight": 0.333333, "position": 125, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 131, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "스탈린", "type": "NNP", "scode": "010000", "weight": 0.5, "position": 135, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 144, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "참석하", "type": "VV", "scode": "000000", "weight": 1, "position": 148, "begin": 12, "end": 13}, 
+                {"id": 13, "text": "여", "type": "EC", "scode": "000000", "weight": 1, "position": 157, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "패전국", "type": "NNG", "scode": "000000", "weight": 1, "position": 161, "begin": 15, "end": 16}, 
+                {"id": 15, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 170, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "대하", "type": "VV", "scode": "020003", "weight": 0.25, "position": 174, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 177, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "처리", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 181, "begin": 20, "end": 20}, 
+                {"id": 19, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 187, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "국제연합", "type": "NNP", "scode": "000000", "weight": 1, "position": 189, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 201, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "창설", "type": "NNG", "scode": "000000", "weight": 1, "position": 205, "begin": 24, "end": 24}, 
+                {"id": 23, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 211, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "소련", "type": "NNP", "scode": "030000", "weight": 0.333333, "position": 213, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 219, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "대일", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 223, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 229, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "對日", "type": "SH", "scode": "000000", "weight": 1, "position": 230, "begin": 30, "end": 30}, 
+                {"id": 29, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 236, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "참전", "type": "NNG", "scode": "020001", "weight": 0.25, "position": 238, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "따위", "type": "NNB", "scode": "000001", "weight": 0.5, "position": 245, "begin": 33, "end": 33}, 
+                {"id": 32, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 251, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "관하", "type": "VV", "scode": "020000", "weight": 0.333333, "position": 255, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "여", "type": "EC", "scode": "000000", "weight": 1, "position": 261, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "협의하", "type": "VV", "scode": "010000", "weight": 0.5, "position": 265, "begin": 37, "end": 38}, 
+                {"id": 36, "text": "였", "type": "EP", "scode": "000000", "weight": 1, "position": 274, "begin": 39, "end": 39}, 
+                {"id": 37, "text": "으며", "type": "EC", "scode": "000000", "weight": 1, "position": 277, "begin": 40, "end": 40}, 
+                {"id": 38, "text": "얄타", "type": "NNP", "scode": "000000", "weight": 1, "position": 284, "begin": 41, "end": 41}, 
+                {"id": 39, "text": "비밀", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 291, "begin": 42, "end": 42}, 
+                {"id": 40, "text": "협정", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 298, "begin": 43, "end": 43}, 
+                {"id": 41, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 304, "begin": 44, "end": 44}, 
+                {"id": 42, "text": "체결하", "type": "VV", "scode": "000002", "weight": 0.5, "position": 308, "begin": 45, "end": 46}, 
+                {"id": 43, "text": "였", "type": "EP", "scode": "000000", "weight": 1, "position": 317, "begin": 47, "end": 47}, 
+                {"id": 44, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 320, "begin": 48, "end": 48}, 
+                {"id": 45, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 323, "begin": 49, "end": 49}
+            ], 
+            "word": [
+                {"id": 0, "text": "미국의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "루스벨트,", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "영국의", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "처칠,", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "소련의", "type": "", "begin": 8, "end": 9}, 
+                {"id": 5, "text": "스탈린이", "type": "", "begin": 10, "end": 11}, 
+                {"id": 6, "text": "참석하여", "type": "", "begin": 12, "end": 14}, 
+                {"id": 7, "text": "패전국에", "type": "", "begin": 15, "end": 17}, 
+                {"id": 8, "text": "대한", "type": "", "begin": 18, "end": 19}, 
+                {"id": 9, "text": "처리,", "type": "", "begin": 20, "end": 21}, 
+                {"id": 10, "text": "국제연합의", "type": "", "begin": 22, "end": 23}, 
+                {"id": 11, "text": "창설,", "type": "", "begin": 24, "end": 25}, 
+                {"id": 12, "text": "소련의", "type": "", "begin": 26, "end": 27}, 
+                {"id": 13, "text": "대일(對日)", "type": "", "begin": 28, "end": 31}, 
+                {"id": 14, "text": "참전", "type": "", "begin": 32, "end": 32}, 
+                {"id": 15, "text": "따위에", "type": "", "begin": 33, "end": 34}, 
+                {"id": 16, "text": "관하여", "type": "", "begin": 35, "end": 36}, 
+                {"id": 17, "text": "협의하였으며", "type": "", "begin": 37, "end": 40}, 
+                {"id": 18, "text": "얄타", "type": "", "begin": 41, "end": 41}, 
+                {"id": 19, "text": "비밀", "type": "", "begin": 42, "end": 42}, 
+                {"id": 20, "text": "협정을", "type": "", "begin": 43, "end": 44}, 
+                {"id": 21, "text": "체결하였다.", "type": "", "begin": 45, "end": 49}
+            ], 
+            "NE": [
+                {"id": 0, "text": "미국", "type": "LCP_COUNTRY", "begin": 0, "end": 0, "weight": 0.866213, "common_noun": 0}, 
+                {"id": 1, "text": "루스벨트", "type": "PS_NAME", "begin": 2, "end": 2, "weight": 0.260553, "common_noun": 0}, 
+                {"id": 2, "text": "영국", "type": "LCP_COUNTRY", "begin": 4, "end": 4, "weight": 0.593236, "common_noun": 0}, 
+                {"id": 3, "text": "처칠", "type": "PS_NAME", "begin": 6, "end": 6, "weight": 0.311311, "common_noun": 0}, 
+                {"id": 4, "text": "소련", "type": "LCP_COUNTRY", "begin": 8, "end": 8, "weight": 0.557867, "common_noun": 0}, 
+                {"id": 5, "text": "스탈린", "type": "PS_NAME", "begin": 10, "end": 10, "weight": 0.305198, "common_noun": 0}, 
+                {"id": 6, "text": "국제연합", "type": "OGG_POLITICS", "begin": 22, "end": 22, "weight": 0.688111, "common_noun": 0}, 
+                {"id": 7, "text": "소련", "type": "LCP_COUNTRY", "begin": 26, "end": 26, "weight": 0.56212, "common_noun": 0}, 
+                {"id": 8, "text": "얄타", "type": "LCP_CITY", "begin": 41, "end": 41, "weight": 0.56212, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "미국의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.440119}, 
+                {"id": 1, "text": "루스벨트,", "head": 5, "label": "NP_CNJ", "mod": [0], "weight": 0.618315}, 
+                {"id": 2, "text": "영국의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.629517}, 
+                {"id": 3, "text": "처칠,", "head": 5, "label": "NP_CNJ", "mod": [2], "weight": 0.553687}, 
+                {"id": 4, "text": "소련의", "head": 5, "label": "NP_MOD", "mod": [], "weight": 0.565849}, 
+                {"id": 5, "text": "스탈린이", "head": 6, "label": "NP_SBJ", "mod": [1, 3, 4], "weight": 0.770346}, 
+                {"id": 6, "text": "참석하여", "head": 16, "label": "VP", "mod": [5], "weight": 0.720831}, 
+                {"id": 7, "text": "패전국에", "head": 8, "label": "NP_AJT", "mod": [], "weight": 0.63047}, 
+                {"id": 8, "text": "대한", "head": 9, "label": "VP_MOD", "mod": [7], "weight": 0.407503}, 
+                {"id": 9, "text": "처리,", "head": 14, "label": "NP_CNJ", "mod": [8], "weight": 0.394001}, 
+                {"id": 10, "text": "국제연합의", "head": 11, "label": "NP_MOD", "mod": [], "weight": 0.603335}, 
+                {"id": 11, "text": "창설,", "head": 14, "label": "NP_CNJ", "mod": [10], "weight": 0.64382}, 
+                {"id": 12, "text": "소련의", "head": 14, "label": "NP_MOD", "mod": [], "weight": 0.645601}, 
+                {"id": 13, "text": "대일(對日)", "head": 14, "label": "NP", "mod": [], "weight": 0.530098}, 
+                {"id": 14, "text": "참전", "head": 15, "label": "NP", "mod": [9, 11, 12, 13], "weight": 0.737068}, 
+                {"id": 15, "text": "따위에", "head": 16, "label": "NP_AJT", "mod": [14], "weight": 0.813297}, 
+                {"id": 16, "text": "관하여", "head": 17, "label": "VP", "mod": [6, 15], "weight": 0.749081}, 
+                {"id": 17, "text": "협의하였으며", "head": 21, "label": "VP", "mod": [16], "weight": 0.765828}, 
+                {"id": 18, "text": "얄타", "head": 19, "label": "NP", "mod": [], "weight": 0.00695442}, 
+                {"id": 19, "text": "비밀", "head": 20, "label": "NP", "mod": [18], "weight": 0.73157}, 
+                {"id": 20, "text": "협정을", "head": 21, "label": "NP_OBJ", "mod": [19], "weight": 0.861213}, 
+                {"id": 21, "text": "체결하였다.", "head": -1, "label": "VP", "mod": [17, 20], "weight": 5.23851e-07}
+            ], 
+            "SRL": [
+                {"verb": "참석", "sense": 1, "word_id": 6, "weight": 0.265676, "argument": [
+                    {"type": "ARG0", "word_id": 5, "text": "스탈린이", "weight": 0.265676}
+                ]}, 
+                {"verb": "대하", "sense": 1, "word_id": 8, "weight": 0.118401, "argument": [
+                    {"type": "ARG2", "word_id": 7, "text": "패전국에", "weight": 0.118401}
+                ]}, 
+                {"verb": "관하", "sense": 1, "word_id": 16, "weight": 0.126614, "argument": [
+                    {"type": "ARG2", "word_id": 15, "text": "따위에", "weight": 0.126614}
+                ]}, 
+                {"verb": "협의", "sense": 1, "word_id": 17, "weight": 0.0872762, "argument": [
+                    {"type": "ARG1", "word_id": 16, "text": "관하여", "weight": 0.0872762}, 
+                    {"type": "ARG0", "word_id": 5, "text": "스탈린이", "weight": 1}
+                ]}, 
+                {"verb": "체결", "sense": 1, "word_id": 21, "weight": 0.167409, "argument": [
+                    {"type": "ARG1", "word_id": 20, "text": "협정을", "weight": 0.167409}, 
+                    {"type": "ARG0", "word_id": 5, "text": "스탈린이", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 0, "text": "1945년 2월", "start_eid_short": 1, "end_eid_short": 2, "text_short": "1945년 2월"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 21, "sent_id": 1, "start_eid": 18, "end_eid": 18, "ne_id": -1, "text": "얄타", "start_eid_short": 18, "end_eid_short": 18, "text_short": "얄타"}
+        ]}, 
+        {"id": 2, "type": "LCG_BAY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 3, "end_eid": 4, "ne_id": 1, "text": "크림 반도의", "start_eid_short": 3, "end_eid_short": 4, "text_short": "크림 반도의"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 7, "end_eid": 8, "ne_id": -1, "text": "연합국 수뇌", "start_eid_short": 7, "end_eid_short": 8, "text_short": "연합국 수뇌"}
+        ]}, 
+        {"id": 4, "type": "OGG_MILITARY", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 3, "text": "연합국", "start_eid_short": 7, "end_eid_short": 7, "text_short": "연합국"}
+        ]}, 
+        {"id": 5, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "미국의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "미국의"}
+        ]}, 
+        {"id": 6, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 0, "end_eid": 5, "ne_id": 5, "text": "미국의 루스벨트, 영국의 처칠, 소련의 스탈린이", "start_eid_short": 5, "end_eid_short": 5, "text_short": "스탈린이"}
+        ]}, 
+        {"id": 7, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "미국의 루스벨트,", "start_eid_short": 1, "end_eid_short": 1, "text_short": "루스벨트,"}
+        ]}, 
+        {"id": 8, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": 2, "text": "영국의", "start_eid_short": 2, "end_eid_short": 2, "text_short": "영국의"}
+        ]}, 
+        {"id": 9, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 2, "end_eid": 3, "ne_id": 3, "text": "영국의 처칠,", "start_eid_short": 3, "end_eid_short": 3, "text_short": "처칠,"}
+        ]}, 
+        {"id": 10, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": 4, "text": "소련의", "start_eid_short": 4, "end_eid_short": 4, "text_short": "소련의"}, 
+            {"id": 19, "sent_id": 1, "start_eid": 12, "end_eid": 12, "ne_id": 7, "text": "소련의", "start_eid_short": 12, "end_eid_short": 12, "text_short": "소련의"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "패전국에", "start_eid_short": 7, "end_eid_short": 7, "text_short": "패전국에"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 7, "end_eid": 9, "ne_id": -1, "text": "패전국에 대한 처리,", "start_eid_short": 9, "end_eid_short": 9, "text_short": "처리,"}
+        ]}, 
+        {"id": 13, "type": "OGG_POLITICS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 10, "end_eid": 10, "ne_id": 6, "text": "국제연합의", "start_eid_short": 10, "end_eid_short": 10, "text_short": "국제연합의"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 7, "end_eid": 15, "ne_id": -1, "text": "패전국에 대한 처리, 국제연합의 창설, 소련의 대일(對日) 참전 따위에", "start_eid_short": 14, "end_eid_short": 15, "text_short": "참전 따위에"}
+        ]}, 
+        {"id": 15, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 22, "sent_id": 1, "start_eid": 19, "end_eid": 19, "ne_id": -1, "text": "비밀", "start_eid_short": 19, "end_eid_short": 19, "text_short": "비밀"}
+        ]}, 
+        {"id": 16, "type": "LCP_CITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 3, "end_eid": 5, "ne_id": 2, "text": "크림 반도의 얄타에서", "start_eid_short": 5, "end_eid_short": 5, "text_short": "얄타에서"}
+        ]}, 
+        {"id": 17, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 1, "end_eid": 9, "ne_id": -1, "text": "1945년 2월 크림 반도의 얄타에서 열린 연합국 수뇌 회담.", "start_eid_short": 7, "end_eid_short": 9, "text_short": "연합국 수뇌 회담."}
+        ]}, 
+        {"id": 18, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 4, "end_eid": 5, "ne_id": 5, "text": "소련의 스탈린이", "start_eid_short": 5, "end_eid_short": 5, "text_short": "스탈린이"}
+        ]}, 
+        {"id": 19, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 1, "start_eid": 10, "end_eid": 11, "ne_id": -1, "text": "국제연합의 창설,", "start_eid_short": 11, "end_eid_short": 11, "text_short": "창설,"}
+        ]}, 
+        {"id": 20, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 1, "start_eid": 12, "end_eid": 14, "ne_id": -1, "text": "소련의 대일(對日) 참전", "start_eid_short": 14, "end_eid_short": 14, "text_short": "참전"}
+        ]}, 
+        {"id": 21, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 1, "start_eid": 18, "end_eid": 20, "ne_id": -1, "text": "얄타 비밀 협정을", "start_eid_short": 18, "end_eid_short": 20, "text_short": "얄타 비밀 협정을"}
+        ]}
+    ]
+}

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+광저우는 중국 남부 최대 도시이다. 중국 광동성에 위치하고 있으며, 홍콩, 마카오의 영향으로 선전(심천)과 함께 중국에서 가장 먼저 산업화, 도시화된 곳 중 하나다.
+
+광동성은 중국의 최대 제조업지역이자, 세계 제조업의 중심지이다. 주변엔 주하이, 동관, 심천, 포산등의 도시가 있다. 광저우는 의류, 신발, 가방, 그외 악세사리등을 교역하는 전문 시장으로 세계에 널리 알려져 있으며, 전세계로 수출된다.
+중국 최대이자 세계최대의 의류시장도 광저우에 있다. 전세계 뿐아니라, 한국에서 유통되는 의류의 대부분이 중국산이며, 수많은 한국 바이어들이 광저우 도매시장에서 구매하여 한국내에서 유통시킨다. 물론 전세계 대부분의 브랜드의 의류도 중국에서 생산되고 있다.
+광저우 텐허구의 지하철 강정역 주변엔 많은 전자상가가 위치하고 있으며, 광동성에서 생산된 많은 전자기기가 이곳에서 유통된다. 물론 삼성, 소니, HTC, HP, Dell 등 유명 브랜드에서 생산된 전자제품들도 구매할수 있다.
+
+광저우엔 6곳의 주요 번화가(상업중심가)가 있다. 베이징 루 , 샹샤쥬 루 , 텐허 루 , 종산 3루, 타오진 루, 농심서 루 주변엔 수많은 상점과 백화점, 쇼핑몰이 있다. 베이징 루와 샹샤쥬 루는 보행자전용 쇼핑거리가 조성되어있다.
+베이징 루는 지하철 1, 2호선 공원전 역에서, 샹샤쥬 루는 지하철 1호선 장수루 역에서, 턴허 루는 지하철 1, 3 호선 티우시 루 역에서, 종산 3 루는 지하철 1호선 Martyr's Park 역에서, 타오진 루는 지하절 5호선 타오진 역에서, 농심서 루는 지하철 1호선 동산구 역에서 내리면 된다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="4" text="광저우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="6" end="8" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="15" end="17" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="21" end="23" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="24" end="27" text="광동성" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="39" end="41" text="홍콩" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="43" end="46" text="마카오" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="53" end="55" text="선전" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="56" end="58" text="심천" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="64" end="66" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="85" end="86" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="95" end="98" text="광동성" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="100" end="102" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="107" end="112" text="제조업지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="최대" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="135" end="138" text="주하이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="140" end="142" text="동관" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="144" end="146" text="심천" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="148" end="150" text="포산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="153" end="155" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="161" end="164" text="광저우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="228" end="230" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="248" end="251" text="광저우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="267" end="269" text="한국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="322" end="324" text="한국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="356" end="358" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="370" end="373" text="광저우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="374" end="377" text="텐허구" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="383" end="386" text="강정역" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="410" end="413" text="광동성" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="429" end="431" text="이곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="497" end="500" text="광저우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl48" start="646" end="651" text="공원전 역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl49" start="670" end="675" text="장수루 역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl50" start="697" end="704" text="티우시 루 역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl52" start="758" end="763" text="타오진 역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl53" start="782" end="787" text="동산구 역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="503" end="504" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="89" end="91" text="하나" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="131" />
+<PLACE id="pl41" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="21" />
+<PLACE id="pl25" start="306" end="314" text="광저우 도매시장" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="217" end="220" text="전세계" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="724" end="739" text="Martyr's Park 역" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PATH id="p1" start="509" end="512" text="번화가" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="513" end="518" text="상업중심가" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p8" start="525" end="530" text="베이징 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p9" start="533" end="538" text="샹샤쥬 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p10" start="541" end="545" text="텐허 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p11" start="548" end="553" text="종산 3루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p12" start="555" end="560" text="타오진 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p13" start="562" end="567" text="농심서 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p14" start="594" end="599" text="베이징 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p15" start="601" end="606" text="샹샤쥬 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p16" start="614" end="618" text="쇼핑거리" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p17" start="628" end="633" text="베이징 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p18" start="655" end="660" text="샹샤쥬 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p19" start="679" end="683" text="턴허 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p20" start="708" end="714" text="종산 3 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p21" start="743" end="748" text="타오진 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p22" start="767" end="772" text="농심서 루" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="635" end="645" text="지하철 1, 2호선" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p4" start="662" end="669" text="지하철 1호선" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p5" start="685" end="696" text="지하철 1, 3 호선" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p6" start="716" end="723" text="지하철 1호선" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p7" start="750" end="757" text="지하절 5호선" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p23" start="774" end="781" text="지하철 1호선" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="394" end="398" text="전자상가" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="576" end="578" text="상점" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="580" end="583" text="백화점" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="585" end="588" text="쇼핑몰" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="242" end="246" text="의류시장" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="222" end="225" text="수출된" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="790" end="792" text="내리" domain="" latLong="" elevation="" motion_type="PATH" motion_class="DEVIATE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="27" end="28" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="251" end="252" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="500" end="501" text="엔" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="9" end="11" text="남부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="377" end="378" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="102" end="103" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="651" end="653" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="675" end="677" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="704" end="706" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="739" end="741" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="763" end="765" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms5" start="787" end="789" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms6" start="220" end="221" text="로" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="131" end="133" text="주변" value="주변" unit="" comment="" />
+<MEASURE id="me1" start="387" end="389" text="주변" value="주변" unit="" comment="" />
+<MEASURE id="me2" start="568" end="570" text="주변" value="" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="20" text="광저우는 중국 남부 최대 도시이다." comment="" />
+<SENTENCE id="sent1" start="21" end="93" text="중국 광동성에 위치하고 있으며, 홍콩, 마카오의 영향으로 선전(심천)과 함께 중국에서 가장 먼저 산업화, 도시화된 곳 중 하나다." comment="" />
+<SENTENCE id="sent2" start="95" end="130" text="광동성은 중국의 최대 제조업지역이자, 세계 제조업의 중심지이다." comment="" />
+<SENTENCE id="sent3" start="131" end="160" text="주변엔 주하이, 동관, 심천, 포산등의 도시가 있다." comment="" />
+<SENTENCE id="sent4" start="161" end="227" text="광저우는 의류, 신발, 가방, 그외 악세사리등을 교역하는 전문 시장으로 세계에 널리 알려져 있으며, 전세계로 수출된다." comment="" />
+<SENTENCE id="sent5" start="228" end="256" text="중국 최대이자 세계최대의 의류시장도 광저우에 있다." comment="" />
+<SENTENCE id="sent6" start="257" end="334" text="전세계 뿐아니라, 한국에서 유통되는 의류의 대부분이 중국산이며, 수많은 한국 바이어들이 광저우 도매시장에서 구매하여 한국내에서 유통시킨다." comment="" />
+<SENTENCE id="sent7" start="335" end="369" text="물론 전세계 대부분의 브랜드의 의류도 중국에서 생산되고 있다." comment="" />
+<SENTENCE id="sent8" start="370" end="439" text="광저우 텐허구의 지하철 강정역 주변엔 많은 전자상가가 위치하고 있으며, 광동성에서 생산된 많은 전자기기가 이곳에서 유통된다." comment="" />
+<SENTENCE id="sent9" start="440" end="495" text="물론 삼성, 소니, HTC, HP, Dell 등 유명 브랜드에서 생산된 전자제품들도 구매할수 있다." comment="" />
+<SENTENCE id="sent10" start="497" end="524" text="광저우엔 6곳의 주요 번화가(상업중심가)가 있다." comment="" />
+<SENTENCE id="sent11" start="525" end="593" text="베이징 루 , 샹샤쥬 루 , 텐허 루 , 종산 3루, 타오진 루, 농심서 루 주변엔 수많은 상점과 백화점, 쇼핑몰이 있다." comment="" />
+<SENTENCE id="sent12" start="594" end="627" text="베이징 루와 샹샤쥬 루는 보행자전용 쇼핑거리가 조성되어있다." comment="" />
+<SENTENCE id="sent13" start="628" end="798" text="베이징 루는 지하철 1, 2호선 공원전 역에서, 샹샤쥬 루는 지하철 1호선 장수루 역에서, 턴허 루는 지하철 1, 3 호선 티우시 루 역에서, 종산 3 루는 지하철 1호선 Martyr's Park 역에서, 타오진 루는 지하절 5호선 타오진 역에서, 농심서 루는 지하철 1호선 동산구 역에서 내리면 된다. " comment="" />
+<QSLINK id="qsl26" fromID="pl41" fromText="" toID="pl4" toText="광동성" relType="IN" trajector="pl41" landmark="pl4" trigger="s1" comment="" />
+<QSLINK id="qsl4" fromID="pl22" fromText="광저우" toID="se4" toText="의류시장" relType="IN" trajector="se4" landmark="pl22" trigger="s3" comment="" />
+<QSLINK id="qsl8" fromID="pl32" fromText="강정역" toID="pl31" toText="텐허구" relType="IN" trajector="pl32" landmark="pl31" trigger="s2" comment="" />
+<QSLINK id="qsl9" fromID="pl27" fromText="곳" toID="pl37" toText="광저우" relType="NTPP" trajector="pl27" landmark="pl37" trigger="s7" comment="" />
+<QSLINK id="qsl10" fromID="pl13" fromText="제조업지역" toID="pl12" toText="중국" relType="NTPP" trajector="pl13" landmark="pl12" trigger="s4" comment="" />
+<OLINK id="ol0" fromID="pl1" fromText="중국" toID="pl2" toText="도시" relType="남" trajector="pl2" landmark="pl1" trigger="s0" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl0" fromText="광저우" toID="pl1" toText="중국" relType="남" trajector="pl0" landmark="pl1" trigger="s0" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="pl20" fromText="광저우" toID="m0" toText="수출된" trigger="m0" source="pl20" goal="pl26" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms6" comment="" />
+<MOVELINK id="mvl2" fromID="pl49" fromText="장수루 역" toID="m1" toText="내리" trigger="m1" source="" goal="pl49" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl3" fromID="pl50" fromText="티우시 루 역" toID="m1" toText="내리" trigger="m1" source="" goal="pl50" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl5" fromID="pl52" fromText="타오진 역" toID="m1" toText="내리" trigger="m1" source="" goal="pl52" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms4" comment="" />
+<MOVELINK id="mvl6" fromID="pl53" fromText="동산구 역" toID="m1" toText="내리" trigger="m1" source="" goal="pl53" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms5" comment="" />
+<MOVELINK id="mvl7" fromID="pl48" fromText="공원전 역" toID="m1" toText="내리" trigger="m1" source="" goal="pl48" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="pl14" fromText="Martyr's Park 역" toID="m1" toText="내리" trigger="m1" source="" goal="pl14" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms3" comment="" />
+<MEASURELINK id="ml0" fromID="pl15" fromText="주하이" toID="me0" toText="주변" trajector="pl15" landmark="pl40" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl16" fromText="동관" toID="me0" toText="주변" trajector="pl16" landmark="pl40" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="pl17" fromText="심천" toID="me0" toText="주변" trajector="pl17" landmark="pl40" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml4" fromID="pl18" fromText="포산" toID="me0" toText="주변" trajector="pl18" landmark="pl40" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml5" fromID="pl19" fromText="도시" toID="me0" toText="주변" trajector="pl19" landmark="pl40" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml6" fromID="se0" fromText="전자상가" toID="pl32" toText="강정역" trajector="se0" landmark="pl32" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml7" fromID="se1" fromText="상점" toID="p8" toText="베이징 루" trajector="se1" landmark="p8" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml9" fromID="se1" fromText="상점" toID="p9" toText="샹샤쥬 루" trajector="se1" landmark="p9" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml10" fromID="se1" fromText="상점" toID="p10" toText="텐허 루" trajector="se1" landmark="p10" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml11" fromID="se1" fromText="상점" toID="p11" toText="종산 3루" trajector="se1" landmark="p11" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml12" fromID="se1" fromText="상점" toID="p12" toText="타오진 루" trajector="se1" landmark="p12" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml13" fromID="se1" fromText="상점" toID="p13" toText="농심서 루" trajector="se1" landmark="p13" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml14" fromID="se2" fromText="백화점" toID="p8" toText="베이징 루" trajector="se2" landmark="p8" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml15" fromID="se2" fromText="백화점" toID="p9" toText="샹샤쥬 루" trajector="se2" landmark="p9" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml16" fromID="se2" fromText="백화점" toID="p10" toText="텐허 루" trajector="se2" landmark="p10" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml17" fromID="se2" fromText="백화점" toID="p11" toText="종산 3루" trajector="se2" landmark="p11" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml18" fromID="se2" fromText="백화점" toID="p12" toText="타오진 루" trajector="se2" landmark="p12" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml19" fromID="se2" fromText="백화점" toID="p13" toText="농심서 루" trajector="se2" landmark="p13" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml20" fromID="se3" fromText="쇼핑몰" toID="p8" toText="베이징 루" trajector="se3" landmark="p8" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml21" fromID="se3" fromText="쇼핑몰" toID="p9" toText="샹샤쥬 루" trajector="se3" landmark="p9" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml22" fromID="se3" fromText="쇼핑몰" toID="p10" toText="텐허 루" trajector="se3" landmark="p10" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml23" fromID="se3" fromText="쇼핑몰" toID="p11" toText="종산 3루" trajector="se3" landmark="p11" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml24" fromID="se3" fromText="쇼핑몰" toID="p12" toText="타오진 루" trajector="se3" landmark="p12" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml25" fromID="se3" fromText="쇼핑몰" toID="p13" toText="농심서 루" trajector="se3" landmark="p13" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

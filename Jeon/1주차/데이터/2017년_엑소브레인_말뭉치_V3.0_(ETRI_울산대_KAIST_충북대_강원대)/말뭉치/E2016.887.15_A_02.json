@@ -1,0 +1,68 @@
+{
+    "doc_id": "E2016.887.15_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "알토", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "여성의 가장 낮은 음역.", 
+            "morp": [
+                {"id": 0, "lemma": "여성", "type": "NNG", "position": 0, "weight": 0.43782}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 6, "weight": 0.0694213}, 
+                {"id": 2, "lemma": "가장", "type": "MAG", "position": 10, "weight": 0.00368841}, 
+                {"id": 3, "lemma": "낮", "type": "VA", "position": 17, "weight": 0.0987621}, 
+                {"id": 4, "lemma": "은", "type": "ETM", "position": 20, "weight": 0.155123}, 
+                {"id": 5, "lemma": "음역", "type": "NNG", "position": 24, "weight": 0.9}, 
+                {"id": 6, "lemma": ".", "type": "SF", "position": 30, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "여성", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "가장", "type": "MAG", "scode": "010000", "weight": 0.0555556, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "낮", "type": "VA", "scode": "000005", "weight": 0.2, "position": 17, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "음역", "type": "NNG", "scode": "010001", "weight": 0.25, "position": 24, "begin": 5, "end": 5}, 
+                {"id": 6, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 30, "begin": 6, "end": 6}
+            ], 
+            "word": [
+                {"id": 0, "text": "여성의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "가장", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "낮은", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "음역.", "type": "", "begin": 5, "end": 6}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "여성의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.816151}, 
+                {"id": 1, "text": "가장", "head": 2, "label": "AP", "mod": [], "weight": 0.556944}, 
+                {"id": 2, "text": "낮은", "head": 3, "label": "VP_MOD", "mod": [1], "weight": 0.777541}, 
+                {"id": 3, "text": "음역.", "head": -1, "label": "NP", "mod": [0, 2], "weight": 0.287963}
+            ], 
+            "SRL": [
+                {"verb": "낮", "sense": 1, "word_id": 2, "weight": 0.20694, "argument": [
+                    {"type": "ARGM-EXT", "word_id": 1, "text": "가장", "weight": 0.216912}, 
+                    {"type": "ARG1", "word_id": 3, "text": "음역.", "weight": 0.196967}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "여성의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "여성의"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "여성의 가장 낮은 음역.", "start_eid_short": 3, "end_eid_short": 3, "text_short": "음역."}
+        ]}
+    ]
+}

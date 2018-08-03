@@ -1,0 +1,410 @@
+{
+    "doc_id": "E2016.837.16_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "고인돌", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "청동기 시대의 대표적인 무덤 양식에 해당되며, 한반도와 만주 일대에 호남지방의 2만여 기를 비롯하여 약 4만 기의 고인돌이 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "청동기", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "시대", "type": "NNG", "position": 10, "weight": 0.9}, 
+                {"id": 2, "lemma": "의", "type": "JKG", "position": 16, "weight": 0.0694213}, 
+                {"id": 3, "lemma": "대표", "type": "NNG", "position": 20, "weight": 0.9}, 
+                {"id": 4, "lemma": "적", "type": "XSN", "position": 26, "weight": 0.0168756}, 
+                {"id": 5, "lemma": "이", "type": "VCP", "position": 29, "weight": 0.0165001}, 
+                {"id": 6, "lemma": "ㄴ", "type": "ETM", "position": 29, "weight": 0.220712}, 
+                {"id": 7, "lemma": "무덤", "type": "NNG", "position": 33, "weight": 0.657426}, 
+                {"id": 8, "lemma": "양식", "type": "NNG", "position": 40, "weight": 0.9}, 
+                {"id": 9, "lemma": "에", "type": "JKB", "position": 46, "weight": 0.153364}, 
+                {"id": 10, "lemma": "해당", "type": "NNG", "position": 50, "weight": 0.9}, 
+                {"id": 11, "lemma": "되", "type": "XSV", "position": 56, "weight": 0.000224177}, 
+                {"id": 12, "lemma": "며", "type": "EC", "position": 59, "weight": 0.371165}, 
+                {"id": 13, "lemma": ",", "type": "SP", "position": 62, "weight": 1}, 
+                {"id": 14, "lemma": "한반도", "type": "NNP", "position": 64, "weight": 0.1167}, 
+                {"id": 15, "lemma": "와", "type": "JC", "position": 73, "weight": 0.0104534}, 
+                {"id": 16, "lemma": "만주", "type": "NNP", "position": 77, "weight": 0.0704277}, 
+                {"id": 17, "lemma": "일대", "type": "NNG", "position": 84, "weight": 0.248657}, 
+                {"id": 18, "lemma": "에", "type": "JKB", "position": 90, "weight": 0.153364}, 
+                {"id": 19, "lemma": "호남", "type": "NNP", "position": 94, "weight": 0.0227292}, 
+                {"id": 20, "lemma": "지방", "type": "NNG", "position": 100, "weight": 0.9}, 
+                {"id": 21, "lemma": "의", "type": "JKG", "position": 106, "weight": 0.0694213}, 
+                {"id": 22, "lemma": "2", "type": "SN", "position": 110, "weight": 1}, 
+                {"id": 23, "lemma": "만", "type": "NR", "position": 111, "weight": 0.0178717}, 
+                {"id": 24, "lemma": "여", "type": "XSN", "position": 114, "weight": 0.0452599}, 
+                {"id": 25, "lemma": "기", "type": "NNB", "position": 118, "weight": 0.00240689}, 
+                {"id": 26, "lemma": "를", "type": "JKO", "position": 121, "weight": 0.137686}, 
+                {"id": 27, "lemma": "비롯하", "type": "VV", "position": 125, "weight": 0.9}, 
+                {"id": 28, "lemma": "아", "type": "EC", "position": 134, "weight": 0.41831}, 
+                {"id": 29, "lemma": "약", "type": "MM", "position": 138, "weight": 0.0107162}, 
+                {"id": 30, "lemma": "4", "type": "SN", "position": 142, "weight": 1}, 
+                {"id": 31, "lemma": "만", "type": "NR", "position": 143, "weight": 0.0178717}, 
+                {"id": 32, "lemma": "기", "type": "NNB", "position": 147, "weight": 0.00199045}, 
+                {"id": 33, "lemma": "의", "type": "JKG", "position": 150, "weight": 0.0694213}, 
+                {"id": 34, "lemma": "고인돌", "type": "NNG", "position": 154, "weight": 0.9}, 
+                {"id": 35, "lemma": "이", "type": "JKS", "position": 163, "weight": 0.0360723}, 
+                {"id": 36, "lemma": "있", "type": "VA", "position": 167, "weight": 0.12767}, 
+                {"id": 37, "lemma": "다", "type": "EF", "position": 170, "weight": 0.132573}, 
+                {"id": 38, "lemma": ".", "type": "SF", "position": 173, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "청동기", "type": "NNG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "시대", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 10, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 16, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "대표적", "type": "NNG", "scode": "000000", "weight": 1, "position": 20, "begin": 3, "end": 4}, 
+                {"id": 4, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 29, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 29, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "무덤", "type": "NNG", "scode": "000000", "weight": 1, "position": 33, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "양식", "type": "NNG", "scode": "040003", "weight": 0.111111, "position": 40, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 46, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "해당되", "type": "VV", "scode": "000000", "weight": 1, "position": 50, "begin": 10, "end": 11}, 
+                {"id": 10, "text": "며", "type": "EC", "scode": "000000", "weight": 1, "position": 59, "begin": 12, "end": 12}, 
+                {"id": 11, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 62, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "한반도", "type": "NNP", "scode": "000000", "weight": 1, "position": 64, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 73, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "만주", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 77, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "일대", "type": "NNG", "scode": "030000", "weight": 0.166667, "position": 84, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 90, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "호남", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 94, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "지방", "type": "NNG", "scode": "050001", "weight": 0.0909091, "position": 100, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 106, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "2", "type": "SN", "scode": "000000", "weight": 1, "position": 110, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "만", "type": "NR", "scode": "060000", "weight": 0.0416667, "position": 111, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "여", "type": "XSN", "scode": "270000", "weight": 0.027027, "position": 114, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "기", "type": "NNB", "scode": "190001", "weight": 0.0166667, "position": 118, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 121, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "비롯하", "type": "VV", "scode": "000202", "weight": 0.333333, "position": 125, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 134, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "약", "type": "MM", "scode": "030000", "weight": 0.047619, "position": 138, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "4", "type": "SN", "scode": "000000", "weight": 1, "position": 142, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "만", "type": "NR", "scode": "060000", "weight": 0.0416667, "position": 143, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "기", "type": "NNB", "scode": "190001", "weight": 0.0166667, "position": 147, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 150, "begin": 33, "end": 33}, 
+                {"id": 32, "text": "고인돌", "type": "NNG", "scode": "000000", "weight": 1, "position": 154, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 163, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "있", "type": "VA", "scode": "010301", "weight": 0.0416667, "position": 167, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 170, "begin": 37, "end": 37}, 
+                {"id": 36, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 173, "begin": 38, "end": 38}
+            ], 
+            "word": [
+                {"id": 0, "text": "청동기", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "시대의", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "대표적인", "type": "", "begin": 3, "end": 6}, 
+                {"id": 3, "text": "무덤", "type": "", "begin": 7, "end": 7}, 
+                {"id": 4, "text": "양식에", "type": "", "begin": 8, "end": 9}, 
+                {"id": 5, "text": "해당되며,", "type": "", "begin": 10, "end": 13}, 
+                {"id": 6, "text": "한반도와", "type": "", "begin": 14, "end": 15}, 
+                {"id": 7, "text": "만주", "type": "", "begin": 16, "end": 16}, 
+                {"id": 8, "text": "일대에", "type": "", "begin": 17, "end": 18}, 
+                {"id": 9, "text": "호남지방의", "type": "", "begin": 19, "end": 21}, 
+                {"id": 10, "text": "2만여", "type": "", "begin": 22, "end": 24}, 
+                {"id": 11, "text": "기를", "type": "", "begin": 25, "end": 26}, 
+                {"id": 12, "text": "비롯하여", "type": "", "begin": 27, "end": 28}, 
+                {"id": 13, "text": "약", "type": "", "begin": 29, "end": 29}, 
+                {"id": 14, "text": "4만", "type": "", "begin": 30, "end": 31}, 
+                {"id": 15, "text": "기의", "type": "", "begin": 32, "end": 33}, 
+                {"id": 16, "text": "고인돌이", "type": "", "begin": 34, "end": 35}, 
+                {"id": 17, "text": "있다.", "type": "", "begin": 36, "end": 38}
+            ], 
+            "NE": [
+                {"id": 0, "text": "청동기 시대", "type": "DT_GEOAGE", "begin": 0, "end": 1, "weight": 0.237045, "common_noun": 0}, 
+                {"id": 1, "text": "한반도", "type": "LCG_BAY", "begin": 14, "end": 14, "weight": 0.53573, "common_noun": 0}, 
+                {"id": 2, "text": "만주", "type": "LC_OTHERS", "begin": 16, "end": 16, "weight": 0.843279, "common_noun": 0}, 
+                {"id": 3, "text": "호남지방", "type": "LC_OTHERS", "begin": 19, "end": 20, "weight": 0.362124, "common_noun": 0}, 
+                {"id": 4, "text": "2만여 기", "type": "QT_COUNT", "begin": 22, "end": 25, "weight": 0.679023, "common_noun": 0}, 
+                {"id": 5, "text": "약 4만 기", "type": "QT_COUNT", "begin": 29, "end": 32, "weight": 0.630193, "common_noun": 0}, 
+                {"id": 6, "text": "고인돌", "type": "AF_CULTURAL_ASSET", "begin": 34, "end": 34, "weight": 0.432666, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "청동기", "head": 1, "label": "NP", "mod": [], "weight": 0.586835}, 
+                {"id": 1, "text": "시대의", "head": 4, "label": "NP_MOD", "mod": [0], "weight": 0.641472}, 
+                {"id": 2, "text": "대표적인", "head": 4, "label": "VNP_MOD", "mod": [], "weight": 0.683582}, 
+                {"id": 3, "text": "무덤", "head": 4, "label": "NP", "mod": [], "weight": 0.725318}, 
+                {"id": 4, "text": "양식에", "head": 5, "label": "NP_AJT", "mod": [1, 2, 3], "weight": 0.717565}, 
+                {"id": 5, "text": "해당되며,", "head": 17, "label": "VP", "mod": [4], "weight": 0.69828}, 
+                {"id": 6, "text": "한반도와", "head": 7, "label": "NP_CNJ", "mod": [], "weight": 0.690494}, 
+                {"id": 7, "text": "만주", "head": 8, "label": "NP", "mod": [6], "weight": 0.729669}, 
+                {"id": 8, "text": "일대에", "head": 17, "label": "NP_AJT", "mod": [7], "weight": 0.800487}, 
+                {"id": 9, "text": "호남지방의", "head": 11, "label": "NP_MOD", "mod": [], "weight": 0.745145}, 
+                {"id": 10, "text": "2만여", "head": 11, "label": "NP", "mod": [], "weight": 0.651974}, 
+                {"id": 11, "text": "기를", "head": 12, "label": "NP_OBJ", "mod": [9, 10], "weight": 0.884668}, 
+                {"id": 12, "text": "비롯하여", "head": 17, "label": "VP", "mod": [11], "weight": 0.851745}, 
+                {"id": 13, "text": "약", "head": 15, "label": "DP", "mod": [], "weight": 0.711453}, 
+                {"id": 14, "text": "4만", "head": 15, "label": "NP", "mod": [], "weight": 0.752197}, 
+                {"id": 15, "text": "기의", "head": 16, "label": "NP_MOD", "mod": [13, 14], "weight": 0.625196}, 
+                {"id": 16, "text": "고인돌이", "head": 17, "label": "NP_SBJ", "mod": [15], "weight": 0.716571}, 
+                {"id": 17, "text": "있다.", "head": -1, "label": "VP", "mod": [12, 16, 5, 8], "weight": 0.00245824}
+            ], 
+            "SRL": [
+                {"verb": "해당", "sense": 1, "word_id": 5, "weight": 0.149803, "argument": [
+                    {"type": "ARG2", "word_id": 4, "text": "양식에", "weight": 0.149803}
+                ]}, 
+                {"verb": "비롯하", "sense": 1, "word_id": 12, "weight": 0.344765, "argument": [
+                    {"type": "ARG2", "word_id": 11, "text": "기를", "weight": 0.344765}, 
+                    {"type": "ARGM-LOC", "word_id": 8, "text": "일대에", "weight": 1}
+                ]}, 
+                {"verb": "있", "sense": 1, "word_id": 17, "weight": 0.195138, "argument": [
+                    {"type": "ARG1", "word_id": 16, "text": "고인돌이", "weight": 0.195138}, 
+                    {"type": "ARG2", "word_id": 8, "text": "일대에", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "이는 세계 모든 고인돌 수의 절반가량에 해당된다.", 
+            "morp": [
+                {"id": 0, "lemma": "이", "type": "NP", "position": 174, "weight": 0.00185676}, 
+                {"id": 1, "lemma": "는", "type": "JX", "position": 177, "weight": 0.122593}, 
+                {"id": 2, "lemma": "세계", "type": "NNG", "position": 181, "weight": 0.9}, 
+                {"id": 3, "lemma": "모든", "type": "MM", "position": 188, "weight": 0.9}, 
+                {"id": 4, "lemma": "고인돌", "type": "NNG", "position": 195, "weight": 0.9}, 
+                {"id": 5, "lemma": "수", "type": "NNG", "position": 205, "weight": 0.00933311}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 208, "weight": 0.0694213}, 
+                {"id": 7, "lemma": "절반", "type": "NNG", "position": 212, "weight": 0.9}, 
+                {"id": 8, "lemma": "가량", "type": "XSN", "position": 218, "weight": 0.0329604}, 
+                {"id": 9, "lemma": "에", "type": "JKB", "position": 224, "weight": 0.121683}, 
+                {"id": 10, "lemma": "해당", "type": "NNG", "position": 228, "weight": 0.9}, 
+                {"id": 11, "lemma": "되", "type": "XSV", "position": 234, "weight": 0.000224177}, 
+                {"id": 12, "lemma": "ㄴ다", "type": "EF", "position": 234, "weight": 0.0449045}, 
+                {"id": 13, "lemma": ".", "type": "SF", "position": 240, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이", "type": "NP", "scode": "050002", "weight": 0.0172414, "position": 174, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 177, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "세계", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 181, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "모든", "type": "MM", "scode": "000000", "weight": 1, "position": 188, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "고인돌", "type": "NNG", "scode": "000000", "weight": 1, "position": 195, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "수", "type": "NNG", "scode": "260001", "weight": 0.02, "position": 205, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 208, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "절반", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 212, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "가량", "type": "XSN", "scode": "060000", "weight": 0.166667, "position": 218, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 224, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "해당되", "type": "VV", "scode": "000000", "weight": 1, "position": 228, "begin": 10, "end": 11}, 
+                {"id": 11, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 234, "begin": 12, "end": 12}, 
+                {"id": 12, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 240, "begin": 13, "end": 13}
+            ], 
+            "word": [
+                {"id": 0, "text": "이는", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "세계", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "모든", "type": "", "begin": 3, "end": 3}, 
+                {"id": 3, "text": "고인돌", "type": "", "begin": 4, "end": 4}, 
+                {"id": 4, "text": "수의", "type": "", "begin": 5, "end": 6}, 
+                {"id": 5, "text": "절반가량에", "type": "", "begin": 7, "end": 9}, 
+                {"id": 6, "text": "해당된다.", "type": "", "begin": 10, "end": 13}
+            ], 
+            "NE": [
+                {"id": 0, "text": "고인돌", "type": "AF_CULTURAL_ASSET", "begin": 4, "end": 4, "weight": 0.330709, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이는", "head": 6, "label": "NP_SBJ", "mod": [], "weight": 0.716714}, 
+                {"id": 1, "text": "세계", "head": 3, "label": "NP", "mod": [], "weight": 0.343124}, 
+                {"id": 2, "text": "모든", "head": 3, "label": "DP", "mod": [], "weight": 0.689308}, 
+                {"id": 3, "text": "고인돌", "head": 4, "label": "NP", "mod": [2, 1], "weight": 0.782463}, 
+                {"id": 4, "text": "수의", "head": 5, "label": "NP_MOD", "mod": [3], "weight": 0.712544}, 
+                {"id": 5, "text": "절반가량에", "head": 6, "label": "NP_AJT", "mod": [4], "weight": 0.831502}, 
+                {"id": 6, "text": "해당된다.", "head": -1, "label": "VP", "mod": [0, 5], "weight": 0.0706643}
+            ], 
+            "SRL": [
+                {"verb": "해당", "sense": 1, "word_id": 6, "weight": 0.17369, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "이는", "weight": 0.16157}, 
+                    {"type": "ARGM-EXT", "word_id": 5, "text": "절반가량에", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "전남 화순, 전북 고창 및 인천 강화의 고인돌들이 2000년 유네스코 세계문화유산에 지정되었다.", 
+            "morp": [
+                {"id": 0, "lemma": "전남", "type": "NNP", "position": 241, "weight": 0.9}, 
+                {"id": 1, "lemma": "화순", "type": "NNP", "position": 248, "weight": 0.0790404}, 
+                {"id": 2, "lemma": ",", "type": "SP", "position": 254, "weight": 1}, 
+                {"id": 3, "lemma": "전북", "type": "NNP", "position": 256, "weight": 0.122104}, 
+                {"id": 4, "lemma": "고창", "type": "NNP", "position": 263, "weight": 0.0657867}, 
+                {"id": 5, "lemma": "및", "type": "MAJ", "position": 270, "weight": 0.000742086}, 
+                {"id": 6, "lemma": "인천", "type": "NNP", "position": 274, "weight": 0.0630201}, 
+                {"id": 7, "lemma": "강화", "type": "NNP", "position": 281, "weight": 0.247859}, 
+                {"id": 8, "lemma": "의", "type": "JKG", "position": 287, "weight": 0.0694213}, 
+                {"id": 9, "lemma": "고인돌", "type": "NNG", "position": 291, "weight": 0.9}, 
+                {"id": 10, "lemma": "들", "type": "XSN", "position": 300, "weight": 0.0299841}, 
+                {"id": 11, "lemma": "이", "type": "JKS", "position": 303, "weight": 0.0731805}, 
+                {"id": 12, "lemma": "2000", "type": "SN", "position": 307, "weight": 1}, 
+                {"id": 13, "lemma": "년", "type": "NNB", "position": 311, "weight": 0.414343}, 
+                {"id": 14, "lemma": "유네스코", "type": "NNP", "position": 315, "weight": 0.0107866}, 
+                {"id": 15, "lemma": "세계", "type": "NNG", "position": 328, "weight": 0.9}, 
+                {"id": 16, "lemma": "문화", "type": "NNG", "position": 334, "weight": 0.184467}, 
+                {"id": 17, "lemma": "유산", "type": "NNG", "position": 340, "weight": 0.184496}, 
+                {"id": 18, "lemma": "에", "type": "JKB", "position": 346, "weight": 0.153364}, 
+                {"id": 19, "lemma": "지정", "type": "NNG", "position": 350, "weight": 0.9}, 
+                {"id": 20, "lemma": "되", "type": "XSV", "position": 356, "weight": 0.000224177}, 
+                {"id": 21, "lemma": "었", "type": "EP", "position": 359, "weight": 0.9}, 
+                {"id": 22, "lemma": "다", "type": "EF", "position": 362, "weight": 0.640954}, 
+                {"id": 23, "lemma": ".", "type": "SF", "position": 365, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "전남", "type": "NNP", "scode": "000000", "weight": 1, "position": 241, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "화순", "type": "NNP", "scode": "030000", "weight": 0.166667, "position": 248, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 254, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "전북", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 256, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "고창", "type": "NNP", "scode": "060000", "weight": 0.1, "position": 263, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "및", "type": "MAJ", "scode": "000000", "weight": 1, "position": 270, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "인천", "type": "NNP", "scode": "020000", "weight": 0.333333, "position": 274, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "강화", "type": "NNP", "scode": "010000", "weight": 0.125, "position": 281, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 287, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "고인돌", "type": "NNG", "scode": "000000", "weight": 1, "position": 291, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "들", "type": "XSN", "scode": "090000", "weight": 0.0909091, "position": 300, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 303, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "2000", "type": "SN", "scode": "000000", "weight": 1, "position": 307, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 311, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "유네스코", "type": "NNP", "scode": "000000", "weight": 1, "position": 315, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "세계", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 328, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "문화유산", "type": "NNG", "scode": "000000", "weight": 1, "position": 334, "begin": 16, "end": 17}, 
+                {"id": 17, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 346, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "지정되", "type": "VV", "scode": "000002", "weight": 0.5, "position": 350, "begin": 19, "end": 20}, 
+                {"id": 19, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 359, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 362, "begin": 22, "end": 22}, 
+                {"id": 21, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 365, "begin": 23, "end": 23}
+            ], 
+            "word": [
+                {"id": 0, "text": "전남", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "화순,", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "전북", "type": "", "begin": 3, "end": 3}, 
+                {"id": 3, "text": "고창", "type": "", "begin": 4, "end": 4}, 
+                {"id": 4, "text": "및", "type": "", "begin": 5, "end": 5}, 
+                {"id": 5, "text": "인천", "type": "", "begin": 6, "end": 6}, 
+                {"id": 6, "text": "강화의", "type": "", "begin": 7, "end": 8}, 
+                {"id": 7, "text": "고인돌들이", "type": "", "begin": 9, "end": 11}, 
+                {"id": 8, "text": "2000년", "type": "", "begin": 12, "end": 13}, 
+                {"id": 9, "text": "유네스코", "type": "", "begin": 14, "end": 14}, 
+                {"id": 10, "text": "세계문화유산에", "type": "", "begin": 15, "end": 18}, 
+                {"id": 11, "text": "지정되었다.", "type": "", "begin": 19, "end": 23}
+            ], 
+            "NE": [
+                {"id": 0, "text": "전남", "type": "LCP_PROVINCE", "begin": 0, "end": 0, "weight": 0.397002, "common_noun": 0}, 
+                {"id": 1, "text": "화순", "type": "LCP_COUNTY", "begin": 1, "end": 1, "weight": 0.355915, "common_noun": 0}, 
+                {"id": 2, "text": "전북", "type": "LCP_PROVINCE", "begin": 3, "end": 3, "weight": 0.453573, "common_noun": 0}, 
+                {"id": 3, "text": "고창", "type": "LCP_COUNTY", "begin": 4, "end": 4, "weight": 0.448332, "common_noun": 0}, 
+                {"id": 4, "text": "인천", "type": "LCP_CITY", "begin": 6, "end": 6, "weight": 0.597603, "common_noun": 0}, 
+                {"id": 5, "text": "강화", "type": "LCP_COUNTY", "begin": 7, "end": 7, "weight": 0.204885, "common_noun": 0}, 
+                {"id": 6, "text": "고인돌", "type": "AF_CULTURAL_ASSET", "begin": 9, "end": 9, "weight": 0.330709, "common_noun": 0}, 
+                {"id": 7, "text": "2000년", "type": "DT_YEAR", "begin": 12, "end": 13, "weight": 0.768156, "common_noun": 0}, 
+                {"id": 8, "text": "유네스코", "type": "OG_OTHERS", "begin": 14, "end": 14, "weight": 0.37356, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "전남", "head": 1, "label": "NP", "mod": [], "weight": 0.574795}, 
+                {"id": 1, "text": "화순,", "head": 6, "label": "NP_CNJ", "mod": [0], "weight": 0.538614}, 
+                {"id": 2, "text": "전북", "head": 3, "label": "NP", "mod": [], "weight": 0.417368}, 
+                {"id": 3, "text": "고창", "head": 6, "label": "NP_CNJ", "mod": [2], "weight": 0.0286557}, 
+                {"id": 4, "text": "및", "head": 6, "label": "AP", "mod": [], "weight": 0.338054}, 
+                {"id": 5, "text": "인천", "head": 6, "label": "NP", "mod": [], "weight": 0.783976}, 
+                {"id": 6, "text": "강화의", "head": 7, "label": "NP_MOD", "mod": [1, 3, 4, 5], "weight": 0.635682}, 
+                {"id": 7, "text": "고인돌들이", "head": 11, "label": "NP_SBJ", "mod": [6], "weight": 0.849248}, 
+                {"id": 8, "text": "2000년", "head": 11, "label": "NP_AJT", "mod": [], "weight": 0.714134}, 
+                {"id": 9, "text": "유네스코", "head": 10, "label": "NP", "mod": [], "weight": 0.787609}, 
+                {"id": 10, "text": "세계문화유산에", "head": 11, "label": "NP_AJT", "mod": [9], "weight": 0.793246}, 
+                {"id": 11, "text": "지정되었다.", "head": -1, "label": "VP", "mod": [7, 8, 10], "weight": 0.000213279}
+            ], 
+            "SRL": [
+                {"verb": "지정", "sense": 1, "word_id": 11, "weight": 0.188653, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "고인돌들이", "weight": 0.0941301}, 
+                    {"type": "ARGM-TMP", "word_id": 8, "text": "2000년", "weight": 0.243878}, 
+                    {"type": "ARG2", "word_id": 10, "text": "세계문화유산에", "weight": 0.227952}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "청동기 시대의 대표적인 무덤 양식에", "start_eid_short": 3, "end_eid_short": 4, "text_short": "무덤 양식에"}
+        ]}, 
+        {"id": 1, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "청동기 시대의", "start_eid_short": 0, "end_eid_short": 1, "text_short": "청동기 시대의"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "무덤", "start_eid_short": 3, "end_eid_short": 3, "text_short": "무덤"}
+        ]}, 
+        {"id": 3, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 2, "text": "만주", "start_eid_short": 7, "end_eid_short": 7, "text_short": "만주"}
+        ]}, 
+        {"id": 4, "type": "LCG_BAY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": 1, "text": "한반도와", "start_eid_short": 6, "end_eid_short": 6, "text_short": "한반도와"}
+        ]}, 
+        {"id": 5, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 6, "end_eid": 8, "ne_id": -1, "text": "한반도와 만주 일대에", "start_eid_short": 7, "end_eid_short": 8, "text_short": "만주 일대에"}
+        ]}, 
+        {"id": 6, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 9, "end_eid": 11, "ne_id": 4, "text": "호남지방의 2만여 기를", "start_eid_short": 10, "end_eid_short": 11, "text_short": "2만여 기를"}
+        ]}, 
+        {"id": 7, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 9, "end_eid": 9, "ne_id": 3, "text": "호남지방의", "start_eid_short": 9, "end_eid_short": 9, "text_short": "호남지방의"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 6, "end_eid": 16, "ne_id": -1, "text": "한반도와 만주 일대에 호남지방의 2만여 기를 비롯하여 약 4만 기의 고인돌이", "start_eid_short": 16, "end_eid_short": 16, "text_short": "고인돌이"}, 
+            {"id": 10, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "이는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "이는"}, 
+            {"id": 11, "sent_id": 1, "start_eid": 1, "end_eid": 5, "ne_id": -1, "text": "세계 모든 고인돌 수의 절반가량에", "start_eid_short": 5, "end_eid_short": 5, "text_short": "절반가량에"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "세계", "start_eid_short": 1, "end_eid_short": 1, "text_short": "세계"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 1, "end_eid": 4, "ne_id": -1, "text": "세계 모든 고인돌 수의", "start_eid_short": 3, "end_eid_short": 4, "text_short": "고인돌 수의"}
+        ]}, 
+        {"id": 11, "type": "LCP_PROVINCE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 17, "sent_id": 2, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "전남", "start_eid_short": 0, "end_eid_short": 0, "text_short": "전남"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 2, "start_eid": 5, "end_eid": 6, "ne_id": -1, "text": "인천 강화의", "start_eid_short": 5, "end_eid_short": 6, "text_short": "인천 강화의"}
+        ]}, 
+        {"id": 13, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 16, "sent_id": 2, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "전남 화순,", "start_eid_short": 0, "end_eid_short": 1, "text_short": "전남 화순,"}
+        ]}, 
+        {"id": 14, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 18, "sent_id": 2, "start_eid": 2, "end_eid": 3, "ne_id": 3, "text": "전북 고창", "start_eid_short": 2, "end_eid_short": 3, "text_short": "전북 고창"}
+        ]}, 
+        {"id": 15, "type": "LCP_PROVINCE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 19, "sent_id": 2, "start_eid": 2, "end_eid": 2, "ne_id": 2, "text": "전북", "start_eid_short": 2, "end_eid_short": 2, "text_short": "전북"}
+        ]}, 
+        {"id": 16, "type": "LCP_CITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 21, "sent_id": 2, "start_eid": 5, "end_eid": 5, "ne_id": 4, "text": "인천", "start_eid_short": 5, "end_eid_short": 5, "text_short": "인천"}
+        ]}, 
+        {"id": 17, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 2, "start_eid": 0, "end_eid": 7, "ne_id": -1, "text": "전남 화순, 전북 고창 및 인천 강화의 고인돌들이", "start_eid_short": 7, "end_eid_short": 7, "text_short": "고인돌들이"}, 
+            {"id": 22, "sent_id": 2, "start_eid": 8, "end_eid": 10, "ne_id": -1, "text": "2000년 유네스코 세계문화유산에", "start_eid_short": 8, "end_eid_short": 10, "text_short": "2000년 유네스코 세계문화유산에"}
+        ]}, 
+        {"id": 18, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 23, "sent_id": 2, "start_eid": 8, "end_eid": 8, "ne_id": 5, "text": "2000년", "start_eid_short": 8, "end_eid_short": 8, "text_short": "2000년"}
+        ]}, 
+        {"id": 19, "type": "OG_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 24, "sent_id": 2, "start_eid": 9, "end_eid": 9, "ne_id": 6, "text": "유네스코", "start_eid_short": 9, "end_eid_short": 9, "text_short": "유네스코"}
+        ]}, 
+        {"id": 20, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 13, "end_eid": 15, "ne_id": 5, "text": "약 4만 기의", "start_eid_short": 13, "end_eid_short": 15, "text_short": "약 4만 기의"}
+        ]}, 
+        {"id": 21, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 1, "end_eid": 3, "ne_id": -1, "text": "세계 모든 고인돌", "start_eid_short": 3, "end_eid_short": 3, "text_short": "고인돌"}
+        ]}
+    ]
+}

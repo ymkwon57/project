@@ -1,0 +1,319 @@
+{
+    "doc_id": "E2016.835.27_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "프랑스 혁명 이전 절대 군주가 소수의 성직자, 귀족 등과 결탁해 인구의 대부분을 차지하는 농민과 시민을 억압한 사회제도를 뜻하는 말이다.", 
+            "morp": [
+                {"id": 0, "lemma": "프랑스", "type": "NNP", "position": 0, "weight": 0.0892825}, 
+                {"id": 1, "lemma": "혁명", "type": "NNG", "position": 10, "weight": 0.9}, 
+                {"id": 2, "lemma": "이전", "type": "NNG", "position": 17, "weight": 0.184386}, 
+                {"id": 3, "lemma": "절대", "type": "MAG", "position": 24, "weight": 0.00206752}, 
+                {"id": 4, "lemma": "군주", "type": "NNG", "position": 31, "weight": 0.9}, 
+                {"id": 5, "lemma": "가", "type": "JKS", "position": 37, "weight": 0.066324}, 
+                {"id": 6, "lemma": "소수", "type": "NNG", "position": 41, "weight": 0.207505}, 
+                {"id": 7, "lemma": "의", "type": "JKG", "position": 47, "weight": 0.0694213}, 
+                {"id": 8, "lemma": "성직", "type": "NNG", "position": 51, "weight": 0.9}, 
+                {"id": 9, "lemma": "자", "type": "XSN", "position": 57, "weight": 0.00398741}, 
+                {"id": 10, "lemma": ",", "type": "SP", "position": 60, "weight": 1}, 
+                {"id": 11, "lemma": "귀족", "type": "NNG", "position": 62, "weight": 0.9}, 
+                {"id": 12, "lemma": "등", "type": "NNB", "position": 69, "weight": 0.0146757}, 
+                {"id": 13, "lemma": "과", "type": "JKB", "position": 72, "weight": 0.0444681}, 
+                {"id": 14, "lemma": "결탁", "type": "NNG", "position": 76, "weight": 0.9}, 
+                {"id": 15, "lemma": "하", "type": "XSV", "position": 82, "weight": 0.0001}, 
+                {"id": 16, "lemma": "아", "type": "EC", "position": 82, "weight": 0.361326}, 
+                {"id": 17, "lemma": "인구", "type": "NNG", "position": 86, "weight": 0.218515}, 
+                {"id": 18, "lemma": "의", "type": "JKG", "position": 92, "weight": 0.0694213}, 
+                {"id": 19, "lemma": "대", "type": "XPN", "position": 96, "weight": 0.000258754}, 
+                {"id": 20, "lemma": "부분", "type": "NNG", "position": 99, "weight": 0.9}, 
+                {"id": 21, "lemma": "을", "type": "JKO", "position": 105, "weight": 0.129611}, 
+                {"id": 22, "lemma": "차지", "type": "NNG", "position": 109, "weight": 0.0446654}, 
+                {"id": 23, "lemma": "하", "type": "XSV", "position": 115, "weight": 0.0001}, 
+                {"id": 24, "lemma": "는", "type": "ETM", "position": 118, "weight": 0.238503}, 
+                {"id": 25, "lemma": "농민", "type": "NNG", "position": 122, "weight": 0.9}, 
+                {"id": 26, "lemma": "과", "type": "JC", "position": 128, "weight": 0.017569}, 
+                {"id": 27, "lemma": "시민", "type": "NNG", "position": 132, "weight": 0.9}, 
+                {"id": 28, "lemma": "을", "type": "JKO", "position": 138, "weight": 0.129611}, 
+                {"id": 29, "lemma": "억압", "type": "NNG", "position": 142, "weight": 0.9}, 
+                {"id": 30, "lemma": "하", "type": "XSV", "position": 148, "weight": 0.0001}, 
+                {"id": 31, "lemma": "ㄴ", "type": "ETM", "position": 148, "weight": 0.392321}, 
+                {"id": 32, "lemma": "사회", "type": "NNG", "position": 152, "weight": 0.65872}, 
+                {"id": 33, "lemma": "제도", "type": "NNG", "position": 158, "weight": 0.9}, 
+                {"id": 34, "lemma": "를", "type": "JKO", "position": 164, "weight": 0.137686}, 
+                {"id": 35, "lemma": "뜻", "type": "NNG", "position": 168, "weight": 0.9}, 
+                {"id": 36, "lemma": "하", "type": "XSV", "position": 171, "weight": 0.0001}, 
+                {"id": 37, "lemma": "는", "type": "ETM", "position": 174, "weight": 0.238503}, 
+                {"id": 38, "lemma": "말", "type": "NNG", "position": 178, "weight": 0.528926}, 
+                {"id": 39, "lemma": "이", "type": "VCP", "position": 181, "weight": 0.0177525}, 
+                {"id": 40, "lemma": "다", "type": "EF", "position": 184, "weight": 0.353579}, 
+                {"id": 41, "lemma": ".", "type": "SF", "position": 187, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "프랑스", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "혁명", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 10, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "이전", "type": "NNG", "scode": "030002", "weight": 0.0714286, "position": 17, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "절대", "type": "MAG", "scode": "050002", "weight": 0.111111, "position": 24, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "군주", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 31, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 37, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "소수", "type": "NNG", "scode": "080000", "weight": 0.05, "position": 41, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 47, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "성직자", "type": "NNG", "scode": "000000", "weight": 1, "position": 51, "begin": 8, "end": 9}, 
+                {"id": 9, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 60, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "귀족", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 62, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 69, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "과", "type": "JKB", "scode": "000000", "weight": 1, "position": 72, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "결탁하", "type": "VV", "scode": "000002", "weight": 0.5, "position": 76, "begin": 14, "end": 15}, 
+                {"id": 14, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 82, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "인구", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 86, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 92, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "대부분", "type": "NNG", "scode": "000000", "weight": 1, "position": 96, "begin": 19, "end": 20}, 
+                {"id": 18, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 105, "begin": 21, "end": 21}, 
+                {"id": 19, "text": "차지하", "type": "VV", "scode": "010001", "weight": 0.25, "position": 109, "begin": 22, "end": 23}, 
+                {"id": 20, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 118, "begin": 24, "end": 24}, 
+                {"id": 21, "text": "농민", "type": "NNG", "scode": "000000", "weight": 1, "position": 122, "begin": 25, "end": 25}, 
+                {"id": 22, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 128, "begin": 26, "end": 26}, 
+                {"id": 23, "text": "시민", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 132, "begin": 27, "end": 27}, 
+                {"id": 24, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 138, "begin": 28, "end": 28}, 
+                {"id": 25, "text": "억압하", "type": "VV", "scode": "000001", "weight": 0.333333, "position": 142, "begin": 29, "end": 30}, 
+                {"id": 26, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 148, "begin": 31, "end": 31}, 
+                {"id": 27, "text": "사회제도", "type": "NNG", "scode": "000000", "weight": 1, "position": 152, "begin": 32, "end": 33}, 
+                {"id": 28, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 164, "begin": 34, "end": 34}, 
+                {"id": 29, "text": "뜻하", "type": "VV", "scode": "000200", "weight": 0.333333, "position": 168, "begin": 35, "end": 36}, 
+                {"id": 30, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 174, "begin": 37, "end": 37}, 
+                {"id": 31, "text": "말", "type": "NNG", "scode": "010004", "weight": 0.0384615, "position": 178, "begin": 38, "end": 38}, 
+                {"id": 32, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 181, "begin": 39, "end": 39}, 
+                {"id": 33, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 184, "begin": 40, "end": 40}, 
+                {"id": 34, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 187, "begin": 41, "end": 41}
+            ], 
+            "word": [
+                {"id": 0, "text": "프랑스", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "혁명", "type": "", "begin": 1, "end": 1}, 
+                {"id": 2, "text": "이전", "type": "", "begin": 2, "end": 2}, 
+                {"id": 3, "text": "절대", "type": "", "begin": 3, "end": 3}, 
+                {"id": 4, "text": "군주가", "type": "", "begin": 4, "end": 5}, 
+                {"id": 5, "text": "소수의", "type": "", "begin": 6, "end": 7}, 
+                {"id": 6, "text": "성직자,", "type": "", "begin": 8, "end": 10}, 
+                {"id": 7, "text": "귀족", "type": "", "begin": 11, "end": 11}, 
+                {"id": 8, "text": "등과", "type": "", "begin": 12, "end": 13}, 
+                {"id": 9, "text": "결탁해", "type": "", "begin": 14, "end": 16}, 
+                {"id": 10, "text": "인구의", "type": "", "begin": 17, "end": 18}, 
+                {"id": 11, "text": "대부분을", "type": "", "begin": 19, "end": 21}, 
+                {"id": 12, "text": "차지하는", "type": "", "begin": 22, "end": 24}, 
+                {"id": 13, "text": "농민과", "type": "", "begin": 25, "end": 26}, 
+                {"id": 14, "text": "시민을", "type": "", "begin": 27, "end": 28}, 
+                {"id": 15, "text": "억압한", "type": "", "begin": 29, "end": 31}, 
+                {"id": 16, "text": "사회제도를", "type": "", "begin": 32, "end": 34}, 
+                {"id": 17, "text": "뜻하는", "type": "", "begin": 35, "end": 37}, 
+                {"id": 18, "text": "말이다.", "type": "", "begin": 38, "end": 41}
+            ], 
+            "NE": [
+                {"id": 0, "text": "프랑스 혁명", "type": "EV_WAR_REVOLUTION", "begin": 0, "end": 1, "weight": 0.715339, "common_noun": 0}, 
+                {"id": 1, "text": "군주", "type": "CV_POSITION", "begin": 4, "end": 4, "weight": 0.449331, "common_noun": 0}, 
+                {"id": 2, "text": "성직자", "type": "CV_OCCUPATION", "begin": 8, "end": 9, "weight": 0.915062, "common_noun": 0}, 
+                {"id": 3, "text": "귀족", "type": "CV_POSITION", "begin": 11, "end": 11, "weight": 0.503658, "common_noun": 0}, 
+                {"id": 4, "text": "농민", "type": "CV_OCCUPATION", "begin": 25, "end": 25, "weight": 0.574682, "common_noun": 0}, 
+                {"id": 5, "text": "시민", "type": "CV_POSITION", "begin": 27, "end": 27, "weight": 0.523634, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "프랑스", "head": 1, "label": "NP", "mod": [], "weight": 0.594634}, 
+                {"id": 1, "text": "혁명", "head": 2, "label": "NP", "mod": [0], "weight": 0.671717}, 
+                {"id": 2, "text": "이전", "head": 9, "label": "NP_AJT", "mod": [1], "weight": 0.0781883}, 
+                {"id": 3, "text": "절대", "head": 4, "label": "NP", "mod": [], "weight": 0.464631}, 
+                {"id": 4, "text": "군주가", "head": 9, "label": "NP_SBJ", "mod": [3], "weight": 0.695825}, 
+                {"id": 5, "text": "소수의", "head": 6, "label": "NP_MOD", "mod": [], "weight": 0.310713}, 
+                {"id": 6, "text": "성직자,", "head": 7, "label": "NP_CNJ", "mod": [5], "weight": 0.561148}, 
+                {"id": 7, "text": "귀족", "head": 8, "label": "NP", "mod": [6], "weight": 0.613555}, 
+                {"id": 8, "text": "등과", "head": 9, "label": "NP_AJT", "mod": [7], "weight": 0.772721}, 
+                {"id": 9, "text": "결탁해", "head": 15, "label": "VP", "mod": [4, 8, 2], "weight": 0.074544}, 
+                {"id": 10, "text": "인구의", "head": 11, "label": "NP_MOD", "mod": [], "weight": 0.673186}, 
+                {"id": 11, "text": "대부분을", "head": 12, "label": "NP_OBJ", "mod": [10], "weight": 0.675334}, 
+                {"id": 12, "text": "차지하는", "head": 14, "label": "VP_MOD", "mod": [11], "weight": 0.310007}, 
+                {"id": 13, "text": "농민과", "head": 14, "label": "NP_CNJ", "mod": [], "weight": 0.101955}, 
+                {"id": 14, "text": "시민을", "head": 15, "label": "NP_OBJ", "mod": [12, 13], "weight": 0.504131}, 
+                {"id": 15, "text": "억압한", "head": 16, "label": "VP_MOD", "mod": [14, 9], "weight": 0.787256}, 
+                {"id": 16, "text": "사회제도를", "head": 17, "label": "NP_OBJ", "mod": [15], "weight": 0.659757}, 
+                {"id": 17, "text": "뜻하는", "head": 18, "label": "VP_MOD", "mod": [16], "weight": 0.833656}, 
+                {"id": 18, "text": "말이다.", "head": -1, "label": "VNP", "mod": [17], "weight": 1.68986e-07}
+            ], 
+            "SRL": [
+                {"verb": "결탁", "sense": 1, "word_id": 9, "weight": 0.174115, "argument": [
+                    {"type": "ARG0", "word_id": 4, "text": "군주가", "weight": 0.235556}, 
+                    {"type": "ARG1", "word_id": 8, "text": "등과", "weight": 0.112674}, 
+                    {"type": "ARGM-TMP", "word_id": 2, "text": "이전", "weight": 1}
+                ]}, 
+                {"verb": "차지", "sense": 1, "word_id": 12, "weight": 0.187928, "argument": [
+                    {"type": "ARG1", "word_id": 11, "text": "대부분을", "weight": 0.306499}, 
+                    {"type": "ARG0", "word_id": 14, "text": "시민을", "weight": 0.152265}
+                ]}, 
+                {"verb": "억압", "sense": 1, "word_id": 15, "weight": 0.17501, "argument": [
+                    {"type": "ARG1", "word_id": 14, "text": "시민을", "weight": 0.256116}, 
+                    {"type": "ARG0", "word_id": 16, "text": "사회제도를", "weight": 1}, 
+                    {"type": "ARGM-MNR", "word_id": 9, "text": "결탁해", "weight": 1}
+                ]}, 
+                {"verb": "뜻하", "sense": 1, "word_id": 17, "weight": 0, "argument": [
+                    {"type": "ARG2", "word_id": 16, "text": "사회제도를", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 18, "text": "말이다.", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "왕권신수설에 바탕을 둔 절대왕정 체제를 가리키는 5음절의 이 용어는?", 
+            "morp": [
+                {"id": 0, "lemma": "왕권", "type": "NNG", "position": 188, "weight": 0.9}, 
+                {"id": 1, "lemma": "신수", "type": "NNG", "position": 194, "weight": 0.178316}, 
+                {"id": 2, "lemma": "설", "type": "XSN", "position": 200, "weight": 0.0177073}, 
+                {"id": 3, "lemma": "에", "type": "JKB", "position": 203, "weight": 0.121683}, 
+                {"id": 4, "lemma": "바탕", "type": "NNG", "position": 207, "weight": 0.20759}, 
+                {"id": 5, "lemma": "을", "type": "JKO", "position": 213, "weight": 0.129611}, 
+                {"id": 6, "lemma": "두", "type": "VV", "position": 217, "weight": 0.192556}, 
+                {"id": 7, "lemma": "ㄴ", "type": "ETM", "position": 217, "weight": 0.304215}, 
+                {"id": 8, "lemma": "절대", "type": "NNG", "position": 221, "weight": 0.390635}, 
+                {"id": 9, "lemma": "왕정", "type": "NNG", "position": 227, "weight": 0.182308}, 
+                {"id": 10, "lemma": "체제", "type": "NNG", "position": 234, "weight": 0.9}, 
+                {"id": 11, "lemma": "를", "type": "JKO", "position": 240, "weight": 0.137686}, 
+                {"id": 12, "lemma": "가리키", "type": "VV", "position": 244, "weight": 0.9}, 
+                {"id": 13, "lemma": "는", "type": "ETM", "position": 253, "weight": 0.184941}, 
+                {"id": 14, "lemma": "5", "type": "SN", "position": 257, "weight": 1}, 
+                {"id": 15, "lemma": "음절", "type": "NNG", "position": 258, "weight": 0.9}, 
+                {"id": 16, "lemma": "의", "type": "JKG", "position": 264, "weight": 0.0694213}, 
+                {"id": 17, "lemma": "이", "type": "MM", "position": 268, "weight": 0.00105968}, 
+                {"id": 18, "lemma": "용어", "type": "NNG", "position": 272, "weight": 0.9}, 
+                {"id": 19, "lemma": "는", "type": "JX", "position": 278, "weight": 0.0287565}, 
+                {"id": 20, "lemma": "?", "type": "SF", "position": 281, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "왕권신수설", "type": "NNG", "scode": "000000", "weight": 1, "position": 188, "begin": 0, "end": 2}, 
+                {"id": 1, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 203, "begin": 3, "end": 3}, 
+                {"id": 2, "text": "바탕", "type": "NNG", "scode": "010002", "weight": 0.142857, "position": 207, "begin": 4, "end": 4}, 
+                {"id": 3, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 213, "begin": 5, "end": 5}, 
+                {"id": 4, "text": "두", "type": "VV", "scode": "010109", "weight": 0.037037, "position": 217, "begin": 6, "end": 6}, 
+                {"id": 5, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 217, "begin": 7, "end": 7}, 
+                {"id": 6, "text": "절대왕정", "type": "NNG", "scode": "000000", "weight": 1, "position": 221, "begin": 8, "end": 9}, 
+                {"id": 7, "text": "체제", "type": "NNG", "scode": "020002", "weight": 0.166667, "position": 234, "begin": 10, "end": 10}, 
+                {"id": 8, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 240, "begin": 11, "end": 11}, 
+                {"id": 9, "text": "가리키", "type": "VV", "scode": "010002", "weight": 0.333333, "position": 244, "begin": 12, "end": 12}, 
+                {"id": 10, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 253, "begin": 13, "end": 13}, 
+                {"id": 11, "text": "5", "type": "SN", "scode": "000000", "weight": 1, "position": 257, "begin": 14, "end": 14}, 
+                {"id": 12, "text": "음절", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 258, "begin": 15, "end": 15}, 
+                {"id": 13, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 264, "begin": 16, "end": 16}, 
+                {"id": 14, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 268, "begin": 17, "end": 17}, 
+                {"id": 15, "text": "용어", "type": "NNG", "scode": "020000", "weight": 0.2, "position": 272, "begin": 18, "end": 18}, 
+                {"id": 16, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 278, "begin": 19, "end": 19}, 
+                {"id": 17, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 281, "begin": 20, "end": 20}
+            ], 
+            "word": [
+                {"id": 0, "text": "왕권신수설에", "type": "", "begin": 0, "end": 3}, 
+                {"id": 1, "text": "바탕을", "type": "", "begin": 4, "end": 5}, 
+                {"id": 2, "text": "둔", "type": "", "begin": 6, "end": 7}, 
+                {"id": 3, "text": "절대왕정", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "체제를", "type": "", "begin": 10, "end": 11}, 
+                {"id": 5, "text": "가리키는", "type": "", "begin": 12, "end": 13}, 
+                {"id": 6, "text": "5음절의", "type": "", "begin": 14, "end": 16}, 
+                {"id": 7, "text": "이", "type": "", "begin": 17, "end": 17}, 
+                {"id": 8, "text": "용어는?", "type": "", "begin": 18, "end": 20}
+            ], 
+            "NE": [
+                {"id": 0, "text": "왕권신수설", "type": "TR_SOCIAL_SCIENCE", "begin": 0, "end": 2, "weight": 0.672198, "common_noun": 0}, 
+                {"id": 1, "text": "5음절", "type": "QT_COUNT", "begin": 14, "end": 15, "weight": 0.508736, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "왕권신수설에", "head": 2, "label": "NP_AJT", "mod": [], "weight": 0.712188}, 
+                {"id": 1, "text": "바탕을", "head": 2, "label": "NP_OBJ", "mod": [], "weight": 0.669805}, 
+                {"id": 2, "text": "둔", "head": 4, "label": "VP_MOD", "mod": [0, 1], "weight": 0.66834}, 
+                {"id": 3, "text": "절대왕정", "head": 4, "label": "NP", "mod": [], "weight": 0.528564}, 
+                {"id": 4, "text": "체제를", "head": 5, "label": "NP_OBJ", "mod": [2, 3], "weight": 0.821169}, 
+                {"id": 5, "text": "가리키는", "head": 8, "label": "VP_MOD", "mod": [4], "weight": 0.301126}, 
+                {"id": 6, "text": "5음절의", "head": 8, "label": "NP_MOD", "mod": [], "weight": 0.646027}, 
+                {"id": 7, "text": "이", "head": 8, "label": "DP", "mod": [], "weight": 0.666668}, 
+                {"id": 8, "text": "용어는?", "head": -1, "label": "NP", "mod": [6, 7, 5], "weight": 0.00865007}
+            ], 
+            "SRL": [
+                {"verb": "두", "sense": 1, "word_id": 2, "weight": 0.233802, "argument": [
+                    {"type": "ARG2", "word_id": 0, "text": "왕권신수설에", "weight": 0.199038}, 
+                    {"type": "ARG1", "word_id": 1, "text": "바탕을", "weight": 0.268567}, 
+                    {"type": "ARG0", "word_id": 4, "text": "체제를", "weight": 1}
+                ]}, 
+                {"verb": "가리키", "sense": 1, "word_id": 5, "weight": 0.168977, "argument": [
+                    {"type": "ARG1", "word_id": 4, "text": "체제를", "weight": 0.223697}, 
+                    {"type": "ARG0", "word_id": 8, "text": "용어는?", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "EV_WAR_REVOLUTION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "프랑스 혁명", "start_eid_short": 0, "end_eid_short": 1, "text_short": "프랑스 혁명"}
+        ]}, 
+        {"id": 1, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 3, "end_eid": 4, "ne_id": 1, "text": "절대 군주가", "start_eid_short": 3, "end_eid_short": 4, "text_short": "절대 군주가"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "소수의", "start_eid_short": 5, "end_eid_short": 5, "text_short": "소수의"}
+        ]}, 
+        {"id": 3, "type": "CV_OCCUPATION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": 2, "text": "성직자,", "start_eid_short": 6, "end_eid_short": 6, "text_short": "성직자,"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 10, "end_eid": 16, "ne_id": -1, "text": "인구의 대부분을 차지하는 농민과 시민을 억압한 사회제도를", "start_eid_short": 16, "end_eid_short": 16, "text_short": "사회제도를"}
+        ]}, 
+        {"id": 5, "type": "CV_POSITION", "number": "plural", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 10, "end_eid": 14, "ne_id": 5, "text": "인구의 대부분을 차지하는 농민과 시민을", "start_eid_short": 14, "end_eid_short": 14, "text_short": "시민을"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 10, "end_eid": 11, "ne_id": -1, "text": "인구의 대부분을", "start_eid_short": 11, "end_eid_short": 11, "text_short": "대부분을"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 10, "end_eid": 10, "ne_id": -1, "text": "인구의", "start_eid_short": 10, "end_eid_short": 10, "text_short": "인구의"}
+        ]}, 
+        {"id": 8, "type": "TR_SOCIAL_SCIENCE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "왕권신수설에", "start_eid_short": 0, "end_eid_short": 0, "text_short": "왕권신수설에"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "바탕을", "start_eid_short": 1, "end_eid_short": 1, "text_short": "바탕을"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 1, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "절대왕정", "start_eid_short": 3, "end_eid_short": 3, "text_short": "절대왕정"}
+        ]}, 
+        {"id": 11, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 6, "end_eid": 6, "ne_id": 1, "text": "5음절의", "start_eid_short": 6, "end_eid_short": 6, "text_short": "5음절의"}
+        ]}, 
+        {"id": 12, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 5, "end_eid": 8, "ne_id": 3, "text": "소수의 성직자, 귀족 등과", "start_eid_short": 7, "end_eid_short": 8, "text_short": "귀족 등과"}
+        ]}, 
+        {"id": 13, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 3, "text": "귀족", "start_eid_short": 7, "end_eid_short": 7, "text_short": "귀족"}
+        ]}, 
+        {"id": 14, "type": "CV_OCCUPATION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 0, "start_eid": 13, "end_eid": 13, "ne_id": 4, "text": "농민과", "start_eid_short": 13, "end_eid_short": 13, "text_short": "농민과"}
+        ]}, 
+        {"id": 15, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 12, "sent_id": 0, "start_eid": 14, "end_eid": 14, "ne_id": 5, "text": "시민을", "start_eid_short": 14, "end_eid_short": 14, "text_short": "시민을"}
+        ]}, 
+        {"id": 16, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 18, "ne_id": -1, "text": "프랑스 혁명 이전 절대 군주가 소수의 성직자, 귀족 등과 결탁해 인구의 대부분을 차지하는 농민과 시민을 억압한 사회제도를 뜻하는 말이다.", "start_eid_short": 18, "end_eid_short": 18, "text_short": "말이다."}, 
+            {"id": 13, "sent_id": 1, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "왕권신수설에 바탕을 둔 절대왕정 체제를", "start_eid_short": 3, "end_eid_short": 4, "text_short": "절대왕정 체제를"}, 
+            {"id": 18, "sent_id": 1, "start_eid": 7, "end_eid": 8, "ne_id": -1, "text": "이 용어는?", "start_eid_short": 8, "end_eid_short": 8, "text_short": "용어는?"}
+        ]}
+    ]
+}

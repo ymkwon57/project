@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+오세아니아 대륙은 호주를 비롯한 주변 섬나라들을 말한다. 호주가 워낙 커서 대륙으로 분류된다. “오세아니아”는 대양이라는 뜻을 가지고 있으며 6대륙의 하나로 대양주라고도 한다. 넓은 뜻으로는 오스트레일리아, 뉴질랜드, 멜라네시아, 미크로네시아, 폴리네시아를 포함한다. 호주 대륙은 해안선의 길이가 36,735킬로미터나 되는 광대한 섬이다. 오스트레일리아, 오스트레일리아-뉴기니(Australia-New Guinea), 또는 사훌(Sahul), 메가네시아(Meganesia)는 오스트레일리아 본토와 뉴기니 섬, 태즈메이니아 섬 및 주변 섬으로 이뤄진 대륙을 말한다.
+프톨레마이오스의 세계지도에는 오스트레일리아 대륙이 인도양의 남쪽에 있는 ‘미지의 대륙’이라고 기록되어 있다. 유럽인이 실제로 이 대륙에 들어온 것은 17세기부터이다.
+오스트레일리아의 캥거루와 오리너구리는 다른 대륙에서는 멸종되었다. 오세아니아의 여러 섬에는 파충류가 서식하지 않고 있음이 특색이다.
+호주는 대륙 전체를 영토로 하는 유일한 국가다. 760만㎢에 달하는 내륙은 세계에서 가장 큰 섬이고, 지구에서 가장 작은 대륙이다. 또한 호주 대륙은 평균 해발고도가 330m 밖에 안 된다.
+
+원래부터 오스트레일리아(호주)의 상당수 지역, 특히 중부 지역은 1년 중 전혀 또는 거의 비가 내리지 않는 지대이다. 비가 내리지 않다보니 자연스레 땅이 메말라 갈 수 밖에 없다. 헌데, 이런 기후 조건만이 그 엄청난 넓이의 사막이 있게 한 요인은 아니다.
+19세기 들어서 호주 대륙이 본격적으로 개발되기 시작하면서 소와 양 같은 가축의 숫자도 엄청난 속도로 불어났습니다. 수적으로 따져보니 사람숫자보다 소와 양의 숫자가 몇 배는 더 많을 정도이다.
+근데, 이중 양은 그래도 덜한데, 소의 경우 하루에 먹고 마시는 풀과 물의 양이 엄청난 게 문제였다. 한 마리의 소가 몇 사람분의 물을 마셔대니 안 그래도 물이 풍족하다고는 할수 없는 호주 대륙의 물 문제가 더 심각해진 것이다. 소들이 뜯어먹는 엄청난 양의 목초 때문에 초원은 점점 황폐해져가고 메말라가고, 결국 상당수 초원이 사막으로 변했다.
+현재 호주 대륙에 있는 사막 지역 중 일부는 이런 과도한 방목 행위로 인한 환경 파괴의 산물입니다. 북아메리카 대륙도 마찬가지인터라 미국 내 사막 면적 중 1/3 가량은 최근 300여년 사이에 형성된 거라고 할 정도다.
+유감스럽게도 현재 전 세계적으로 사막화 현상이 급격히 진행 중이다. 그나마 호주대륙의 경우 최근엔 방목 행위를 다소 자제하고 환경보호 위주 정책을 펴는 등 사막화 현상을 막기 위한 노력이 잘 진행되고 있습니다만 다른 국가들은 더 많은 관심과 노력이 필요한 실정이다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl2" start="11" end="13" text="호주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="22" end="25" text="섬나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="33" end="35" text="호주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="43" end="45" text="대륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="55" end="60" text="오세아니아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="89" end="92" text="대양주" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="108" end="115" text="오스트레일리아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="117" end="121" text="뉴질랜드" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="123" end="128" text="멜라네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="130" end="136" text="미크로네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="138" end="143" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="186" end="187" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="광대한" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="191" end="198" text="오스트레일리아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="200" end="211" text="오스트레일리아-뉴기니" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="238" end="240" text="사훌" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="249" end="254" text="메가네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="279" end="284" text="뉴기니 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="286" end="294" text="태즈메이니아 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="300" end="301" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="308" end="310" text="대륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="345" end="348" text="인도양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="362" end="364" text="대륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="389" end="391" text="대륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="410" end="417" text="오스트레일리아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="434" end="436" text="대륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="447" end="452" text="오세아니아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="457" end="458" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="484" end="486" text="호주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="488" end="490" text="대륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="506" end="508" text="국가" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="522" end="524" text="내륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me1" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="536" end="537" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="큰" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="552" end="554" text="대륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="작은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="561" end="563" text="호주" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me2" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="564" end="566" text="대륙" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="597" end="604" text="오스트레일리아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="605" end="607" text="호주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl46" start="614" end="616" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl47" start="624" end="626" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl48" start="652" end="654" text="지대" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl49" start="718" end="720" text="사막" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl54" start="995" end="997" text="초원" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl55" start="1023" end="1025" text="초원" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl56" start="1027" end="1029" text="사막" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl63" start="1111" end="1113" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl64" start="1116" end="1118" text="사막" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl65" start="1202" end="1206" text="호주대륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl66" start="1281" end="1284" text="국가들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl67" start="63" end="65" text="대양" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl69" start="85" end="87" text="하나" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl70" start="495" end="497" text="영토" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl71" start="675" end="676" text="땅" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl72" start="1058" end="1060" text="일부" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl0" start="1" end="9" text="오세아니아 대륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="151" end="156" text="호주 대륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="267" end="277" text="오스트레일리아 본토" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="333" end="343" text="오스트레일리아 대륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="1040" end="1045" text="호주 대륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="1050" end="1055" text="사막 지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="1093" end="1101" text="북아메리카 대륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="947" end="952" text="호주 대륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="745" end="750" text="호주 대륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl50" start="80" end="83" text="6대륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="158" end="161" text="해안선" beginID="" endID="" midIDs="" type="BOUNDARY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="378" end="381" text="유럽인" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="393" end="396" text="들어온" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s2" start="350" end="352" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="1045" end="1046" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="1114" end="1115" text="내" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="621" end="623" text="중부" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="83" end="84" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="391" end="392" text="에" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="167" end="177" text="36,735킬로미터" value="36735" unit="km" comment="" />
+<MEASURE id="me1" start="511" end="516" text="760만㎢" value="76000000" unit="km2" comment="" />
+<MEASURE id="me2" start="577" end="581" text="330m" value="330" unit="m" comment="" />
+<MEASURE id="me3" start="19" end="21" text="주변" value="주변" unit="" comment="" />
+<MEASURE id="me4" start="297" end="299" text="주변" value="주변" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="32" text="오세아니아 대륙은 호주를 비롯한 주변 섬나라들을 말한다." comment="" />
+<SENTENCE id="sent1" start="33" end="53" text="호주가 워낙 커서 대륙으로 분류된다." comment="" />
+<SENTENCE id="sent2" start="54" end="99" text="“오세아니아”는 대양이라는 뜻을 가지고 있으며 6대륙의 하나로 대양주라고도 한다." comment="" />
+<SENTENCE id="sent3" start="100" end="150" text="넓은 뜻으로는 오스트레일리아, 뉴질랜드, 멜라네시아, 미크로네시아, 폴리네시아를 포함한다." comment="" />
+<SENTENCE id="sent4" start="151" end="190" text="호주 대륙은 해안선의 길이가 36,735킬로미터나 되는 광대한 섬이다." comment="" />
+<SENTENCE id="sent5" start="191" end="316" text="오스트레일리아, 오스트레일리아-뉴기니(Australia-New Guinea), 또는 사훌(Sahul), 메가네시아(Meganesia)는 오스트레일리아 본토와 뉴기니 섬, 태즈메이니아 섬 및 주변 섬으로 이뤄진 대륙을 말한다." comment="" />
+<SENTENCE id="sent6" start="317" end="377" text="프톨레마이오스의 세계지도에는 오스트레일리아 대륙이 인도양의 남쪽에 있는 ‘미지의 대륙’이라고 기록되어 있다." comment="" />
+<SENTENCE id="sent7" start="378" end="409" text="유럽인이 실제로 이 대륙에 들어온 것은 17세기부터이다." comment="" />
+<SENTENCE id="sent8" start="410" end="446" text="오스트레일리아의 캥거루와 오리너구리는 다른 대륙에서는 멸종되었다." comment="" />
+<SENTENCE id="sent9" start="447" end="483" text="오세아니아의 여러 섬에는 파충류가 서식하지 않고 있음이 특색이다." comment="" />
+<SENTENCE id="sent10" start="484" end="510" text="호주는 대륙 전체를 영토로 하는 유일한 국가다." comment="" />
+<SENTENCE id="sent11" start="511" end="557" text="760만㎢에 달하는 내륙은 세계에서 가장 큰 섬이고, 지구에서 가장 작은 대륙이다." comment="" />
+<SENTENCE id="sent12" start="558" end="590" text="또한 호주 대륙은 평균 해발고도가 330m 밖에 안 된다." comment="" />
+<SENTENCE id="sent13" start="592" end="657" text="원래부터 오스트레일리아(호주)의 상당수 지역, 특히 중부 지역은 1년 중 전혀 또는 거의 비가 내리지 않는 지대이다." comment="" />
+<SENTENCE id="sent14" start="658" end="692" text="비가 내리지 않다보니 자연스레 땅이 메말라 갈 수 밖에 없다." comment="" />
+<SENTENCE id="sent15" start="693" end="735" text="헌데, 이런 기후 조건만이 그 엄청난 넓이의 사막이 있게 한 요인은 아니다." comment="" />
+<SENTENCE id="sent16" start="736" end="800" text="19세기 들어서 호주 대륙이 본격적으로 개발되기 시작하면서 소와 양 같은 가축의 숫자도 엄청난 속도로 불어났습니다." comment="" />
+<SENTENCE id="sent17" start="801" end="843" text="수적으로 따져보니 사람숫자보다 소와 양의 숫자가 몇 배는 더 많을 정도이다." comment="" />
+<SENTENCE id="sent18" start="844" end="900" text="근데, 이중 양은 그래도 덜한데, 소의 경우 하루에 먹고 마시는 풀과 물의 양이 엄청난 게 문제였다." comment="" />
+<SENTENCE id="sent19" start="901" end="971" text="한 마리의 소가 몇 사람분의 물을 마셔대니 안 그래도 물이 풍족하다고는 할수 없는 호주 대륙의 물 문제가 더 심각해진 것이다." comment="" />
+<SENTENCE id="sent20" start="972" end="1036" text="소들이 뜯어먹는 엄청난 양의 목초 때문에 초원은 점점 황폐해져가고 메말라가고, 결국 상당수 초원이 사막으로 변했다." comment="" />
+<SENTENCE id="sent21" start="1037" end="1092" text="현재 호주 대륙에 있는 사막 지역 중 일부는 이런 과도한 방목 행위로 인한 환경 파괴의 산물입니다." comment="" />
+<SENTENCE id="sent22" start="1093" end="1159" text="북아메리카 대륙도 마찬가지인터라 미국 내 사막 면적 중 1/3 가량은 최근 300여년 사이에 형성된 거라고 할 정도다." comment="" />
+<SENTENCE id="sent23" start="1160" end="1197" text="유감스럽게도 현재 전 세계적으로 사막화 현상이 급격히 진행 중이다." comment="" />
+<SENTENCE id="sent24" start="1198" end="1309" text="그나마 호주대륙의 경우 최근엔 방목 행위를 다소 자제하고 환경보호 위주 정책을 펴는 등 사막화 현상을 막기 위한 노력이 잘 진행되고 있습니다만 다른 국가들은 더 많은 관심과 노력이 필요한 실정이다. " comment="" />
+<QSLINK id="qsl3" fromID="pl64" fromText="사막" toID="pl63" toText="미국" relType="NTPP" trajector="pl64" landmark="pl63" trigger="s5" comment="" />
+<QSLINK id="qsl5" fromID="pl24" fromText="섬" toID="pl13" toText="오스트레일리아 본토" relType="OUT" trajector="pl24" landmark="pl13" trigger="s1" comment="" />
+<QSLINK id="qsl10" fromID="pl21" fromText="사막 지역" toID="pl20" toText="호주 대륙" relType="NTPP" trajector="pl21" landmark="pl20" trigger="s4" comment="" />
+<QSLINK id="qsl0" fromID="pl69" fromText="하나" toID="pl50" toText="6대륙" relType="NTPP" trajector="pl69" landmark="pl50" trigger="s6" comment="" />
+<OLINK id="ol2" fromID="pl14" fromText="오스트레일리아 대륙" toID="pl28" toText="인도양" relType="남" trajector="pl14" landmark="pl28" trigger="s2" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl47" fromText="지역" toID="pl44" toText="오스트레일리아" relType="중" trajector="pl47" landmark="pl44" trigger="s3" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<MOVELINK id="mvl1" fromID="" fromText="" toID="pl30" toText="대륙" trigger="m0" source="" goal="pl30" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MEASURELINK id="ml0" fromID="p0" fromText="해안선" toID="me0" toText="36,735킬로미터" trajector="p0" landmark="p0" relType="LENGTH" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl38" fromText="내륙" toID="me1" toText="760만㎢" trajector="pl38" landmark="pl38" relType="GENERAL_DIMENSION" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="me2" fromText="330m" toID="pl43" toText="대륙" trajector="pl43" landmark="pl43" relType="HEIGHT" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="pl3" fromText="섬나라" toID="pl2" toText="호주" trajector="pl3" landmark="pl2" relType="DISTANCE" val="me3" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml4" fromID="me4" fromText="주변" toID="pl13" toText="오스트레일리아 본토" trajector="pl24" landmark="pl13" relType="DISTANCE" val="me4" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

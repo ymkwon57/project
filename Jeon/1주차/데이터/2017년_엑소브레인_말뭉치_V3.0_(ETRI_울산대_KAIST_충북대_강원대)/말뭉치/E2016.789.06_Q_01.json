@@ -1,0 +1,97 @@
+{
+    "doc_id": "E2016.789.06_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "윤선도의 오우가에 나오는 것이 아닌 것은?", 
+            "morp": [
+                {"id": 0, "lemma": "윤선도", "type": "NNP", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 9, "weight": 0.0987295}, 
+                {"id": 2, "lemma": "오우가", "type": "NNP", "position": 13, "weight": 0.497967}, 
+                {"id": 3, "lemma": "에", "type": "JKB", "position": 22, "weight": 0.153364}, 
+                {"id": 4, "lemma": "나오", "type": "VV", "position": 26, "weight": 0.9}, 
+                {"id": 5, "lemma": "는", "type": "ETM", "position": 32, "weight": 0.184941}, 
+                {"id": 6, "lemma": "것", "type": "NNB", "position": 36, "weight": 0.228788}, 
+                {"id": 7, "lemma": "이", "type": "JKC", "position": 39, "weight": 0.000435795}, 
+                {"id": 8, "lemma": "아니", "type": "VCN", "position": 43, "weight": 0.354175}, 
+                {"id": 9, "lemma": "ㄴ", "type": "ETM", "position": 46, "weight": 0.144018}, 
+                {"id": 10, "lemma": "것", "type": "NNB", "position": 50, "weight": 0.228788}, 
+                {"id": 11, "lemma": "은", "type": "JX", "position": 53, "weight": 0.0688243}, 
+                {"id": 12, "lemma": "?", "type": "SF", "position": 56, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "윤선도", "type": "NNP", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 9, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "오우가", "type": "NNP", "scode": "000000", "weight": 1, "position": 13, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 22, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "나오", "type": "VV", "scode": "000201", "weight": 0.0384615, "position": 26, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 32, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 36, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "이", "type": "JKC", "scode": "000000", "weight": 1, "position": 39, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "아니", "type": "VCN", "scode": "000001", "weight": 0.2, "position": 43, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 46, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 50, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 53, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 56, "begin": 12, "end": 12}
+            ], 
+            "word": [
+                {"id": 0, "text": "윤선도의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "오우가에", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "나오는", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "것이", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "아닌", "type": "", "begin": 8, "end": 9}, 
+                {"id": 5, "text": "것은?", "type": "", "begin": 10, "end": 12}
+            ], 
+            "NE": [
+                {"id": 0, "text": "윤선도", "type": "PS_NAME", "begin": 0, "end": 0, "weight": 0.422073, "common_noun": 0}, 
+                {"id": 1, "text": "오우가", "type": "AFW_DOCUMENT", "begin": 2, "end": 2, "weight": 0.188204, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "윤선도의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.714507}, 
+                {"id": 1, "text": "오우가에", "head": 2, "label": "NP_AJT", "mod": [0], "weight": 0.871379}, 
+                {"id": 2, "text": "나오는", "head": 3, "label": "VP_MOD", "mod": [1], "weight": 0.831074}, 
+                {"id": 3, "text": "것이", "head": 4, "label": "NP_CMP", "mod": [2], "weight": 0.687471}, 
+                {"id": 4, "text": "아닌", "head": 5, "label": "VP_MOD", "mod": [3], "weight": 0.795998}, 
+                {"id": 5, "text": "것은?", "head": -1, "label": "NP_SBJ", "mod": [4], "weight": 0.204837}
+            ], 
+            "SRL": [
+                {"verb": "나오", "sense": 1, "word_id": 2, "weight": 0.177498, "argument": [
+                    {"type": "ARG2", "word_id": 1, "text": "오우가에", "weight": 0.177498}, 
+                    {"type": "ARG0", "word_id": 3, "text": "것이", "weight": 1}
+                ]}, 
+                {"verb": "아니", "sense": 1, "word_id": 4, "weight": 0.272916, "argument": [
+                    {"type": "ARG2", "word_id": 3, "text": "것이", "weight": 0.272916}, 
+                    {"type": "ARG1", "word_id": 5, "text": "것은?", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 5, "ne_id": -1, "text": "윤선도의 오우가에 나오는 것이 아닌 것은?", "start_eid_short": 5, "end_eid_short": 5, "text_short": "것은?"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "윤선도의 오우가에 나오는 것이", "start_eid_short": 3, "end_eid_short": 3, "text_short": "것이"}
+        ]}, 
+        {"id": 2, "type": "AFW_DOCUMENT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "윤선도의 오우가에", "start_eid_short": 1, "end_eid_short": 1, "text_short": "오우가에"}
+        ]}, 
+        {"id": 3, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "윤선도의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "윤선도의"}
+        ]}
+    ]
+}

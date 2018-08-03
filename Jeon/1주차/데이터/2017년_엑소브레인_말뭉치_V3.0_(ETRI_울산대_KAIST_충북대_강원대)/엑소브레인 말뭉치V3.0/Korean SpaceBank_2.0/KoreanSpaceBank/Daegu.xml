@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+대구(大邱)는 대한민국에서 네 번째로 큰 도시로, 광역시이다.
+
+대구 공항(TAE/RKTN)은 서울, 제주, 중국, 필리핀과 방콕으로 약간의 서비스가 있다. 공항은 약간 작으며 공군과 공유하고 있다. 그곳은 도시의 동편으로 시내로 가는 버스가 있다. 같은 영역에 호텔 에어포트가(Hotel Airport)있는데 숙박비는 약 W130,000이다.
+
+경부선이 대구역과 동대구역을 경유한다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="3" text="대구" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="9" end="13" text="대한민국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="24" end="26" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="큰" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="29" end="32" text="광역시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="37" end="42" text="대구 공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="54" end="56" text="서울" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="58" end="60" text="제주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="62" end="64" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="66" end="69" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="71" end="73" text="방콕" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="113" end="115" text="그곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="117" end="119" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="126" end="128" text="시내" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="144" end="146" text="영역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="200" end="203" text="대구역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="205" end="209" text="동대구역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="195" end="198" text="경부선" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="133" end="135" text="버스" type="VEHICLE" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="148" end="155" text="호텔 에어포트" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="130" end="131" text="가" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="13" end="15" text="에서" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="121" end="123" text="동편" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="146" end="147" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="128" end="129" text="로" motion_signal_type="PATH" comment="" />
+<SENTENCE id="sent0" start="1" end="35" text="대구(大邱)는 대한민국에서 네 번째로 큰 도시로, 광역시이다." comment="" />
+<SENTENCE id="sent1" start="37" end="88" text="대구 공항(TAE/RKTN)은 서울, 제주, 중국, 필리핀과 방콕으로 약간의 서비스가 있다." comment="" />
+<SENTENCE id="sent2" start="89" end="112" text="공항은 약간 작으며 공군과 공유하고 있다." comment="" />
+<SENTENCE id="sent3" start="113" end="140" text="그곳은 도시의 동편으로 시내로 가는 버스가 있다." comment="" />
+<SENTENCE id="sent4" start="141" end="193" text="같은 영역에 호텔 에어포트가(Hotel Airport)있는데 숙박비는 약 W130,000이다." comment="" />
+<SENTENCE id="sent5" start="195" end="217" text="경부선이 대구역과 동대구역을 경유한다. " comment="" />
+<QSLINK id="qsl0" fromID="pl1" fromText="대한민국" toID="pl2" toText="도시" relType="NTPP" trajector="pl2" landmark="pl1" trigger="s0" comment="" />
+<QSLINK id="qsl4" fromID="se1" fromText="호텔 에어포트" toID="pl14" toText="영역" relType="NTPP" trajector="se1" landmark="pl14" trigger="s3" comment="" />
+<OLINK id="ol0" fromID="pl13" fromText="시내" toID="pl12" toText="도시" relType="동" trajector="pl13" landmark="pl12" trigger="s2" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<MOVELINK id="mvl3" fromID="se0" fromText="버스" toID="pl13" toText="시내" trigger="m0" source="" goal="pl13" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

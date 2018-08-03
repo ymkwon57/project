@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+마리아나 제도[Mariana Islands]는 서태평양에 있는 제도이다. 산호가 쌓여진 해저 화산의 융기로 형성되었으며 필리핀에서 2,400㎞ 동쪽에 위치하고 있다. 서태평양 미크로네시아의 북서쪽에 있는 섬의 무리이다. 동쪽의 마샬 군도까지 횡축으로 산재해 있는 태평양의 작은 섬들을 말하는데 괌과 사이판이 소속해 있는 마리아나 제도는 마이크로네시아 권역에 들어간다. 동경 145도, 북위 12도에서 21도 사이에 걸쳐 퍼져 있다.
+1521년 스페인의 탐험가 마젤란에 의해서 발견되었다. 이때부터 사이판은 스페인의 영향권 아래 들어갔는데, 마리아나 제도라는 이름도 스페인 국왕 필립 4세의 미망인인 오스트리아의 마리아나 여왕을 기리기 위해 붙여졌다고 한다. 미국 자치령에 속하는 마리아나 제도는 사이판을 비롯한 티니안·로타 등 3개 섬으로 구성되어 있다. 미국의 준주(準州)로 조직되었지만 본토로 편입되지는 않았으며 하와이 제도로부터 서쪽으로 약 5,000㎞ 떨어진 섬이다.
+티니안 섬은 마리아나 제도의 3개의 주요 섬들 중 가장 인구가 적다. 사이판에서 약 5km 가량 떨어져 있는 섬이다. 괌은 사이판과 함께 마리아나 해구의 왼쪽, 일본 열도의 아래 쪽에서 종으로 늘어서 있는 마리아나 제도의 남쪽 끝 섬이며 마리아나 해구를 분계선으로 하여 남쪽의 캐롤린 제도와 구분되어 있다.
+마리아나 제도의 괌, 작은 미국 미국령에서 가장 서쪽에 위치한 괌은 동부 해안 시간대보다 무려 15시간이 빠르다. 그래서 괌은 '미국의 하루가 시작되는 곳'이라는 슬로건이 널리 사용되고 있다. 괌은 아시아 주요 도시에서 3시간 거리에 위치한 15개 섬으로 이뤄진 마리아나 군도 중 하나다. 마리아나 제도 섬 중 가장 큰 면적을 차지하고 있으며 서울에서 4시간 정도 걸리기 때문에 언제든 편안하게 다녀올 수 있는 섬이다.
+마리아나 해구는 북마리아나 제도의 동쪽을 따라 남북방향으로 뻗어 있는 해구이다. 길이 2,550km. 평균 너비 70km. 수심은 7,000∼8,000m이다.
+1943년 9월 말에, 도쿄 대본영은 마리아나 제도까지 후퇴한 후 이곳의 방어를 두텁게 하고 그 사이에 항공전력을 중심으로 하는 반격전력을 두었다. 1944년 초 합동참모본부는 일본을 B-29의 사정권 내에 둘 기지를 만들기 위해 니미츠 제독에게 마리아나 제도(사이판과 티니안,괌)를 침공하라고 명령을 내렸다. 니미츠 제독은 이 작전을 별로 좋아하지는 않았다.
+무(Mu)라는 광대한 대륙이 있었다. 그 동쪽 끝은 현재의 이스터 섬, 북쪽 끝은 하와이 제도, 서쪽 끝은 마리아나 제도, 그리고 남쪽 끝은 지금의 쿡 제도에 해당한다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="8" text="마리아나 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="68" end="71" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="99" end="105" text="미크로네시아" type="" dimensionality="LINE" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="128" end="133" text="마샬 군도" type="" dimensionality="LINE" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="165" end="166" text="괌" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="168" end="171" text="사이판" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="180" end="187" text="마리아나 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="279" end="282" text="사이판" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="303" end="310" text="마리아나 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="381" end="388" text="마리아나 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="390" end="393" text="사이판" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="399" end="402" text="티니안" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="403" end="405" text="로타" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="424" end="426" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="458" end="464" text="하와이 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="491" end="496" text="티니안 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="498" end="505" text="마리아나 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="530" end="533" text="사이판" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="552" end="553" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="557" end="558" text="괌" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="560" end="563" text="사이판" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="568" end="575" text="마리아나 해구" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="581" end="586" text="일본 열도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="606" end="613" text="마리아나 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="620" end="621" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="646" end="652" text="캐롤린 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="663" end="670" text="마리아나 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="672" end="673" text="괌" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="698" end="699" text="괌" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="731" end="732" text="괌" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="771" end="772" text="괌" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="810" end="817" text="마리아나 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="855" end="857" text="서울" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="898" end="905" text="마리아나 해구" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="907" end="915" text="북마리아나 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="937" end="939" text="해구" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl46" start="1008" end="1015" text="마리아나 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl48" start="1125" end="1132" text="마리아나 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl49" start="1133" end="1136" text="사이판" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl50" start="1138" end="1141" text="티니안" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl51" start="1142" end="1143" text="괌" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl52" start="1189" end="1190" text="무" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl54" start="1222" end="1227" text="이스터 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl55" start="1235" end="1241" text="하와이 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl56" start="1249" end="1256" text="마리아나 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl57" start="1272" end="1276" text="쿡 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="27" end="31" text="서태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl59" start="94" end="98" text="서태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl61" start="148" end="151" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl63" start="207" end="222" text="동경 145도, 북위 12도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl64" start="225" end="228" text="21도" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl66" start="369" end="371" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl67" start="411" end="412" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl68" start="678" end="680" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl69" start="774" end="777" text="아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl72" start="820" end="822" text="하나" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl73" start="189" end="196" text="마이크로네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl74" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me3,me4,me5" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PLACE id="pl76" start="1232" end="1233" text="끝" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl77" start="1246" end="1247" text="끝" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl78" start="1265" end="1266" text="끝" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl80" start="428" end="430" text="준주" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl81" start="443" end="445" text="본토" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl83" start="681" end="684" text="미국령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl84" start="704" end="706" text="해안" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl86" start="893" end="894" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl87" start="1024" end="1026" text="이곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl88" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="42" />
+<PLACE id="pl89" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="207" />
+<PLACE id="pl91" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="943" />
+<PLACE id="pl92" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="1210" />
+<PLACE id="pl32" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="124" />
+<PLACE id="pl1" start="825" end="832" text="마리아나 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="36" end="38" text="제도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="115" end="116" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="486" end="487" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl53" start="514" end="516" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl58" start="781" end="783" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl60" start="802" end="803" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl62" start="833" end="834" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl70" start="1201" end="1203" text="대륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl71" start="1215" end="1216" text="끝" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl75" start="156" end="158" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl79" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="663" />
+<PLACE id="pl9" start="1086" end="1088" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="633" end="636" text="분계선" beginID="" endID="" midIDs="" type="BOUNDARY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="624" end="631" text="마리아나 해구" beginID="" endID="" midIDs="" type="BOUNDARY" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="1000" end="1006" text="도쿄 대본영" type="FAC" dimensionality="" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="1018" end="1021" text="후퇴한" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s3" start="577" end="579" text="왼쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="917" end="919" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s17" start="31" end="32" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="1212" end="1214" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="1229" end="1231" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="1243" end="1245" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="1262" end="1264" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s18" start="482" end="485" text="떨어진" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s19" start="545" end="548" text="떨어져" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s20" start="615" end="617" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s22" start="701" end="703" text="동부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s29" start="588" end="590" text="아래" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="81" end="83" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="107" end="110" text="북서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="124" end="126" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="229" end="231" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="468" end="470" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="642" end="644" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s13" start="690" end="692" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s14" start="151" end="152" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s15" start="670" end="671" text="의" cluster="" semantic_type="" comment="" />
+<MOTION_SIGNAL id="ms0" start="1015" end="1017" text="까지" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="74" end="80" text="2,400㎞" value="2400" unit="KM" comment="" />
+<MEASURE id="me3" start="946" end="953" text="2,550km" value="2550" unit="KM" comment="" />
+<MEASURE id="me4" start="961" end="965" text="70km" value="70" unit="KM" comment="" />
+<MEASURE id="me1" start="473" end="481" text="약 5,000㎞" value="5000" unit="KM" comment="" />
+<MEASURE id="me2" start="536" end="541" text="약 5km" value="5" unit="KM" comment="" />
+<MEASURE id="me5" start="971" end="983" text="7,000∼8,000m" value="7000~8000" unit="M" comment="" />
+<SENTENCE id="sent0" start="1" end="41" text="마리아나 제도[Mariana Islands]는 서태평양에 있는 제도이다." comment="" />
+<SENTENCE id="sent1" start="42" end="93" text="산호가 쌓여진 해저 화산의 융기로 형성되었으며 필리핀에서 2,400㎞ 동쪽에 위치하고 있다." comment="" />
+<SENTENCE id="sent2" start="94" end="123" text="서태평양 미크로네시아의 북서쪽에 있는 섬의 무리이다." comment="" />
+<SENTENCE id="sent3" start="124" end="206" text="동쪽의 마샬 군도까지 횡축으로 산재해 있는 태평양의 작은 섬들을 말하는데 괌과 사이판이 소속해 있는 마리아나 제도는 마이크로네시아 권역에 들어간다." comment="" />
+<SENTENCE id="sent4" start="207" end="242" text="동경 145도, 북위 12도에서 21도 사이에 걸쳐 퍼져 있다." comment="" />
+<SENTENCE id="sent5" start="243" end="273" text="1521년 스페인의 탐험가 마젤란에 의해서 발견되었다." comment="" />
+<SENTENCE id="sent6" start="274" end="368" text="이때부터 사이판은 스페인의 영향권 아래 들어갔는데, 마리아나 제도라는 이름도 스페인 국왕 필립 4세의 미망인인 오스트리아의 마리아나 여왕을 기리기 위해 붙여졌다고 한다." comment="" />
+<SENTENCE id="sent7" start="369" end="423" text="미국 자치령에 속하는 마리아나 제도는 사이판을 비롯한 티니안·로타 등 3개 섬으로 구성되어 있다." comment="" />
+<SENTENCE id="sent8" start="424" end="490" text="미국의 준주(準州)로 조직되었지만 본토로 편입되지는 않았으며 하와이 제도로부터 서쪽으로 약 5,000㎞ 떨어진 섬이다." comment="" />
+<SENTENCE id="sent9" start="491" end="529" text="티니안 섬은 마리아나 제도의 3개의 주요 섬들 중 가장 인구가 적다." comment="" />
+<SENTENCE id="sent10" start="530" end="556" text="사이판에서 약 5km 가량 떨어져 있는 섬이다." comment="" />
+<SENTENCE id="sent11" start="557" end="662" text="괌은 사이판과 함께 마리아나 해구의 왼쪽, 일본 열도의 아래 쪽에서 종으로 늘어서 있는 마리아나 제도의 남쪽 끝 섬이며 마리아나 해구를 분계선으로 하여 남쪽의 캐롤린 제도와 구분되어 있다." comment="" />
+<SENTENCE id="sent12" start="663" end="726" text="마리아나 제도의 괌, 작은 미국 미국령에서 가장 서쪽에 위치한 괌은 동부 해안 시간대보다 무려 15시간이 빠르다." comment="" />
+<SENTENCE id="sent13" start="727" end="770" text="그래서 괌은 '미국의 하루가 시작되는 곳'이라는 슬로건이 널리 사용되고 있다." comment="" />
+<SENTENCE id="sent14" start="771" end="824" text="괌은 아시아 주요 도시에서 3시간 거리에 위치한 15개 섬으로 이뤄진 마리아나 군도 중 하나다." comment="" />
+<SENTENCE id="sent15" start="825" end="897" text="마리아나 제도 섬 중 가장 큰 면적을 차지하고 있으며 서울에서 4시간 정도 걸리기 때문에 언제든 편안하게 다녀올 수 있는 섬이다." comment="" />
+<SENTENCE id="sent16" start="898" end="942" text="마리아나 해구는 북마리아나 제도의 동쪽을 따라 남북방향으로 뻗어 있는 해구이다." comment="" />
+<SENTENCE id="sent17" start="943" end="966" text="길이 2,550km. 평균 너비 70km." comment="" />
+<SENTENCE id="sent18" start="967" end="986" text="수심은 7,000∼8,000m이다." comment="" />
+<SENTENCE id="sent19" start="987" end="1069" text="1943년 9월 말에, 도쿄 대본영은 마리아나 제도까지 후퇴한 후 이곳의 방어를 두텁게 하고 그 사이에 항공전력을 중심으로 하는 반격전력을 두었다." comment="" />
+<SENTENCE id="sent20" start="1070" end="1160" text="1944년 초 합동참모본부는 일본을 B-29의 사정권 내에 둘 기지를 만들기 위해 니미츠 제독에게 마리아나 제도(사이판과 티니안,괌)를 침공하라고 명령을 내렸다." comment="" />
+<SENTENCE id="sent21" start="1161" end="1188" text="니미츠 제독은 이 작전을 별로 좋아하지는 않았다." comment="" />
+<SENTENCE id="sent22" start="1189" end="1209" text="무(Mu)라는 광대한 대륙이 있었다." comment="" />
+<SENTENCE id="sent23" start="1210" end="1283" text="그 동쪽 끝은 현재의 이스터 섬, 북쪽 끝은 하와이 제도, 서쪽 끝은 마리아나 제도, 그리고 남쪽 끝은 지금의 쿡 제도에 해당한다." comment="" />
+<QSLINK id="qsl1" fromID="pl63" fromText="동경 145도, 북위 12도" toID="pl64" toText="21도" relType="DC" trajector="pl63" landmark="pl64" trigger="s5" comment="" />
+<QSLINK id="qsl2" fromID="pl63" fromText="동경 145도, 북위 12도" toID="pl89" toText="" relType="OUT" trajector="pl63" landmark="pl89" trigger="s5" comment="" />
+<QSLINK id="qsl3" fromID="pl64" fromText="21도" toID="pl89" toText="" relType="OUT" trajector="pl64" landmark="pl89" trigger="s5" comment="" />
+<QSLINK id="qsl5" fromID="pl25" fromText="사이판" toID="pl24" toText="사이판" relType="DC" trajector="pl25" landmark="pl24" trigger="s19" comment="" />
+<QSLINK id="qsl0" fromID="pl20" fromText="제도" toID="pl8" toText="서태평양" relType="IN" trajector="pl20" landmark="pl8" trigger="s17" comment="" />
+<QSLINK id="qsl8" fromID="pl41" fromText="섬" toID="pl19" toText="하와이 제도" relType="DC" trajector="pl41" landmark="pl19" trigger="s19" comment="" />
+<QSLINK id="qsl9" fromID="pl75" fromText="섬들" toID="pl61" toText="태평양" relType="NTPP" trajector="pl75" landmark="pl61" trigger="s14" comment="" />
+<QSLINK id="qsl10" fromID="pl35" fromText="괌" toID="pl34" toText="마리아나 제도" relType="NTPP" trajector="pl35" landmark="pl34" trigger="s15" comment="" />
+<OLINK id="ol4" fromID="s3" fromText="왼쪽" toID="pl26" toText="괌" relType="왼" trajector="pl26" landmark="pl28" trigger="s3" frame_type="INTRINSIC" referencePt="pl28" projective="TRUE" comment="" />
+<OLINK id="ol5" fromID="s3" fromText="왼쪽" toID="pl27" toText="사이판" relType="왼" trajector="pl27" landmark="pl28" trigger="s3" frame_type="INTRINSIC" referencePt="pl28" projective="TRUE" comment="" />
+<OLINK id="ol7" fromID="s20" fromText="남쪽" toID="pl31" toText="섬" relType="남" trajector="pl31" landmark="pl30" trigger="s20" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol10" fromID="s7" fromText="동쪽" toID="pl44" toText="북마리아나 제도" relType="동" trajector="pl45" landmark="pl44" trigger="s7" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol12" fromID="s9" fromText="북쪽" toID="pl76" toText="끝" relType="북" trajector="pl76" landmark="pl92" trigger="s9" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol13" fromID="s10" fromText="서쪽" toID="pl77" toText="끝" relType="서" trajector="pl77" landmark="pl92" trigger="s10" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol14" fromID="s11" fromText="남쪽" toID="pl78" toText="끝" relType="남" trajector="pl78" landmark="pl92" trigger="s11" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol15" fromID="pl88" fromText="" toID="pl2" toText="필리핀" relType="동" trajector="pl88" landmark="pl2" trigger="s0" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol16" fromID="pl4" fromText="마샬 군도" toID="pl32" toText="" relType="동" trajector="pl4" landmark="pl32" trigger="s2" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol18" fromID="pl33" fromText="캐롤린 제도" toID="p1" toText="마리아나 해구" relType="남" trajector="pl33" landmark="p1" trigger="s12" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol19" fromID="pl36" fromText="괌" toID="pl83" toText="미국령" relType="서" trajector="pl36" landmark="pl83" trigger="s13" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol20" fromID="pl30" fromText="마리아나 제도" toID="pl29" toText="일본 열도" relType="아래" trajector="pl30" landmark="pl29" trigger="s29" frame_type="INTRINSIC" referencePt="pl29" projective="TRUE" comment="" />
+<OLINK id="ol1" fromID="pl23" fromText="섬" toID="pl3" toText="미크로네시아" relType="북서" trajector="pl23" landmark="pl3" trigger="s1" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl41" fromText="섬" toID="pl19" toText="하와이 제도" relType="서" trajector="pl41" landmark="pl19" trigger="s6" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol6" fromID="pl84" fromText="해안" toID="pl79" toText="" relType="동" trajector="pl84" landmark="pl79" trigger="s22" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol8" fromID="pl92" fromText="" toID="pl71" toText="끝" relType="동" trajector="pl71" landmark="pl92" trigger="s8" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol0" fromID="pl92" fromText="" toID="pl54" toText="이스터 섬" relType="동" trajector="pl54" landmark="pl92" trigger="s8" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl55" fromText="하와이 제도" toID="pl92" toText="" relType="북" trajector="pl55" landmark="pl92" trigger="s9" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol9" fromID="pl56" fromText="마리아나 제도" toID="pl92" toText="" relType="서" trajector="pl56" landmark="pl92" trigger="s10" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol11" fromID="pl57" fromText="쿡 제도" toID="pl92" toText="" relType="남" trajector="pl57" landmark="pl92" trigger="s11" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="후퇴한" toID="pl46" toText="마리아나 제도" trigger="m0" source="" goal="pl46" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MEASURELINK id="ml1" fromID="me2" fromText="약 5km" toID="pl25" toText="섬" trajector="pl25" landmark="pl24" relType="DISTANCE" val="me2" endPoint1="pl25" endPoint2="pl24" comment="" />
+<MEASURELINK id="ml2" fromID="me3" fromText="2,550km" toID="pl91" toText="" trajector="pl91" landmark="pl91" relType="HEIGHT" val="me3" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="me4" fromText="70km" toID="pl91" toText="" trajector="pl91" landmark="pl91" relType="WIDTH" val="me5" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml4" fromID="me5" fromText="7,000∼8,000m" toID="pl91" toText="" trajector="pl91" landmark="pl91" relType="HEIGHT" val="me5" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml5" fromID="me0" fromText="2,400㎞" toID="pl2" toText="필리핀" trajector="pl88" landmark="pl2" relType="DISTANCE" val="me0" endPoint1="pl88" endPoint2="pl2" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

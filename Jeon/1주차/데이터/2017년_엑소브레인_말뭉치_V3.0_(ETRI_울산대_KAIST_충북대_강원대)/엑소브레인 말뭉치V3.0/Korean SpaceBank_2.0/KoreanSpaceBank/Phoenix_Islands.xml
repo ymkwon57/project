@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+피닉스 제도[Phoenix Islands]는 태평양 중서부의 사람이 살지 않는 환상(環狀) 산호 군도이다. 키리바시의 영토로서 하와이에서 남서쪽으로 2,650㎞ 떨어져 있다. 태평양 중부, 미크로네시아의 길버트 제도와 피닉스 제도의 2백만㎢에 걸쳐 흩어져 있는 33개 섬으로 이루어진 공화국이다. 수도는 바이리키 미크로네시아에 속하는 길버트 제도와 폴리네시아에 속하는 피닉스 제도 및 라인 제도의 33개 섬으로 이루어졌다. 적도의 남북과 날짜 변경선의 동서에 걸쳐 있고 서쪽의 길버트 제도와 피닉스 제도가 있다. 피닉스 제도에는 사람이 거의 살지 않고 20여 개의 환초에만 사람이 거주한다.
+피닉스(라와키)·시드니(만라)·매킨·가드너(니쿠마로로)·버니·헐(오로나)·캔턴·엔더베리 등의 환상 산호도가 포함된다. 19세기 미국의 고래잡이선들에 의해 발견된 이 제도는 총 육지 면적이 28㎢이고, 모든 섬은 모래가 많은 저지대로 구성되어 있다.
+몇몇 섬은 구아노를 채취하기 위해 개발되기도 했다. 1889년 영국에 합병되었고, 1937년에는 영국 식민지인 길버트-엘리스 제도에 포함되었다. 1938년 길버트 제도의 식민주의자들이 시드니·가드너·헐 등의 섬에 정착했으나 변덕스러운 강우 상태 때문에 살기가 어려워 1958, 1963년에 모든 주민들이 솔로몬 제도로 이주했다. 1939년 이후 미국과 영국은 캔턴과 엔더베리 환초를 태평양 횡단 비행기들의 기착지로 이용하기 위해 공동 관리했고, 1970년부터 미국은 캔턴 환초를 미사일 기지로 사용했다. 1979년 피닉스 제도 전부가 독립한 키리바시에 속하게 되었다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="7" text="피닉스 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="26" end="29" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="55" end="57" text="군도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="61" end="65" text="키리바시" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="67" end="69" text="영토" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="72" end="75" text="하와이" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="99" end="102" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="107" end="113" text="미크로네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="115" end="121" text="길버트 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="123" end="129" text="피닉스 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="151" end="152" text="섬" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="160" end="163" text="공화국" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="167" end="169" text="수도" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="171" end="175" text="바이리키" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="176" end="182" text="미크로네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="188" end="194" text="길버트 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="196" end="201" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="207" end="213" text="피닉스 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="216" end="221" text="라인 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="227" end="228" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="268" end="274" text="길버트 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="276" end="282" text="피닉스 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="288" end="294" text="피닉스 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="317" end="319" text="환초" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="332" end="335" text="피닉스" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="336" end="339" text="라와키" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="341" end="344" text="시드니" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="345" end="347" text="만라" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="349" end="351" text="매킨" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="352" end="355" text="가드너" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="356" end="361" text="니쿠마로로" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="363" end="365" text="버니" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="366" end="367" text="헐" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="368" end="371" text="오로나" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="373" end="375" text="캔턴" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="376" end="380" text="엔더베리" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="387" end="390" text="산호도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="424" end="426" text="제도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me2" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="447" end="448" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="474" end="475" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="525" end="527" text="영국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="528" end="531" text="식민지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="533" end="543" text="길버트-엘리스 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl46" start="558" end="564" text="길버트 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl47" start="574" end="577" text="시드니" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl48" start="578" end="581" text="가드너" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl49" start="582" end="583" text="헐" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl50" start="587" end="588" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl51" start="641" end="647" text="솔로몬 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl54" start="672" end="674" text="캔턴" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl55" start="676" end="683" text="엔더베리 환초" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl58" start="732" end="737" text="캔턴 환초" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl60" start="759" end="765" text="피닉스 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl61" start="774" end="778" text="키리바시" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl63" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="238" />
+<PLACE id="pl24" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="99" />
+<PATH id="p0" start="238" end="240" text="적도" beginID="" endID="" midIDs="" type="ROW" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="246" end="252" text="날짜 변경선" beginID="" endID="" midIDs="" type="ROW" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="322" end="324" text="사람" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="636" end="639" text="주민들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="566" end="572" text="식민주의자들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="297" end="299" text="사람" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="649" end="652" text="이주했" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="590" end="593" text="정착했" domain="" latLong="" elevation="" motion_type="PATH" motion_class="STAY" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="78" end="81" text="남서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="91" end="94" text="떨어져" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="182" end="183" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="201" end="202" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="319" end="320" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="258" end="260" text="걸쳐" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s14" start="778" end="779" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="264" end="266" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="30" end="33" text="중서부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s15" start="103" end="105" text="중부" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="221" end="222" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="294" end="295" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="65" end="66" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="113" end="114" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="647" end="648" text="로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="588" end="589" text="에" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="84" end="90" text="2,650㎞" value="2650" unit="km" comment="" />
+<MEASURE id="me1" start="131" end="135" text="2백만㎢" value="2000000" unit="km2" comment="" />
+<MEASURE id="me2" start="437" end="440" text="28㎢" value="28" unit="km2" comment="" />
+<SENTENCE id="sent0" start="1" end="60" text="피닉스 제도[Phoenix Islands]는 태평양 중서부의 사람이 살지 않는 환상(環狀) 산호 군도이다." comment="" />
+<SENTENCE id="sent1" start="61" end="98" text="키리바시의 영토로서 하와이에서 남서쪽으로 2,650㎞ 떨어져 있다." comment="" />
+<SENTENCE id="sent2" start="99" end="166" text="태평양 중부, 미크로네시아의 길버트 제도와 피닉스 제도의 2백만㎢에 걸쳐 흩어져 있는 33개 섬으로 이루어진 공화국이다." comment="" />
+<SENTENCE id="sent3" start="167" end="237" text="수도는 바이리키 미크로네시아에 속하는 길버트 제도와 폴리네시아에 속하는 피닉스 제도 및 라인 제도의 33개 섬으로 이루어졌다." comment="" />
+<SENTENCE id="sent4" start="238" end="287" text="적도의 남북과 날짜 변경선의 동서에 걸쳐 있고 서쪽의 길버트 제도와 피닉스 제도가 있다." comment="" />
+<SENTENCE id="sent5" start="288" end="331" text="피닉스 제도에는 사람이 거의 살지 않고 20여 개의 환초에만 사람이 거주한다." comment="" />
+<SENTENCE id="sent6" start="332" end="397" text="피닉스(라와키)·시드니(만라)·매킨·가드너(니쿠마로로)·버니·헐(오로나)·캔턴·엔더베리 등의 환상 산호도가 포함된다." comment="" />
+<SENTENCE id="sent7" start="398" end="470" text="19세기 미국의 고래잡이선들에 의해 발견된 이 제도는 총 육지 면적이 28㎢이고, 모든 섬은 모래가 많은 저지대로 구성되어 있다." comment="" />
+<SENTENCE id="sent8" start="471" end="499" text="몇몇 섬은 구아노를 채취하기 위해 개발되기도 했다." comment="" />
+<SENTENCE id="sent9" start="500" end="551" text="1889년 영국에 합병되었고, 1937년에는 영국 식민지인 길버트-엘리스 제도에 포함되었다." comment="" />
+<SENTENCE id="sent10" start="552" end="654" text="1938년 길버트 제도의 식민주의자들이 시드니·가드너·헐 등의 섬에 정착했으나 변덕스러운 강우 상태 때문에 살기가 어려워 1958, 1963년에 모든 주민들이 솔로몬 제도로 이주했다." comment="" />
+<SENTENCE id="sent11" start="655" end="752" text="1939년 이후 미국과 영국은 캔턴과 엔더베리 환초를 태평양 횡단 비행기들의 기착지로 이용하기 위해 공동 관리했고, 1970년부터 미국은 캔턴 환초를 미사일 기지로 사용했다." comment="" />
+<SENTENCE id="sent12" start="753" end="788" text="1979년 피닉스 제도 전부가 독립한 키리바시에 속하게 되었다." comment="" />
+<QSLINK id="qsl2" fromID="pl5" fromText="하와이" toID="pl4" toText="영토" relType="DC" trajector="pl4" landmark="pl5" trigger="s2" comment="" />
+<QSLINK id="qsl5" fromID="pl15" fromText="길버트 제도" toID="pl14" toText="미크로네시아" relType="IN" trajector="pl15" landmark="pl14" trigger="s4" comment="" />
+<QSLINK id="qsl6" fromID="pl17" fromText="피닉스 제도" toID="pl16" toText="폴리네시아" relType="IN" trajector="pl17" landmark="pl16" trigger="s5" comment="" />
+<QSLINK id="qsl7" fromID="pl18" fromText="라인 제도" toID="pl16" toText="폴리네시아" relType="IN" trajector="pl18" landmark="pl16" trigger="s5" comment="" />
+<QSLINK id="qsl9" fromID="pl63" fromText="" toID="p0" toText="적도" relType="PO" trajector="pl63" landmark="p0" trigger="s8" comment="" />
+<QSLINK id="qsl10" fromID="pl63" fromText="" toID="p1" toText="날짜 변경선" relType="PO" trajector="pl63" landmark="p1" trigger="s8" comment="" />
+<QSLINK id="qsl11" fromID="se0" fromText="사람" toID="pl23" toText="환초" relType="NTPP" trajector="se0" landmark="pl23" trigger="s7" comment="" />
+<QSLINK id="qsl15" fromID="pl60" fromText="피닉스 제도" toID="pl61" toText="키리바시" relType="IN" trajector="pl60" landmark="pl61" trigger="s14" comment="" />
+<QSLINK id="qsl4" fromID="pl19" fromText="섬" toID="pl18" toText="라인 제도" relType="IN" trajector="pl19" landmark="pl18" trigger="s0" comment="" />
+<QSLINK id="qsl8" fromID="se3" fromText="사람" toID="pl22" toText="피닉스 제도" relType="NTPP" trajector="se3" landmark="pl22" trigger="s9" comment="" />
+<QSLINK id="qsl12" fromID="pl4" fromText="영토" toID="pl3" toText="키리바시" relType="NTPP" trajector="pl4" landmark="pl3" trigger="s10" comment="" />
+<QSLINK id="qsl13" fromID="pl8" fromText="길버트 제도" toID="pl7" toText="미크로네시아" relType="NTPP" trajector="pl8" landmark="pl7" trigger="s11" comment="" />
+<OLINK id="ol0" fromID="pl5" fromText="하와이" toID="pl4" toText="영토" relType="남서" trajector="pl4" landmark="pl5" trigger="s1" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl20" fromText="길버트 제도" toID="pl63" toText="" relType="서" trajector="pl20" landmark="pl63" trigger="s3" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl21" fromText="피닉스 제도" toID="pl63" toText="" relType="서" trajector="pl21" landmark="pl63" trigger="s3" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl1" fromText="태평양" toID="pl2" toText="군도" relType="중서" trajector="pl2" landmark="pl1" trigger="s6" frame_type="ABSOLUTE" referencePt="중서" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="pl6" fromText="태평양" toID="pl24" toText="" relType="중" trajector="pl24" landmark="pl6" trigger="s15" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m1" fromText="정착했" toID="ms1" toText="에" trigger="m1" source="" goal="pl50" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl1" fromID="m0" fromText="이주했" toID="ms0" toText="로" trigger="m0" source="" goal="pl51" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl2" fromID="se2" fromText="식민주의자들" toID="pl49" toText="헐" trigger="m1" source="" goal="pl49" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl3" fromID="se2" fromText="식민주의자들" toID="pl48" toText="가드너" trigger="m1" source="" goal="pl48" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl4" fromID="se2" fromText="식민주의자들" toID="pl47" toText="시드니" trigger="m1" source="" goal="pl47" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MEASURELINK id="ml0" fromID="pl5" fromText="하와이" toID="pl4" toText="영토" trajector="pl5" landmark="pl4" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl10" fromText="섬" toID="me1" toText="2백만㎢" trajector="pl10" landmark="pl10" relType="GENERAL_DIMENSION" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="me2" fromText="28㎢" toID="pl39" toText="제도" trajector="pl39" landmark="pl39" relType="GENERAL_DIMENSION" val="me2" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

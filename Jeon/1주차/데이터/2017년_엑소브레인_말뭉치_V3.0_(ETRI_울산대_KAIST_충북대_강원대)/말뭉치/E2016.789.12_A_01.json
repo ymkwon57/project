@@ -1,0 +1,227 @@
+{
+    "doc_id": "E2016.789.12_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "누리집", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<컴퓨터> 개인이나 단체가 월드 와이드 웹에서 볼 수 있게 만든 하이퍼텍스트.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "컴퓨터", "type": "NNG", "position": 1, "weight": 0.9}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 10, "weight": 1}, 
+                {"id": 3, "lemma": "개인", "type": "NNG", "position": 12, "weight": 0.9}, 
+                {"id": 4, "lemma": "이나", "type": "JC", "position": 18, "weight": 0.0238189}, 
+                {"id": 5, "lemma": "단체", "type": "NNG", "position": 25, "weight": 0.802941}, 
+                {"id": 6, "lemma": "가", "type": "JKS", "position": 31, "weight": 0.066324}, 
+                {"id": 7, "lemma": "월드", "type": "NNG", "position": 35, "weight": 0.9}, 
+                {"id": 8, "lemma": "와이드", "type": "NNG", "position": 42, "weight": 0.9}, 
+                {"id": 9, "lemma": "웹", "type": "NNG", "position": 52, "weight": 0.180309}, 
+                {"id": 10, "lemma": "에서", "type": "JKB", "position": 55, "weight": 0.153407}, 
+                {"id": 11, "lemma": "보", "type": "VV", "position": 62, "weight": 0.271756}, 
+                {"id": 12, "lemma": "ㄹ", "type": "ETM", "position": 62, "weight": 0.300746}, 
+                {"id": 13, "lemma": "수", "type": "NNB", "position": 66, "weight": 0.215617}, 
+                {"id": 14, "lemma": "있", "type": "VA", "position": 70, "weight": 0.0518488}, 
+                {"id": 15, "lemma": "게", "type": "EC", "position": 73, "weight": 0.31879}, 
+                {"id": 16, "lemma": "만들", "type": "VV", "position": 77, "weight": 0.9}, 
+                {"id": 17, "lemma": "ㄴ", "type": "ETM", "position": 80, "weight": 0.304215}, 
+                {"id": 18, "lemma": "하이퍼텍스트", "type": "NNG", "position": 84, "weight": 0.9}, 
+                {"id": 19, "lemma": ".", "type": "SF", "position": 102, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "컴퓨터", "type": "NNG", "scode": "000000", "weight": 1, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "개인", "type": "NNG", "scode": "020000", "weight": 0.166667, "position": 12, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이나", "type": "JC", "scode": "000000", "weight": 1, "position": 18, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "단체", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 25, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 31, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "월드", "type": "NNG", "scode": "000000", "weight": 0, "position": 35, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "와이드", "type": "NNG", "scode": "000000", "weight": 0, "position": 42, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "웹", "type": "NNG", "scode": "000000", "weight": 1, "position": 52, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 55, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "보", "type": "VV", "scode": "010101", "weight": 0.025641, "position": 62, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "ㄹ", "type": "ETM", "scode": "000000", "weight": 1, "position": 62, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "수", "type": "NNB", "scode": "020100", "weight": 0.02, "position": 66, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "있", "type": "VA", "scode": "010305", "weight": 0.0416667, "position": 70, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "게", "type": "EC", "scode": "000000", "weight": 1, "position": 73, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "만들", "type": "VV", "scode": "000101", "weight": 0.0769231, "position": 77, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 80, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "하이퍼텍스트", "type": "NNG", "scode": "000000", "weight": 1, "position": 84, "begin": 18, "end": 18}, 
+                {"id": 19, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 102, "begin": 19, "end": 19}
+            ], 
+            "word": [
+                {"id": 0, "text": "<컴퓨터>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "개인이나", "type": "", "begin": 3, "end": 4}, 
+                {"id": 2, "text": "단체가", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "월드", "type": "", "begin": 7, "end": 7}, 
+                {"id": 4, "text": "와이드", "type": "", "begin": 8, "end": 8}, 
+                {"id": 5, "text": "웹에서", "type": "", "begin": 9, "end": 10}, 
+                {"id": 6, "text": "볼", "type": "", "begin": 11, "end": 12}, 
+                {"id": 7, "text": "수", "type": "", "begin": 13, "end": 13}, 
+                {"id": 8, "text": "있게", "type": "", "begin": 14, "end": 15}, 
+                {"id": 9, "text": "만든", "type": "", "begin": 16, "end": 17}, 
+                {"id": 10, "text": "하이퍼텍스트.", "type": "", "begin": 18, "end": 19}
+            ], 
+            "NE": [
+                {"id": 0, "text": "컴퓨터", "type": "TMI_HW", "begin": 1, "end": 1, "weight": 0.41803, "common_noun": 0}, 
+                {"id": 1, "text": "월드 와이드 웹", "type": "TR_SCIENCE", "begin": 7, "end": 9, "weight": 0.10314, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<컴퓨터>", "head": 10, "label": "NP", "mod": [], "weight": 0.912303}, 
+                {"id": 1, "text": "개인이나", "head": 2, "label": "NP_CNJ", "mod": [], "weight": 0.605121}, 
+                {"id": 2, "text": "단체가", "head": 6, "label": "NP_SBJ", "mod": [1], "weight": 0.798176}, 
+                {"id": 3, "text": "월드", "head": 4, "label": "NP", "mod": [], "weight": 0.553427}, 
+                {"id": 4, "text": "와이드", "head": 5, "label": "NP", "mod": [3], "weight": 0.750594}, 
+                {"id": 5, "text": "웹에서", "head": 6, "label": "NP_AJT", "mod": [4], "weight": 0.83536}, 
+                {"id": 6, "text": "볼", "head": 7, "label": "VP_MOD", "mod": [2, 5], "weight": 0.844568}, 
+                {"id": 7, "text": "수", "head": 8, "label": "NP_SBJ", "mod": [6], "weight": 0.606676}, 
+                {"id": 8, "text": "있게", "head": 9, "label": "VP", "mod": [7], "weight": 0.348552}, 
+                {"id": 9, "text": "만든", "head": 10, "label": "VP_MOD", "mod": [8], "weight": 0.770243}, 
+                {"id": 10, "text": "하이퍼텍스트.", "head": -1, "label": "NP", "mod": [0, 9], "weight": 0.0168824}
+            ], 
+            "SRL": [
+                {"verb": "보", "sense": 1, "word_id": 6, "weight": 0.256318, "argument": [
+                    {"type": "ARG0", "word_id": 2, "text": "단체가", "weight": 0.193436}, 
+                    {"type": "ARGM-LOC", "word_id": 5, "text": "웹에서", "weight": 0.161327}, 
+                    {"type": "AUX", "word_id": 8, "text": "있게", "weight": 0.41419}
+                ]}, 
+                {"verb": "만들", "sense": 1, "word_id": 9, "weight": 0.144279, "argument": [
+                    {"type": "ARGM-PRP", "word_id": 8, "text": "있게", "weight": 0.119507}, 
+                    {"type": "ARG1", "word_id": 10, "text": "하이퍼텍스트.", "weight": 0.169052}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "개인의 관심사나 단체의 업무, 홍보 따위의 내용을 다양하게 제공한다.", 
+            "morp": [
+                {"id": 0, "lemma": "개인", "type": "NNG", "position": 103, "weight": 0.9}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 109, "weight": 0.0694213}, 
+                {"id": 2, "lemma": "관심", "type": "NNG", "position": 113, "weight": 0.9}, 
+                {"id": 3, "lemma": "사", "type": "XSN", "position": 119, "weight": 0.00634534}, 
+                {"id": 4, "lemma": "나", "type": "JC", "position": 122, "weight": 0.00299131}, 
+                {"id": 5, "lemma": "단체", "type": "NNG", "position": 126, "weight": 0.802941}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 132, "weight": 0.0694213}, 
+                {"id": 7, "lemma": "업무", "type": "NNG", "position": 136, "weight": 0.9}, 
+                {"id": 8, "lemma": ",", "type": "SP", "position": 142, "weight": 1}, 
+                {"id": 9, "lemma": "홍보", "type": "NNG", "position": 144, "weight": 0.528084}, 
+                {"id": 10, "lemma": "따위", "type": "NNB", "position": 151, "weight": 0.9}, 
+                {"id": 11, "lemma": "의", "type": "JKG", "position": 157, "weight": 0.0520933}, 
+                {"id": 12, "lemma": "내용", "type": "NNG", "position": 161, "weight": 0.87126}, 
+                {"id": 13, "lemma": "을", "type": "JKO", "position": 167, "weight": 0.129611}, 
+                {"id": 14, "lemma": "다양", "type": "NNG", "position": 171, "weight": 0.9}, 
+                {"id": 15, "lemma": "하", "type": "XSA", "position": 177, "weight": 0.0001}, 
+                {"id": 16, "lemma": "게", "type": "EC", "position": 180, "weight": 0.362254}, 
+                {"id": 17, "lemma": "제공", "type": "NNG", "position": 184, "weight": 0.21865}, 
+                {"id": 18, "lemma": "하", "type": "XSV", "position": 190, "weight": 0.0001}, 
+                {"id": 19, "lemma": "ㄴ다", "type": "EF", "position": 190, "weight": 0.0449045}, 
+                {"id": 20, "lemma": ".", "type": "SF", "position": 196, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "개인", "type": "NNG", "scode": "020000", "weight": 0.166667, "position": 103, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 109, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "관심사", "type": "NNG", "scode": "000000", "weight": 1, "position": 113, "begin": 2, "end": 3}, 
+                {"id": 3, "text": "나", "type": "JC", "scode": "000000", "weight": 1, "position": 122, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "단체", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 126, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 132, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "업무", "type": "NNG", "scode": "020000", "weight": 0.333333, "position": 136, "begin": 7, "end": 7}, 
+                {"id": 7, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 142, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "홍보", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 144, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "따위", "type": "NNB", "scode": "000001", "weight": 0.5, "position": 151, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 157, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "내용", "type": "NNG", "scode": "020003", "weight": 0.125, "position": 161, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 167, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "다양하", "type": "VA", "scode": "010000", "weight": 0.5, "position": 171, "begin": 14, "end": 15}, 
+                {"id": 14, "text": "게", "type": "EC", "scode": "000000", "weight": 1, "position": 180, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "제공하", "type": "VV", "scode": "020000", "weight": 0.5, "position": 184, "begin": 17, "end": 18}, 
+                {"id": 16, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 190, "begin": 19, "end": 19}, 
+                {"id": 17, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 196, "begin": 20, "end": 20}
+            ], 
+            "word": [
+                {"id": 0, "text": "개인의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "관심사나", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "단체의", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "업무,", "type": "", "begin": 7, "end": 8}, 
+                {"id": 4, "text": "홍보", "type": "", "begin": 9, "end": 9}, 
+                {"id": 5, "text": "따위의", "type": "", "begin": 10, "end": 11}, 
+                {"id": 6, "text": "내용을", "type": "", "begin": 12, "end": 13}, 
+                {"id": 7, "text": "다양하게", "type": "", "begin": 14, "end": 16}, 
+                {"id": 8, "text": "제공한다.", "type": "", "begin": 17, "end": 20}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "개인의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.463737}, 
+                {"id": 1, "text": "관심사나", "head": 4, "label": "NP_CNJ", "mod": [0], "weight": 0.413673}, 
+                {"id": 2, "text": "단체의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.359087}, 
+                {"id": 3, "text": "업무,", "head": 4, "label": "NP_CNJ", "mod": [2], "weight": 0.422915}, 
+                {"id": 4, "text": "홍보", "head": 5, "label": "NP", "mod": [1, 3], "weight": 0.857361}, 
+                {"id": 5, "text": "따위의", "head": 6, "label": "NP_MOD", "mod": [4], "weight": 0.690137}, 
+                {"id": 6, "text": "내용을", "head": 8, "label": "NP_OBJ", "mod": [5], "weight": 0.836859}, 
+                {"id": 7, "text": "다양하게", "head": 8, "label": "VP_AJT", "mod": [], "weight": 0.607}, 
+                {"id": 8, "text": "제공한다.", "head": -1, "label": "VP", "mod": [6, 7], "weight": 0.00800468}
+            ], 
+            "SRL": [
+                {"verb": "제공", "sense": 1, "word_id": 8, "weight": 0.156617, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "내용을", "weight": 0.184954}, 
+                    {"type": "ARGM-MNR", "word_id": 7, "text": "다양하게", "weight": 0.12828}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "TMI_HW", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "<컴퓨터>", "start_eid_short": 0, "end_eid_short": 0, "text_short": "<컴퓨터>"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "개인이나 단체가", "start_eid_short": 2, "end_eid_short": 2, "text_short": "단체가"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "개인이나", "start_eid_short": 1, "end_eid_short": 1, "text_short": "개인이나"}, 
+            {"id": 9, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "개인의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "개인의"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 3, "end_eid": 5, "ne_id": -1, "text": "월드 와이드 웹에서", "start_eid_short": 3, "end_eid_short": 5, "text_short": "월드 와이드 웹에서"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "단체가", "start_eid_short": 2, "end_eid_short": 2, "text_short": "단체가"}, 
+            {"id": 11, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "단체의", "start_eid_short": 2, "end_eid_short": 2, "text_short": "단체의"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "홍보", "start_eid_short": 4, "end_eid_short": 4, "text_short": "홍보"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 0, "end_eid": 6, "ne_id": -1, "text": "개인의 관심사나 단체의 업무, 홍보 따위의 내용을", "start_eid_short": 6, "end_eid_short": 6, "text_short": "내용을"}
+        ]}, 
+        {"id": 7, "type": "TMI_SERVICE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 10, "ne_id": 2, "text": "개인이나 단체가 월드 와이드 웹에서 볼 수 있게 만든 하이퍼텍스트.", "start_eid_short": 10, "end_eid_short": 10, "text_short": "하이퍼텍스트."}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 2, "end_eid": 3, "ne_id": -1, "text": "단체의 업무,", "start_eid_short": 3, "end_eid_short": 3, "text_short": "업무,"}
+        ]}, 
+        {"id": 9, "type": "AF_CULTURAL_ASSET", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "개인의 관심사나", "start_eid_short": 1, "end_eid_short": 1, "text_short": "관심사나"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 0, "end_eid": 5, "ne_id": -1, "text": "개인의 관심사나 단체의 업무, 홍보 따위의", "start_eid_short": 4, "end_eid_short": 5, "text_short": "홍보 따위의"}
+        ]}
+    ]
+}

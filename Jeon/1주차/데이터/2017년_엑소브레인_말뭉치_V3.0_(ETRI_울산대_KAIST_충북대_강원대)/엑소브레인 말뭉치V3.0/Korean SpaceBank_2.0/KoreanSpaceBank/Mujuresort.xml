@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+무주리조트 전라북도 무주군 설천면 심곡리 산43-15에 자리한 스키장이다.
+덕유산 국립공원 내 2백12만3천여평의 부지위에 위치한 한국의 대표적 산악형 리조트인 무주리조트는 자연과의 조화를 기본컨셉으로 하여 자연과 인간, 예술과 건강의 조화로운 상태를 지향하는 4계절 종합 휴양지이다.
+덕유산의 수려한 자연환경과 함께하는 무주리조트, 건물 하나하나와 거리 등 모든 시설이 산악지형에 어울리는 오스트리아 풍으로 이루어져 있어 리조트 입구에 들어서면 마치 유럽에 와있는 듯한 착각을 불러일으킬 만큼 아름다운 경관을 자랑한다.
+자연친화적인 휴양과 즐길 수 있는 갖가지 레포츠로 조화를 이룬 무주리조트는 4계절 휴양지로서 거듭나고 있다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="6" text="무주리조트" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="7" end="11" text="전라북도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="12" end="15" text="무주군" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="16" end="19" text="설천면" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="20" end="23" text="심곡리" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="24" end="30" text="산43-15" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="43" end="51" text="덕유산 국립공원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="65" end="67" text="부지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="91" end="96" text="무주리조트" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="154" end="157" text="휴양지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="161" end="164" text="덕유산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="181" end="186" text="무주리조트" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="254" end="256" text="유럽" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="328" end="333" text="무주리조트" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="74" end="76" text="한국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="209" end="213" text="산악지형" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="339" end="342" text="휴양지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="339" end="342" text="휴양지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="197" end="199" text="거리" beginID="" endID="" midIDs="" type="ROAD" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="86" end="89" text="리조트" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="36" end="39" text="스키장" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se6" start="242" end="244" text="입구" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="246" end="249" text="들어서" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="30" end="31" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="52" end="53" text="내" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="67" end="68" text="위" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="244" end="245" text="에" motion_signal_type="" comment="" />
+<MEASURE id="me0" start="54" end="63" text="2백12만3천여평" value="2123000" unit="평" comment="" />
+<SENTENCE id="sent0" start="1" end="42" text="무주리조트 전라북도 무주군 설천면 심곡리 산43-15에 자리한 스키장이다." comment="" />
+<SENTENCE id="sent1" start="43" end="160" text="덕유산 국립공원 내 2백12만3천여평의 부지위에 위치한 한국의 대표적 산악형 리조트인 무주리조트는 자연과의 조화를 기본컨셉으로 하여 자연과 인간, 예술과 건강의 조화로운 상태를 지향하는 4계절 종합 휴양지이다." comment="" />
+<SENTENCE id="sent2" start="161" end="292" text="덕유산의 수려한 자연환경과 함께하는 무주리조트, 건물 하나하나와 거리 등 모든 시설이 산악지형에 어울리는 오스트리아 풍으로 이루어져 있어 리조트 입구에 들어서면 마치 유럽에 와있는 듯한 착각을 불러일으킬 만큼 아름다운 경관을 자랑한다." comment="" />
+<SENTENCE id="sent3" start="293" end="353" text="자연친화적인 휴양과 즐길 수 있는 갖가지 레포츠로 조화를 이룬 무주리조트는 4계절 휴양지로서 거듭나고 있다." comment="" />
+<QSLINK id="qsl1" fromID="pl8" fromText="부지" toID="pl7" toText="덕유산 국립공원" relType="IN" trajector="pl8" landmark="pl7" trigger="s1" comment="" />
+<QSLINK id="qsl2" fromID="se1" fromText="스키장" toID="pl5" toText="산43-15" relType="IN" trajector="se1" landmark="pl5" trigger="s0" comment="" />
+<OLINK id="ol0" fromID="se0" fromText="리조트" toID="pl8" toText="부지" relType="위" trajector="se0" landmark="pl8" trigger="s2" frame_type="INTRINSIC" referencePt="pl8" projective="TRUE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="들어서" toID="ms0" toText="에" trigger="m0" source="" goal="se6" midPoint="" mover="" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MEASURELINK id="ml0" fromID="pl8" fromText="부지" toID="me0" toText="2백12만3천여평" trajector="pl8" landmark="pl8" relType="GENERAL_DIMENSION" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+후쿠오카(福岡)는 일본 규슈의 관문이자 대표적인 상업도시이다. 그 일부가 하카다로 알려져 있는데 규슈 내의 최대의 도시이다. 인구가 약 130만이상이다. 여기서 볼거리는 많고 후쿠오카 현에서 쇼핑할 경우 이 동명의 수도에서 머물고 보는 것이 좋다. 기타큐슈는 규슈 최대의 도시인데 면적은 486 평방킬로미터이다. 그곳은 그 산업으로 가장 잘 알려져 있지만 보고 즐길 거리가 많다.
+
+후쿠오카 국제공항은 한국, 중국, 타이완으로 국제노선이 있다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="후쿠오카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="11" end="13" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="14" end="16" text="규슈" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="28" end="32" text="상업도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="42" end="45" text="하카다" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="55" end="57" text="규슈" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="65" end="67" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="87" end="89" text="여기" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="99" end="105" text="후쿠오카 현" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="121" end="123" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="140" end="144" text="기타큐슈" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="146" end="148" text="규슈" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="153" end="155" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="176" end="178" text="그곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="215" end="224" text="후쿠오카 국제공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="226" end="228" text="한국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="230" end="232" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="234" end="237" text="타이완" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="38" end="40" text="일부" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="126" end="128" text="머물" domain="" latLong="" elevation="" motion_type="PATH" motion_class="STAY" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="58" end="59" text="내" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="123" end="125" text="에서" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="162" end="172" text="486 평방킬로미터" value="486" unit="km2" comment="" />
+<SENTENCE id="sent0" start="1" end="35" text="후쿠오카(福岡)는 일본 규슈의 관문이자 대표적인 상업도시이다." comment="" />
+<SENTENCE id="sent1" start="36" end="70" text="그 일부가 하카다로 알려져 있는데 규슈 내의 최대의 도시이다." comment="" />
+<SENTENCE id="sent2" start="71" end="86" text="인구가 약 130만이상이다." comment="" />
+<SENTENCE id="sent3" start="87" end="139" text="여기서 볼거리는 많고 후쿠오카 현에서 쇼핑할 경우 이 동명의 수도에서 머물고 보는 것이 좋다." comment="" />
+<SENTENCE id="sent4" start="140" end="175" text="기타큐슈는 규슈 최대의 도시인데 면적은 486 평방킬로미터이다." comment="" />
+<SENTENCE id="sent5" start="176" end="213" text="그곳은 그 산업으로 가장 잘 알려져 있지만 보고 즐길 거리가 많다." comment="" />
+<SENTENCE id="sent6" start="215" end="249" text="후쿠오카 국제공항은 한국, 중국, 타이완으로 국제노선이 있다." comment="" />
+<QSLINK id="qsl0" fromID="pl6" fromText="도시" toID="pl5" toText="규슈" relType="IN" trajector="pl6" landmark="pl5" trigger="s0" comment="" />
+<MOVELINK id="mvl0" fromID="ms0" fromText="에서" toID="m0" toText="머물" trigger="m0" source="" goal="pl9" midPoint="" mover="" landmark="pl9" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MEASURELINK id="ml0" fromID="pl12" fromText="도시" toID="me0" toText="486 평방킬로미터" trajector="pl12" landmark="pl12" relType="GENERAL_DIMENSION" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

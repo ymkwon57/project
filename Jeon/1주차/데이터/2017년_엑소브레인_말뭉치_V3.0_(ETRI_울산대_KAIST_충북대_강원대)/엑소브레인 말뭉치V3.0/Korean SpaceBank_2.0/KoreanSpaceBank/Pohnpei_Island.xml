@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+폰페이 섬[Pohnpei island]은 면적 334km2이며, 인구 약 3만이다. 옛 이름은 포나페 섬(Ponape island.)이라고 불렸다. 서태평양의 캐롤라인 제도 동부에 있으며 미크로네시아 연방의 한 주(州)를 구성하고 있으며 잘 알려진 괌 섬으로 부터 남동쪽 방향으로 1500km 떨어진 곳에 위치한다. 미크로네시아의 수도인 팔리키가 이 곳에 있다. 섬은 중앙 고지와 주위의 낮은 지대로 이루어지고 바깥쪽은 보초(堡礁)에 의해서 둘러싸여 있으며 연방에 소속된 섬 중에서 가장 크다. 2개의 큰 강이 있어 수량(水量)도 풍부하다. 최고봉은 토톨름 산(791m)이며, 중앙의 고지는 밀림에 덮여 있고 주위의 낮은 지대의 토양은 기름지다.
+16세기경 유럽인들이 처음 이 곳을 탐험하였고 스페인 사람들이 뉴필리핀이라 부르다가, 1696년에 카로린 군도(Caroline Islands)라고 이름을 바꿔 부르게 되었다. 1828년 러시아 군함 ‘세냐빈호’가 폰페이 섬에 정박하기도 하였다. 제1차 세계대전 후 1914~1945년까지 일본의 지배를 받았으며, 제2차 세계대전 후부터 1986년까지 국제연합(UN)의 신탁통치령이었다.
+보트를 타고 폰페이 섬 주변에 있는 파킨(Pakin), 안트(Ant)등의 2개의 산호대를 둘러보는 보트 트립은 매우 특별한 경험이 선사한다. 때 묻지 않는 파라다이스에서 자아내는 은은한 자연을 느낄 수 있다.
+코프라·가다랭이포·보크사이트광(鑛)·철광석 등이 난다. 폰페이 섬에는 난마돌이라는 500년부터 1500년까지 약 1000년 동안 건설된 고대 유적지가 남아있다. 폰페이 섬에 산재한 현무암과 석회암으로 만든 왕궁·묘지·방벽(防壁)등의 거석 건조물 유적이 인공 섬을 이루면서 세워져 있다.
+난마돌[Nanmatol] 유적은 난투와스로 불리면 폰페이 섬 남쪽 해안에 있다. 안쪽 미크로네시아 캐롤라인 제도(諸島)의 포나페 섬에 인접한 템웬 섬 근처의 산호초(珊瑚礁) 위에 있는 석조 건축물 군(群). 약 80개 건축물로서, 13~15세기에 번영한 오세아니아 최대의 거석(巨石)유적이다. 현무암 주재(柱材)를 수평으로 몇 단씩 쌓아올려 길이 약 20m, 높이 약 1~2m에 이르는 플랫폼 모양이고, 그 평면은 대부분 직사각형이다. 큰 것은 포나페의 왕가로 알려진 샤우 테 레울가(家)의 묘로, 훌륭한 석실(石室)이 딸려 있다.
+유물은 조개 도끼[貝斧], 조개 화폐[貝貨], 패륜(貝輪), 조개껍질로 만든 낚싯바늘과 사람뼈 ·고래뼈 ·쇳조각 등이다. 주목을 끄는 것은 얇은 소문토기편(素文土器片)이다. 그것이 만약 이곳에서 만들어진 것이라면, 미크로네시아 토기 분포의 동한(東限)을 나타내는 것이다. 폰페이 섬에서 행하는 남자 고환을 절제하는 의식에 나타난다. 고환을 절제하는 이유는 전쟁을 하거나 달릴 때 방해를 주기 때문이다. 그러나 이러한 목적은 후대에 와서는 성적인 매력을 주었다.
+북위 7도에 위치한 미크로네시아 연방의 폰페이 섬은 북태평양 주요 원양어업 기지 가운데 하나다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="6" text="폰페이 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="54" end="59" text="포나페 섬" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="84" end="88" text="서태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="90" end="97" text="캐롤라인 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="106" end="115" text="미크로네시아 연방" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="119" end="120" text="주" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="140" end="143" text="괌 섬" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="169" end="170" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="178" end="184" text="미크로네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="186" end="188" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="190" end="193" text="팔리키" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="197" end="198" text="곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="204" end="205" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="210" end="212" text="고지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="221" end="223" text="지대" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="낮은" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="236" end="238" text="보초" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="257" end="259" text="연방" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="265" end="266" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="304" end="307" text="최고봉" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="309" end="314" text="토톨름 산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me2" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="328" end="330" text="고지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="332" end="334" text="밀림" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="349" end="351" text="지대" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="낮은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="380" end="381" text="곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="398" end="402" text="뉴필리핀" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="418" end="424" text="카로린 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="482" end="487" text="폰페이 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="586" end="591" text="폰페이 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="599" end="601" text="파킨" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="610" end="612" text="안트" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="727" end="732" text="폰페이 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="786" end="791" text="폰페이 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="840" end="841" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl48" start="874" end="878" text="난투와스" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl49" start="884" end="889" text="폰페이 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl50" start="893" end="895" text="해안" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl51" start="904" end="910" text="미크로네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl52" start="911" end="918" text="캐롤라인 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl53" start="924" end="929" text="포나페 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl54" start="935" end="939" text="템웬 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl56" start="998" end="1003" text="오세아니아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl62" start="1258" end="1260" text="이곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl63" start="1306" end="1311" text="폰페이 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl64" start="1423" end="1432" text="미크로네시아 연방" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl65" start="1434" end="1439" text="폰페이 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl66" start="1441" end="1445" text="북태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl68" start="735" end="738" text="난마돌" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl69" start="856" end="859" text="난마돌" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl70" start="870" end="872" text="유적" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl71" start="-1" end="-1" text="" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me3,me4" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="84" />
+<PLACE id="pl59" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="1020" />
+<PLACE id="pl6" start="775" end="778" text="유적지" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PATH id="p0" start="1412" end="1417" text="북위 7도" beginID="" endID="" midIDs="" type="ROW" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="284" end="285" text="강" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="큰" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="369" end="373" text="유럽인들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="475" end="479" text="세냐빈호" type="ARTIFACT" dimensionality="POINT" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se6" start="966" end="967" text="군" type="ARTIFACT" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="579" end="581" text="보트" type="VEHICLE" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="624" end="627" text="산호대" type="ARTIFACT" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se8" start="811" end="813" text="왕궁" type="ARTIFACT" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se9" start="814" end="816" text="묘지" type="ARTIFACT" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se10" start="817" end="819" text="방벽" type="ARTIFACT" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se11" start="833" end="835" text="유적" type="ARTIFACT" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se12" start="1014" end="1016" text="유적" type="ARTIFACT" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se13" start="1131" end="1132" text="묘" type="ARTIFACT" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se14" start="944" end="947" text="산호초" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="579" />
+<MOTION id="m0" start="383" end="386" text="탐험하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="489" end="492" text="정박하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="629" end="632" text="둘러보" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="583" end="584" text="타" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="149" end="152" text="남동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="170" end="171" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="198" end="199" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="248" end="251" text="둘러싸" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="342" end="344" text="주위" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="592" end="594" text="주변" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="732" end="733" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="791" end="792" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="895" end="896" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s13" start="890" end="892" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s14" start="901" end="903" text="안쪽" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s18" start="1417" end="1418" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s21" start="165" end="168" text="떨어진" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s23" start="259" end="260" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s15" start="953" end="955" text="위에" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="98" end="100" text="동부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="88" end="89" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s17" start="324" end="326" text="중앙" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s19" start="1432" end="1433" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="115" end="116" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="184" end="185" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s20" start="207" end="209" text="중앙" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s22" start="1004" end="1006" text="최대" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="381" end="382" text="을" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="487" end="488" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="581" end="582" text="를" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="627" end="628" text="를" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="27" end="33" text="334km2" value="334" unit="km2" comment="" />
+<MEASURE id="me1" start="158" end="164" text="1500km" value="1500" unit="km" comment="" />
+<MEASURE id="me2" start="315" end="319" text="791m" value="791" unit="m" comment="" />
+<MEASURE id="me3" start="1052" end="1055" text="20m" value="20" unit="M" comment="" />
+<MEASURE id="me4" start="1062" end="1066" text="1~2m" value="1~2" unit="M" comment="" />
+<MEASURE id="me5" start="931" end="934" text="인접한" value="인접" unit="" comment="" />
+<MEASURE id="me6" start="214" end="216" text="주위" value="주위" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="47" text="폰페이 섬[Pohnpei island]은 면적 334km2이며, 인구 약 3만이다." comment="" />
+<SENTENCE id="sent1" start="48" end="83" text="옛 이름은 포나페 섬(Ponape island.)이라고 불렸다." comment="" />
+<SENTENCE id="sent2" start="84" end="177" text="서태평양의 캐롤라인 제도 동부에 있으며 미크로네시아 연방의 한 주(州)를 구성하고 있으며 잘 알려진 괌 섬으로 부터 남동쪽 방향으로 1500km 떨어진 곳에 위치한다." comment="" />
+<SENTENCE id="sent3" start="178" end="203" text="미크로네시아의 수도인 팔리키가 이 곳에 있다." comment="" />
+<SENTENCE id="sent4" start="204" end="277" text="섬은 중앙 고지와 주위의 낮은 지대로 이루어지고 바깥쪽은 보초(堡礁)에 의해서 둘러싸여 있으며 연방에 소속된 섬 중에서 가장 크다." comment="" />
+<SENTENCE id="sent5" start="278" end="303" text="2개의 큰 강이 있어 수량(水量)도 풍부하다." comment="" />
+<SENTENCE id="sent6" start="304" end="362" text="최고봉은 토톨름 산(791m)이며, 중앙의 고지는 밀림에 덮여 있고 주위의 낮은 지대의 토양은 기름지다." comment="" />
+<SENTENCE id="sent7" start="363" end="460" text="16세기경 유럽인들이 처음 이 곳을 탐험하였고 스페인 사람들이 뉴필리핀이라 부르다가, 1696년에 카로린 군도(Caroline Islands)라고 이름을 바꿔 부르게 되었다." comment="" />
+<SENTENCE id="sent8" start="461" end="499" text="1828년 러시아 군함 ‘세냐빈호’가 폰페이 섬에 정박하기도 하였다." comment="" />
+<SENTENCE id="sent9" start="500" end="578" text="제1차 세계대전 후 1914~1945년까지 일본의 지배를 받았으며, 제2차 세계대전 후부터 1986년까지 국제연합(UN)의 신탁통치령이었다." comment="" />
+<SENTENCE id="sent10" start="579" end="657" text="보트를 타고 폰페이 섬 주변에 있는 파킨(Pakin), 안트(Ant)등의 2개의 산호대를 둘러보는 보트 트립은 매우 특별한 경험이 선사한다." comment="" />
+<SENTENCE id="sent11" start="658" end="695" text="때 묻지 않는 파라다이스에서 자아내는 은은한 자연을 느낄 수 있다." comment="" />
+<SENTENCE id="sent12" start="696" end="726" text="코프라·가다랭이포·보크사이트광(鑛)·철광석 등이 난다." comment="" />
+<SENTENCE id="sent13" start="727" end="785" text="폰페이 섬에는 난마돌이라는 500년부터 1500년까지 약 1000년 동안 건설된 고대 유적지가 남아있다." comment="" />
+<SENTENCE id="sent14" start="786" end="855" text="폰페이 섬에 산재한 현무암과 석회암으로 만든 왕궁·묘지·방벽(防壁)등의 거석 건조물 유적이 인공 섬을 이루면서 세워져 있다." comment="" />
+<SENTENCE id="sent15" start="856" end="900" text="난마돌[Nanmatol] 유적은 난투와스로 불리면 폰페이 섬 남쪽 해안에 있다." comment="" />
+<SENTENCE id="sent16" start="901" end="971" text="안쪽 미크로네시아 캐롤라인 제도(諸島)의 포나페 섬에 인접한 템웬 섬 근처의 산호초(珊瑚礁) 위에 있는 석조 건축물 군(群)." comment="" />
+<SENTENCE id="sent17" start="972" end="1019" text="약 80개 건축물로서, 13~15세기에 번영한 오세아니아 최대의 거석(巨石)유적이다." comment="" />
+<SENTENCE id="sent18" start="1020" end="1099" text="현무암 주재(柱材)를 수평으로 몇 단씩 쌓아올려 길이 약 20m, 높이 약 1~2m에 이르는 플랫폼 모양이고, 그 평면은 대부분 직사각형이다." comment="" />
+<SENTENCE id="sent19" start="1100" end="1153" text="큰 것은 포나페의 왕가로 알려진 샤우 테 레울가(家)의 묘로, 훌륭한 석실(石室)이 딸려 있다." comment="" />
+<SENTENCE id="sent20" start="1154" end="1221" text="유물은 조개 도끼[貝斧], 조개 화폐[貝貨], 패륜(貝輪), 조개껍질로 만든 낚싯바늘과 사람뼈 ·고래뼈 ·쇳조각 등이다." comment="" />
+<SENTENCE id="sent21" start="1222" end="1250" text="주목을 끄는 것은 얇은 소문토기편(素文土器片)이다." comment="" />
+<SENTENCE id="sent22" start="1251" end="1305" text="그것이 만약 이곳에서 만들어진 것이라면, 미크로네시아 토기 분포의 동한(東限)을 나타내는 것이다." comment="" />
+<SENTENCE id="sent23" start="1306" end="1339" text="폰페이 섬에서 행하는 남자 고환을 절제하는 의식에 나타난다." comment="" />
+<SENTENCE id="sent24" start="1340" end="1378" text="고환을 절제하는 이유는 전쟁을 하거나 달릴 때 방해를 주기 때문이다." comment="" />
+<SENTENCE id="sent25" start="1379" end="1411" text="그러나 이러한 목적은 후대에 와서는 성적인 매력을 주었다." comment="" />
+<SENTENCE id="sent26" start="1412" end="1465" text="북위 7도에 위치한 미크로네시아 연방의 폰페이 섬은 북태평양 주요 원양어업 기지 가운데 하나다." comment="" />
+<QSLINK id="qsl3" fromID="pl8" fromText="곳" toID="pl7" toText="괌 섬" relType="DC" trajector="pl8" landmark="pl7" trigger="s21" comment="" />
+<QSLINK id="qsl4" fromID="pl36" fromText="" toID="pl8" toText="곳" relType="IN" trajector="pl36" landmark="pl8" trigger="s2" comment="" />
+<QSLINK id="qsl6" fromID="pl11" fromText="팔리키" toID="pl12" toText="곳" relType="IN" trajector="pl11" landmark="pl12" trigger="s3" comment="" />
+<QSLINK id="qsl7" fromID="pl15" fromText="지대" toID="pl14" toText="고지" relType="OUT" trajector="pl15" landmark="pl14" trigger="s16" comment="" />
+<QSLINK id="qsl8" fromID="pl13" fromText="섬" toID="pl16" toText="보초" relType="NTPP" trajector="pl13" landmark="pl16" trigger="s6" comment="" />
+<QSLINK id="qsl9" fromID="pl18" fromText="섬" toID="pl17" toText="연방" relType="IN" trajector="pl18" landmark="pl17" trigger="s23" comment="" />
+<QSLINK id="qsl12" fromID="pl33" fromText="파킨" toID="pl32" toText="폰페이 섬" relType="OUT" trajector="pl33" landmark="pl32" trigger="s9" comment="" />
+<QSLINK id="qsl13" fromID="pl34" fromText="안트" toID="pl32" toText="폰페이 섬" relType="OUT" trajector="pl34" landmark="pl32" trigger="s9" comment="" />
+<QSLINK id="qsl14" fromID="pl68" fromText="난마돌" toID="pl37" toText="폰페이 섬" relType="NTPP" trajector="pl68" landmark="pl37" trigger="s10" comment="" />
+<QSLINK id="qsl23" fromID="pl64" fromText="미크로네시아 연방" toID="p0" toText="북위 7도" relType="IN" trajector="pl64" landmark="p0" trigger="s18" comment="" />
+<QSLINK id="qsl0" fromID="pl3" fromText="캐롤라인 제도" toID="pl2" toText="서태평양" relType="NTPP" trajector="pl3" landmark="pl2" trigger="s7" comment="" />
+<QSLINK id="qsl2" fromID="pl10" fromText="수도" toID="pl12" toText="곳" relType="NTPP" trajector="pl10" landmark="pl12" trigger="s3" comment="" />
+<QSLINK id="qsl15" fromID="pl24" fromText="지대" toID="pl21" toText="토톨름 산" relType="OUT" trajector="pl24" landmark="pl21" trigger="s8" comment="" />
+<QSLINK id="qsl18" fromID="se8" fromText="왕궁" toID="pl40" toText="폰페이 섬" relType="NTPP" trajector="se8" landmark="pl40" trigger="s11" comment="" />
+<QSLINK id="qsl22" fromID="se9" fromText="묘지" toID="pl40" toText="폰페이 섬" relType="NTPP" trajector="se9" landmark="pl40" trigger="s11" comment="" />
+<QSLINK id="qsl24" fromID="se10" fromText="방벽" toID="pl40" toText="폰페이 섬" relType="NTPP" trajector="se10" landmark="pl40" trigger="s11" comment="" />
+<QSLINK id="qsl25" fromID="se11" fromText="유적" toID="pl40" toText="폰페이 섬" relType="NTPP" trajector="se11" landmark="pl40" trigger="s11" comment="" />
+<QSLINK id="qsl27" fromID="pl48" fromText="난투와스" toID="pl50" toText="해안" relType="NTPP" trajector="pl48" landmark="pl50" trigger="s12" comment="" />
+<QSLINK id="qsl28" fromID="pl53" fromText="포나페 섬" toID="pl52" toText="캐롤라인 제도" relType="NTPP" trajector="pl53" landmark="pl52" trigger="s14" comment="" />
+<QSLINK id="qsl29" fromID="pl65" fromText="폰페이 섬" toID="pl64" toText="미크로네시아 연방" relType="NTPP" trajector="pl65" landmark="pl64" trigger="s19" comment="" />
+<QSLINK id="qsl1" fromID="pl5" fromText="주" toID="pl4" toText="미크로네시아 연방" relType="NTPP" trajector="pl5" landmark="pl4" trigger="s4" comment="" />
+<QSLINK id="qsl11" fromID="pl10" fromText="수도" toID="pl9" toText="미크로네시아" relType="NTPP" trajector="pl10" landmark="pl9" trigger="s5" comment="" />
+<QSLINK id="qsl30" fromID="se12" fromText="유적" toID="pl56" toText="오세아니아" relType="NTPP" trajector="se12" landmark="pl56" trigger="s22" comment="" />
+<OLINK id="ol0" fromID="pl8" fromText="곳" toID="pl7" toText="괌 섬" relType="남동" trajector="pl8" landmark="pl7" trigger="s1" frame_type="ABSOLUTE" referencePt="남동" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl50" fromText="해안" toID="pl49" toText="폰페이 섬" relType="남" trajector="pl50" landmark="pl49" trigger="s13" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl36" fromText="" toID="pl3" toText="캐롤라인 제도" relType="동" trajector="pl36" landmark="pl3" trigger="s0" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="se6" fromText="군" toID="se14" toText="산호초" relType="위" trajector="se6" landmark="se14" trigger="s15" frame_type="INTRINSIC" referencePt="se14" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl22" fromText="고지" toID="pl21" toText="토톨름 산" relType="중" trajector="pl22" landmark="pl21" trigger="s17" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="pl14" fromText="고지" toID="pl13" toText="섬" relType="중" trajector="pl14" landmark="pl13" trigger="s20" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="탐험하" toID="ms0" toText="을" trigger="m0" source="" goal="" midPoint="" mover="se0" landmark="pl25" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="정박하" toID="ms1" toText="에" trigger="m1" source="" goal="pl29" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl4" fromID="m4" fromText="타" toID="se4" toText="보트" trigger="m4" source="" goal="se4" midPoint="" mover="se3" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="둘러보" toID="pl34" toText="안트" trigger="m2" source="" goal="pl33" midPoint="" mover="se3" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl3" fromID="se5" fromText="산호대" toID="pl33" toText="파킨" trigger="m2" source="" goal="pl34" midPoint="" mover="se3" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl5" fromID="m2" fromText="둘러보" toID="se5" toText="산호대" trigger="m2" source="" goal="se5" midPoint="" mover="se3" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms3" comment="" />
+<MEASURELINK id="ml0" fromID="pl0" fromText="폰페이 섬" toID="me0" toText="334km2" trajector="pl0" landmark="pl0" relType="GENERAL_DIMENSION" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl8" fromText="곳" toID="pl7" toText="괌 섬" trajector="pl8" landmark="pl7" relType="DISTANCE" val="me1" endPoint1="pl8" endPoint2="pl7" comment="" />
+<MEASURELINK id="ml2" fromID="pl21" fromText="토톨름 산" toID="me2" toText="791m" trajector="pl21" landmark="pl21" relType="HEIGHT" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="pl20" fromText="최고봉" toID="me2" toText="791m" trajector="pl20" landmark="pl20" relType="HEIGHT" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml4" fromID="pl59" fromText="" toID="me3" toText="약 20m" trajector="pl59" landmark="pl59" relType="LENGTH" val="me3" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml5" fromID="me4" fromText="약 1~2m" toID="pl59" toText="" trajector="pl59" landmark="pl59" relType="HEIGHT" val="me4" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml6" fromID="pl54" fromText="템웬 섬" toID="pl53" toText="포나페 섬" trajector="pl54" landmark="pl53" relType="DISTANCE" val="me5" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml7" fromID="pl15" fromText="지대" toID="pl14" toText="고지" trajector="pl15" landmark="pl14" relType="DISTANCE" val="me6" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

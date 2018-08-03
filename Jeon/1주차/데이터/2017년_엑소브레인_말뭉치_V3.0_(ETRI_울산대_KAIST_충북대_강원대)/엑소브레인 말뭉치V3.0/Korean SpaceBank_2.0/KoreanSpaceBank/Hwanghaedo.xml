@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+황해도(Hwanghae)는 북조선의 지역이다. 황해도는 현재 황해북도, 황해남도, 개성으로 행정구역이 나뉘어져 있다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="4" text="황해도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="16" end="19" text="북조선" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="21" end="23" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="27" end="30" text="황해도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="35" end="39" text="황해북도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="41" end="45" text="황해남도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="47" end="49" text="개성" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="52" end="56" text="행정구역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="19" end="20" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SENTENCE id="sent0" start="1" end="26" text="황해도(Hwanghae)는 북조선의 지역이다." comment="" />
+<SENTENCE id="sent1" start="27" end="66" text="황해도는 현재 황해북도, 황해남도, 개성으로 행정구역이 나뉘어져 있다." comment="" />
+<QSLINK id="qsl0" fromID="pl3" fromText="지역" toID="pl2" toText="북조선" relType="IN" trajector="pl3" landmark="pl2" trigger="s0" comment="" />
+<METALINK id="metal0" fromID="pl0" fromText="황해도" toID="pl3" toText="지역" objectID1="pl3" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl4" fromText="황해도" toID="pl5" toText="황해북도" objectID1="pl5" objectID2="pl4" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl4" fromText="황해도" toID="pl6" toText="황해남도" objectID1="pl6" objectID2="pl4" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl4" fromText="황해도" toID="pl7" toText="개성" objectID1="pl7" objectID2="pl4" relType="SUBCOREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

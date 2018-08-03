@@ -1,0 +1,370 @@
+{
+    "doc_id": "E2016.836.11_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "한국은행", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "한국은행(韓國銀行, Bank of Korea, 한은)은 효율적인 통화신용정책의 수립과 집행을 통해 물가안정을 목표로 하는 대한민국의 중앙은행이다.", 
+            "morp": [
+                {"id": 0, "lemma": "한국은행", "type": "NNP", "position": 0, "weight": 0.0795576}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 12, "weight": 1}, 
+                {"id": 2, "lemma": "韓國銀行", "type": "SH", "position": 13, "weight": 1}, 
+                {"id": 3, "lemma": ",", "type": "SP", "position": 25, "weight": 1}, 
+                {"id": 4, "lemma": "Bank", "type": "SL", "position": 27, "weight": 1}, 
+                {"id": 5, "lemma": "of", "type": "SL", "position": 32, "weight": 1}, 
+                {"id": 6, "lemma": "Korea", "type": "SL", "position": 35, "weight": 1}, 
+                {"id": 7, "lemma": ",", "type": "SP", "position": 40, "weight": 1}, 
+                {"id": 8, "lemma": "한은", "type": "NNP", "position": 42, "weight": 0.121168}, 
+                {"id": 9, "lemma": ")", "type": "SS", "position": 48, "weight": 1}, 
+                {"id": 10, "lemma": "은", "type": "JX", "position": 49, "weight": 0.0128817}, 
+                {"id": 11, "lemma": "효율", "type": "NNG", "position": 53, "weight": 0.9}, 
+                {"id": 12, "lemma": "적", "type": "XSN", "position": 59, "weight": 0.0168756}, 
+                {"id": 13, "lemma": "이", "type": "VCP", "position": 62, "weight": 0.0165001}, 
+                {"id": 14, "lemma": "ㄴ", "type": "ETM", "position": 62, "weight": 0.220712}, 
+                {"id": 15, "lemma": "통화", "type": "NNG", "position": 66, "weight": 0.9}, 
+                {"id": 16, "lemma": "신용", "type": "NNG", "position": 72, "weight": 0.9}, 
+                {"id": 17, "lemma": "정책", "type": "NNG", "position": 78, "weight": 0.9}, 
+                {"id": 18, "lemma": "의", "type": "JKG", "position": 84, "weight": 0.0694213}, 
+                {"id": 19, "lemma": "수립", "type": "NNG", "position": 88, "weight": 0.9}, 
+                {"id": 20, "lemma": "과", "type": "JC", "position": 94, "weight": 0.017569}, 
+                {"id": 21, "lemma": "집행", "type": "NNG", "position": 98, "weight": 0.9}, 
+                {"id": 22, "lemma": "을", "type": "JKO", "position": 104, "weight": 0.129611}, 
+                {"id": 23, "lemma": "통하", "type": "VV", "position": 108, "weight": 0.9}, 
+                {"id": 24, "lemma": "아", "type": "EC", "position": 111, "weight": 0.41831}, 
+                {"id": 25, "lemma": "물가", "type": "NNG", "position": 115, "weight": 0.9}, 
+                {"id": 26, "lemma": "안정", "type": "NNG", "position": 121, "weight": 0.184724}, 
+                {"id": 27, "lemma": "을", "type": "JKO", "position": 127, "weight": 0.129611}, 
+                {"id": 28, "lemma": "목표", "type": "NNG", "position": 131, "weight": 0.9}, 
+                {"id": 29, "lemma": "로", "type": "JKB", "position": 137, "weight": 0.153229}, 
+                {"id": 30, "lemma": "하", "type": "VV", "position": 141, "weight": 0.275522}, 
+                {"id": 31, "lemma": "는", "type": "ETM", "position": 144, "weight": 0.184941}, 
+                {"id": 32, "lemma": "대한민국", "type": "NNP", "position": 148, "weight": 0.0280028}, 
+                {"id": 33, "lemma": "의", "type": "JKG", "position": 160, "weight": 0.0987295}, 
+                {"id": 34, "lemma": "중앙", "type": "NNG", "position": 164, "weight": 0.854269}, 
+                {"id": 35, "lemma": "은행", "type": "NNG", "position": 170, "weight": 0.184753}, 
+                {"id": 36, "lemma": "이", "type": "VCP", "position": 176, "weight": 0.0177525}, 
+                {"id": 37, "lemma": "다", "type": "EF", "position": 179, "weight": 0.353579}, 
+                {"id": 38, "lemma": ".", "type": "SF", "position": 182, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "한국은행", "type": "NNP", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 12, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "韓國銀行", "type": "SH", "scode": "000000", "weight": 1, "position": 13, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 25, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "Bank", "type": "SL", "scode": "000000", "weight": 1, "position": 27, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "of", "type": "SL", "scode": "000000", "weight": 1, "position": 32, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "Korea", "type": "SL", "scode": "000000", "weight": 1, "position": 35, "begin": 6, "end": 6}, 
+                {"id": 7, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 40, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "한은", "type": "NNP", "scode": "000000", "weight": 1, "position": 42, "begin": 8, "end": 8}, 
+                {"id": 9, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 48, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 49, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "효율적", "type": "NNG", "scode": "000000", "weight": 1, "position": 53, "begin": 11, "end": 12}, 
+                {"id": 12, "text": "이", "type": "VCP", "scode": "000000", "weight": 0.0172414, "position": 62, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 62, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "통화", "type": "NNG", "scode": "030000", "weight": 0.166667, "position": 66, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "신용", "type": "NNG", "scode": "010002", "weight": 0.25, "position": 72, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "정책", "type": "NNG", "scode": "020000", "weight": 0.333333, "position": 78, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 84, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "수립", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 88, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 94, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "집행", "type": "NNG", "scode": "000002", "weight": 0.25, "position": 98, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 104, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "통하", "type": "VV", "scode": "000704", "weight": 0.0625, "position": 108, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 111, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "물가", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 115, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "안정", "type": "NNG", "scode": "010001", "weight": 0.1, "position": 121, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 127, "begin": 27, "end": 27}, 
+                {"id": 27, "text": "목표", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 131, "begin": 28, "end": 28}, 
+                {"id": 28, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 137, "begin": 29, "end": 29}, 
+                {"id": 29, "text": "하", "type": "VV", "scode": "010101", "weight": 0.02, "position": 141, "begin": 30, "end": 30}, 
+                {"id": 30, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 144, "begin": 31, "end": 31}, 
+                {"id": 31, "text": "대한민국", "type": "NNP", "scode": "000000", "weight": 1, "position": 148, "begin": 32, "end": 32}, 
+                {"id": 32, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 160, "begin": 33, "end": 33}, 
+                {"id": 33, "text": "중앙은행", "type": "NNG", "scode": "000000", "weight": 1, "position": 164, "begin": 34, "end": 35}, 
+                {"id": 34, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 176, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 179, "begin": 37, "end": 37}, 
+                {"id": 36, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 182, "begin": 38, "end": 38}
+            ], 
+            "word": [
+                {"id": 0, "text": "한국은행(韓國銀行,", "type": "", "begin": 0, "end": 3}, 
+                {"id": 1, "text": "Bank", "type": "", "begin": 4, "end": 4}, 
+                {"id": 2, "text": "of", "type": "", "begin": 5, "end": 5}, 
+                {"id": 3, "text": "Korea,", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "한은)은", "type": "", "begin": 8, "end": 10}, 
+                {"id": 5, "text": "효율적인", "type": "", "begin": 11, "end": 14}, 
+                {"id": 6, "text": "통화신용정책의", "type": "", "begin": 15, "end": 18}, 
+                {"id": 7, "text": "수립과", "type": "", "begin": 19, "end": 20}, 
+                {"id": 8, "text": "집행을", "type": "", "begin": 21, "end": 22}, 
+                {"id": 9, "text": "통해", "type": "", "begin": 23, "end": 24}, 
+                {"id": 10, "text": "물가안정을", "type": "", "begin": 25, "end": 27}, 
+                {"id": 11, "text": "목표로", "type": "", "begin": 28, "end": 29}, 
+                {"id": 12, "text": "하는", "type": "", "begin": 30, "end": 31}, 
+                {"id": 13, "text": "대한민국의", "type": "", "begin": 32, "end": 33}, 
+                {"id": 14, "text": "중앙은행이다.", "type": "", "begin": 34, "end": 38}
+            ], 
+            "NE": [
+                {"id": 0, "text": "한국은행", "type": "OGG_ECONOMY", "begin": 0, "end": 0, "weight": 0.649651, "common_noun": 0}, 
+                {"id": 1, "text": "韓國銀行", "type": "OGG_ECONOMY", "begin": 2, "end": 2, "weight": 1, "common_noun": 0}, 
+                {"id": 2, "text": "Bank of Korea", "type": "OGG_ECONOMY", "begin": 4, "end": 6, "weight": 0.0606383, "common_noun": 0}, 
+                {"id": 3, "text": "한은", "type": "OGG_ECONOMY", "begin": 8, "end": 8, "weight": 0.504373, "common_noun": 0}, 
+                {"id": 4, "text": "통화신용정책", "type": "CV_POLICY", "begin": 15, "end": 17, "weight": 0.419695, "common_noun": 0}, 
+                {"id": 5, "text": "대한민국", "type": "LCP_COUNTRY", "begin": 32, "end": 32, "weight": 0.419695, "common_noun": 0}, 
+                {"id": 6, "text": "중앙은행", "type": "OGG_ECONOMY", "begin": 34, "end": 35, "weight": 0.211474, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "한국은행(韓國銀行,", "head": 4, "label": "NP", "mod": [], "weight": 0.548322}, 
+                {"id": 1, "text": "Bank", "head": 2, "label": "NP", "mod": [], "weight": 0.449752}, 
+                {"id": 2, "text": "of", "head": 3, "label": "NP", "mod": [1], "weight": 0.760967}, 
+                {"id": 3, "text": "Korea,", "head": 4, "label": "NP", "mod": [2], "weight": 0.423413}, 
+                {"id": 4, "text": "한은)은", "head": 14, "label": "NP_SBJ", "mod": [0, 3], "weight": 0.778522}, 
+                {"id": 5, "text": "효율적인", "head": 6, "label": "VNP_MOD", "mod": [], "weight": 0.259209}, 
+                {"id": 6, "text": "통화신용정책의", "head": 8, "label": "NP_MOD", "mod": [5], "weight": 0.662599}, 
+                {"id": 7, "text": "수립과", "head": 8, "label": "NP_CNJ", "mod": [], "weight": 0.746339}, 
+                {"id": 8, "text": "집행을", "head": 9, "label": "NP_OBJ", "mod": [6, 7], "weight": 0.741116}, 
+                {"id": 9, "text": "통해", "head": 12, "label": "VP", "mod": [8], "weight": 0.817094}, 
+                {"id": 10, "text": "물가안정을", "head": 11, "label": "NP_OBJ", "mod": [], "weight": 0.654518}, 
+                {"id": 11, "text": "목표로", "head": 12, "label": "NP_AJT", "mod": [10], "weight": 0.802624}, 
+                {"id": 12, "text": "하는", "head": 14, "label": "VP_MOD", "mod": [9, 11], "weight": 0.825922}, 
+                {"id": 13, "text": "대한민국의", "head": 14, "label": "NP_MOD", "mod": [], "weight": 0.746294}, 
+                {"id": 14, "text": "중앙은행이다.", "head": -1, "label": "VNP", "mod": [4, 12, 13], "weight": 0.00136414}
+            ], 
+            "SRL": [
+                {"verb": "통하", "sense": 1, "word_id": 9, "weight": 0.263727, "argument": [
+                    {"type": "ARG2", "word_id": 8, "text": "집행을", "weight": 0.263727}, 
+                    {"type": "ARG1", "word_id": 14, "text": "중앙은행이다.", "weight": 1}
+                ]}, 
+                {"verb": "하", "sense": 3, "word_id": 12, "weight": 0.210332, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "물가안정을", "weight": 0.268376}, 
+                    {"type": "ARG2", "word_id": 11, "text": "목표로", "weight": 0.152289}, 
+                    {"type": "ARG0", "word_id": 14, "text": "중앙은행이다.", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "대한민국 원화의 발권은행이기도 하다.", 
+            "morp": [
+                {"id": 0, "lemma": "대한민국", "type": "NNP", "position": 183, "weight": 0.0891175}, 
+                {"id": 1, "lemma": "원화", "type": "NNG", "position": 196, "weight": 0.278823}, 
+                {"id": 2, "lemma": "의", "type": "JKG", "position": 202, "weight": 0.0694213}, 
+                {"id": 3, "lemma": "발권", "type": "NNG", "position": 206, "weight": 0.6}, 
+                {"id": 4, "lemma": "은행", "type": "NNG", "position": 212, "weight": 0.184753}, 
+                {"id": 5, "lemma": "이", "type": "VCP", "position": 218, "weight": 0.0177525}, 
+                {"id": 6, "lemma": "기", "type": "ETN", "position": 221, "weight": 0.019088}, 
+                {"id": 7, "lemma": "도", "type": "JX", "position": 224, "weight": 0.147715}, 
+                {"id": 8, "lemma": "하", "type": "VX", "position": 228, "weight": 0.00978548}, 
+                {"id": 9, "lemma": "다", "type": "EF", "position": 231, "weight": 0.180366}, 
+                {"id": 10, "lemma": ".", "type": "SF", "position": 234, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "대한민국", "type": "NNP", "scode": "000000", "weight": 1, "position": 183, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "원화", "type": "NNG", "scode": "010000", "weight": 0.111111, "position": 196, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 202, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "발권은행", "type": "NNG", "scode": "000000", "weight": 1, "position": 206, "begin": 3, "end": 4}, 
+                {"id": 4, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 218, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "기", "type": "ETN", "scode": "000000", "weight": 1, "position": 221, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 224, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "하", "type": "VX", "scode": "011105", "weight": 0.02, "position": 228, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 231, "begin": 9, "end": 9}, 
+                {"id": 9, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 234, "begin": 10, "end": 10}
+            ], 
+            "word": [
+                {"id": 0, "text": "대한민국", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "원화의", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "발권은행이기도", "type": "", "begin": 3, "end": 7}, 
+                {"id": 3, "text": "하다.", "type": "", "begin": 8, "end": 10}
+            ], 
+            "NE": [
+                {"id": 0, "text": "대한민국", "type": "LCP_COUNTRY", "begin": 0, "end": 0, "weight": 0.346327, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "대한민국", "head": 1, "label": "NP", "mod": [], "weight": 0.759022}, 
+                {"id": 1, "text": "원화의", "head": 2, "label": "NP_MOD", "mod": [0], "weight": 0.717945}, 
+                {"id": 2, "text": "발권은행이기도", "head": 3, "label": "VNP", "mod": [1], "weight": 0.534318}, 
+                {"id": 3, "text": "하다.", "head": -1, "label": "VP", "mod": [2], "weight": 0.24686}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "1950년 6월 12일 발족하였다.", 
+            "morp": [
+                {"id": 0, "lemma": "1950", "type": "SN", "position": 235, "weight": 1}, 
+                {"id": 1, "lemma": "년", "type": "NNB", "position": 239, "weight": 0.414343}, 
+                {"id": 2, "lemma": "6", "type": "SN", "position": 243, "weight": 1}, 
+                {"id": 3, "lemma": "월", "type": "NNB", "position": 244, "weight": 0.408539}, 
+                {"id": 4, "lemma": "12", "type": "SN", "position": 248, "weight": 1}, 
+                {"id": 5, "lemma": "일", "type": "NNB", "position": 250, "weight": 0.126777}, 
+                {"id": 6, "lemma": "발족", "type": "NNG", "position": 254, "weight": 0.9}, 
+                {"id": 7, "lemma": "하", "type": "XSV", "position": 260, "weight": 0.0001}, 
+                {"id": 8, "lemma": "았", "type": "EP", "position": 263, "weight": 0.9}, 
+                {"id": 9, "lemma": "다", "type": "EF", "position": 266, "weight": 0.640954}, 
+                {"id": 10, "lemma": ".", "type": "SF", "position": 269, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "1950", "type": "SN", "scode": "000000", "weight": 1, "position": 235, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 239, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "6", "type": "SN", "scode": "000000", "weight": 1, "position": 243, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "월", "type": "NNB", "scode": "020100", "weight": 0.125, "position": 244, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "12", "type": "SN", "scode": "000000", "weight": 1, "position": 248, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "일", "type": "NNB", "scode": "070100", "weight": 0.04, "position": 250, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "발족하", "type": "VV", "scode": "000000", "weight": 1, "position": 254, "begin": 6, "end": 7}, 
+                {"id": 7, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 263, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 266, "begin": 9, "end": 9}, 
+                {"id": 9, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 269, "begin": 10, "end": 10}
+            ], 
+            "word": [
+                {"id": 0, "text": "1950년", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "6월", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "12일", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "발족하였다.", "type": "", "begin": 6, "end": 10}
+            ], 
+            "NE": [
+                {"id": 0, "text": "1950년 6월 12일", "type": "DT_OTHERS", "begin": 0, "end": 5, "weight": 0.792007, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "1950년", "head": 1, "label": "NP", "mod": [], "weight": 0.553323}, 
+                {"id": 1, "text": "6월", "head": 2, "label": "NP", "mod": [0], "weight": 0.643336}, 
+                {"id": 2, "text": "12일", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.837023}, 
+                {"id": 3, "text": "발족하였다.", "head": -1, "label": "VP", "mod": [2], "weight": 0.238063}
+            ], 
+            "SRL": [
+                {"verb": "발족", "sense": 1, "word_id": 3, "weight": 0.183775, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 2, "text": "12일", "weight": 0.183775}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 3, 
+            "reserve_str": "", 
+            "text": "서울특별시 중구 남대문로 39에 위치하고 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "서울특별시", "type": "NNP", "position": 270, "weight": 0.9}, 
+                {"id": 1, "lemma": "중구", "type": "NNP", "position": 286, "weight": 0.0829387}, 
+                {"id": 2, "lemma": "남대문로", "type": "NNP", "position": 293, "weight": 0.5}, 
+                {"id": 3, "lemma": "39", "type": "SN", "position": 306, "weight": 1}, 
+                {"id": 4, "lemma": "에", "type": "JKB", "position": 308, "weight": 0.00395698}, 
+                {"id": 5, "lemma": "위치", "type": "NNG", "position": 312, "weight": 0.207864}, 
+                {"id": 6, "lemma": "하", "type": "XSV", "position": 318, "weight": 0.0001}, 
+                {"id": 7, "lemma": "고", "type": "EC", "position": 321, "weight": 0.359917}, 
+                {"id": 8, "lemma": "있", "type": "VX", "position": 325, "weight": 0.125953}, 
+                {"id": 9, "lemma": "다", "type": "EF", "position": 328, "weight": 0.180366}, 
+                {"id": 10, "lemma": ".", "type": "SF", "position": 331, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "서울특별시", "type": "NNP", "scode": "000000", "weight": 1, "position": 270, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "중구", "type": "NNP", "scode": "000000", "weight": 0.111111, "position": 286, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "남대문로", "type": "NNP", "scode": "000000", "weight": 0, "position": 293, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "39", "type": "SN", "scode": "000000", "weight": 1, "position": 306, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 308, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "위치하", "type": "VV", "scode": "000000", "weight": 1, "position": 312, "begin": 5, "end": 6}, 
+                {"id": 6, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 321, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 325, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 328, "begin": 9, "end": 9}, 
+                {"id": 9, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 331, "begin": 10, "end": 10}
+            ], 
+            "word": [
+                {"id": 0, "text": "서울특별시", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "중구", "type": "", "begin": 1, "end": 1}, 
+                {"id": 2, "text": "남대문로", "type": "", "begin": 2, "end": 2}, 
+                {"id": 3, "text": "39에", "type": "", "begin": 3, "end": 4}, 
+                {"id": 4, "text": "위치하고", "type": "", "begin": 5, "end": 7}, 
+                {"id": 5, "text": "있다.", "type": "", "begin": 8, "end": 10}
+            ], 
+            "NE": [
+                {"id": 0, "text": "서울특별시", "type": "LCP_CAPITALCITY", "begin": 0, "end": 0, "weight": 0.686385, "common_noun": 0}, 
+                {"id": 1, "text": "중구", "type": "LCP_COUNTY", "begin": 1, "end": 1, "weight": 0.522271, "common_noun": 0}, 
+                {"id": 2, "text": "남대문로", "type": "AF_ROAD", "begin": 2, "end": 2, "weight": 0.461748, "common_noun": 0}, 
+                {"id": 3, "text": "39", "type": "QT_OTHERS", "begin": 3, "end": 3, "weight": 0.461748, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "서울특별시", "head": 1, "label": "NP", "mod": [], "weight": 0.470348}, 
+                {"id": 1, "text": "중구", "head": 2, "label": "NP", "mod": [0], "weight": 0.362883}, 
+                {"id": 2, "text": "남대문로", "head": 3, "label": "NP", "mod": [1], "weight": 0.586748}, 
+                {"id": 3, "text": "39에", "head": 4, "label": "NP_AJT", "mod": [2], "weight": 0.569368}, 
+                {"id": 4, "text": "위치하고", "head": 5, "label": "VP", "mod": [3], "weight": 0.658149}, 
+                {"id": 5, "text": "있다.", "head": -1, "label": "VP", "mod": [4], "weight": 0.0274613}
+            ], 
+            "SRL": [
+                {"verb": "위치", "sense": 1, "word_id": 4, "weight": 0.200507, "argument": [
+                    {"type": "ARG2", "word_id": 3, "text": "39에", "weight": 0.0843824}, 
+                    {"type": "AUX", "word_id": 5, "text": "있다.", "weight": 0.316632}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "QT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": 2, "text": "한국은행(韓國銀行, Bank of Korea, 한은)은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "한국은행(韓國銀行,"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 5, "end_eid": 14, "ne_id": -1, "text": "효율적인 통화신용정책의 수립과 집행을 통해 물가안정을 목표로 하는 대한민국의 중앙은행이다.", "start_eid_short": 14, "end_eid_short": 14, "text_short": "중앙은행이다."}, 
+            {"id": 12, "sent_id": 3, "start_eid": 0, "end_eid": 3, "ne_id": 3, "text": "서울특별시 중구 남대문로 39에", "start_eid_short": 0, "end_eid_short": 3, "text_short": "서울특별시 중구 남대문로 39에"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 5, "end_eid": 6, "ne_id": -1, "text": "효율적인 통화신용정책의", "start_eid_short": 6, "end_eid_short": 6, "text_short": "통화신용정책의"}
+        ]}, 
+        {"id": 2, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 5, "end_eid": 8, "ne_id": -1, "text": "효율적인 통화신용정책의 수립과 집행을", "start_eid_short": 8, "end_eid_short": 8, "text_short": "집행을"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "수립과", "start_eid_short": 7, "end_eid_short": 7, "text_short": "수립과"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 10, "end_eid": 11, "ne_id": -1, "text": "물가안정을 목표로", "start_eid_short": 11, "end_eid_short": 11, "text_short": "목표로"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 10, "end_eid": 10, "ne_id": -1, "text": "물가안정을", "start_eid_short": 10, "end_eid_short": 10, "text_short": "물가안정을"}
+        ]}, 
+        {"id": 6, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 13, "end_eid": 13, "ne_id": 3, "text": "대한민국의", "start_eid_short": 13, "end_eid_short": 13, "text_short": "대한민국의"}, 
+            {"id": 10, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "대한민국", "start_eid_short": 0, "end_eid_short": 0, "text_short": "대한민국"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "대한민국 원화의", "start_eid_short": 0, "end_eid_short": 1, "text_short": "대한민국 원화의"}
+        ]}, 
+        {"id": 8, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 11, "sent_id": 2, "start_eid": 0, "end_eid": 2, "ne_id": 0, "text": "1950년 6월 12일", "start_eid_short": 0, "end_eid_short": 2, "text_short": "1950년 6월 12일"}
+        ]}, 
+        {"id": 9, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 14, "sent_id": 3, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "서울특별시 중구", "start_eid_short": 0, "end_eid_short": 1, "text_short": "서울특별시 중구"}
+        ]}, 
+        {"id": 10, "type": "LCP_CAPITALCITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 15, "sent_id": 3, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "서울특별시", "start_eid_short": 0, "end_eid_short": 0, "text_short": "서울특별시"}
+        ]}, 
+        {"id": 11, "type": "AF_ROAD", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 3, "start_eid": 0, "end_eid": 2, "ne_id": 2, "text": "서울특별시 중구 남대문로", "start_eid_short": 0, "end_eid_short": 2, "text_short": "서울특별시 중구 남대문로"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "집행을", "start_eid_short": 8, "end_eid_short": 8, "text_short": "집행을"}
+        ]}
+    ]
+}

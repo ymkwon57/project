@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+호놀룰루(Honolulu)는 미국의 50번째 주인 하와이 주의 주도(州都)이다. 호놀룰루 미국 하와이 주의 주요항구이다. 호놀룰루 군의 군청소재지이며 현대적인 시이다. 오아후 섬의 남동쪽 해안선을 따라 16㎞, 내륙 쪽으로 평야를 가로질러 쿨라우 산 기슭까지 6.4㎞ 뻗어 있다. ‘호놀룰루’라는 하와이어로 ‘보호받는 곳’(place of shelter)을 뜻한다. 미국 오아후 섬 남동쪽 기슭에 있는 항구 도시이다. 하와이 여행은 대개 오아후 섬을 중심으로 이루어진다. 국제공항이 있는 호놀룰루와 와이키키를 중심으로 여행 계획을 세우고 주변을 둘러보는 일 정이 대부분이다.
+호놀룰루 옛날 하와이 왕조 시대부터 지금까지 여전히 하와이의 정치, 경제의 중심을 이루고 있다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="호놀룰루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="17" end="19" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="26" end="27" text="주" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="29" end="34" text="하와이 주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="36" end="38" text="주도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="46" end="50" text="호놀룰루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="51" end="53" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="54" end="59" text="하와이 주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="77" end="82" text="군청소재지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="90" end="91" text="시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="95" end="100" text="오아후 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="119" end="121" text="내륙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="126" end="128" text="평야" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="159" end="163" text="호놀룰루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="179" end="180" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="206" end="208" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="209" end="214" text="오아후 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="219" end="221" text="기슭" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="246" end="251" text="오아후 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="274" end="278" text="호놀룰루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="280" end="284" text="와이키키" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="323" end="327" text="호놀룰루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="95" />
+<PLACE id="pl8" start="69" end="75" text="호놀룰루 군" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="135" end="143" text="쿨라우 산 기슭" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="226" end="231" text="항구 도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="106" end="109" text="해안선" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="61" end="65" text="주요항구" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s4" start="102" end="105" text="남동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="215" end="218" text="남동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="221" end="222" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="34" end="35" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="59" end="60" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="75" end="76" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="19" end="20" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me0" start="114" end="117" text="16㎞" value="16" unit="km" comment="" />
+<MEASURE id="me1" start="146" end="150" text="6.4㎞" value="6.4" unit="km" comment="" />
+<SENTENCE id="sent0" start="1" end="45" text="호놀룰루(Honolulu)는 미국의 50번째 주인 하와이 주의 주도(州都)이다." comment="" />
+<SENTENCE id="sent1" start="46" end="68" text="호놀룰루 미국 하와이 주의 주요항구이다." comment="" />
+<SENTENCE id="sent2" start="69" end="94" text="호놀룰루 군의 군청소재지이며 현대적인 시이다." comment="" />
+<SENTENCE id="sent3" start="95" end="157" text="오아후 섬의 남동쪽 해안선을 따라 16㎞, 내륙 쪽으로 평야를 가로질러 쿨라우 산 기슭까지 6.4㎞ 뻗어 있다." comment="" />
+<SENTENCE id="sent4" start="158" end="205" text="‘호놀룰루’라는 하와이어로 ‘보호받는 곳’(place of shelter)을 뜻한다." comment="" />
+<SENTENCE id="sent5" start="206" end="234" text="미국 오아후 섬 남동쪽 기슭에 있는 항구 도시이다." comment="" />
+<SENTENCE id="sent6" start="235" end="264" text="하와이 여행은 대개 오아후 섬을 중심으로 이루어진다." comment="" />
+<SENTENCE id="sent7" start="265" end="322" text="국제공항이 있는 호놀룰루와 와이키키를 중심으로 여행 계획을 세우고 주변을 둘러보는 일 정이 대부분이다." comment="" />
+<SENTENCE id="sent8" start="323" end="376" text="호놀룰루 옛날 하와이 왕조 시대부터 지금까지 여전히 하와이의 정치, 경제의 중심을 이루고 있다." comment="" />
+<QSLINK id="qsl1" fromID="pl4" fromText="주도" toID="pl3" toText="하와이 주" relType="IN" trajector="pl4" landmark="pl3" trigger="s0" comment="" />
+<QSLINK id="qsl3" fromID="se0" fromText="주요항구" toID="pl7" toText="하와이 주" relType="IN" trajector="se0" landmark="pl7" trigger="s1" comment="" />
+<QSLINK id="qsl4" fromID="pl5" fromText="호놀룰루" toID="pl7" toText="하와이 주" relType="IN" trajector="pl5" landmark="pl7" trigger="s1" comment="" />
+<QSLINK id="qsl5" fromID="pl11" fromText="군청소재지" toID="pl8" toText="호놀룰루 군" relType="IN" trajector="pl11" landmark="pl8" trigger="s2" comment="" />
+<QSLINK id="qsl7" fromID="pl10" fromText="항구 도시" toID="pl22" toText="기슭" relType="IN" trajector="pl10" landmark="pl22" trigger="s6" comment="" />
+<QSLINK id="qsl0" fromID="pl2" fromText="주" toID="pl1" toText="미국" relType="NTPP" trajector="pl2" landmark="pl1" trigger="s3" comment="" />
+<OLINK id="ol0" fromID="pl13" fromText="오아후 섬" toID="p0" toText="해안선" relType="남동" trajector="p0" landmark="pl13" trigger="s4" frame_type="ABSOLUTE" referencePt="남동" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl21" fromText="오아후 섬" toID="pl22" toText="기슭" relType="남동" trajector="pl22" landmark="pl21" trigger="s5" frame_type="ABSOLUTE" referencePt="남동" projective="FALSE" comment="" />
+<MEASURELINK id="ml0" fromID="pl13" fromText="오아후 섬" toID="me0" toText="16㎞" trajector="pl13" landmark="pl13" relType="LENGTH" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl13" fromText="오아후 섬" toID="me1" toText="6.4㎞" trajector="pl13" landmark="p1l3" relType="LENGTH" val="me1" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

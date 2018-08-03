@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+말레이 제도[Malay Archipelago]는 1만3000개가 넘는 인도네시아의 섬과 7000개 정도의 필리핀 섬으로 이루어진 세계 최대의 군도(群島)이다. 때로는 '동인도 제도'라고 부르기도 한다. 수마트라섬 ·자바섬 ·보르네오섬 ·셀레베스섬 ·민다나오섬 ·루손섬 등이 대표적으로 큰 섬들이다. 말레이 제도는 동남아시아의 인도차이나 반도와 오스트레일리아 사이의 섬을 말한다.
+때로는 동인도 제도라고 부르기도 한다. 뉴기니는 보통 말레이 제도에 포함되지만 북서쪽에 있는 안다만 제도와 니코바르 제도, 동쪽에 있는 비스마르크 제도는 포함되지 않는다.
+말레이 제도는 동남아시아의 인도차이나 반도와 오스트레일리아 사이의 섬을 말한다. 인도네시아와 필리핀, 브루낭, 말레이시아(동말레이시아), 동티모르 등의 영토로 나뉜다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="7" text="말레이 제도" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="40" end="45" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="60" end="65" text="필리핀 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="95" end="101" text="동인도 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="114" end="119" text="수마트라섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="121" end="124" text="자바섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="126" end="131" text="보르네오섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="133" end="138" text="셀레베스섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="140" end="145" text="민다나오섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="147" end="150" text="루손섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="168" end="174" text="말레이 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="176" end="181" text="동남아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="183" end="191" text="인도차이나 반도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="193" end="200" text="오스트레일리아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="217" end="223" text="동인도 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="235" end="238" text="뉴기니" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="243" end="249" text="말레이 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="265" end="271" text="안다만 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="273" end="280" text="니코바르 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="289" end="297" text="비스마르크 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="309" end="315" text="말레이 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="317" end="322" text="동남아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="324" end="332" text="인도차이나 반도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="334" end="341" text="오스트레일리아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="354" end="359" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="361" end="364" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="366" end="369" text="브루낭" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="371" end="376" text="말레이시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="377" end="383" text="동말레이시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="386" end="390" text="동티모르" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="47" end="48" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="346" end="347" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="394" end="396" text="영토" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="205" end="206" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="162" end="164" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="80" end="82" text="군도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s4" start="249" end="250" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="257" end="260" text="북서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="201" end="203" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="282" end="284" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="342" end="344" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="45" end="46" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="322" end="323" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="181" end="182" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SENTENCE id="sent0" start="1" end="89" text="말레이 제도[Malay Archipelago]는 1만3000개가 넘는 인도네시아의 섬과 7000개 정도의 필리핀 섬으로 이루어진 세계 최대의 군도(群島)이다." comment="" />
+<SENTENCE id="sent1" start="90" end="113" text="때로는 '동인도 제도'라고 부르기도 한다." comment="" />
+<SENTENCE id="sent2" start="114" end="167" text="수마트라섬 ·자바섬 ·보르네오섬 ·셀레베스섬 ·민다나오섬 ·루손섬 등이 대표적으로 큰 섬들이다." comment="" />
+<SENTENCE id="sent3" start="168" end="212" text="말레이 제도는 동남아시아의 인도차이나 반도와 오스트레일리아 사이의 섬을 말한다." comment="" />
+<SENTENCE id="sent4" start="213" end="234" text="때로는 동인도 제도라고 부르기도 한다." comment="" />
+<SENTENCE id="sent5" start="235" end="308" text="뉴기니는 보통 말레이 제도에 포함되지만 북서쪽에 있는 안다만 제도와 니코바르 제도, 동쪽에 있는 비스마르크 제도는 포함되지 않는다." comment="" />
+<SENTENCE id="sent6" start="309" end="353" text="말레이 제도는 동남아시아의 인도차이나 반도와 오스트레일리아 사이의 섬을 말한다." comment="" />
+<SENTENCE id="sent7" start="354" end="402" text="인도네시아와 필리핀, 브루낭, 말레이시아(동말레이시아), 동티모르 등의 영토로 나뉜다." comment="" />
+<QSLINK id="qsl1" fromID="pl17" fromText="인도차이나 반도" toID="pl16" toText="동남아시아" relType="NTPP" trajector="pl17" landmark="pl16" trigger="s7" comment="" />
+<QSLINK id="qsl2" fromID="pl18" fromText="오스트레일리아" toID="pl17" toText="인도차이나 반도" relType="DC" trajector="pl18" landmark="pl17" trigger="s1" comment="" />
+<QSLINK id="qsl7" fromID="pl27" fromText="인도차이나 반도" toID="pl26" toText="동남아시아" relType="NTPP" trajector="pl27" landmark="pl26" trigger="s6" comment="" />
+<QSLINK id="qsl8" fromID="pl28" fromText="오스트레일리아" toID="pl27" toText="인도차이나 반도" relType="DC" trajector="pl28" landmark="pl27" trigger="s3" comment="" />
+<QSLINK id="qsl0" fromID="pl1" fromText="섬" toID="pl2" toText="인도네시아" relType="IN" trajector="pl1" landmark="pl2" trigger="s5" comment="" />
+<QSLINK id="qsl3" fromID="pl3" fromText="섬" toID="pl28" toText="오스트레일리아" relType="EC" trajector="pl3" landmark="pl28" trigger="s3" comment="" />
+<QSLINK id="qsl4" fromID="pl3" fromText="섬" toID="pl27" toText="인도차이나 반도" relType="EC" trajector="pl3" landmark="pl27" trigger="s3" comment="" />
+<QSLINK id="qsl9" fromID="pl6" fromText="섬" toID="pl18" toText="오스트레일리아" relType="EC" trajector="pl6" landmark="pl18" trigger="s1" comment="" />
+<QSLINK id="qsl10" fromID="pl6" fromText="섬" toID="pl17" toText="인도차이나 반도" relType="EC" trajector="pl6" landmark="pl17" trigger="s1" comment="" />
+<QSLINK id="qsl13" fromID="pl20" fromText="뉴기니" toID="pl21" toText="말레이 제도" relType="NTPP" trajector="pl20" landmark="pl21" trigger="s4" comment="" />
+<OLINK id="ol0" fromID="pl22" fromText="안다만 제도" toID="pl20" toText="뉴기니" relType="북서" trajector="pl22" landmark="pl20" trigger="s0" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl23" fromText="니코바르 제도" toID="pl20" toText="뉴기니" relType="북서" trajector="pl23" landmark="pl20" trigger="s0" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl24" fromText="비스마르크 제도" toID="pl20" toText="뉴기니" relType="동" trajector="pl24" landmark="pl20" trigger="s2" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

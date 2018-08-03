@@ -1,0 +1,343 @@
+{
+    "doc_id": "E2016.836.12_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "스미스", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<인명> 영국의 경제학자ㆍ철학자(1723~1790).", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "인명", "type": "NNG", "position": 1, "weight": 0.0157248}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "영국", "type": "NNP", "position": 9, "weight": 0.9}, 
+                {"id": 4, "lemma": "의", "type": "JKG", "position": 15, "weight": 0.0987295}, 
+                {"id": 5, "lemma": "경제", "type": "NNG", "position": 19, "weight": 0.871357}, 
+                {"id": 6, "lemma": "학자", "type": "NNG", "position": 25, "weight": 0.0233263}, 
+                {"id": 7, "lemma": "ㆍ", "type": "SP", "position": 31, "weight": 1}, 
+                {"id": 8, "lemma": "철학", "type": "NNG", "position": 34, "weight": 0.9}, 
+                {"id": 9, "lemma": "자", "type": "XSN", "position": 40, "weight": 0.00398741}, 
+                {"id": 10, "lemma": "(", "type": "SS", "position": 43, "weight": 1}, 
+                {"id": 11, "lemma": "1723", "type": "SN", "position": 44, "weight": 1}, 
+                {"id": 12, "lemma": "~", "type": "SO", "position": 48, "weight": 1}, 
+                {"id": 13, "lemma": "1790", "type": "SN", "position": 49, "weight": 1}, 
+                {"id": 14, "lemma": ")", "type": "SS", "position": 53, "weight": 1}, 
+                {"id": 15, "lemma": ".", "type": "SF", "position": 54, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "인명", "type": "NNG", "scode": "010000", "weight": 0.2, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "영국", "type": "NNP", "scode": "010000", "weight": 0.5, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 15, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "경제학자", "type": "NNG", "scode": "000000", "weight": 1, "position": 19, "begin": 5, "end": 6}, 
+                {"id": 6, "text": "ㆍ", "type": "SP", "scode": "000000", "weight": 1, "position": 31, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "철학자", "type": "NNG", "scode": "000000", "weight": 1, "position": 34, "begin": 8, "end": 9}, 
+                {"id": 8, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 43, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "1723", "type": "SN", "scode": "000000", "weight": 1, "position": 44, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "~", "type": "SO", "scode": "000000", "weight": 1, "position": 48, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "1790", "type": "SN", "scode": "000000", "weight": 1, "position": 49, "begin": 13, "end": 13}, 
+                {"id": 12, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 53, "begin": 14, "end": 14}, 
+                {"id": 13, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 54, "begin": 15, "end": 15}
+            ], 
+            "word": [
+                {"id": 0, "text": "<인명>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "영국의", "type": "", "begin": 3, "end": 4}, 
+                {"id": 2, "text": "경제학자ㆍ철학자(1723~1790).", "type": "", "begin": 5, "end": 15}
+            ], 
+            "NE": [
+                {"id": 0, "text": "영국", "type": "LCP_COUNTRY", "begin": 3, "end": 3, "weight": 0.750262, "common_noun": 0}, 
+                {"id": 1, "text": "경제학자", "type": "CV_OCCUPATION", "begin": 5, "end": 6, "weight": 0.651819, "common_noun": 0}, 
+                {"id": 2, "text": "철학자", "type": "CV_OCCUPATION", "begin": 8, "end": 9, "weight": 0.609399, "common_noun": 0}, 
+                {"id": 3, "text": "1723~1790", "type": "DT_DURATION", "begin": 11, "end": 13, "weight": 0.526389, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<인명>", "head": 2, "label": "NP", "mod": [], "weight": 0.834188}, 
+                {"id": 1, "text": "영국의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.624392}, 
+                {"id": 2, "text": "경제학자ㆍ철학자(1723~1790).", "head": -1, "label": "NP", "mod": [0, 1], "weight": 0.414126}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "고전파 경제학의 창시자로, 중상주의적 보호정책을 비판하고 자유 경쟁이 사회 진보의 요건임을 주장하면서 산업 혁명의 이론적 기초를 다졌다.", 
+            "morp": [
+                {"id": 0, "lemma": "고전", "type": "NNG", "position": 55, "weight": 0.437336}, 
+                {"id": 1, "lemma": "파", "type": "NNG", "position": 61, "weight": 0.092063}, 
+                {"id": 2, "lemma": "경제", "type": "NNG", "position": 65, "weight": 0.184822}, 
+                {"id": 3, "lemma": "학", "type": "XSN", "position": 71, "weight": 0.0233263}, 
+                {"id": 4, "lemma": "의", "type": "JKG", "position": 74, "weight": 0.120732}, 
+                {"id": 5, "lemma": "창시", "type": "NNG", "position": 78, "weight": 0.45}, 
+                {"id": 6, "lemma": "자", "type": "XSN", "position": 84, "weight": 0.00398741}, 
+                {"id": 7, "lemma": "로", "type": "JKB", "position": 87, "weight": 0.121577}, 
+                {"id": 8, "lemma": ",", "type": "SP", "position": 90, "weight": 1}, 
+                {"id": 9, "lemma": "중상", "type": "NNG", "position": 92, "weight": 0.527856}, 
+                {"id": 10, "lemma": "주의", "type": "NNG", "position": 98, "weight": 0.9}, 
+                {"id": 11, "lemma": "적", "type": "XSN", "position": 104, "weight": 0.0168756}, 
+                {"id": 12, "lemma": "보호", "type": "NNG", "position": 108, "weight": 0.9}, 
+                {"id": 13, "lemma": "정책", "type": "NNG", "position": 114, "weight": 0.9}, 
+                {"id": 14, "lemma": "을", "type": "JKO", "position": 120, "weight": 0.129611}, 
+                {"id": 15, "lemma": "비판", "type": "NNG", "position": 124, "weight": 0.9}, 
+                {"id": 16, "lemma": "하", "type": "XSV", "position": 130, "weight": 0.0001}, 
+                {"id": 17, "lemma": "고", "type": "EC", "position": 133, "weight": 0.359917}, 
+                {"id": 18, "lemma": "자유", "type": "NNG", "position": 137, "weight": 0.219235}, 
+                {"id": 19, "lemma": "경쟁", "type": "NNG", "position": 144, "weight": 0.9}, 
+                {"id": 20, "lemma": "이", "type": "JKS", "position": 150, "weight": 0.0360723}, 
+                {"id": 21, "lemma": "사회", "type": "NNG", "position": 154, "weight": 0.209205}, 
+                {"id": 22, "lemma": "진보", "type": "NNG", "position": 161, "weight": 0.181224}, 
+                {"id": 23, "lemma": "의", "type": "JKG", "position": 167, "weight": 0.0694213}, 
+                {"id": 24, "lemma": "요건", "type": "NNG", "position": 171, "weight": 0.9}, 
+                {"id": 25, "lemma": "이", "type": "VCP", "position": 177, "weight": 0.0177525}, 
+                {"id": 26, "lemma": "ㅁ", "type": "ETN", "position": 177, "weight": 0.0197374}, 
+                {"id": 27, "lemma": "을", "type": "JKO", "position": 180, "weight": 0.0925684}, 
+                {"id": 28, "lemma": "주장", "type": "NNG", "position": 184, "weight": 0.101174}, 
+                {"id": 29, "lemma": "하", "type": "XSV", "position": 190, "weight": 0.0001}, 
+                {"id": 30, "lemma": "면서", "type": "EC", "position": 193, "weight": 0.370489}, 
+                {"id": 31, "lemma": "산업", "type": "NNG", "position": 200, "weight": 0.219321}, 
+                {"id": 32, "lemma": "혁명", "type": "NNG", "position": 207, "weight": 0.9}, 
+                {"id": 33, "lemma": "의", "type": "JKG", "position": 213, "weight": 0.0694213}, 
+                {"id": 34, "lemma": "이론", "type": "NNG", "position": 217, "weight": 0.9}, 
+                {"id": 35, "lemma": "적", "type": "XSN", "position": 223, "weight": 0.0168756}, 
+                {"id": 36, "lemma": "기초", "type": "NNG", "position": 227, "weight": 0.9}, 
+                {"id": 37, "lemma": "를", "type": "JKO", "position": 233, "weight": 0.137686}, 
+                {"id": 38, "lemma": "다지", "type": "VV", "position": 237, "weight": 0.67033}, 
+                {"id": 39, "lemma": "었", "type": "EP", "position": 240, "weight": 0.9}, 
+                {"id": 40, "lemma": "다", "type": "EF", "position": 243, "weight": 0.640954}, 
+                {"id": 41, "lemma": ".", "type": "SF", "position": 246, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "고전파", "type": "NNG", "scode": "000000", "weight": 1, "position": 55, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "경제학", "type": "NNG", "scode": "000000", "weight": 1, "position": 65, "begin": 2, "end": 3}, 
+                {"id": 2, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 74, "begin": 4, "end": 4}, 
+                {"id": 3, "text": "창시자", "type": "NNG", "scode": "000000", "weight": 1, "position": 78, "begin": 5, "end": 6}, 
+                {"id": 4, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 87, "begin": 7, "end": 7}, 
+                {"id": 5, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 90, "begin": 8, "end": 8}, 
+                {"id": 6, "text": "중상", "type": "NNG", "scode": "888888", "weight": 0.111111, "position": 92, "begin": 9, "end": 9}, 
+                {"id": 7, "text": "주의적", "type": "NNG", "scode": "000000", "weight": 1, "position": 98, "begin": 10, "end": 11}, 
+                {"id": 8, "text": "보호", "type": "NNG", "scode": "010001", "weight": 0.25, "position": 108, "begin": 12, "end": 12}, 
+                {"id": 9, "text": "정책", "type": "NNG", "scode": "020000", "weight": 0.333333, "position": 114, "begin": 13, "end": 13}, 
+                {"id": 10, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 120, "begin": 14, "end": 14}, 
+                {"id": 11, "text": "비판하", "type": "VV", "scode": "000001", "weight": 0.5, "position": 124, "begin": 15, "end": 16}, 
+                {"id": 12, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 133, "begin": 17, "end": 17}, 
+                {"id": 13, "text": "자유", "type": "NNG", "scode": "030001", "weight": 0.142857, "position": 137, "begin": 18, "end": 18}, 
+                {"id": 14, "text": "경쟁", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 144, "begin": 19, "end": 19}, 
+                {"id": 15, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 150, "begin": 20, "end": 20}, 
+                {"id": 16, "text": "사회", "type": "NNG", "scode": "070003", "weight": 0.0714286, "position": 154, "begin": 21, "end": 21}, 
+                {"id": 17, "text": "진보", "type": "NNG", "scode": "020001", "weight": 0.2, "position": 161, "begin": 22, "end": 22}, 
+                {"id": 18, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 167, "begin": 23, "end": 23}, 
+                {"id": 19, "text": "요건", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 171, "begin": 24, "end": 24}, 
+                {"id": 20, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 177, "begin": 25, "end": 25}, 
+                {"id": 21, "text": "ㅁ", "type": "ETN", "scode": "000000", "weight": 1, "position": 177, "begin": 26, "end": 26}, 
+                {"id": 22, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 180, "begin": 27, "end": 27}, 
+                {"id": 23, "text": "주장하", "type": "VV", "scode": "010001", "weight": 0.1, "position": 184, "begin": 28, "end": 29}, 
+                {"id": 24, "text": "면서", "type": "EC", "scode": "000000", "weight": 1, "position": 193, "begin": 30, "end": 30}, 
+                {"id": 25, "text": "산업", "type": "NNG", "scode": "000000", "weight": 1, "position": 200, "begin": 31, "end": 31}, 
+                {"id": 26, "text": "혁명", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 207, "begin": 32, "end": 32}, 
+                {"id": 27, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 213, "begin": 33, "end": 33}, 
+                {"id": 28, "text": "이론적", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 217, "begin": 34, "end": 35}, 
+                {"id": 29, "text": "기초", "type": "NNG", "scode": "060001", "weight": 0.111111, "position": 227, "begin": 36, "end": 36}, 
+                {"id": 30, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 233, "begin": 37, "end": 37}, 
+                {"id": 31, "text": "다지", "type": "VV", "scode": "000103", "weight": 0.2, "position": 237, "begin": 38, "end": 38}, 
+                {"id": 32, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 240, "begin": 39, "end": 39}, 
+                {"id": 33, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 243, "begin": 40, "end": 40}, 
+                {"id": 34, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 246, "begin": 41, "end": 41}
+            ], 
+            "word": [
+                {"id": 0, "text": "고전파", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "경제학의", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "창시자로,", "type": "", "begin": 5, "end": 8}, 
+                {"id": 3, "text": "중상주의적", "type": "", "begin": 9, "end": 11}, 
+                {"id": 4, "text": "보호정책을", "type": "", "begin": 12, "end": 14}, 
+                {"id": 5, "text": "비판하고", "type": "", "begin": 15, "end": 17}, 
+                {"id": 6, "text": "자유", "type": "", "begin": 18, "end": 18}, 
+                {"id": 7, "text": "경쟁이", "type": "", "begin": 19, "end": 20}, 
+                {"id": 8, "text": "사회", "type": "", "begin": 21, "end": 21}, 
+                {"id": 9, "text": "진보의", "type": "", "begin": 22, "end": 23}, 
+                {"id": 10, "text": "요건임을", "type": "", "begin": 24, "end": 27}, 
+                {"id": 11, "text": "주장하면서", "type": "", "begin": 28, "end": 30}, 
+                {"id": 12, "text": "산업", "type": "", "begin": 31, "end": 31}, 
+                {"id": 13, "text": "혁명의", "type": "", "begin": 32, "end": 33}, 
+                {"id": 14, "text": "이론적", "type": "", "begin": 34, "end": 35}, 
+                {"id": 15, "text": "기초를", "type": "", "begin": 36, "end": 37}, 
+                {"id": 16, "text": "다졌다.", "type": "", "begin": 38, "end": 41}
+            ], 
+            "NE": [
+                {"id": 0, "text": "고전파 경제학", "type": "FD_SOCIAL_SCIENCE", "begin": 0, "end": 3, "weight": 0.665043, "common_noun": 0}, 
+                {"id": 1, "text": "창시자", "type": "CV_POSITION", "begin": 5, "end": 6, "weight": 0.665043, "common_noun": 0}, 
+                {"id": 2, "text": "중상주의", "type": "TR_SOCIAL_SCIENCE", "begin": 9, "end": 10, "weight": 0.659912, "common_noun": 0}, 
+                {"id": 3, "text": "산업 혁명", "type": "EV_WAR_REVOLUTION", "begin": 31, "end": 32, "weight": 0.700199, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "고전파", "head": 1, "label": "NP", "mod": [], "weight": 0.67018}, 
+                {"id": 1, "text": "경제학의", "head": 2, "label": "NP_MOD", "mod": [0], "weight": 0.67581}, 
+                {"id": 2, "text": "창시자로,", "head": 5, "label": "NP_AJT", "mod": [1], "weight": 0.0444097}, 
+                {"id": 3, "text": "중상주의적", "head": 4, "label": "NP", "mod": [], "weight": 0.659933}, 
+                {"id": 4, "text": "보호정책을", "head": 5, "label": "NP_OBJ", "mod": [3], "weight": 0.695394}, 
+                {"id": 5, "text": "비판하고", "head": 11, "label": "VP", "mod": [2, 4], "weight": 0.702477}, 
+                {"id": 6, "text": "자유", "head": 7, "label": "NP", "mod": [], "weight": 0.891957}, 
+                {"id": 7, "text": "경쟁이", "head": 10, "label": "NP_SBJ", "mod": [6], "weight": 0.887112}, 
+                {"id": 8, "text": "사회", "head": 9, "label": "NP", "mod": [], "weight": 0.658924}, 
+                {"id": 9, "text": "진보의", "head": 10, "label": "NP_MOD", "mod": [8], "weight": 0.6759}, 
+                {"id": 10, "text": "요건임을", "head": 11, "label": "VNP_OBJ", "mod": [7, 9], "weight": 0.452124}, 
+                {"id": 11, "text": "주장하면서", "head": 16, "label": "VP", "mod": [10, 5], "weight": 0.749134}, 
+                {"id": 12, "text": "산업", "head": 13, "label": "NP", "mod": [], "weight": 0.680259}, 
+                {"id": 13, "text": "혁명의", "head": 15, "label": "NP_MOD", "mod": [12], "weight": 0.72679}, 
+                {"id": 14, "text": "이론적", "head": 15, "label": "NP", "mod": [], "weight": 0.494983}, 
+                {"id": 15, "text": "기초를", "head": 16, "label": "NP_OBJ", "mod": [13, 14], "weight": 0.796693}, 
+                {"id": 16, "text": "다졌다.", "head": -1, "label": "VP", "mod": [11, 15], "weight": 0.00010883}
+            ], 
+            "SRL": [
+                {"verb": "비판", "sense": 1, "word_id": 5, "weight": 0.226848, "argument": [
+                    {"type": "ARG1", "word_id": 4, "text": "보호정책을", "weight": 0.226848}, 
+                    {"type": "ARGM-PRD", "word_id": 2, "text": "창시자로,", "weight": 1}
+                ]}, 
+                {"verb": "주장", "sense": 1, "word_id": 11, "weight": 0.230828, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "요건임을", "weight": 0.230828}
+                ]}, 
+                {"verb": "다지", "sense": 1, "word_id": 16, "weight": 0.125357, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 11, "text": "주장하면서", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 15, "text": "기초를", "weight": 0.175753}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": " 저서에 ≪국부론≫, ≪도덕 정조론≫ 따위가 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "저서", "type": "NNG", "position": 248, "weight": 0.9}, 
+                {"id": 1, "lemma": "에", "type": "JKB", "position": 254, "weight": 0.153364}, 
+                {"id": 2, "lemma": "≪", "type": "SS", "position": 258, "weight": 1}, 
+                {"id": 3, "lemma": "국부론", "type": "NNP", "position": 261, "weight": 0.9}, 
+                {"id": 4, "lemma": "≫", "type": "SS", "position": 270, "weight": 1}, 
+                {"id": 5, "lemma": ",", "type": "SP", "position": 273, "weight": 1}, 
+                {"id": 6, "lemma": "≪", "type": "SS", "position": 275, "weight": 1}, 
+                {"id": 7, "lemma": "도덕", "type": "NNG", "position": 278, "weight": 0.9}, 
+                {"id": 8, "lemma": "정조론", "type": "NNG", "position": 285, "weight": 0.05}, 
+                {"id": 9, "lemma": "≫", "type": "SS", "position": 294, "weight": 1}, 
+                {"id": 10, "lemma": "따위", "type": "NNB", "position": 298, "weight": 0.9}, 
+                {"id": 11, "lemma": "가", "type": "JKS", "position": 304, "weight": 0.0691641}, 
+                {"id": 12, "lemma": "있", "type": "VA", "position": 308, "weight": 0.12767}, 
+                {"id": 13, "lemma": "다", "type": "EF", "position": 311, "weight": 0.132573}, 
+                {"id": 14, "lemma": ".", "type": "SF", "position": 314, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "저서", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 248, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 254, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "≪", "type": "SS", "scode": "000000", "weight": 1, "position": 258, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "국부론", "type": "NNP", "scode": "000000", "weight": 1, "position": 261, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "≫", "type": "SS", "scode": "000000", "weight": 1, "position": 270, "begin": 4, "end": 4}, 
+                {"id": 5, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 273, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "≪", "type": "SS", "scode": "000000", "weight": 1, "position": 275, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "도덕", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 278, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "정조론", "type": "NNG", "scode": "000000", "weight": 0, "position": 285, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "≫", "type": "SS", "scode": "000000", "weight": 1, "position": 294, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "따위", "type": "NNB", "scode": "000001", "weight": 0.5, "position": 298, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 304, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "있", "type": "VA", "scode": "010301", "weight": 0.0416667, "position": 308, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 311, "begin": 13, "end": 13}, 
+                {"id": 14, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 314, "begin": 14, "end": 14}
+            ], 
+            "word": [
+                {"id": 0, "text": "저서에", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "≪국부론≫,", "type": "", "begin": 2, "end": 5}, 
+                {"id": 2, "text": "≪도덕", "type": "", "begin": 6, "end": 7}, 
+                {"id": 3, "text": "정조론≫", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "따위가", "type": "", "begin": 10, "end": 11}, 
+                {"id": 5, "text": "있다.", "type": "", "begin": 12, "end": 14}
+            ], 
+            "NE": [
+                {"id": 0, "text": "국부론", "type": "AFW_DOCUMENT", "begin": 3, "end": 3, "weight": 0.559403, "common_noun": 0}, 
+                {"id": 1, "text": "도덕 정조론", "type": "AFW_DOCUMENT", "begin": 7, "end": 8, "weight": 0.213201, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "저서에", "head": 5, "label": "NP_AJT", "mod": [], "weight": 0.793675}, 
+                {"id": 1, "text": "≪국부론≫,", "head": 3, "label": "NP_CNJ", "mod": [], "weight": 0.169183}, 
+                {"id": 2, "text": "≪도덕", "head": 3, "label": "NP", "mod": [], "weight": 0.718507}, 
+                {"id": 3, "text": "정조론≫", "head": 4, "label": "NP", "mod": [1, 2], "weight": 0.62687}, 
+                {"id": 4, "text": "따위가", "head": 5, "label": "NP_SBJ", "mod": [3], "weight": 0.754609}, 
+                {"id": 5, "text": "있다.", "head": -1, "label": "VP", "mod": [0, 4], "weight": 0.0289741}
+            ], 
+            "SRL": [
+                {"verb": "있", "sense": 1, "word_id": 5, "weight": 0.150015, "argument": [
+                    {"type": "ARGM-CND", "word_id": 0, "text": "저서에", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 4, "text": "따위가", "weight": 0.21874}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "영국의", "start_eid_short": 1, "end_eid_short": 1, "text_short": "영국의"}
+        ]}, 
+        {"id": 1, "type": "DT_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 1, "text": "영국의 경제학자ㆍ철학자(1723~1790).", "start_eid_short": 2, "end_eid_short": 2, "text_short": "경제학자ㆍ철학자(1723~1790)."}, 
+            {"id": 2, "sent_id": 1, "start_eid": 0, "end_eid": 2, "ne_id": 1, "text": "고전파 경제학의 창시자로,", "start_eid_short": 2, "end_eid_short": 2, "text_short": "창시자로,"}
+        ]}, 
+        {"id": 2, "type": "FD_SOCIAL_SCIENCE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "고전파 경제학의", "start_eid_short": 0, "end_eid_short": 1, "text_short": "고전파 경제학의"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 1, "start_eid": 3, "end_eid": 4, "ne_id": -1, "text": "중상주의적 보호정책을", "start_eid_short": 3, "end_eid_short": 4, "text_short": "중상주의적 보호정책을"}
+        ]}, 
+        {"id": 4, "type": "TR_SOCIAL_SCIENCE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 3, "end_eid": 3, "ne_id": 2, "text": "중상주의적", "start_eid_short": 3, "end_eid_short": 3, "text_short": "중상주의적"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 6, "end_eid": 7, "ne_id": -1, "text": "자유 경쟁이", "start_eid_short": 6, "end_eid_short": 7, "text_short": "자유 경쟁이"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "자유", "start_eid_short": 6, "end_eid_short": 6, "text_short": "자유"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 8, "end_eid": 9, "ne_id": -1, "text": "사회 진보의", "start_eid_short": 8, "end_eid_short": 9, "text_short": "사회 진보의"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "사회", "start_eid_short": 8, "end_eid_short": 8, "text_short": "사회"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 12, "end_eid": 15, "ne_id": -1, "text": "산업 혁명의 이론적 기초를", "start_eid_short": 14, "end_eid_short": 15, "text_short": "이론적 기초를"}
+        ]}, 
+        {"id": 10, "type": "EV_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 12, "end_eid": 13, "ne_id": 3, "text": "산업 혁명의", "start_eid_short": 12, "end_eid_short": 13, "text_short": "산업 혁명의"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 14, "end_eid": 14, "ne_id": -1, "text": "이론적", "start_eid_short": 14, "end_eid_short": 14, "text_short": "이론적"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 2, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "저서에", "start_eid_short": 0, "end_eid_short": 0, "text_short": "저서에"}
+        ]}, 
+        {"id": 13, "type": "AFW_DOCUMENT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 2, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "≪국부론≫,", "start_eid_short": 1, "end_eid_short": 1, "text_short": "≪국부론≫,"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 2, "start_eid": 1, "end_eid": 4, "ne_id": -1, "text": "≪국부론≫, ≪도덕 정조론≫ 따위가", "start_eid_short": 4, "end_eid_short": 4, "text_short": "따위가"}
+        ]}, 
+        {"id": 15, "type": "AFW_DOCUMENT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 2, "start_eid": 2, "end_eid": 3, "ne_id": 1, "text": "≪도덕 정조론≫", "start_eid_short": 2, "end_eid_short": 3, "text_short": "≪도덕 정조론≫"}
+        ]}
+    ]
+}

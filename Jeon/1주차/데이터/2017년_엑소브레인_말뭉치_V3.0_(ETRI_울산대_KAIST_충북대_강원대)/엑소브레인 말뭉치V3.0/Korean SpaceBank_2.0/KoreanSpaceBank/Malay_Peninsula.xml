@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+말레이 반도[Malay Peninsula] 또는 크라 반도(Kra Peninsula)는 동남아시아에 있는 반도 인도차이나의 남쪽으로 튀어나온 반도이다. 크라 지협을 지나 아시아 대륙의 최남단 발라이 곶에 이르기까지 아시아 본토에서 약 1,127㎞ 남쪽으로 길고 좁다랗게 뻗어내린다. 말레이 반도는 행정상으로는 타이 남서부 지방, 서말레이시아, 싱가포르 등의 지역으로 이루어져 있다.
+말레이 반도의 가장 큰 주(州)인 파항(Pahang)주는 말레이 반도 중부에 위치해 있으며 약 3만6053㎢의 면적을 차지하고 있다. 길이 약 460km의 파항강이 흐른다. 동아시아와 말레이 반도에서 나온다는 황칠은 해동 역사에서 본래 백제의 서남쪽 바다 가운데 세 개의 섬에서 났다고 했다. 말레이 반도 서북쪽에 위치한 피낭섬. ‘동양의 진주’로 불렸던 휴양도시이자 역사 도시다. 가벼운 트랙킹에 이상적인 곳들로, 해발 2032미터의 구눙 브린창은 말레이 반도에서 고속도로로 도달할 수 있는 곳중 최고봉이다.
+세팍타크로는 말레이 반도 지역의 공놀이에서 발전한 경기로 한국의 족구와 비슷하다. 중국으로 향하는 원유와 원유 제품의 85%가 인도양을 거쳐 말라카 해협(말레이 반도 남부와 수마트라 섬 사이에 있는 해협)을 통과해 남중국해와 동중국해로 올라간다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="7" text="말레이 반도" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="28" end="33" text="크라 반도" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="50" end="55" text="동남아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="108" end="113" text="발라이 곶" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="159" end="165" text="말레이 반도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="185" end="191" text="서말레이시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="193" end="197" text="싱가포르" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="215" end="221" text="말레이 반도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="234" end="236" text="파항" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="247" end="253" text="말레이 반도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="312" end="316" text="동아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="318" end="324" text="말레이 반도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="347" end="349" text="백제" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="355" end="357" text="바다" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="379" end="385" text="말레이 반도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="395" end="398" text="피낭섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="401" end="403" text="동양" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="459" end="465" text="구눙 브린창" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="467" end="473" text="말레이 반도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="491" end="492" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="494" end="497" text="최고봉" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="533" end="535" text="한국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="547" end="549" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="572" end="575" text="인도양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="598" end="604" text="수마트라 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="621" end="625" text="남중국해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="627" end="631" text="동중국해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="86" end="91" text="크라 지협" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl51" start="174" end="176" text="타이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl52" start="181" end="183" text="지방" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl53" start="587" end="593" text="말레이 반도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="414" end="418" text="휴양도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="86" />
+<PLACE id="pl34" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="547" />
+<PLACE id="pl6" start="80" end="82" text="반도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="201" end="203" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="228" end="229" text="주" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="424" end="426" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="244" end="245" text="주" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="367" end="368" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="60" end="62" text="반도" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="96" end="102" text="아시아 대륙" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="121" end="127" text="아시아 본토" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="508" end="517" text="말레이 반도 지역" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PATH id="p1" start="476" end="480" text="고속도로" beginID="pl31" endID="pl30" midIDs="" type="ROAD" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="580" end="586" text="말라카 해협" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="612" end="614" text="해협" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="302" end="305" text="파항강" beginID="" endID="" midIDs="" type="" dimensionality="" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="332" end="334" text="황칠" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="556" end="558" text="원유" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="560" end="565" text="원유 제품" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="327" end="328" text="나" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="371" end="372" text="났" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e3" start="82" end="83" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e4" start="57" end="58" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e5" start="211" end="212" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e7" start="497" end="498" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e8" start="609" end="610" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e9" start="488" end="489" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e10" start="258" end="261" text="위치해" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e11" start="281" end="284" text="차지하" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e12" start="391" end="394" text="위치한" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="307" end="310" text="흐른다" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="577" end="579" text="거쳐" domain="" latLong="" elevation="" motion_type="PATH" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="617" end="620" text="통과해" domain="" latLong="" elevation="" motion_type="PATH" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="633" end="636" text="올라간" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="55" end="56" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="104" end="107" text="최남단" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="351" end="354" text="서남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="358" end="361" text="가운데" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="70" end="72" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="139" end="141" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="368" end="369" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="386" end="389" text="서북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="605" end="607" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="254" end="256" text="중부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="177" end="180" text="남서부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="594" end="596" text="남부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<MOTION_SIGNAL id="ms1" start="575" end="576" text="을" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="615" end="616" text="을" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="631" end="632" text="로" motion_signal_type="PATH" comment="" />
+<MEASURE id="me3" start="451" end="457" text="2032미터" value="2032" unit="m" comment="" />
+<MEASURE id="me1" start="268" end="275" text="3만6053㎢" value="36053" unit="km2" comment="" />
+<MEASURE id="me0" start="132" end="138" text="1,127㎞" value="1127" unit="km2" comment="" />
+<MEASURE id="me2" start="295" end="300" text="460km" value="460" unit="km2" comment="" />
+<SENTENCE id="sent0" start="1" end="85" text="말레이 반도[Malay Peninsula] 또는 크라 반도(Kra Peninsula)는 동남아시아에 있는 반도 인도차이나의 남쪽으로 튀어나온 반도이다." comment="" />
+<SENTENCE id="sent1" start="86" end="158" text="크라 지협을 지나 아시아 대륙의 최남단 발라이 곶에 이르기까지 아시아 본토에서 약 1,127㎞ 남쪽으로 길고 좁다랗게 뻗어내린다." comment="" />
+<SENTENCE id="sent2" start="159" end="214" text="말레이 반도는 행정상으로는 타이 남서부 지방, 서말레이시아, 싱가포르 등의 지역으로 이루어져 있다." comment="" />
+<SENTENCE id="sent3" start="215" end="289" text="말레이 반도의 가장 큰 주(州)인 파항(Pahang)주는 말레이 반도 중부에 위치해 있으며 약 3만6053㎢의 면적을 차지하고 있다." comment="" />
+<SENTENCE id="sent4" start="290" end="311" text="길이 약 460km의 파항강이 흐른다." comment="" />
+<SENTENCE id="sent5" start="312" end="378" text="동아시아와 말레이 반도에서 나온다는 황칠은 해동 역사에서 본래 백제의 서남쪽 바다 가운데 세 개의 섬에서 났다고 했다." comment="" />
+<SENTENCE id="sent6" start="379" end="399" text="말레이 반도 서북쪽에 위치한 피낭섬." comment="" />
+<SENTENCE id="sent7" start="400" end="428" text="‘동양의 진주’로 불렸던 휴양도시이자 역사 도시다." comment="" />
+<SENTENCE id="sent8" start="429" end="500" text="가벼운 트랙킹에 이상적인 곳들로, 해발 2032미터의 구눙 브린창은 말레이 반도에서 고속도로로 도달할 수 있는 곳중 최고봉이다." comment="" />
+<SENTENCE id="sent9" start="501" end="546" text="세팍타크로는 말레이 반도 지역의 공놀이에서 발전한 경기로 한국의 족구와 비슷하다." comment="" />
+<SENTENCE id="sent10" start="547" end="638" text="중국으로 향하는 원유와 원유 제품의 85%가 인도양을 거쳐 말라카 해협(말레이 반도 남부와 수마트라 섬 사이에 있는 해협)을 통과해 남중국해와 동중국해로 올라간다." comment="" />
+<QSLINK id="qsl6" fromID="pl39" fromText="수마트라 섬" toID="p2" toText="해협" relType="OUT" trajector="pl39" landmark="p2" trigger="s10" comment="" />
+<QSLINK id="qsl2" fromID="pl38" fromText="섬" toID="pl25" toText="바다" relType="NTPP" trajector="pl38" landmark="pl25" trigger="s6" comment="" />
+<QSLINK id="qsl3" fromID="pl38" fromText="섬" toID="se0" toText="황칠" relType="IN" trajector="se0" landmark="pl38" trigger="s7" comment="" />
+<QSLINK id="qsl1" fromID="pl3" fromText="반도 인도차이나" toID="pl4" toText="동남아시아" relType="NTPP" trajector="pl3" landmark="pl4" trigger="s0" comment="" />
+<QSLINK id="qsl12" fromID="p2" fromText="해협" toID="pl34" toText="" relType="OUT" trajector="pl34" landmark="p2" trigger="s10" comment="" />
+<QSLINK id="qsl13" fromID="pl34" fromText="" toID="pl39" toText="수마트라 섬" relType="DC" trajector="pl34" landmark="pl39" trigger="s10" comment="" />
+<OLINK id="ol3" fromID="pl25" fromText="바다" toID="pl24" toText="백제" relType="서남" trajector="pl25" landmark="pl24" trigger="s5" frame_type="ABSOLUTE" referencePt="서남" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="pl28" fromText="피낭섬" toID="pl27" toText="말레이 반도" relType="서북" trajector="pl28" landmark="pl27" trigger="s8" frame_type="ABSOLUTE" referencePt="서북" projective="FALSE" comment="" />
+<OLINK id="ol7" fromID="pl52" fromText="지방" toID="pl51" toText="타이" relType="남서" trajector="pl52" landmark="pl51" trigger="s9" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl6" fromText="반도" toID="pl3" toText="반도 인도차이나" relType="남" trajector="pl6" landmark="pl3" trigger="s1" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol6" fromID="pl8" fromText="발라이 곶" toID="pl5" toText="아시아 대륙" relType="남" trajector="pl8" landmark="pl5" trigger="s2" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol9" fromID="pl11" fromText="" toID="pl43" toText="아시아 본토" relType="남" trajector="pl11" landmark="pl43" trigger="s3" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol10" fromID="pl34" fromText="" toID="pl53" toText="말레이 반도" relType="남" trajector="pl34" landmark="pl53" trigger="s11" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol0" fromID="pl20" fromText="말레이 반도" toID="pl26" toText="주" relType="중" trajector="pl26" landmark="pl20" trigger="s4" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<MOVELINK id="mvl1" fromID="pl36" fromText="중국" toID="m2" toText="거쳐" trigger="m2" source="pl34" goal="pl36" midPoint="pl37" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl2" fromID="pl36" fromText="중국" toID="m3" toText="통과해" trigger="m3" source="pl34" goal="pl36" midPoint="p0" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl3" fromID="pl40" fromText="남중국해" toID="m4" toText="올라간" trigger="m4" source="" goal="pl40" midPoint="" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl4" fromID="pl36" fromText="중국" toID="pl41" toText="동중국해" trigger="m4" source="" goal="pl41" midPoint="" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl5" fromID="pl36" fromText="중국" toID="m2" toText="거쳐" trigger="m2" source="pl34" goal="pl36" midPoint="pl37" mover="se2" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl6" fromID="pl36" fromText="중국" toID="m3" toText="통과해" trigger="m3" source="pl34" goal="pl36" midPoint="p0" mover="se2" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl7" fromID="pl40" fromText="남중국해" toID="m4" toText="올라간" trigger="m4" source="" goal="pl40" midPoint="" mover="se2" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl8" fromID="pl36" fromText="중국" toID="pl41" toText="동중국해" trigger="m4" source="" goal="pl41" midPoint="" mover="se2" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl9" fromID="p3" fromText="파항강" toID="m0" toText="흐른다" trigger="m0" source="" goal="" midPoint="" mover="p3" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MEASURELINK id="ml2" fromID="pl11" fromText="" toID="me0" toText="약 1,127㎞" trajector="pl11" landmark="se7" relType="DISTANCE" val="me0" endPoint1="pl11" endPoint2="se7" comment="" />
+<MEASURELINK id="ml5" fromID="pl30" fromText="구눙 브린창" toID="me3" toText="2032미터" trajector="pl30" landmark="pl30" relType="HEIGHT" val="me3" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml0" fromID="pl17" fromText="파항" toID="pl17" toText="" trajector="pl17" landmark="pl17" relType="GENERAL_DIMENSION" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl26" fromText="주" toID="pl26" toText="" trajector="pl26" landmark="pl26" relType="GENERAL_DIMENSION" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="p3" fromText="파항강" toID="p3" toText="파항강" trajector="p3" landmark="p3" relType="LENGTH" val="me2" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

@@ -1,0 +1,101 @@
+{
+    "doc_id": "E2016.789.02_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "훈민정음 해례본에 보이는 방점의 역할로 맞는 것은?", 
+            "morp": [
+                {"id": 0, "lemma": "훈민정음", "type": "NNP", "position": 6, "weight": 0.35}, 
+                {"id": 1, "lemma": "해례본", "type": "NNP", "position": 19, "weight": 0.0618179}, 
+                {"id": 2, "lemma": "에", "type": "JKB", "position": 22, "weight": 0.153364}, 
+                {"id": 3, "lemma": "보이", "type": "VV", "position": 26, "weight": 0.443925}, 
+                {"id": 4, "lemma": "는", "type": "ETM", "position": 32, "weight": 0.184941}, 
+                {"id": 5, "lemma": "방점", "type": "NNG", "position": 36, "weight": 0.3}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 42, "weight": 0.0694213}, 
+                {"id": 7, "lemma": "역할", "type": "NNG", "position": 46, "weight": 0.9}, 
+                {"id": 8, "lemma": "로", "type": "JKB", "position": 52, "weight": 0.153229}, 
+                {"id": 9, "lemma": "맞", "type": "VV", "position": 56, "weight": 0.443633}, 
+                {"id": 10, "lemma": "는", "type": "ETM", "position": 59, "weight": 0.184941}, 
+                {"id": 11, "lemma": "것", "type": "NNB", "position": 63, "weight": 0.228788}, 
+                {"id": 12, "lemma": "은", "type": "JX", "position": 66, "weight": 0.0688243}, 
+                {"id": 13, "lemma": "?", "type": "SF", "position": 69, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "훈민정음", "type": "NNP", "scode": "000002", "weight": 0.5, "position": 6, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "해례본", "type": "NNP", "scode": "000000", "weight": 0, "position": 19, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 22, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "보이", "type": "VV", "scode": "010101", "weight": 0.0909091, "position": 26, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 32, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "방점", "type": "NNG", "scode": "020002", "weight": 0.333333, "position": 36, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 42, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "역할", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 46, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 52, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "맞", "type": "VV", "scode": "010101", "weight": 0.05, "position": 56, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 59, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 63, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 66, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 69, "begin": 13, "end": 13}
+            ], 
+            "word": [
+                {"id": 0, "text": "훈민정음", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "해례본에", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "보이는", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "방점의", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "역할로", "type": "", "begin": 7, "end": 8}, 
+                {"id": 5, "text": "맞는", "type": "", "begin": 9, "end": 10}, 
+                {"id": 6, "text": "것은?", "type": "", "begin": 11, "end": 13}
+            ], 
+            "NE": [
+                {"id": 0, "text": "훈민정음 해례본", "type": "AFW_DOCUMENT", "begin": 0, "end": 1, "weight": 0.256972, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "훈민정음", "head": 1, "label": "NP", "mod": [], "weight": 0.713417}, 
+                {"id": 1, "text": "해례본에", "head": 2, "label": "NP_AJT", "mod": [0], "weight": 0.781697}, 
+                {"id": 2, "text": "보이는", "head": 3, "label": "VP_MOD", "mod": [1], "weight": 0.603681}, 
+                {"id": 3, "text": "방점의", "head": 4, "label": "NP_MOD", "mod": [2], "weight": 0.602416}, 
+                {"id": 4, "text": "역할로", "head": 5, "label": "NP_AJT", "mod": [3], "weight": 0.750339}, 
+                {"id": 5, "text": "맞는", "head": 6, "label": "VP_MOD", "mod": [4], "weight": 0.849928}, 
+                {"id": 6, "text": "것은?", "head": -1, "label": "NP_SBJ", "mod": [5], "weight": 0.069094}
+            ], 
+            "SRL": [
+                {"verb": "보이", "sense": 1, "word_id": 2, "weight": 0.0866697, "argument": [
+                    {"type": "ARGM-LOC", "word_id": 1, "text": "해례본에", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 3, "text": "방점의", "weight": 1}
+                ]}, 
+                {"verb": "맞", "sense": 2, "word_id": 5, "weight": 0.0657259, "argument": [
+                    {"type": "ARGM-PRD", "word_id": 4, "text": "역할로", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 6, "text": "것은?", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 6, "ne_id": -1, "text": "훈민정음 해례본에 보이는 방점의 역할로 맞는 것은?", "start_eid_short": 6, "end_eid_short": 6, "text_short": "것은?"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "훈민정음 해례본에 보이는 방점의 역할로", "start_eid_short": 4, "end_eid_short": 4, "text_short": "역할로"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "훈민정음 해례본에", "start_eid_short": 0, "end_eid_short": 1, "text_short": "훈민정음 해례본에"}
+        ]}, 
+        {"id": 2, "type": "AF_WORKS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "훈민정음", "start_eid_short": 0, "end_eid_short": 0, "text_short": "훈민정음"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "훈민정음 해례본에 보이는 방점의", "start_eid_short": 3, "end_eid_short": 3, "text_short": "방점의"}
+        ]}
+    ]
+}

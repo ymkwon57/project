@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+간사이 국제공항(Kansai International Airport,KIX; 関西国際空港 간사이 고쿠사이 구코)는 일본 간사이 지역의 주요 국제공항이다. 오사카, 교토, 그리고 고베로 통해있다.
+
+이해하세요
+간시이 국제공항은 오사카만의 인공섬에 건설되었다. 그것은 오사카 도시의 남쪽 40km 지점이다. 도쿄의 나리타 국제공항과는 달리 간사이 국제공항은 일본 전역으로의 교통편이 좋다. 그리하여 일본 입국 공항으로 좋은 선택이다. 그러나 일본 국내선이라면 오사카 이타미 공항이나 고베 공항을 이용하는 것이 편리하다.
+공항의 유일한 터미널은 이탈리아 스타 건축설계사 렌조 피아노씨에의해 설계되어 세계에서 가장 긴 1.7km의 건축물이다. 도착은 1층으로하며 출발은 4층에서 한다. 도착시에는 모든 ATM이 외국의 카드를 받지는 않는다는 점을 주의하세요. 그러나 시티뱅크와 우체국 ATM은 잘됩니다. 도착과 출발 지역에 환전소가 있습니다. 그들은 단지 일본 엔화만을 취급합니다. 믿을만한 화물 배송서비스는 국제 도착 지역의 북쪽과 남쪽 끝에 가용합니다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="9" text="간사이 국제공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="51" end="62" text="간사이 고쿠사이 구코" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="65" end="67" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="87" end="90" text="오사카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="92" end="94" text="교토" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="100" end="102" text="고베" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="117" end="125" text="간시이 국제공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="127" end="131" text="오사카만" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="133" end="136" text="인공섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="165" end="167" text="지점" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="171" end="173" text="도쿄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="175" end="183" text="나리타 국제공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="189" end="197" text="간사이 국제공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="222" end="224" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="246" end="248" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="256" end="259" text="오사카" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="260" end="266" text="이타미 공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="269" end="274" text="고베 공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="361" end="363" text="1층" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="372" end="374" text="4층" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="454" end="456" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="476" end="478" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="512" end="514" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="523" end="524" text="끝" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="145" end="147" text="그것" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="68" end="74" text="간사이 지역" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="149" end="155" text="오사카 도시" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="199" end="204" text="일본 전역" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="333" end="335" text="세계" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="458" end="461" text="환전소" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="79" end="83" text="국제공항" type="ARTIFACT" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="-1" end="-1" text="" type="ARTIFACT" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="357" />
+<SPATIAL_ENTITY id="se3" start="350" end="353" text="건축물" type="ARTIFACT" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="357" end="359" text="도착" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="368" end="370" text="출발" domain="" latLong="" elevation="" motion_type="PATH" motion_class="DEVIATE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s4" start="157" end="159" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="456" end="457" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="516" end="518" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="520" end="522" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="136" end="137" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="74" end="75" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="173" end="174" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="335" end="337" text="에서" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="131" end="132" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="363" end="365" text="으로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="374" end="376" text="에서" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="160" end="164" text="40km" value="40" unit="km" comment="" />
+<MEASURE id="me1" start="343" end="348" text="1.7km" value="1.7" unit="km" comment="" />
+<SENTENCE id="sent0" start="1" end="86" text="간사이 국제공항(Kansai International Airport,KIX; 関西国際空港 간사이 고쿠사이 구코)는 일본 간사이 지역의 주요 국제공항이다." comment="" />
+<SENTENCE id="sent1" start="87" end="109" text="오사카, 교토, 그리고 고베로 통해있다." comment="" />
+<SENTENCE id="sent2" start="117" end="144" text="간시이 국제공항은 오사카만의 인공섬에 건설되었다." comment="" />
+<SENTENCE id="sent3" start="145" end="170" text="그것은 오사카 도시의 남쪽 40km 지점이다." comment="" />
+<SENTENCE id="sent4" start="171" end="216" text="도쿄의 나리타 국제공항과는 달리 간사이 국제공항은 일본 전역으로의 교통편이 좋다." comment="" />
+<SENTENCE id="sent5" start="217" end="241" text="그리하여 일본 입국 공항으로 좋은 선택이다." comment="" />
+<SENTENCE id="sent6" start="242" end="289" text="그러나 일본 국내선이라면 오사카 이타미 공항이나 고베 공항을 이용하는 것이 편리하다." comment="" />
+<SENTENCE id="sent7" start="290" end="356" text="공항의 유일한 터미널은 이탈리아 스타 건축설계사 렌조 피아노씨에의해 설계되어 세계에서 가장 긴 1.7km의 건축물이다." comment="" />
+<SENTENCE id="sent8" start="357" end="380" text="도착은 1층으로하며 출발은 4층에서 한다." comment="" />
+<SENTENCE id="sent9" start="381" end="421" text="도착시에는 모든 ATM이 외국의 카드를 받지는 않는다는 점을 주의하세요." comment="" />
+<SENTENCE id="sent10" start="422" end="446" text="그러나 시티뱅크와 우체국 ATM은 잘됩니다." comment="" />
+<SENTENCE id="sent11" start="447" end="468" text="도착과 출발 지역에 환전소가 있습니다." comment="" />
+<SENTENCE id="sent12" start="469" end="490" text="그들은 단지 일본 엔화만을 취급합니다." comment="" />
+<SENTENCE id="sent13" start="491" end="532" text="믿을만한 화물 배송서비스는 국제 도착 지역의 북쪽과 남쪽 끝에 가용합니다." comment="" />
+<QSLINK id="qsl5" fromID="pl9" fromText="간시이 국제공항" toID="pl11" toText="인공섬" relType="NTPP" trajector="pl11" landmark="pl9" trigger="s2" comment="" />
+<QSLINK id="qsl6" fromID="pl32" fromText="지역" toID="se0" toText="환전소" relType="IN" trajector="se0" landmark="pl32" trigger="s6" comment="" />
+<QSLINK id="qsl0" fromID="se1" fromText="국제공항" toID="pl3" toText="간사이 지역" relType="IN" trajector="se1" landmark="pl3" trigger="s0" comment="" />
+<QSLINK id="qsl3" fromID="pl16" fromText="나리타 국제공항" toID="pl15" toText="도쿄" relType="IN" trajector="pl16" landmark="pl15" trigger="s1" comment="" />
+<QSLINK id="qsl4" fromID="se3" fromText="건축물" toID="pl12" toText="세계" relType="NTPP" trajector="se3" landmark="pl12" trigger="s3" comment="" />
+<QSLINK id="qsl7" fromID="pl11" fromText="인공섬" toID="pl10" toText="오사카만" relType="NTPP" trajector="pl11" landmark="pl10" trigger="s5" comment="" />
+<OLINK id="ol1" fromID="pl35" fromText="지역" toID="pl36" toText="끝" relType="북" trajector="pl36" landmark="pl35" trigger="s8" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl35" fromText="지역" toID="pl36" toText="끝" relType="남" trajector="pl36" landmark="pl35" trigger="s9" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl14" fromText="지점" toID="pl4" toText="오사카 도시" relType="남" trajector="pl14" landmark="pl4" trigger="s4" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="도착" toID="pl30" toText="1층" trigger="m0" source="" goal="pl30" midPoint="" mover="se2" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="출발" toID="ms1" toText="에서" trigger="m1" source="pl31" goal="" midPoint="" mover="se2" landmark="" goal_reached="NO" pathID="" motion_signalID="ms1" comment="" />
+<MEASURELINK id="ml1" fromID="pl14" fromText="지점" toID="pl4" toText="오사카 도시" trajector="pl14" landmark="pl4" relType="DISTANCE" val="me0" endPoint1="pl14" endPoint2="pl4" comment="" />
+<MEASURELINK id="ml2" fromID="pl37" fromText="그것" toID="pl4" toText="오사카 도시" trajector="pl37" landmark="pl4" relType="DISTANCE" val="me0" endPoint1="pl37" endPoint2="pl4" comment="" />
+<MEASURELINK id="ml0" fromID="se3" fromText="건축물" toID="me1" toText="1.7km" trajector="se3" landmark="se3" relType="LENGTH" val="me1" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

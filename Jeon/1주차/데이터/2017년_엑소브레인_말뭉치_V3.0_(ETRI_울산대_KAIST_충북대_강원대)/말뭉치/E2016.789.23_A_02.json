@@ -1,0 +1,390 @@
+{
+    "doc_id": "E2016.789.23_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "퇴짜를 놓다", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "조선시대에는 조정으로 올려 보내는 물건들을 일일이 점고(點考)했었다.", 
+            "morp": [
+                {"id": 0, "lemma": "조선", "type": "NNP", "position": 0, "weight": 0.0878802}, 
+                {"id": 1, "lemma": "시대", "type": "NNG", "position": 6, "weight": 0.9}, 
+                {"id": 2, "lemma": "에", "type": "JKB", "position": 12, "weight": 0.153364}, 
+                {"id": 3, "lemma": "는", "type": "JX", "position": 15, "weight": 0.0387928}, 
+                {"id": 4, "lemma": "조정", "type": "NNG", "position": 19, "weight": 0.324795}, 
+                {"id": 5, "lemma": "으로", "type": "JKB", "position": 25, "weight": 0.153406}, 
+                {"id": 6, "lemma": "올리", "type": "VV", "position": 32, "weight": 0.44513}, 
+                {"id": 7, "lemma": "어", "type": "EC", "position": 35, "weight": 0.41831}, 
+                {"id": 8, "lemma": "보내", "type": "VV", "position": 39, "weight": 0.9}, 
+                {"id": 9, "lemma": "는", "type": "ETM", "position": 45, "weight": 0.184941}, 
+                {"id": 10, "lemma": "물건", "type": "NNG", "position": 49, "weight": 0.9}, 
+                {"id": 11, "lemma": "들", "type": "XSN", "position": 55, "weight": 0.0299841}, 
+                {"id": 12, "lemma": "을", "type": "JKO", "position": 58, "weight": 0.0819193}, 
+                {"id": 13, "lemma": "일일이", "type": "MAG", "position": 62, "weight": 0.9}, 
+                {"id": 14, "lemma": "점고", "type": "NNG", "position": 72, "weight": 0.65}, 
+                {"id": 15, "lemma": "(", "type": "SS", "position": 78, "weight": 1}, 
+                {"id": 16, "lemma": "點考", "type": "SH", "position": 79, "weight": 1}, 
+                {"id": 17, "lemma": ")", "type": "SS", "position": 85, "weight": 1}, 
+                {"id": 18, "lemma": "하", "type": "XSV", "position": 86, "weight": 0}, 
+                {"id": 19, "lemma": "았었", "type": "EP", "position": 86, "weight": 0}, 
+                {"id": 20, "lemma": "다", "type": "EF", "position": 92, "weight": 0.0775868}, 
+                {"id": 21, "lemma": ".", "type": "SF", "position": 95, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "조선", "type": "NNP", "scode": "050002", "weight": 0.0833333, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "시대", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 12, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 15, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "조정", "type": "NNG", "scode": "040000", "weight": 0.0625, "position": 19, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 25, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "올리", "type": "VV", "scode": "010206", "weight": 0.047619, "position": 32, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 35, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "보내", "type": "VV", "scode": "000101", "weight": 0.111111, "position": 39, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 45, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "물건", "type": "NNG", "scode": "000001", "weight": 0.2, "position": 49, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "들", "type": "XSN", "scode": "090000", "weight": 0.0909091, "position": 55, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 58, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "일일이", "type": "MAG", "scode": "020003", "weight": 0.2, "position": 62, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "점고", "type": "NNG", "scode": "040000", "weight": 0.25, "position": 72, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 78, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "點考", "type": "SH", "scode": "000000", "weight": 1, "position": 79, "begin": 16, "end": 16}, 
+                {"id": 17, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 85, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "하", "type": "XSV", "scode": "030001", "weight": 0.0588235, "position": 86, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "았었", "type": "EP", "scode": "000000", "weight": 1, "position": 86, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 92, "begin": 20, "end": 20}, 
+                {"id": 21, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 95, "begin": 21, "end": 21}
+            ], 
+            "word": [
+                {"id": 0, "text": "조선시대에는", "type": "", "begin": 0, "end": 3}, 
+                {"id": 1, "text": "조정으로", "type": "", "begin": 4, "end": 5}, 
+                {"id": 2, "text": "올려", "type": "", "begin": 6, "end": 7}, 
+                {"id": 3, "text": "보내는", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "물건들을", "type": "", "begin": 10, "end": 12}, 
+                {"id": 5, "text": "일일이", "type": "", "begin": 13, "end": 13}, 
+                {"id": 6, "text": "점고(點考)했었다.", "type": "", "begin": 14, "end": 21}
+            ], 
+            "NE": [
+                {"id": 0, "text": "조선시대", "type": "DT_DYNASTY", "begin": 0, "end": 1, "weight": 0.918815, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "조선시대에는", "head": 6, "label": "NP_AJT", "mod": [], "weight": 0.727543}, 
+                {"id": 1, "text": "조정으로", "head": 2, "label": "NP_AJT", "mod": [], "weight": 0.668467}, 
+                {"id": 2, "text": "올려", "head": 3, "label": "VP", "mod": [1], "weight": 0.585995}, 
+                {"id": 3, "text": "보내는", "head": 4, "label": "VP_MOD", "mod": [2], "weight": 0.78086}, 
+                {"id": 4, "text": "물건들을", "head": 6, "label": "NP_OBJ", "mod": [3], "weight": 0.7798}, 
+                {"id": 5, "text": "일일이", "head": 6, "label": "AP", "mod": [], "weight": 0.778143}, 
+                {"id": 6, "text": "점고(點考)했었다.", "head": -1, "label": "VP", "mod": [0, 4, 5], "weight": 0.0168716}
+            ], 
+            "SRL": [
+                {"verb": "올리", "sense": 6, "word_id": 2, "weight": 0.154367, "argument": [
+                    {"type": "ARG2", "word_id": 1, "text": "조정으로", "weight": 0.096478}, 
+                    {"type": "ARG1", "word_id": 4, "text": "물건들을", "weight": 0.212256}
+                ]}, 
+                {"verb": "보내", "sense": 1, "word_id": 3, "weight": 0.140678, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 2, "text": "올려", "weight": 0.121398}, 
+                    {"type": "ARG1", "word_id": 4, "text": "물건들을", "weight": 0.159959}, 
+                    {"type": "ARG2", "word_id": 1, "text": "조정으로", "weight": 1}
+                ]}, 
+                {"verb": "점고", "sense": 1, "word_id": 6, "weight": 0.136289, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 0, "text": "조선시대에는", "weight": 0.130233}, 
+                    {"type": "ARG1", "word_id": 4, "text": "물건들을", "weight": 0.19282}, 
+                    {"type": "ARGM-MNR", "word_id": 5, "text": "일일이", "weight": 0.0858128}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "이때 물건의 질이 낮아 도저히 위로 올려 보낼 수 없으면 그 물건에 ‘退’자를 찍거나 써서 다시 물리게 했다.", 
+            "morp": [
+                {"id": 0, "lemma": "이때", "type": "NNG", "position": 96, "weight": 0.9}, 
+                {"id": 1, "lemma": "물건", "type": "NNG", "position": 103, "weight": 0.9}, 
+                {"id": 2, "lemma": "의", "type": "JKG", "position": 109, "weight": 0.0694213}, 
+                {"id": 3, "lemma": "질", "type": "NNG", "position": 113, "weight": 0.632833}, 
+                {"id": 4, "lemma": "이", "type": "JKS", "position": 116, "weight": 0.0360723}, 
+                {"id": 5, "lemma": "낮", "type": "VA", "position": 120, "weight": 0.1848}, 
+                {"id": 6, "lemma": "아", "type": "EC", "position": 123, "weight": 0.297065}, 
+                {"id": 7, "lemma": "도저히", "type": "MAG", "position": 127, "weight": 0.9}, 
+                {"id": 8, "lemma": "위", "type": "NNG", "position": 137, "weight": 0.234283}, 
+                {"id": 9, "lemma": "로", "type": "JKB", "position": 140, "weight": 0.153229}, 
+                {"id": 10, "lemma": "올리", "type": "VV", "position": 144, "weight": 0.44513}, 
+                {"id": 11, "lemma": "어", "type": "EC", "position": 147, "weight": 0.41831}, 
+                {"id": 12, "lemma": "보내", "type": "VV", "position": 151, "weight": 0.9}, 
+                {"id": 13, "lemma": "ㄹ", "type": "ETM", "position": 154, "weight": 0.300746}, 
+                {"id": 14, "lemma": "수", "type": "NNB", "position": 158, "weight": 0.215617}, 
+                {"id": 15, "lemma": "없", "type": "VA", "position": 162, "weight": 0.101269}, 
+                {"id": 16, "lemma": "으면", "type": "EC", "position": 165, "weight": 0.318116}, 
+                {"id": 17, "lemma": "그", "type": "MM", "position": 172, "weight": 0.0123347}, 
+                {"id": 18, "lemma": "물건", "type": "NNG", "position": 176, "weight": 0.9}, 
+                {"id": 19, "lemma": "에", "type": "JKB", "position": 182, "weight": 0.153364}, 
+                {"id": 20, "lemma": "‘", "type": "SS", "position": 186, "weight": 1}, 
+                {"id": 21, "lemma": "退", "type": "SH", "position": 189, "weight": 1}, 
+                {"id": 22, "lemma": "’", "type": "SS", "position": 192, "weight": 1}, 
+                {"id": 23, "lemma": "자", "type": "NNG", "position": 195, "weight": 0.0240063}, 
+                {"id": 24, "lemma": "를", "type": "JKO", "position": 198, "weight": 0.137686}, 
+                {"id": 25, "lemma": "찍", "type": "VV", "position": 202, "weight": 0.772248}, 
+                {"id": 26, "lemma": "거나", "type": "EC", "position": 205, "weight": 0.421781}, 
+                {"id": 27, "lemma": "쓰", "type": "VV", "position": 212, "weight": 0.224832}, 
+                {"id": 28, "lemma": "어서", "type": "EC", "position": 212, "weight": 0.421998}, 
+                {"id": 29, "lemma": "다시", "type": "MAG", "position": 219, "weight": 0.0469628}, 
+                {"id": 30, "lemma": "물리", "type": "VV", "position": 226, "weight": 0.278453}, 
+                {"id": 31, "lemma": "게", "type": "EC", "position": 232, "weight": 0.427975}, 
+                {"id": 32, "lemma": "하", "type": "VX", "position": 236, "weight": 0.0899221}, 
+                {"id": 33, "lemma": "았", "type": "EP", "position": 236, "weight": 0.9}, 
+                {"id": 34, "lemma": "다", "type": "EF", "position": 239, "weight": 0.640954}, 
+                {"id": 35, "lemma": ".", "type": "SF", "position": 242, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이때", "type": "NNG", "scode": "000000", "weight": 1, "position": 96, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "물건", "type": "NNG", "scode": "000001", "weight": 0.2, "position": 103, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 109, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "질", "type": "NNG", "scode": "080001", "weight": 0.05, "position": 113, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 116, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "낮", "type": "VA", "scode": "000003", "weight": 0.2, "position": 120, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 123, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "도저히", "type": "MAG", "scode": "000000", "weight": 1, "position": 127, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "위", "type": "NNG", "scode": "010004", "weight": 0.0285714, "position": 137, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 140, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "올리", "type": "VV", "scode": "010206", "weight": 0.047619, "position": 144, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 147, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "보내", "type": "VV", "scode": "000101", "weight": 0.111111, "position": 151, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "ㄹ", "type": "ETM", "scode": "000000", "weight": 1, "position": 154, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "수", "type": "NNB", "scode": "020100", "weight": 0.02, "position": 158, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "없", "type": "VA", "scode": "010106", "weight": 0.0588235, "position": 162, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "으면", "type": "EC", "scode": "000000", "weight": 1, "position": 165, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "그", "type": "MM", "scode": "010102", "weight": 0.142857, "position": 172, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "물건", "type": "NNG", "scode": "000001", "weight": 0.2, "position": 176, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 182, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "‘", "type": "SS", "scode": "000000", "weight": 1, "position": 186, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "退", "type": "SH", "scode": "000000", "weight": 1, "position": 189, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "’", "type": "SS", "scode": "000000", "weight": 1, "position": 192, "begin": 22, "end": 22}, 
+                {"id": 23, "text": "자", "type": "NNG", "scode": "140001", "weight": 0.0217391, "position": 195, "begin": 23, "end": 23}, 
+                {"id": 24, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 198, "begin": 24, "end": 24}, 
+                {"id": 25, "text": "찍", "type": "VV", "scode": "020201", "weight": 0.0714286, "position": 202, "begin": 25, "end": 25}, 
+                {"id": 26, "text": "거나", "type": "EC", "scode": "000000", "weight": 1, "position": 205, "begin": 26, "end": 26}, 
+                {"id": 27, "text": "쓰", "type": "VV", "scode": "010101", "weight": 0.0384615, "position": 212, "begin": 27, "end": 27}, 
+                {"id": 28, "text": "어서", "type": "EC", "scode": "000000", "weight": 1, "position": 212, "begin": 28, "end": 28}, 
+                {"id": 29, "text": "다시", "type": "MAG", "scode": "010001", "weight": 0.1, "position": 219, "begin": 29, "end": 29}, 
+                {"id": 30, "text": "물리", "type": "VV", "scode": "040102", "weight": 0.0588235, "position": 226, "begin": 30, "end": 30}, 
+                {"id": 31, "text": "게", "type": "EC", "scode": "000000", "weight": 1, "position": 232, "begin": 31, "end": 31}, 
+                {"id": 32, "text": "하", "type": "VX", "scode": "011101", "weight": 0.02, "position": 236, "begin": 32, "end": 32}, 
+                {"id": 33, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 236, "begin": 33, "end": 33}, 
+                {"id": 34, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 239, "begin": 34, "end": 34}, 
+                {"id": 35, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 242, "begin": 35, "end": 35}
+            ], 
+            "word": [
+                {"id": 0, "text": "이때", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "물건의", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "질이", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "낮아", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "도저히", "type": "", "begin": 7, "end": 7}, 
+                {"id": 5, "text": "위로", "type": "", "begin": 8, "end": 9}, 
+                {"id": 6, "text": "올려", "type": "", "begin": 10, "end": 11}, 
+                {"id": 7, "text": "보낼", "type": "", "begin": 12, "end": 13}, 
+                {"id": 8, "text": "수", "type": "", "begin": 14, "end": 14}, 
+                {"id": 9, "text": "없으면", "type": "", "begin": 15, "end": 16}, 
+                {"id": 10, "text": "그", "type": "", "begin": 17, "end": 17}, 
+                {"id": 11, "text": "물건에", "type": "", "begin": 18, "end": 19}, 
+                {"id": 12, "text": "‘退’자를", "type": "", "begin": 20, "end": 24}, 
+                {"id": 13, "text": "찍거나", "type": "", "begin": 25, "end": 26}, 
+                {"id": 14, "text": "써서", "type": "", "begin": 27, "end": 28}, 
+                {"id": 15, "text": "다시", "type": "", "begin": 29, "end": 29}, 
+                {"id": 16, "text": "물리게", "type": "", "begin": 30, "end": 31}, 
+                {"id": 17, "text": "했다.", "type": "", "begin": 32, "end": 35}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이때", "head": 3, "label": "NP_AJT", "mod": [], "weight": 0.617004}, 
+                {"id": 1, "text": "물건의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.65355}, 
+                {"id": 2, "text": "질이", "head": 3, "label": "NP_SBJ", "mod": [1], "weight": 0.779759}, 
+                {"id": 3, "text": "낮아", "head": 6, "label": "VP", "mod": [0, 2], "weight": 0.611964}, 
+                {"id": 4, "text": "도저히", "head": 6, "label": "AP", "mod": [], "weight": 0.285553}, 
+                {"id": 5, "text": "위로", "head": 6, "label": "NP_AJT", "mod": [], "weight": 0.558951}, 
+                {"id": 6, "text": "올려", "head": 7, "label": "VP", "mod": [3, 4, 5], "weight": 0.810289}, 
+                {"id": 7, "text": "보낼", "head": 8, "label": "VP_MOD", "mod": [6], "weight": 0.876218}, 
+                {"id": 8, "text": "수", "head": 9, "label": "NP_SBJ", "mod": [7], "weight": 0.78154}, 
+                {"id": 9, "text": "없으면", "head": 13, "label": "VP", "mod": [8], "weight": 0.487918}, 
+                {"id": 10, "text": "그", "head": 11, "label": "DP", "mod": [], "weight": 0.747104}, 
+                {"id": 11, "text": "물건에", "head": 13, "label": "NP_AJT", "mod": [10], "weight": 0.586818}, 
+                {"id": 12, "text": "‘退’자를", "head": 13, "label": "NP_OBJ", "mod": [], "weight": 0.641042}, 
+                {"id": 13, "text": "찍거나", "head": 14, "label": "VP", "mod": [9, 11, 12], "weight": 0.808474}, 
+                {"id": 14, "text": "써서", "head": 16, "label": "VP", "mod": [13], "weight": 0.748683}, 
+                {"id": 15, "text": "다시", "head": 16, "label": "AP", "mod": [], "weight": 0.804759}, 
+                {"id": 16, "text": "물리게", "head": 17, "label": "VP", "mod": [14, 15], "weight": 0.746384}, 
+                {"id": 17, "text": "했다.", "head": -1, "label": "VP", "mod": [16], "weight": 0.000677756}
+            ], 
+            "SRL": [
+                {"verb": "낮", "sense": 1, "word_id": 3, "weight": 0.244046, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 0, "text": "이때", "weight": 0.162867}, 
+                    {"type": "ARG1", "word_id": 2, "text": "질이", "weight": 0.325225}
+                ]}, 
+                {"verb": "올리", "sense": 2, "word_id": 6, "weight": 0.145855, "argument": [
+                    {"type": "ARG2", "word_id": 5, "text": "위로", "weight": 0.0894568}
+                ]}, 
+                {"verb": "보내", "sense": 1, "word_id": 7, "weight": 0.144544, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 0, "text": "이때", "weight": 0.124545}, 
+                    {"type": "ARGM-MNR", "word_id": 6, "text": "올려", "weight": 0.0968588}, 
+                    {"type": "ARGM-NEG", "word_id": 9, "text": "없으면", "weight": 0.221686}
+                ]}, 
+                {"verb": "찍", "sense": 2, "word_id": 13, "weight": 0.18166, "argument": [
+                    {"type": "ARGM-LOC", "word_id": 11, "text": "물건에", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 12, "text": "‘退’자를", "weight": 0.286058}
+                ]}, 
+                {"verb": "쓰", "sense": 2, "word_id": 14, "weight": 0.0896044, "argument": [
+                    {"type": "ARG1", "word_id": 12, "text": "‘退’자를", "weight": 1}, 
+                    {"type": "ARGM-LOC", "word_id": 11, "text": "물건에", "weight": 1}
+                ]}, 
+                {"verb": "물리", "sense": 1, "word_id": 16, "weight": 0.152912, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 14, "text": "써서", "weight": 1}, 
+                    {"type": "ARGM-ADV", "word_id": 15, "text": "다시", "weight": 1}
+                ]}, 
+                {"verb": "하", "sense": 4, "word_id": 17, "weight": 0.169357, "argument": [
+                    {"type": "ARG1", "word_id": 16, "text": "물리게", "weight": 0.169357}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "그렇게 해서 돌려보낸 물건을 가리켜 ‘퇴자 놓았다’고 했다.", 
+            "morp": [
+                {"id": 0, "lemma": "그렇", "type": "VA", "position": 243, "weight": 0.0465632}, 
+                {"id": 1, "lemma": "게", "type": "EC", "position": 249, "weight": 0.31879}, 
+                {"id": 2, "lemma": "하", "type": "VV", "position": 253, "weight": 0.140183}, 
+                {"id": 3, "lemma": "아서", "type": "EC", "position": 253, "weight": 0.421998}, 
+                {"id": 4, "lemma": "돌려보내", "type": "VV", "position": 260, "weight": 0.9}, 
+                {"id": 5, "lemma": "ㄴ", "type": "ETM", "position": 269, "weight": 0.304215}, 
+                {"id": 6, "lemma": "물건", "type": "NNG", "position": 273, "weight": 0.9}, 
+                {"id": 7, "lemma": "을", "type": "JKO", "position": 279, "weight": 0.129611}, 
+                {"id": 8, "lemma": "가리키", "type": "VV", "position": 283, "weight": 0.9}, 
+                {"id": 9, "lemma": "어", "type": "EC", "position": 289, "weight": 0.41831}, 
+                {"id": 10, "lemma": "‘", "type": "SS", "position": 293, "weight": 1}, 
+                {"id": 11, "lemma": "퇴자", "type": "NNG", "position": 296, "weight": 0.6}, 
+                {"id": 12, "lemma": "놓", "type": "VX", "position": 303, "weight": 0.0001}, 
+                {"id": 13, "lemma": "았", "type": "EP", "position": 306, "weight": 0.9}, 
+                {"id": 14, "lemma": "다", "type": "EF", "position": 309, "weight": 0.640954}, 
+                {"id": 15, "lemma": "’", "type": "SS", "position": 312, "weight": 1}, 
+                {"id": 16, "lemma": "고", "type": "JKQ", "position": 315, "weight": 0.00516353}, 
+                {"id": 17, "lemma": "하", "type": "VV", "position": 319, "weight": 0.140183}, 
+                {"id": 18, "lemma": "았", "type": "EP", "position": 319, "weight": 0.9}, 
+                {"id": 19, "lemma": "다", "type": "EF", "position": 322, "weight": 0.640954}, 
+                {"id": 20, "lemma": ".", "type": "SF", "position": 325, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "그렇", "type": "VA", "scode": "000001", "weight": 0.333333, "position": 243, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "게", "type": "EC", "scode": "000000", "weight": 1, "position": 249, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "하", "type": "VV", "scode": "010101", "weight": 0.02, "position": 253, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "아서", "type": "EC", "scode": "000000", "weight": 1, "position": 253, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "돌려보내", "type": "VV", "scode": "000000", "weight": 1, "position": 260, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 269, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "물건", "type": "NNG", "scode": "000001", "weight": 0.2, "position": 273, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 279, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "가리키", "type": "VV", "scode": "010002", "weight": 0.333333, "position": 283, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 289, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "‘", "type": "SS", "scode": "000000", "weight": 1, "position": 293, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "퇴자", "type": "NNG", "scode": "000000", "weight": 1, "position": 296, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "놓", "type": "VX", "scode": "010302", "weight": 0.0322581, "position": 303, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 306, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 309, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "’", "type": "SS", "scode": "000000", "weight": 1, "position": 312, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "고", "type": "JKQ", "scode": "000000", "weight": 1, "position": 315, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "하", "type": "VV", "scode": "010701", "weight": 0.02, "position": 319, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 319, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 322, "begin": 19, "end": 19}, 
+                {"id": 20, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 325, "begin": 20, "end": 20}
+            ], 
+            "word": [
+                {"id": 0, "text": "그렇게", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "해서", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "돌려보낸", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "물건을", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "가리켜", "type": "", "begin": 8, "end": 9}, 
+                {"id": 5, "text": "‘퇴자", "type": "", "begin": 10, "end": 11}, 
+                {"id": 6, "text": "놓았다’고", "type": "", "begin": 12, "end": 16}, 
+                {"id": 7, "text": "했다.", "type": "", "begin": 17, "end": 20}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "그렇게", "head": 1, "label": "VP_AJT", "mod": [], "weight": 0.821961}, 
+                {"id": 1, "text": "해서", "head": 2, "label": "VP", "mod": [0], "weight": 0.248467}, 
+                {"id": 2, "text": "돌려보낸", "head": 3, "label": "VP_MOD", "mod": [1], "weight": 0.752695}, 
+                {"id": 3, "text": "물건을", "head": 4, "label": "NP_OBJ", "mod": [2], "weight": 0.7771}, 
+                {"id": 4, "text": "가리켜", "head": 6, "label": "VP", "mod": [3], "weight": 0.225593}, 
+                {"id": 5, "text": "‘퇴자", "head": 6, "label": "NP_OBJ", "mod": [], "weight": 0.0229051}, 
+                {"id": 6, "text": "놓았다’고", "head": 7, "label": "VP_CMP", "mod": [4, 5], "weight": 0.535262}, 
+                {"id": 7, "text": "했다.", "head": -1, "label": "VP", "mod": [6], "weight": 0.000268004}
+            ], 
+            "SRL": [
+                {"verb": "하", "sense": 1, "word_id": 1, "weight": 0.135162, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 0, "text": "그렇게", "weight": 0.135162}
+                ]}, 
+                {"verb": "돌려보내", "sense": 1, "word_id": 2, "weight": 0.20434, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "물건을", "weight": 0.20434}, 
+                    {"type": "ARGM-MNR", "word_id": 1, "text": "해서", "weight": 1}
+                ]}, 
+                {"verb": "가리키", "sense": 1, "word_id": 4, "weight": 0.195557, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "물건을", "weight": 0.195557}
+                ]}, 
+                {"verb": "놓", "sense": 1, "word_id": 6, "weight": 0, "argument": [
+                    {"type": "ARG1", "word_id": 5, "text": "‘퇴자", "weight": 1}
+                ]}, 
+                {"verb": "하", "sense": 2, "word_id": 7, "weight": 0.198656, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "놓았다’고", "weight": 0.198656}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "조선시대에는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "조선시대에는"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 4, "ne_id": -1, "text": "조정으로 올려 보내는 물건들을", "start_eid_short": 4, "end_eid_short": 4, "text_short": "물건들을"}
+        ]}, 
+        {"id": 2, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 1, "text": "조정으로", "start_eid_short": 1, "end_eid_short": 1, "text_short": "조정으로"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 1, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "물건의 질이", "start_eid_short": 2, "end_eid_short": 2, "text_short": "질이"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "물건의", "start_eid_short": 1, "end_eid_short": 1, "text_short": "물건의"}, 
+            {"id": 7, "sent_id": 1, "start_eid": 10, "end_eid": 11, "ne_id": -1, "text": "그 물건에", "start_eid_short": 10, "end_eid_short": 11, "text_short": "그 물건에"}, 
+            {"id": 9, "sent_id": 2, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "그렇게 해서 돌려보낸 물건을", "start_eid_short": 3, "end_eid_short": 3, "text_short": "물건을"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "위로", "start_eid_short": 5, "end_eid_short": 5, "text_short": "위로"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 12, "end_eid": 12, "ne_id": -1, "text": "‘退’자를", "start_eid_short": 12, "end_eid_short": 12, "text_short": "‘退’자를"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 2, "start_eid": 5, "end_eid": 6, "ne_id": -1, "text": "‘퇴자 놓았다’고", "start_eid_short": 6, "end_eid_short": 6, "text_short": "놓았다’고"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "이때", "start_eid_short": 0, "end_eid_short": 0, "text_short": "이때"}
+        ]}
+    ]
+}

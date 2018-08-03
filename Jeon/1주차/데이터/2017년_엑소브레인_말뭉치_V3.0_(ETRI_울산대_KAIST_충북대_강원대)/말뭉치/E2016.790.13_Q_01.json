@@ -1,0 +1,399 @@
+{
+    "doc_id": "E2016.790.13_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "이것은 세종과학기지에 이은 우리나라의 두 번째 남극기지로 2014년에 준공될 예정이다.", 
+            "morp": [
+                {"id": 0, "lemma": "이것", "type": "NP", "position": 0, "weight": 0.0733657}, 
+                {"id": 1, "lemma": "은", "type": "JX", "position": 6, "weight": 0.191811}, 
+                {"id": 2, "lemma": "세종과학기지", "type": "NNP", "position": 10, "weight": 0.0447325}, 
+                {"id": 3, "lemma": "에", "type": "JKB", "position": 28, "weight": 0.153364}, 
+                {"id": 4, "lemma": "잇", "type": "VV", "position": 32, "weight": 0.443197}, 
+                {"id": 5, "lemma": "은", "type": "ETM", "position": 35, "weight": 0.109632}, 
+                {"id": 6, "lemma": "우리", "type": "NNG", "position": 39, "weight": 0.00229819}, 
+                {"id": 7, "lemma": "나라", "type": "NNG", "position": 45, "weight": 0.184431}, 
+                {"id": 8, "lemma": "의", "type": "JKG", "position": 51, "weight": 0.0694213}, 
+                {"id": 9, "lemma": "두", "type": "MM", "position": 55, "weight": 0.014572}, 
+                {"id": 10, "lemma": "번째", "type": "NNB", "position": 59, "weight": 0.18051}, 
+                {"id": 11, "lemma": "남극", "type": "NNG", "position": 66, "weight": 0.0954344}, 
+                {"id": 12, "lemma": "기지", "type": "NNG", "position": 72, "weight": 0.184068}, 
+                {"id": 13, "lemma": "로", "type": "JKB", "position": 78, "weight": 0.153229}, 
+                {"id": 14, "lemma": "2014", "type": "SN", "position": 82, "weight": 1}, 
+                {"id": 15, "lemma": "년", "type": "NNB", "position": 86, "weight": 0.414343}, 
+                {"id": 16, "lemma": "에", "type": "JKB", "position": 89, "weight": 0.135559}, 
+                {"id": 17, "lemma": "준공", "type": "NNG", "position": 93, "weight": 0.9}, 
+                {"id": 18, "lemma": "되", "type": "XSV", "position": 99, "weight": 0.000224177}, 
+                {"id": 19, "lemma": "ㄹ", "type": "ETM", "position": 99, "weight": 0.387847}, 
+                {"id": 20, "lemma": "예정", "type": "NNG", "position": 103, "weight": 0.9}, 
+                {"id": 21, "lemma": "이", "type": "VCP", "position": 109, "weight": 0.0177525}, 
+                {"id": 22, "lemma": "다", "type": "EF", "position": 112, "weight": 0.353579}, 
+                {"id": 23, "lemma": ".", "type": "SF", "position": 115, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이것", "type": "NP", "scode": "000001", "weight": 0.25, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "세종과학기지", "type": "NNP", "scode": "000000", "weight": 0, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 28, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "잇", "type": "VV", "scode": "010300", "weight": 0.125, "position": 32, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 35, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "우리나라", "type": "NNG", "scode": "000000", "weight": 1, "position": 39, "begin": 6, "end": 7}, 
+                {"id": 7, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 51, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "두", "type": "MM", "scode": "010000", "weight": 0.0909091, "position": 55, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "번째", "type": "NNB", "scode": "000000", "weight": 1, "position": 59, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "남극기지", "type": "NNG", "scode": "000000", "weight": 1, "position": 66, "begin": 11, "end": 12}, 
+                {"id": 11, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 78, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "2014", "type": "SN", "scode": "000000", "weight": 1, "position": 82, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 86, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 89, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "준공되", "type": "VV", "scode": "000000", "weight": 1, "position": 93, "begin": 17, "end": 18}, 
+                {"id": 16, "text": "ㄹ", "type": "ETM", "scode": "000000", "weight": 1, "position": 99, "begin": 19, "end": 19}, 
+                {"id": 17, "text": "예정", "type": "NNG", "scode": "020000", "weight": 0.25, "position": 103, "begin": 20, "end": 20}, 
+                {"id": 18, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 109, "begin": 21, "end": 21}, 
+                {"id": 19, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 112, "begin": 22, "end": 22}, 
+                {"id": 20, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 115, "begin": 23, "end": 23}
+            ], 
+            "word": [
+                {"id": 0, "text": "이것은", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "세종과학기지에", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "이은", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "우리나라의", "type": "", "begin": 6, "end": 8}, 
+                {"id": 4, "text": "두", "type": "", "begin": 9, "end": 9}, 
+                {"id": 5, "text": "번째", "type": "", "begin": 10, "end": 10}, 
+                {"id": 6, "text": "남극기지로", "type": "", "begin": 11, "end": 13}, 
+                {"id": 7, "text": "2014년에", "type": "", "begin": 14, "end": 16}, 
+                {"id": 8, "text": "준공될", "type": "", "begin": 17, "end": 19}, 
+                {"id": 9, "text": "예정이다.", "type": "", "begin": 20, "end": 23}
+            ], 
+            "NE": [
+                {"id": 0, "text": "세종과학기지", "type": "OGG_SCIENCE", "begin": 2, "end": 2, "weight": 0.363419, "common_noun": 0}, 
+                {"id": 1, "text": "두 번째", "type": "QT_OTHERS", "begin": 9, "end": 10, "weight": 0.625081, "common_noun": 0}, 
+                {"id": 2, "text": "2014년", "type": "DT_YEAR", "begin": 14, "end": 15, "weight": 0.790526, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이것은", "head": 6, "label": "NP_SBJ", "mod": [], "weight": 0.309017}, 
+                {"id": 1, "text": "세종과학기지에", "head": 2, "label": "NP_AJT", "mod": [], "weight": 0.625052}, 
+                {"id": 2, "text": "이은", "head": 6, "label": "VP_MOD", "mod": [1], "weight": 0.858968}, 
+                {"id": 3, "text": "우리나라의", "head": 6, "label": "NP_MOD", "mod": [], "weight": 0.852435}, 
+                {"id": 4, "text": "두", "head": 5, "label": "DP", "mod": [], "weight": 0.565049}, 
+                {"id": 5, "text": "번째", "head": 6, "label": "NP", "mod": [4], "weight": 0.365548}, 
+                {"id": 6, "text": "남극기지로", "head": 8, "label": "NP_AJT", "mod": [0, 2, 3, 5], "weight": 0.888073}, 
+                {"id": 7, "text": "2014년에", "head": 8, "label": "NP_AJT", "mod": [], "weight": 0.821712}, 
+                {"id": 8, "text": "준공될", "head": 9, "label": "VP_MOD", "mod": [6, 7], "weight": 0.800938}, 
+                {"id": 9, "text": "예정이다.", "head": -1, "label": "VNP", "mod": [8], "weight": 0.0153373}
+            ], 
+            "SRL": [
+                {"verb": "잇", "sense": 2, "word_id": 2, "weight": 0.167765, "argument": [
+                    {"type": "ARG2", "word_id": 1, "text": "세종과학기지에", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 6, "text": "남극기지로", "weight": 1}
+                ]}, 
+                {"verb": "준공", "sense": 1, "word_id": 8, "weight": 0.165313, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "남극기지로", "weight": 0.0662799}, 
+                    {"type": "ARGM-TMP", "word_id": 7, "text": "2014년에", "weight": 0.264346}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "세종기지의 지리적 한계를 극복하고 남극대륙 중심부로 진출하여 빙해시추와 운석탐사 기술 개발 등 다양한 연구가 가능할 것으로 기대되고 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "세종기지", "type": "NNP", "position": 116, "weight": 0.0890279}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 128, "weight": 0.0694213}, 
+                {"id": 2, "lemma": "지리", "type": "NNG", "position": 132, "weight": 0.827406}, 
+                {"id": 3, "lemma": "적", "type": "XSN", "position": 138, "weight": 0.0169769}, 
+                {"id": 4, "lemma": "한계", "type": "NNG", "position": 142, "weight": 0.9}, 
+                {"id": 5, "lemma": "를", "type": "JKO", "position": 148, "weight": 0.137686}, 
+                {"id": 6, "lemma": "극복", "type": "NNG", "position": 152, "weight": 0.9}, 
+                {"id": 7, "lemma": "하", "type": "XSV", "position": 158, "weight": 0.0001}, 
+                {"id": 8, "lemma": "고", "type": "EC", "position": 161, "weight": 0.359917}, 
+                {"id": 9, "lemma": "남극", "type": "NNG", "position": 165, "weight": 0.189307}, 
+                {"id": 10, "lemma": "대륙", "type": "NNG", "position": 171, "weight": 0.9}, 
+                {"id": 11, "lemma": "중심", "type": "NNG", "position": 178, "weight": 0.9}, 
+                {"id": 12, "lemma": "부", "type": "XSN", "position": 184, "weight": 0.0112289}, 
+                {"id": 13, "lemma": "로", "type": "JKB", "position": 187, "weight": 0.121577}, 
+                {"id": 14, "lemma": "진출", "type": "NNG", "position": 191, "weight": 0.9}, 
+                {"id": 15, "lemma": "하", "type": "XSV", "position": 197, "weight": 0.0001}, 
+                {"id": 16, "lemma": "아", "type": "EC", "position": 200, "weight": 0.361326}, 
+                {"id": 17, "lemma": "빙해", "type": "NNG", "position": 204, "weight": 0.05}, 
+                {"id": 18, "lemma": "시추", "type": "NNG", "position": 210, "weight": 0.9}, 
+                {"id": 19, "lemma": "와", "type": "JC", "position": 216, "weight": 0.0169714}, 
+                {"id": 20, "lemma": "운석", "type": "NNG", "position": 220, "weight": 0.772191}, 
+                {"id": 21, "lemma": "탐사", "type": "NNG", "position": 226, "weight": 0.9}, 
+                {"id": 22, "lemma": "기술", "type": "NNG", "position": 233, "weight": 0.9}, 
+                {"id": 23, "lemma": "개발", "type": "NNG", "position": 240, "weight": 0.9}, 
+                {"id": 24, "lemma": "등", "type": "NNB", "position": 247, "weight": 0.0146757}, 
+                {"id": 25, "lemma": "다양", "type": "NNG", "position": 251, "weight": 0.9}, 
+                {"id": 26, "lemma": "하", "type": "XSA", "position": 257, "weight": 0.0001}, 
+                {"id": 27, "lemma": "ㄴ", "type": "ETM", "position": 257, "weight": 0.488779}, 
+                {"id": 28, "lemma": "연구", "type": "NNG", "position": 261, "weight": 0.9}, 
+                {"id": 29, "lemma": "가", "type": "JKS", "position": 267, "weight": 0.066324}, 
+                {"id": 30, "lemma": "가능", "type": "NNG", "position": 271, "weight": 0.208321}, 
+                {"id": 31, "lemma": "하", "type": "XSA", "position": 277, "weight": 0.0001}, 
+                {"id": 32, "lemma": "ㄹ", "type": "ETM", "position": 277, "weight": 0.483205}, 
+                {"id": 33, "lemma": "것", "type": "NNB", "position": 281, "weight": 0.228788}, 
+                {"id": 34, "lemma": "으로", "type": "JKB", "position": 284, "weight": 0.135596}, 
+                {"id": 35, "lemma": "기대", "type": "NNG", "position": 291, "weight": 0.146351}, 
+                {"id": 36, "lemma": "되", "type": "XSV", "position": 297, "weight": 0.000224177}, 
+                {"id": 37, "lemma": "고", "type": "EC", "position": 300, "weight": 0.359917}, 
+                {"id": 38, "lemma": "있", "type": "VX", "position": 304, "weight": 0.125953}, 
+                {"id": 39, "lemma": "다", "type": "EF", "position": 307, "weight": 0.180366}, 
+                {"id": 40, "lemma": ".", "type": "SF", "position": 310, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "세종기지", "type": "NNP", "scode": "000000", "weight": 0, "position": 116, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 128, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "지리적", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 132, "begin": 2, "end": 3}, 
+                {"id": 3, "text": "한계", "type": "NNG", "scode": "000000", "weight": 1, "position": 142, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 148, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "극복하", "type": "VV", "scode": "010001", "weight": 0.2, "position": 152, "begin": 6, "end": 7}, 
+                {"id": 6, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 161, "begin": 8, "end": 8}, 
+                {"id": 7, "text": "남극대륙", "type": "NNG", "scode": "000000", "weight": 1, "position": 165, "begin": 9, "end": 10}, 
+                {"id": 8, "text": "중심부", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 178, "begin": 11, "end": 12}, 
+                {"id": 9, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 187, "begin": 13, "end": 13}, 
+                {"id": 10, "text": "진출하", "type": "VV", "scode": "020001", "weight": 0.333333, "position": 191, "begin": 14, "end": 15}, 
+                {"id": 11, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 200, "begin": 16, "end": 16}, 
+                {"id": 12, "text": "빙해", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 204, "begin": 17, "end": 17}, 
+                {"id": 13, "text": "시추", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 210, "begin": 18, "end": 18}, 
+                {"id": 14, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 216, "begin": 19, "end": 19}, 
+                {"id": 15, "text": "운석", "type": "NNG", "scode": "030000", "weight": 0.333333, "position": 220, "begin": 20, "end": 20}, 
+                {"id": 16, "text": "탐사", "type": "NNG", "scode": "000000", "weight": 1, "position": 226, "begin": 21, "end": 21}, 
+                {"id": 17, "text": "기술", "type": "NNG", "scode": "010001", "weight": 0.166667, "position": 233, "begin": 22, "end": 22}, 
+                {"id": 18, "text": "개발", "type": "NNG", "scode": "000003", "weight": 0.25, "position": 240, "begin": 23, "end": 23}, 
+                {"id": 19, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 247, "begin": 24, "end": 24}, 
+                {"id": 20, "text": "다양하", "type": "VA", "scode": "010000", "weight": 0.5, "position": 251, "begin": 25, "end": 26}, 
+                {"id": 21, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 257, "begin": 27, "end": 27}, 
+                {"id": 22, "text": "연구", "type": "NNG", "scode": "030000", "weight": 0.111111, "position": 261, "begin": 28, "end": 28}, 
+                {"id": 23, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 267, "begin": 29, "end": 29}, 
+                {"id": 24, "text": "가능하", "type": "VA", "scode": "000000", "weight": 1, "position": 271, "begin": 30, "end": 31}, 
+                {"id": 25, "text": "ㄹ", "type": "ETM", "scode": "000000", "weight": 1, "position": 277, "begin": 32, "end": 32}, 
+                {"id": 26, "text": "것", "type": "NNB", "scode": "010005", "weight": 0.125, "position": 281, "begin": 33, "end": 33}, 
+                {"id": 27, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 284, "begin": 34, "end": 34}, 
+                {"id": 28, "text": "기대되", "type": "VV", "scode": "000000", "weight": 1, "position": 291, "begin": 35, "end": 36}, 
+                {"id": 29, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 300, "begin": 37, "end": 37}, 
+                {"id": 30, "text": "있", "type": "VX", "scode": "010902", "weight": 0.0416667, "position": 304, "begin": 38, "end": 38}, 
+                {"id": 31, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 307, "begin": 39, "end": 39}, 
+                {"id": 32, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 310, "begin": 40, "end": 40}
+            ], 
+            "word": [
+                {"id": 0, "text": "세종기지의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "지리적", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "한계를", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "극복하고", "type": "", "begin": 6, "end": 8}, 
+                {"id": 4, "text": "남극대륙", "type": "", "begin": 9, "end": 10}, 
+                {"id": 5, "text": "중심부로", "type": "", "begin": 11, "end": 13}, 
+                {"id": 6, "text": "진출하여", "type": "", "begin": 14, "end": 16}, 
+                {"id": 7, "text": "빙해시추와", "type": "", "begin": 17, "end": 19}, 
+                {"id": 8, "text": "운석탐사", "type": "", "begin": 20, "end": 21}, 
+                {"id": 9, "text": "기술", "type": "", "begin": 22, "end": 22}, 
+                {"id": 10, "text": "개발", "type": "", "begin": 23, "end": 23}, 
+                {"id": 11, "text": "등", "type": "", "begin": 24, "end": 24}, 
+                {"id": 12, "text": "다양한", "type": "", "begin": 25, "end": 27}, 
+                {"id": 13, "text": "연구가", "type": "", "begin": 28, "end": 29}, 
+                {"id": 14, "text": "가능할", "type": "", "begin": 30, "end": 32}, 
+                {"id": 15, "text": "것으로", "type": "", "begin": 33, "end": 34}, 
+                {"id": 16, "text": "기대되고", "type": "", "begin": 35, "end": 37}, 
+                {"id": 17, "text": "있다.", "type": "", "begin": 38, "end": 40}
+            ], 
+            "NE": [
+                {"id": 0, "text": "세종기지", "type": "OGG_SCIENCE", "begin": 0, "end": 0, "weight": 0.187068, "common_noun": 0}, 
+                {"id": 1, "text": "남극대륙", "type": "LCG_CONTINENT", "begin": 9, "end": 10, "weight": 0.443675, "common_noun": 0}, 
+                {"id": 2, "text": "중심부", "type": "TM_DIRECTION", "begin": 11, "end": 12, "weight": 1, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "세종기지의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.613212}, 
+                {"id": 1, "text": "지리적", "head": 2, "label": "NP", "mod": [], "weight": 0.606217}, 
+                {"id": 2, "text": "한계를", "head": 3, "label": "NP_OBJ", "mod": [0, 1], "weight": 0.784554}, 
+                {"id": 3, "text": "극복하고", "head": 6, "label": "VP", "mod": [2], "weight": 0.59667}, 
+                {"id": 4, "text": "남극대륙", "head": 5, "label": "NP", "mod": [], "weight": 0.758243}, 
+                {"id": 5, "text": "중심부로", "head": 6, "label": "NP_AJT", "mod": [4], "weight": 0.64065}, 
+                {"id": 6, "text": "진출하여", "head": 14, "label": "VP", "mod": [3, 5], "weight": 0.692461}, 
+                {"id": 7, "text": "빙해시추와", "head": 10, "label": "NP_CNJ", "mod": [], "weight": 0.676229}, 
+                {"id": 8, "text": "운석탐사", "head": 9, "label": "NP", "mod": [], "weight": 0.0594211}, 
+                {"id": 9, "text": "기술", "head": 10, "label": "NP", "mod": [8], "weight": 0.580713}, 
+                {"id": 10, "text": "개발", "head": 11, "label": "NP", "mod": [7, 9], "weight": 0.729767}, 
+                {"id": 11, "text": "등", "head": 13, "label": "NP", "mod": [10], "weight": 0.254971}, 
+                {"id": 12, "text": "다양한", "head": 13, "label": "VP_MOD", "mod": [], "weight": 0.694656}, 
+                {"id": 13, "text": "연구가", "head": 14, "label": "NP_SBJ", "mod": [11, 12], "weight": 0.692798}, 
+                {"id": 14, "text": "가능할", "head": 15, "label": "VP_MOD", "mod": [6, 13], "weight": 0.792143}, 
+                {"id": 15, "text": "것으로", "head": 16, "label": "NP_AJT", "mod": [14], "weight": 0.817145}, 
+                {"id": 16, "text": "기대되고", "head": 17, "label": "VP", "mod": [15], "weight": 0.791213}, 
+                {"id": 17, "text": "있다.", "head": -1, "label": "VP", "mod": [16], "weight": 4.76261e-05}
+            ], 
+            "SRL": [
+                {"verb": "극복", "sense": 1, "word_id": 3, "weight": 0.234873, "argument": [
+                    {"type": "ARG1", "word_id": 2, "text": "한계를", "weight": 0.234873}
+                ]}, 
+                {"verb": "진출", "sense": 1, "word_id": 6, "weight": 0.122324, "argument": [
+                    {"type": "ARG3", "word_id": 5, "text": "중심부로", "weight": 0.122324}
+                ]}, 
+                {"verb": "다양", "sense": 1, "word_id": 12, "weight": 0.251642, "argument": [
+                    {"type": "ARG1", "word_id": 13, "text": "연구가", "weight": 0.251642}
+                ]}, 
+                {"verb": "가능", "sense": 1, "word_id": 14, "weight": 0.182752, "argument": [
+                    {"type": "ARGM-CAU", "word_id": 6, "text": "진출하여", "weight": 0.0828119}, 
+                    {"type": "ARG1", "word_id": 13, "text": "연구가", "weight": 0.282693}
+                ]}, 
+                {"verb": "기대", "sense": 1, "word_id": 16, "weight": 0.238848, "argument": [
+                    {"type": "ARG1", "word_id": 15, "text": "것으로", "weight": 0.172037}, 
+                    {"type": "AUX", "word_id": 17, "text": "있다.", "weight": 0.305659}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "신라 시대 장군의 이름이기도 한 이 과학기지는 무엇일까?", 
+            "morp": [
+                {"id": 0, "lemma": "신라", "type": "NNP", "position": 311, "weight": 0.9}, 
+                {"id": 1, "lemma": "시대", "type": "NNG", "position": 318, "weight": 0.9}, 
+                {"id": 2, "lemma": "장군", "type": "NNG", "position": 325, "weight": 0.184465}, 
+                {"id": 3, "lemma": "의", "type": "JKG", "position": 331, "weight": 0.0694213}, 
+                {"id": 4, "lemma": "이름", "type": "NNG", "position": 335, "weight": 0.9}, 
+                {"id": 5, "lemma": "이", "type": "VCP", "position": 341, "weight": 0.0177525}, 
+                {"id": 6, "lemma": "기", "type": "ETN", "position": 344, "weight": 0.019088}, 
+                {"id": 7, "lemma": "도", "type": "JX", "position": 347, "weight": 0.147715}, 
+                {"id": 8, "lemma": "하", "type": "VX", "position": 351, "weight": 0.00978548}, 
+                {"id": 9, "lemma": "ㄴ", "type": "ETM", "position": 351, "weight": 0.302612}, 
+                {"id": 10, "lemma": "이", "type": "MM", "position": 355, "weight": 0.00060084}, 
+                {"id": 11, "lemma": "과학", "type": "NNG", "position": 359, "weight": 0.9}, 
+                {"id": 12, "lemma": "기지", "type": "NNG", "position": 365, "weight": 0.184068}, 
+                {"id": 13, "lemma": "는", "type": "JX", "position": 371, "weight": 0.0287565}, 
+                {"id": 14, "lemma": "무엇", "type": "NP", "position": 375, "weight": 0.9}, 
+                {"id": 15, "lemma": "이", "type": "VCP", "position": 381, "weight": 0.0175768}, 
+                {"id": 16, "lemma": "ㄹ까", "type": "EF", "position": 381, "weight": 0.258243}, 
+                {"id": 17, "lemma": "?", "type": "SF", "position": 387, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "신라", "type": "NNP", "scode": "000000", "weight": 1, "position": 311, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "시대", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 318, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "장군", "type": "NNG", "scode": "040001", "weight": 0.0666667, "position": 325, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 331, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이름", "type": "NNG", "scode": "000001", "weight": 0.111111, "position": 335, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 341, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "기", "type": "ETN", "scode": "000000", "weight": 1, "position": 344, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 347, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "하", "type": "VX", "scode": "011105", "weight": 0.02, "position": 351, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 351, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 355, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "과학", "type": "NNG", "scode": "000000", "weight": 1, "position": 359, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "기지", "type": "NNG", "scode": "080001", "weight": 0.0666667, "position": 365, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 371, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "무엇", "type": "NP", "scode": "000001", "weight": 0.5, "position": 375, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 381, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "ㄹ까", "type": "EF", "scode": "000000", "weight": 1, "position": 381, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 387, "begin": 17, "end": 17}
+            ], 
+            "word": [
+                {"id": 0, "text": "신라", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "시대", "type": "", "begin": 1, "end": 1}, 
+                {"id": 2, "text": "장군의", "type": "", "begin": 2, "end": 3}, 
+                {"id": 3, "text": "이름이기도", "type": "", "begin": 4, "end": 7}, 
+                {"id": 4, "text": "한", "type": "", "begin": 8, "end": 9}, 
+                {"id": 5, "text": "이", "type": "", "begin": 10, "end": 10}, 
+                {"id": 6, "text": "과학기지는", "type": "", "begin": 11, "end": 13}, 
+                {"id": 7, "text": "무엇일까?", "type": "", "begin": 14, "end": 17}
+            ], 
+            "NE": [
+                {"id": 0, "text": "신라 시대", "type": "DT_DYNASTY", "begin": 0, "end": 1, "weight": 0.756146, "common_noun": 0}, 
+                {"id": 1, "text": "장군", "type": "CV_POSITION", "begin": 2, "end": 2, "weight": 0.524803, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "신라", "head": 1, "label": "NP", "mod": [], "weight": 0.789736}, 
+                {"id": 1, "text": "시대", "head": 2, "label": "NP", "mod": [0], "weight": 0.691589}, 
+                {"id": 2, "text": "장군의", "head": 3, "label": "NP_MOD", "mod": [1], "weight": 0.737243}, 
+                {"id": 3, "text": "이름이기도", "head": 4, "label": "VNP", "mod": [2], "weight": 0.582423}, 
+                {"id": 4, "text": "한", "head": 6, "label": "VP_MOD", "mod": [3], "weight": 0.689735}, 
+                {"id": 5, "text": "이", "head": 6, "label": "DP", "mod": [], "weight": 0.556416}, 
+                {"id": 6, "text": "과학기지는", "head": 7, "label": "NP_SBJ", "mod": [4, 5], "weight": 0.843468}, 
+                {"id": 7, "text": "무엇일까?", "head": -1, "label": "VNP", "mod": [6], "weight": 0.0654596}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "LCG_CONTINENT", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "이것은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "이것은"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 9, "ne_id": -1, "text": "세종과학기지에 이은 우리나라의 두 번째 남극기지로 2014년에 준공될 예정이다.", "start_eid_short": 9, "end_eid_short": 9, "text_short": "예정이다."}, 
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 6, "ne_id": 2, "text": "세종과학기지에 이은 우리나라의 두 번째 남극기지로", "start_eid_short": 5, "end_eid_short": 6, "text_short": "번째 남극기지로"}, 
+            {"id": 21, "sent_id": 2, "start_eid": 5, "end_eid": 6, "ne_id": -1, "text": "이 과학기지는", "start_eid_short": 5, "end_eid_short": 6, "text_short": "이 과학기지는"}, 
+            {"id": 22, "sent_id": 2, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "무엇일까?", "start_eid_short": 7, "end_eid_short": 7, "text_short": "무엇일까?"}
+        ]}, 
+        {"id": 1, "type": "OGG_SCIENCE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "세종과학기지에", "start_eid_short": 1, "end_eid_short": 1, "text_short": "세종과학기지에"}, 
+            {"id": 8, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "세종기지의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "세종기지의"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "우리나라의", "start_eid_short": 3, "end_eid_short": 3, "text_short": "우리나라의"}
+        ]}, 
+        {"id": 3, "type": "QT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 4, "end_eid": 5, "ne_id": 1, "text": "두 번째", "start_eid_short": 4, "end_eid_short": 5, "text_short": "두 번째"}
+        ]}, 
+        {"id": 4, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 3, "text": "2014년에", "start_eid_short": 7, "end_eid_short": 7, "text_short": "2014년에"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 7, "end_eid": 15, "ne_id": -1, "text": "빙해시추와 운석탐사 기술 개발 등 다양한 연구가 가능할 것으로", "start_eid_short": 15, "end_eid_short": 15, "text_short": "것으로"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "세종기지의 지리적 한계를", "start_eid_short": 1, "end_eid_short": 2, "text_short": "지리적 한계를"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "지리적", "start_eid_short": 1, "end_eid_short": 1, "text_short": "지리적"}
+        ]}, 
+        {"id": 8, "type": "TM_DIRECTION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 4, "end_eid": 5, "ne_id": 2, "text": "남극대륙 중심부로", "start_eid_short": 4, "end_eid_short": 5, "text_short": "남극대륙 중심부로"}
+        ]}, 
+        {"id": 9, "type": "LCG_CONTINENT", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": 1, "text": "남극대륙", "start_eid_short": 4, "end_eid_short": 4, "text_short": "남극대륙"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 7, "end_eid": 11, "ne_id": -1, "text": "빙해시추와 운석탐사 기술 개발 등", "start_eid_short": 8, "end_eid_short": 11, "text_short": "운석탐사 기술 개발 등"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "빙해시추와", "start_eid_short": 7, "end_eid_short": 7, "text_short": "빙해시추와"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 8, "end_eid": 9, "ne_id": -1, "text": "운석탐사 기술", "start_eid_short": 8, "end_eid_short": 9, "text_short": "운석탐사 기술"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 1, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "운석탐사", "start_eid_short": 8, "end_eid_short": 8, "text_short": "운석탐사"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 1, "start_eid": 8, "end_eid": 10, "ne_id": -1, "text": "운석탐사 기술 개발", "start_eid_short": 8, "end_eid_short": 10, "text_short": "운석탐사 기술 개발"}
+        ]}, 
+        {"id": 15, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 7, "end_eid": 13, "ne_id": -1, "text": "빙해시추와 운석탐사 기술 개발 등 다양한 연구가", "start_eid_short": 13, "end_eid_short": 13, "text_short": "연구가"}
+        ]}, 
+        {"id": 16, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 19, "sent_id": 2, "start_eid": 0, "end_eid": 2, "ne_id": 1, "text": "신라 시대 장군의", "start_eid_short": 0, "end_eid_short": 2, "text_short": "신라 시대 장군의"}
+        ]}, 
+        {"id": 17, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 20, "sent_id": 2, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "신라 시대", "start_eid_short": 0, "end_eid_short": 1, "text_short": "신라 시대"}
+        ]}
+    ]
+}

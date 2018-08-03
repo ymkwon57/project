@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+보라보라[Bora-Bora]는 남태평양 중부에 있는 프랑스령 폴리네시아의 소시에테 제도 가운데 수르방 제도(리워드 제도)에 속하는 화산섬이다. 타히티에서 북서쪽으로 225㎞ 떨어져 있다. 산악성의 이 섬은 길이 6㎞, 너비 4㎞이다. 프랑스령 폴리네시아의 섬들 중에서도 특히 아름답기로 유명한 보라보라 섬은 리워드(Leeward) 소시에테 제도에 속하는 타히티(Tahiti) 섬에서 북서쪽으로 약 240km 떨어진 곳에 위치하고 있다.
+보라보라가 지구상에서 가장 아름다운 섬으로 지목되는 이유는 바다 빛깔 때문이다. 하얀 모래사장 위로 투명하게 반짝이는 바다는 수심에 따라 연두, 하늘, 군청, 짙은 청록 등 7가지 바다 빛깔이 있다. 지구상에서 가장 다양한 색깔을 가지고 있는 타히티 보라보라의 앞바다. 바다 전체가 수백만 년 동안 만들어진 산호로 이루어져 바다 빛깔이 시시각각 변한다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="보라보라" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="30" end="34" text="프랑스령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="35" end="40" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="42" end="49" text="소시에테 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="54" end="60" text="수르방 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="61" end="67" text="리워드 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="74" end="77" text="화산섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="81" end="84" text="타히티" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="113" end="114" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="132" end="136" text="프랑스령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="137" end="142" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="144" end="146" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="165" end="171" text="보라보라 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="173" end="176" text="리워드" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="186" end="193" text="소시에테 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="199" end="202" text="타히티" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="211" end="212" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="233" end="234" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="245" end="249" text="보라보라" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="265" end="266" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="293" end="297" text="모래사장" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="311" end="313" text="바다" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="381" end="384" text="타히티" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="385" end="389" text="보라보라" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="396" end="398" text="바다" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="81" />
+<PLACE id="pl1" start="18" end="22" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="391" end="394" text="앞바다" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s6" start="87" end="90" text="북서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="215" end="218" text="북서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="234" end="235" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="70" end="72" text="속하" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="98" end="101" text="떨어져" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="195" end="197" text="속하" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="229" end="232" text="떨어진" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="23" end="25" text="중부" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="40" end="41" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="298" end="300" text="위로" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="389" end="390" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me0" start="93" end="97" text="225㎞" value="225" unit="km" comment="" />
+<MEASURE id="me1" start="119" end="121" text="6㎞" value="6" unit="km" comment="" />
+<MEASURE id="me2" start="126" end="128" text="4㎞" value="4" unit="km" comment="" />
+<MEASURE id="me3" start="221" end="228" text="약 240km" value="240" unit="km" comment="" />
+<SENTENCE id="sent0" start="1" end="80" text="보라보라[Bora-Bora]는 남태평양 중부에 있는 프랑스령 폴리네시아의 소시에테 제도 가운데 수르방 제도(리워드 제도)에 속하는 화산섬이다." comment="" />
+<SENTENCE id="sent1" start="81" end="105" text="타히티에서 북서쪽으로 225㎞ 떨어져 있다." comment="" />
+<SENTENCE id="sent2" start="106" end="131" text="산악성의 이 섬은 길이 6㎞, 너비 4㎞이다." comment="" />
+<SENTENCE id="sent3" start="131" end="244" text=" 프랑스령 폴리네시아의 섬들 중에서도 특히 아름답기로 유명한 보라보라 섬은 리워드(Leeward) 소시에테 제도에 속하는 타히티(Tahiti) 섬에서 북서쪽으로 약 240km 떨어진 곳에 위치하고 있다." comment="" />
+<SENTENCE id="sent4" start="245" end="289" text="보라보라가 지구상에서 가장 아름다운 섬으로 지목되는 이유는 바다 빛깔 때문이다." comment="" />
+<SENTENCE id="sent5" start="290" end="356" text="하얀 모래사장 위로 투명하게 반짝이는 바다는 수심에 따라 연두, 하늘, 군청, 짙은 청록 등 7가지 바다 빛깔이 있다." comment="" />
+<SENTENCE id="sent6" start="357" end="395" text="지구상에서 가장 다양한 색깔을 가지고 있는 타히티 보라보라의 앞바다." comment="" />
+<SENTENCE id="sent7" start="396" end="442" text="바다 전체가 수백만 년 동안 만들어진 산호로 이루어져 바다 빛깔이 시시각각 변한다." comment="" />
+<QSLINK id="qsl2" fromID="pl18" fromText="곳" toID="pl13" toText="보라보라 섬" relType="NTPP" trajector="pl18" landmark="pl13" trigger="s11" comment="" />
+<QSLINK id="qsl5" fromID="pl7" fromText="화산섬" toID="pl5" toText="수르방 제도" relType="IN" trajector="pl7" landmark="pl5" trigger="s1" comment="" />
+<QSLINK id="qsl6" fromID="pl31" fromText="" toID="pl8" toText="타히티" relType="DC" trajector="pl31" landmark="pl8" trigger="s3" comment="" />
+<QSLINK id="qsl8" fromID="pl17" fromText="섬" toID="pl18" toText="곳" relType="DC" trajector="pl18" landmark="pl17" trigger="s5" comment="" />
+<QSLINK id="qsl11" fromID="pl21" fromText="모래사장" toID="pl22" toText="바다" relType="EC" trajector="pl22" landmark="pl21" trigger="s12" comment="" />
+<QSLINK id="qsl0" fromID="pl7" fromText="화산섬" toID="pl6" toText="리워드 제도" relType="IN" trajector="pl7" landmark="pl6" trigger="s1" comment="" />
+<QSLINK id="qsl1" fromID="pl0" fromText="보라보라" toID="pl5" toText="수르방 제도" relType="IN" trajector="pl0" landmark="pl5" trigger="s1" comment="" />
+<QSLINK id="qsl9" fromID="pl17" fromText="섬" toID="pl15" toText="소시에테 제도" relType="NTPP" trajector="pl17" landmark="pl15" trigger="s4" comment="" />
+<QSLINK id="qsl14" fromID="pl16" fromText="타히티" toID="pl18" toText="곳" relType="DC" trajector="pl16" landmark="pl18" trigger="s5" comment="" />
+<QSLINK id="qsl3" fromID="pl25" fromText="앞바다" toID="pl24" toText="보라보라" relType="NTPP" trajector="pl25" landmark="pl24" trigger="s8" comment="" />
+<OLINK id="ol0" fromID="pl31" fromText="" toID="pl8" toText="타히티" relType="북서" trajector="pl31" landmark="pl8" trigger="s6" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl17" fromText="섬" toID="pl18" toText="곳" relType="북서" trajector="pl18" landmark="pl17" trigger="s10" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl21" fromText="모래사장" toID="pl22" toText="바다" relType="위" trajector="pl2" landmark="pl21" trigger="s7" frame_type="INTRINSIC" referencePt="pl21" projective="TRUE" comment="" />
+<MEASURELINK id="ml0" fromID="pl31" fromText="" toID="pl8" toText="타히티" trajector="pl31" landmark="pl8" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl9" fromText="섬" toID="me1" toText="6㎞" trajector="pl9" landmark="pl9" relType="LENGTH" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="pl9" fromText="섬" toID="me2" toText="4㎞" trajector="pl9" landmark="pl9" relType="WIDTH" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="pl17" fromText="섬" toID="pl18" toText="곳" trajector="pl18" landmark="pl17" relType="DISTANCE" val="me3" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

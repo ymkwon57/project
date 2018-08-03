@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+전라북도(North Jeolla,全羅北)은 대한민국 지역이다.
+추어탕은 남원의 특별 메뉴이다. 7월 5일이 추어탕의 날이다.
+무주리조트는 전라북도 무주군 설천면 심곡리 산43-15에 자리한 스키장이다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="전라북도" type="" dimensionality="AREA" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="25" end="29" text="대한민국" type="" dimensionality="AREA" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="30" end="32" text="지역" type="" dimensionality="AREA" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="41" end="43" text="남원" type="" dimensionality="AREA" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="71" end="76" text="무주리조트" type="" dimensionality="AREA" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="78" end="82" text="전라북도" type="" dimensionality="AREA" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="83" end="86" text="무주군" type="" dimensionality="AREA" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="87" end="90" text="설천면" type="" dimensionality="AREA" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="91" end="94" text="심곡리" type="" dimensionality="AREA" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="95" end="101" text="산43-15" type="" dimensionality="POINT" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="107" end="110" text="스키장" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="32" end="33" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="103" end="106" text="자리한" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="110" end="111" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e3" start="50" end="51" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="101" end="102" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SENTENCE id="sent0" start="1" end="35" text="전라북도(North Jeolla,全羅北)은 대한민국 지역이다." comment="" />
+<SENTENCE id="sent1" start="36" end="53" text="추어탕은 남원의 특별 메뉴이다." comment="" />
+<SENTENCE id="sent2" start="54" end="70" text="7월 5일이 추어탕의 날이다." comment="" />
+<SENTENCE id="sent3" start="71" end="114" text="무주리조트는 전라북도 무주군 설천면 심곡리 산43-15에 자리한 스키장이다. " comment="" />
+<QSLINK id="qsl0" fromID="se0" fromText="스키장" toID="pl10" toText="산43-15" relType="IN" trajector="se0" landmark="pl10" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="pl5" fromText="무주리조트" toID="pl10" toText="산43-15" relType="IN" trajector="pl5" landmark="pl10" trigger="s0" comment="" />
+<METALINK id="metal0" fromID="pl1" fromText="대한민국" toID="pl2" toText="지역" objectID1="pl2" objectID2="pl1" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl0" fromText="전라북도" toID="pl2" toText="지역" objectID1="pl2" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl6" fromText="전라북도" toID="pl7" toText="무주군" objectID1="pl7" objectID2="pl6" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl7" fromText="무주군" toID="pl8" toText="설천면" objectID1="pl8" objectID2="pl7" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl8" fromText="설천면" toID="pl9" toText="심곡리" objectID1="pl9" objectID2="pl8" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl9" fromText="심곡리" toID="pl10" toText="산43-15" objectID1="pl10" objectID2="pl9" relType="SUBCOREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

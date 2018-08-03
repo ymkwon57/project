@@ -1,0 +1,77 @@
+{
+    "doc_id": "E2016.889.03_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "판문점이 있는 곳은 어디일까?", 
+            "morp": [
+                {"id": 0, "lemma": "판문점", "type": "NNP", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "이", "type": "JKS", "position": 9, "weight": 0.0234517}, 
+                {"id": 2, "lemma": "있", "type": "VA", "position": 13, "weight": 0.12767}, 
+                {"id": 3, "lemma": "는", "type": "ETM", "position": 16, "weight": 0.26168}, 
+                {"id": 4, "lemma": "곳", "type": "NNG", "position": 20, "weight": 0.658803}, 
+                {"id": 5, "lemma": "은", "type": "JX", "position": 23, "weight": 0.0449928}, 
+                {"id": 6, "lemma": "어디", "type": "NP", "position": 27, "weight": 0.0418153}, 
+                {"id": 7, "lemma": "이", "type": "VCP", "position": 33, "weight": 0.0175768}, 
+                {"id": 8, "lemma": "ㄹ까", "type": "EF", "position": 33, "weight": 0.258243}, 
+                {"id": 9, "lemma": "?", "type": "SF", "position": 39, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "판문점", "type": "NNP", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 9, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "있", "type": "VA", "scode": "010301", "weight": 0.0416667, "position": 13, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 16, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "곳", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 23, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "어디", "type": "NP", "scode": "010001", "weight": 0.0769231, "position": 27, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 33, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "ㄹ까", "type": "EF", "scode": "000000", "weight": 1, "position": 33, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 39, "begin": 9, "end": 9}
+            ], 
+            "word": [
+                {"id": 0, "text": "판문점이", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "있는", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "곳은", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "어디일까?", "type": "", "begin": 6, "end": 9}
+            ], 
+            "NE": [
+                {"id": 0, "text": "판문점", "type": "LC_OTHERS", "begin": 0, "end": 0, "weight": 0.886166, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "판문점이", "head": 1, "label": "NP_SBJ", "mod": [], "weight": 0.768973}, 
+                {"id": 1, "text": "있는", "head": 2, "label": "VP_MOD", "mod": [0], "weight": 0.78063}, 
+                {"id": 2, "text": "곳은", "head": 3, "label": "NP_SBJ", "mod": [1], "weight": 0.835977}, 
+                {"id": 3, "text": "어디일까?", "head": -1, "label": "VNP", "mod": [2], "weight": 0.407269}
+            ], 
+            "SRL": [
+                {"verb": "있", "sense": 1, "word_id": 1, "weight": 0.265987, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "판문점이", "weight": 0.244229}, 
+                    {"type": "ARG2", "word_id": 2, "text": "곳은", "weight": 0.287744}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "판문점이 있는 곳은", "start_eid_short": 2, "end_eid_short": 2, "text_short": "곳은"}, 
+            {"id": 2, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "어디일까?", "start_eid_short": 3, "end_eid_short": 3, "text_short": "어디일까?"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "판문점이", "start_eid_short": 0, "end_eid_short": 0, "text_short": "판문점이"}
+        ]}
+    ]
+}

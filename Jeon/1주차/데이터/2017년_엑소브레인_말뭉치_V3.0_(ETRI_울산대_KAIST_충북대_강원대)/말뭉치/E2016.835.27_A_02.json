@@ -1,0 +1,461 @@
+{
+    "doc_id": "E2016.835.27_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "프랑스_혁명", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "프랑스 혁명은 이런 구체제(앙시앵 레짐)의 모순에서 발생하였다.", 
+            "morp": [
+                {"id": 0, "lemma": "프랑스", "type": "NNP", "position": 0, "weight": 0.0892825}, 
+                {"id": 1, "lemma": "혁명", "type": "NNG", "position": 10, "weight": 0.9}, 
+                {"id": 2, "lemma": "은", "type": "JX", "position": 16, "weight": 0.0449928}, 
+                {"id": 3, "lemma": "이런", "type": "MM", "position": 20, "weight": 0.0413869}, 
+                {"id": 4, "lemma": "구", "type": "XPN", "position": 27, "weight": 0.189665}, 
+                {"id": 5, "lemma": "체제", "type": "NNG", "position": 30, "weight": 0.9}, 
+                {"id": 6, "lemma": "(", "type": "SS", "position": 36, "weight": 1}, 
+                {"id": 7, "lemma": "앙시앵", "type": "NNG", "position": 37, "weight": 0.1}, 
+                {"id": 8, "lemma": "레짐", "type": "NNG", "position": 47, "weight": 0.1}, 
+                {"id": 9, "lemma": ")", "type": "SS", "position": 53, "weight": 1}, 
+                {"id": 10, "lemma": "의", "type": "JKG", "position": 54, "weight": 0.0878251}, 
+                {"id": 11, "lemma": "모순", "type": "NNG", "position": 58, "weight": 0.86938}, 
+                {"id": 12, "lemma": "에서", "type": "JKB", "position": 64, "weight": 0.153407}, 
+                {"id": 13, "lemma": "발생", "type": "NNG", "position": 71, "weight": 0.9}, 
+                {"id": 14, "lemma": "하", "type": "XSV", "position": 77, "weight": 0.0001}, 
+                {"id": 15, "lemma": "였", "type": "EP", "position": 80, "weight": 0.9}, 
+                {"id": 16, "lemma": "다", "type": "EF", "position": 83, "weight": 0.640954}, 
+                {"id": 17, "lemma": ".", "type": "SF", "position": 86, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "프랑스", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "혁명", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 10, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 16, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "이런", "type": "MM", "scode": "010001", "weight": 0.333333, "position": 20, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "구체제", "type": "NNG", "scode": "000000", "weight": 1, "position": 27, "begin": 4, "end": 5}, 
+                {"id": 5, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 36, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "앙시앵", "type": "NNG", "scode": "000000", "weight": 0, "position": 37, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "레짐", "type": "NNG", "scode": "000000", "weight": 0, "position": 47, "begin": 8, "end": 8}, 
+                {"id": 8, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 53, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 54, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "모순", "type": "NNG", "scode": "010001", "weight": 0.25, "position": 58, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 64, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "발생하", "type": "VV", "scode": "000001", "weight": 0.5, "position": 71, "begin": 13, "end": 14}, 
+                {"id": 13, "text": "였", "type": "EP", "scode": "000000", "weight": 1, "position": 80, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 83, "begin": 16, "end": 16}, 
+                {"id": 15, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 86, "begin": 17, "end": 17}
+            ], 
+            "word": [
+                {"id": 0, "text": "프랑스", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "혁명은", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "이런", "type": "", "begin": 3, "end": 3}, 
+                {"id": 3, "text": "구체제(앙시앵", "type": "", "begin": 4, "end": 7}, 
+                {"id": 4, "text": "레짐)의", "type": "", "begin": 8, "end": 10}, 
+                {"id": 5, "text": "모순에서", "type": "", "begin": 11, "end": 12}, 
+                {"id": 6, "text": "발생하였다.", "type": "", "begin": 13, "end": 17}
+            ], 
+            "NE": [
+                {"id": 0, "text": "프랑스 혁명", "type": "EV_WAR_REVOLUTION", "begin": 0, "end": 1, "weight": 0.636344, "common_noun": 0}, 
+                {"id": 1, "text": "구체제", "type": "CV_POLICY", "begin": 4, "end": 5, "weight": 0.303067, "common_noun": 0}, 
+                {"id": 2, "text": "앙시앵 레짐", "type": "CV_POLICY", "begin": 7, "end": 8, "weight": 0.303067, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "프랑스", "head": 1, "label": "NP", "mod": [], "weight": 0.70897}, 
+                {"id": 1, "text": "혁명은", "head": 6, "label": "NP_SBJ", "mod": [0], "weight": 0.711039}, 
+                {"id": 2, "text": "이런", "head": 4, "label": "DP", "mod": [], "weight": 0.353593}, 
+                {"id": 3, "text": "구체제(앙시앵", "head": 4, "label": "NP", "mod": [], "weight": 0.618072}, 
+                {"id": 4, "text": "레짐)의", "head": 5, "label": "NP_MOD", "mod": [2, 3], "weight": 0.773549}, 
+                {"id": 5, "text": "모순에서", "head": 6, "label": "NP_AJT", "mod": [4], "weight": 0.836067}, 
+                {"id": 6, "text": "발생하였다.", "head": -1, "label": "VP", "mod": [1, 5], "weight": 0.0604368}
+            ], 
+            "SRL": [
+                {"verb": "발생", "sense": 1, "word_id": 6, "weight": 0.146976, "argument": [
+                    {"type": "ARG1", "word_id": 1, "text": "혁명은", "weight": 0.154729}, 
+                    {"type": "ARG2", "word_id": 5, "text": "모순에서", "weight": 0.139222}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "구체제 하에서는 인구의 2% 정도밖에 안 되는 제1계급(추기경 등의 로마 가톨릭 고위 성직자)과 제2계급(귀족)은 면세 등의 혜택을 누리면서, 주요 권력과 부와 명예를 독점하였다.", 
+            "morp": [
+                {"id": 0, "lemma": "구", "type": "XPN", "position": 87, "weight": 0.112636}, 
+                {"id": 1, "lemma": "체제", "type": "NNG", "position": 90, "weight": 0.9}, 
+                {"id": 2, "lemma": "하", "type": "NNG", "position": 97, "weight": 0.0001}, 
+                {"id": 3, "lemma": "에서", "type": "JKB", "position": 100, "weight": 0.121718}, 
+                {"id": 4, "lemma": "는", "type": "JX", "position": 106, "weight": 0.0387928}, 
+                {"id": 5, "lemma": "인구", "type": "NNG", "position": 110, "weight": 0.323577}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 116, "weight": 0.0694213}, 
+                {"id": 7, "lemma": "2", "type": "SN", "position": 120, "weight": 1}, 
+                {"id": 8, "lemma": "%", "type": "SW", "position": 121, "weight": 1}, 
+                {"id": 9, "lemma": "정도", "type": "NNG", "position": 123, "weight": 0.264826}, 
+                {"id": 10, "lemma": "밖에", "type": "JX", "position": 129, "weight": 0.9}, 
+                {"id": 11, "lemma": "안", "type": "MAG", "position": 136, "weight": 0.0555822}, 
+                {"id": 12, "lemma": "되", "type": "VV", "position": 140, "weight": 0.361346}, 
+                {"id": 13, "lemma": "는", "type": "ETM", "position": 143, "weight": 0.184941}, 
+                {"id": 14, "lemma": "제", "type": "XPN", "position": 147, "weight": 0.000887051}, 
+                {"id": 15, "lemma": "1", "type": "SN", "position": 150, "weight": 1}, 
+                {"id": 16, "lemma": "계급", "type": "NNG", "position": 151, "weight": 0.9}, 
+                {"id": 17, "lemma": "(", "type": "SS", "position": 157, "weight": 1}, 
+                {"id": 18, "lemma": "추기경", "type": "NNG", "position": 158, "weight": 0.1}, 
+                {"id": 19, "lemma": "등", "type": "NNB", "position": 168, "weight": 0.0146757}, 
+                {"id": 20, "lemma": "의", "type": "JKG", "position": 171, "weight": 0.0520933}, 
+                {"id": 21, "lemma": "로마", "type": "NNP", "position": 175, "weight": 0.484925}, 
+                {"id": 22, "lemma": "가톨릭", "type": "NNG", "position": 182, "weight": 0.9}, 
+                {"id": 23, "lemma": "고위", "type": "NNG", "position": 192, "weight": 0.9}, 
+                {"id": 24, "lemma": "성직", "type": "NNG", "position": 199, "weight": 0.9}, 
+                {"id": 25, "lemma": "자", "type": "XSN", "position": 205, "weight": 0.00398741}, 
+                {"id": 26, "lemma": ")", "type": "SS", "position": 208, "weight": 1}, 
+                {"id": 27, "lemma": "과", "type": "JC", "position": 209, "weight": 0.00441114}, 
+                {"id": 28, "lemma": "제", "type": "XPN", "position": 213, "weight": 0.00189691}, 
+                {"id": 29, "lemma": "2", "type": "SN", "position": 216, "weight": 1}, 
+                {"id": 30, "lemma": "계급", "type": "NNG", "position": 217, "weight": 0.9}, 
+                {"id": 31, "lemma": "(", "type": "SS", "position": 223, "weight": 1}, 
+                {"id": 32, "lemma": "귀족", "type": "NNG", "position": 224, "weight": 0.9}, 
+                {"id": 33, "lemma": ")", "type": "SS", "position": 230, "weight": 1}, 
+                {"id": 34, "lemma": "은", "type": "JX", "position": 231, "weight": 0.0128817}, 
+                {"id": 35, "lemma": "면세", "type": "NNG", "position": 235, "weight": 0.9}, 
+                {"id": 36, "lemma": "등", "type": "NNB", "position": 242, "weight": 0.0146757}, 
+                {"id": 37, "lemma": "의", "type": "JKG", "position": 245, "weight": 0.0520933}, 
+                {"id": 38, "lemma": "혜택", "type": "NNG", "position": 249, "weight": 0.9}, 
+                {"id": 39, "lemma": "을", "type": "JKO", "position": 255, "weight": 0.129611}, 
+                {"id": 40, "lemma": "누리", "type": "VV", "position": 259, "weight": 0.723306}, 
+                {"id": 41, "lemma": "면서", "type": "EC", "position": 265, "weight": 0.428918}, 
+                {"id": 42, "lemma": ",", "type": "SP", "position": 271, "weight": 1}, 
+                {"id": 43, "lemma": "주요", "type": "NNG", "position": 273, "weight": 0.9}, 
+                {"id": 44, "lemma": "권력", "type": "NNG", "position": 280, "weight": 0.9}, 
+                {"id": 45, "lemma": "과", "type": "JC", "position": 286, "weight": 0.017569}, 
+                {"id": 46, "lemma": "부", "type": "NNG", "position": 290, "weight": 0.3011}, 
+                {"id": 47, "lemma": "와", "type": "JC", "position": 293, "weight": 0.0169714}, 
+                {"id": 48, "lemma": "명예", "type": "NNG", "position": 297, "weight": 0.9}, 
+                {"id": 49, "lemma": "를", "type": "JKO", "position": 303, "weight": 0.137686}, 
+                {"id": 50, "lemma": "독점", "type": "NNG", "position": 307, "weight": 0.9}, 
+                {"id": 51, "lemma": "하", "type": "XSV", "position": 313, "weight": 0.0001}, 
+                {"id": 52, "lemma": "였", "type": "EP", "position": 316, "weight": 0.9}, 
+                {"id": 53, "lemma": "다", "type": "EF", "position": 319, "weight": 0.640954}, 
+                {"id": 54, "lemma": ".", "type": "SF", "position": 322, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "구체제", "type": "NNG", "scode": "000000", "weight": 1, "position": 87, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "하", "type": "NNG", "scode": "040002", "weight": 0.0588235, "position": 97, "begin": 2, "end": 2}, 
+                {"id": 2, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 100, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 106, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "인구", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 110, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 116, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "2", "type": "SN", "scode": "000000", "weight": 1, "position": 120, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "%", "type": "SW", "scode": "000000", "weight": 1, "position": 121, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "정도", "type": "NNG", "scode": "110003", "weight": 0.0526316, "position": 123, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "밖에", "type": "JX", "scode": "000000", "weight": 1, "position": 129, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "안", "type": "MAG", "scode": "020000", "weight": 0.0526316, "position": 136, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "되", "type": "VV", "scode": "010202", "weight": 0.03125, "position": 140, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 143, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "제", "type": "XPN", "scode": "210000", "weight": 0.0322581, "position": 147, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "1", "type": "SN", "scode": "000000", "weight": 1, "position": 150, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "계급", "type": "NNG", "scode": "020002", "weight": 0.25, "position": 151, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 157, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "추기경", "type": "NNG", "scode": "000000", "weight": 1, "position": 158, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 168, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 171, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "로마", "type": "NNP", "scode": "020003", "weight": 0.2, "position": 175, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "가톨릭", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 182, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "고위", "type": "NNG", "scode": "040001", "weight": 0.2, "position": 192, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "성직자", "type": "NNG", "scode": "000000", "weight": 1, "position": 199, "begin": 24, "end": 25}, 
+                {"id": 24, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 208, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 209, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "제", "type": "XPN", "scode": "210000", "weight": 0.0322581, "position": 213, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "2", "type": "SN", "scode": "000000", "weight": 1, "position": 216, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "계급", "type": "NNG", "scode": "020002", "weight": 0.25, "position": 217, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 223, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "귀족", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 224, "begin": 32, "end": 32}, 
+                {"id": 31, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 230, "begin": 33, "end": 33}, 
+                {"id": 32, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 231, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "면세", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 235, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 242, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 245, "begin": 37, "end": 37}, 
+                {"id": 36, "text": "혜택", "type": "NNG", "scode": "000000", "weight": 1, "position": 249, "begin": 38, "end": 38}, 
+                {"id": 37, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 255, "begin": 39, "end": 39}, 
+                {"id": 38, "text": "누리", "type": "VV", "scode": "010000", "weight": 0.2, "position": 259, "begin": 40, "end": 40}, 
+                {"id": 39, "text": "면서", "type": "EC", "scode": "000000", "weight": 1, "position": 265, "begin": 41, "end": 41}, 
+                {"id": 40, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 271, "begin": 42, "end": 42}, 
+                {"id": 41, "text": "주요", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 273, "begin": 43, "end": 43}, 
+                {"id": 42, "text": "권력", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 280, "begin": 44, "end": 44}, 
+                {"id": 43, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 286, "begin": 45, "end": 45}, 
+                {"id": 44, "text": "부", "type": "NNG", "scode": "170001", "weight": 0.027027, "position": 290, "begin": 46, "end": 46}, 
+                {"id": 45, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 293, "begin": 47, "end": 47}, 
+                {"id": 46, "text": "명예", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 297, "begin": 48, "end": 48}, 
+                {"id": 47, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 303, "begin": 49, "end": 49}, 
+                {"id": 48, "text": "독점하", "type": "VV", "scode": "000002", "weight": 0.5, "position": 307, "begin": 50, "end": 51}, 
+                {"id": 49, "text": "였", "type": "EP", "scode": "000000", "weight": 1, "position": 316, "begin": 52, "end": 52}, 
+                {"id": 50, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 319, "begin": 53, "end": 53}, 
+                {"id": 51, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 322, "begin": 54, "end": 54}
+            ], 
+            "word": [
+                {"id": 0, "text": "구체제", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "하에서는", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "인구의", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "2%", "type": "", "begin": 7, "end": 8}, 
+                {"id": 4, "text": "정도밖에", "type": "", "begin": 9, "end": 10}, 
+                {"id": 5, "text": "안", "type": "", "begin": 11, "end": 11}, 
+                {"id": 6, "text": "되는", "type": "", "begin": 12, "end": 13}, 
+                {"id": 7, "text": "제1계급(추기경", "type": "", "begin": 14, "end": 18}, 
+                {"id": 8, "text": "등의", "type": "", "begin": 19, "end": 20}, 
+                {"id": 9, "text": "로마", "type": "", "begin": 21, "end": 21}, 
+                {"id": 10, "text": "가톨릭", "type": "", "begin": 22, "end": 22}, 
+                {"id": 11, "text": "고위", "type": "", "begin": 23, "end": 23}, 
+                {"id": 12, "text": "성직자)과", "type": "", "begin": 24, "end": 27}, 
+                {"id": 13, "text": "제2계급(귀족)은", "type": "", "begin": 28, "end": 34}, 
+                {"id": 14, "text": "면세", "type": "", "begin": 35, "end": 35}, 
+                {"id": 15, "text": "등의", "type": "", "begin": 36, "end": 37}, 
+                {"id": 16, "text": "혜택을", "type": "", "begin": 38, "end": 39}, 
+                {"id": 17, "text": "누리면서,", "type": "", "begin": 40, "end": 42}, 
+                {"id": 18, "text": "주요", "type": "", "begin": 43, "end": 43}, 
+                {"id": 19, "text": "권력과", "type": "", "begin": 44, "end": 45}, 
+                {"id": 20, "text": "부와", "type": "", "begin": 46, "end": 47}, 
+                {"id": 21, "text": "명예를", "type": "", "begin": 48, "end": 49}, 
+                {"id": 22, "text": "독점하였다.", "type": "", "begin": 50, "end": 54}
+            ], 
+            "NE": [
+                {"id": 0, "text": "구체제", "type": "CV_POLICY", "begin": 0, "end": 1, "weight": 0.865698, "common_noun": 0}, 
+                {"id": 1, "text": "2%", "type": "QT_PERCENTAGE", "begin": 7, "end": 8, "weight": 0.865698, "common_noun": 0}, 
+                {"id": 2, "text": "제1계급", "type": "QT_ORDER", "begin": 14, "end": 16, "weight": 0.626442, "common_noun": 0}, 
+                {"id": 3, "text": "추기경", "type": "CV_POSITION", "begin": 18, "end": 18, "weight": 0.345517, "common_noun": 0}, 
+                {"id": 4, "text": "로마 가톨릭", "type": "OGG_RELIGION", "begin": 21, "end": 22, "weight": 0.607577, "common_noun": 0}, 
+                {"id": 5, "text": "성직자", "type": "CV_OCCUPATION", "begin": 24, "end": 25, "weight": 0.813604, "common_noun": 0}, 
+                {"id": 6, "text": "제2계급", "type": "QT_ORDER", "begin": 28, "end": 30, "weight": 0.552309, "common_noun": 0}, 
+                {"id": 7, "text": "귀족", "type": "CV_POSITION", "begin": 32, "end": 32, "weight": 0.377796, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "구체제", "head": 1, "label": "NP", "mod": [], "weight": 0.711795}, 
+                {"id": 1, "text": "하에서는", "head": 17, "label": "NP_AJT", "mod": [0], "weight": 0.521954}, 
+                {"id": 2, "text": "인구의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.0659696}, 
+                {"id": 3, "text": "2%", "head": 4, "label": "NP", "mod": [2], "weight": 0.598556}, 
+                {"id": 4, "text": "정도밖에", "head": 6, "label": "NP_CMP", "mod": [3], "weight": 0.364221}, 
+                {"id": 5, "text": "안", "head": 6, "label": "AP", "mod": [], "weight": 0.667711}, 
+                {"id": 6, "text": "되는", "head": 7, "label": "VP_MOD", "mod": [4, 5], "weight": 0.244298}, 
+                {"id": 7, "text": "제1계급(추기경", "head": 8, "label": "NP", "mod": [6], "weight": 0.824389}, 
+                {"id": 8, "text": "등의", "head": 12, "label": "NP_MOD", "mod": [7], "weight": 0.402404}, 
+                {"id": 9, "text": "로마", "head": 10, "label": "NP", "mod": [], "weight": 0.409874}, 
+                {"id": 10, "text": "가톨릭", "head": 11, "label": "NP", "mod": [9], "weight": 0.238272}, 
+                {"id": 11, "text": "고위", "head": 12, "label": "NP", "mod": [10], "weight": 0.608867}, 
+                {"id": 12, "text": "성직자)과", "head": 13, "label": "NP_CNJ", "mod": [8, 11], "weight": 0.446703}, 
+                {"id": 13, "text": "제2계급(귀족)은", "head": 17, "label": "NP_SBJ", "mod": [12], "weight": 0.703065}, 
+                {"id": 14, "text": "면세", "head": 15, "label": "NP", "mod": [], "weight": 0.77569}, 
+                {"id": 15, "text": "등의", "head": 16, "label": "NP_MOD", "mod": [14], "weight": 0.715497}, 
+                {"id": 16, "text": "혜택을", "head": 17, "label": "NP_OBJ", "mod": [15], "weight": 0.73771}, 
+                {"id": 17, "text": "누리면서,", "head": 22, "label": "VP", "mod": [1, 13, 16], "weight": 0.85567}, 
+                {"id": 18, "text": "주요", "head": 19, "label": "NP", "mod": [], "weight": 0.30705}, 
+                {"id": 19, "text": "권력과", "head": 21, "label": "NP_CNJ", "mod": [18], "weight": 0.807138}, 
+                {"id": 20, "text": "부와", "head": 21, "label": "NP_CNJ", "mod": [], "weight": 0.844472}, 
+                {"id": 21, "text": "명예를", "head": 22, "label": "NP_OBJ", "mod": [19, 20], "weight": 0.827794}, 
+                {"id": 22, "text": "독점하였다.", "head": -1, "label": "VP", "mod": [17, 21], "weight": 2.77772e-07}
+            ], 
+            "SRL": [
+                {"verb": "되", "sense": 3, "word_id": 6, "weight": 0.175503, "argument": [
+                    {"type": "ARG2", "word_id": 4, "text": "정도밖에", "weight": 1}, 
+                    {"type": "ARGM-NEG", "word_id": 5, "text": "안", "weight": 0.203987}, 
+                    {"type": "ARG1", "word_id": 8, "text": "등의", "weight": 1}
+                ]}, 
+                {"verb": "누리", "sense": 1, "word_id": 17, "weight": 0.271774, "argument": [
+                    {"type": "ARG0", "word_id": 13, "text": "제2계급(귀족)은", "weight": 0.220201}, 
+                    {"type": "ARG1", "word_id": 16, "text": "혜택을", "weight": 0.323347}, 
+                    {"type": "ARGM-CND", "word_id": 1, "text": "하에서는", "weight": 1}
+                ]}, 
+                {"verb": "독점", "sense": 1, "word_id": 22, "weight": 0.126481, "argument": [
+                    {"type": "ARG0", "word_id": 13, "text": "제2계급(귀족)은", "weight": 0.127903}, 
+                    {"type": "ARG1", "word_id": 21, "text": "명예를", "weight": 0.125059}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "인구의 약 98%를 차지하던 제3계급(평민)은 무거운 세금을 부담해야 했다.", 
+            "morp": [
+                {"id": 0, "lemma": "인구", "type": "NNG", "position": 323, "weight": 0.436135}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 329, "weight": 0.0694213}, 
+                {"id": 2, "lemma": "약", "type": "MM", "position": 333, "weight": 0.011983}, 
+                {"id": 3, "lemma": "98", "type": "SN", "position": 337, "weight": 1}, 
+                {"id": 4, "lemma": "%", "type": "SW", "position": 339, "weight": 1}, 
+                {"id": 5, "lemma": "를", "type": "JKO", "position": 340, "weight": 0.0190959}, 
+                {"id": 6, "lemma": "차지", "type": "NNG", "position": 344, "weight": 0.0446654}, 
+                {"id": 7, "lemma": "하", "type": "XSV", "position": 350, "weight": 0.0001}, 
+                {"id": 8, "lemma": "던", "type": "ETM", "position": 353, "weight": 0.409388}, 
+                {"id": 9, "lemma": "제", "type": "XPN", "position": 357, "weight": 0.000887051}, 
+                {"id": 10, "lemma": "3", "type": "SN", "position": 360, "weight": 1}, 
+                {"id": 11, "lemma": "계급", "type": "NNG", "position": 361, "weight": 0.9}, 
+                {"id": 12, "lemma": "(", "type": "SS", "position": 367, "weight": 1}, 
+                {"id": 13, "lemma": "평민", "type": "NNG", "position": 368, "weight": 0.156572}, 
+                {"id": 14, "lemma": ")", "type": "SS", "position": 374, "weight": 1}, 
+                {"id": 15, "lemma": "은", "type": "JX", "position": 375, "weight": 0.0128817}, 
+                {"id": 16, "lemma": "무겁", "type": "VA", "position": 379, "weight": 0.108899}, 
+                {"id": 17, "lemma": "ㄴ", "type": "ETM", "position": 382, "weight": 0.430446}, 
+                {"id": 18, "lemma": "세금", "type": "NNG", "position": 389, "weight": 0.9}, 
+                {"id": 19, "lemma": "을", "type": "JKO", "position": 395, "weight": 0.129611}, 
+                {"id": 20, "lemma": "부담", "type": "NNG", "position": 399, "weight": 0.9}, 
+                {"id": 21, "lemma": "하", "type": "XSV", "position": 405, "weight": 0.0001}, 
+                {"id": 22, "lemma": "아야", "type": "EC", "position": 405, "weight": 0.371703}, 
+                {"id": 23, "lemma": "하", "type": "VX", "position": 412, "weight": 0.0899221}, 
+                {"id": 24, "lemma": "았", "type": "EP", "position": 412, "weight": 0.9}, 
+                {"id": 25, "lemma": "다", "type": "EF", "position": 415, "weight": 0.640954}, 
+                {"id": 26, "lemma": ".", "type": "SF", "position": 418, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "인구", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 323, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 329, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "약", "type": "MM", "scode": "030000", "weight": 0.047619, "position": 333, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "98", "type": "SN", "scode": "000000", "weight": 1, "position": 337, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "%", "type": "SW", "scode": "000000", "weight": 1, "position": 339, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 340, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "차지하", "type": "VV", "scode": "010001", "weight": 0.25, "position": 344, "begin": 6, "end": 7}, 
+                {"id": 7, "text": "던", "type": "ETM", "scode": "000000", "weight": 1, "position": 353, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "제", "type": "XPN", "scode": "210000", "weight": 0.0322581, "position": 357, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "3", "type": "SN", "scode": "000000", "weight": 1, "position": 360, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "계급", "type": "NNG", "scode": "020002", "weight": 0.25, "position": 361, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 367, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "평민", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 368, "begin": 13, "end": 13}, 
+                {"id": 13, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 374, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 375, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "무겁", "type": "VA", "scode": "000010", "weight": 0.0909091, "position": 379, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 382, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "세금", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 389, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 395, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "부담하", "type": "VV", "scode": "010000", "weight": 0.5, "position": 399, "begin": 20, "end": 21}, 
+                {"id": 20, "text": "아야", "type": "EC", "scode": "000000", "weight": 1, "position": 405, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "하", "type": "VX", "scode": "011103", "weight": 0.02, "position": 412, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 412, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 415, "begin": 25, "end": 25}, 
+                {"id": 24, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 418, "begin": 26, "end": 26}
+            ], 
+            "word": [
+                {"id": 0, "text": "인구의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "약", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "98%를", "type": "", "begin": 3, "end": 5}, 
+                {"id": 3, "text": "차지하던", "type": "", "begin": 6, "end": 8}, 
+                {"id": 4, "text": "제3계급(평민)은", "type": "", "begin": 9, "end": 15}, 
+                {"id": 5, "text": "무거운", "type": "", "begin": 16, "end": 17}, 
+                {"id": 6, "text": "세금을", "type": "", "begin": 18, "end": 19}, 
+                {"id": 7, "text": "부담해야", "type": "", "begin": 20, "end": 22}, 
+                {"id": 8, "text": "했다.", "type": "", "begin": 23, "end": 26}
+            ], 
+            "NE": [
+                {"id": 0, "text": "약 98%", "type": "QT_PERCENTAGE", "begin": 2, "end": 4, "weight": 0.729371, "common_noun": 0}, 
+                {"id": 1, "text": "제3계급", "type": "QT_ORDER", "begin": 9, "end": 11, "weight": 0.575295, "common_noun": 0}, 
+                {"id": 2, "text": "평민", "type": "CV_POSITION", "begin": 13, "end": 13, "weight": 0.575295, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "인구의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.78568}, 
+                {"id": 1, "text": "약", "head": 2, "label": "DP", "mod": [], "weight": 0.737788}, 
+                {"id": 2, "text": "98%를", "head": 3, "label": "NP_OBJ", "mod": [0, 1], "weight": 0.789071}, 
+                {"id": 3, "text": "차지하던", "head": 4, "label": "VP_MOD", "mod": [2], "weight": 0.707266}, 
+                {"id": 4, "text": "제3계급(평민)은", "head": 7, "label": "NP_SBJ", "mod": [3], "weight": 0.750518}, 
+                {"id": 5, "text": "무거운", "head": 6, "label": "VP_MOD", "mod": [], "weight": 0.677761}, 
+                {"id": 6, "text": "세금을", "head": 7, "label": "NP_OBJ", "mod": [5], "weight": 0.76293}, 
+                {"id": 7, "text": "부담해야", "head": 8, "label": "VP", "mod": [4, 6], "weight": 0.755444}, 
+                {"id": 8, "text": "했다.", "head": -1, "label": "VP", "mod": [7], "weight": 0.0755754}
+            ], 
+            "SRL": [
+                {"verb": "차지", "sense": 1, "word_id": 3, "weight": 0.157033, "argument": [
+                    {"type": "ARG1", "word_id": 2, "text": "98%를", "weight": 0.168576}, 
+                    {"type": "ARG0", "word_id": 4, "text": "제3계급(평민)은", "weight": 0.145489}
+                ]}, 
+                {"verb": "무겁", "sense": 1, "word_id": 5, "weight": 0.44625, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "세금을", "weight": 0.44625}
+                ]}, 
+                {"verb": "부담", "sense": 1, "word_id": 7, "weight": 0.243521, "argument": [
+                    {"type": "ARG0", "word_id": 4, "text": "제3계급(평민)은", "weight": 0.157589}, 
+                    {"type": "ARG1", "word_id": 6, "text": "세금을", "weight": 0.31806}, 
+                    {"type": "AUX", "word_id": 8, "text": "했다.", "weight": 0.254913}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "EV_ACTIVITY", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "프랑스 혁명은", "start_eid_short": 0, "end_eid_short": 1, "text_short": "프랑스 혁명은"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 3, "end_eid": 5, "ne_id": -1, "text": "구체제(앙시앵 레짐)의 모순에서", "start_eid_short": 3, "end_eid_short": 1, "text_short": ""}
+        ]}, 
+        {"id": 2, "type": "CV_POLICY", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 3, "end_eid": 4, "ne_id": 1, "text": "구체제(앙시앵 레짐)의", "start_eid_short": 3, "end_eid_short": 1, "text_short": ""}, 
+            {"id": 4, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "구체제", "start_eid_short": 0, "end_eid_short": 0, "text_short": "구체제"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "구체제 하에서는", "start_eid_short": 1, "end_eid_short": 1, "text_short": "하에서는"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "인구의", "start_eid_short": 2, "end_eid_short": 2, "text_short": "인구의"}, 
+            {"id": 21, "sent_id": 2, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "인구의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "인구의"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 2, "end_eid": 4, "ne_id": -1, "text": "인구의 2% 정도밖에", "start_eid_short": 4, "end_eid_short": 4, "text_short": "정도밖에"}
+        ]}, 
+        {"id": 6, "type": "QT_PERCENTAGE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 2, "end_eid": 3, "ne_id": 0, "text": "인구의 2%", "start_eid_short": 3, "end_eid_short": 3, "text_short": "2%"}
+        ]}, 
+        {"id": 7, "type": "CV_OCCUPATION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 2, "end_eid": 12, "ne_id": 4, "text": "인구의 2% 정도밖에 안 되는 제1계급(추기경 등의 로마 가톨릭 고위 성직자)과", "start_eid_short": 12, "end_eid_short": 12, "text_short": "성직자)과"}
+        ]}, 
+        {"id": 8, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 13, "end_eid": 13, "ne_id": 5, "text": "제2계급(귀족)은", "start_eid_short": 13, "end_eid_short": 1, "text_short": ""}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 14, "end_eid": 14, "ne_id": -1, "text": "면세", "start_eid_short": 14, "end_eid_short": 14, "text_short": "면세"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 14, "end_eid": 16, "ne_id": -1, "text": "면세 등의 혜택을", "start_eid_short": 16, "end_eid_short": 16, "text_short": "혜택을"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 1, "start_eid": 19, "end_eid": 19, "ne_id": -1, "text": "권력과", "start_eid_short": 19, "end_eid_short": 19, "text_short": "권력과"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 18, "end_eid": 18, "ne_id": -1, "text": "주요", "start_eid_short": 18, "end_eid_short": 18, "text_short": "주요"}
+        ]}, 
+        {"id": 13, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 18, "end_eid": 21, "ne_id": -1, "text": "주요 권력과 부와 명예를", "start_eid_short": 21, "end_eid_short": 21, "text_short": "명예를"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 20, "end_eid": 20, "ne_id": -1, "text": "부와", "start_eid_short": 20, "end_eid_short": 20, "text_short": "부와"}
+        ]}, 
+        {"id": 15, "type": "QT_PERCENTAGE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 2, "start_eid": 0, "end_eid": 2, "ne_id": 0, "text": "인구의 약 98%를", "start_eid_short": 2, "end_eid_short": 2, "text_short": "98%를"}
+        ]}, 
+        {"id": 16, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 22, "sent_id": 2, "start_eid": 5, "end_eid": 6, "ne_id": -1, "text": "무거운 세금을", "start_eid_short": 6, "end_eid_short": 6, "text_short": "세금을"}
+        ]}, 
+        {"id": 17, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 14, "end_eid": 15, "ne_id": -1, "text": "면세 등의", "start_eid_short": 14, "end_eid_short": 15, "text_short": "면세 등의"}
+        ]}, 
+        {"id": 18, "type": "QT_ORDER", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 2, "start_eid": 0, "end_eid": 4, "ne_id": 1, "text": "인구의 약 98%를 차지하던 제3계급(평민)은", "start_eid_short": 4, "end_eid_short": 4, "text_short": "제3계급(평민)은"}
+        ]}, 
+        {"id": 19, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 2, "end_eid": 13, "ne_id": 5, "text": "인구의 2% 정도밖에 안 되는 제1계급(추기경 등의 로마 가톨릭 고위 성직자)과 제2계급(귀족)은", "start_eid_short": 13, "end_eid_short": 13, "text_short": "제2계급(귀족)은"}
+        ]}, 
+        {"id": 20, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 1, "start_eid": 21, "end_eid": 21, "ne_id": -1, "text": "명예를", "start_eid_short": 21, "end_eid_short": 21, "text_short": "명예를"}
+        ]}
+    ]
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+평양(Pyongyang)은 북조선의 수도이며 삼국시대 고구려의 수도였다. 거주민은 약 2,750,000명으로 나라의 북서부 대동강변에 자리 잡았다.
+
+거의 모든 방문자들이 비행기나 열차로 도착한다.
+선안 국제공항(IATA: FNJ)은 평양에서 북쪽으로 24km 떨어져 있으며 2009년 현재 베이징과 센양으로의 서비스를 계획하여왔다. 블라디보스톡으로 매주 비행편이 있지만 사실은 오래된 Tu-134를 채우기 충분한 여객이 있을 경우에만 출발한다.
+에어 차이나 베이징 항공편은 월요일과 금요일 오후 출발하는데 여름에는 4월 1일부터 수요일 오후에 추가의 서비스가 있다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="3" text="평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="16" end="19" text="북조선" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="21" end="23" text="수도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="31" end="34" text="고구려" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="36" end="38" text="수도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="62" end="64" text="나라" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="70" end="74" text="대동강변" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="112" end="119" text="선안 국제공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="132" end="134" text="평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="164" end="167" text="베이징" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="169" end="171" text="센양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="188" end="194" text="블라디보스톡" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="258" end="261" text="베이징" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="91" />
+<PLACE id="pl15" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="188" />
+<PLACE id="pl16" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="251" />
+<SPATIAL_ENTITY id="se0" start="91" end="95" text="방문자들" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="38" end="39" text="였" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="79" end="81" text="잡았" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="151" end="152" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e5" start="315" end="316" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e6" start="23" end="24" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="106" end="109" text="도착한" domain="" latLong="" elevation="" motion_type="MANNER" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="245" end="248" text="출발한" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="279" end="282" text="출발하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="74" end="75" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="137" end="139" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="147" end="150" text="떨어져" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="66" end="69" text="북서부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="19" end="20" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="34" end="35" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="97" end="100" text="비행기" motion_signal_type="MANNER" comment="" />
+<MOTION_SIGNAL id="ms1" start="102" end="105" text="열차로" motion_signal_type="MANNER" comment="" />
+<MOTION_SIGNAL id="ms2" start="194" end="196" text="으로" motion_signal_type="" comment="" />
+<MEASURE id="me0" start="142" end="146" text="24km" value="24" unit="km" comment="" />
+<SENTENCE id="sent0" start="1" end="41" text="평양(Pyongyang)은 북조선의 수도이며 삼국시대 고구려의 수도였다." comment="" />
+<SENTENCE id="sent1" start="42" end="83" text="거주민은 약 2,750,000명으로 나라의 북서부 대동강변에 자리 잡았다." comment="" />
+<SENTENCE id="sent2" start="85" end="111" text="거의 모든 방문자들이 비행기나 열차로 도착한다." comment="" />
+<SENTENCE id="sent3" start="112" end="187" text="선안 국제공항(IATA: FNJ)은 평양에서 북쪽으로 24km 떨어져 있으며 2009년 현재 베이징과 센양으로의 서비스를 계획하여왔다." comment="" />
+<SENTENCE id="sent4" start="188" end="250" text="블라디보스톡으로 매주 비행편이 있지만 사실은 오래된 Tu-134를 채우기 충분한 여객이 있을 경우에만 출발한다." comment="" />
+<SENTENCE id="sent5" start="251" end="318" text="에어 차이나 베이징 항공편은 월요일과 금요일 오후 출발하는데 여름에는 4월 1일부터 수요일 오후에 추가의 서비스가 있다." comment="" />
+<QSLINK id="qsl3" fromID="pl6" fromText="대동강변" toID="s1" toText="에" relType="NTPP" trajector="pl14" landmark="pl6" trigger="s1" comment="" />
+<QSLINK id="qsl4" fromID="pl7" fromText="선안 국제공항" toID="pl8" toText="평양" relType="DC" trajector="pl7" landmark="pl8" trigger="s3" comment="" />
+<QSLINK id="qsl0" fromID="pl2" fromText="수도" toID="pl1" toText="북조선" relType="NTPP" trajector="pl2" landmark="pl1" trigger="s5" comment="" />
+<QSLINK id="qsl1" fromID="pl4" fromText="수도" toID="pl3" toText="고구려" relType="NTPP" trajector="pl4" landmark="pl3" trigger="s6" comment="" />
+<OLINK id="ol0" fromID="pl7" fromText="선안 국제공항" toID="pl8" toText="평양" relType="북" trajector="pl7" landmark="pl8" trigger="s2" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl6" fromText="대동강변" toID="pl5" toText="나라" relType="북서" trajector="pl6" landmark="pl5" trigger="s0" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="도착한" toID="ms1" toText="열차로" trigger="m0" source="" goal="pl14" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0,ms1" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="출발한" toID="pl11" toText="블라디보스톡" trigger="m1" source="pl15" goal="pl11" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="출발하" toID="pl16" toText="" trigger="m2" source="pl16" goal="pl12" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MEASURELINK id="ml0" fromID="pl7" fromText="선안 국제공항" toID="pl8" toText="평양" trajector="pl7" landmark="pl8" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

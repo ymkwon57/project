@@ -1,0 +1,143 @@
+{
+    "doc_id": "E2016.789.01_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "낙성대", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "낙성대(落星垈)는 강감찬 장군이 태어난 곳으로, 서울특별시 관악구 봉천동 228번지에 위치해 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "낙성대", "type": "NNP", "position": 0, "weight": 0.7}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 9, "weight": 1}, 
+                {"id": 2, "lemma": "落星垈", "type": "SH", "position": 10, "weight": 1}, 
+                {"id": 3, "lemma": ")", "type": "SS", "position": 19, "weight": 1}, 
+                {"id": 4, "lemma": "는", "type": "JX", "position": 20, "weight": 0.00823314}, 
+                {"id": 5, "lemma": "강감찬", "type": "NNP", "position": 24, "weight": 0.65}, 
+                {"id": 6, "lemma": "장군", "type": "NNG", "position": 34, "weight": 0.28142}, 
+                {"id": 7, "lemma": "이", "type": "JKS", "position": 40, "weight": 0.0360723}, 
+                {"id": 8, "lemma": "태어나", "type": "VV", "position": 44, "weight": 0.9}, 
+                {"id": 9, "lemma": "ㄴ", "type": "ETM", "position": 50, "weight": 0.304215}, 
+                {"id": 10, "lemma": "곳", "type": "NNG", "position": 54, "weight": 0.658803}, 
+                {"id": 11, "lemma": "으로", "type": "JKB", "position": 57, "weight": 0.153406}, 
+                {"id": 12, "lemma": ",", "type": "SP", "position": 63, "weight": 1}, 
+                {"id": 13, "lemma": "서울특별시", "type": "NNP", "position": 65, "weight": 0.9}, 
+                {"id": 14, "lemma": "관악구", "type": "NNP", "position": 81, "weight": 0.9}, 
+                {"id": 15, "lemma": "봉천동", "type": "NNP", "position": 91, "weight": 0.9}, 
+                {"id": 16, "lemma": "228", "type": "SN", "position": 101, "weight": 1}, 
+                {"id": 17, "lemma": "번지", "type": "NNG", "position": 104, "weight": 0.0194857}, 
+                {"id": 18, "lemma": "에", "type": "JKB", "position": 110, "weight": 0.153364}, 
+                {"id": 19, "lemma": "위치", "type": "NNG", "position": 114, "weight": 0.207864}, 
+                {"id": 20, "lemma": "하", "type": "XSV", "position": 120, "weight": 0.0001}, 
+                {"id": 21, "lemma": "아", "type": "EC", "position": 120, "weight": 0.361326}, 
+                {"id": 22, "lemma": "있", "type": "VX", "position": 124, "weight": 0.125953}, 
+                {"id": 23, "lemma": "다", "type": "EF", "position": 127, "weight": 0.180366}, 
+                {"id": 24, "lemma": ".", "type": "SF", "position": 130, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "낙성대", "type": "NNP", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 9, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "落星垈", "type": "SH", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 19, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "강감찬", "type": "NNP", "scode": "000000", "weight": 1, "position": 24, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "장군", "type": "NNG", "scode": "040001", "weight": 0.0666667, "position": 34, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 40, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "태어나", "type": "VV", "scode": "000000", "weight": 1, "position": 44, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 50, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "곳", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 54, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 57, "begin": 11, "end": 11}, 
+                {"id": 12, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 63, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "서울특별시", "type": "NNP", "scode": "000000", "weight": 1, "position": 65, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "관악구", "type": "NNP", "scode": "000000", "weight": 0, "position": 81, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "봉천동", "type": "NNP", "scode": "000000", "weight": 0, "position": 91, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "228", "type": "SN", "scode": "000000", "weight": 1, "position": 101, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "번지", "type": "NNG", "scode": "030001", "weight": 0.125, "position": 104, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 110, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "위치하", "type": "VV", "scode": "000000", "weight": 1, "position": 114, "begin": 19, "end": 20}, 
+                {"id": 20, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 120, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "있", "type": "VX", "scode": "010902", "weight": 0.0416667, "position": 124, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 127, "begin": 23, "end": 23}, 
+                {"id": 23, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 130, "begin": 24, "end": 24}
+            ], 
+            "word": [
+                {"id": 0, "text": "낙성대(落星垈)는", "type": "", "begin": 0, "end": 4}, 
+                {"id": 1, "text": "강감찬", "type": "", "begin": 5, "end": 5}, 
+                {"id": 2, "text": "장군이", "type": "", "begin": 6, "end": 7}, 
+                {"id": 3, "text": "태어난", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "곳으로,", "type": "", "begin": 10, "end": 12}, 
+                {"id": 5, "text": "서울특별시", "type": "", "begin": 13, "end": 13}, 
+                {"id": 6, "text": "관악구", "type": "", "begin": 14, "end": 14}, 
+                {"id": 7, "text": "봉천동", "type": "", "begin": 15, "end": 15}, 
+                {"id": 8, "text": "228번지에", "type": "", "begin": 16, "end": 18}, 
+                {"id": 9, "text": "위치해", "type": "", "begin": 19, "end": 21}, 
+                {"id": 10, "text": "있다.", "type": "", "begin": 22, "end": 24}
+            ], 
+            "NE": [
+                {"id": 0, "text": "낙성대", "type": "AF_CULTURAL_ASSET", "begin": 0, "end": 0, "weight": 0.232837, "common_noun": 0}, 
+                {"id": 1, "text": "落星垈", "type": "AF_CULTURAL_ASSET", "begin": 2, "end": 2, "weight": 1, "common_noun": 0}, 
+                {"id": 2, "text": "강감찬", "type": "PS_NAME", "begin": 5, "end": 5, "weight": 0.691167, "common_noun": 0}, 
+                {"id": 3, "text": "장군", "type": "CV_POSITION", "begin": 6, "end": 6, "weight": 0.755284, "common_noun": 0}, 
+                {"id": 4, "text": "서울특별시", "type": "LCP_CAPITALCITY", "begin": 13, "end": 13, "weight": 0.768019, "common_noun": 0}, 
+                {"id": 5, "text": "관악구", "type": "LCP_COUNTY", "begin": 14, "end": 14, "weight": 0.78242, "common_noun": 0}, 
+                {"id": 6, "text": "봉천동", "type": "LCP_COUNTY", "begin": 15, "end": 15, "weight": 0.767838, "common_noun": 0}, 
+                {"id": 7, "text": "228번지", "type": "LCP_COUNTY", "begin": 16, "end": 17, "weight": 0.369988, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "낙성대(落星垈)는", "head": 4, "label": "NP_SBJ", "mod": [], "weight": 0.748754}, 
+                {"id": 1, "text": "강감찬", "head": 2, "label": "NP", "mod": [], "weight": 0.72724}, 
+                {"id": 2, "text": "장군이", "head": 3, "label": "NP_SBJ", "mod": [1], "weight": 0.814344}, 
+                {"id": 3, "text": "태어난", "head": 4, "label": "VP_MOD", "mod": [2], "weight": 0.691721}, 
+                {"id": 4, "text": "곳으로,", "head": 9, "label": "NP_AJT", "mod": [0, 3], "weight": 0.708679}, 
+                {"id": 5, "text": "서울특별시", "head": 6, "label": "NP", "mod": [], "weight": 0.784804}, 
+                {"id": 6, "text": "관악구", "head": 7, "label": "NP", "mod": [5], "weight": 0.554616}, 
+                {"id": 7, "text": "봉천동", "head": 8, "label": "NP", "mod": [6], "weight": 0.736742}, 
+                {"id": 8, "text": "228번지에", "head": 9, "label": "NP_AJT", "mod": [7], "weight": 0.754185}, 
+                {"id": 9, "text": "위치해", "head": 10, "label": "VP", "mod": [4, 8], "weight": 0.734838}, 
+                {"id": 10, "text": "있다.", "head": -1, "label": "VP", "mod": [9], "weight": 0.0297039}
+            ], 
+            "SRL": [
+                {"verb": "태어나", "sense": 1, "word_id": 3, "weight": 0.15825, "argument": [
+                    {"type": "ARG1", "word_id": 2, "text": "장군이", "weight": 0.131957}, 
+                    {"type": "ARGM-LOC", "word_id": 4, "text": "곳으로,", "weight": 0.184543}
+                ]}, 
+                {"verb": "위치", "sense": 1, "word_id": 9, "weight": 0.317403, "argument": [
+                    {"type": "ARG2", "word_id": 8, "text": "228번지에", "weight": 0.192138}, 
+                    {"type": "AUX", "word_id": 10, "text": "있다.", "weight": 0.442668}, 
+                    {"type": "ARG1", "word_id": 0, "text": "낙성대(落星垈)는", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "낙성대(落星垈)는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "낙성대(落星垈)는"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 4, "ne_id": -1, "text": "강감찬 장군이 태어난 곳으로,", "start_eid_short": 4, "end_eid_short": 4, "text_short": "곳으로,"}, 
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 8, "ne_id": 7, "text": "서울특별시 관악구 봉천동 228번지에", "start_eid_short": 5, "end_eid_short": 8, "text_short": "서울특별시 관악구 봉천동 228번지에"}
+        ]}, 
+        {"id": 1, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 3, "text": "강감찬 장군이", "start_eid_short": 1, "end_eid_short": 2, "text_short": "강감찬 장군이"}, 
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 2, "text": "강감찬", "start_eid_short": 1, "end_eid_short": 1, "text_short": "강감찬"}
+        ]}, 
+        {"id": 2, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 5, "end_eid": 6, "ne_id": 5, "text": "서울특별시 관악구", "start_eid_short": 5, "end_eid_short": 6, "text_short": "서울특별시 관악구"}
+        ]}, 
+        {"id": 3, "type": "LCP_CAPITALCITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": 4, "text": "서울특별시", "start_eid_short": 5, "end_eid_short": 5, "text_short": "서울특별시"}
+        ]}, 
+        {"id": 4, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 5, "end_eid": 7, "ne_id": 6, "text": "서울특별시 관악구 봉천동", "start_eid_short": 5, "end_eid_short": 7, "text_short": "서울특별시 관악구 봉천동"}
+        ]}
+    ]
+}

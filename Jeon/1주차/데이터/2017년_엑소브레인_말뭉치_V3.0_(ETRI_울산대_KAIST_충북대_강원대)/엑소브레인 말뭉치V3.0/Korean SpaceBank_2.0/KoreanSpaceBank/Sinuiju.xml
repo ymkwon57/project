@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+신의주(Sinuiju)는 북한의 도시이다.
+
+신의주는 중국의 단동에서 강 건너편에 있다. 그리고 중조 우호 교량에 의해 연결되어 있다. 중국에서 열차로 온다면 신의주는 보게 될 북조선의 첫 도시이다.
+단동에서 선박으로 신의주의 수백피트내로 다가서는 것이 가능하다. 다양한 유람선이 다리 근처의 압록강을 따라 운항되는데 가격은 약 ¥20-50이다.
+겨울에 강은 얼고 양측의 지역 주민들은 국경을 넘어서 교역을 하기도 한다. 그러나 북한군은 주기적으로 경계를 순찰하며 외국인들은 반대편에서 체포되면 감금되면 스파이 혐의로 고소될 수 있다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="4" text="신의주" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="15" end="17" text="북한" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="19" end="21" text="도시" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="26" end="29" text="신의주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="31" end="33" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="35" end="37" text="단동" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="77" end="79" text="중국" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="90" end="93" text="신의주" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="100" end="103" text="북조선" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="107" end="109" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="113" end="115" text="단동" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="123" end="126" text="신의주" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="209" end="211" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="51" />
+<PLACE id="pl15" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="195" />
+<PLACE id="pl16" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="195" />
+<PLACE id="pl19" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="26" />
+<PLACE id="pl14" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="113" />
+<PATH id="p0" start="61" end="63" text="교량" beginID="" endID="pk3" midIDs="" type="BRIDGE" dimensionality="LINE" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="158" end="160" text="다리" beginID="" endID="" midIDs="" type="BRIDGE" dimensionality="LINE" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="165" end="168" text="압록강" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="LINE" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="217" end="219" text="국경" beginID="" endID="" midIDs="" type="BOUNDARY" dimensionality="LINE" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p4" start="252" end="254" text="경계" beginID="" endID="" midIDs="" type="BOUNDARY" dimensionality="LINE" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p5" start="40" end="41" text="강" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="AREA" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p6" start="199" end="200" text="강" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="LINE" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="153" end="156" text="유람선" type="ARTIFACT" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="241" end="244" text="북한군" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="212" end="215" text="주민들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="86" end="88" text="온다" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="173" end="176" text="운항되" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="135" end="138" text="다가서" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="221" end="223" text="넘어" domain="" latLong="" elevation="" motion_type="PATH" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="256" end="259" text="순찰하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="42" end="45" text="건너편" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s3" start="68" end="71" text="연결되" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="17" end="18" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="103" end="104" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="33" end="34" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms2" start="168" end="172" text="을 따라" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="133" end="134" text="로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="219" end="220" text="을" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms5" start="254" end="255" text="를" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms6" start="115" end="117" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms7" start="118" end="122" text="선박으로" motion_signal_type="MANNER" comment="" />
+<MOTION_SIGNAL id="ms8" start="82" end="85" text="열차로" motion_signal_type="MANNER" comment="" />
+<MOTION_SIGNAL id="ms0" start="79" end="81" text="에서" motion_signal_type="PATH" comment="" />
+<MEASURE id="me1" start="128" end="133" text="수백피트내" value="100" unit="feet" comment="" />
+<MEASURE id="me0" start="161" end="163" text="근처" value="근처" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="24" text="신의주(Sinuiju)는 북한의 도시이다." comment="" />
+<SENTENCE id="sent1" start="26" end="50" text="신의주는 중국의 단동에서 강 건너편에 있다." comment="" />
+<SENTENCE id="sent2" start="51" end="76" text="그리고 중조 우호 교량에 의해 연결되어 있다." comment="" />
+<SENTENCE id="sent3" start="77" end="112" text="중국에서 열차로 온다면 신의주는 보게 될 북조선의 첫 도시이다." comment="" />
+<SENTENCE id="sent4" start="113" end="148" text="단동에서 선박으로 신의주의 수백피트내로 다가서는 것이 가능하다." comment="" />
+<SENTENCE id="sent6" start="195" end="236" text="겨울에 강은 얼고 양측의 지역 주민들은 국경을 넘어서 교역을 하기도 한다." comment="" />
+<SENTENCE id="sent7" start="237" end="300" text="그러나 북한군은 주기적으로 경계를 순찰하며 외국인들은 반대편에서 체포되면 감금되면 스파이 혐의로 고소될 수 있다." comment="" />
+<SENTENCE id="sent5" start="149" end="194" text="다양한 유람선이 다리 근처의 압록강을 따라 운항되는데 가격은 약 ¥20-50이다." comment="" />
+<QSLINK id="qsl3" fromID="pl3" fromText="신의주" toID="p5" toText="강" relType="OUT" trajector="pl3" landmark="p5" trigger="s0" comment="" />
+<QSLINK id="qsl5" fromID="pl13" fromText="" toID="p0" toText="교량" relType="EC" trajector="pl13" landmark="p0" trigger="s3" comment="" />
+<QSLINK id="qsl0" fromID="pl2" fromText="도시" toID="pl1" toText="북한" relType="IN" trajector="pl2" landmark="pl1" trigger="s4" comment="" />
+<QSLINK id="qsl6" fromID="pl10" fromText="도시" toID="pl9" toText="북조선" relType="IN" trajector="pl10" landmark="pl9" trigger="s5" comment="" />
+<QSLINK id="qsl9" fromID="pl5" fromText="단동" toID="pl4" toText="중국" relType="NTPP" trajector="pl5" landmark="pl4" trigger="s2" comment="" />
+<OLINK id="ol0" fromID="pl3" fromText="신의주" toID="pl5" toText="단동" relType="건너" trajector="pl3" landmark="pl5" trigger="s0" frame_type="INTRINSIC" referencePt="pl5" projective="TRUE" comment="" />
+<MOVELINK id="mvl0" fromID="ms8" fromText="열차로" toID="m0" toText="온다" trigger="m0" source="pl7" goal="pl8" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms8,ms0" comment="" />
+<MOVELINK id="mvl1" fromID="ms7" fromText="선박으로" toID="m2" toText="다가서" trigger="m2" source="pl11" goal="pl14" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms3,ms6,ms7" comment="" />
+<MOVELINK id="mvl2" fromID="m1" fromText="운항되" toID="ms2" toText="을 따라" trigger="m1" source="" goal="" midPoint="" mover="se0" landmark="" goal_reached="" pathID="p2" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl3" fromID="ms4" fromText="을" toID="m3" toText="넘어" trigger="m3" source="pl15" goal="pl16" midPoint="p3" mover="se2" landmark="" goal_reached="YES" pathID="p3" motion_signalID="ms4" comment="" />
+<MOVELINK id="mvl4" fromID="ms5" fromText="를" toID="m4" toText="순찰하" trigger="m4" source="" goal="" midPoint="" mover="se1" landmark="" goal_reached="" pathID="p4" motion_signalID="ms5" comment="" />
+<MEASURELINK id="ml0" fromID="me1" fromText="수백피트내" toID="pl14" toText="" trajector="pl14" landmark="pl12" relType="DISTANCE" val="me1" endPoint1="pl14" endPoint2="pl12" comment="" />
+<MEASURELINK id="ml1" fromID="p2" fromText="압록강" toID="p1" toText="다리" trajector="p2" landmark="p1" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

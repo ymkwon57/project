@@ -1,0 +1,461 @@
+{
+    "doc_id": "E2016.835.21_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "조르주 당통", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "1790년 자코뱅당에 가입하여 혁명 재판소를 설치하고 왕당파를 처형하였다.", 
+            "morp": [
+                {"id": 0, "lemma": "1790", "type": "SN", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "년", "type": "NNB", "position": 4, "weight": 0.414343}, 
+                {"id": 2, "lemma": "자코뱅당", "type": "NNP", "position": 8, "weight": 0.25}, 
+                {"id": 3, "lemma": "에", "type": "JKB", "position": 20, "weight": 0.0823628}, 
+                {"id": 4, "lemma": "가입", "type": "NNG", "position": 24, "weight": 0.9}, 
+                {"id": 5, "lemma": "하", "type": "XSV", "position": 30, "weight": 0.0001}, 
+                {"id": 6, "lemma": "여", "type": "EC", "position": 33, "weight": 0.361326}, 
+                {"id": 7, "lemma": "혁명", "type": "NNG", "position": 37, "weight": 0.9}, 
+                {"id": 8, "lemma": "재판", "type": "NNG", "position": 44, "weight": 0.9}, 
+                {"id": 9, "lemma": "소", "type": "XSN", "position": 50, "weight": 0.00141622}, 
+                {"id": 10, "lemma": "를", "type": "JKO", "position": 53, "weight": 0.0870227}, 
+                {"id": 11, "lemma": "설치", "type": "NNG", "position": 57, "weight": 0.0749782}, 
+                {"id": 12, "lemma": "하", "type": "XSV", "position": 63, "weight": 0.0001}, 
+                {"id": 13, "lemma": "고", "type": "EC", "position": 66, "weight": 0.359917}, 
+                {"id": 14, "lemma": "왕당", "type": "NNG", "position": 70, "weight": 0.05}, 
+                {"id": 15, "lemma": "파", "type": "NNG", "position": 76, "weight": 0.092063}, 
+                {"id": 16, "lemma": "를", "type": "JKO", "position": 79, "weight": 0.137686}, 
+                {"id": 17, "lemma": "처형", "type": "NNG", "position": 83, "weight": 0.9}, 
+                {"id": 18, "lemma": "하", "type": "XSV", "position": 89, "weight": 0.0001}, 
+                {"id": 19, "lemma": "였", "type": "EP", "position": 92, "weight": 0.9}, 
+                {"id": 20, "lemma": "다", "type": "EF", "position": 95, "weight": 0.640954}, 
+                {"id": 21, "lemma": ".", "type": "SF", "position": 98, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "1790", "type": "SN", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 4, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "자코뱅당", "type": "NNP", "scode": "000000", "weight": 0, "position": 8, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 20, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "가입하", "type": "VV", "scode": "000101", "weight": 0.333333, "position": 24, "begin": 4, "end": 5}, 
+                {"id": 5, "text": "여", "type": "EC", "scode": "000000", "weight": 1, "position": 33, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "혁명", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 37, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "재판소", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 44, "begin": 8, "end": 9}, 
+                {"id": 8, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 53, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "설치하", "type": "VV", "scode": "010000", "weight": 0.25, "position": 57, "begin": 11, "end": 12}, 
+                {"id": 10, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 66, "begin": 13, "end": 13}, 
+                {"id": 11, "text": "왕당파", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 70, "begin": 14, "end": 15}, 
+                {"id": 12, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 79, "begin": 16, "end": 16}, 
+                {"id": 13, "text": "처형하", "type": "VV", "scode": "000002", "weight": 0.5, "position": 83, "begin": 17, "end": 18}, 
+                {"id": 14, "text": "였", "type": "EP", "scode": "000000", "weight": 1, "position": 92, "begin": 19, "end": 19}, 
+                {"id": 15, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 95, "begin": 20, "end": 20}, 
+                {"id": 16, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 98, "begin": 21, "end": 21}
+            ], 
+            "word": [
+                {"id": 0, "text": "1790년", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "자코뱅당에", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "가입하여", "type": "", "begin": 4, "end": 6}, 
+                {"id": 3, "text": "혁명", "type": "", "begin": 7, "end": 7}, 
+                {"id": 4, "text": "재판소를", "type": "", "begin": 8, "end": 10}, 
+                {"id": 5, "text": "설치하고", "type": "", "begin": 11, "end": 13}, 
+                {"id": 6, "text": "왕당파를", "type": "", "begin": 14, "end": 16}, 
+                {"id": 7, "text": "처형하였다.", "type": "", "begin": 17, "end": 21}
+            ], 
+            "NE": [
+                {"id": 0, "text": "1790년", "type": "DT_YEAR", "begin": 0, "end": 1, "weight": 0.688972, "common_noun": 0}, 
+                {"id": 1, "text": "자코뱅당", "type": "OGG_POLITICS", "begin": 2, "end": 2, "weight": 0.328996, "common_noun": 0}, 
+                {"id": 2, "text": "혁명 재판소", "type": "OGG_LAW", "begin": 7, "end": 9, "weight": 0.538173, "common_noun": 0}, 
+                {"id": 3, "text": "왕당파", "type": "OGG_POLITICS", "begin": 14, "end": 15, "weight": 0.212916, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "1790년", "head": 2, "label": "NP_AJT", "mod": [], "weight": 0.656896}, 
+                {"id": 1, "text": "자코뱅당에", "head": 2, "label": "NP_AJT", "mod": [], "weight": 0.746619}, 
+                {"id": 2, "text": "가입하여", "head": 5, "label": "VP", "mod": [0, 1], "weight": 0.797844}, 
+                {"id": 3, "text": "혁명", "head": 4, "label": "NP", "mod": [], "weight": 0.802567}, 
+                {"id": 4, "text": "재판소를", "head": 5, "label": "NP_OBJ", "mod": [3], "weight": 0.732387}, 
+                {"id": 5, "text": "설치하고", "head": 7, "label": "VP", "mod": [2, 4], "weight": 0.840634}, 
+                {"id": 6, "text": "왕당파를", "head": 7, "label": "NP_OBJ", "mod": [], "weight": 0.727155}, 
+                {"id": 7, "text": "처형하였다.", "head": -1, "label": "VP", "mod": [5, 6], "weight": 0.116963}
+            ], 
+            "SRL": [
+                {"verb": "가입", "sense": 2, "word_id": 2, "weight": 0.194809, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 0, "text": "1790년", "weight": 0.160974}, 
+                    {"type": "ARG2", "word_id": 1, "text": "자코뱅당에", "weight": 0.228645}
+                ]}, 
+                {"verb": "설치", "sense": 1, "word_id": 5, "weight": 0.330221, "argument": [
+                    {"type": "ARG1", "word_id": 4, "text": "재판소를", "weight": 0.330221}, 
+                    {"type": "ARGM-MNR", "word_id": 2, "text": "가입하여", "weight": 1}
+                ]}, 
+                {"verb": "처형", "sense": 1, "word_id": 7, "weight": 0.192593, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "왕당파를", "weight": 0.192593}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "그러나 로베스 피에르와 뜻이 맞지 않는 일이 잦았고 결국 1794년에 전세가 호전되기 시작하자 3월부터 시작된 혁명 세력 내의 좌, 우파에 대한 탄압 중에 \"외국인과 결탁하여 뇌물을 받고 반혁명 세력을 도와준 혐의\"로 혁명 재판을 받고 단두대에서 처형당했다.", 
+            "morp": [
+                {"id": 0, "lemma": "그러나", "type": "MAJ", "position": 99, "weight": 0.0461081}, 
+                {"id": 1, "lemma": "로베스", "type": "NNP", "position": 109, "weight": 0.6}, 
+                {"id": 2, "lemma": "피에르", "type": "NNP", "position": 119, "weight": 0.9}, 
+                {"id": 3, "lemma": "와", "type": "JKB", "position": 128, "weight": 0.0104534}, 
+                {"id": 4, "lemma": "뜻", "type": "NNG", "position": 132, "weight": 0.9}, 
+                {"id": 5, "lemma": "이", "type": "JKS", "position": 135, "weight": 0.0360723}, 
+                {"id": 6, "lemma": "맞", "type": "VV", "position": 139, "weight": 0.313551}, 
+                {"id": 7, "lemma": "지", "type": "EC", "position": 142, "weight": 0.301842}, 
+                {"id": 8, "lemma": "않", "type": "VX", "position": 146, "weight": 0.256301}, 
+                {"id": 9, "lemma": "는", "type": "ETM", "position": 149, "weight": 0.183966}, 
+                {"id": 10, "lemma": "일", "type": "NNG", "position": 153, "weight": 0.421798}, 
+                {"id": 11, "lemma": "이", "type": "JKS", "position": 156, "weight": 0.0360723}, 
+                {"id": 12, "lemma": "잦", "type": "VA", "position": 160, "weight": 0.23934}, 
+                {"id": 13, "lemma": "았", "type": "EP", "position": 163, "weight": 0.9}, 
+                {"id": 14, "lemma": "고", "type": "EC", "position": 166, "weight": 0.190901}, 
+                {"id": 15, "lemma": "결국", "type": "NNG", "position": 170, "weight": 0.219338}, 
+                {"id": 16, "lemma": "1794", "type": "SN", "position": 177, "weight": 1}, 
+                {"id": 17, "lemma": "년", "type": "NNB", "position": 181, "weight": 0.414343}, 
+                {"id": 18, "lemma": "에", "type": "JKB", "position": 184, "weight": 0.135559}, 
+                {"id": 19, "lemma": "전세", "type": "NNG", "position": 188, "weight": 0.9}, 
+                {"id": 20, "lemma": "가", "type": "JKS", "position": 194, "weight": 0.066324}, 
+                {"id": 21, "lemma": "호전", "type": "NNG", "position": 198, "weight": 0.9}, 
+                {"id": 22, "lemma": "되", "type": "XSV", "position": 204, "weight": 0.000224177}, 
+                {"id": 23, "lemma": "기", "type": "ETN", "position": 207, "weight": 0.0556099}, 
+                {"id": 24, "lemma": "시작", "type": "NNG", "position": 211, "weight": 0.9}, 
+                {"id": 25, "lemma": "하", "type": "XSV", "position": 217, "weight": 0.0001}, 
+                {"id": 26, "lemma": "자", "type": "EC", "position": 220, "weight": 0.161612}, 
+                {"id": 27, "lemma": "3", "type": "SN", "position": 224, "weight": 1}, 
+                {"id": 28, "lemma": "월", "type": "NNB", "position": 225, "weight": 0.408539}, 
+                {"id": 29, "lemma": "부터", "type": "JX", "position": 228, "weight": 0.105319}, 
+                {"id": 30, "lemma": "시작", "type": "NNG", "position": 235, "weight": 0.9}, 
+                {"id": 31, "lemma": "되", "type": "XSV", "position": 241, "weight": 0.000224177}, 
+                {"id": 32, "lemma": "ㄴ", "type": "ETM", "position": 241, "weight": 0.392321}, 
+                {"id": 33, "lemma": "혁명", "type": "NNG", "position": 245, "weight": 0.9}, 
+                {"id": 34, "lemma": "세력", "type": "NNG", "position": 252, "weight": 0.9}, 
+                {"id": 35, "lemma": "내", "type": "NNB", "position": 259, "weight": 0.00130296}, 
+                {"id": 36, "lemma": "의", "type": "JKG", "position": 262, "weight": 0.0520933}, 
+                {"id": 37, "lemma": "좌", "type": "NNG", "position": 266, "weight": 0.00021361}, 
+                {"id": 38, "lemma": ",", "type": "SP", "position": 269, "weight": 1}, 
+                {"id": 39, "lemma": "우파", "type": "NNG", "position": 271, "weight": 0.52623}, 
+                {"id": 40, "lemma": "에", "type": "JKB", "position": 277, "weight": 0.153364}, 
+                {"id": 41, "lemma": "대하", "type": "VV", "position": 281, "weight": 0.0312871}, 
+                {"id": 42, "lemma": "ㄴ", "type": "ETM", "position": 284, "weight": 0.392321}, 
+                {"id": 43, "lemma": "탄압", "type": "NNG", "position": 288, "weight": 0.9}, 
+                {"id": 44, "lemma": "중", "type": "NNB", "position": 295, "weight": 0.013531}, 
+                {"id": 45, "lemma": "에", "type": "JKB", "position": 298, "weight": 0.135559}, 
+                {"id": 46, "lemma": "\"", "type": "SS", "position": 302, "weight": 1}, 
+                {"id": 47, "lemma": "외국", "type": "NNG", "position": 303, "weight": 0.9}, 
+                {"id": 48, "lemma": "인", "type": "XSN", "position": 309, "weight": 0.0198339}, 
+                {"id": 49, "lemma": "과", "type": "JKB", "position": 312, "weight": 0.0399165}, 
+                {"id": 50, "lemma": "결탁", "type": "NNG", "position": 316, "weight": 0.9}, 
+                {"id": 51, "lemma": "하", "type": "XSV", "position": 322, "weight": 0.0001}, 
+                {"id": 52, "lemma": "여", "type": "EC", "position": 325, "weight": 0.361326}, 
+                {"id": 53, "lemma": "뇌물", "type": "NNG", "position": 329, "weight": 0.9}, 
+                {"id": 54, "lemma": "을", "type": "JKO", "position": 335, "weight": 0.129611}, 
+                {"id": 55, "lemma": "받", "type": "VV", "position": 339, "weight": 0.765648}, 
+                {"id": 56, "lemma": "고", "type": "EC", "position": 342, "weight": 0.416679}, 
+                {"id": 57, "lemma": "반", "type": "XPN", "position": 346, "weight": 0.000161185}, 
+                {"id": 58, "lemma": "혁명", "type": "NNG", "position": 349, "weight": 0.9}, 
+                {"id": 59, "lemma": "세력", "type": "NNG", "position": 356, "weight": 0.9}, 
+                {"id": 60, "lemma": "을", "type": "JKO", "position": 362, "weight": 0.129611}, 
+                {"id": 61, "lemma": "도와주", "type": "VV", "position": 366, "weight": 0.9}, 
+                {"id": 62, "lemma": "ㄴ", "type": "ETM", "position": 372, "weight": 0.304215}, 
+                {"id": 63, "lemma": "혐의", "type": "NNG", "position": 376, "weight": 0.9}, 
+                {"id": 64, "lemma": "\"", "type": "SS", "position": 382, "weight": 1}, 
+                {"id": 65, "lemma": "로", "type": "JKB", "position": 383, "weight": 0.0485504}, 
+                {"id": 66, "lemma": "혁명", "type": "NNG", "position": 387, "weight": 0.9}, 
+                {"id": 67, "lemma": "재판", "type": "NNG", "position": 394, "weight": 0.9}, 
+                {"id": 68, "lemma": "을", "type": "JKO", "position": 400, "weight": 0.129611}, 
+                {"id": 69, "lemma": "받", "type": "VV", "position": 404, "weight": 0.765648}, 
+                {"id": 70, "lemma": "고", "type": "EC", "position": 407, "weight": 0.416679}, 
+                {"id": 71, "lemma": "단두", "type": "NNG", "position": 411, "weight": 0.1}, 
+                {"id": 72, "lemma": "대", "type": "NNG", "position": 417, "weight": 0.0277971}, 
+                {"id": 73, "lemma": "에서", "type": "JKB", "position": 420, "weight": 0.153407}, 
+                {"id": 74, "lemma": "처형", "type": "NNG", "position": 427, "weight": 0.9}, 
+                {"id": 75, "lemma": "당하", "type": "XSV", "position": 433, "weight": 0.00121822}, 
+                {"id": 76, "lemma": "았", "type": "EP", "position": 436, "weight": 0.9}, 
+                {"id": 77, "lemma": "다", "type": "EF", "position": 439, "weight": 0.640954}, 
+                {"id": 78, "lemma": ".", "type": "SF", "position": 442, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "그러나", "type": "MAJ", "scode": "000100", "weight": 0.333333, "position": 99, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "로베스", "type": "NNP", "scode": "000000", "weight": 0, "position": 109, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "피에르", "type": "NNP", "scode": "000000", "weight": 0, "position": 119, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "와", "type": "JKB", "scode": "000000", "weight": 1, "position": 128, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "뜻", "type": "NNG", "scode": "000002", "weight": 0.333333, "position": 132, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 135, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "맞", "type": "VV", "scode": "010401", "weight": 0.05, "position": 139, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "지", "type": "EC", "scode": "000000", "weight": 1, "position": 142, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "않", "type": "VX", "scode": "000200", "weight": 0.333333, "position": 146, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 149, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "일", "type": "NNG", "scode": "010010", "weight": 0.04, "position": 153, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 156, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "잦", "type": "VA", "scode": "030002", "weight": 0.166667, "position": 160, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 163, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 166, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "결국", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 170, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "1794", "type": "SN", "scode": "000000", "weight": 1, "position": 177, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 181, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 184, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "전세", "type": "NNG", "scode": "080000", "weight": 0.1, "position": 188, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 194, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "호전되", "type": "VV", "scode": "010001", "weight": 0.333333, "position": 198, "begin": 21, "end": 22}, 
+                {"id": 22, "text": "기", "type": "ETN", "scode": "000000", "weight": 1, "position": 207, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "시작하", "type": "VV", "scode": "010001", "weight": 0.25, "position": 211, "begin": 24, "end": 25}, 
+                {"id": 24, "text": "자", "type": "EC", "scode": "000000", "weight": 1, "position": 220, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "3", "type": "SN", "scode": "000000", "weight": 1, "position": 224, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "월", "type": "NNB", "scode": "020100", "weight": 0.125, "position": 225, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "부터", "type": "JX", "scode": "000000", "weight": 1, "position": 228, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "시작되", "type": "VV", "scode": "010001", "weight": 0.333333, "position": 235, "begin": 30, "end": 31}, 
+                {"id": 29, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 241, "begin": 32, "end": 32}, 
+                {"id": 30, "text": "혁명", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 245, "begin": 33, "end": 33}, 
+                {"id": 31, "text": "세력", "type": "NNG", "scode": "000001", "weight": 0.25, "position": 252, "begin": 34, "end": 34}, 
+                {"id": 32, "text": "내", "type": "NNB", "scode": "090000", "weight": 0.0714286, "position": 259, "begin": 35, "end": 35}, 
+                {"id": 33, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 262, "begin": 36, "end": 36}, 
+                {"id": 34, "text": "좌", "type": "NNG", "scode": "010002", "weight": 0.1, "position": 266, "begin": 37, "end": 37}, 
+                {"id": 35, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 269, "begin": 38, "end": 38}, 
+                {"id": 36, "text": "우파", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 271, "begin": 39, "end": 39}, 
+                {"id": 37, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 277, "begin": 40, "end": 40}, 
+                {"id": 38, "text": "대하", "type": "VV", "scode": "020003", "weight": 0.25, "position": 281, "begin": 41, "end": 41}, 
+                {"id": 39, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 284, "begin": 42, "end": 42}, 
+                {"id": 40, "text": "탄압", "type": "NNG", "scode": "000000", "weight": 1, "position": 288, "begin": 43, "end": 43}, 
+                {"id": 41, "text": "중", "type": "NNB", "scode": "040102", "weight": 0.0526316, "position": 295, "begin": 44, "end": 44}, 
+                {"id": 42, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 298, "begin": 45, "end": 45}, 
+                {"id": 43, "text": "\"", "type": "SS", "scode": "000000", "weight": 1, "position": 302, "begin": 46, "end": 46}, 
+                {"id": 44, "text": "외국인", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 303, "begin": 47, "end": 48}, 
+                {"id": 45, "text": "과", "type": "JKB", "scode": "000000", "weight": 1, "position": 312, "begin": 49, "end": 49}, 
+                {"id": 46, "text": "결탁하", "type": "VV", "scode": "000002", "weight": 0.5, "position": 316, "begin": 50, "end": 51}, 
+                {"id": 47, "text": "여", "type": "EC", "scode": "000000", "weight": 1, "position": 325, "begin": 52, "end": 52}, 
+                {"id": 48, "text": "뇌물", "type": "NNG", "scode": "000000", "weight": 1, "position": 329, "begin": 53, "end": 53}, 
+                {"id": 49, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 335, "begin": 54, "end": 54}, 
+                {"id": 50, "text": "받", "type": "VV", "scode": "010101", "weight": 0.037037, "position": 339, "begin": 55, "end": 55}, 
+                {"id": 51, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 342, "begin": 56, "end": 56}, 
+                {"id": 52, "text": "반혁명", "type": "NNG", "scode": "000000", "weight": 1, "position": 346, "begin": 57, "end": 58}, 
+                {"id": 53, "text": "세력", "type": "NNG", "scode": "000001", "weight": 0.25, "position": 356, "begin": 59, "end": 59}, 
+                {"id": 54, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 362, "begin": 60, "end": 60}, 
+                {"id": 55, "text": "도와주", "type": "VV", "scode": "000000", "weight": 1, "position": 366, "begin": 61, "end": 61}, 
+                {"id": 56, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 372, "begin": 62, "end": 62}, 
+                {"id": 57, "text": "혐의", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 376, "begin": 63, "end": 63}, 
+                {"id": 58, "text": "\"", "type": "SS", "scode": "000000", "weight": 1, "position": 382, "begin": 64, "end": 64}, 
+                {"id": 59, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 383, "begin": 65, "end": 65}, 
+                {"id": 60, "text": "혁명", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 387, "begin": 66, "end": 66}, 
+                {"id": 61, "text": "재판", "type": "NNG", "scode": "060002", "weight": 0.111111, "position": 394, "begin": 67, "end": 67}, 
+                {"id": 62, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 400, "begin": 68, "end": 68}, 
+                {"id": 63, "text": "받", "type": "VV", "scode": "010103", "weight": 0.037037, "position": 404, "begin": 69, "end": 69}, 
+                {"id": 64, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 407, "begin": 70, "end": 70}, 
+                {"id": 65, "text": "단두대", "type": "NNG", "scode": "000000", "weight": 1, "position": 411, "begin": 71, "end": 72}, 
+                {"id": 66, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 420, "begin": 73, "end": 73}, 
+                {"id": 67, "text": "처형", "type": "NNG", "scode": "020002", "weight": 0.333333, "position": 427, "begin": 74, "end": 74}, 
+                {"id": 68, "text": "당하", "type": "XSV", "scode": "020000", "weight": 0.25, "position": 433, "begin": 75, "end": 75}, 
+                {"id": 69, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 436, "begin": 76, "end": 76}, 
+                {"id": 70, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 439, "begin": 77, "end": 77}, 
+                {"id": 71, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 442, "begin": 78, "end": 78}
+            ], 
+            "word": [
+                {"id": 0, "text": "그러나", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "로베스", "type": "", "begin": 1, "end": 1}, 
+                {"id": 2, "text": "피에르와", "type": "", "begin": 2, "end": 3}, 
+                {"id": 3, "text": "뜻이", "type": "", "begin": 4, "end": 5}, 
+                {"id": 4, "text": "맞지", "type": "", "begin": 6, "end": 7}, 
+                {"id": 5, "text": "않는", "type": "", "begin": 8, "end": 9}, 
+                {"id": 6, "text": "일이", "type": "", "begin": 10, "end": 11}, 
+                {"id": 7, "text": "잦았고", "type": "", "begin": 12, "end": 14}, 
+                {"id": 8, "text": "결국", "type": "", "begin": 15, "end": 15}, 
+                {"id": 9, "text": "1794년에", "type": "", "begin": 16, "end": 18}, 
+                {"id": 10, "text": "전세가", "type": "", "begin": 19, "end": 20}, 
+                {"id": 11, "text": "호전되기", "type": "", "begin": 21, "end": 23}, 
+                {"id": 12, "text": "시작하자", "type": "", "begin": 24, "end": 26}, 
+                {"id": 13, "text": "3월부터", "type": "", "begin": 27, "end": 29}, 
+                {"id": 14, "text": "시작된", "type": "", "begin": 30, "end": 32}, 
+                {"id": 15, "text": "혁명", "type": "", "begin": 33, "end": 33}, 
+                {"id": 16, "text": "세력", "type": "", "begin": 34, "end": 34}, 
+                {"id": 17, "text": "내의", "type": "", "begin": 35, "end": 36}, 
+                {"id": 18, "text": "좌,", "type": "", "begin": 37, "end": 38}, 
+                {"id": 19, "text": "우파에", "type": "", "begin": 39, "end": 40}, 
+                {"id": 20, "text": "대한", "type": "", "begin": 41, "end": 42}, 
+                {"id": 21, "text": "탄압", "type": "", "begin": 43, "end": 43}, 
+                {"id": 22, "text": "중에", "type": "", "begin": 44, "end": 45}, 
+                {"id": 23, "text": "\"외국인과", "type": "", "begin": 46, "end": 49}, 
+                {"id": 24, "text": "결탁하여", "type": "", "begin": 50, "end": 52}, 
+                {"id": 25, "text": "뇌물을", "type": "", "begin": 53, "end": 54}, 
+                {"id": 26, "text": "받고", "type": "", "begin": 55, "end": 56}, 
+                {"id": 27, "text": "반혁명", "type": "", "begin": 57, "end": 58}, 
+                {"id": 28, "text": "세력을", "type": "", "begin": 59, "end": 60}, 
+                {"id": 29, "text": "도와준", "type": "", "begin": 61, "end": 62}, 
+                {"id": 30, "text": "혐의\"로", "type": "", "begin": 63, "end": 65}, 
+                {"id": 31, "text": "혁명", "type": "", "begin": 66, "end": 66}, 
+                {"id": 32, "text": "재판을", "type": "", "begin": 67, "end": 68}, 
+                {"id": 33, "text": "받고", "type": "", "begin": 69, "end": 70}, 
+                {"id": 34, "text": "단두대에서", "type": "", "begin": 71, "end": 73}, 
+                {"id": 35, "text": "처형당했다.", "type": "", "begin": 74, "end": 78}
+            ], 
+            "NE": [
+                {"id": 0, "text": "로베스 피에르", "type": "PS_NAME", "begin": 1, "end": 2, "weight": 0.547887, "common_noun": 0}, 
+                {"id": 1, "text": "1794년", "type": "DT_YEAR", "begin": 16, "end": 17, "weight": 0.789921, "common_noun": 0}, 
+                {"id": 2, "text": "3월부터", "type": "DT_OTHERS", "begin": 27, "end": 29, "weight": 0.719564, "common_noun": 0}, 
+                {"id": 3, "text": "외국인", "type": "CV_POSITION", "begin": 47, "end": 48, "weight": 0.719564, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "그러나", "head": 7, "label": "AP", "mod": [], "weight": 0.315005}, 
+                {"id": 1, "text": "로베스", "head": 2, "label": "NP", "mod": [], "weight": 0.653378}, 
+                {"id": 2, "text": "피에르와", "head": 4, "label": "NP_AJT", "mod": [1], "weight": 0.348343}, 
+                {"id": 3, "text": "뜻이", "head": 4, "label": "NP_SBJ", "mod": [], "weight": 0.787992}, 
+                {"id": 4, "text": "맞지", "head": 5, "label": "VP", "mod": [2, 3], "weight": 0.70927}, 
+                {"id": 5, "text": "않는", "head": 6, "label": "VP_MOD", "mod": [4], "weight": 0.747803}, 
+                {"id": 6, "text": "일이", "head": 7, "label": "NP_SBJ", "mod": [5], "weight": 0.847367}, 
+                {"id": 7, "text": "잦았고", "head": 11, "label": "VP", "mod": [0, 6], "weight": 0.720223}, 
+                {"id": 8, "text": "결국", "head": 11, "label": "NP_AJT", "mod": [], "weight": 0.315033}, 
+                {"id": 9, "text": "1794년에", "head": 11, "label": "NP_AJT", "mod": [], "weight": 0.850121}, 
+                {"id": 10, "text": "전세가", "head": 11, "label": "NP_SBJ", "mod": [], "weight": 0.848744}, 
+                {"id": 11, "text": "호전되기", "head": 12, "label": "VP_OBJ", "mod": [7, 8, 9, 10], "weight": 0.482699}, 
+                {"id": 12, "text": "시작하자", "head": 33, "label": "VP", "mod": [11], "weight": 0.729701}, 
+                {"id": 13, "text": "3월부터", "head": 14, "label": "NP_AJT", "mod": [], "weight": 0.578663}, 
+                {"id": 14, "text": "시작된", "head": 21, "label": "VP_MOD", "mod": [13], "weight": 0.528417}, 
+                {"id": 15, "text": "혁명", "head": 16, "label": "NP", "mod": [], "weight": 0.839441}, 
+                {"id": 16, "text": "세력", "head": 17, "label": "NP", "mod": [15], "weight": 0.704972}, 
+                {"id": 17, "text": "내의", "head": 21, "label": "NP_MOD", "mod": [16], "weight": 0.0158638}, 
+                {"id": 18, "text": "좌,", "head": 19, "label": "NP_CNJ", "mod": [], "weight": 0.458774}, 
+                {"id": 19, "text": "우파에", "head": 20, "label": "NP_AJT", "mod": [18], "weight": 0.708092}, 
+                {"id": 20, "text": "대한", "head": 21, "label": "VP_MOD", "mod": [19], "weight": 0.590571}, 
+                {"id": 21, "text": "탄압", "head": 22, "label": "NP", "mod": [14, 20, 17], "weight": 0.8155}, 
+                {"id": 22, "text": "중에", "head": 33, "label": "NP_AJT", "mod": [21], "weight": 0.774628}, 
+                {"id": 23, "text": "\"외국인과", "head": 24, "label": "NP_AJT", "mod": [], "weight": 0.844361}, 
+                {"id": 24, "text": "결탁하여", "head": 26, "label": "VP", "mod": [23], "weight": 0.515565}, 
+                {"id": 25, "text": "뇌물을", "head": 26, "label": "NP_OBJ", "mod": [], "weight": 0.749357}, 
+                {"id": 26, "text": "받고", "head": 29, "label": "VP", "mod": [24, 25], "weight": 0.479297}, 
+                {"id": 27, "text": "반혁명", "head": 28, "label": "NP", "mod": [], "weight": 0.775818}, 
+                {"id": 28, "text": "세력을", "head": 29, "label": "NP_OBJ", "mod": [27], "weight": 0.659128}, 
+                {"id": 29, "text": "도와준", "head": 30, "label": "VP_MOD", "mod": [26, 28], "weight": 0.671043}, 
+                {"id": 30, "text": "혐의\"로", "head": 33, "label": "NP_AJT", "mod": [29], "weight": 0.696024}, 
+                {"id": 31, "text": "혁명", "head": 32, "label": "NP", "mod": [], "weight": 0.608551}, 
+                {"id": 32, "text": "재판을", "head": 33, "label": "NP_OBJ", "mod": [31], "weight": 0.752148}, 
+                {"id": 33, "text": "받고", "head": 35, "label": "VP", "mod": [12, 22, 30, 32], "weight": 0.829634}, 
+                {"id": 34, "text": "단두대에서", "head": 35, "label": "NP_AJT", "mod": [], "weight": 0.833005}, 
+                {"id": 35, "text": "처형당했다.", "head": -1, "label": "VP", "mod": [33, 34], "weight": 4.53973e-09}
+            ], 
+            "SRL": [
+                {"verb": "맞", "sense": 1, "word_id": 4, "weight": 0.204866, "argument": [
+                    {"type": "ARG2", "word_id": 2, "text": "피에르와", "weight": 0.127494}, 
+                    {"type": "ARG1", "word_id": 3, "text": "뜻이", "weight": 0.192716}, 
+                    {"type": "ARGM-NEG", "word_id": 5, "text": "않는", "weight": 0.29439}
+                ]}, 
+                {"verb": "잦", "sense": 1, "word_id": 7, "weight": 0.244228, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "일이", "weight": 0.244228}
+                ]}, 
+                {"verb": "호전", "sense": 1, "word_id": 11, "weight": 0.146762, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 9, "text": "1794년에", "weight": 0.158301}, 
+                    {"type": "ARG1", "word_id": 10, "text": "전세가", "weight": 0.135223}
+                ]}, 
+                {"verb": "시작", "sense": 1, "word_id": 12, "weight": 0.229618, "argument": [
+                    {"type": "ARG1", "word_id": 11, "text": "호전되기", "weight": 0.151935}
+                ]}, 
+                {"verb": "시작", "sense": 1, "word_id": 14, "weight": 0.152883, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 13, "text": "3월부터", "weight": 0.152883}, 
+                    {"type": "ARG1", "word_id": 21, "text": "탄압", "weight": 1}
+                ]}, 
+                {"verb": "대하", "sense": 1, "word_id": 20, "weight": 0.138151, "argument": [
+                    {"type": "ARG2", "word_id": 19, "text": "우파에", "weight": 0.104961}, 
+                    {"type": "ARG1", "word_id": 21, "text": "탄압", "weight": 0.17134}
+                ]}, 
+                {"verb": "결탁", "sense": 1, "word_id": 24, "weight": 0.107258, "argument": [
+                    {"type": "ARG1", "word_id": 23, "text": "\"외국인과", "weight": 0.107258}
+                ]}, 
+                {"verb": "받", "sense": 1, "word_id": 26, "weight": 0.224485, "argument": [
+                    {"type": "ARG1", "word_id": 25, "text": "뇌물을", "weight": 0.224485}
+                ]}, 
+                {"verb": "도와주", "sense": 1, "word_id": 29, "weight": 0.293231, "argument": [
+                    {"type": "ARG1", "word_id": 28, "text": "세력을", "weight": 0.293231}
+                ]}, 
+                {"verb": "받", "sense": 1, "word_id": 33, "weight": 0.179838, "argument": [
+                    {"type": "ARGM-CAU", "word_id": 30, "text": "혐의\"로", "weight": 0.0904982}, 
+                    {"type": "ARG1", "word_id": 32, "text": "재판을", "weight": 0.269177}, 
+                    {"type": "ARGM-CND", "word_id": 22, "text": "중에", "weight": 1}
+                ]}, 
+                {"verb": "처형", "sense": 1, "word_id": 35, "weight": 0.156989, "argument": [
+                    {"type": "ARGM-LOC", "word_id": 34, "text": "단두대에서", "weight": 0.159085}, 
+                    {"type": "ARGM-CAU", "word_id": 33, "text": "받고", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "1790년", "start_eid_short": 0, "end_eid_short": 0, "text_short": "1790년"}
+        ]}, 
+        {"id": 1, "type": "OGG_POLITICS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 1, "text": "자코뱅당에", "start_eid_short": 1, "end_eid_short": 1, "text_short": "자코뱅당에"}
+        ]}, 
+        {"id": 2, "type": "OGG_LAW", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 3, "end_eid": 4, "ne_id": 2, "text": "혁명 재판소를", "start_eid_short": 3, "end_eid_short": 4, "text_short": "혁명 재판소를"}
+        ]}, 
+        {"id": 3, "type": "OGG_POLITICS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": 3, "text": "왕당파를", "start_eid_short": 6, "end_eid_short": 6, "text_short": "왕당파를"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 1, "start_eid": 1, "end_eid": 6, "ne_id": -1, "text": "로베스 피에르와 뜻이 맞지 않는 일이", "start_eid_short": 6, "end_eid_short": 6, "text_short": "일이"}
+        ]}, 
+        {"id": 5, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 1, "end_eid": 2, "ne_id": 0, "text": "로베스 피에르와", "start_eid_short": 1, "end_eid_short": 2, "text_short": "로베스 피에르와"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "뜻이", "start_eid_short": 3, "end_eid_short": 3, "text_short": "뜻이"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "결국", "start_eid_short": 8, "end_eid_short": 8, "text_short": "결국"}
+        ]}, 
+        {"id": 8, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 9, "end_eid": 9, "ne_id": 1, "text": "1794년에", "start_eid_short": 9, "end_eid_short": 9, "text_short": "1794년에"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 10, "end_eid": 10, "ne_id": -1, "text": "전세가", "start_eid_short": 10, "end_eid_short": 10, "text_short": "전세가"}
+        ]}, 
+        {"id": 10, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 13, "end_eid": 13, "ne_id": 2, "text": "3월부터", "start_eid_short": 13, "end_eid_short": 13, "text_short": "3월부터"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 15, "end_eid": 16, "ne_id": -1, "text": "혁명 세력", "start_eid_short": 15, "end_eid_short": 16, "text_short": "혁명 세력"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 15, "end_eid": 15, "ne_id": -1, "text": "혁명", "start_eid_short": 15, "end_eid_short": 15, "text_short": "혁명"}, 
+            {"id": 20, "sent_id": 1, "start_eid": 31, "end_eid": 31, "ne_id": -1, "text": "혁명", "start_eid_short": 31, "end_eid_short": 31, "text_short": "혁명"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 18, "end_eid": 19, "ne_id": -1, "text": "좌, 우파에", "start_eid_short": 19, "end_eid_short": 19, "text_short": "우파에"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 13, "end_eid": 21, "ne_id": -1, "text": "3월부터 시작된 혁명 세력 내의 좌, 우파에 대한 탄압", "start_eid_short": 21, "end_eid_short": 21, "text_short": "탄압"}
+        ]}, 
+        {"id": 15, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 18, "sent_id": 1, "start_eid": 23, "end_eid": 30, "ne_id": 3, "text": "\"외국인과 결탁하여 뇌물을 받고 반혁명 세력을 도와준 혐의\"로", "start_eid_short": 30, "end_eid_short": 30, "text_short": "혐의\"로"}
+        ]}, 
+        {"id": 16, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 1, "start_eid": 31, "end_eid": 32, "ne_id": -1, "text": "혁명 재판을", "start_eid_short": 31, "end_eid_short": 32, "text_short": "혁명 재판을"}
+        ]}, 
+        {"id": 17, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 21, "sent_id": 1, "start_eid": 34, "end_eid": 34, "ne_id": -1, "text": "단두대에서", "start_eid_short": 34, "end_eid_short": 34, "text_short": "단두대에서"}
+        ]}, 
+        {"id": 18, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 15, "end_eid": 17, "ne_id": -1, "text": "혁명 세력 내의", "start_eid_short": 15, "end_eid_short": 17, "text_short": "혁명 세력 내의"}
+        ]}, 
+        {"id": 19, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 19, "end_eid": 19, "ne_id": -1, "text": "우파에", "start_eid_short": 19, "end_eid_short": 19, "text_short": "우파에"}
+        ]}, 
+        {"id": 20, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 1, "start_eid": 18, "end_eid": 18, "ne_id": -1, "text": "좌,", "start_eid_short": 18, "end_eid_short": 18, "text_short": "좌,"}
+        ]}
+    ]
+}

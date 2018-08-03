@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+대한민국(大韓民國, Republic of Korea), 또는 남한(南韓, South Korea)은 동아시아에 있는 나라이다. 남한은 한반도의 남쪽 절반을 차지하고 있으며 북쪽으로 북조선과 국경을 맞대고 있다. 서쪽으로 바다를 건너서는 중국이 있고 남동쪽 가까이 일본이 있다.
+
+여행지
+설악산 국립공원 — 네개의 시군의 경계에 분산되어 있으며 나라의 가장 유명한 국립공원이자 산지
+안동 — 공자의 전통이 풍부하며 거주되는 민속촌의 고향
+구인사 — 불교 천태종의 경이로운 본산
+판문점 — 세계에서 유일하게 냉전이 아직 현실인 여행지
+보성 — 녹차로 뒤덮힌 언덕에 가로수 산책로. 근처의 온천에서 차를 마시며 해수욕을 한다.
+여수 — 나라의 가장 그림 같은 항구도시 특히 야경이 뛰어나며 2012년 세계 엑스포를 주관하려고 추천되었다. 해물과 해변으로 유명하며, 한려 수도해상공원을 순항하거나 굉장한 돌산교 또는 근처 마리너스리조트에서 로맨틱한 카페에서 일몰을 감상한다.
+소매물도 — 경상남도의 해변에서 한시간 거리에 있는 섬 남록색의 바다로 둘러쌓인 아슬아슬한 광경
+진도 — 진도산 개로 대표되는 진도는 매년 바다구경과 축제 참여를 위해서 많은 사람들이 온다.
+울릉도 — 반도의 동해안에서 떨어져 있는 관광지
+
+출입국
+대한민국에는 부산(김해 국제공항), 청주, 대구, 제주, 무안, 서울(김포국제공항과 인천국제공항)에 7개의 국제공항이 있다.
+인천국제공항은 서울에서 서쪽으로 한 시간 거리에 있는 대한민국 최대의 공항이다. 전 세계와 연결되는 항공편이 많다. 논란은 있지만 세계에서 가장 잘 운영되고 잘 설계된 공항이라는 평이다.
+그러나, 밤 늦게 이 공항에 도착하면 강압적인 택시 운전사를 조심해야 한다. 이들은 호텔 셔틀버스 주위를 어슬렁거리며, 보통 요금의 3배를 요구하기도 한다. 국제선 도착층 밖에는 대한민국 전역의 많은 행선지로 향하는 공항버스들이 있다. 공항에서 티켓을 구입할 수 있다.
+
+인천공항 철도 교통
+2007년 3월 23일에 AREX(인천국제공항철도) 인천공항 - 김포공항 구간이, 2010년 12월 29일에 김포공항 - 서울역 구간이 개통되었다. 인천공항 교통센터 지하 1층 승강장에서 서울역행 직통, 일반열차 탑승이 가능하다. 현재 공항철도는 교통센터 지하 1층에서 트레블 센터를 운영중에 있으며, 다양한 서비스를 제공 중에 있다.
+일반열차는 인천국제공항역 ~ 서울역 구간의 모든 역에 정차하고 53분이 소요되며, 직통열차는 인천국제공항 ~ 서울역 구간의 모든 역을 통과하고 43분이 소요된다.
+운임은 인천국제공항역 ~ 서울역 구간의 경우 일반열차는 3,700원, 직통열차는 8,000원이다. 일반열차의 경우 수도권 대중교통 통합요금제에는 포함되어 있으나 영종도 구간(운서역 ~ 인천국제공항역)에서는 별도의 요금제를 적용한다. 공항철도를 이용하여 명동, 홍대입구 등 주요 관광지에 빠르게 접근할 수 있으며 또한,4인 이상 이용 시 그룹할인(6,000원/1인), 항공사 KTX 연계 등 다양한 할인제도(6900원/명)를 시행하고 있다.
+2008년 5월 27일 인천공항 탑승동 개통과 동시에 여객터미널 ~ 탑승동간 '셔틀트레인(Shuttle Train)'이 동시에 개통되었다. 평균시속 50㎞로, 3 ~ 5분 간격으로 운행된다. 탑승동까지 가는 데 약 1분 정도 소요된다.
+서울 지하철 9호선이 2012년에 인천국제공항역까지 직결하여 운행될 예정이었으나, 2014년 6월 현재 연기된 상태다.
+2014년 6월 30일부터 경의선에서 공항철도사이에 연결선을 건설하여 KTX를 인천국제공항역까지 직결하여 운행, 중간에 검암역에도 정차하고 있다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="대한민국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="35" end="37" text="남한" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="56" end="60" text="동아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="65" end="67" text="나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="71" end="73" text="남한" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="75" end="78" text="한반도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="101" end="104" text="북조선" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="123" end="125" text="바다" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="132" end="134" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="147" end="149" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="156" end="159" text="여행지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="160" end="168" text="설악산 국립공원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="175" end="177" text="시군" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="192" end="194" text="나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="203" end="207" text="국립공원" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="210" end="212" text="산지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="213" end="215" text="안동" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="244" end="247" text="구인사" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="263" end="265" text="본산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="266" end="269" text="판문점" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="297" end="299" text="보성" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="310" end="312" text="언덕" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="327" end="329" text="온천" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="348" end="350" text="여수" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="353" end="355" text="나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="414" end="416" text="해변" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="425" end="434" text="한려 수도해상공원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="456" end="463" text="마리너스리조트" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="471" end="473" text="카페" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="486" end="490" text="소매물도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="493" end="497" text="경상남도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="499" end="501" text="해변" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="515" end="516" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="522" end="524" text="바다" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="540" end="542" text="진도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="557" end="559" text="진도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="593" end="596" text="울릉도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="599" end="601" text="반도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="603" end="606" text="동해안" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="616" end="619" text="관광지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="625" end="629" text="대한민국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="632" end="634" text="부산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="635" end="642" text="김해 국제공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="645" end="647" text="청주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl46" start="649" end="651" text="대구" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl47" start="653" end="655" text="제주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl48" start="657" end="659" text="무안" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl49" start="661" end="663" text="서울" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl50" start="664" end="670" text="김포국제공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl51" start="672" end="678" text="인천국제공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl52" start="685" end="689" text="국제공항" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl53" start="695" end="701" text="인천국제공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl54" start="703" end="705" text="서울" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl55" start="725" end="729" text="대한민국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl56" start="734" end="736" text="공항" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="최대" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl57" start="789" end="791" text="공항" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl58" start="812" end="814" text="공항" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl60" start="892" end="895" text="도착층" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl62" start="912" end="915" text="행선지" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl63" start="932" end="934" text="공항" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl64" start="992" end="996" text="인천공항" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl65" start="999" end="1003" text="김포공항" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl66" start="1024" end="1028" text="김포공항" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl67" start="1031" end="1034" text="서울역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl68" start="1046" end="1050" text="인천공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl69" start="1051" end="1055" text="교통센터" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl70" start="1056" end="1061" text="지하 1층" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl71" start="1062" end="1065" text="승강장" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl72" start="1101" end="1105" text="교통센터" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl73" start="1106" end="1111" text="지하 1층" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl75" start="1157" end="1164" text="인천국제공항역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl76" start="1167" end="1170" text="서울역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl77" start="1178" end="1179" text="역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl78" start="1203" end="1209" text="인천국제공항" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl79" start="1212" end="1215" text="서울역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl80" start="1223" end="1224" text="역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl82" start="1246" end="1253" text="인천국제공항역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl83" start="1256" end="1259" text="서울역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl84" start="1339" end="1342" text="운서역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl85" start="1345" end="1352" text="인천국제공항역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl86" start="1383" end="1385" text="명동" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl87" start="1387" end="1391" text="홍대입구" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl88" start="1397" end="1400" text="관광지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl91" start="1518" end="1523" text="여객터미널" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl92" start="1526" end="1529" text="탑승동" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl93" start="1595" end="1598" text="탑승동" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl59" start="1639" end="1646" text="인천국제공항역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl81" start="1731" end="1738" text="인천국제공항역" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl94" start="1754" end="1757" text="검암역" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl96" start="83" end="85" text="절반" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl97" start="366" end="370" text="항구도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl95" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="118" />
+<PLACE id="pl99" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="323" />
+<PLACE id="pl100" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="410" />
+<PLACE id="pl74" start="1114" end="1120" text="트레블 센터" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl89" start="1501" end="1509" text="인천공항 탑승동" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="900" end="904" text="대한민국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="905" end="907" text="전역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="106" end="108" text="국경" beginID="" endID="" midIDs="" type="BOUNDARY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="179" end="181" text="경계" beginID="" endID="" midIDs="" type="BOUNDARY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="318" end="321" text="산책로" beginID="" endID="" midIDs="" type="ROAD" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="446" end="449" text="돌산교" beginID="" endID="" midIDs="" type="BRIDGE" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p4" start="952" end="959" text="인천공항 철도" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p5" start="977" end="981" text="AREX" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p6" start="982" end="990" text="인천국제공항철도" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p7" start="1004" end="1006" text="구간" beginID="pl64" endID="pl65" midIDs="" type="RAILWAY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p8" start="1035" end="1037" text="구간" beginID="pl66" endID="pl67" midIDs="" type="RAILWAY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p9" start="1171" end="1173" text="구간" beginID="pl75" endID="pl76" midIDs="" type="RAILWAY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p10" start="1216" end="1218" text="구간" beginID="pl78" endID="pl79" midIDs="" type="RAILWAY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p11" start="1260" end="1262" text="구간" beginID="pl82" endID="pl83" midIDs="" type="RAILWAY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p12" start="1332" end="1338" text="영종도 구간" beginID="pl84" endID="pl85" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p13" start="1620" end="1630" text="서울 지하철 9호선" beginID="" endID="pl59" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p14" start="1702" end="1705" text="경의선" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p15" start="1716" end="1719" text="연결선" beginID="p14" endID="p16" midIDs="" type="RAILWAY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p16" start="1708" end="1712" text="공항철도" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="584" end="587" text="사람들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="843" end="845" text="이들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="847" end="854" text="호텔 셔틀버스" type="VEHICLE" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="921" end="926" text="공항버스들" type="VEHICLE" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="1151" end="1155" text="일반열차" type="VEHICLE" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se6" start="1197" end="1201" text="직통열차" type="VEHICLE" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se7" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="410" />
+<SPATIAL_ENTITY id="se9" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="800" />
+<SPATIAL_ENTITY id="se10" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="1372" />
+<SPATIAL_ENTITY id="se11" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="1595" />
+<SPATIAL_ENTITY id="se12" start="1726" end="1729" text="KTX" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="589" end="590" text="온" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="816" end="819" text="도착하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="859" end="864" text="어슬렁거리" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="1181" end="1184" text="정차하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m5" start="1226" end="1229" text="통과하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m6" start="1406" end="1409" text="접근할" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m7" start="1760" end="1763" text="정차하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="1601" end="1602" text="가" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m8" start="436" end="439" text="순항하" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="60" end="61" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="96" end="98" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="110" end="112" text="맞대" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="118" end="120" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="139" end="142" text="남동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="181" end="182" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="453" end="455" text="근처" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="526" end="529" text="둘러쌓" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="679" end="680" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="708" end="710" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s14" start="1065" end="1067" text="에서" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s17" start="127" end="129" text="건너" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s18" start="312" end="313" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s20" start="609" end="612" text="떨어져" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="80" end="82" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s16" start="1712" end="1714" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s13" start="896" end="898" text="밖에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s15" start="1111" end="1113" text="에서" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s19" start="355" end="356" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s21" start="497" end="498" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s22" start="601" end="602" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s23" start="907" end="908" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="194" end="195" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms1" start="814" end="815" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="857" end="858" text="를" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="1224" end="1225" text="을" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="1179" end="1180" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms5" start="1372" end="1376" text="공항철도" motion_signal_type="MANNER" comment="" />
+<MOTION_SIGNAL id="ms6" start="1400" end="1401" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms7" start="1757" end="1758" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms0" start="1598" end="1600" text="까지" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms8" start="434" end="435" text="을" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="143" end="146" text="가까이" value="가까이" unit="" comment="" />
+<MEASURE id="me1" start="713" end="717" text="한 시간" value="한" unit="시간" comment="" />
+<MEASURE id="me2" start="323" end="325" text="근처" value="근처" unit="" comment="" />
+<MEASURE id="me3" start="855" end="857" text="주위" value="주위" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="70" text="대한민국(大韓民國, Republic of Korea), 또는 남한(南韓, South Korea)은 동아시아에 있는 나라이다." comment="" />
+<SENTENCE id="sent1" start="71" end="117" text="남한은 한반도의 남쪽 절반을 차지하고 있으며 북쪽으로 북조선과 국경을 맞대고 있다." comment="" />
+<SENTENCE id="sent2" start="118" end="154" text="서쪽으로 바다를 건너서는 중국이 있고 남동쪽 가까이 일본이 있다." comment="" />
+<SENTENCE id="sent3" start="156" end="159" text="여행지" comment="" />
+<SENTENCE id="sent4" start="160" end="212" text="설악산 국립공원 — 네개의 시군의 경계에 분산되어 있으며 나라의 가장 유명한 국립공원이자 산지" comment="" />
+<SENTENCE id="sent5" start="213" end="243" text="안동 — 공자의 전통이 풍부하며 거주되는 민속촌의 고향" comment="" />
+<SENTENCE id="sent6" start="244" end="265" text="구인사 — 불교 천태종의 경이로운 본산" comment="" />
+<SENTENCE id="sent7" start="266" end="296" text="판문점 — 세계에서 유일하게 냉전이 아직 현실인 여행지" comment="" />
+<SENTENCE id="sent8" start="297" end="322" text="보성 — 녹차로 뒤덮힌 언덕에 가로수 산책로." comment="" />
+<SENTENCE id="sent9" start="323" end="347" text="근처의 온천에서 차를 마시며 해수욕을 한다." comment="" />
+<SENTENCE id="sent10" start="348" end="409" text="여수 — 나라의 가장 그림 같은 항구도시 특히 야경이 뛰어나며 2012년 세계 엑스포를 주관하려고 추천되었다." comment="" />
+<SENTENCE id="sent11" start="410" end="485" text="해물과 해변으로 유명하며, 한려 수도해상공원을 순항하거나 굉장한 돌산교 또는 근처 마리너스리조트에서 로맨틱한 카페에서 일몰을 감상한다." comment="" />
+<SENTENCE id="sent12" start="486" end="539" text="소매물도 — 경상남도의 해변에서 한시간 거리에 있는 섬 남록색의 바다로 둘러쌓인 아슬아슬한 광경" comment="" />
+<SENTENCE id="sent13" start="540" end="592" text="진도 — 진도산 개로 대표되는 진도는 매년 바다구경과 축제 참여를 위해서 많은 사람들이 온다." comment="" />
+<SENTENCE id="sent14" start="593" end="619" text="울릉도 — 반도의 동해안에서 떨어져 있는 관광지" comment="" />
+<SENTENCE id="sent15" start="625" end="694" text="대한민국에는 부산(김해 국제공항), 청주, 대구, 제주, 무안, 서울(김포국제공항과 인천국제공항)에 7개의 국제공항이 있다." comment="" />
+<SENTENCE id="sent16" start="695" end="739" text="인천국제공항은 서울에서 서쪽으로 한 시간 거리에 있는 대한민국 최대의 공항이다." comment="" />
+<SENTENCE id="sent17" start="740" end="759" text="전 세계와 연결되는 항공편이 많다." comment="" />
+<SENTENCE id="sent18" start="760" end="799" text="논란은 있지만 세계에서 가장 잘 운영되고 잘 설계된 공항이라는 평이다." comment="" />
+<SENTENCE id="sent19" start="800" end="842" text="그러나, 밤 늦게 이 공항에 도착하면 강압적인 택시 운전사를 조심해야 한다." comment="" />
+<SENTENCE id="sent20" start="843" end="887" text="이들은 호텔 셔틀버스 주위를 어슬렁거리며, 보통 요금의 3배를 요구하기도 한다." comment="" />
+<SENTENCE id="sent21" start="888" end="931" text="국제선 도착층 밖에는 대한민국 전역의 많은 행선지로 향하는 공항버스들이 있다." comment="" />
+<SENTENCE id="sent22" start="932" end="950" text="공항에서 티켓을 구입할 수 있다." comment="" />
+<SENTENCE id="sent23" start="952" end="962" text="인천공항 철도 교통" comment="" />
+<SENTENCE id="sent24" start="963" end="1045" text="2007년 3월 23일에 AREX(인천국제공항철도) 인천공항 - 김포공항 구간이, 2010년 12월 29일에 김포공항 - 서울역 구간이 개통되었다." comment="" />
+<SENTENCE id="sent25" start="1046" end="1091" text="인천공항 교통센터 지하 1층 승강장에서 서울역행 직통, 일반열차 탑승이 가능하다." comment="" />
+<SENTENCE id="sent26" start="1092" end="1150" text="현재 공항철도는 교통센터 지하 1층에서 트레블 센터를 운영중에 있으며, 다양한 서비스를 제공 중에 있다." comment="" />
+<SENTENCE id="sent27" start="1151" end="1241" text="일반열차는 인천국제공항역 ~ 서울역 구간의 모든 역에 정차하고 53분이 소요되며, 직통열차는 인천국제공항 ~ 서울역 구간의 모든 역을 통과하고 43분이 소요된다." comment="" />
+<SENTENCE id="sent28" start="1242" end="1296" text="운임은 인천국제공항역 ~ 서울역 구간의 경우 일반열차는 3,700원, 직통열차는 8,000원이다." comment="" />
+<SENTENCE id="sent29" start="1297" end="1371" text="일반열차의 경우 수도권 대중교통 통합요금제에는 포함되어 있으나 영종도 구간(운서역 ~ 인천국제공항역)에서는 별도의 요금제를 적용한다." comment="" />
+<SENTENCE id="sent30" start="1372" end="1487" text="공항철도를 이용하여 명동, 홍대입구 등 주요 관광지에 빠르게 접근할 수 있으며 또한,4인 이상 이용 시 그룹할인(6,000원/1인), 항공사 KTX 연계 등 다양한 할인제도(6900원/명)를 시행하고 있다." comment="" />
+<SENTENCE id="sent31" start="1488" end="1565" text="2008년 5월 27일 인천공항 탑승동 개통과 동시에 여객터미널 ~ 탑승동간 '셔틀트레인(Shuttle Train)'이 동시에 개통되었다." comment="" />
+<SENTENCE id="sent32" start="1566" end="1594" text="평균시속 50㎞로, 3 ~ 5분 간격으로 운행된다." comment="" />
+<SENTENCE id="sent33" start="1595" end="1619" text="탑승동까지 가는 데 약 1분 정도 소요된다." comment="" />
+<SENTENCE id="sent34" start="1620" end="1686" text="서울 지하철 9호선이 2012년에 인천국제공항역까지 직결하여 운행될 예정이었으나, 2014년 6월 현재 연기된 상태다." comment="" />
+<SENTENCE id="sent35" start="1687" end="1768" text="2014년 6월 30일부터 경의선에서 공항철도사이에 연결선을 건설하여 KTX를 인천국제공항역까지 직결하여 운행, 중간에 검암역에도 정차하고 있다." comment="" />
+<QSLINK id="qsl0" fromID="pl3" fromText="나라" toID="pl2" toText="동아시아" relType="IN" trajector="pl3" landmark="pl2" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="pl4" fromText="남한" toID="pl6" toText="북조선" relType="EC" trajector="pl4" landmark="pl6" trigger="s3" comment="" />
+<QSLINK id="qsl2" fromID="pl95" fromText="" toID="pl8" toText="중국" relType="DC" trajector="pl95" landmark="pl8" trigger="s17" comment="" />
+<QSLINK id="qsl3" fromID="pl95" fromText="" toID="pl7" toText="바다" relType="OUT" trajector="pl95" landmark="pl7" trigger="s17" comment="" />
+<QSLINK id="qsl4" fromID="pl8" fromText="중국" toID="pl7" toText="바다" relType="OUT" trajector="pl8" landmark="pl7" trigger="s17" comment="" />
+<QSLINK id="qsl5" fromID="pl14" fromText="국립공원" toID="p1" toText="경계" relType="IN" trajector="pl14" landmark="p1" trigger="s6" comment="" />
+<QSLINK id="qsl6" fromID="pl15" fromText="산지" toID="p1" toText="경계" relType="IN" trajector="pl15" landmark="p1" trigger="s6" comment="" />
+<QSLINK id="qsl7" fromID="p2" fromText="산책로" toID="pl22" toText="언덕" relType="IN" trajector="p2" landmark="pl22" trigger="s18" comment="" />
+<QSLINK id="qsl9" fromID="pl29" fromText="마리너스리조트" toID="pl100" toText="" relType="OUT" trajector="pl29" landmark="pl100" trigger="s8" comment="" />
+<QSLINK id="qsl11" fromID="pl34" fromText="섬" toID="pl35" toText="바다" relType="NTPP" trajector="pl34" landmark="pl35" trigger="s9" comment="" />
+<QSLINK id="qsl13" fromID="pl41" fromText="관광지" toID="pl40" toText="동해안" relType="DC" trajector="pl41" landmark="pl40" trigger="s20" comment="" />
+<QSLINK id="qsl14" fromID="pl52" fromText="국제공항" toID="pl49" toText="서울" relType="NTPP" trajector="pl52" landmark="pl49" trigger="s10" comment="" />
+<QSLINK id="qsl15" fromID="pl52" fromText="국제공항" toID="pl48" toText="무안" relType="NTPP" trajector="pl52" landmark="pl48" trigger="s10" comment="" />
+<QSLINK id="qsl16" fromID="pl52" fromText="국제공항" toID="pl47" toText="제주" relType="NTPP" trajector="pl52" landmark="pl47" trigger="s10" comment="" />
+<QSLINK id="qsl17" fromID="pl52" fromText="국제공항" toID="pl46" toText="대구" relType="NTPP" trajector="pl52" landmark="pl46" trigger="s10" comment="" />
+<QSLINK id="qsl18" fromID="pl52" fromText="국제공항" toID="pl45" toText="청주" relType="NTPP" trajector="pl52" landmark="pl45" trigger="s10" comment="" />
+<QSLINK id="qsl19" fromID="pl52" fromText="국제공항" toID="pl43" toText="부산" relType="NTPP" trajector="pl52" landmark="pl43" trigger="s10" comment="" />
+<QSLINK id="qsl21" fromID="se3" fromText="공항버스들" toID="pl60" toText="도착층" relType="OUT" trajector="se3" landmark="pl60" trigger="s13" comment="" />
+<QSLINK id="qsl24" fromID="p16" fromText="공항철도" toID="p14" toText="경의선" relType="DC" trajector="pl16" landmark="pl14" trigger="s16" comment="" />
+<QSLINK id="qsl25" fromID="p16" fromText="공항철도" toID="p15" toText="연결선" relType="OUT" trajector="pl16" landmark="pl15" trigger="s16" comment="" />
+<QSLINK id="qsl26" fromID="p14" fromText="경의선" toID="p15" toText="연결선" relType="OUT" trajector="pl14" landmark="pl15" trigger="s16" comment="" />
+<QSLINK id="qsl27" fromID="pl38" fromText="울릉도" toID="pl40" toText="동해안" relType="DC" trajector="pl38" landmark="pl40" trigger="s20" comment="" />
+<QSLINK id="qsl28" fromID="pl74" fromText="트레블 센터" toID="pl73" toText="지하 1층" relType="NTPP" trajector="pl74" landmark="pl73" trigger="s15" comment="" />
+<QSLINK id="qsl23" fromID="pl97" fromText="항구도시" toID="pl25" toText="나라" relType="NTPP" trajector="pl97" landmark="pl25" trigger="s19" comment="" />
+<QSLINK id="qsl29" fromID="pl33" fromText="해변" toID="pl32" toText="경상남도" relType="NTPP" trajector="pl33" landmark="pl32" trigger="s21" comment="" />
+<QSLINK id="qsl30" fromID="pl40" fromText="동해안" toID="pl39" toText="반도" relType="NTPP" trajector="pl40" landmark="pl39" trigger="s22" comment="" />
+<QSLINK id="qsl31" fromID="pl62" fromText="행선지" toID="pl26" toText="전역" relType="NTPP" trajector="pl62" landmark="pl26" trigger="s23" comment="" />
+<QSLINK id="qsl32" fromID="pl14" fromText="국립공원" toID="pl13" toText="나라" relType="NTPP" trajector="pl14" landmark="pl13" trigger="s7" comment="" />
+<QSLINK id="qsl33" fromID="pl15" fromText="산지" toID="pl13" toText="나라" relType="NTPP" trajector="pl15" landmark="pl13" trigger="s7" comment="" />
+<OLINK id="ol0" fromID="pl96" fromText="절반" toID="pl5" toText="한반도" relType="남" trajector="pl96" landmark="pl5" trigger="s1" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl6" fromText="북조선" toID="pl5" toText="한반도" relType="북" trajector="pl6" landmark="pl5" trigger="s2" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl95" fromText="" toID="pl7" toText="바다" relType="서" trajector="pl95" landmark="pl7" trigger="s4" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl95" fromText="" toID="pl9" toText="일본" relType="남동" trajector="pl95" landmark="pl9" trigger="s5" frame_type="ABSOLUTE" referencePt="남동" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="pl56" fromText="공항" toID="pl54" toText="서울" relType="서" trajector="pl56" landmark="pl54" trigger="s11" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="pl4" fromText="남한" toID="pl5" toText="한반도" relType="남" trajector="pl4" landmark="pl5" trigger="s1" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol6" fromID="pl53" fromText="인천국제공항" toID="pl54" toText="서울" relType="서" trajector="pl53" landmark="pl54" trigger="s11" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="pl28" fromText="한려 수도해상공원" toID="m8" toText="순항하" trigger="m8" source="" goal="" midPoint="" mover="se7" landmark="pl28" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms8" comment="" />
+<MOVELINK id="mvl1" fromID="se2" fromText="호텔 셔틀버스" toID="m3" toText="어슬렁거리" trigger="m3" source="" goal="" midPoint="" mover="se1" landmark="se2" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl2" fromID="pl77" fromText="역" toID="m4" toText="정차하" trigger="m4" source="" goal="pl77" midPoint="" mover="se5" landmark="" goal_reached="YES" pathID="p9" motion_signalID="ms4" comment="" />
+<MOVELINK id="mvl3" fromID="pl80" fromText="역" toID="m5" toText="통과하" trigger="m5" source="pl78" goal="pl79" midPoint="pl8" mover="se6" landmark="" goal_reached="UNCERTAIN" pathID="p10" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl4" fromID="pl88" fromText="관광지" toID="m6" toText="접근할" trigger="m6" source="" goal="pl88" midPoint="" mover="se10" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms5,ms6" comment="" />
+<MOVELINK id="mvl5" fromID="pl93" fromText="탑승동" toID="m0" toText="가" trigger="m0" source="" goal="pl93" midPoint="" mover="se11" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl6" fromID="pl94" fromText="검암역" toID="m7" toText="정차하" trigger="m7" source="" goal="pl94" midPoint="" mover="se12" landmark="" goal_reached="YES" pathID="" motion_signalID="ms7" comment="" />
+<MOVELINK id="mvl7" fromID="pl58" fromText="공항" toID="m2" toText="도착하" trigger="m2" source="" goal="pl58" midPoint="" mover="se9" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MEASURELINK id="ml0" fromID="pl95" fromText="" toID="pl9" toText="일본" trajector="pl95 " landmark="pl9" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl54" fromText="서울" toID="pl56" toText="공항" trajector="pl56" landmark="pl54" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="pl23" fromText="온천" toID="pl99" toText="" trajector="pl23" landmark="pl99" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="me3" fromText="주위" toID="se1" toText="이들" trajector="se1" landmark="se2" relType="DISTANCE" val="me3" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

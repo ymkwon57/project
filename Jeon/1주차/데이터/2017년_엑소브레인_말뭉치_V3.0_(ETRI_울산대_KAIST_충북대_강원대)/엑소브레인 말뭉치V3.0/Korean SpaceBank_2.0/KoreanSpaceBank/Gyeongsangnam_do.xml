@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+경상남도(Gyeongsangnam-do, 慶尙南道)는 대한민국의 지역이다. 줄임말 경남(Gyeongnam, 이전에는 Kyungnam)이 사용된다.
+
+도시
+창원 - 경상남도 도청 소재지
+김해 부산의 동쪽의 성장하는 도시
+진주 - 진주성으로 유명한 잘 보존된 마을
+진해 마산과 창원으로 연결된 도시 벗꽃 축제로 유명
+마산 항구 도시 창원으로 통해있음.
+사천 공항이 있는 항구도시.
+통영 - 아름다운 항구도시 주변에 많은 도서로 둘러쌓여 있다.
+거제 - 대한민국 제2의 섬. 우아한 해변으로 유명.
+양산 - 부산 북쪽의 도시 지하철로 부산과 연결되어있다.
+밀양 밀양아리랑으로 알려진 소도시 KTX 역이 있다.
+
+카운티
+창녕 - 우포늪과 온천 양파로 유명
+함안 - 아라가야의 옛터 수박으로 유명
+남해 - 경상남도의 남서부에 자리한 큰 섬. 낙시와 관광으로 유명.
+거창 - 경상남도 북서부의 경계에 위치한 군 높은 봉우리의 산지.
+합천 - 해인사와 가야산 국립공원이 위치한 곳
+산청 - 대원사와 지리산 국립공원의 일부
+고성 - 공룡엑스포 2009를 주최하였다. 군내에 수많은 화석이 있다.
+함양 - 지리산 국립공원으로 가는 입구중의 하나가 있다.
+의령 - 함안과 진주 사이의 카운티.
+하동 - 야생 차 문화로 알려진 아름다운 농촌. 지리산 국립공원의 일부가 하동군내에 있다.
+
+기타 여행지
+가야산 국립공원 — 해인사가 자리한 한국의 3대 사원으로 세계문화유산이 있는 곳이다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="경상남도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="31" end="35" text="대한민국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="37" end="39" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="47" end="49" text="경남" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="84" end="86" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="87" end="89" text="창원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="104" end="106" text="김해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="107" end="109" text="부산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="120" end="122" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="123" end="125" text="진주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="128" end="131" text="진주성" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="144" end="146" text="마을" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="147" end="149" text="진해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="150" end="152" text="마산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="154" end="156" text="창원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="163" end="165" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="176" end="178" text="마산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="185" end="187" text="창원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="206" end="210" text="항구도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="212" end="214" text="통영" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="222" end="226" text="항구도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="234" end="236" text="도서" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="많은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="247" end="249" text="거제" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="252" end="256" text="대한민국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="261" end="262" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="277" end="279" text="양산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="282" end="284" text="부산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="289" end="291" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="297" end="299" text="부산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="309" end="311" text="밀양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="324" end="327" text="소도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="344" end="346" text="창녕" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="349" end="352" text="우포늪" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="364" end="366" text="함안" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl46" start="369" end="373" text="아라가야" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl47" start="375" end="377" text="옛터" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl48" start="386" end="388" text="남해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl49" start="391" end="395" text="경상남도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl50" start="408" end="409" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="큰" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl51" start="424" end="426" text="거창" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl52" start="429" end="433" text="경상남도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl53" start="447" end="448" text="군" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl54" start="452" end="455" text="봉우리" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="높은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl55" start="457" end="459" text="산지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl56" start="461" end="463" text="합천" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl57" start="466" end="469" text="해인사" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl60" start="485" end="486" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl61" start="487" end="489" text="산청" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl62" start="492" end="495" text="대원사" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl64" start="471" end="479" text="가야산 국립공원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl65" start="497" end="505" text="지리산 국립공원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl66" start="510" end="512" text="고성" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl68" start="550" end="552" text="함양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl69" start="555" end="563" text="지리산 국립공원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl70" start="582" end="584" text="의령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl71" start="587" end="589" text="함안" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl72" start="591" end="593" text="진주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl73" start="603" end="605" text="하동" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl75" start="630" end="638" text="지리산 국립공원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl76" start="644" end="647" text="하동군" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl79" start="662" end="670" text="가야산 국립공원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl80" start="673" end="676" text="해인사" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl81" start="682" end="684" text="한국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl83" start="705" end="706" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="100" end="103" text="소재지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="196" end="201" text="사천 공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl59" start="507" end="509" text="일부" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl63" start="598" end="601" text="카운티" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl77" start="340" end="343" text="카운티" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="603" />
+<PLACE id="pl23" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="264" />
+<PLACE id="pl24" start="640" end="642" text="일부" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="92" end="99" text="경상남도 도청" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="179" end="184" text="항구 도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="534" end="535" text="군" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="328" end="333" text="KTX 역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="268" end="270" text="해변" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="439" end="441" text="경계" beginID="" endID="" midIDs="" type="MARGIN" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="574" end="576" text="하나" beginID="" endID="" midIDs="" type="PASSAGE" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="542" end="544" text="화석" type="ARTIFACT" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="수많은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="566" end="567" text="가" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="111" end="113" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="238" end="241" text="둘러쌓" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="285" end="287" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="647" end="648" text="내" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="301" end="304" text="연결되" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s13" start="159" end="162" text="연결된" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="397" end="400" text="남서부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="434" end="437" text="북서부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="35" end="36" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="535" end="536" text="내" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="594" end="596" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="638" end="639" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="563" end="565" text="으로" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="227" end="229" text="주변" value="주변" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="42" text="경상남도(Gyeongsangnam-do, 慶尙南道)는 대한민국의 지역이다." comment="" />
+<SENTENCE id="sent1" start="43" end="82" text="줄임말 경남(Gyeongnam, 이전에는 Kyungnam)이 사용된다." comment="" />
+<SENTENCE id="sent2" start="84" end="86" text="도시" comment="" />
+<SENTENCE id="sent3" start="87" end="103" text="창원 - 경상남도 도청 소재지" comment="" />
+<SENTENCE id="sent4" start="104" end="122" text="김해 부산의 동쪽의 성장하는 도시" comment="" />
+<SENTENCE id="sent5" start="123" end="146" text="진주 - 진주성으로 유명한 잘 보존된 마을" comment="" />
+<SENTENCE id="sent6" start="147" end="175" text="진해 마산과 창원으로 연결된 도시 벗꽃 축제로 유명" comment="" />
+<SENTENCE id="sent7" start="176" end="195" text="마산 항구 도시 창원으로 통해있음." comment="" />
+<SENTENCE id="sent8" start="196" end="211" text="사천 공항이 있는 항구도시." comment="" />
+<SENTENCE id="sent9" start="212" end="246" text="통영 - 아름다운 항구도시 주변에 많은 도서로 둘러쌓여 있다." comment="" />
+<SENTENCE id="sent10" start="247" end="276" text="거제 - 대한민국 제2의 섬. 우아한 해변으로 유명." comment="" />
+<SENTENCE id="sent11" start="277" end="308" text="양산 - 부산 북쪽의 도시 지하철로 부산과 연결되어있다." comment="" />
+<SENTENCE id="sent12" start="309" end="338" text="밀양 밀양아리랑으로 알려진 소도시 KTX 역이 있다." comment="" />
+<SENTENCE id="sent13" start="340" end="343" text="카운티" comment="" />
+<SENTENCE id="sent14" start="344" end="363" text="창녕 - 우포늪과 온천 양파로 유명" comment="" />
+<SENTENCE id="sent15" start="364" end="385" text="함안 - 아라가야의 옛터 수박으로 유명" comment="" />
+<SENTENCE id="sent16" start="386" end="410" text="남해 - 경상남도의 남서부에 자리한 큰 섬." comment="" />
+<SENTENCE id="sent17" start="411" end="423" text="낙시와 관광으로 유명." comment="" />
+<SENTENCE id="sent18" start="424" end="448" text="거창 - 경상남도 북서부의 경계에 위치한 군" comment="" />
+<SENTENCE id="sent19" start="449" end="460" text="높은 봉우리의 산지." comment="" />
+<SENTENCE id="sent20" start="461" end="486" text="합천 - 해인사와 가야산 국립공원이 위치한 곳" comment="" />
+<SENTENCE id="sent21" start="487" end="509" text="산청 - 대원사와 지리산 국립공원의 일부" comment="" />
+<SENTENCE id="sent22" start="510" end="533" text="고성 - 공룡엑스포 2009를 주최하였다." comment="" />
+<SENTENCE id="sent23" start="534" end="549" text="군내에 수많은 화석이 있다." comment="" />
+<SENTENCE id="sent24" start="550" end="581" text="함양 - 지리산 국립공원으로 가는 입구중의 하나가 있다." comment="" />
+<SENTENCE id="sent25" start="582" end="602" text="의령 - 함안과 진주 사이의 카운티." comment="" />
+<SENTENCE id="sent26" start="603" end="629" text="하동 - 야생 차 문화로 알려진 아름다운 농촌." comment="" />
+<SENTENCE id="sent27" start="630" end="653" text="지리산 국립공원의 일부가 하동군내에 있다." comment="" />
+<SENTENCE id="sent28" start="655" end="661" text="기타 여행지" comment="" />
+<SENTENCE id="sent29" start="662" end="709" text="가야산 국립공원 — 해인사가 자리한 한국의 3대 사원으로 세계문화유산이 있는 곳이다." comment="" />
+<QSLINK id="qsl2" fromID="pl27" fromText="항구도시" toID="pl28" toText="도서" relType="OUT" trajector="pl27" landmark="pl26" trigger="s3" comment="" />
+<QSLINK id="qsl6" fromID="pl24" fromText="일부" toID="pl76" toText="하동군" relType="IN" trajector="pl24" landmark="pl76" trigger="s10" comment="" />
+<QSLINK id="qsl11" fromID="pl16" fromText="마산" toID="pl18" toText="도시" relType="EC" trajector="pl18" landmark="pl16" trigger="s13" comment="" />
+<QSLINK id="qsl12" fromID="pl17" fromText="창원" toID="pl18" toText="도시" relType="EC" trajector="pl18" landmark="pl17" trigger="s13" comment="" />
+<QSLINK id="qsl0" fromID="pl2" fromText="지역" toID="pl1" toText="대한민국" relType="NTPP" trajector="pl2" landmark="pl1" trigger="s0" comment="" />
+<QSLINK id="qsl9" fromID="pl35" fromText="도시" toID="pl37" toText="부산" relType="OUT" trajector="pl35" landmark="pl37" trigger="s12" comment="" />
+<QSLINK id="qsl10" fromID="pl33" fromText="양산" toID="pl37" toText="부산" relType="OUT" trajector="pl33" landmark="pl37" trigger="s12" comment="" />
+<QSLINK id="qsl15" fromID="se0" fromText="화석" toID="pl20" toText="군" relType="NTPP" trajector="se0" landmark="pl20" trigger="s7" comment="" />
+<QSLINK id="qsl16" fromID="pl63" fromText="카운티" toID="pl72" toText="진주" relType="OUT" trajector="pl63" landmark="pl72" trigger="s8" comment="" />
+<QSLINK id="qsl17" fromID="pl63" fromText="카운티" toID="pl71" toText="함안" relType="OUT" trajector="pl63" landmark="pl71" trigger="s8" comment="" />
+<QSLINK id="qsl18" fromID="pl70" fromText="의령" toID="pl72" toText="진주" relType="OUT" trajector="pl70" landmark="pl72" trigger="s8" comment="" />
+<QSLINK id="qsl20" fromID="pl72" fromText="진주" toID="pl71" toText="함안" relType="DC" trajector="pl72" landmark="pl71" trigger="s8" comment="" />
+<QSLINK id="qsl21" fromID="pl24" fromText="일부" toID="pl75" toText="지리산 국립공원" relType="IN" trajector="pl24" landmark="pl75" trigger="s9" comment="" />
+<OLINK id="ol0" fromID="pl10" fromText="부산" toID="pl11" toText="도시" relType="동" trajector="pl11" landmark="pl10" trigger="s1" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl34" fromText="부산" toID="pl35" toText="도시" relType="북" trajector="pl35" landmark="pl34" trigger="s4" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl49" fromText="경상남도" toID="pl50" toText="섬" relType="남서" trajector="pl50" landmark="pl49" trigger="s5" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl52" fromText="경상남도" toID="pl53" toText="군" relType="북서" trajector="pl53" landmark="pl52" trigger="s6" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="pl69" fromText="지리산 국립공원" toID="m0" toText="가" trigger="m0" source="" goal="pl69" midPoint="" mover="" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MEASURELINK id="ml0" fromID="pl28" fromText="도서" toID="pl27" toText="항구도시" trajector="pl28" landmark="pl27" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

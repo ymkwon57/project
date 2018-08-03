@@ -1,0 +1,180 @@
+{
+    "doc_id": "E2016.790.23_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "리사이클링", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "자원을 절약하고 환경 오염을 방지하기 위하여 불용품이나 폐물을 재생하여 이용하는 일.", 
+            "morp": [
+                {"id": 0, "lemma": "자원", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "을", "type": "JKO", "position": 6, "weight": 0.129611}, 
+                {"id": 2, "lemma": "절약", "type": "NNG", "position": 10, "weight": 0.9}, 
+                {"id": 3, "lemma": "하", "type": "XSV", "position": 16, "weight": 0.0001}, 
+                {"id": 4, "lemma": "고", "type": "EC", "position": 19, "weight": 0.359917}, 
+                {"id": 5, "lemma": "환경", "type": "NNG", "position": 23, "weight": 0.219385}, 
+                {"id": 6, "lemma": "오염", "type": "NNG", "position": 30, "weight": 0.9}, 
+                {"id": 7, "lemma": "을", "type": "JKO", "position": 36, "weight": 0.129611}, 
+                {"id": 8, "lemma": "방지", "type": "NNG", "position": 40, "weight": 0.9}, 
+                {"id": 9, "lemma": "하", "type": "XSV", "position": 46, "weight": 0.0001}, 
+                {"id": 10, "lemma": "기", "type": "ETN", "position": 49, "weight": 0.0556099}, 
+                {"id": 11, "lemma": "위하", "type": "VV", "position": 53, "weight": 0.176484}, 
+                {"id": 12, "lemma": "아", "type": "EC", "position": 59, "weight": 0.41831}, 
+                {"id": 13, "lemma": "불", "type": "XPN", "position": 63, "weight": 0.0001}, 
+                {"id": 14, "lemma": "용품", "type": "NNG", "position": 66, "weight": 0.9}, 
+                {"id": 15, "lemma": "이나", "type": "JC", "position": 72, "weight": 0.0238189}, 
+                {"id": 16, "lemma": "폐물", "type": "NNG", "position": 79, "weight": 0.9}, 
+                {"id": 17, "lemma": "을", "type": "JKO", "position": 85, "weight": 0.129611}, 
+                {"id": 18, "lemma": "재생", "type": "NNG", "position": 89, "weight": 0.9}, 
+                {"id": 19, "lemma": "하", "type": "XSV", "position": 95, "weight": 0.0001}, 
+                {"id": 20, "lemma": "아", "type": "EC", "position": 98, "weight": 0.361326}, 
+                {"id": 21, "lemma": "이용", "type": "NNG", "position": 102, "weight": 0.219037}, 
+                {"id": 22, "lemma": "하", "type": "XSV", "position": 108, "weight": 0.0001}, 
+                {"id": 23, "lemma": "는", "type": "ETM", "position": 111, "weight": 0}, 
+                {"id": 24, "lemma": "일", "type": "NNG", "position": 111, "weight": 0}, 
+                {"id": 25, "lemma": ".", "type": "SF", "position": 117, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "자원", "type": "NNG", "scode": "040001", "weight": 0.2, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "절약하", "type": "VV", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 3}, 
+                {"id": 3, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 19, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "환경", "type": "NNG", "scode": "020001", "weight": 0.25, "position": 23, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "오염", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 30, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 36, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "방지하", "type": "VV", "scode": "010000", "weight": 0.5, "position": 40, "begin": 8, "end": 9}, 
+                {"id": 8, "text": "기", "type": "ETN", "scode": "000000", "weight": 1, "position": 49, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "위하", "type": "VV", "scode": "010003", "weight": 0.25, "position": 53, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 59, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "불용품", "type": "NNG", "scode": "000000", "weight": 1, "position": 63, "begin": 13, "end": 14}, 
+                {"id": 12, "text": "이나", "type": "JC", "scode": "000000", "weight": 1, "position": 72, "begin": 15, "end": 15}, 
+                {"id": 13, "text": "폐물", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 79, "begin": 16, "end": 16}, 
+                {"id": 14, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 85, "begin": 17, "end": 17}, 
+                {"id": 15, "text": "재생하", "type": "VV", "scode": "000201", "weight": 0.1, "position": 89, "begin": 18, "end": 19}, 
+                {"id": 16, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 98, "begin": 20, "end": 20}, 
+                {"id": 17, "text": "이용하", "type": "VV", "scode": "010001", "weight": 0.333333, "position": 102, "begin": 21, "end": 22}, 
+                {"id": 18, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 111, "begin": 23, "end": 23}, 
+                {"id": 19, "text": "일", "type": "NNG", "scode": "010010", "weight": 0.04, "position": 111, "begin": 24, "end": 24}, 
+                {"id": 20, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 117, "begin": 25, "end": 25}
+            ], 
+            "word": [
+                {"id": 0, "text": "자원을", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "절약하고", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "환경", "type": "", "begin": 5, "end": 5}, 
+                {"id": 3, "text": "오염을", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "방지하기", "type": "", "begin": 8, "end": 10}, 
+                {"id": 5, "text": "위하여", "type": "", "begin": 11, "end": 12}, 
+                {"id": 6, "text": "불용품이나", "type": "", "begin": 13, "end": 15}, 
+                {"id": 7, "text": "폐물을", "type": "", "begin": 16, "end": 17}, 
+                {"id": 8, "text": "재생하여", "type": "", "begin": 18, "end": 20}, 
+                {"id": 9, "text": "이용하는", "type": "", "begin": 21, "end": 23}, 
+                {"id": 10, "text": "일.", "type": "", "begin": 24, "end": 25}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "자원을", "head": 1, "label": "NP_OBJ", "mod": [], "weight": 0.85716}, 
+                {"id": 1, "text": "절약하고", "head": 4, "label": "VP", "mod": [0], "weight": 0.807751}, 
+                {"id": 2, "text": "환경", "head": 3, "label": "NP", "mod": [], "weight": 0.748638}, 
+                {"id": 3, "text": "오염을", "head": 4, "label": "NP_OBJ", "mod": [2], "weight": 0.779288}, 
+                {"id": 4, "text": "방지하기", "head": 5, "label": "VP_OBJ", "mod": [1, 3], "weight": 0.723832}, 
+                {"id": 5, "text": "위하여", "head": 8, "label": "VP", "mod": [4], "weight": 0.674185}, 
+                {"id": 6, "text": "불용품이나", "head": 7, "label": "NP_CNJ", "mod": [], "weight": 0.768495}, 
+                {"id": 7, "text": "폐물을", "head": 8, "label": "NP_OBJ", "mod": [6], "weight": 0.774241}, 
+                {"id": 8, "text": "재생하여", "head": 9, "label": "VP", "mod": [5, 7], "weight": 0.748203}, 
+                {"id": 9, "text": "이용하는", "head": 10, "label": "VP_MOD", "mod": [8], "weight": 0.808526}, 
+                {"id": 10, "text": "일.", "head": -1, "label": "NP", "mod": [9], "weight": 0.0527808}
+            ], 
+            "SRL": [
+                {"verb": "절약", "sense": 1, "word_id": 1, "weight": 0.456953, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "자원을", "weight": 0.456953}
+                ]}, 
+                {"verb": "방지", "sense": 1, "word_id": 4, "weight": 0.416263, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "오염을", "weight": 0.416263}
+                ]}, 
+                {"verb": "위하", "sense": 1, "word_id": 5, "weight": 0.374463, "argument": [
+                    {"type": "ARG1", "word_id": 4, "text": "방지하기", "weight": 0.374463}
+                ]}, 
+                {"verb": "재생", "sense": 1, "word_id": 8, "weight": 0.323656, "argument": [
+                    {"type": "ARGM-PRP", "word_id": 5, "text": "위하여", "weight": 0.230091}, 
+                    {"type": "ARG1", "word_id": 7, "text": "폐물을", "weight": 0.417222}
+                ]}, 
+                {"verb": "이용", "sense": 1, "word_id": 9, "weight": 0.236949, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "폐물을", "weight": 0.258039}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "‘재활용’으로 순화.", 
+            "morp": [
+                {"id": 0, "lemma": "‘", "type": "SS", "position": 118, "weight": 1}, 
+                {"id": 1, "lemma": "재", "type": "XPN", "position": 121, "weight": 0.000648477}, 
+                {"id": 2, "lemma": "활용", "type": "NNG", "position": 124, "weight": 0.9}, 
+                {"id": 3, "lemma": "’", "type": "SS", "position": 130, "weight": 1}, 
+                {"id": 4, "lemma": "으로", "type": "JKB", "position": 133, "weight": 0.0486063}, 
+                {"id": 5, "lemma": "순화", "type": "NNG", "position": 140, "weight": 0.207974}, 
+                {"id": 6, "lemma": ".", "type": "SF", "position": 146, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "‘", "type": "SS", "scode": "000000", "weight": 1, "position": 118, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "재활용", "type": "NNG", "scode": "000000", "weight": 1, "position": 121, "begin": 1, "end": 2}, 
+                {"id": 2, "text": "’", "type": "SS", "scode": "000000", "weight": 1, "position": 130, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 133, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "순화", "type": "NNG", "scode": "080002", "weight": 0.0833333, "position": 140, "begin": 5, "end": 5}, 
+                {"id": 5, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 146, "begin": 6, "end": 6}
+            ], 
+            "word": [
+                {"id": 0, "text": "‘재활용’으로", "type": "", "begin": 0, "end": 4}, 
+                {"id": 1, "text": "순화.", "type": "", "begin": 5, "end": 6}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "‘재활용’으로", "head": 1, "label": "NP_AJT", "mod": [], "weight": 0.804625}, 
+                {"id": 1, "text": "순화.", "head": -1, "label": "NP", "mod": [0], "weight": 0.66948}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "자원을", "start_eid_short": 0, "end_eid_short": 0, "text_short": "자원을"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 2, "end_eid": 3, "ne_id": -1, "text": "환경 오염을", "start_eid_short": 2, "end_eid_short": 3, "text_short": "환경 오염을"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "환경", "start_eid_short": 2, "end_eid_short": 2, "text_short": "환경"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 6, "end_eid": 7, "ne_id": -1, "text": "불용품이나 폐물을", "start_eid_short": 7, "end_eid_short": 7, "text_short": "폐물을"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "불용품이나", "start_eid_short": 6, "end_eid_short": 6, "text_short": "불용품이나"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "폐물을", "start_eid_short": 7, "end_eid_short": 7, "text_short": "폐물을"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 10, "ne_id": -1, "text": "자원을 절약하고 환경 오염을 방지하기 위하여 불용품이나 폐물을 재생하여 이용하는 일.", "start_eid_short": 8, "end_eid_short": 10, "text_short": "재생하여 이용하는 일."}, 
+            {"id": 7, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "‘재활용’으로", "start_eid_short": 0, "end_eid_short": 0, "text_short": "‘재활용’으로"}
+        ]}
+    ]
+}

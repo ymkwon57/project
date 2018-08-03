@@ -1,0 +1,287 @@
+{
+    "doc_id": "E2016.836.04_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "소우 지역", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "세계적으로는 사하라 사막 · 아라비아 사막 등과 같은 아열대 고압대에 위치한 사막과 중앙 아시아의 타클라마칸 사막 · 고비 사막 등과 같은 대륙 내부의 사막이 연 강수량 250㎜ 미만의 소우 지역에 속한다.", 
+            "morp": [
+                {"id": 0, "lemma": "세계", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "적", "type": "XSN", "position": 6, "weight": 0.0168756}, 
+                {"id": 2, "lemma": "으로", "type": "JKB", "position": 9, "weight": 0.121717}, 
+                {"id": 3, "lemma": "는", "type": "JX", "position": 15, "weight": 0.0387928}, 
+                {"id": 4, "lemma": "사하라", "type": "NNP", "position": 19, "weight": 0.9}, 
+                {"id": 5, "lemma": "사막", "type": "NNG", "position": 29, "weight": 0.9}, 
+                {"id": 6, "lemma": "·", "type": "SP", "position": 36, "weight": 1}, 
+                {"id": 7, "lemma": "아라비아", "type": "NNP", "position": 39, "weight": 0.9}, 
+                {"id": 8, "lemma": "사막", "type": "NNG", "position": 52, "weight": 0.9}, 
+                {"id": 9, "lemma": "등", "type": "NNB", "position": 59, "weight": 0.0146757}, 
+                {"id": 10, "lemma": "과", "type": "JKB", "position": 62, "weight": 0.0444681}, 
+                {"id": 11, "lemma": "같", "type": "VA", "position": 66, "weight": 0.0728396}, 
+                {"id": 12, "lemma": "은", "type": "ETM", "position": 69, "weight": 0.155123}, 
+                {"id": 13, "lemma": "아열대", "type": "NNG", "position": 73, "weight": 0.000564134}, 
+                {"id": 14, "lemma": "고압", "type": "NNG", "position": 83, "weight": 0.9}, 
+                {"id": 15, "lemma": "대", "type": "XSN", "position": 89, "weight": 0.00126276}, 
+                {"id": 16, "lemma": "에", "type": "JKB", "position": 92, "weight": 0.121683}, 
+                {"id": 17, "lemma": "위치", "type": "NNG", "position": 96, "weight": 0.207864}, 
+                {"id": 18, "lemma": "하", "type": "XSV", "position": 102, "weight": 0.0001}, 
+                {"id": 19, "lemma": "ㄴ", "type": "ETM", "position": 102, "weight": 0.392321}, 
+                {"id": 20, "lemma": "사막", "type": "NNG", "position": 106, "weight": 0.9}, 
+                {"id": 21, "lemma": "과", "type": "JC", "position": 112, "weight": 0.017569}, 
+                {"id": 22, "lemma": "중앙", "type": "NNG", "position": 116, "weight": 0.787253}, 
+                {"id": 23, "lemma": "아시아", "type": "NNP", "position": 123, "weight": 0.00706953}, 
+                {"id": 24, "lemma": "의", "type": "JKG", "position": 132, "weight": 0.0987295}, 
+                {"id": 25, "lemma": "타클라마칸", "type": "NNP", "position": 136, "weight": 0.4}, 
+                {"id": 26, "lemma": "사막", "type": "NNG", "position": 152, "weight": 0.9}, 
+                {"id": 27, "lemma": "·", "type": "SP", "position": 159, "weight": 1}, 
+                {"id": 28, "lemma": "고비", "type": "NNP", "position": 162, "weight": 0.524755}, 
+                {"id": 29, "lemma": "사막", "type": "NNG", "position": 169, "weight": 0.9}, 
+                {"id": 30, "lemma": "등", "type": "NNB", "position": 176, "weight": 0.0146757}, 
+                {"id": 31, "lemma": "과", "type": "JKB", "position": 179, "weight": 0.0444681}, 
+                {"id": 32, "lemma": "같", "type": "VA", "position": 183, "weight": 0.0728396}, 
+                {"id": 33, "lemma": "은", "type": "ETM", "position": 186, "weight": 0.155123}, 
+                {"id": 34, "lemma": "대륙", "type": "NNG", "position": 190, "weight": 0.9}, 
+                {"id": 35, "lemma": "내부", "type": "NNG", "position": 197, "weight": 0.9}, 
+                {"id": 36, "lemma": "의", "type": "JKG", "position": 203, "weight": 0.0694213}, 
+                {"id": 37, "lemma": "사막", "type": "NNG", "position": 207, "weight": 0.9}, 
+                {"id": 38, "lemma": "이", "type": "JKS", "position": 213, "weight": 0.0360723}, 
+                {"id": 39, "lemma": "연", "type": "NNG", "position": 217, "weight": 0.182809}, 
+                {"id": 40, "lemma": "강수", "type": "NNG", "position": 221, "weight": 0.133257}, 
+                {"id": 41, "lemma": "량", "type": "NNG", "position": 227, "weight": 0.17275}, 
+                {"id": 42, "lemma": "250", "type": "SN", "position": 231, "weight": 1}, 
+                {"id": 43, "lemma": "㎜", "type": "SW", "position": 234, "weight": 1}, 
+                {"id": 44, "lemma": "미만", "type": "NNG", "position": 238, "weight": 0.9}, 
+                {"id": 45, "lemma": "의", "type": "JKG", "position": 244, "weight": 0.0694213}, 
+                {"id": 46, "lemma": "소우", "type": "NNG", "position": 248, "weight": 0.363101}, 
+                {"id": 47, "lemma": "지역", "type": "NNG", "position": 255, "weight": 0.9}, 
+                {"id": 48, "lemma": "에", "type": "JKB", "position": 261, "weight": 0.153364}, 
+                {"id": 49, "lemma": "속하", "type": "VV", "position": 265, "weight": 0.205064}, 
+                {"id": 50, "lemma": "ㄴ다", "type": "EF", "position": 268, "weight": 0.0449045}, 
+                {"id": 51, "lemma": ".", "type": "SF", "position": 274, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "세계적", "type": "NNG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 9, "begin": 2, "end": 2}, 
+                {"id": 2, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 15, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "사하라", "type": "NNP", "scode": "000000", "weight": 0, "position": 19, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "사막", "type": "NNG", "scode": "040000", "weight": 0.166667, "position": 29, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "·", "type": "SP", "scode": "000000", "weight": 1, "position": 36, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "아라비아", "type": "NNP", "scode": "000000", "weight": 1, "position": 39, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "사막", "type": "NNG", "scode": "040000", "weight": 0.166667, "position": 52, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 59, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "과", "type": "JKB", "scode": "000000", "weight": 1, "position": 62, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "같", "type": "VA", "scode": "000202", "weight": 0.125, "position": 66, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 69, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "아열대", "type": "NNG", "scode": "000000", "weight": 1, "position": 73, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "고압", "type": "NNG", "scode": "000004", "weight": 0.2, "position": 83, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "대", "type": "XSN", "scode": "190001", "weight": 0.0232558, "position": 89, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 92, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "위치하", "type": "VV", "scode": "000000", "weight": 1, "position": 96, "begin": 17, "end": 18}, 
+                {"id": 17, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 102, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "사막", "type": "NNG", "scode": "040000", "weight": 0.166667, "position": 106, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 112, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "중앙", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 116, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "아시아", "type": "NNP", "scode": "000001", "weight": 0.5, "position": 123, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 132, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "타클라마칸", "type": "NNP", "scode": "000000", "weight": 0, "position": 136, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "사막", "type": "NNG", "scode": "040000", "weight": 0.166667, "position": 152, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "·", "type": "SP", "scode": "000000", "weight": 1, "position": 159, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "고비", "type": "NNP", "scode": "000000", "weight": 0.0555556, "position": 162, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "사막", "type": "NNG", "scode": "040000", "weight": 0.166667, "position": 169, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 176, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "과", "type": "JKB", "scode": "000000", "weight": 1, "position": 179, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "같", "type": "VA", "scode": "000202", "weight": 0.125, "position": 183, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 186, "begin": 33, "end": 33}, 
+                {"id": 32, "text": "대륙", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 190, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "내부", "type": "NNG", "scode": "040001", "weight": 0.0833333, "position": 197, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 203, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "사막", "type": "NNG", "scode": "040000", "weight": 0.166667, "position": 207, "begin": 37, "end": 37}, 
+                {"id": 36, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 213, "begin": 38, "end": 38}, 
+                {"id": 37, "text": "연", "type": "NNG", "scode": "020000", "weight": 0.030303, "position": 217, "begin": 39, "end": 39}, 
+                {"id": 38, "text": "강수량", "type": "NNG", "scode": "000000", "weight": 1, "position": 221, "begin": 40, "end": 41}, 
+                {"id": 39, "text": "250", "type": "SN", "scode": "000000", "weight": 1, "position": 231, "begin": 42, "end": 42}, 
+                {"id": 40, "text": "㎜", "type": "SW", "scode": "000000", "weight": 1, "position": 234, "begin": 43, "end": 43}, 
+                {"id": 41, "text": "미만", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 238, "begin": 44, "end": 44}, 
+                {"id": 42, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 244, "begin": 45, "end": 45}, 
+                {"id": 43, "text": "소우", "type": "NNG", "scode": "010000", "weight": 0.2, "position": 248, "begin": 46, "end": 46}, 
+                {"id": 44, "text": "지역", "type": "NNG", "scode": "030001", "weight": 0.2, "position": 255, "begin": 47, "end": 47}, 
+                {"id": 45, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 261, "begin": 48, "end": 48}, 
+                {"id": 46, "text": "속하", "type": "VV", "scode": "020001", "weight": 0.25, "position": 265, "begin": 49, "end": 49}, 
+                {"id": 47, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 268, "begin": 50, "end": 50}, 
+                {"id": 48, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 274, "begin": 51, "end": 51}
+            ], 
+            "word": [
+                {"id": 0, "text": "세계적으로는", "type": "", "begin": 0, "end": 3}, 
+                {"id": 1, "text": "사하라", "type": "", "begin": 4, "end": 4}, 
+                {"id": 2, "text": "사막", "type": "", "begin": 5, "end": 5}, 
+                {"id": 3, "text": "·", "type": "", "begin": 6, "end": 6}, 
+                {"id": 4, "text": "아라비아", "type": "", "begin": 7, "end": 7}, 
+                {"id": 5, "text": "사막", "type": "", "begin": 8, "end": 8}, 
+                {"id": 6, "text": "등과", "type": "", "begin": 9, "end": 10}, 
+                {"id": 7, "text": "같은", "type": "", "begin": 11, "end": 12}, 
+                {"id": 8, "text": "아열대", "type": "", "begin": 13, "end": 13}, 
+                {"id": 9, "text": "고압대에", "type": "", "begin": 14, "end": 16}, 
+                {"id": 10, "text": "위치한", "type": "", "begin": 17, "end": 19}, 
+                {"id": 11, "text": "사막과", "type": "", "begin": 20, "end": 21}, 
+                {"id": 12, "text": "중앙", "type": "", "begin": 22, "end": 22}, 
+                {"id": 13, "text": "아시아의", "type": "", "begin": 23, "end": 24}, 
+                {"id": 14, "text": "타클라마칸", "type": "", "begin": 25, "end": 25}, 
+                {"id": 15, "text": "사막", "type": "", "begin": 26, "end": 26}, 
+                {"id": 16, "text": "·", "type": "", "begin": 27, "end": 27}, 
+                {"id": 17, "text": "고비", "type": "", "begin": 28, "end": 28}, 
+                {"id": 18, "text": "사막", "type": "", "begin": 29, "end": 29}, 
+                {"id": 19, "text": "등과", "type": "", "begin": 30, "end": 31}, 
+                {"id": 20, "text": "같은", "type": "", "begin": 32, "end": 33}, 
+                {"id": 21, "text": "대륙", "type": "", "begin": 34, "end": 34}, 
+                {"id": 22, "text": "내부의", "type": "", "begin": 35, "end": 36}, 
+                {"id": 23, "text": "사막이", "type": "", "begin": 37, "end": 38}, 
+                {"id": 24, "text": "연", "type": "", "begin": 39, "end": 39}, 
+                {"id": 25, "text": "강수량", "type": "", "begin": 40, "end": 41}, 
+                {"id": 26, "text": "250㎜", "type": "", "begin": 42, "end": 43}, 
+                {"id": 27, "text": "미만의", "type": "", "begin": 44, "end": 45}, 
+                {"id": 28, "text": "소우", "type": "", "begin": 46, "end": 46}, 
+                {"id": 29, "text": "지역에", "type": "", "begin": 47, "end": 48}, 
+                {"id": 30, "text": "속한다.", "type": "", "begin": 49, "end": 51}
+            ], 
+            "NE": [
+                {"id": 0, "text": "사하라 사막", "type": "LC_OTHERS", "begin": 4, "end": 5, "weight": 0.739489, "common_noun": 0}, 
+                {"id": 1, "text": "아라비아 사막", "type": "LC_OTHERS", "begin": 7, "end": 8, "weight": 0.468108, "common_noun": 0}, 
+                {"id": 2, "text": "아열대", "type": "TM_CLIMATE", "begin": 13, "end": 13, "weight": 0.461708, "common_noun": 0}, 
+                {"id": 3, "text": "중앙 아시아", "type": "LCG_CONTINENT", "begin": 22, "end": 23, "weight": 0.242039, "common_noun": 0}, 
+                {"id": 4, "text": "타클라마칸 사막", "type": "LC_OTHERS", "begin": 25, "end": 26, "weight": 0.612182, "common_noun": 0}, 
+                {"id": 5, "text": "고비 사막", "type": "LC_OTHERS", "begin": 28, "end": 29, "weight": 0.413998, "common_noun": 0}, 
+                {"id": 6, "text": "250㎜ 미만", "type": "QT_LENGTH", "begin": 42, "end": 44, "weight": 0.550017, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "세계적으로는", "head": 30, "label": "NP_AJT", "mod": [], "weight": 0.666399}, 
+                {"id": 1, "text": "사하라", "head": 2, "label": "NP", "mod": [], "weight": 0.520022}, 
+                {"id": 2, "text": "사막", "head": 3, "label": "NP", "mod": [1], "weight": 0.87687}, 
+                {"id": 3, "text": "·", "head": 5, "label": "X_CNJ", "mod": [2], "weight": 0.137203}, 
+                {"id": 4, "text": "아라비아", "head": 5, "label": "NP", "mod": [], "weight": 0.821641}, 
+                {"id": 5, "text": "사막", "head": 6, "label": "NP", "mod": [3, 4], "weight": 0.77096}, 
+                {"id": 6, "text": "등과", "head": 7, "label": "NP_AJT", "mod": [5], "weight": 0.518025}, 
+                {"id": 7, "text": "같은", "head": 9, "label": "VP_MOD", "mod": [6], "weight": 0.157531}, 
+                {"id": 8, "text": "아열대", "head": 9, "label": "NP", "mod": [], "weight": 0.644233}, 
+                {"id": 9, "text": "고압대에", "head": 10, "label": "NP_AJT", "mod": [7, 8], "weight": 0.628513}, 
+                {"id": 10, "text": "위치한", "head": 11, "label": "VP_MOD", "mod": [9], "weight": 0.195153}, 
+                {"id": 11, "text": "사막과", "head": 23, "label": "NP_CNJ", "mod": [10], "weight": 0.749407}, 
+                {"id": 12, "text": "중앙", "head": 13, "label": "NP", "mod": [], "weight": 0.785467}, 
+                {"id": 13, "text": "아시아의", "head": 18, "label": "NP_MOD", "mod": [12], "weight": 0.769613}, 
+                {"id": 14, "text": "타클라마칸", "head": 15, "label": "NP", "mod": [], "weight": 0.44616}, 
+                {"id": 15, "text": "사막", "head": 16, "label": "NP", "mod": [14], "weight": 0.812666}, 
+                {"id": 16, "text": "·", "head": 18, "label": "X_CNJ", "mod": [15], "weight": 0.136857}, 
+                {"id": 17, "text": "고비", "head": 18, "label": "NP", "mod": [], "weight": 0.845879}, 
+                {"id": 18, "text": "사막", "head": 19, "label": "NP", "mod": [13, 16, 17], "weight": 0.772357}, 
+                {"id": 19, "text": "등과", "head": 20, "label": "NP_AJT", "mod": [18], "weight": 0.633665}, 
+                {"id": 20, "text": "같은", "head": 23, "label": "VP_MOD", "mod": [19], "weight": 0.706782}, 
+                {"id": 21, "text": "대륙", "head": 22, "label": "NP", "mod": [], "weight": 0.807776}, 
+                {"id": 22, "text": "내부의", "head": 23, "label": "NP_MOD", "mod": [21], "weight": 0.738699}, 
+                {"id": 23, "text": "사막이", "head": 30, "label": "NP_SBJ", "mod": [20, 22, 11], "weight": 0.779084}, 
+                {"id": 24, "text": "연", "head": 25, "label": "NP", "mod": [], "weight": 0.45781}, 
+                {"id": 25, "text": "강수량", "head": 26, "label": "NP", "mod": [24], "weight": 0.160205}, 
+                {"id": 26, "text": "250㎜", "head": 27, "label": "NP", "mod": [25], "weight": 0.651021}, 
+                {"id": 27, "text": "미만의", "head": 29, "label": "NP_MOD", "mod": [26], "weight": 0.747168}, 
+                {"id": 28, "text": "소우", "head": 29, "label": "NP", "mod": [], "weight": 0.676527}, 
+                {"id": 29, "text": "지역에", "head": 30, "label": "NP_AJT", "mod": [27, 28], "weight": 0.816971}, 
+                {"id": 30, "text": "속한다.", "head": -1, "label": "VP", "mod": [0, 23, 29], "weight": 8.7384e-09}
+            ], 
+            "SRL": [
+                {"verb": "같", "sense": 1, "word_id": 7, "weight": 0.317483, "argument": [
+                    {"type": "ARG2", "word_id": 6, "text": "등과", "weight": 0.226528}
+                ]}, 
+                {"verb": "위치", "sense": 1, "word_id": 10, "weight": 0.265566, "argument": [
+                    {"type": "ARG2", "word_id": 9, "text": "고압대에", "weight": 0.189249}, 
+                    {"type": "ARG1", "word_id": 11, "text": "사막과", "weight": 0.341883}
+                ]}, 
+                {"verb": "같", "sense": 1, "word_id": 20, "weight": 0.326122, "argument": [
+                    {"type": "ARG2", "word_id": 19, "text": "등과", "weight": 0.232132}, 
+                    {"type": "ARG1", "word_id": 23, "text": "사막이", "weight": 0.420113}
+                ]}, 
+                {"verb": "속하", "sense": 1, "word_id": 30, "weight": 0.14117, "argument": [
+                    {"type": "ARG1", "word_id": 23, "text": "사막이", "weight": 0.162893}, 
+                    {"type": "ARG2", "word_id": 29, "text": "지역에", "weight": 0.119447}, 
+                    {"type": "ARGM-EXT", "word_id": 27, "text": "미만의", "weight": 1}, 
+                    {"type": "ARGM-PRD", "word_id": 0, "text": "세계적으로는", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "세계적으로는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "세계적으로는"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 11, "ne_id": -1, "text": "사하라 사막 · 아라비아 사막 등과 같은 아열대 고압대에 위치한 사막과", "start_eid_short": 11, "end_eid_short": 11, "text_short": "사막과"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 9, "ne_id": -1, "text": "사하라 사막 · 아라비아 사막 등과 같은 아열대 고압대에", "start_eid_short": 8, "end_eid_short": 9, "text_short": "아열대 고압대에"}
+        ]}, 
+        {"id": 3, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 1, "end_eid": 5, "ne_id": 1, "text": "사하라 사막 · 아라비아 사막", "start_eid_short": 4, "end_eid_short": 5, "text_short": "아라비아 사막"}
+        ]}, 
+        {"id": 4, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 0, "text": "사하라 사막", "start_eid_short": 1, "end_eid_short": 2, "text_short": "사하라 사막"}
+        ]}, 
+        {"id": 5, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 4, "end_eid": 5, "ne_id": 1, "text": "아라비아 사막", "start_eid_short": 4, "end_eid_short": 5, "text_short": "아라비아 사막"}
+        ]}, 
+        {"id": 6, "type": "TM_CLIMATE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": 2, "text": "아열대", "start_eid_short": 8, "end_eid_short": 8, "text_short": "아열대"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 12, "end_eid": 23, "ne_id": -1, "text": "중앙 아시아의 타클라마칸 사막 · 고비 사막 등과 같은 대륙 내부의 사막이", "start_eid_short": 23, "end_eid_short": 23, "text_short": "사막이"}
+        ]}, 
+        {"id": 8, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 12, "end_eid": 19, "ne_id": 5, "text": "중앙 아시아의 타클라마칸 사막 · 고비 사막 등과", "start_eid_short": 17, "end_eid_short": 19, "text_short": "고비 사막 등과"}
+        ]}, 
+        {"id": 9, "type": "LCG_CONTINENT", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 11, "sent_id": 0, "start_eid": 12, "end_eid": 13, "ne_id": 3, "text": "중앙 아시아의", "start_eid_short": 12, "end_eid_short": 13, "text_short": "중앙 아시아의"}
+        ]}, 
+        {"id": 10, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 12, "sent_id": 0, "start_eid": 14, "end_eid": 15, "ne_id": 4, "text": "타클라마칸 사막", "start_eid_short": 14, "end_eid_short": 15, "text_short": "타클라마칸 사막"}
+        ]}, 
+        {"id": 11, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 13, "sent_id": 0, "start_eid": 17, "end_eid": 18, "ne_id": 5, "text": "고비 사막", "start_eid_short": 17, "end_eid_short": 18, "text_short": "고비 사막"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 0, "start_eid": 21, "end_eid": 22, "ne_id": -1, "text": "대륙 내부의", "start_eid_short": 21, "end_eid_short": 22, "text_short": "대륙 내부의"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 0, "start_eid": 21, "end_eid": 21, "ne_id": -1, "text": "대륙", "start_eid_short": 21, "end_eid_short": 21, "text_short": "대륙"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 0, "start_eid": 24, "end_eid": 25, "ne_id": -1, "text": "연 강수량", "start_eid_short": 24, "end_eid_short": 25, "text_short": "연 강수량"}
+        ]}, 
+        {"id": 15, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 0, "start_eid": 24, "end_eid": 24, "ne_id": -1, "text": "연", "start_eid_short": 24, "end_eid_short": 24, "text_short": "연"}
+        ]}, 
+        {"id": 16, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 0, "start_eid": 24, "end_eid": 29, "ne_id": -1, "text": "연 강수량 250㎜ 미만의 소우 지역에", "start_eid_short": 28, "end_eid_short": 29, "text_short": "소우 지역에"}
+        ]}, 
+        {"id": 17, "type": "QT_LENGTH", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 0, "start_eid": 24, "end_eid": 27, "ne_id": 6, "text": "연 강수량 250㎜ 미만의", "start_eid_short": 27, "end_eid_short": 27, "text_short": "미만의"}
+        ]}, 
+        {"id": 18, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 0, "start_eid": 28, "end_eid": 28, "ne_id": -1, "text": "소우", "start_eid_short": 28, "end_eid_short": 28, "text_short": "소우"}
+        ]}, 
+        {"id": 19, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 1, "end_eid": 6, "ne_id": -1, "text": "사하라 사막 · 아라비아 사막 등과", "start_eid_short": 4, "end_eid_short": 6, "text_short": "아라비아 사막 등과"}
+        ]}, 
+        {"id": 20, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 23, "ne_id": -1, "text": "사하라 사막 · 아라비아 사막 등과 같은 아열대 고압대에 위치한 사막과 중앙 아시아의 타클라마칸 사막 · 고비 사막 등과 같은 대륙 내부의 사막이", "start_eid_short": 23, "end_eid_short": 23, "text_short": "사막이"}
+        ]}
+    ]
+}

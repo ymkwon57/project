@@ -1,0 +1,459 @@
+{
+    "doc_id": "E2016.790.21_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "매니페스토", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "선거와 관련하여 유권자에 대한 계약으로써의 공약, 곧 목표와 이행 가능성, 예산 확보의 근거 등을 구체적으로 제시한 공약을 말한다.", 
+            "morp": [
+                {"id": 0, "lemma": "선거", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "와", "type": "JKB", "position": 6, "weight": 0.0567862}, 
+                {"id": 2, "lemma": "관련", "type": "NNG", "position": 10, "weight": 0.9}, 
+                {"id": 3, "lemma": "하", "type": "XSV", "position": 16, "weight": 0.0001}, 
+                {"id": 4, "lemma": "아", "type": "EC", "position": 19, "weight": 0.361326}, 
+                {"id": 5, "lemma": "유권", "type": "NNG", "position": 23, "weight": 0.9}, 
+                {"id": 6, "lemma": "자", "type": "XSN", "position": 29, "weight": 0.00398741}, 
+                {"id": 7, "lemma": "에", "type": "JKB", "position": 32, "weight": 0.121683}, 
+                {"id": 8, "lemma": "대하", "type": "VV", "position": 36, "weight": 0.0312871}, 
+                {"id": 9, "lemma": "ㄴ", "type": "ETM", "position": 39, "weight": 0.392321}, 
+                {"id": 10, "lemma": "계약", "type": "NNG", "position": 43, "weight": 0.9}, 
+                {"id": 11, "lemma": "으로써", "type": "JKB", "position": 49, "weight": 0.9}, 
+                {"id": 12, "lemma": "의", "type": "JKG", "position": 58, "weight": 0.00917577}, 
+                {"id": 13, "lemma": "공약", "type": "NNG", "position": 62, "weight": 0.9}, 
+                {"id": 14, "lemma": ",", "type": "SP", "position": 68, "weight": 1}, 
+                {"id": 15, "lemma": "곧", "type": "MAG", "position": 70, "weight": 0.0515875}, 
+                {"id": 16, "lemma": "목표", "type": "NNG", "position": 74, "weight": 0.9}, 
+                {"id": 17, "lemma": "와", "type": "JC", "position": 80, "weight": 0.0169714}, 
+                {"id": 18, "lemma": "이행", "type": "NNG", "position": 84, "weight": 0.794195}, 
+                {"id": 19, "lemma": "가능", "type": "NNG", "position": 91, "weight": 0.184025}, 
+                {"id": 20, "lemma": "성", "type": "XSN", "position": 97, "weight": 0.0161708}, 
+                {"id": 21, "lemma": ",", "type": "SP", "position": 100, "weight": 1}, 
+                {"id": 22, "lemma": "예산", "type": "NNG", "position": 102, "weight": 0.524837}, 
+                {"id": 23, "lemma": "확보", "type": "NNG", "position": 109, "weight": 0.9}, 
+                {"id": 24, "lemma": "의", "type": "JKG", "position": 115, "weight": 0.0694213}, 
+                {"id": 25, "lemma": "근거", "type": "NNG", "position": 119, "weight": 0.9}, 
+                {"id": 26, "lemma": "등", "type": "NNB", "position": 126, "weight": 0.0146757}, 
+                {"id": 27, "lemma": "을", "type": "JKO", "position": 129, "weight": 0.0630104}, 
+                {"id": 28, "lemma": "구체", "type": "NNG", "position": 133, "weight": 0.9}, 
+                {"id": 29, "lemma": "적", "type": "XSN", "position": 139, "weight": 0.0168756}, 
+                {"id": 30, "lemma": "으로", "type": "JKB", "position": 142, "weight": 0.121717}, 
+                {"id": 31, "lemma": "제시", "type": "NNG", "position": 149, "weight": 0.134207}, 
+                {"id": 32, "lemma": "하", "type": "XSV", "position": 155, "weight": 0.0001}, 
+                {"id": 33, "lemma": "ㄴ", "type": "ETM", "position": 155, "weight": 0.392321}, 
+                {"id": 34, "lemma": "공약", "type": "NNG", "position": 159, "weight": 0.9}, 
+                {"id": 35, "lemma": "을", "type": "JKO", "position": 165, "weight": 0.129611}, 
+                {"id": 36, "lemma": "말", "type": "NNG", "position": 169, "weight": 0.0814073}, 
+                {"id": 37, "lemma": "하", "type": "XSV", "position": 172, "weight": 0.0001}, 
+                {"id": 38, "lemma": "ㄴ다", "type": "EF", "position": 172, "weight": 0.0449045}, 
+                {"id": 39, "lemma": ".", "type": "SF", "position": 178, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "선거", "type": "NNG", "scode": "040001", "weight": 0.2, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "와", "type": "JKB", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "관련하", "type": "VV", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 3}, 
+                {"id": 3, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 19, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "유권자", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 23, "begin": 5, "end": 6}, 
+                {"id": 5, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 32, "begin": 7, "end": 7}, 
+                {"id": 6, "text": "대하", "type": "VV", "scode": "020003", "weight": 0.25, "position": 36, "begin": 8, "end": 8}, 
+                {"id": 7, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 39, "begin": 9, "end": 9}, 
+                {"id": 8, "text": "계약", "type": "NNG", "scode": "000003", "weight": 0.333333, "position": 43, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "으로써", "type": "JKB", "scode": "000000", "weight": 1, "position": 49, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 58, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "공약", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 62, "begin": 13, "end": 13}, 
+                {"id": 12, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 68, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "곧", "type": "MAG", "scode": "010003", "weight": 0.142857, "position": 70, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "목표", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 74, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 80, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "이행", "type": "NNG", "scode": "080001", "weight": 0.1, "position": 84, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "가능성", "type": "NNG", "scode": "000000", "weight": 1, "position": 91, "begin": 19, "end": 20}, 
+                {"id": 18, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 100, "begin": 21, "end": 21}, 
+                {"id": 19, "text": "예산", "type": "NNG", "scode": "020003", "weight": 0.2, "position": 102, "begin": 22, "end": 22}, 
+                {"id": 20, "text": "확보", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 109, "begin": 23, "end": 23}, 
+                {"id": 21, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 115, "begin": 24, "end": 24}, 
+                {"id": 22, "text": "근거", "type": "NNG", "scode": "000002", "weight": 0.333333, "position": 119, "begin": 25, "end": 25}, 
+                {"id": 23, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 126, "begin": 26, "end": 26}, 
+                {"id": 24, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 129, "begin": 27, "end": 27}, 
+                {"id": 25, "text": "구체적", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 133, "begin": 28, "end": 29}, 
+                {"id": 26, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 142, "begin": 30, "end": 30}, 
+                {"id": 27, "text": "제시하", "type": "VV", "scode": "010001", "weight": 0.166667, "position": 149, "begin": 31, "end": 32}, 
+                {"id": 28, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 155, "begin": 33, "end": 33}, 
+                {"id": 29, "text": "공약", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 159, "begin": 34, "end": 34}, 
+                {"id": 30, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 165, "begin": 35, "end": 35}, 
+                {"id": 31, "text": "말하", "type": "VV", "scode": "000300", "weight": 0.125, "position": 169, "begin": 36, "end": 37}, 
+                {"id": 32, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 172, "begin": 38, "end": 38}, 
+                {"id": 33, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 178, "begin": 39, "end": 39}
+            ], 
+            "word": [
+                {"id": 0, "text": "선거와", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "관련하여", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "유권자에", "type": "", "begin": 5, "end": 7}, 
+                {"id": 3, "text": "대한", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "계약으로써의", "type": "", "begin": 10, "end": 12}, 
+                {"id": 5, "text": "공약,", "type": "", "begin": 13, "end": 14}, 
+                {"id": 6, "text": "곧", "type": "", "begin": 15, "end": 15}, 
+                {"id": 7, "text": "목표와", "type": "", "begin": 16, "end": 17}, 
+                {"id": 8, "text": "이행", "type": "", "begin": 18, "end": 18}, 
+                {"id": 9, "text": "가능성,", "type": "", "begin": 19, "end": 21}, 
+                {"id": 10, "text": "예산", "type": "", "begin": 22, "end": 22}, 
+                {"id": 11, "text": "확보의", "type": "", "begin": 23, "end": 24}, 
+                {"id": 12, "text": "근거", "type": "", "begin": 25, "end": 25}, 
+                {"id": 13, "text": "등을", "type": "", "begin": 26, "end": 27}, 
+                {"id": 14, "text": "구체적으로", "type": "", "begin": 28, "end": 30}, 
+                {"id": 15, "text": "제시한", "type": "", "begin": 31, "end": 33}, 
+                {"id": 16, "text": "공약을", "type": "", "begin": 34, "end": 35}, 
+                {"id": 17, "text": "말한다.", "type": "", "begin": 36, "end": 39}
+            ], 
+            "NE": [
+                {"id": 0, "text": "유권자", "type": "CV_POSITION", "begin": 5, "end": 6, "weight": 0.38308, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "선거와", "head": 1, "label": "NP_AJT", "mod": [], "weight": 0.766499}, 
+                {"id": 1, "text": "관련하여", "head": 3, "label": "VP", "mod": [0], "weight": 0.406544}, 
+                {"id": 2, "text": "유권자에", "head": 3, "label": "NP_AJT", "mod": [], "weight": 0.684169}, 
+                {"id": 3, "text": "대한", "head": 4, "label": "VP_MOD", "mod": [1, 2], "weight": 0.783558}, 
+                {"id": 4, "text": "계약으로써의", "head": 5, "label": "NP_MOD", "mod": [3], "weight": 0.717621}, 
+                {"id": 5, "text": "공약,", "head": 17, "label": "NP", "mod": [4], "weight": 0.44233}, 
+                {"id": 6, "text": "곧", "head": 17, "label": "AP", "mod": [], "weight": 0.787104}, 
+                {"id": 7, "text": "목표와", "head": 12, "label": "NP_CNJ", "mod": [], "weight": 0.564267}, 
+                {"id": 8, "text": "이행", "head": 9, "label": "NP", "mod": [], "weight": 0.645896}, 
+                {"id": 9, "text": "가능성,", "head": 12, "label": "NP_CNJ", "mod": [8], "weight": 0.520135}, 
+                {"id": 10, "text": "예산", "head": 11, "label": "NP", "mod": [], "weight": 0.710795}, 
+                {"id": 11, "text": "확보의", "head": 12, "label": "NP_MOD", "mod": [10], "weight": 0.588552}, 
+                {"id": 12, "text": "근거", "head": 13, "label": "NP", "mod": [7, 9, 11], "weight": 0.663494}, 
+                {"id": 13, "text": "등을", "head": 15, "label": "NP_OBJ", "mod": [12], "weight": 0.743763}, 
+                {"id": 14, "text": "구체적으로", "head": 15, "label": "NP_AJT", "mod": [], "weight": 0.6299}, 
+                {"id": 15, "text": "제시한", "head": 16, "label": "VP_MOD", "mod": [13, 14], "weight": 0.854824}, 
+                {"id": 16, "text": "공약을", "head": 17, "label": "NP_OBJ", "mod": [15], "weight": 0.866539}, 
+                {"id": 17, "text": "말한다.", "head": -1, "label": "VP", "mod": [5, 6, 16], "weight": 0.000681701}
+            ], 
+            "SRL": [
+                {"verb": "관련", "sense": 1, "word_id": 1, "weight": 0.204643, "argument": [
+                    {"type": "ARG2", "word_id": 0, "text": "선거와", "weight": 0.204643}
+                ]}, 
+                {"verb": "대하", "sense": 1, "word_id": 3, "weight": 0.181733, "argument": [
+                    {"type": "ARG2", "word_id": 2, "text": "유권자에", "weight": 0.181733}, 
+                    {"type": "ARG1", "word_id": 4, "text": "계약으로써의", "weight": 1}
+                ]}, 
+                {"verb": "제시", "sense": 1, "word_id": 15, "weight": 0.188914, "argument": [
+                    {"type": "ARG1", "word_id": 13, "text": "등을", "weight": 0.251716}, 
+                    {"type": "ARGM-MNR", "word_id": 14, "text": "구체적으로", "weight": 0.126112}
+                ]}, 
+                {"verb": "말하", "sense": 1, "word_id": 17, "weight": 0.207643, "argument": [
+                    {"type": "ARG1", "word_id": 16, "text": "공약을", "weight": 0.207643}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "어원은 '증거' 또는 '증거물'이라는 의미의 라틴어 마니페스투(manifestus)이다.", 
+            "morp": [
+                {"id": 0, "lemma": "어원", "type": "NNG", "position": 179, "weight": 0.9}, 
+                {"id": 1, "lemma": "은", "type": "JX", "position": 185, "weight": 0.0449928}, 
+                {"id": 2, "lemma": "'", "type": "SS", "position": 189, "weight": 1}, 
+                {"id": 3, "lemma": "증거", "type": "NNG", "position": 190, "weight": 0.9}, 
+                {"id": 4, "lemma": "'", "type": "SS", "position": 196, "weight": 1}, 
+                {"id": 5, "lemma": "또는", "type": "MAJ", "position": 198, "weight": 0.00307013}, 
+                {"id": 6, "lemma": "'", "type": "SS", "position": 205, "weight": 1}, 
+                {"id": 7, "lemma": "증거", "type": "NNG", "position": 206, "weight": 0.9}, 
+                {"id": 8, "lemma": "물", "type": "XSN", "position": 212, "weight": 0.00142289}, 
+                {"id": 9, "lemma": "'", "type": "SS", "position": 215, "weight": 1}, 
+                {"id": 10, "lemma": "이", "type": "VCP", "position": 216, "weight": 0.00747344}, 
+                {"id": 11, "lemma": "라는", "type": "ETM", "position": 216, "weight": 0.00747344}, 
+                {"id": 12, "lemma": "의미", "type": "NNG", "position": 226, "weight": 0.9}, 
+                {"id": 13, "lemma": "의", "type": "JKG", "position": 232, "weight": 0.0694213}, 
+                {"id": 14, "lemma": "라틴어", "type": "NNP", "position": 236, "weight": 0.00909418}, 
+                {"id": 15, "lemma": "마니페스투", "type": "NNG", "position": 246, "weight": 0.6}, 
+                {"id": 16, "lemma": "(", "type": "SS", "position": 261, "weight": 1}, 
+                {"id": 17, "lemma": "manifestus", "type": "SL", "position": 262, "weight": 1}, 
+                {"id": 18, "lemma": ")", "type": "SS", "position": 272, "weight": 1}, 
+                {"id": 19, "lemma": "이", "type": "VCP", "position": 273, "weight": 0.00747344}, 
+                {"id": 20, "lemma": "다", "type": "EF", "position": 276, "weight": 0.353579}, 
+                {"id": 21, "lemma": ".", "type": "SF", "position": 279, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "어원", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 179, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 185, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 189, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "증거", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 190, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 196, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "또는", "type": "MAJ", "scode": "000000", "weight": 1, "position": 198, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 205, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "증거물", "type": "NNG", "scode": "000000", "weight": 1, "position": 206, "begin": 7, "end": 8}, 
+                {"id": 8, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 215, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 216, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "라는", "type": "ETM", "scode": "000000", "weight": 1, "position": 216, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "의미", "type": "NNG", "scode": "020001", "weight": 0.25, "position": 226, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 232, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "라틴어", "type": "NNP", "scode": "000000", "weight": 1, "position": 236, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "마니페스투", "type": "NNG", "scode": "000000", "weight": 0, "position": 246, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 261, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "manifestus", "type": "SL", "scode": "000000", "weight": 1, "position": 262, "begin": 17, "end": 17}, 
+                {"id": 17, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 272, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 273, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 276, "begin": 20, "end": 20}, 
+                {"id": 20, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 279, "begin": 21, "end": 21}
+            ], 
+            "word": [
+                {"id": 0, "text": "어원은", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "'증거'", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "또는", "type": "", "begin": 5, "end": 5}, 
+                {"id": 3, "text": "'증거물'이라는", "type": "", "begin": 6, "end": 11}, 
+                {"id": 4, "text": "의미의", "type": "", "begin": 12, "end": 13}, 
+                {"id": 5, "text": "라틴어", "type": "", "begin": 14, "end": 14}, 
+                {"id": 6, "text": "마니페스투(manifestus)이다.", "type": "", "begin": 15, "end": 21}
+            ], 
+            "NE": [
+                {"id": 0, "text": "라틴어", "type": "CV_LANGUAGE", "begin": 14, "end": 14, "weight": 0.38308, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "어원은", "head": 6, "label": "NP_SBJ", "mod": [], "weight": 0.817423}, 
+                {"id": 1, "text": "'증거'", "head": 3, "label": "NP_CNJ", "mod": [], "weight": 0.446107}, 
+                {"id": 2, "text": "또는", "head": 3, "label": "AP", "mod": [], "weight": 0.782216}, 
+                {"id": 3, "text": "'증거물'이라는", "head": 4, "label": "VNP_MOD", "mod": [1, 2], "weight": 0.43726}, 
+                {"id": 4, "text": "의미의", "head": 5, "label": "NP_MOD", "mod": [3], "weight": 0.790981}, 
+                {"id": 5, "text": "라틴어", "head": 6, "label": "NP", "mod": [4], "weight": 0.738151}, 
+                {"id": 6, "text": "마니페스투(manifestus)이다.", "head": -1, "label": "VNP", "mod": [0, 5], "weight": 0.0344446}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "1997년 영국 노동당의 토니 블레어가 집권에 성공한 것은 매니페스토 10대 정책을 구체적으로 제시한 데 힘입었다.", 
+            "morp": [
+                {"id": 0, "lemma": "1997", "type": "SN", "position": 280, "weight": 1}, 
+                {"id": 1, "lemma": "년", "type": "NNB", "position": 284, "weight": 0.414343}, 
+                {"id": 2, "lemma": "영국", "type": "NNP", "position": 288, "weight": 0.9}, 
+                {"id": 3, "lemma": "노동당", "type": "NNP", "position": 295, "weight": 0.9}, 
+                {"id": 4, "lemma": "의", "type": "JKG", "position": 304, "weight": 0.0694213}, 
+                {"id": 5, "lemma": "토니", "type": "NNP", "position": 308, "weight": 0.9}, 
+                {"id": 6, "lemma": "블레어", "type": "NNP", "position": 315, "weight": 0.0783978}, 
+                {"id": 7, "lemma": "가", "type": "JKS", "position": 324, "weight": 0.0431193}, 
+                {"id": 8, "lemma": "집권", "type": "NNG", "position": 328, "weight": 0.9}, 
+                {"id": 9, "lemma": "에", "type": "JKB", "position": 334, "weight": 0.153364}, 
+                {"id": 10, "lemma": "성공", "type": "NNG", "position": 338, "weight": 0.9}, 
+                {"id": 11, "lemma": "하", "type": "XSV", "position": 344, "weight": 0.0001}, 
+                {"id": 12, "lemma": "ㄴ", "type": "ETM", "position": 344, "weight": 0.392321}, 
+                {"id": 13, "lemma": "것", "type": "NNB", "position": 348, "weight": 0.228788}, 
+                {"id": 14, "lemma": "은", "type": "JX", "position": 351, "weight": 0.0688243}, 
+                {"id": 15, "lemma": "매니페스토", "type": "NNG", "position": 355, "weight": 0.162461}, 
+                {"id": 16, "lemma": "10", "type": "SN", "position": 371, "weight": 1}, 
+                {"id": 17, "lemma": "대", "type": "NNB", "position": 373, "weight": 0.147138}, 
+                {"id": 18, "lemma": "정책", "type": "NNG", "position": 377, "weight": 0.9}, 
+                {"id": 19, "lemma": "을", "type": "JKO", "position": 383, "weight": 0.129611}, 
+                {"id": 20, "lemma": "구체", "type": "NNG", "position": 387, "weight": 0.9}, 
+                {"id": 21, "lemma": "적", "type": "XSN", "position": 393, "weight": 0.0168756}, 
+                {"id": 22, "lemma": "으로", "type": "JKB", "position": 396, "weight": 0.121717}, 
+                {"id": 23, "lemma": "제시", "type": "NNG", "position": 403, "weight": 0.134207}, 
+                {"id": 24, "lemma": "하", "type": "XSV", "position": 409, "weight": 0.0001}, 
+                {"id": 25, "lemma": "ㄴ", "type": "ETM", "position": 409, "weight": 0.392321}, 
+                {"id": 26, "lemma": "데", "type": "NNB", "position": 413, "weight": 0.226476}, 
+                {"id": 27, "lemma": "힘입", "type": "VV", "position": 417, "weight": 0.9}, 
+                {"id": 28, "lemma": "었", "type": "EP", "position": 423, "weight": 0.9}, 
+                {"id": 29, "lemma": "다", "type": "EF", "position": 426, "weight": 0.640954}, 
+                {"id": 30, "lemma": ".", "type": "SF", "position": 429, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "1997", "type": "SN", "scode": "000000", "weight": 1, "position": 280, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 284, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "영국", "type": "NNP", "scode": "010000", "weight": 0.5, "position": 288, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "노동당", "type": "NNP", "scode": "000000", "weight": 1, "position": 295, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 304, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "토니", "type": "NNP", "scode": "888888", "weight": 0.333333, "position": 308, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "블레어", "type": "NNP", "scode": "000000", "weight": 0, "position": 315, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 324, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "집권", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 328, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 334, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "성공하", "type": "VV", "scode": "000000", "weight": 1, "position": 338, "begin": 10, "end": 11}, 
+                {"id": 11, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 344, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 348, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 351, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "매니페스토", "type": "NNG", "scode": "000000", "weight": 0, "position": 355, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "10", "type": "SN", "scode": "000000", "weight": 1, "position": 371, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "대", "type": "NNB", "scode": "888888", "weight": 0.0232558, "position": 373, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "정책", "type": "NNG", "scode": "020000", "weight": 0.333333, "position": 377, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 383, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "구체적", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 387, "begin": 20, "end": 21}, 
+                {"id": 20, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 396, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "제시하", "type": "VV", "scode": "010001", "weight": 0.166667, "position": 403, "begin": 23, "end": 24}, 
+                {"id": 22, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 409, "begin": 25, "end": 25}, 
+                {"id": 23, "text": "데", "type": "NNB", "scode": "010002", "weight": 0.1, "position": 413, "begin": 26, "end": 26}, 
+                {"id": 24, "text": "힘입", "type": "VV", "scode": "000001", "weight": 0.333333, "position": 417, "begin": 27, "end": 27}, 
+                {"id": 25, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 423, "begin": 28, "end": 28}, 
+                {"id": 26, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 426, "begin": 29, "end": 29}, 
+                {"id": 27, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 429, "begin": 30, "end": 30}
+            ], 
+            "word": [
+                {"id": 0, "text": "1997년", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "영국", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "노동당의", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "토니", "type": "", "begin": 5, "end": 5}, 
+                {"id": 4, "text": "블레어가", "type": "", "begin": 6, "end": 7}, 
+                {"id": 5, "text": "집권에", "type": "", "begin": 8, "end": 9}, 
+                {"id": 6, "text": "성공한", "type": "", "begin": 10, "end": 12}, 
+                {"id": 7, "text": "것은", "type": "", "begin": 13, "end": 14}, 
+                {"id": 8, "text": "매니페스토", "type": "", "begin": 15, "end": 15}, 
+                {"id": 9, "text": "10대", "type": "", "begin": 16, "end": 17}, 
+                {"id": 10, "text": "정책을", "type": "", "begin": 18, "end": 19}, 
+                {"id": 11, "text": "구체적으로", "type": "", "begin": 20, "end": 22}, 
+                {"id": 12, "text": "제시한", "type": "", "begin": 23, "end": 25}, 
+                {"id": 13, "text": "데", "type": "", "begin": 26, "end": 26}, 
+                {"id": 14, "text": "힘입었다.", "type": "", "begin": 27, "end": 30}
+            ], 
+            "NE": [
+                {"id": 0, "text": "1997년", "type": "DT_YEAR", "begin": 0, "end": 1, "weight": 0.852284, "common_noun": 0}, 
+                {"id": 1, "text": "영국", "type": "LCP_COUNTRY", "begin": 2, "end": 2, "weight": 0.410911, "common_noun": 0}, 
+                {"id": 2, "text": "노동당", "type": "OGG_POLITICS", "begin": 3, "end": 3, "weight": 0.493179, "common_noun": 0}, 
+                {"id": 3, "text": "토니 블레어", "type": "PS_NAME", "begin": 5, "end": 6, "weight": 0.615856, "common_noun": 0}, 
+                {"id": 4, "text": "10대", "type": "QT_COUNT", "begin": 16, "end": 17, "weight": 0.539752, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "1997년", "head": 6, "label": "NP_AJT", "mod": [], "weight": 0.664492}, 
+                {"id": 1, "text": "영국", "head": 2, "label": "NP", "mod": [], "weight": 0.85391}, 
+                {"id": 2, "text": "노동당의", "head": 4, "label": "NP_MOD", "mod": [1], "weight": 0.657839}, 
+                {"id": 3, "text": "토니", "head": 4, "label": "NP", "mod": [], "weight": 0.803805}, 
+                {"id": 4, "text": "블레어가", "head": 6, "label": "NP_SBJ", "mod": [2, 3], "weight": 0.849044}, 
+                {"id": 5, "text": "집권에", "head": 6, "label": "NP_AJT", "mod": [], "weight": 0.749115}, 
+                {"id": 6, "text": "성공한", "head": 7, "label": "VP_MOD", "mod": [0, 4, 5], "weight": 0.769939}, 
+                {"id": 7, "text": "것은", "head": 14, "label": "NP_SBJ", "mod": [6], "weight": 0.697842}, 
+                {"id": 8, "text": "매니페스토", "head": 10, "label": "NP", "mod": [], "weight": 0.221452}, 
+                {"id": 9, "text": "10대", "head": 10, "label": "NP", "mod": [], "weight": 0.6562}, 
+                {"id": 10, "text": "정책을", "head": 12, "label": "NP_OBJ", "mod": [8, 9], "weight": 0.768044}, 
+                {"id": 11, "text": "구체적으로", "head": 12, "label": "NP_AJT", "mod": [], "weight": 0.777831}, 
+                {"id": 12, "text": "제시한", "head": 13, "label": "VP_MOD", "mod": [10, 11], "weight": 0.774701}, 
+                {"id": 13, "text": "데", "head": 14, "label": "NP_AJT", "mod": [12], "weight": 0.751125}, 
+                {"id": 14, "text": "힘입었다.", "head": -1, "label": "VP", "mod": [7, 13], "weight": 0.0038718}
+            ], 
+            "SRL": [
+                {"verb": "성공", "sense": 1, "word_id": 6, "weight": 0.260174, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 0, "text": "1997년", "weight": 0.329251}, 
+                    {"type": "ARG0", "word_id": 4, "text": "블레어가", "weight": 0.340827}, 
+                    {"type": "ARG1", "word_id": 5, "text": "집권에", "weight": 0.110444}
+                ]}, 
+                {"verb": "제시", "sense": 1, "word_id": 12, "weight": 0.188517, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "정책을", "weight": 0.237}, 
+                    {"type": "ARGM-MNR", "word_id": 11, "text": "구체적으로", "weight": 0.140034}
+                ]}, 
+                {"verb": "힘입", "sense": 1, "word_id": 14, "weight": 0.141491, "argument": [
+                    {"type": "ARG2", "word_id": 13, "text": "데", "weight": 0.141491}, 
+                    {"type": "ARG1", "word_id": 7, "text": "것은", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "선거와 관련하여 유권자에 대한 계약으로써의", "start_eid_short": 4, "end_eid_short": 4, "text_short": "계약으로써의"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "선거와", "start_eid_short": 0, "end_eid_short": 0, "text_short": "선거와"}
+        ]}, 
+        {"id": 2, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": 0, "text": "유권자에", "start_eid_short": 2, "end_eid_short": 2, "text_short": "유권자에"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 7, "end_eid": 16, "ne_id": -1, "text": "목표와 이행 가능성, 예산 확보의 근거 등을 구체적으로 제시한 공약을", "start_eid_short": 16, "end_eid_short": 16, "text_short": "공약을"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 7, "end_eid": 12, "ne_id": -1, "text": "목표와 이행 가능성, 예산 확보의 근거", "start_eid_short": 12, "end_eid_short": 12, "text_short": "근거"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "목표와", "start_eid_short": 7, "end_eid_short": 7, "text_short": "목표와"}
+        ]}, 
+        {"id": 6, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": 1, "text": "이행", "start_eid_short": 8, "end_eid_short": 8, "text_short": "이행"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 0, "start_eid": 10, "end_eid": 11, "ne_id": -1, "text": "예산 확보의", "start_eid_short": 10, "end_eid_short": 11, "text_short": "예산 확보의"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 0, "start_eid": 10, "end_eid": 10, "ne_id": -1, "text": "예산", "start_eid_short": 10, "end_eid_short": 10, "text_short": "예산"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 7, "end_eid": 13, "ne_id": -1, "text": "목표와 이행 가능성, 예산 확보의 근거 등을", "start_eid_short": 12, "end_eid_short": 13, "text_short": "근거 등을"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 0, "start_eid": 14, "end_eid": 14, "ne_id": -1, "text": "구체적으로", "start_eid_short": 14, "end_eid_short": 14, "text_short": "구체적으로"}, 
+            {"id": 30, "sent_id": 2, "start_eid": 11, "end_eid": 11, "ne_id": -1, "text": "구체적으로", "start_eid_short": 11, "end_eid_short": 11, "text_short": "구체적으로"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "어원은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "어원은"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 1, "end_eid": 4, "ne_id": -1, "text": "'증거' 또는 '증거물'이라는 의미의", "start_eid_short": 4, "end_eid_short": 4, "text_short": "의미의"}
+        ]}, 
+        {"id": 13, "type": "CV_LANGUAGE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 1, "end_eid": 6, "ne_id": -1, "text": "'증거' 또는 '증거물'이라는 의미의 라틴어 마니페스투(manifestus)이다.", "start_eid_short": 6, "end_eid_short": 6, "text_short": "마니페스투(manifestus)이다."}, 
+            {"id": 16, "sent_id": 1, "start_eid": 1, "end_eid": 5, "ne_id": 0, "text": "'증거' 또는 '증거물'이라는 의미의 라틴어", "start_eid_short": 5, "end_eid_short": 5, "text_short": "라틴어"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 21, "sent_id": 2, "start_eid": 0, "end_eid": 7, "ne_id": -1, "text": "1997년 영국 노동당의 토니 블레어가 집권에 성공한 것은", "start_eid_short": 7, "end_eid_short": 7, "text_short": "것은"}
+        ]}, 
+        {"id": 15, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 22, "sent_id": 2, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "1997년", "start_eid_short": 0, "end_eid_short": 0, "text_short": "1997년"}
+        ]}, 
+        {"id": 16, "type": "OGG_POLITICS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 24, "sent_id": 2, "start_eid": 1, "end_eid": 2, "ne_id": 2, "text": "영국 노동당의", "start_eid_short": 1, "end_eid_short": 2, "text_short": "영국 노동당의"}
+        ]}, 
+        {"id": 17, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 25, "sent_id": 2, "start_eid": 1, "end_eid": 1, "ne_id": 1, "text": "영국", "start_eid_short": 1, "end_eid_short": 1, "text_short": "영국"}
+        ]}, 
+        {"id": 18, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 23, "sent_id": 2, "start_eid": 1, "end_eid": 4, "ne_id": 3, "text": "영국 노동당의 토니 블레어가", "start_eid_short": 3, "end_eid_short": 4, "text_short": "토니 블레어가"}
+        ]}, 
+        {"id": 19, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 27, "sent_id": 2, "start_eid": 8, "end_eid": 10, "ne_id": -1, "text": "매니페스토 10대 정책을", "start_eid_short": 8, "end_eid_short": 10, "text_short": "매니페스토 10대 정책을"}
+        ]}, 
+        {"id": 20, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 28, "sent_id": 2, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "매니페스토", "start_eid_short": 8, "end_eid_short": 8, "text_short": "매니페스토"}
+        ]}, 
+        {"id": 21, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 29, "sent_id": 2, "start_eid": 9, "end_eid": 9, "ne_id": 4, "text": "10대", "start_eid_short": 9, "end_eid_short": 9, "text_short": "10대"}
+        ]}, 
+        {"id": 22, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 5, "ne_id": -1, "text": "선거와 관련하여 유권자에 대한 계약으로써의 공약,", "start_eid_short": 5, "end_eid_short": 5, "text_short": "공약,"}
+        ]}, 
+        {"id": 23, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 8, "end_eid": 9, "ne_id": -1, "text": "이행 가능성,", "start_eid_short": 8, "end_eid_short": 9, "text_short": "이행 가능성,"}
+        ]}, 
+        {"id": 24, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 10, "end_eid": 12, "ne_id": -1, "text": "예산 확보의 근거", "start_eid_short": 12, "end_eid_short": 12, "text_short": "근거"}
+        ]}, 
+        {"id": 25, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 1, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "'증거물'이라는", "start_eid_short": 3, "end_eid_short": 3, "text_short": "'증거물'이라는"}
+        ]}, 
+        {"id": 26, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "'증거'", "start_eid_short": 1, "end_eid_short": 1, "text_short": "'증거'"}
+        ]}, 
+        {"id": 27, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 1, "start_eid": 1, "end_eid": 3, "ne_id": -1, "text": "'증거' 또는 '증거물'이라는", "start_eid_short": 3, "end_eid_short": 3, "text_short": "'증거물'이라는"}
+        ]}, 
+        {"id": 28, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 26, "sent_id": 2, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "집권에", "start_eid_short": 5, "end_eid_short": 5, "text_short": "집권에"}
+        ]}
+    ]
+}

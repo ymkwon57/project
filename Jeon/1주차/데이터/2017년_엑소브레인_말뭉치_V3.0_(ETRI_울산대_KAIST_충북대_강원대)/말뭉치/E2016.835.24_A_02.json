@@ -1,0 +1,363 @@
+{
+    "doc_id": "E2016.835.24_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "아치", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "아치는 이집트·그리스 시대의 기둥과 보와 같은 직선재를 사용한 문형(門型)의 구조형식에 이어 로마 시대에 발전을 이룩한 것으로, 교량의 건설도 이 방식으로 비교적 수월해져서 현재의 로마 부근에도 이 시대의 유적으로서 많은 수로교(水路橋)·하수도 등의 아치가 현존하고 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "아치", "type": "NNG", "position": 0, "weight": 0.416321}, 
+                {"id": 1, "lemma": "는", "type": "JX", "position": 6, "weight": 0.0287565}, 
+                {"id": 2, "lemma": "이집트", "type": "NNP", "position": 10, "weight": 0.9}, 
+                {"id": 3, "lemma": "·", "type": "SP", "position": 19, "weight": 1}, 
+                {"id": 4, "lemma": "그리스", "type": "NNP", "position": 21, "weight": 0.122214}, 
+                {"id": 5, "lemma": "시대", "type": "NNG", "position": 31, "weight": 0.9}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 37, "weight": 0.0694213}, 
+                {"id": 7, "lemma": "기둥", "type": "NNG", "position": 41, "weight": 0.9}, 
+                {"id": 8, "lemma": "과", "type": "JC", "position": 47, "weight": 0.017569}, 
+                {"id": 9, "lemma": "보", "type": "NNG", "position": 51, "weight": 0.0035341}, 
+                {"id": 10, "lemma": "와", "type": "JKB", "position": 54, "weight": 0.0567862}, 
+                {"id": 11, "lemma": "같", "type": "VA", "position": 58, "weight": 0.0728396}, 
+                {"id": 12, "lemma": "은", "type": "ETM", "position": 61, "weight": 0.155123}, 
+                {"id": 13, "lemma": "직선", "type": "NNG", "position": 65, "weight": 0.9}, 
+                {"id": 14, "lemma": "재", "type": "XSN", "position": 71, "weight": 0.00058021}, 
+                {"id": 15, "lemma": "를", "type": "JKO", "position": 74, "weight": 0.0870227}, 
+                {"id": 16, "lemma": "사용", "type": "NNG", "position": 78, "weight": 0.9}, 
+                {"id": 17, "lemma": "하", "type": "XSV", "position": 84, "weight": 0.0001}, 
+                {"id": 18, "lemma": "ㄴ", "type": "ETM", "position": 84, "weight": 0.392321}, 
+                {"id": 19, "lemma": "문형", "type": "NNG", "position": 88, "weight": 0.7}, 
+                {"id": 20, "lemma": "(", "type": "SS", "position": 94, "weight": 1}, 
+                {"id": 21, "lemma": "門型", "type": "SH", "position": 95, "weight": 1}, 
+                {"id": 22, "lemma": ")", "type": "SS", "position": 101, "weight": 1}, 
+                {"id": 23, "lemma": "의", "type": "JKG", "position": 102, "weight": 0.0878251}, 
+                {"id": 24, "lemma": "구조", "type": "NNG", "position": 106, "weight": 0.9}, 
+                {"id": 25, "lemma": "형식", "type": "NNG", "position": 112, "weight": 0.183977}, 
+                {"id": 26, "lemma": "에", "type": "JKB", "position": 118, "weight": 0.153364}, 
+                {"id": 27, "lemma": "잇", "type": "VV", "position": 122, "weight": 0.443197}, 
+                {"id": 28, "lemma": "어", "type": "EC", "position": 125, "weight": 0.41831}, 
+                {"id": 29, "lemma": "로마", "type": "NNP", "position": 129, "weight": 0.122101}, 
+                {"id": 30, "lemma": "시대", "type": "NNG", "position": 136, "weight": 0.9}, 
+                {"id": 31, "lemma": "에", "type": "JKB", "position": 142, "weight": 0.153364}, 
+                {"id": 32, "lemma": "발전", "type": "NNG", "position": 146, "weight": 0.9}, 
+                {"id": 33, "lemma": "을", "type": "JKO", "position": 152, "weight": 0.129611}, 
+                {"id": 34, "lemma": "이룩하", "type": "VV", "position": 156, "weight": 0.9}, 
+                {"id": 35, "lemma": "ㄴ", "type": "ETM", "position": 162, "weight": 0.304215}, 
+                {"id": 36, "lemma": "것", "type": "NNB", "position": 166, "weight": 0.228788}, 
+                {"id": 37, "lemma": "으로", "type": "JKB", "position": 169, "weight": 0.135596}, 
+                {"id": 38, "lemma": ",", "type": "SP", "position": 175, "weight": 1}, 
+                {"id": 39, "lemma": "교량", "type": "NNG", "position": 177, "weight": 0.9}, 
+                {"id": 40, "lemma": "의", "type": "JKG", "position": 183, "weight": 0.0694213}, 
+                {"id": 41, "lemma": "건설", "type": "NNG", "position": 187, "weight": 0.9}, 
+                {"id": 42, "lemma": "도", "type": "JX", "position": 193, "weight": 0.0676272}, 
+                {"id": 43, "lemma": "이", "type": "MM", "position": 197, "weight": 0.00176496}, 
+                {"id": 44, "lemma": "방식", "type": "NNG", "position": 201, "weight": 0.9}, 
+                {"id": 45, "lemma": "으로", "type": "JKB", "position": 207, "weight": 0.153406}, 
+                {"id": 46, "lemma": "비교", "type": "NNG", "position": 214, "weight": 0.9}, 
+                {"id": 47, "lemma": "적", "type": "XSN", "position": 220, "weight": 0.0168756}, 
+                {"id": 48, "lemma": "수월하", "type": "VA", "position": 224, "weight": 0.9}, 
+                {"id": 49, "lemma": "아", "type": "EC", "position": 230, "weight": 0.311591}, 
+                {"id": 50, "lemma": "지", "type": "VX", "position": 230, "weight": 0.0539764}, 
+                {"id": 51, "lemma": "어서", "type": "EC", "position": 230, "weight": 0.259713}, 
+                {"id": 52, "lemma": "현재", "type": "NNG", "position": 240, "weight": 0.0882271}, 
+                {"id": 53, "lemma": "의", "type": "JKG", "position": 246, "weight": 0.0694213}, 
+                {"id": 54, "lemma": "로마", "type": "NNP", "position": 250, "weight": 0.484925}, 
+                {"id": 55, "lemma": "부근", "type": "NNG", "position": 257, "weight": 0.9}, 
+                {"id": 56, "lemma": "에", "type": "JKB", "position": 263, "weight": 0.153364}, 
+                {"id": 57, "lemma": "도", "type": "JX", "position": 266, "weight": 0.0912297}, 
+                {"id": 58, "lemma": "이", "type": "MM", "position": 270, "weight": 0.00176496}, 
+                {"id": 59, "lemma": "시대", "type": "NNG", "position": 274, "weight": 0.9}, 
+                {"id": 60, "lemma": "의", "type": "JKG", "position": 280, "weight": 0.0694213}, 
+                {"id": 61, "lemma": "유적", "type": "NNG", "position": 284, "weight": 0.869982}, 
+                {"id": 62, "lemma": "으로서", "type": "JKB", "position": 290, "weight": 0.9}, 
+                {"id": 63, "lemma": "많", "type": "VA", "position": 300, "weight": 0.0728426}, 
+                {"id": 64, "lemma": "은", "type": "ETM", "position": 303, "weight": 0.155123}, 
+                {"id": 65, "lemma": "수로", "type": "NNG", "position": 307, "weight": 0.611603}, 
+                {"id": 66, "lemma": "교", "type": "NNG", "position": 313, "weight": 0.161048}, 
+                {"id": 67, "lemma": "(", "type": "SS", "position": 316, "weight": 1}, 
+                {"id": 68, "lemma": "水路橋", "type": "SH", "position": 317, "weight": 1}, 
+                {"id": 69, "lemma": ")", "type": "SS", "position": 326, "weight": 1}, 
+                {"id": 70, "lemma": "·", "type": "SP", "position": 327, "weight": 1}, 
+                {"id": 71, "lemma": "하수", "type": "NNG", "position": 329, "weight": 0.514561}, 
+                {"id": 72, "lemma": "도", "type": "NNG", "position": 335, "weight": 0.0676272}, 
+                {"id": 73, "lemma": "등", "type": "NNB", "position": 339, "weight": 0.00131038}, 
+                {"id": 74, "lemma": "의", "type": "JKG", "position": 342, "weight": 0.0520933}, 
+                {"id": 75, "lemma": "아치", "type": "NNG", "position": 346, "weight": 0.828408}, 
+                {"id": 76, "lemma": "가", "type": "JKS", "position": 352, "weight": 0.066324}, 
+                {"id": 77, "lemma": "현존", "type": "NNG", "position": 356, "weight": 0.9}, 
+                {"id": 78, "lemma": "하", "type": "XSV", "position": 362, "weight": 0.0001}, 
+                {"id": 79, "lemma": "고", "type": "EC", "position": 365, "weight": 0.359917}, 
+                {"id": 80, "lemma": "있", "type": "VX", "position": 369, "weight": 0.125953}, 
+                {"id": 81, "lemma": "다", "type": "EF", "position": 372, "weight": 0.180366}, 
+                {"id": 82, "lemma": ".", "type": "SF", "position": 375, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "아치", "type": "NNG", "scode": "070002", "weight": 0.0909091, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "이집트", "type": "NNP", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "·", "type": "SP", "scode": "000000", "weight": 1, "position": 19, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "그리스", "type": "NNP", "scode": "020000", "weight": 0.333333, "position": 21, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "시대", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 31, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 37, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "기둥", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 41, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 47, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "보", "type": "NNG", "scode": "020000", "weight": 0.0294118, "position": 51, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "와", "type": "JKB", "scode": "000000", "weight": 1, "position": 54, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "같", "type": "VA", "scode": "000100", "weight": 0.125, "position": 58, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 61, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "직선", "type": "NNG", "scode": "010002", "weight": 0.333333, "position": 65, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "재", "type": "XSN", "scode": "190000", "weight": 0.03125, "position": 71, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 74, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "사용하", "type": "VV", "scode": "030001", "weight": 0.25, "position": 78, "begin": 16, "end": 17}, 
+                {"id": 17, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 84, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "문형", "type": "NNG", "scode": "030000", "weight": 0.2, "position": 88, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 94, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "門型", "type": "SH", "scode": "000000", "weight": 1, "position": 95, "begin": 21, "end": 21}, 
+                {"id": 21, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 101, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 102, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "구조", "type": "NNG", "scode": "080001", "weight": 0.0769231, "position": 106, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "형식", "type": "NNG", "scode": "010002", "weight": 0.166667, "position": 112, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 118, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "잇", "type": "VV", "scode": "010300", "weight": 0.125, "position": 122, "begin": 27, "end": 27}, 
+                {"id": 27, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 125, "begin": 28, "end": 28}, 
+                {"id": 28, "text": "로마", "type": "NNP", "scode": "020003", "weight": 0.2, "position": 129, "begin": 29, "end": 29}, 
+                {"id": 29, "text": "시대", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 136, "begin": 30, "end": 30}, 
+                {"id": 30, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 142, "begin": 31, "end": 31}, 
+                {"id": 31, "text": "발전", "type": "NNG", "scode": "010001", "weight": 0.25, "position": 146, "begin": 32, "end": 32}, 
+                {"id": 32, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 152, "begin": 33, "end": 33}, 
+                {"id": 33, "text": "이룩하", "type": "VV", "scode": "000001", "weight": 0.5, "position": 156, "begin": 34, "end": 34}, 
+                {"id": 34, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 162, "begin": 35, "end": 35}, 
+                {"id": 35, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 166, "begin": 36, "end": 36}, 
+                {"id": 36, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 169, "begin": 37, "end": 37}, 
+                {"id": 37, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 175, "begin": 38, "end": 38}, 
+                {"id": 38, "text": "교량", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 177, "begin": 39, "end": 39}, 
+                {"id": 39, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 183, "begin": 40, "end": 40}, 
+                {"id": 40, "text": "건설", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 187, "begin": 41, "end": 41}, 
+                {"id": 41, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 193, "begin": 42, "end": 42}, 
+                {"id": 42, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 197, "begin": 43, "end": 43}, 
+                {"id": 43, "text": "방식", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 201, "begin": 44, "end": 44}, 
+                {"id": 44, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 207, "begin": 45, "end": 45}, 
+                {"id": 45, "text": "비교적", "type": "MAG", "scode": "000100", "weight": 0.5, "position": 214, "begin": 46, "end": 47}, 
+                {"id": 46, "text": "수월하", "type": "VA", "scode": "000001", "weight": 0.5, "position": 224, "begin": 48, "end": 48}, 
+                {"id": 47, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 230, "begin": 49, "end": 49}, 
+                {"id": 48, "text": "지", "type": "VX", "scode": "040103", "weight": 0.037037, "position": 230, "begin": 50, "end": 50}, 
+                {"id": 49, "text": "어서", "type": "EC", "scode": "000000", "weight": 1, "position": 230, "begin": 51, "end": 51}, 
+                {"id": 50, "text": "현재", "type": "NNG", "scode": "020001", "weight": 0.0909091, "position": 240, "begin": 52, "end": 52}, 
+                {"id": 51, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 246, "begin": 53, "end": 53}, 
+                {"id": 52, "text": "로마", "type": "NNP", "scode": "020003", "weight": 0.2, "position": 250, "begin": 54, "end": 54}, 
+                {"id": 53, "text": "부근", "type": "NNG", "scode": "030000", "weight": 0.142857, "position": 257, "begin": 55, "end": 55}, 
+                {"id": 54, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 263, "begin": 56, "end": 56}, 
+                {"id": 55, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 266, "begin": 57, "end": 57}, 
+                {"id": 56, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 270, "begin": 58, "end": 58}, 
+                {"id": 57, "text": "시대", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 274, "begin": 59, "end": 59}, 
+                {"id": 58, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 280, "begin": 60, "end": 60}, 
+                {"id": 59, "text": "유적", "type": "NNG", "scode": "080000", "weight": 0.1, "position": 284, "begin": 61, "end": 61}, 
+                {"id": 60, "text": "으로서", "type": "JKB", "scode": "000000", "weight": 1, "position": 290, "begin": 62, "end": 62}, 
+                {"id": 61, "text": "많", "type": "VA", "scode": "000000", "weight": 1, "position": 300, "begin": 63, "end": 63}, 
+                {"id": 62, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 303, "begin": 64, "end": 64}, 
+                {"id": 63, "text": "수로교", "type": "NNG", "scode": "000000", "weight": 1, "position": 307, "begin": 65, "end": 66}, 
+                {"id": 64, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 316, "begin": 67, "end": 67}, 
+                {"id": 65, "text": "水路橋", "type": "SH", "scode": "000000", "weight": 1, "position": 317, "begin": 68, "end": 68}, 
+                {"id": 66, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 326, "begin": 69, "end": 69}, 
+                {"id": 67, "text": "·", "type": "SP", "scode": "000000", "weight": 1, "position": 327, "begin": 70, "end": 70}, 
+                {"id": 68, "text": "하수도", "type": "NNG", "scode": "000000", "weight": 1, "position": 329, "begin": 71, "end": 72}, 
+                {"id": 69, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 339, "begin": 73, "end": 73}, 
+                {"id": 70, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 342, "begin": 74, "end": 74}, 
+                {"id": 71, "text": "아치", "type": "NNG", "scode": "070002", "weight": 0.0909091, "position": 346, "begin": 75, "end": 75}, 
+                {"id": 72, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 352, "begin": 76, "end": 76}, 
+                {"id": 73, "text": "현존하", "type": "VV", "scode": "000002", "weight": 0.5, "position": 356, "begin": 77, "end": 78}, 
+                {"id": 74, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 365, "begin": 79, "end": 79}, 
+                {"id": 75, "text": "있", "type": "VX", "scode": "010902", "weight": 0.0416667, "position": 369, "begin": 80, "end": 80}, 
+                {"id": 76, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 372, "begin": 81, "end": 81}, 
+                {"id": 77, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 375, "begin": 82, "end": 82}
+            ], 
+            "word": [
+                {"id": 0, "text": "아치는", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "이집트·그리스", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "시대의", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "기둥과", "type": "", "begin": 7, "end": 8}, 
+                {"id": 4, "text": "보와", "type": "", "begin": 9, "end": 10}, 
+                {"id": 5, "text": "같은", "type": "", "begin": 11, "end": 12}, 
+                {"id": 6, "text": "직선재를", "type": "", "begin": 13, "end": 15}, 
+                {"id": 7, "text": "사용한", "type": "", "begin": 16, "end": 18}, 
+                {"id": 8, "text": "문형(門型)의", "type": "", "begin": 19, "end": 23}, 
+                {"id": 9, "text": "구조형식에", "type": "", "begin": 24, "end": 26}, 
+                {"id": 10, "text": "이어", "type": "", "begin": 27, "end": 28}, 
+                {"id": 11, "text": "로마", "type": "", "begin": 29, "end": 29}, 
+                {"id": 12, "text": "시대에", "type": "", "begin": 30, "end": 31}, 
+                {"id": 13, "text": "발전을", "type": "", "begin": 32, "end": 33}, 
+                {"id": 14, "text": "이룩한", "type": "", "begin": 34, "end": 35}, 
+                {"id": 15, "text": "것으로,", "type": "", "begin": 36, "end": 38}, 
+                {"id": 16, "text": "교량의", "type": "", "begin": 39, "end": 40}, 
+                {"id": 17, "text": "건설도", "type": "", "begin": 41, "end": 42}, 
+                {"id": 18, "text": "이", "type": "", "begin": 43, "end": 43}, 
+                {"id": 19, "text": "방식으로", "type": "", "begin": 44, "end": 45}, 
+                {"id": 20, "text": "비교적", "type": "", "begin": 46, "end": 47}, 
+                {"id": 21, "text": "수월해져서", "type": "", "begin": 48, "end": 51}, 
+                {"id": 22, "text": "현재의", "type": "", "begin": 52, "end": 53}, 
+                {"id": 23, "text": "로마", "type": "", "begin": 54, "end": 54}, 
+                {"id": 24, "text": "부근에도", "type": "", "begin": 55, "end": 57}, 
+                {"id": 25, "text": "이", "type": "", "begin": 58, "end": 58}, 
+                {"id": 26, "text": "시대의", "type": "", "begin": 59, "end": 60}, 
+                {"id": 27, "text": "유적으로서", "type": "", "begin": 61, "end": 62}, 
+                {"id": 28, "text": "많은", "type": "", "begin": 63, "end": 64}, 
+                {"id": 29, "text": "수로교(水路橋)·하수도", "type": "", "begin": 65, "end": 72}, 
+                {"id": 30, "text": "등의", "type": "", "begin": 73, "end": 74}, 
+                {"id": 31, "text": "아치가", "type": "", "begin": 75, "end": 76}, 
+                {"id": 32, "text": "현존하고", "type": "", "begin": 77, "end": 79}, 
+                {"id": 33, "text": "있다.", "type": "", "begin": 80, "end": 82}
+            ], 
+            "NE": [
+                {"id": 0, "text": "이집트", "type": "LCP_COUNTRY", "begin": 2, "end": 2, "weight": 0.388427, "common_noun": 0}, 
+                {"id": 1, "text": "그리스 시대", "type": "DT_DYNASTY", "begin": 4, "end": 5, "weight": 0.274578, "common_noun": 0}, 
+                {"id": 2, "text": "로마 시대", "type": "DT_DYNASTY", "begin": 29, "end": 30, "weight": 0.718734, "common_noun": 0}, 
+                {"id": 3, "text": "로마", "type": "LCP_CAPITALCITY", "begin": 54, "end": 54, "weight": 0.61673, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "아치는", "head": 15, "label": "NP_SBJ", "mod": [], "weight": 0.101954}, 
+                {"id": 1, "text": "이집트·그리스", "head": 2, "label": "NP", "mod": [], "weight": 0.810938}, 
+                {"id": 2, "text": "시대의", "head": 4, "label": "NP_MOD", "mod": [1], "weight": 0.386831}, 
+                {"id": 3, "text": "기둥과", "head": 4, "label": "NP_CNJ", "mod": [], "weight": 0.417865}, 
+                {"id": 4, "text": "보와", "head": 5, "label": "NP_AJT", "mod": [2, 3], "weight": 0.662761}, 
+                {"id": 5, "text": "같은", "head": 6, "label": "VP_MOD", "mod": [4], "weight": 0.663117}, 
+                {"id": 6, "text": "직선재를", "head": 7, "label": "NP_OBJ", "mod": [5], "weight": 0.566593}, 
+                {"id": 7, "text": "사용한", "head": 9, "label": "VP_MOD", "mod": [6], "weight": 0.592048}, 
+                {"id": 8, "text": "문형(門型)의", "head": 9, "label": "NP_MOD", "mod": [], "weight": 0.629119}, 
+                {"id": 9, "text": "구조형식에", "head": 10, "label": "NP_AJT", "mod": [7, 8], "weight": 0.70498}, 
+                {"id": 10, "text": "이어", "head": 14, "label": "VP", "mod": [9], "weight": 0.304299}, 
+                {"id": 11, "text": "로마", "head": 12, "label": "NP", "mod": [], "weight": 0.729719}, 
+                {"id": 12, "text": "시대에", "head": 14, "label": "NP_AJT", "mod": [11], "weight": 0.789351}, 
+                {"id": 13, "text": "발전을", "head": 14, "label": "NP_OBJ", "mod": [], "weight": 0.82406}, 
+                {"id": 14, "text": "이룩한", "head": 15, "label": "VP_MOD", "mod": [10, 12, 13], "weight": 0.744669}, 
+                {"id": 15, "text": "것으로,", "head": 21, "label": "NP_AJT", "mod": [0, 14], "weight": 0.580621}, 
+                {"id": 16, "text": "교량의", "head": 17, "label": "NP_MOD", "mod": [], "weight": 0.644623}, 
+                {"id": 17, "text": "건설도", "head": 21, "label": "NP_SBJ", "mod": [16], "weight": 0.607078}, 
+                {"id": 18, "text": "이", "head": 19, "label": "DP", "mod": [], "weight": 0.546388}, 
+                {"id": 19, "text": "방식으로", "head": 21, "label": "NP_AJT", "mod": [18], "weight": 0.811063}, 
+                {"id": 20, "text": "비교적", "head": 21, "label": "NP_AJT", "mod": [], "weight": 0.234013}, 
+                {"id": 21, "text": "수월해져서", "head": 32, "label": "VP", "mod": [15, 17, 19, 20], "weight": 0.800277}, 
+                {"id": 22, "text": "현재의", "head": 24, "label": "NP_MOD", "mod": [], "weight": 0.763364}, 
+                {"id": 23, "text": "로마", "head": 24, "label": "NP", "mod": [], "weight": 0.747093}, 
+                {"id": 24, "text": "부근에도", "head": 32, "label": "NP_AJT", "mod": [22, 23], "weight": 0.719249}, 
+                {"id": 25, "text": "이", "head": 26, "label": "DP", "mod": [], "weight": 0.592889}, 
+                {"id": 26, "text": "시대의", "head": 27, "label": "NP_MOD", "mod": [25], "weight": 0.749942}, 
+                {"id": 27, "text": "유적으로서", "head": 32, "label": "NP_AJT", "mod": [26], "weight": 0.796712}, 
+                {"id": 28, "text": "많은", "head": 29, "label": "VP_MOD", "mod": [], "weight": 0.628353}, 
+                {"id": 29, "text": "수로교(水路橋)·하수도", "head": 30, "label": "NP", "mod": [28], "weight": 0.787477}, 
+                {"id": 30, "text": "등의", "head": 31, "label": "NP_MOD", "mod": [29], "weight": 0.702413}, 
+                {"id": 31, "text": "아치가", "head": 32, "label": "NP_SBJ", "mod": [30], "weight": 0.859745}, 
+                {"id": 32, "text": "현존하고", "head": 33, "label": "VP", "mod": [21, 24, 27, 31], "weight": 0.73694}, 
+                {"id": 33, "text": "있다.", "head": -1, "label": "VP", "mod": [32], "weight": 4.19469e-08}
+            ], 
+            "SRL": [
+                {"verb": "같", "sense": 1, "word_id": 5, "weight": 0.326763, "argument": [
+                    {"type": "ARG2", "word_id": 4, "text": "보와", "weight": 0.302895}, 
+                    {"type": "ARG1", "word_id": 6, "text": "직선재를", "weight": 0.350631}
+                ]}, 
+                {"verb": "사용", "sense": 1, "word_id": 7, "weight": 0.173664, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "직선재를", "weight": 0.205086}, 
+                    {"type": "ARG2", "word_id": 9, "text": "구조형식에", "weight": 1}
+                ]}, 
+                {"verb": "잇", "sense": 2, "word_id": 10, "weight": 0.113699, "argument": [
+                    {"type": "ARG2", "word_id": 9, "text": "구조형식에", "weight": 0.113699}
+                ]}, 
+                {"verb": "이룩하", "sense": 1, "word_id": 14, "weight": 0.152347, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 12, "text": "시대에", "weight": 0.161658}, 
+                    {"type": "ARG1", "word_id": 13, "text": "발전을", "weight": 0.202804}
+                ]}, 
+                {"verb": "수월하", "sense": 1, "word_id": 21, "weight": 0.0948116, "argument": [
+                    {"type": "ARG1", "word_id": 17, "text": "건설도", "weight": 0.127488}, 
+                    {"type": "ARGM-MNR", "word_id": 19, "text": "방식으로", "weight": 1}, 
+                    {"type": "ARGM-ADV", "word_id": 20, "text": "비교적", "weight": 1}
+                ]}, 
+                {"verb": "많", "sense": 1, "word_id": 28, "weight": 0.35402, "argument": [
+                    {"type": "ARG1", "word_id": 30, "text": "등의", "weight": 1}
+                ]}, 
+                {"verb": "현존", "sense": 1, "word_id": 32, "weight": 0.301943, "argument": [
+                    {"type": "ARG1", "word_id": 31, "text": "아치가", "weight": 0.261363}, 
+                    {"type": "AUX", "word_id": 33, "text": "있다.", "weight": 0.342523}, 
+                    {"type": "ARGM-LOC", "word_id": 24, "text": "부근에도", "weight": 1}, 
+                    {"type": "ARGM-PRD", "word_id": 27, "text": "유적으로서", "weight": 1}, 
+                    {"type": "ARGM-CAU", "word_id": 21, "text": "수월해져서", "weight": 1}, 
+                    {"type": "ARGM-TMP", "word_id": 22, "text": "현재의", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "아치는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "아치는"}, 
+            {"id": 14, "sent_id": 0, "start_eid": 18, "end_eid": 19, "ne_id": -1, "text": "이 방식으로", "start_eid_short": 18, "end_eid_short": 19, "text_short": "이 방식으로"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 9, "ne_id": -1, "text": "이집트·그리스 시대의 기둥과 보와 같은 직선재를 사용한 문형(門型)의 구조형식에", "start_eid_short": 9, "end_eid_short": 9, "text_short": "구조형식에"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 1, "end_eid": 6, "ne_id": -1, "text": "이집트·그리스 시대의 기둥과 보와 같은 직선재를", "start_eid_short": 6, "end_eid_short": 6, "text_short": "직선재를"}
+        ]}, 
+        {"id": 3, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 1, "end_eid": 4, "ne_id": -1, "text": "이집트·그리스 시대의 기둥과 보와", "start_eid_short": 4, "end_eid_short": 4, "text_short": "보와"}
+        ]}, 
+        {"id": 4, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 1, "text": "이집트·그리스 시대의", "start_eid_short": 2, "end_eid_short": 2, "text_short": "시대의"}
+        ]}, 
+        {"id": 5, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "이집트·그리스", "start_eid_short": 1, "end_eid_short": 1, "text_short": "이집트·그리스"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "기둥과", "start_eid_short": 3, "end_eid_short": 3, "text_short": "기둥과"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 0, "start_eid": 13, "end_eid": 13, "ne_id": -1, "text": "발전을", "start_eid_short": 13, "end_eid_short": 13, "text_short": "발전을"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 0, "start_eid": 16, "end_eid": 17, "ne_id": -1, "text": "교량의 건설도", "start_eid_short": 17, "end_eid_short": 17, "text_short": "건설도"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 0, "start_eid": 16, "end_eid": 16, "ne_id": -1, "text": "교량의", "start_eid_short": 16, "end_eid_short": 16, "text_short": "교량의"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 0, "start_eid": 22, "end_eid": 24, "ne_id": -1, "text": "현재의 로마 부근에도", "start_eid_short": 24, "end_eid_short": 24, "text_short": "부근에도"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 0, "start_eid": 22, "end_eid": 22, "ne_id": -1, "text": "현재의", "start_eid_short": 22, "end_eid_short": 22, "text_short": "현재의"}
+        ]}, 
+        {"id": 12, "type": "LCP_CAPITALCITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 16, "sent_id": 0, "start_eid": 22, "end_eid": 23, "ne_id": 3, "text": "현재의 로마", "start_eid_short": 23, "end_eid_short": 23, "text_short": "로마"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 21, "sent_id": 0, "start_eid": 29, "end_eid": 30, "ne_id": -1, "text": "수로교(水路橋)·하수도 등의", "start_eid_short": 29, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 14, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 11, "end_eid": 12, "ne_id": 2, "text": "로마 시대에", "start_eid_short": 11, "end_eid_short": 12, "text_short": "로마 시대에"}, 
+            {"id": 19, "sent_id": 0, "start_eid": 25, "end_eid": 26, "ne_id": -1, "text": "이 시대의", "start_eid_short": 25, "end_eid_short": 26, "text_short": "이 시대의"}
+        ]}, 
+        {"id": 15, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 8, "ne_id": -1, "text": "이집트·그리스 시대의 기둥과 보와 같은 직선재를 사용한 문형(門型)의", "start_eid_short": 8, "end_eid_short": 8, "text_short": "문형(門型)의"}
+        ]}, 
+        {"id": 16, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "보와", "start_eid_short": 4, "end_eid_short": 4, "text_short": "보와"}
+        ]}, 
+        {"id": 17, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 0, "start_eid": 29, "end_eid": 31, "ne_id": -1, "text": "수로교(水路橋)·하수도 등의 아치가", "start_eid_short": 29, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 18, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 0, "start_eid": 25, "end_eid": 27, "ne_id": -1, "text": "이 시대의 유적으로서", "start_eid_short": 27, "end_eid_short": 27, "text_short": "유적으로서"}
+        ]}, 
+        {"id": 19, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 15, "ne_id": -1, "text": "이집트·그리스 시대의 기둥과 보와 같은 직선재를 사용한 문형(門型)의 구조형식에 이어 로마 시대에 발전을 이룩한 것으로,", "start_eid_short": 15, "end_eid_short": 15, "text_short": "것으로,"}
+        ]}
+    ]
+}

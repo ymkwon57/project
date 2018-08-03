@@ -1,0 +1,321 @@
+{
+    "doc_id": "E2016.837.34_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "'이 현상'은 커졌다가 가늘어지는 은은한 종소리나 악기를 조율할 때 일어나는 현상이다.", 
+            "morp": [
+                {"id": 0, "lemma": "'", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "이", "type": "MM", "position": 1, "weight": 0.000372718}, 
+                {"id": 2, "lemma": "현상", "type": "NNG", "position": 5, "weight": 0.73734}, 
+                {"id": 3, "lemma": "'", "type": "SS", "position": 11, "weight": 1}, 
+                {"id": 4, "lemma": "은", "type": "JX", "position": 12, "weight": 0.0128817}, 
+                {"id": 5, "lemma": "커지", "type": "VV", "position": 16, "weight": 0.9}, 
+                {"id": 6, "lemma": "었", "type": "EP", "position": 19, "weight": 0.9}, 
+                {"id": 7, "lemma": "다가", "type": "EC", "position": 22, "weight": 0.188685}, 
+                {"id": 8, "lemma": "가늘", "type": "VA", "position": 29, "weight": 0.9}, 
+                {"id": 9, "lemma": "어", "type": "EC", "position": 35, "weight": 0.311591}, 
+                {"id": 10, "lemma": "지", "type": "VX", "position": 38, "weight": 0.0539764}, 
+                {"id": 11, "lemma": "는", "type": "ETM", "position": 41, "weight": 0.183966}, 
+                {"id": 12, "lemma": "은은하", "type": "VA", "position": 45, "weight": 0.9}, 
+                {"id": 13, "lemma": "ㄴ", "type": "ETM", "position": 51, "weight": 0.430446}, 
+                {"id": 14, "lemma": "종", "type": "NNG", "position": 55, "weight": 0.640279}, 
+                {"id": 15, "lemma": "소리", "type": "NNG", "position": 58, "weight": 0.9}, 
+                {"id": 16, "lemma": "나", "type": "JC", "position": 64, "weight": 0.00543468}, 
+                {"id": 17, "lemma": "악기", "type": "NNG", "position": 68, "weight": 0.801392}, 
+                {"id": 18, "lemma": "를", "type": "JKO", "position": 74, "weight": 0.137686}, 
+                {"id": 19, "lemma": "조율", "type": "NNG", "position": 78, "weight": 0.10021}, 
+                {"id": 20, "lemma": "하", "type": "XSV", "position": 84, "weight": 0.0001}, 
+                {"id": 21, "lemma": "ㄹ", "type": "ETM", "position": 84, "weight": 0.387847}, 
+                {"id": 22, "lemma": "때", "type": "NNG", "position": 88, "weight": 0.656522}, 
+                {"id": 23, "lemma": "일어나", "type": "VV", "position": 92, "weight": 0.9}, 
+                {"id": 24, "lemma": "는", "type": "ETM", "position": 101, "weight": 0.184941}, 
+                {"id": 25, "lemma": "현상", "type": "NNG", "position": 105, "weight": 0.65874}, 
+                {"id": 26, "lemma": "이", "type": "VCP", "position": 111, "weight": 0.0177525}, 
+                {"id": 27, "lemma": "다", "type": "EF", "position": 114, "weight": 0.353579}, 
+                {"id": 28, "lemma": ".", "type": "SF", "position": 117, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "이", "type": "MM", "scode": "050101", "weight": 0.0172414, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "현상", "type": "NNG", "scode": "030000", "weight": 0.0833333, "position": 5, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 11, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 12, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "커지", "type": "VV", "scode": "000000", "weight": 1, "position": 16, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 19, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "다가", "type": "EC", "scode": "000000", "weight": 1, "position": 22, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "가늘", "type": "VA", "scode": "000002", "weight": 0.142857, "position": 29, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 35, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "지", "type": "VX", "scode": "040103", "weight": 0.037037, "position": 38, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 41, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "은은하", "type": "VA", "scode": "020102", "weight": 0.2, "position": 45, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 51, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "종소리", "type": "NNG", "scode": "000000", "weight": 1, "position": 55, "begin": 14, "end": 15}, 
+                {"id": 15, "text": "나", "type": "JC", "scode": "000000", "weight": 1, "position": 64, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "악기", "type": "NNG", "scode": "050000", "weight": 0.166667, "position": 68, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 74, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "조율하", "type": "VV", "scode": "020001", "weight": 0.333333, "position": 78, "begin": 19, "end": 20}, 
+                {"id": 19, "text": "ㄹ", "type": "ETM", "scode": "000000", "weight": 1, "position": 84, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 88, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "일어나", "type": "VV", "scode": "000207", "weight": 0.0909091, "position": 92, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 101, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "현상", "type": "NNG", "scode": "030000", "weight": 0.0833333, "position": 105, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 111, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 114, "begin": 27, "end": 27}, 
+                {"id": 26, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 117, "begin": 28, "end": 28}
+            ], 
+            "word": [
+                {"id": 0, "text": "'이", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "현상'은", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "커졌다가", "type": "", "begin": 5, "end": 7}, 
+                {"id": 3, "text": "가늘어지는", "type": "", "begin": 8, "end": 11}, 
+                {"id": 4, "text": "은은한", "type": "", "begin": 12, "end": 13}, 
+                {"id": 5, "text": "종소리나", "type": "", "begin": 14, "end": 16}, 
+                {"id": 6, "text": "악기를", "type": "", "begin": 17, "end": 18}, 
+                {"id": 7, "text": "조율할", "type": "", "begin": 19, "end": 21}, 
+                {"id": 8, "text": "때", "type": "", "begin": 22, "end": 22}, 
+                {"id": 9, "text": "일어나는", "type": "", "begin": 23, "end": 24}, 
+                {"id": 10, "text": "현상이다.", "type": "", "begin": 25, "end": 28}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "'이", "head": 1, "label": "DP", "mod": [], "weight": 0.52941}, 
+                {"id": 1, "text": "현상'은", "head": 10, "label": "NP_SBJ", "mod": [0], "weight": 0.337615}, 
+                {"id": 2, "text": "커졌다가", "head": 3, "label": "VP", "mod": [], "weight": 0.685823}, 
+                {"id": 3, "text": "가늘어지는", "head": 6, "label": "VP_MOD", "mod": [2], "weight": 0.828787}, 
+                {"id": 4, "text": "은은한", "head": 5, "label": "VP_MOD", "mod": [], "weight": 0.422145}, 
+                {"id": 5, "text": "종소리나", "head": 6, "label": "NP_CNJ", "mod": [4], "weight": 0.417015}, 
+                {"id": 6, "text": "악기를", "head": 7, "label": "NP_OBJ", "mod": [5, 3], "weight": 0.699321}, 
+                {"id": 7, "text": "조율할", "head": 8, "label": "VP_MOD", "mod": [6], "weight": 0.863631}, 
+                {"id": 8, "text": "때", "head": 9, "label": "NP_AJT", "mod": [7], "weight": 0.687643}, 
+                {"id": 9, "text": "일어나는", "head": 10, "label": "VP_MOD", "mod": [8], "weight": 0.652323}, 
+                {"id": 10, "text": "현상이다.", "head": -1, "label": "VNP", "mod": [9, 1], "weight": 0.00386387}
+            ], 
+            "SRL": [
+                {"verb": "크", "sense": 1, "word_id": 2, "weight": 0.201628, "argument": [
+                    {"type": "ARG1", "word_id": 5, "text": "종소리나", "weight": 1}
+                ]}, 
+                {"verb": "가늘", "sense": 1, "word_id": 3, "weight": 0.230704, "argument": [
+                    {"type": "ARG1", "word_id": 5, "text": "종소리나", "weight": 1}
+                ]}, 
+                {"verb": "은은하", "sense": 1, "word_id": 4, "weight": 0.358083, "argument": [
+                    {"type": "ARG1", "word_id": 5, "text": "종소리나", "weight": 0.358083}
+                ]}, 
+                {"verb": "조율", "sense": 1, "word_id": 7, "weight": 0.240979, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "악기를", "weight": 0.240979}
+                ]}, 
+                {"verb": "일어나", "sense": 1, "word_id": 9, "weight": 0.198474, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 8, "text": "때", "weight": 0.264846}, 
+                    {"type": "ARG1", "word_id": 10, "text": "현상이다.", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "성덕대왕신종은 이 현상의 대표적인 예인데 주파수가 비슷한 두 개의 파동이 간섭을 일으켜서 새로운 합성파가 만들어지는 이것은 무엇일까?", 
+            "morp": [
+                {"id": 0, "lemma": "성덕대왕신종", "type": "NNG", "position": 118, "weight": 0.0765423}, 
+                {"id": 1, "lemma": "은", "type": "JX", "position": 136, "weight": 0.0520511}, 
+                {"id": 2, "lemma": "이", "type": "MM", "position": 140, "weight": 0.00176496}, 
+                {"id": 3, "lemma": "현상", "type": "NNG", "position": 144, "weight": 0.73734}, 
+                {"id": 4, "lemma": "의", "type": "JKG", "position": 150, "weight": 0.0694213}, 
+                {"id": 5, "lemma": "대표", "type": "NNG", "position": 154, "weight": 0.9}, 
+                {"id": 6, "lemma": "적", "type": "XSN", "position": 160, "weight": 0.0168756}, 
+                {"id": 7, "lemma": "이", "type": "VCP", "position": 163, "weight": 0.0165001}, 
+                {"id": 8, "lemma": "ㄴ", "type": "ETM", "position": 163, "weight": 0.220712}, 
+                {"id": 9, "lemma": "예", "type": "NNG", "position": 167, "weight": 0.550366}, 
+                {"id": 10, "lemma": "이", "type": "VCP", "position": 170, "weight": 0.0177525}, 
+                {"id": 11, "lemma": "ㄴ데", "type": "EC", "position": 170, "weight": 0.209075}, 
+                {"id": 12, "lemma": "주파", "type": "NNG", "position": 177, "weight": 0.9}, 
+                {"id": 13, "lemma": "수", "type": "NNG", "position": 183, "weight": 0.00933311}, 
+                {"id": 14, "lemma": "가", "type": "JKS", "position": 186, "weight": 0.066324}, 
+                {"id": 15, "lemma": "비슷하", "type": "VA", "position": 190, "weight": 0.9}, 
+                {"id": 16, "lemma": "ㄴ", "type": "ETM", "position": 196, "weight": 0.430446}, 
+                {"id": 17, "lemma": "두", "type": "MM", "position": 200, "weight": 0.00826235}, 
+                {"id": 18, "lemma": "개", "type": "NNB", "position": 204, "weight": 0.157893}, 
+                {"id": 19, "lemma": "의", "type": "JKG", "position": 207, "weight": 0.0520933}, 
+                {"id": 20, "lemma": "파동", "type": "NNG", "position": 211, "weight": 0.867878}, 
+                {"id": 21, "lemma": "이", "type": "JKS", "position": 217, "weight": 0.0360723}, 
+                {"id": 22, "lemma": "간섭", "type": "NNG", "position": 221, "weight": 0.9}, 
+                {"id": 23, "lemma": "을", "type": "JKO", "position": 227, "weight": 0.129611}, 
+                {"id": 24, "lemma": "일으키", "type": "VV", "position": 231, "weight": 0.9}, 
+                {"id": 25, "lemma": "어서", "type": "EC", "position": 237, "weight": 0.421998}, 
+                {"id": 26, "lemma": "새롭", "type": "VA", "position": 244, "weight": 0.9}, 
+                {"id": 27, "lemma": "ㄴ", "type": "ETM", "position": 247, "weight": 0.430446}, 
+                {"id": 28, "lemma": "합성", "type": "NNG", "position": 254, "weight": 0.9}, 
+                {"id": 29, "lemma": "파", "type": "XSN", "position": 260, "weight": 0.000623483}, 
+                {"id": 30, "lemma": "가", "type": "JKS", "position": 263, "weight": 0.134553}, 
+                {"id": 31, "lemma": "만들", "type": "VV", "position": 267, "weight": 0.9}, 
+                {"id": 32, "lemma": "어", "type": "EC", "position": 273, "weight": 0.41831}, 
+                {"id": 33, "lemma": "지", "type": "VX", "position": 276, "weight": 0.0539764}, 
+                {"id": 34, "lemma": "는", "type": "ETM", "position": 279, "weight": 0.183966}, 
+                {"id": 35, "lemma": "이것", "type": "NP", "position": 283, "weight": 0.0102992}, 
+                {"id": 36, "lemma": "은", "type": "JX", "position": 289, "weight": 0.191811}, 
+                {"id": 37, "lemma": "무엇", "type": "NP", "position": 293, "weight": 0.9}, 
+                {"id": 38, "lemma": "이", "type": "VCP", "position": 299, "weight": 0.0175768}, 
+                {"id": 39, "lemma": "ㄹ까", "type": "EF", "position": 299, "weight": 0.258243}, 
+                {"id": 40, "lemma": "?", "type": "SF", "position": 305, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "성덕대왕신종", "type": "NNG", "scode": "000000", "weight": 1, "position": 118, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 136, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 140, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "현상", "type": "NNG", "scode": "030000", "weight": 0.0833333, "position": 144, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 150, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "대표적", "type": "NNG", "scode": "000000", "weight": 1, "position": 154, "begin": 5, "end": 6}, 
+                {"id": 6, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 163, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 163, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "예", "type": "NNG", "scode": "080001", "weight": 0.037037, "position": 167, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 170, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "ㄴ데", "type": "EC", "scode": "000000", "weight": 1, "position": 170, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "주파수", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 177, "begin": 12, "end": 13}, 
+                {"id": 12, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 186, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "비슷하", "type": "VA", "scode": "020100", "weight": 0.25, "position": 190, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 196, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "두", "type": "MM", "scode": "010000", "weight": 0.0909091, "position": 200, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "개", "type": "NNB", "scode": "100001", "weight": 0.0454545, "position": 204, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 207, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "파동", "type": "NNG", "scode": "010005", "weight": 0.166667, "position": 211, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 217, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "간섭", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 221, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 227, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "일으키", "type": "VV", "scode": "000003", "weight": 0.166667, "position": 231, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "어서", "type": "EC", "scode": "000000", "weight": 1, "position": 237, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "새롭", "type": "VA", "scode": "000001", "weight": 0.333333, "position": 244, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 247, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "합성", "type": "NNG", "scode": "010002", "weight": 0.111111, "position": 254, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "파", "type": "XSN", "scode": "110000", "weight": 0.0526316, "position": 260, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 263, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "만들", "type": "VV", "scode": "000103", "weight": 0.0769231, "position": 267, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 273, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "지", "type": "VX", "scode": "040101", "weight": 0.037037, "position": 276, "begin": 33, "end": 33}, 
+                {"id": 32, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 279, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "이것", "type": "NP", "scode": "000001", "weight": 0.25, "position": 283, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 289, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "무엇", "type": "NP", "scode": "000001", "weight": 0.5, "position": 293, "begin": 37, "end": 37}, 
+                {"id": 36, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 299, "begin": 38, "end": 38}, 
+                {"id": 37, "text": "ㄹ까", "type": "EF", "scode": "000000", "weight": 1, "position": 299, "begin": 39, "end": 39}, 
+                {"id": 38, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 305, "begin": 40, "end": 40}
+            ], 
+            "word": [
+                {"id": 0, "text": "성덕대왕신종은", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "이", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "현상의", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "대표적인", "type": "", "begin": 5, "end": 8}, 
+                {"id": 4, "text": "예인데", "type": "", "begin": 9, "end": 11}, 
+                {"id": 5, "text": "주파수가", "type": "", "begin": 12, "end": 14}, 
+                {"id": 6, "text": "비슷한", "type": "", "begin": 15, "end": 16}, 
+                {"id": 7, "text": "두", "type": "", "begin": 17, "end": 17}, 
+                {"id": 8, "text": "개의", "type": "", "begin": 18, "end": 19}, 
+                {"id": 9, "text": "파동이", "type": "", "begin": 20, "end": 21}, 
+                {"id": 10, "text": "간섭을", "type": "", "begin": 22, "end": 23}, 
+                {"id": 11, "text": "일으켜서", "type": "", "begin": 24, "end": 25}, 
+                {"id": 12, "text": "새로운", "type": "", "begin": 26, "end": 27}, 
+                {"id": 13, "text": "합성파가", "type": "", "begin": 28, "end": 30}, 
+                {"id": 14, "text": "만들어지는", "type": "", "begin": 31, "end": 34}, 
+                {"id": 15, "text": "이것은", "type": "", "begin": 35, "end": 36}, 
+                {"id": 16, "text": "무엇일까?", "type": "", "begin": 37, "end": 40}
+            ], 
+            "NE": [
+                {"id": 0, "text": "성덕대왕신종", "type": "AF_CULTURAL_ASSET", "begin": 0, "end": 0, "weight": 0.266167, "common_noun": 0}, 
+                {"id": 1, "text": "두 개", "type": "QT_COUNT", "begin": 17, "end": 18, "weight": 0.759107, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "성덕대왕신종은", "head": 4, "label": "NP_SBJ", "mod": [], "weight": 0.476141}, 
+                {"id": 1, "text": "이", "head": 2, "label": "DP", "mod": [], "weight": 0.644013}, 
+                {"id": 2, "text": "현상의", "head": 3, "label": "NP_MOD", "mod": [1], "weight": 0.682456}, 
+                {"id": 3, "text": "대표적인", "head": 4, "label": "VNP_MOD", "mod": [2], "weight": 0.725216}, 
+                {"id": 4, "text": "예인데", "head": 11, "label": "VNP", "mod": [3, 0], "weight": 0.353265}, 
+                {"id": 5, "text": "주파수가", "head": 6, "label": "NP_SBJ", "mod": [], "weight": 0.573746}, 
+                {"id": 6, "text": "비슷한", "head": 9, "label": "VP_MOD", "mod": [5], "weight": 0.56955}, 
+                {"id": 7, "text": "두", "head": 8, "label": "DP", "mod": [], "weight": 0.759767}, 
+                {"id": 8, "text": "개의", "head": 9, "label": "NP_MOD", "mod": [7], "weight": 0.55711}, 
+                {"id": 9, "text": "파동이", "head": 11, "label": "NP_SBJ", "mod": [6, 8], "weight": 0.851873}, 
+                {"id": 10, "text": "간섭을", "head": 11, "label": "NP_OBJ", "mod": [], "weight": 0.864525}, 
+                {"id": 11, "text": "일으켜서", "head": 14, "label": "VP", "mod": [4, 9, 10], "weight": 0.735257}, 
+                {"id": 12, "text": "새로운", "head": 13, "label": "VP_MOD", "mod": [], "weight": 0.628759}, 
+                {"id": 13, "text": "합성파가", "head": 14, "label": "NP_SBJ", "mod": [12], "weight": 0.813732}, 
+                {"id": 14, "text": "만들어지는", "head": 15, "label": "VP_MOD", "mod": [11, 13], "weight": 0.600725}, 
+                {"id": 15, "text": "이것은", "head": 16, "label": "NP_SBJ", "mod": [14], "weight": 0.815419}, 
+                {"id": 16, "text": "무엇일까?", "head": -1, "label": "VNP", "mod": [15], "weight": 0.000822876}
+            ], 
+            "SRL": [
+                {"verb": "비슷하", "sense": 1, "word_id": 6, "weight": 0.155905, "argument": [
+                    {"type": "ARG2", "word_id": 5, "text": "주파수가", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 9, "text": "파동이", "weight": 1}
+                ]}, 
+                {"verb": "일으키", "sense": 1, "word_id": 11, "weight": 0.273882, "argument": [
+                    {"type": "ARG0", "word_id": 9, "text": "파동이", "weight": 0.312074}, 
+                    {"type": "ARG1", "word_id": 10, "text": "간섭을", "weight": 0.235691}
+                ]}, 
+                {"verb": "새롭", "sense": 1, "word_id": 12, "weight": 0.504183, "argument": [
+                    {"type": "ARG1", "word_id": 13, "text": "합성파가", "weight": 0.504183}
+                ]}, 
+                {"verb": "만들", "sense": 3, "word_id": 14, "weight": 0.156223, "argument": [
+                    {"type": "ARG1", "word_id": 13, "text": "합성파가", "weight": 0.153509}, 
+                    {"type": "ARGM-CAU", "word_id": 11, "text": "일으켜서", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "종소리나", "start_eid_short": 5, "end_eid_short": 5, "text_short": "종소리나"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 2, "end_eid": 8, "ne_id": -1, "text": "커졌다가 가늘어지는 은은한 종소리나 악기를 조율할 때", "start_eid_short": 8, "end_eid_short": 8, "text_short": "때"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 2, "end_eid": 6, "ne_id": -1, "text": "커졌다가 가늘어지는 은은한 종소리나 악기를", "start_eid_short": 6, "end_eid_short": 6, "text_short": "악기를"}
+        ]}, 
+        {"id": 3, "type": "AF_CULTURAL_ASSET", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "성덕대왕신종은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "성덕대왕신종은"}, 
+            {"id": 7, "sent_id": 1, "start_eid": 1, "end_eid": 4, "ne_id": -1, "text": "이 현상의 대표적인 예인데", "start_eid_short": 4, "end_eid_short": 4, "text_short": "예인데"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 5, "end_eid": 9, "ne_id": -1, "text": "주파수가 비슷한 두 개의 파동이", "start_eid_short": 9, "end_eid_short": 9, "text_short": "파동이"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "주파수가", "start_eid_short": 5, "end_eid_short": 5, "text_short": "주파수가"}
+        ]}, 
+        {"id": 6, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 7, "end_eid": 8, "ne_id": 1, "text": "두 개의", "start_eid_short": 7, "end_eid_short": 8, "text_short": "두 개의"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 10, "end_eid": 10, "ne_id": -1, "text": "간섭을", "start_eid_short": 10, "end_eid_short": 10, "text_short": "간섭을"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 5, "end_eid": 13, "ne_id": -1, "text": "주파수가 비슷한 두 개의 파동이 간섭을 일으켜서 새로운 합성파가", "start_eid_short": 13, "end_eid_short": 13, "text_short": "합성파가"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "'이 현상'은", "start_eid_short": 1, "end_eid_short": 1, "text_short": "현상'은"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 2, "end_eid": 10, "ne_id": -1, "text": "커졌다가 가늘어지는 은은한 종소리나 악기를 조율할 때 일어나는 현상이다.", "start_eid_short": 10, "end_eid_short": 10, "text_short": "현상이다."}, 
+            {"id": 8, "sent_id": 1, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "이 현상의", "start_eid_short": 1, "end_eid_short": 2, "text_short": "이 현상의"}, 
+            {"id": 14, "sent_id": 1, "start_eid": 15, "end_eid": 15, "ne_id": -1, "text": "이것은", "start_eid_short": 15, "end_eid_short": 15, "text_short": "이것은"}, 
+            {"id": 15, "sent_id": 1, "start_eid": 16, "end_eid": 16, "ne_id": -1, "text": "무엇일까?", "start_eid_short": 16, "end_eid_short": 16, "text_short": "무엇일까?"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "악기를", "start_eid_short": 6, "end_eid_short": 6, "text_short": "악기를"}
+        ]}
+    ]
+}

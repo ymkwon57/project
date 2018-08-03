@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+마누아 제도[Manua Islands]는 태평양 남서부에 있는 미국령 사모아의 3개 섬(타우·오푸·올로세가)으로 이루어진 제도이다.
+남태평양 사모아 제도의 동쪽에 있는 투투일라ㆍ 아두누ㆍ 타우 등의 여러 섬과 마누아 제도의 섬들로 이루어진 미국의 영토로 동(東)사모아라고도 한다. 1722년 네덜란드가 발견하였다. 유럽인과 처음 접촉한 1722년 네덜란드의 항해가 야콥 로게펜(Jacob Roggeveen)이 처음 마누아 제도를 항해하였으나 아무런 보고도 하지 않았다. 1768년 프랑스의 탐험가 루이 앙투안 드 부갱빌이 유럽인이다.
+마누아 제도의 주도(主島)인 타우 섬의 면적은 39㎢이다. 원뿔 모양을 하고 있는 이 섬은 중앙에 라타 산(969m)이 솟아 있다. 이 섬의 주요 촌락은 서해안에 있는 루마이다. 오푸(3㎢)와 올로세가(2㎢)는 타우에서 북서쪽으로 약 13㎞ 떨어져 있으며 좁은 해협을 사이에 두고 있다. 인구 1732(1980)명이다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="7" text="마누아 제도" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="24" end="27" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="50" end="52" text="타우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="53" end="55" text="오푸" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="56" end="60" text="올로세가" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="75" end="79" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="80" end="86" text="사모아 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="95" end="99" text="투투일라" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="101" end="104" text="아두누" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="106" end="108" text="타우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="118" end="124" text="마누아 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="135" end="137" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="147" end="150" text="사모아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="233" end="239" text="마누아 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="300" end="306" text="마누아 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="316" end="320" text="타우 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="355" end="359" text="라타 산" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me1" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="386" end="389" text="서해안" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="394" end="397" text="루마이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="400" end="402" text="오푸" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me2" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="408" end="412" text="올로세가" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me3" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="418" end="420" text="타우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="69" end="71" text="제도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="48" end="49" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="115" end="116" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="126" end="128" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="139" end="141" text="영토" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="376" end="377" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="348" end="349" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="382" end="384" text="촌락" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="308" end="310" text="주도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="36" end="39" text="미국령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="40" end="43" text="사모아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="446" end="448" text="해협" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="좁은" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="205" end="211" text="야콥 로게펜" type="PERSON" dimensionality="POINT" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="33" end="34" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="71" end="72" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="92" end="93" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e3" start="170" end="173" text="발견하" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e4" start="329" end="330" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e5" start="457" end="458" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e6" start="370" end="371" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e7" start="391" end="392" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e8" start="343" end="344" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e9" start="439" end="440" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="241" end="244" text="항해하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="367" end="369" text="솟아" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s3" start="389" end="390" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="435" end="438" text="떨어져" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="88" end="90" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="351" end="353" text="중앙" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="423" end="426" text="북서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="450" end="452" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="28" end="31" text="남서부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="43" end="44" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="124" end="125" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="306" end="307" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="137" end="138" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="239" end="240" text="를" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="326" end="329" text="39㎢" value="39" unit="km2" comment="" />
+<MEASURE id="me1" start="360" end="364" text="969m" value="969" unit="m" comment="" />
+<MEASURE id="me2" start="403" end="405" text="3㎢" value="3" unit="km2" comment="" />
+<MEASURE id="me3" start="413" end="415" text="2㎢" value="2" unit="km2" comment="" />
+<MEASURE id="me4" start="431" end="434" text="13㎞" value="13" unit="km" comment="" />
+<SENTENCE id="sent0" start="1" end="74" text="마누아 제도[Manua Islands]는 태평양 남서부에 있는 미국령 사모아의 3개 섬(타우·오푸·올로세가)으로 이루어진 제도이다." comment="" />
+<SENTENCE id="sent1" start="75" end="157" text="남태평양 사모아 제도의 동쪽에 있는 투투일라ㆍ 아두누ㆍ 타우 등의 여러 섬과 마누아 제도의 섬들로 이루어진 미국의 영토로 동(東)사모아라고도 한다." comment="" />
+<SENTENCE id="sent2" start="158" end="176" text="1722년 네덜란드가 발견하였다." comment="" />
+<SENTENCE id="sent3" start="177" end="263" text="유럽인과 처음 접촉한 1722년 네덜란드의 항해가 야콥 로게펜(Jacob Roggeveen)이 처음 마누아 제도를 항해하였으나 아무런 보고도 하지 않았다." comment="" />
+<SENTENCE id="sent4" start="264" end="299" text="1768년 프랑스의 탐험가 루이 앙투안 드 부갱빌이 유럽인이다." comment="" />
+<SENTENCE id="sent5" start="300" end="332" text="마누아 제도의 주도(主島)인 타우 섬의 면적은 39㎢이다." comment="" />
+<SENTENCE id="sent6" start="333" end="373" text="원뿔 모양을 하고 있는 이 섬은 중앙에 라타 산(969m)이 솟아 있다." comment="" />
+<SENTENCE id="sent7" start="374" end="399" text="이 섬의 주요 촌락은 서해안에 있는 루마이다." comment="" />
+<SENTENCE id="sent8" start="400" end="460" text="오푸(3㎢)와 올로세가(2㎢)는 타우에서 북서쪽으로 약 13㎞ 떨어져 있으며 좁은 해협을 사이에 두고 있다." comment="" />
+<SENTENCE id="sent9" start="461" end="478" text="인구 1732(1980)명이다." comment="" />
+<QSLINK id="qsl7" fromID="pl33" fromText="루마이" toID="pl32" toText="서해안" relType="NTPP" trajector="pl33" landmark="pl32" trigger="s3" comment="" />
+<QSLINK id="qsl8" fromID="pl34" fromText="오푸" toID="pl36" toText="타우" relType="DC" trajector="pl34" landmark="pl36" trigger="s10" comment="" />
+<QSLINK id="qsl9" fromID="pl35" fromText="올로세가" toID="pl36" toText="타우" relType="DC" trajector="pl35" landmark="pl36" trigger="s10" comment="" />
+<QSLINK id="qsl10" fromID="pl34" fromText="오푸" toID="pl35" toText="올로세가" relType="DC" trajector="pl34" landmark="pl35" trigger="s4" comment="" />
+<QSLINK id="qsl11" fromID="pl34" fromText="오푸" toID="p0" toText="해협" relType="OUT" trajector="pl34" landmark="p0" trigger="s4" comment="" />
+<QSLINK id="qsl12" fromID="pl35" fromText="올로세가" toID="p0" toText="해협" relType="OUT" trajector="pl35" landmark="p0" trigger="s4" comment="" />
+<QSLINK id="qsl5" fromID="pl14" fromText="섬들" toID="pl15" toText="마누아 제도" relType="NTPP" trajector="pl14" landmark="pl15" trigger="s8" comment="" />
+<QSLINK id="qsl6" fromID="pl28" fromText="주도" toID="pl24" toText="마누아 제도" relType="NTPP" trajector="pl28" landmark="pl24" trigger="s9" comment="" />
+<QSLINK id="qsl15" fromID="pl1" fromText="섬" toID="pl30" toText="사모아" relType="NTPP" trajector="pl1" landmark="pl30" trigger="s7" comment="" />
+<QSLINK id="qsl16" fromID="pl16" fromText="영토" toID="pl17" toText="미국" relType="NTPP" trajector="pl16" landmark="pl17" trigger="s6" comment="" />
+<OLINK id="ol0" fromID="pl10" fromText="투투일라" toID="pl9" toText="사모아 제도" relType="동" trajector="pl10" landmark="pl9" trigger="s0" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl11" fromText="아두누" toID="pl9" toText="사모아 제도" relType="동" trajector="pl11" landmark="pl9" trigger="s0" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl13" fromText="타우" toID="pl9" toText="사모아 제도" relType="동" trajector="pl13" landmark="pl9" trigger="s0" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl35" fromText="올로세가" toID="pl36" toText="타우" relType="북서" trajector="pl35" landmark="pl36" trigger="s2" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="pl34" fromText="오푸" toID="pl36" toText="타우" relType="북서" trajector="pl34" landmark="pl36" trigger="s2" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol7" fromID="pl4" fromText="섬" toID="pl9" toText="사모아 제도" relType="동" trajector="pl4" landmark="pl9" trigger="s0" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol8" fromID="pl30" fromText="사모아" toID="pl2" toText="태평양" relType="남서" trajector="pl30" landmark="pl2" trigger="s5" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="pl29" fromText="라타 산" toID="pl25" toText="섬" relType="중" trajector="pl29" landmark="pl25" trigger="s1" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="se0" fromText="야콥 로게펜" toID="m0" toText="항해하" trigger="m0" source="" goal="" midPoint="" mover="se0" landmark="pl22" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="pl29" fromText="라타 산" toID="m1" toText="솟아" trigger="m1" source="" goal="" midPoint="" mover="pl29" landmark="pl29" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MEASURELINK id="ml0" fromID="pl27" fromText="타우 섬" toID="me0" toText="39㎢" trajector="pl27" landmark="pl27" relType="GENERAL_DIMENSION" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl29" fromText="라타 산" toID="me1" toText="969m" trajector="pl29" landmark="pl29" relType="HEIGHT" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="pl34" fromText="오푸" toID="me2" toText="3㎢" trajector="pl34" landmark="pl34" relType="GENERAL_DIMENSION" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="pl35" fromText="올로세가" toID="me3" toText="2㎢" trajector="pl35" landmark="pl35" relType="GENERAL_DIMENSION" val="me3" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml4" fromID="pl34" fromText="오푸" toID="pl36" toText="타우" trajector="pl34" landmark="pl36" relType="DISTANCE" val="me4" endPoint1="pl34" endPoint2="pl36" comment="" />
+<MEASURELINK id="ml5" fromID="pl35" fromText="올로세가" toID="pl36" toText="타우" trajector="pl35" landmark="pl36" relType="DISTANCE" val="me4" endPoint1="pl35" endPoint2="pl36" comment="" />
+<MEASURELINK id="ml6" fromID="me0" fromText="39㎢" toID="pl28" toText="주도" trajector="pl28" landmark="pl28" relType="GENERAL_DIMENSION" val="me0" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal5" fromID="pl12" fromText="제도" toID="pl0" toText="마누아 제도" objectID1="pl12" objectID2="pl0" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

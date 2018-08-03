@@ -1,0 +1,353 @@
+{
+    "doc_id": "E2016.790.12_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "세종과학기지", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "세종과학기지(世宗科學基地)는 사우스 셰틀랜드 제도의 킹조지 섬 남서쪽 해안 바르톤 반도(남위 62° 13′ 서경 58° 47′)에 있는 대한민국의 과학 기지로 한국해양연구원 부설 극지연구소 산하의 연구소이다.", 
+            "morp": [
+                {"id": 0, "lemma": "세종과학기지", "type": "NNP", "position": 0, "weight": 0.0890279}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 18, "weight": 1}, 
+                {"id": 2, "lemma": "世宗科學基地", "type": "SH", "position": 19, "weight": 1}, 
+                {"id": 3, "lemma": ")", "type": "SS", "position": 37, "weight": 1}, 
+                {"id": 4, "lemma": "는", "type": "JX", "position": 38, "weight": 0.00823314}, 
+                {"id": 5, "lemma": "사우스", "type": "NNP", "position": 42, "weight": 0.312888}, 
+                {"id": 6, "lemma": "셰틀랜드", "type": "NNP", "position": 42, "weight": 0.312888}, 
+                {"id": 7, "lemma": "제도", "type": "NNG", "position": 65, "weight": 0.9}, 
+                {"id": 8, "lemma": "의", "type": "JKG", "position": 71, "weight": 0.0694213}, 
+                {"id": 9, "lemma": "킹조지", "type": "NNP", "position": 75, "weight": 0.210981}, 
+                {"id": 10, "lemma": "섬", "type": "NNG", "position": 85, "weight": 0.251941}, 
+                {"id": 11, "lemma": "남서", "type": "NNG", "position": 89, "weight": 0.9}, 
+                {"id": 12, "lemma": "쪽", "type": "NNB", "position": 89, "weight": 0.0149456}, 
+                {"id": 13, "lemma": "해안", "type": "NNG", "position": 99, "weight": 0.9}, 
+                {"id": 14, "lemma": "바르톤", "type": "NNP", "position": 106, "weight": 0.6}, 
+                {"id": 15, "lemma": "반도", "type": "NNG", "position": 116, "weight": 0.27481}, 
+                {"id": 16, "lemma": "(", "type": "SS", "position": 122, "weight": 1}, 
+                {"id": 17, "lemma": "남위", "type": "NNG", "position": 123, "weight": 0.9}, 
+                {"id": 18, "lemma": "62", "type": "SN", "position": 130, "weight": 1}, 
+                {"id": 19, "lemma": "°", "type": "SW", "position": 132, "weight": 1}, 
+                {"id": 20, "lemma": "13", "type": "SN", "position": 135, "weight": 1}, 
+                {"id": 21, "lemma": "′", "type": "SW", "position": 137, "weight": 1}, 
+                {"id": 22, "lemma": "서경", "type": "NNG", "position": 141, "weight": 0.14142}, 
+                {"id": 23, "lemma": "58", "type": "SN", "position": 148, "weight": 1}, 
+                {"id": 24, "lemma": "°", "type": "SW", "position": 150, "weight": 1}, 
+                {"id": 25, "lemma": "47", "type": "SN", "position": 153, "weight": 1}, 
+                {"id": 26, "lemma": "′", "type": "SW", "position": 155, "weight": 1}, 
+                {"id": 27, "lemma": ")", "type": "SS", "position": 158, "weight": 1}, 
+                {"id": 28, "lemma": "에", "type": "JKB", "position": 159, "weight": 0.048593}, 
+                {"id": 29, "lemma": "있", "type": "VA", "position": 163, "weight": 0.037292}, 
+                {"id": 30, "lemma": "는", "type": "ETM", "position": 166, "weight": 0.26168}, 
+                {"id": 31, "lemma": "대한민국", "type": "NNP", "position": 170, "weight": 0.0280028}, 
+                {"id": 32, "lemma": "의", "type": "JKG", "position": 182, "weight": 0.0987295}, 
+                {"id": 33, "lemma": "과학", "type": "NNG", "position": 186, "weight": 0.9}, 
+                {"id": 34, "lemma": "기지", "type": "NNG", "position": 193, "weight": 0.184068}, 
+                {"id": 35, "lemma": "로", "type": "JKB", "position": 199, "weight": 0.153229}, 
+                {"id": 36, "lemma": "한국해양연구원", "type": "NNP", "position": 203, "weight": 0.0229938}, 
+                {"id": 37, "lemma": "부설", "type": "NNG", "position": 225, "weight": 0.9}, 
+                {"id": 38, "lemma": "극지연구소", "type": "NNP", "position": 232, "weight": 0.9}, 
+                {"id": 39, "lemma": "산하", "type": "NNG", "position": 248, "weight": 0.130368}, 
+                {"id": 40, "lemma": "의", "type": "JKG", "position": 254, "weight": 0.0694213}, 
+                {"id": 41, "lemma": "연구", "type": "NNG", "position": 258, "weight": 0.9}, 
+                {"id": 42, "lemma": "소", "type": "XSN", "position": 264, "weight": 0.0773428}, 
+                {"id": 43, "lemma": "이", "type": "VCP", "position": 267, "weight": 0.0177525}, 
+                {"id": 44, "lemma": "다", "type": "EF", "position": 270, "weight": 0.353579}, 
+                {"id": 45, "lemma": ".", "type": "SF", "position": 273, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "세종과학기지", "type": "NNP", "scode": "000000", "weight": 0, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 18, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "世宗科學基地", "type": "SH", "scode": "000000", "weight": 1, "position": 19, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 37, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 38, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "사우스", "type": "NNP", "scode": "000000", "weight": 0, "position": 42, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "셰틀랜드", "type": "NNP", "scode": "000000", "weight": 1, "position": 42, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "제도", "type": "NNG", "scode": "090000", "weight": 0.0769231, "position": 65, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 71, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "킹조지", "type": "NNP", "scode": "000000", "weight": 0, "position": 75, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "섬", "type": "NNG", "scode": "030000", "weight": 0.111111, "position": 85, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "남서", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 89, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "쪽", "type": "NNB", "scode": "050001", "weight": 0.0357143, "position": 89, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "해안", "type": "NNG", "scode": "020000", "weight": 0.333333, "position": 99, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "바르톤", "type": "NNP", "scode": "000000", "weight": 0, "position": 106, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "반도", "type": "NNG", "scode": "020000", "weight": 0.111111, "position": 116, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 122, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "남위", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 123, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "62", "type": "SN", "scode": "000000", "weight": 1, "position": 130, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "°", "type": "SW", "scode": "000000", "weight": 1, "position": 132, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "13", "type": "SN", "scode": "000000", "weight": 1, "position": 135, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "′", "type": "SW", "scode": "000000", "weight": 1, "position": 137, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "서경", "type": "NNG", "scode": "020000", "weight": 0.0909091, "position": 141, "begin": 22, "end": 22}, 
+                {"id": 23, "text": "58", "type": "SN", "scode": "000000", "weight": 1, "position": 148, "begin": 23, "end": 23}, 
+                {"id": 24, "text": "°", "type": "SW", "scode": "000000", "weight": 1, "position": 150, "begin": 24, "end": 24}, 
+                {"id": 25, "text": "47", "type": "SN", "scode": "000000", "weight": 1, "position": 153, "begin": 25, "end": 25}, 
+                {"id": 26, "text": "′", "type": "SW", "scode": "000000", "weight": 1, "position": 155, "begin": 26, "end": 26}, 
+                {"id": 27, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 158, "begin": 27, "end": 27}, 
+                {"id": 28, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 159, "begin": 28, "end": 28}, 
+                {"id": 29, "text": "있", "type": "VA", "scode": "010301", "weight": 0.0416667, "position": 163, "begin": 29, "end": 29}, 
+                {"id": 30, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 166, "begin": 30, "end": 30}, 
+                {"id": 31, "text": "대한민국", "type": "NNP", "scode": "000000", "weight": 1, "position": 170, "begin": 31, "end": 31}, 
+                {"id": 32, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 182, "begin": 32, "end": 32}, 
+                {"id": 33, "text": "과학", "type": "NNG", "scode": "000000", "weight": 1, "position": 186, "begin": 33, "end": 33}, 
+                {"id": 34, "text": "기지", "type": "NNG", "scode": "080001", "weight": 0.0666667, "position": 193, "begin": 34, "end": 34}, 
+                {"id": 35, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 199, "begin": 35, "end": 35}, 
+                {"id": 36, "text": "한국해양연구원", "type": "NNP", "scode": "000000", "weight": 0, "position": 203, "begin": 36, "end": 36}, 
+                {"id": 37, "text": "부설", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 225, "begin": 37, "end": 37}, 
+                {"id": 38, "text": "극지연구소", "type": "NNP", "scode": "000000", "weight": 0, "position": 232, "begin": 38, "end": 38}, 
+                {"id": 39, "text": "산하", "type": "NNG", "scode": "030000", "weight": 0.333333, "position": 248, "begin": 39, "end": 39}, 
+                {"id": 40, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 254, "begin": 40, "end": 40}, 
+                {"id": 41, "text": "연구소", "type": "NNG", "scode": "000000", "weight": 1, "position": 258, "begin": 41, "end": 42}, 
+                {"id": 42, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 267, "begin": 43, "end": 43}, 
+                {"id": 43, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 270, "begin": 44, "end": 44}, 
+                {"id": 44, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 273, "begin": 45, "end": 45}
+            ], 
+            "word": [
+                {"id": 0, "text": "세종과학기지(世宗科學基地)는", "type": "", "begin": 0, "end": 4}, 
+                {"id": 1, "text": "사우스", "type": "", "begin": 5, "end": 5}, 
+                {"id": 2, "text": "셰틀랜드", "type": "", "begin": 6, "end": 6}, 
+                {"id": 3, "text": "제도의", "type": "", "begin": 7, "end": 8}, 
+                {"id": 4, "text": "킹조지", "type": "", "begin": 9, "end": 9}, 
+                {"id": 5, "text": "섬", "type": "", "begin": 10, "end": 10}, 
+                {"id": 6, "text": "남서쪽", "type": "", "begin": 11, "end": 12}, 
+                {"id": 7, "text": "해안", "type": "", "begin": 13, "end": 13}, 
+                {"id": 8, "text": "바르톤", "type": "", "begin": 14, "end": 14}, 
+                {"id": 9, "text": "반도(남위", "type": "", "begin": 15, "end": 17}, 
+                {"id": 10, "text": "62°", "type": "", "begin": 18, "end": 19}, 
+                {"id": 11, "text": "13′", "type": "", "begin": 20, "end": 21}, 
+                {"id": 12, "text": "서경", "type": "", "begin": 22, "end": 22}, 
+                {"id": 13, "text": "58°", "type": "", "begin": 23, "end": 24}, 
+                {"id": 14, "text": "47′)에", "type": "", "begin": 25, "end": 28}, 
+                {"id": 15, "text": "있는", "type": "", "begin": 29, "end": 30}, 
+                {"id": 16, "text": "대한민국의", "type": "", "begin": 31, "end": 32}, 
+                {"id": 17, "text": "과학", "type": "", "begin": 33, "end": 33}, 
+                {"id": 18, "text": "기지로", "type": "", "begin": 34, "end": 35}, 
+                {"id": 19, "text": "한국해양연구원", "type": "", "begin": 36, "end": 36}, 
+                {"id": 20, "text": "부설", "type": "", "begin": 37, "end": 37}, 
+                {"id": 21, "text": "극지연구소", "type": "", "begin": 38, "end": 38}, 
+                {"id": 22, "text": "산하의", "type": "", "begin": 39, "end": 40}, 
+                {"id": 23, "text": "연구소이다.", "type": "", "begin": 41, "end": 45}
+            ], 
+            "NE": [
+                {"id": 0, "text": "세종과학기지", "type": "OGG_SCIENCE", "begin": 0, "end": 0, "weight": 0.470849, "common_noun": 0}, 
+                {"id": 1, "text": "世宗科學基地", "type": "OGG_SCIENCE", "begin": 2, "end": 2, "weight": 1, "common_noun": 0}, 
+                {"id": 2, "text": "사우스 셰틀랜드 제도", "type": "LCG_ISLAND", "begin": 5, "end": 7, "weight": 0.758932, "common_noun": 0}, 
+                {"id": 3, "text": "킹조지 섬", "type": "LCG_ISLAND", "begin": 9, "end": 10, "weight": 0.824104, "common_noun": 0}, 
+                {"id": 4, "text": "남서쪽", "type": "TM_DIRECTION", "begin": 11, "end": 12, "weight": 1, "common_noun": 0}, 
+                {"id": 5, "text": "바르톤 반도", "type": "LCG_BAY", "begin": 14, "end": 15, "weight": 0.228086, "common_noun": 0}, 
+                {"id": 6, "text": "남위 62° 13′", "type": "QT_OTHERS", "begin": 17, "end": 21, "weight": 0.676791, "common_noun": 0}, 
+                {"id": 7, "text": "서경 58° 47′", "type": "QT_OTHERS", "begin": 22, "end": 26, "weight": 0.509097, "common_noun": 0}, 
+                {"id": 8, "text": "대한민국", "type": "LCP_COUNTRY", "begin": 31, "end": 31, "weight": 0.458708, "common_noun": 0}, 
+                {"id": 9, "text": "한국해양연구원", "type": "OGG_SCIENCE", "begin": 36, "end": 36, "weight": 0.344492, "common_noun": 0}, 
+                {"id": 10, "text": "극지연구소", "type": "OGG_SCIENCE", "begin": 38, "end": 38, "weight": 0.684822, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "세종과학기지(世宗科學基地)는", "head": 18, "label": "NP_SBJ", "mod": [], "weight": 0.794251}, 
+                {"id": 1, "text": "사우스", "head": 2, "label": "NP", "mod": [], "weight": 0.383082}, 
+                {"id": 2, "text": "셰틀랜드", "head": 3, "label": "NP", "mod": [1], "weight": 0.710916}, 
+                {"id": 3, "text": "제도의", "head": 5, "label": "NP_MOD", "mod": [2], "weight": 0.399439}, 
+                {"id": 4, "text": "킹조지", "head": 5, "label": "NP", "mod": [], "weight": 0.417784}, 
+                {"id": 5, "text": "섬", "head": 6, "label": "NP", "mod": [4, 3], "weight": 0.561637}, 
+                {"id": 6, "text": "남서쪽", "head": 7, "label": "NP", "mod": [5], "weight": 0.482784}, 
+                {"id": 7, "text": "해안", "head": 9, "label": "NP", "mod": [6], "weight": 0.461302}, 
+                {"id": 8, "text": "바르톤", "head": 9, "label": "NP", "mod": [], "weight": 0.800627}, 
+                {"id": 9, "text": "반도(남위", "head": 10, "label": "NP", "mod": [7, 8], "weight": 0.842987}, 
+                {"id": 10, "text": "62°", "head": 11, "label": "NP", "mod": [9], "weight": 0.805805}, 
+                {"id": 11, "text": "13′", "head": 14, "label": "NP", "mod": [10], "weight": 0.506652}, 
+                {"id": 12, "text": "서경", "head": 13, "label": "NP", "mod": [], "weight": 0.561167}, 
+                {"id": 13, "text": "58°", "head": 14, "label": "NP", "mod": [12], "weight": 0.752381}, 
+                {"id": 14, "text": "47′)에", "head": 15, "label": "NP_AJT", "mod": [11, 13], "weight": 0.768868}, 
+                {"id": 15, "text": "있는", "head": 18, "label": "VP_MOD", "mod": [14], "weight": 0.703406}, 
+                {"id": 16, "text": "대한민국의", "head": 18, "label": "NP_MOD", "mod": [], "weight": 0.784414}, 
+                {"id": 17, "text": "과학", "head": 18, "label": "NP", "mod": [], "weight": 0.805945}, 
+                {"id": 18, "text": "기지로", "head": 23, "label": "NP_AJT", "mod": [15, 16, 17, 0], "weight": 0.827332}, 
+                {"id": 19, "text": "한국해양연구원", "head": 20, "label": "NP", "mod": [], "weight": 0.796454}, 
+                {"id": 20, "text": "부설", "head": 21, "label": "NP", "mod": [19], "weight": 0.252445}, 
+                {"id": 21, "text": "극지연구소", "head": 22, "label": "NP", "mod": [20], "weight": 0.745782}, 
+                {"id": 22, "text": "산하의", "head": 23, "label": "NP_MOD", "mod": [21], "weight": 0.806988}, 
+                {"id": 23, "text": "연구소이다.", "head": -1, "label": "VNP", "mod": [18, 22], "weight": 1.61518e-05}
+            ], 
+            "SRL": [
+                {"verb": "있", "sense": 1, "word_id": 15, "weight": 0.275294, "argument": [
+                    {"type": "ARG2", "word_id": 14, "text": "47′)에", "weight": 0.270731}, 
+                    {"type": "ARG1", "word_id": 18, "text": "기지로", "weight": 0.279857}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "이름은 조선의 제4대왕 세종대왕을 따서 지었으며, 1988년 2월 17일 건립되었다.", 
+            "morp": [
+                {"id": 0, "lemma": "이름", "type": "NNG", "position": 274, "weight": 0.9}, 
+                {"id": 1, "lemma": "은", "type": "JX", "position": 280, "weight": 0.0449928}, 
+                {"id": 2, "lemma": "조선", "type": "NNP", "position": 284, "weight": 0.0441558}, 
+                {"id": 3, "lemma": "의", "type": "JKG", "position": 290, "weight": 0.0987295}, 
+                {"id": 4, "lemma": "제", "type": "XPN", "position": 294, "weight": 0.00193141}, 
+                {"id": 5, "lemma": "4", "type": "SN", "position": 297, "weight": 1}, 
+                {"id": 6, "lemma": "대", "type": "NNB", "position": 298, "weight": 0.0001}, 
+                {"id": 7, "lemma": "왕", "type": "NNG", "position": 305, "weight": 0.0807222}, 
+                {"id": 8, "lemma": "세종", "type": "NNP", "position": 305, "weight": 0.0807222}, 
+                {"id": 9, "lemma": "대왕", "type": "NNG", "position": 311, "weight": 0.280698}, 
+                {"id": 10, "lemma": "을", "type": "JKO", "position": 317, "weight": 0.129611}, 
+                {"id": 11, "lemma": "따", "type": "VV", "position": 321, "weight": 0.769544}, 
+                {"id": 12, "lemma": "아서", "type": "EC", "position": 321, "weight": 0.428178}, 
+                {"id": 13, "lemma": "짓", "type": "VV", "position": 328, "weight": 0.184681}, 
+                {"id": 14, "lemma": "었", "type": "EP", "position": 331, "weight": 0.9}, 
+                {"id": 15, "lemma": "으며", "type": "EC", "position": 334, "weight": 0.197482}, 
+                {"id": 16, "lemma": ",", "type": "SP", "position": 340, "weight": 1}, 
+                {"id": 17, "lemma": "1988", "type": "SN", "position": 342, "weight": 1}, 
+                {"id": 18, "lemma": "년", "type": "NNB", "position": 346, "weight": 0.414343}, 
+                {"id": 19, "lemma": "2", "type": "SN", "position": 350, "weight": 1}, 
+                {"id": 20, "lemma": "월", "type": "NNB", "position": 351, "weight": 0.408539}, 
+                {"id": 21, "lemma": "17", "type": "SN", "position": 355, "weight": 1}, 
+                {"id": 22, "lemma": "일", "type": "NNB", "position": 357, "weight": 0.126777}, 
+                {"id": 23, "lemma": "건립", "type": "NNG", "position": 361, "weight": 0.9}, 
+                {"id": 24, "lemma": "되", "type": "XSV", "position": 367, "weight": 0.000224177}, 
+                {"id": 25, "lemma": "었", "type": "EP", "position": 370, "weight": 0.9}, 
+                {"id": 26, "lemma": "다", "type": "EF", "position": 373, "weight": 0.640954}, 
+                {"id": 27, "lemma": ".", "type": "SF", "position": 376, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이름", "type": "NNG", "scode": "000001", "weight": 0.111111, "position": 274, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 280, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "조선", "type": "NNP", "scode": "050002", "weight": 0.0833333, "position": 284, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 290, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "제", "type": "XPN", "scode": "210000", "weight": 0.0322581, "position": 294, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "4", "type": "SN", "scode": "000000", "weight": 1, "position": 297, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "대", "type": "NNB", "scode": "060102", "weight": 0.0232558, "position": 298, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "왕", "type": "NNG", "scode": "040001", "weight": 0.0833333, "position": 305, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "세종", "type": "NNP", "scode": "020000", "weight": 0.166667, "position": 305, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "대왕", "type": "NNG", "scode": "000002", "weight": 0.333333, "position": 311, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 317, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "따", "type": "VV", "scode": "010304", "weight": 0.0555556, "position": 321, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "아서", "type": "EC", "scode": "000000", "weight": 1, "position": 321, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "짓", "type": "VV", "scode": "010200", "weight": 0.0625, "position": 328, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 331, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "으며", "type": "EC", "scode": "000000", "weight": 1, "position": 334, "begin": 15, "end": 15}, 
+                {"id": 16, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 340, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "1988", "type": "SN", "scode": "000000", "weight": 1, "position": 342, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 346, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "2", "type": "SN", "scode": "000000", "weight": 1, "position": 350, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "월", "type": "NNB", "scode": "020100", "weight": 0.125, "position": 351, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "17", "type": "SN", "scode": "000000", "weight": 1, "position": 355, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "일", "type": "NNB", "scode": "070100", "weight": 0.04, "position": 357, "begin": 22, "end": 22}, 
+                {"id": 23, "text": "건립되", "type": "VV", "scode": "000001", "weight": 0.5, "position": 361, "begin": 23, "end": 24}, 
+                {"id": 24, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 370, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 373, "begin": 26, "end": 26}, 
+                {"id": 26, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 376, "begin": 27, "end": 27}
+            ], 
+            "word": [
+                {"id": 0, "text": "이름은", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "조선의", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "제4대왕", "type": "", "begin": 4, "end": 7}, 
+                {"id": 3, "text": "세종대왕을", "type": "", "begin": 8, "end": 10}, 
+                {"id": 4, "text": "따서", "type": "", "begin": 11, "end": 12}, 
+                {"id": 5, "text": "지었으며,", "type": "", "begin": 13, "end": 16}, 
+                {"id": 6, "text": "1988년", "type": "", "begin": 17, "end": 18}, 
+                {"id": 7, "text": "2월", "type": "", "begin": 19, "end": 20}, 
+                {"id": 8, "text": "17일", "type": "", "begin": 21, "end": 22}, 
+                {"id": 9, "text": "건립되었다.", "type": "", "begin": 23, "end": 27}
+            ], 
+            "NE": [
+                {"id": 0, "text": "조선", "type": "LCP_COUNTRY", "begin": 2, "end": 2, "weight": 0.32678, "common_noun": 0}, 
+                {"id": 1, "text": "제4대", "type": "QT_ORDER", "begin": 4, "end": 6, "weight": 0.487833, "common_noun": 0}, 
+                {"id": 2, "text": "왕", "type": "CV_POSITION", "begin": 7, "end": 7, "weight": 0.380482, "common_noun": 0}, 
+                {"id": 3, "text": "세종대왕", "type": "PS_NAME", "begin": 8, "end": 9, "weight": 0.85818, "common_noun": 0}, 
+                {"id": 4, "text": "1988년 2월 17일", "type": "DT_OTHERS", "begin": 17, "end": 22, "weight": 0.837539, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이름은", "head": 4, "label": "NP_SBJ", "mod": [], "weight": 0.254153}, 
+                {"id": 1, "text": "조선의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.461539}, 
+                {"id": 2, "text": "제4대왕", "head": 3, "label": "NP", "mod": [1], "weight": 0.526249}, 
+                {"id": 3, "text": "세종대왕을", "head": 4, "label": "NP_OBJ", "mod": [2], "weight": 0.759465}, 
+                {"id": 4, "text": "따서", "head": 5, "label": "VP", "mod": [0, 3], "weight": 0.77014}, 
+                {"id": 5, "text": "지었으며,", "head": 9, "label": "VP", "mod": [4], "weight": 0.858806}, 
+                {"id": 6, "text": "1988년", "head": 7, "label": "NP", "mod": [], "weight": 0.478866}, 
+                {"id": 7, "text": "2월", "head": 8, "label": "NP", "mod": [6], "weight": 0.661675}, 
+                {"id": 8, "text": "17일", "head": 9, "label": "NP_AJT", "mod": [7], "weight": 0.831143}, 
+                {"id": 9, "text": "건립되었다.", "head": -1, "label": "VP", "mod": [5, 8], "weight": 0.0065713}
+            ], 
+            "SRL": [
+                {"verb": "따", "sense": 2, "word_id": 4, "weight": 0.17679, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "이름은", "weight": 1}, 
+                    {"type": "ARG2", "word_id": 3, "text": "세종대왕을", "weight": 1}
+                ]}, 
+                {"verb": "짓02", "sense": 1, "word_id": 5, "weight": 0.176808, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 4, "text": "따서", "weight": 0.176808}, 
+                    {"type": "ARG1", "word_id": 0, "text": "이름은", "weight": 1}
+                ]}, 
+                {"verb": "건립", "sense": 1, "word_id": 9, "weight": 0.187664, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 8, "text": "17일", "weight": 0.187664}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "QT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "세종과학기지(世宗科學基地)는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "세종과학기지(世宗科學基地)는"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 18, "ne_id": -1, "text": "사우스 셰틀랜드 제도의 킹조지 섬 남서쪽 해안 바르톤 반도(남위 62° 13′ 서경 58° 47′)에 있는 대한민국의 과학 기지로", "start_eid_short": 17, "end_eid_short": 18, "text_short": "과학 기지로"}, 
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 14, "ne_id": 8, "text": "사우스 셰틀랜드 제도의 킹조지 섬 남서쪽 해안 바르톤 반도(남위 62° 13′ 서경 58° 47′)에", "start_eid_short": 14, "end_eid_short": 14, "text_short": "47′)에"}, 
+            {"id": 9, "sent_id": 0, "start_eid": 19, "end_eid": 23, "ne_id": -1, "text": "한국해양연구원 부설 극지연구소 산하의 연구소이다.", "start_eid_short": 23, "end_eid_short": 23, "text_short": "연구소이다."}
+        ]}, 
+        {"id": 1, "type": "LCG_ISLAND", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": 2, "text": "사우스 셰틀랜드 제도의", "start_eid_short": 1, "end_eid_short": 3, "text_short": "사우스 셰틀랜드 제도의"}
+        ]}, 
+        {"id": 2, "type": "TM_DIRECTION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 1, "end_eid": 6, "ne_id": 4, "text": "사우스 셰틀랜드 제도의 킹조지 섬 남서쪽", "start_eid_short": 4, "end_eid_short": 6, "text_short": "킹조지 섬 남서쪽"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 7, "ne_id": -1, "text": "사우스 셰틀랜드 제도의 킹조지 섬 남서쪽 해안", "start_eid_short": 4, "end_eid_short": 7, "text_short": "킹조지 섬 남서쪽 해안"}
+        ]}, 
+        {"id": 4, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 16, "end_eid": 16, "ne_id": 9, "text": "대한민국의", "start_eid_short": 16, "end_eid_short": 16, "text_short": "대한민국의"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 17, "end_eid": 17, "ne_id": -1, "text": "과학", "start_eid_short": 17, "end_eid_short": 17, "text_short": "과학"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 0, "start_eid": 19, "end_eid": 20, "ne_id": -1, "text": "한국해양연구원 부설", "start_eid_short": 19, "end_eid_short": 20, "text_short": "한국해양연구원 부설"}
+        ]}, 
+        {"id": 7, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 13, "sent_id": 0, "start_eid": 19, "end_eid": 19, "ne_id": 10, "text": "한국해양연구원", "start_eid_short": 19, "end_eid_short": 19, "text_short": "한국해양연구원"}
+        ]}, 
+        {"id": 8, "type": "OGG_SCIENCE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 0, "start_eid": 19, "end_eid": 21, "ne_id": 11, "text": "한국해양연구원 부설 극지연구소", "start_eid_short": 19, "end_eid_short": 21, "text_short": "한국해양연구원 부설 극지연구소"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 19, "end_eid": 22, "ne_id": -1, "text": "한국해양연구원 부설 극지연구소 산하의", "start_eid_short": 19, "end_eid_short": 22, "text_short": "한국해양연구원 부설 극지연구소 산하의"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "이름은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "이름은"}
+        ]}, 
+        {"id": 11, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "조선의", "start_eid_short": 1, "end_eid_short": 1, "text_short": "조선의"}
+        ]}, 
+        {"id": 12, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 1, "end_eid": 3, "ne_id": 3, "text": "조선의 제4대왕 세종대왕을", "start_eid_short": 2, "end_eid_short": 3, "text_short": "제4대왕 세종대왕을"}, 
+            {"id": 16, "sent_id": 1, "start_eid": 1, "end_eid": 2, "ne_id": 1, "text": "조선의 제4대왕", "start_eid_short": 2, "end_eid_short": 2, "text_short": "제4대왕"}
+        ]}, 
+        {"id": 13, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 18, "sent_id": 1, "start_eid": 6, "end_eid": 8, "ne_id": 4, "text": "1988년 2월 17일", "start_eid_short": 6, "end_eid_short": 8, "text_short": "1988년 2월 17일"}
+        ]}, 
+        {"id": 14, "type": "LCG_ISLAND", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 1, "end_eid": 5, "ne_id": 3, "text": "사우스 셰틀랜드 제도의 킹조지 섬", "start_eid_short": 4, "end_eid_short": 5, "text_short": "킹조지 섬"}
+        ]}
+    ]
+}

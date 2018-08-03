@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+후지 산(Mount Fuji,富士山 Fuji-san, 3776미터)은 일본의 가장 높은 산이며 후지하코네이즈 국립공원의 집중점이다. 맑은 날 도쿄에서 보이는 산은 혼슈 섬 도쿄의 서쪽에 자리한다.
+
+완전히 대칭적인 화산 원뿔형태의 산은 거의 신화적인 일본의 상징으로 호쿠사이의 후지 산 36경을 포함한 수많은 예술 작품에서 끊이지 않는다.
+일본인들은 후지 산을 후지야마로 부르는 것은 잘못이라고 생각하는데 예외로는 후지야마 게이샤라는 문구에서는 허여된다.
+
+공식적인 등산 계절은 단지 2개월간 지속됩니다. 7월에서 8월까지입니다. 7~8월에도 도쿄는 40도 이상의 무더위가 지속되더라도 정상의 온도가 밤에 영하로 떨어지므로 등산객들은 옷을 선택을 적절히 해야 한다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="후지 산" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="40" end="42" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="54" end="66" text="후지하코네이즈 국립공원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="80" end="82" text="도쿄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="92" end="96" text="혼슈 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="97" end="99" text="도쿄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="141" end="143" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="156" end="160" text="후지 산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="197" end="201" text="후지 산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="305" end="307" text="도쿄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="203" end="207" text="후지야마" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="50" end="51" text="산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="68" end="71" text="집중점" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="89" end="90" text="산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="121" end="123" text="화산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="130" end="131" text="산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="329" end="331" text="정상" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="344" end="347" text="떨어지" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="51" end="52" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e3" start="71" end="72" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="105" end="108" text="자리한" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e4" start="322" end="325" text="지속되" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="101" end="103" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<MEASURE id="me0" start="31" end="37" text="3776미터" value="3776" unit="M" comment="" />
+<SENTENCE id="sent0" start="1" end="74" text="후지 산(Mount Fuji,富士山 Fuji-san, 3776미터)은 일본의 가장 높은 산이며 후지하코네이즈 국립공원의 집중점이다." comment="" />
+<SENTENCE id="sent1" start="75" end="110" text="맑은 날 도쿄에서 보이는 산은 혼슈 섬 도쿄의 서쪽에 자리한다." comment="" />
+<SENTENCE id="sent2" start="112" end="190" text="완전히 대칭적인 화산 원뿔형태의 산은 거의 신화적인 일본의 상징으로 호쿠사이의 후지 산 36경을 포함한 수많은 예술 작품에서 끊이지 않는다." comment="" />
+<SENTENCE id="sent3" start="191" end="255" text="일본인들은 후지 산을 후지야마로 부르는 것은 잘못이라고 생각하는데 예외로는 후지야마 게이샤라는 문구에서는 허여된다." comment="" />
+<SENTENCE id="sent4" start="257" end="283" text="공식적인 등산 계절은 단지 2개월간 지속됩니다." comment="" />
+<SENTENCE id="sent5" start="284" end="297" text="7월에서 8월까지입니다." comment="" />
+<SENTENCE id="sent6" start="298" end="373" text="7~8월에도 도쿄는 40도 이상의 무더위가 지속되더라도 정상의 온도가 밤에 영하로 떨어지므로 등산객들은 옷을 선택을 적절히 해야 한다." comment="" />
+<OLINK id="ol0" fromID="pl8" fromText="도쿄" toID="pl6" toText="산" relType="서" trajector="pl6" landmark="pl8" trigger="s0" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<MEASURELINK id="ml0" fromID="pl0" fromText="후지 산" toID="me0" toText="3776미터" trajector="pl0" landmark="pl0" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl2" fromText="산" toID="me0" toText="3776미터" trajector="pl2" landmark="pl2" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

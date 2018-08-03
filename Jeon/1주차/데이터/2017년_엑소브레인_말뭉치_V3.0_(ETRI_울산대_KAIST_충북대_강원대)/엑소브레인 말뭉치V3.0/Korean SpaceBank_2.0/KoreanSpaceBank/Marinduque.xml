@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+마린두케[Marinduque]는 시부얀 해에 자리잡은 필리핀의 섬과 군이다. 루손 섬 남쪽, 민도로 섬 동쪽에 있다. 마린두케 군은 마린두케 섬과 가까이 있는 작은 섬들을 포함한다. 섬 대부분 지역에서 코코넛 재배와 쌀경작을 하고 있다. 필리핀의 대표적인 축제 중 하나인 ‘모리오네스 축제(Moriones Festival)’가 3월 28일부터 4월 4일까지 마린두케(Marinduque) 섬에서 열린다. ‘모리오네스 축제’는 매년 기독교 사순절 기간에 개최되는 축제다.
+필리핀 마린두케 섬의 한 리조트에서 촬영된 화보에서 화요비는 파격적인 란제리룩을 선보여 눈길을 끌었다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="마린두케" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="31" end="34" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="44" end="48" text="루손 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="53" end="58" text="민도로 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="67" end="73" text="마린두케 군" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="75" end="81" text="마린두케 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="134" end="137" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="201" end="205" text="마린두케" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="218" end="219" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="264" end="267" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="268" end="274" text="마린두케 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="19" end="24" text="시부얀 해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="44" />
+<PLACE id="pl3" start="36" end="37" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="39" end="40" text="군" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="93" end="95" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="103" end="104" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="109" end="111" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="278" end="281" text="리조트" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="49" end="51" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="24" end="25" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="59" end="61" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="34" end="35" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="274" end="275" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me0" start="83" end="86" text="가까이" value="NEAR" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="43" text="마린두케[Marinduque]는 시부얀 해에 자리잡은 필리핀의 섬과 군이다." comment="" />
+<SENTENCE id="sent1" start="44" end="66" text="루손 섬 남쪽, 민도로 섬 동쪽에 있다." comment="" />
+<SENTENCE id="sent2" start="67" end="102" text="마린두케 군은 마린두케 섬과 가까이 있는 작은 섬들을 포함한다." comment="" />
+<SENTENCE id="sent3" start="103" end="133" text="섬 대부분 지역에서 코코넛 재배와 쌀경작을 하고 있다." comment="" />
+<SENTENCE id="sent4" start="134" end="226" text="필리핀의 대표적인 축제 중 하나인 ‘모리오네스 축제(Moriones Festival)’가 3월 28일부터 4월 4일까지 마린두케(Marinduque) 섬에서 열린다." comment="" />
+<SENTENCE id="sent5" start="227" end="263" text="‘모리오네스 축제’는 매년 기독교 사순절 기간에 개최되는 축제다." comment="" />
+<SENTENCE id="sent6" start="264" end="321" text="필리핀 마린두케 섬의 한 리조트에서 촬영된 화보에서 화요비는 파격적인 란제리룩을 선보여 눈길을 끌었다." comment="" />
+<QSLINK id="qsl0" fromID="pl15" fromText="시부얀 해" toID="pl2" toText="필리핀" relType="IN" trajector="pl2" landmark="pl15" trigger="s2" comment="" />
+<QSLINK id="qsl1" fromID="pl3" fromText="섬" toID="pl2" toText="필리핀" relType="NTPP" trajector="pl3" landmark="pl2" trigger="s3" comment="" />
+<QSLINK id="qsl2" fromID="pl4" fromText="군" toID="pl2" toText="필리핀" relType="NTPP" trajector="pl4" landmark="pl2" trigger="s3" comment="" />
+<QSLINK id="qsl4" fromID="se5" fromText="리조트" toID="pl14" toText="마린두케 섬" relType="NTPP" trajector="se5" landmark="pl14" trigger="s4" comment="" />
+<OLINK id="ol0" fromID="pl1" fromText="" toID="pl5" toText="루손 섬" relType="남" trajector="pl1" landmark="pl5" trigger="s0" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl1" fromText="" toID="pl6" toText="민도로 섬" relType="동" trajector="pl1" landmark="plk6" trigger="s1" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<MEASURELINK id="ml0" fromID="pl9" fromText="섬들" toID="pl8" toText="마린두케 섬" trajector="pl9" landmark="pl8" relType="DISTANCE" val="me0" endPoint1="pl8" endPoint2="pl9" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

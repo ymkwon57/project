@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+에베예는 마셜 제도의 섬이다. 마주로와 에베예(Ebeye) 등에서는 버스, 택시 그리고 자동차 렌탈 이용이 가능하다. 응급시 이용 할 수 있는 의료 시설이 있는 곳은 마주로 섬과 에베예 섬이다. - 콰자레인 환초대 일부지역은 통제지역으로, 간간히 발생하는 섬광과 굉음에 놀랄 수도 있다. 가뭄은 모든 주민에게 영향을 미치고 있다. 특히 마주로와 에베예(Ebeye)는 심각한 상황이다. 태평양의 슬럼(slum) 이라 불리는 마셜제도의 에베예 섬이 형편없는 사회기반시설로 주민들의 건강을 위협하고 있다는 혹평을 받았다.
+한편 콰절런 환초 미군 기지의 공보담당관은 면세품 반출을 금지한 것은 인근 에베예 섬의 산업을 보호해달라는 마셜 제도 정부의 요청에 따른 것이라고 해명했다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="4" text="에베예" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="6" end="11" text="마셜 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="13" end="14" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="18" end="21" text="마주로" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="23" end="26" text="에베예" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="91" end="92" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="121" end="125" text="일부지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="127" end="131" text="통제지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="189" end="192" text="마주로" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="194" end="197" text="에베예" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="237" end="241" text="마셜제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="112" end="120" text="콰자레인 환초대" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="94" end="99" text="마주로 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="101" end="106" text="에베예 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="243" end="248" text="에베예 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="332" end="337" text="에베예 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="11" end="12" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="241" end="242" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SENTENCE id="sent0" start="1" end="17" text="에베예는 마셜 제도의 섬이다." comment="" />
+<SENTENCE id="sent1" start="18" end="66" text="마주로와 에베예(Ebeye) 등에서는 버스, 택시 그리고 자동차 렌탈 이용이 가능하다." comment="" />
+<SENTENCE id="sent2" start="67" end="109" text="응급시 이용 할 수 있는 의료 시설이 있는 곳은 마주로 섬과 에베예 섬이다." comment="" />
+<SENTENCE id="sent3" start="112" end="161" text="콰자레인 환초대 일부지역은 통제지역으로, 간간히 발생하는 섬광과 굉음에 놀랄 수도 있다." comment="" />
+<SENTENCE id="sent4" start="162" end="185" text="가뭄은 모든 주민에게 영향을 미치고 있다." comment="" />
+<SENTENCE id="sent5" start="187" end="215" text="히 마주로와 에베예(Ebeye)는 심각한 상황이다." comment="" />
+<SENTENCE id="sent6" start="216" end="289" text="태평양의 슬럼(slum) 이라 불리는 마셜제도의 에베예 섬이 형편없는 사회기반시설로 주민들의 건강을 위협하고 있다는 혹평을 받았다." comment="" />
+<SENTENCE id="sent7" start="290" end="377" text="한편 콰절런 환초 미군 기지의 공보담당관은 면세품 반출을 금지한 것은 인근 에베예 섬의 산업을 보호해달라는 마셜 제도 정부의 요청에 따른 것이라고 해명했다." comment="" />
+<QSLINK id="qsl1" fromID="pl2" fromText="섬" toID="pl1" toText="마셜 제도" relType="NTPP" trajector="pl2" landmark="pl1" trigger="s0" comment="" />
+<QSLINK id="qsl3" fromID="pl8" fromText="에베예 섬" toID="pl14" toText="마셜제도" relType="NTPP" trajector="pl8" landmark="pl14" trigger="s1" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

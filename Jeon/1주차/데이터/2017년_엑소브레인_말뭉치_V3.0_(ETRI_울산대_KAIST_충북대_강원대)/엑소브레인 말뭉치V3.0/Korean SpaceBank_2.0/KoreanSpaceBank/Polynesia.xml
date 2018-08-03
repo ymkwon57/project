@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+폴리네시아[Polynesia]는 인종지리학적으로 분류한 태평양의 도서군이다. 태평양 중동부의 넓은 3각형 지대에 흩어져 있다. 3각형의 정점에는 하와이 제도가 있고, 나머지 기저부에는 뉴질랜드와 이스터 섬이 각각 있다. 망가레바 섬, 핏케언 섬, 헨더슨 섬은 남동폴리네시아로 알려진 지역에서 유일한 유인도였다.
+원래 폴리네시아는 중앙 및 남태평양에 흩어져 있는 1000개 이상 섬들의 집단을 가리키는데 이중 프랑스령 폴리네시아는 소시에테 제도•투아모투 제도•갬비어 제도•마르키즈•투부아이 제도 등의 5개 군도로 나누어진다.
+타히티의 공식명칭은 프랑스령 폴리네시아(French Polynesia)로 5개의 군도로 이루어진 총 118개의 섬이 남태평양 한복판에 러시아를 제외한 유럽만한 크기로 펼쳐져 있다. 타히티는 항만 시설과 함께 가까이에 파아아 국제 공항이 있어 타히티 섬과 프렌치 폴리네시아의 여러 섬을 찾는 여행자들의 주요 관문이 되고 있다.
+폴리네시아(Polynesia) 육지 총면적 약 2만 6000km2로 폴리네시아란 ‘많은 섬들’이라는 뜻이다. 프랑스령 폴리네시아 보라보라 섬은 남태평양 중부 폴리네시아 소시에테 제도의 타히티 섬 북서쪽에 있는 섬, 면적은 약 30㎢, 인구는 약4200명 정도이다. 길이 10㎞, 너비 4㎞의 산호섬이며 32㎞에 이르는 섬 일주도로가 나있다.
+마르케사 군도(프랑스령 폴리네시아)는 '프랑스 화가 고갱이 타히티를 버리고 마지막으로 정주한 잃어버린 낙원'이다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="6" text="폴리네시아" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="32" end="35" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="37" end="40" text="도서군" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="44" end="47" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="60" end="62" text="지대" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="넓은" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="77" end="79" text="정점" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="72" end="75" text="3각형" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="82" end="88" text="하와이 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="98" end="101" text="기저부" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="104" end="108" text="뉴질랜드" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="110" end="115" text="이스터 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="124" end="130" text="망가레바 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="139" end="144" text="헨더슨 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="146" end="153" text="남동폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="159" end="161" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="168" end="171" text="유인도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="178" end="183" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="190" end="194" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="212" end="214" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="241" end="248" text="소시에테 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="249" end="256" text="투아모투 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="257" end="263" text="갬비어 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="264" end="268" text="마르키즈" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="269" end="276" text="투부아이 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="283" end="285" text="군도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="294" end="297" text="타히티" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="339" end="341" text="군도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="356" end="357" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="359" end="363" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="369" end="372" text="러시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="378" end="380" text="유럽" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="395" end="398" text="타히티" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="415" end="424" text="파아아 국제 공항" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="429" end="434" text="타히티 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="440" end="445" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="450" end="451" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="476" end="481" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me1" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="514" end="519" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="525" end="527" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="548" end="554" text="보라보라 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="556" end="560" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl46" start="564" end="569" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl47" start="570" end="577" text="소시에테 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl48" start="579" end="584" text="타히티 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl49" start="593" end="594" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me2" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl50" start="639" end="642" text="산호섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me3,me4" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl51" start="667" end="674" text="마르케사 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl55" start="700" end="703" text="타히티" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl57" start="132" end="137" text="핏케언 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="654" end="655" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl56" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="44" />
+<PLACE id="pl18" start="185" end="187" text="중앙" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="중앙태평양" />
+<PLACE id="pl29" start="305" end="309" text="프랑스령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl53" start="310" end="315" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl58" start="537" end="541" text="프랑스령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl59" start="542" end="547" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl60" start="675" end="679" text="프랑스령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl61" start="680" end="685" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="229" end="233" text="프랑스령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="234" end="239" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl52" start="436" end="439" text="프렌치" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="656" end="660" text="일주도로" beginID="" endID="" midIDs="" type="ROAD" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="me5" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="456" end="460" text="여행자들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="453" end="454" text="찾" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="62" end="63" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="79" end="80" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="101" end="102" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="194" end="195" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="585" end="588" text="북서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="48" end="51" text="중동부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="35" end="36" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="75" end="76" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="364" end="367" text="한복판" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="561" end="563" text="중부" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="577" end="578" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="445" end="446" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="451" end="452" text="을" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="410" end="413" text="가까이" value="NEAR" unit="" comment="" />
+<MEASURE id="me3" start="627" end="630" text="10㎞" value="10" unit="KM" comment="" />
+<MEASURE id="me4" start="635" end="637" text="4㎞" value="4" unit="KM" comment="" />
+<MEASURE id="me5" start="645" end="648" text="32㎞" value="32" unit="KM" comment="" />
+<MEASURE id="me2" start="602" end="605" text="30㎢" value="30" unit="KM2" comment="" />
+<MEASURE id="me1" start="502" end="512" text="2만 6000km2" value="26000" unit="KM2" comment="" />
+<SENTENCE id="sent0" start="1" end="43" text="폴리네시아[Polynesia]는 인종지리학적으로 분류한 태평양의 도서군이다." comment="" />
+<SENTENCE id="sent1" start="44" end="71" text="태평양 중동부의 넓은 3각형 지대에 흩어져 있다." comment="" />
+<SENTENCE id="sent2" start="72" end="123" text="3각형의 정점에는 하와이 제도가 있고, 나머지 기저부에는 뉴질랜드와 이스터 섬이 각각 있다." comment="" />
+<SENTENCE id="sent3" start="124" end="174" text="망가레바 섬, 핏케언 섬, 헨더슨 섬은 남동폴리네시아로 알려진 지역에서 유일한 유인도였다." comment="" />
+<SENTENCE id="sent4" start="175" end="293" text="원래 폴리네시아는 중앙 및 남태평양에 흩어져 있는 1000개 이상 섬들의 집단을 가리키는데 이중 프랑스령 폴리네시아는 소시에테 제도•투아모투 제도•갬비어 제도•마르키즈•투부아이 제도 등의 5개 군도로 나누어진다." comment="" />
+<SENTENCE id="sent5" start="294" end="394" text="타히티의 공식명칭은 프랑스령 폴리네시아(French Polynesia)로 5개의 군도로 이루어진 총 118개의 섬이 남태평양 한복판에 러시아를 제외한 유럽만한 크기로 펼쳐져 있다." comment="" />
+<SENTENCE id="sent6" start="395" end="475" text="타히티는 항만 시설과 함께 가까이에 파아아 국제 공항이 있어 타히티 섬과 프렌치 폴리네시아의 여러 섬을 찾는 여행자들의 주요 관문이 되고 있다." comment="" />
+<SENTENCE id="sent7" start="476" end="536" text="폴리네시아(Polynesia) 육지 총면적 약 2만 6000km2로 폴리네시아란 ‘많은 섬들’이라는 뜻이다." comment="" />
+<SENTENCE id="sent8" start="537" end="623" text="프랑스령 폴리네시아 보라보라 섬은 남태평양 중부 폴리네시아 소시에테 제도의 타히티 섬 북서쪽에 있는 섬, 면적은 약 30㎢, 인구는 약4200명 정도이다." comment="" />
+<SENTENCE id="sent9" start="624" end="666" text="길이 10㎞, 너비 4㎞의 산호섬이며 32㎞에 이르는 섬 일주도로가 나있다." comment="" />
+<SENTENCE id="sent10" start="667" end="730" text="마르케사 군도(프랑스령 폴리네시아)는 '프랑스 화가 고갱이 타히티를 버리고 마지막으로 정주한 잃어버린 낙원'이다." comment="" />
+<QSLINK id="qsl1" fromID="pl56" fromText="" toID="pl4" toText="지대" relType="IN" trajector="pl56" landmark="pl4" trigger="s1" comment="" />
+<QSLINK id="qsl3" fromID="pl7" fromText="하와이 제도" toID="pl5" toText="정점" relType="IN" trajector="pl7" landmark="pl5" trigger="s2" comment="" />
+<QSLINK id="qsl4" fromID="pl9" fromText="뉴질랜드" toID="pl8" toText="기저부" relType="IN" trajector="pl9" landmark="pl8" trigger="s4" comment="" />
+<QSLINK id="qsl5" fromID="pl10" fromText="이스터 섬" toID="pl8" toText="기저부" relType="IN" trajector="pl10" landmark="pl8" trigger="s4" comment="" />
+<QSLINK id="qsl6" fromID="pl20" fromText="섬들" toID="pl19" toText="남태평양" relType="IN" trajector="pl20" landmark="pl19" trigger="s5" comment="" />
+<QSLINK id="qsl0" fromID="pl2" fromText="도서군" toID="pl1" toText="태평양" relType="NTPP" trajector="pl2" landmark="pl1" trigger="s3" comment="" />
+<QSLINK id="qsl10" fromID="pl5" fromText="정점" toID="pl6" toText="3각형" relType="NTPP" trajector="pl5" landmark="pl6" trigger="s7" comment="" />
+<QSLINK id="qsl11" fromID="pl20" fromText="섬들" toID="pl18" toText="중앙" relType="NTPP" trajector="pl20" landmark="pl18" trigger="s5" comment="중앙태평양" />
+<QSLINK id="qsl12" fromID="pl17" fromText="폴리네시아" toID="pl18" toText="중앙" relType="NTPP" trajector="pl17" landmark="pl18" trigger="s5" comment="" />
+<QSLINK id="qsl13" fromID="pl17" fromText="폴리네시아" toID="pl19" toText="남태평양" relType="NTPP" trajector="pl17" landmark="pl19" trigger="s5" comment="" />
+<QSLINK id="qsl14" fromID="pl31" fromText="섬" toID="pl32" toText="남태평양" relType="NTPP" trajector="pl31" landmark="pl32" trigger="s10" comment="" />
+<QSLINK id="qsl18" fromID="pl47" fromText="소시에테 제도" toID="pl45" toText="남태평양" relType="NTPP" trajector="pl47" landmark="pl45" trigger="s11" comment="" />
+<QSLINK id="qsl19" fromID="pl48" fromText="타히티 섬" toID="pl47" toText="소시에테 제도" relType="NTPP" trajector="pl48" landmark="pl47" trigger="s12" comment="" />
+<QSLINK id="qsl7" fromID="pl39" fromText="섬" toID="pl38" toText="폴리네시아" relType="NTPP" trajector="pl39" landmark="pl38" trigger="s6" comment="" />
+<OLINK id="ol0" fromID="pl49" fromText="섬" toID="pl48" toText="타히티 섬" relType="북서" trajector="pl49" landmark="pl48" trigger="s8" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl4" fromText="지대" toID="pl3" toText="태평양" relType="동" trajector="pl4" landmark="pl3" trigger="s0" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="찾" toID="ms0" toText="을" trigger="m0" source="" goal="pl39" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl2" fromID="se0" fromText="여행자들" toID="pl37" toText="타히티 섬" trigger="m0" source="" goal="pl37" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MEASURELINK id="ml0" fromID="pl35" fromText="타히티" toID="pl36" toText="파아아 국제 공항" trajector="pl35" landmark="pl36" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl40" fromText="폴리네시아" toID="me1" toText="약 2만 6000km2" trajector="pl40" landmark="pl40" relType="GENERAL_DIMENSION" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="pl49" fromText="섬" toID="me2" toText="약 30㎢" trajector="pl49" landmark="pl49" relType="GENERAL_DIMENSION" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="pl50" fromText="산호섬" toID="me3" toText="10㎞" trajector="pl50" landmark="pl50" relType="LENGTH" val="me3" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml4" fromID="pl50" fromText="산호섬" toID="me4" toText="4㎞" trajector="pl50" landmark="pl50" relType="WIDTH" val="me4" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml5" fromID="p0" fromText="일주도로" toID="me5" toText="32㎞" trajector="p0" landmark="p0" relType="LENGTH" val="me5" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml6" fromID="pl44" fromText="보라보라 섬" toID="me2" toText="약 30㎢" trajector="pl44" landmark="pl44" relType="GENERAL_DIMENSION" val="me2" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

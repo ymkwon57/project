@@ -1,0 +1,238 @@
+{
+    "doc_id": "E2016.888.09_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "어재연", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<인명> 구한말의 무장(1823~1871).", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "인명", "type": "NNG", "position": 1, "weight": 0.153379}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "구", "type": "XPN", "position": 9, "weight": 0.00015412}, 
+                {"id": 4, "lemma": "한말", "type": "NNG", "position": 12, "weight": 0.9}, 
+                {"id": 5, "lemma": "의", "type": "JKG", "position": 18, "weight": 0.0694213}, 
+                {"id": 6, "lemma": "무장", "type": "NNG", "position": 22, "weight": 0.864647}, 
+                {"id": 7, "lemma": "(", "type": "SS", "position": 28, "weight": 1}, 
+                {"id": 8, "lemma": "1823", "type": "SN", "position": 29, "weight": 1}, 
+                {"id": 9, "lemma": "~", "type": "SO", "position": 33, "weight": 1}, 
+                {"id": 10, "lemma": "1871", "type": "SN", "position": 34, "weight": 1}, 
+                {"id": 11, "lemma": ")", "type": "SS", "position": 38, "weight": 1}, 
+                {"id": 12, "lemma": ".", "type": "SF", "position": 39, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "인명", "type": "NNG", "scode": "010000", "weight": 0.2, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "구한말", "type": "NNG", "scode": "000000", "weight": 1, "position": 9, "begin": 3, "end": 4}, 
+                {"id": 4, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 18, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "무장", "type": "NNG", "scode": "050000", "weight": 0.142857, "position": 22, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 28, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "1823", "type": "SN", "scode": "000000", "weight": 1, "position": 29, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "~", "type": "SO", "scode": "000000", "weight": 1, "position": 33, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "1871", "type": "SN", "scode": "000000", "weight": 1, "position": 34, "begin": 10, "end": 10}, 
+                {"id": 10, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 38, "begin": 11, "end": 11}, 
+                {"id": 11, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 39, "begin": 12, "end": 12}
+            ], 
+            "word": [
+                {"id": 0, "text": "<인명>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "구한말의", "type": "", "begin": 3, "end": 5}, 
+                {"id": 2, "text": "무장(1823~1871).", "type": "", "begin": 6, "end": 12}
+            ], 
+            "NE": [
+                {"id": 0, "text": "구한말", "type": "DT_DYNASTY", "begin": 3, "end": 4, "weight": 0.575886, "common_noun": 0}, 
+                {"id": 1, "text": "무장", "type": "CV_POSITION", "begin": 6, "end": 6, "weight": 0.166081, "common_noun": 0}, 
+                {"id": 2, "text": "1823~1871", "type": "DT_DURATION", "begin": 8, "end": 10, "weight": 0.717825, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<인명>", "head": 2, "label": "NP", "mod": [], "weight": 0.867678}, 
+                {"id": 1, "text": "구한말의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.748874}, 
+                {"id": 2, "text": "무장(1823~1871).", "head": -1, "label": "NP", "mod": [0, 1], "weight": 0.580285}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "병인양요 때 우선봉(右先鋒)으로 광성진을 수비하고, 신미양요 때 순무(巡撫) 중군(中軍)으로 다시 광성진을 수비하던 중 전사하였다.", 
+            "morp": [
+                {"id": 0, "lemma": "병인", "type": "NNG", "position": 40, "weight": 0.268916}, 
+                {"id": 1, "lemma": "양요", "type": "NNG", "position": 46, "weight": 0.6}, 
+                {"id": 2, "lemma": "때", "type": "NNG", "position": 53, "weight": 0.280999}, 
+                {"id": 3, "lemma": "우선봉", "type": "NNG", "position": 57, "weight": 0.05}, 
+                {"id": 4, "lemma": "(", "type": "SS", "position": 66, "weight": 1}, 
+                {"id": 5, "lemma": "右先鋒", "type": "SH", "position": 67, "weight": 1}, 
+                {"id": 6, "lemma": ")", "type": "SS", "position": 76, "weight": 1}, 
+                {"id": 7, "lemma": "으로", "type": "JKB", "position": 77, "weight": 0.0486063}, 
+                {"id": 8, "lemma": "광성진", "type": "NNP", "position": 84, "weight": 0.0693487}, 
+                {"id": 9, "lemma": "을", "type": "JKO", "position": 93, "weight": 0.129611}, 
+                {"id": 10, "lemma": "수비", "type": "NNG", "position": 97, "weight": 0.9}, 
+                {"id": 11, "lemma": "하", "type": "XSV", "position": 103, "weight": 0.0001}, 
+                {"id": 12, "lemma": "고", "type": "EC", "position": 106, "weight": 0.359917}, 
+                {"id": 13, "lemma": ",", "type": "SP", "position": 109, "weight": 1}, 
+                {"id": 14, "lemma": "신미", "type": "NNG", "position": 111, "weight": 0.29238}, 
+                {"id": 15, "lemma": "양요", "type": "NNG", "position": 117, "weight": 0.6}, 
+                {"id": 16, "lemma": "때", "type": "NNG", "position": 124, "weight": 0.280999}, 
+                {"id": 17, "lemma": "순무", "type": "NNG", "position": 128, "weight": 0.9}, 
+                {"id": 18, "lemma": "(", "type": "SS", "position": 134, "weight": 1}, 
+                {"id": 19, "lemma": "巡撫", "type": "SH", "position": 135, "weight": 1}, 
+                {"id": 20, "lemma": ")", "type": "SS", "position": 141, "weight": 1}, 
+                {"id": 21, "lemma": "중군", "type": "NNG", "position": 143, "weight": 0.9}, 
+                {"id": 22, "lemma": "(", "type": "SS", "position": 149, "weight": 1}, 
+                {"id": 23, "lemma": "中軍", "type": "SH", "position": 150, "weight": 1}, 
+                {"id": 24, "lemma": ")", "type": "SS", "position": 156, "weight": 1}, 
+                {"id": 25, "lemma": "으로", "type": "JKB", "position": 157, "weight": 0.0486063}, 
+                {"id": 26, "lemma": "다시", "type": "MAG", "position": 164, "weight": 0.0554091}, 
+                {"id": 27, "lemma": "광성진", "type": "NNP", "position": 171, "weight": 0.0871654}, 
+                {"id": 28, "lemma": "을", "type": "JKO", "position": 180, "weight": 0.129611}, 
+                {"id": 29, "lemma": "수비", "type": "NNG", "position": 184, "weight": 0.9}, 
+                {"id": 30, "lemma": "하", "type": "XSV", "position": 190, "weight": 0.0001}, 
+                {"id": 31, "lemma": "던", "type": "ETM", "position": 193, "weight": 0.409388}, 
+                {"id": 32, "lemma": "중", "type": "NNB", "position": 197, "weight": 0.195835}, 
+                {"id": 33, "lemma": "전사", "type": "NNG", "position": 201, "weight": 0.9}, 
+                {"id": 34, "lemma": "하", "type": "XSV", "position": 207, "weight": 0.0001}, 
+                {"id": 35, "lemma": "였", "type": "EP", "position": 210, "weight": 0.9}, 
+                {"id": 36, "lemma": "다", "type": "EF", "position": 213, "weight": 0.640954}, 
+                {"id": 37, "lemma": ".", "type": "SF", "position": 216, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "병인양요", "type": "NNG", "scode": "000000", "weight": 1, "position": 40, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 53, "begin": 2, "end": 2}, 
+                {"id": 2, "text": "우선봉", "type": "NNG", "scode": "000000", "weight": 0, "position": 57, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 66, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "右先鋒", "type": "SH", "scode": "000000", "weight": 1, "position": 67, "begin": 5, "end": 5}, 
+                {"id": 5, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 76, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 77, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "광성진", "type": "NNP", "scode": "000000", "weight": 1, "position": 84, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 93, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "수비하", "type": "VV", "scode": "020000", "weight": 0.5, "position": 97, "begin": 10, "end": 11}, 
+                {"id": 10, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 106, "begin": 12, "end": 12}, 
+                {"id": 11, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 109, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "신미양요", "type": "NNG", "scode": "000000", "weight": 1, "position": 111, "begin": 14, "end": 15}, 
+                {"id": 13, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 124, "begin": 16, "end": 16}, 
+                {"id": 14, "text": "순무", "type": "NNG", "scode": "020000", "weight": 0.333333, "position": 128, "begin": 17, "end": 17}, 
+                {"id": 15, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 134, "begin": 18, "end": 18}, 
+                {"id": 16, "text": "巡撫", "type": "SH", "scode": "000000", "weight": 1, "position": 135, "begin": 19, "end": 19}, 
+                {"id": 17, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 141, "begin": 20, "end": 20}, 
+                {"id": 18, "text": "중군", "type": "NNG", "scode": "010004", "weight": 0.2, "position": 143, "begin": 21, "end": 21}, 
+                {"id": 19, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 149, "begin": 22, "end": 22}, 
+                {"id": 20, "text": "中軍", "type": "SH", "scode": "000000", "weight": 1, "position": 150, "begin": 23, "end": 23}, 
+                {"id": 21, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 156, "begin": 24, "end": 24}, 
+                {"id": 22, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 157, "begin": 25, "end": 25}, 
+                {"id": 23, "text": "다시", "type": "MAG", "scode": "010001", "weight": 0.1, "position": 164, "begin": 26, "end": 26}, 
+                {"id": 24, "text": "광성진", "type": "NNP", "scode": "000000", "weight": 1, "position": 171, "begin": 27, "end": 27}, 
+                {"id": 25, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 180, "begin": 28, "end": 28}, 
+                {"id": 26, "text": "수비하", "type": "VV", "scode": "020000", "weight": 0.5, "position": 184, "begin": 29, "end": 30}, 
+                {"id": 27, "text": "던", "type": "ETM", "scode": "000000", "weight": 1, "position": 193, "begin": 31, "end": 31}, 
+                {"id": 28, "text": "중", "type": "NNB", "scode": "040102", "weight": 0.0526316, "position": 197, "begin": 32, "end": 32}, 
+                {"id": 29, "text": "전사하", "type": "VV", "scode": "040000", "weight": 0.0769231, "position": 201, "begin": 33, "end": 34}, 
+                {"id": 30, "text": "였", "type": "EP", "scode": "000000", "weight": 1, "position": 210, "begin": 35, "end": 35}, 
+                {"id": 31, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 213, "begin": 36, "end": 36}, 
+                {"id": 32, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 216, "begin": 37, "end": 37}
+            ], 
+            "word": [
+                {"id": 0, "text": "병인양요", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "때", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "우선봉(右先鋒)으로", "type": "", "begin": 3, "end": 7}, 
+                {"id": 3, "text": "광성진을", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "수비하고,", "type": "", "begin": 10, "end": 13}, 
+                {"id": 5, "text": "신미양요", "type": "", "begin": 14, "end": 15}, 
+                {"id": 6, "text": "때", "type": "", "begin": 16, "end": 16}, 
+                {"id": 7, "text": "순무(巡撫)", "type": "", "begin": 17, "end": 20}, 
+                {"id": 8, "text": "중군(中軍)으로", "type": "", "begin": 21, "end": 25}, 
+                {"id": 9, "text": "다시", "type": "", "begin": 26, "end": 26}, 
+                {"id": 10, "text": "광성진을", "type": "", "begin": 27, "end": 28}, 
+                {"id": 11, "text": "수비하던", "type": "", "begin": 29, "end": 31}, 
+                {"id": 12, "text": "중", "type": "", "begin": 32, "end": 32}, 
+                {"id": 13, "text": "전사하였다.", "type": "", "begin": 33, "end": 37}
+            ], 
+            "NE": [
+                {"id": 0, "text": "병인양요 때", "type": "DT_OTHERS", "begin": 0, "end": 2, "weight": 0.400508, "common_noun": 0}, 
+                {"id": 1, "text": "광성진", "type": "AF_CULTURAL_ASSET", "begin": 8, "end": 8, "weight": 0.16689, "common_noun": 0}, 
+                {"id": 2, "text": "신미양요", "type": "EV_WAR_REVOLUTION", "begin": 14, "end": 15, "weight": 0.212877, "common_noun": 0}, 
+                {"id": 3, "text": "순무", "type": "CV_POSITION", "begin": 17, "end": 17, "weight": 0.111275, "common_noun": 0}, 
+                {"id": 4, "text": "巡撫", "type": "CV_POSITION", "begin": 19, "end": 19, "weight": 0.111275, "common_noun": 0}, 
+                {"id": 5, "text": "중군", "type": "CV_POSITION", "begin": 21, "end": 21, "weight": 0.111275, "common_noun": 0}, 
+                {"id": 6, "text": "中軍", "type": "CV_POSITION", "begin": 23, "end": 23, "weight": 0.0843886, "common_noun": 0}, 
+                {"id": 7, "text": "광성진", "type": "AF_CULTURAL_ASSET", "begin": 27, "end": 27, "weight": 0.201703, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "병인양요", "head": 1, "label": "NP", "mod": [], "weight": 0.761659}, 
+                {"id": 1, "text": "때", "head": 4, "label": "NP_AJT", "mod": [0], "weight": 0.809402}, 
+                {"id": 2, "text": "우선봉(右先鋒)으로", "head": 4, "label": "NP_AJT", "mod": [], "weight": 0.837871}, 
+                {"id": 3, "text": "광성진을", "head": 4, "label": "NP_OBJ", "mod": [], "weight": 0.720581}, 
+                {"id": 4, "text": "수비하고,", "head": 11, "label": "VP", "mod": [1, 2, 3], "weight": 0.754652}, 
+                {"id": 5, "text": "신미양요", "head": 6, "label": "NP", "mod": [], "weight": 0.849566}, 
+                {"id": 6, "text": "때", "head": 11, "label": "NP_AJT", "mod": [5], "weight": 0.491144}, 
+                {"id": 7, "text": "순무(巡撫)", "head": 8, "label": "NP", "mod": [], "weight": 0.749321}, 
+                {"id": 8, "text": "중군(中軍)으로", "head": 11, "label": "NP_AJT", "mod": [7], "weight": 0.578848}, 
+                {"id": 9, "text": "다시", "head": 11, "label": "AP", "mod": [], "weight": 0.531942}, 
+                {"id": 10, "text": "광성진을", "head": 11, "label": "NP_OBJ", "mod": [], "weight": 0.675553}, 
+                {"id": 11, "text": "수비하던", "head": 12, "label": "VP_MOD", "mod": [6, 8, 9, 10, 4], "weight": 0.630964}, 
+                {"id": 12, "text": "중", "head": 13, "label": "NP_AJT", "mod": [11], "weight": 0.712757}, 
+                {"id": 13, "text": "전사하였다.", "head": -1, "label": "VP", "mod": [12], "weight": 0.00594235}
+            ], 
+            "SRL": [
+                {"verb": "수비", "sense": 1, "word_id": 4, "weight": 0.232022, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 1, "text": "때", "weight": 0.262399}, 
+                    {"type": "ARGM-CND", "word_id": 2, "text": "우선봉(右先鋒)으로", "weight": 0.150232}, 
+                    {"type": "ARG1", "word_id": 3, "text": "광성진을", "weight": 0.283435}
+                ]}, 
+                {"verb": "수비", "sense": 1, "word_id": 11, "weight": 0.247562, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 6, "text": "때", "weight": 0.359348}, 
+                    {"type": "ARGM-CND", "word_id": 8, "text": "중군(中軍)으로", "weight": 0.112132}, 
+                    {"type": "ARG1", "word_id": 10, "text": "광성진을", "weight": 0.288915}, 
+                    {"type": "ARGM-ADV", "word_id": 9, "text": "다시", "weight": 1}
+                ]}, 
+                {"verb": "전사", "sense": 1, "word_id": 13, "weight": 0.14486, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 12, "text": "중", "weight": 0.14486}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "구한말의", "start_eid_short": 1, "end_eid_short": 1, "text_short": "구한말의"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": 1, "text": "<인명> 구한말의 무장(1823~1871).", "start_eid_short": 2, "end_eid_short": 2, "text_short": "무장(1823~1871)."}, 
+            {"id": 3, "sent_id": 1, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "병인양요 때 우선봉(右先鋒)으로", "start_eid_short": 2, "end_eid_short": 2, "text_short": "우선봉(右先鋒)으로"}, 
+            {"id": 6, "sent_id": 1, "start_eid": 5, "end_eid": 8, "ne_id": 4, "text": "신미양요 때 순무(巡撫) 중군(中軍)으로", "start_eid_short": 8, "end_eid_short": 8, "text_short": "중군(中軍)으로"}
+        ]}, 
+        {"id": 2, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 4, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "병인양요 때", "start_eid_short": 0, "end_eid_short": 1, "text_short": "병인양요 때"}, 
+            {"id": 7, "sent_id": 1, "start_eid": 5, "end_eid": 6, "ne_id": 2, "text": "신미양요 때", "start_eid_short": 5, "end_eid_short": 6, "text_short": "신미양요 때"}
+        ]}, 
+        {"id": 3, "type": "AF_CULTURAL_ASSET", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 3, "end_eid": 3, "ne_id": 1, "text": "광성진을", "start_eid_short": 3, "end_eid_short": 3, "text_short": "광성진을"}, 
+            {"id": 10, "sent_id": 1, "start_eid": 10, "end_eid": 10, "ne_id": 5, "text": "광성진을", "start_eid_short": 10, "end_eid_short": 10, "text_short": "광성진을"}
+        ]}, 
+        {"id": 4, "type": "PT_GRASS", "number": "singular", "gender": "", "person": "", "animacy": "plant", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 7, "end_eid": 7, "ne_id": 3, "text": "순무(巡撫)", "start_eid_short": 7, "end_eid_short": 2, "text_short": ""}
+        ]}, 
+        {"id": 5, "type": "LCP_COUNTY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 8, "end_eid": 8, "ne_id": 4, "text": "중군(中軍)으로", "start_eid_short": 8, "end_eid_short": 2, "text_short": ""}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "<인명>", "start_eid_short": 0, "end_eid_short": 0, "text_short": "<인명>"}
+        ]}
+    ]
+}

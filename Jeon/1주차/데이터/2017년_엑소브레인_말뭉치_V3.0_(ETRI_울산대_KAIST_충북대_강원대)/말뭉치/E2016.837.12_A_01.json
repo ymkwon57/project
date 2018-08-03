@@ -1,0 +1,170 @@
+{
+    "doc_id": "E2016.837.12_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "한용운", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "저서로는 시집 《님의 침묵》을 비롯하여 《조선불교유신론》, 《불교대전》, 《십현담주해》, 《불교와 고려제왕》 등이 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "저서", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "로", "type": "JKB", "position": 6, "weight": 0.153229}, 
+                {"id": 2, "lemma": "는", "type": "JX", "position": 9, "weight": 0.0387928}, 
+                {"id": 3, "lemma": "시집", "type": "NNG", "position": 13, "weight": 0.324359}, 
+                {"id": 4, "lemma": "《", "type": "SS", "position": 20, "weight": 1}, 
+                {"id": 5, "lemma": "님", "type": "NNG", "position": 23, "weight": 0.00155009}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 26, "weight": 0.120732}, 
+                {"id": 7, "lemma": "침묵", "type": "NNG", "position": 30, "weight": 0.9}, 
+                {"id": 8, "lemma": "》", "type": "SS", "position": 36, "weight": 1}, 
+                {"id": 9, "lemma": "을", "type": "JKO", "position": 39, "weight": 0.0336085}, 
+                {"id": 10, "lemma": "비롯하", "type": "VV", "position": 43, "weight": 0.9}, 
+                {"id": 11, "lemma": "아", "type": "EC", "position": 52, "weight": 0.41831}, 
+                {"id": 12, "lemma": "《", "type": "SS", "position": 56, "weight": 1}, 
+                {"id": 13, "lemma": "조선", "type": "NNP", "position": 59, "weight": 0.0663851}, 
+                {"id": 14, "lemma": "불교", "type": "NNG", "position": 65, "weight": 0.281845}, 
+                {"id": 15, "lemma": "유신", "type": "NNG", "position": 71, "weight": 0.155764}, 
+                {"id": 16, "lemma": "론", "type": "XSN", "position": 77, "weight": 0.0338336}, 
+                {"id": 17, "lemma": "》", "type": "SS", "position": 80, "weight": 1}, 
+                {"id": 18, "lemma": ",", "type": "SP", "position": 83, "weight": 1}, 
+                {"id": 19, "lemma": "《", "type": "SS", "position": 85, "weight": 1}, 
+                {"id": 20, "lemma": "불교", "type": "NNG", "position": 88, "weight": 0.199897}, 
+                {"id": 21, "lemma": "대전", "type": "NNG", "position": 94, "weight": 0.00126276}, 
+                {"id": 22, "lemma": "》", "type": "SS", "position": 100, "weight": 1}, 
+                {"id": 23, "lemma": ",", "type": "SP", "position": 103, "weight": 1}, 
+                {"id": 24, "lemma": "《", "type": "SS", "position": 105, "weight": 1}, 
+                {"id": 25, "lemma": "십현담주해", "type": "NNP", "position": 108, "weight": 0.6}, 
+                {"id": 26, "lemma": "》", "type": "SS", "position": 123, "weight": 1}, 
+                {"id": 27, "lemma": ",", "type": "SP", "position": 126, "weight": 1}, 
+                {"id": 28, "lemma": "《", "type": "SS", "position": 128, "weight": 1}, 
+                {"id": 29, "lemma": "불교", "type": "NNG", "position": 131, "weight": 0.199897}, 
+                {"id": 30, "lemma": "와", "type": "JC", "position": 137, "weight": 0.0169714}, 
+                {"id": 31, "lemma": "고려", "type": "NNP", "position": 141, "weight": 0.6}, 
+                {"id": 32, "lemma": "제왕", "type": "NNG", "position": 141, "weight": 0.6}, 
+                {"id": 33, "lemma": "》", "type": "SS", "position": 153, "weight": 1}, 
+                {"id": 34, "lemma": "등", "type": "NNB", "position": 157, "weight": 0.0121753}, 
+                {"id": 35, "lemma": "이", "type": "JKS", "position": 160, "weight": 0.0376169}, 
+                {"id": 36, "lemma": "있", "type": "VA", "position": 164, "weight": 0.12767}, 
+                {"id": 37, "lemma": "다", "type": "EF", "position": 167, "weight": 0.132573}, 
+                {"id": 38, "lemma": ".", "type": "SF", "position": 170, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "저서", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 9, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "시집", "type": "NNG", "scode": "030000", "weight": 0.333333, "position": 13, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "《", "type": "SS", "scode": "000000", "weight": 1, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "님", "type": "NNG", "scode": "050001", "weight": 0.142857, "position": 23, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 26, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "침묵", "type": "NNG", "scode": "000001", "weight": 0.25, "position": 30, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "》", "type": "SS", "scode": "000000", "weight": 1, "position": 36, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 39, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "비롯하", "type": "VV", "scode": "000202", "weight": 0.333333, "position": 43, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 52, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "《", "type": "SS", "scode": "000000", "weight": 1, "position": 56, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "조선불교유신론", "type": "NNG", "scode": "000000", "weight": 1, "position": 59, "begin": 13, "end": 16}, 
+                {"id": 14, "text": "》", "type": "SS", "scode": "000000", "weight": 1, "position": 80, "begin": 17, "end": 17}, 
+                {"id": 15, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 83, "begin": 18, "end": 18}, 
+                {"id": 16, "text": "《", "type": "SS", "scode": "000000", "weight": 1, "position": 85, "begin": 19, "end": 19}, 
+                {"id": 17, "text": "불교", "type": "NNG", "scode": "000000", "weight": 1, "position": 88, "begin": 20, "end": 20}, 
+                {"id": 18, "text": "대전", "type": "NNG", "scode": "020002", "weight": 0.047619, "position": 94, "begin": 21, "end": 21}, 
+                {"id": 19, "text": "》", "type": "SS", "scode": "000000", "weight": 1, "position": 100, "begin": 22, "end": 22}, 
+                {"id": 20, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 103, "begin": 23, "end": 23}, 
+                {"id": 21, "text": "《", "type": "SS", "scode": "000000", "weight": 1, "position": 105, "begin": 24, "end": 24}, 
+                {"id": 22, "text": "십현담주해", "type": "NNP", "scode": "000000", "weight": 0, "position": 108, "begin": 25, "end": 25}, 
+                {"id": 23, "text": "》", "type": "SS", "scode": "000000", "weight": 1, "position": 123, "begin": 26, "end": 26}, 
+                {"id": 24, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 126, "begin": 27, "end": 27}, 
+                {"id": 25, "text": "《", "type": "SS", "scode": "000000", "weight": 1, "position": 128, "begin": 28, "end": 28}, 
+                {"id": 26, "text": "불교", "type": "NNG", "scode": "000000", "weight": 1, "position": 131, "begin": 29, "end": 29}, 
+                {"id": 27, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 137, "begin": 30, "end": 30}, 
+                {"id": 28, "text": "고려", "type": "NNP", "scode": "050001", "weight": 0.0833333, "position": 141, "begin": 31, "end": 31}, 
+                {"id": 29, "text": "제왕", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 141, "begin": 32, "end": 32}, 
+                {"id": 30, "text": "》", "type": "SS", "scode": "000000", "weight": 1, "position": 153, "begin": 33, "end": 33}, 
+                {"id": 31, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 157, "begin": 34, "end": 34}, 
+                {"id": 32, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 160, "begin": 35, "end": 35}, 
+                {"id": 33, "text": "있", "type": "VA", "scode": "010301", "weight": 0.0416667, "position": 164, "begin": 36, "end": 36}, 
+                {"id": 34, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 167, "begin": 37, "end": 37}, 
+                {"id": 35, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 170, "begin": 38, "end": 38}
+            ], 
+            "word": [
+                {"id": 0, "text": "저서로는", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "시집", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "《님의", "type": "", "begin": 4, "end": 6}, 
+                {"id": 3, "text": "침묵》을", "type": "", "begin": 7, "end": 9}, 
+                {"id": 4, "text": "비롯하여", "type": "", "begin": 10, "end": 11}, 
+                {"id": 5, "text": "《조선불교유신론》,", "type": "", "begin": 12, "end": 18}, 
+                {"id": 6, "text": "《불교대전》,", "type": "", "begin": 19, "end": 23}, 
+                {"id": 7, "text": "《십현담주해》,", "type": "", "begin": 24, "end": 27}, 
+                {"id": 8, "text": "《불교와", "type": "", "begin": 28, "end": 30}, 
+                {"id": 9, "text": "고려제왕》", "type": "", "begin": 31, "end": 33}, 
+                {"id": 10, "text": "등이", "type": "", "begin": 34, "end": 35}, 
+                {"id": 11, "text": "있다.", "type": "", "begin": 36, "end": 38}
+            ], 
+            "NE": [
+                {"id": 0, "text": "님의 침묵", "type": "AFW_DOCUMENT", "begin": 5, "end": 7, "weight": 0.995351, "common_noun": 0}, 
+                {"id": 1, "text": "조선불교유신론", "type": "AFW_DOCUMENT", "begin": 13, "end": 16, "weight": 0.993201, "common_noun": 0}, 
+                {"id": 2, "text": "불교대전", "type": "AFW_DOCUMENT", "begin": 20, "end": 21, "weight": 0.984096, "common_noun": 0}, 
+                {"id": 3, "text": "십현담주해", "type": "AFW_DOCUMENT", "begin": 25, "end": 25, "weight": 0.895258, "common_noun": 0}, 
+                {"id": 4, "text": "불교와 고려제왕", "type": "AFW_DOCUMENT", "begin": 29, "end": 32, "weight": 0.832339, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "저서로는", "head": 4, "label": "NP_AJT", "mod": [], "weight": 0.472734}, 
+                {"id": 1, "text": "시집", "head": 3, "label": "NP", "mod": [], "weight": 0.649403}, 
+                {"id": 2, "text": "《님의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.691803}, 
+                {"id": 3, "text": "침묵》을", "head": 4, "label": "NP_OBJ", "mod": [1, 2], "weight": 0.745326}, 
+                {"id": 4, "text": "비롯하여", "head": 11, "label": "VP", "mod": [0, 3], "weight": 0.862042}, 
+                {"id": 5, "text": "《조선불교유신론》,", "head": 9, "label": "NP_CNJ", "mod": [], "weight": 0.451091}, 
+                {"id": 6, "text": "《불교대전》,", "head": 9, "label": "NP_CNJ", "mod": [], "weight": 0.736716}, 
+                {"id": 7, "text": "《십현담주해》,", "head": 9, "label": "NP_CNJ", "mod": [], "weight": 0.687432}, 
+                {"id": 8, "text": "《불교와", "head": 9, "label": "NP_CNJ", "mod": [], "weight": 0.69095}, 
+                {"id": 9, "text": "고려제왕》", "head": 10, "label": "NP", "mod": [5, 6, 7, 8], "weight": 0.621504}, 
+                {"id": 10, "text": "등이", "head": 11, "label": "NP_SBJ", "mod": [9], "weight": 0.805447}, 
+                {"id": 11, "text": "있다.", "head": -1, "label": "VP", "mod": [4, 10], "weight": 0.00721406}
+            ], 
+            "SRL": [
+                {"verb": "비롯하", "sense": 1, "word_id": 4, "weight": 0.383257, "argument": [
+                    {"type": "ARG2", "word_id": 3, "text": "침묵》을", "weight": 0.383257}, 
+                    {"type": "ARG1", "word_id": 0, "text": "저서로는", "weight": 1}
+                ]}, 
+                {"verb": "있", "sense": 1, "word_id": 11, "weight": 0.119526, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "등이", "weight": 0.145028}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "저서로는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "저서로는"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 10, "ne_id": -1, "text": "시집 《님의 침묵》을 비롯하여 《조선불교유신론》, 《불교대전》, 《십현담주해》, 《불교와 고려제왕》 등이", "start_eid_short": 10, "end_eid_short": 10, "text_short": "등이"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "시집", "start_eid_short": 1, "end_eid_short": 1, "text_short": "시집"}
+        ]}, 
+        {"id": 2, "type": "AFW_DOCUMENT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": 0, "text": "시집 《님의 침묵》을", "start_eid_short": 3, "end_eid_short": 3, "text_short": "침묵》을"}
+        ]}, 
+        {"id": 3, "type": "AF_WORKS", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 8, "end_eid": 9, "ne_id": 4, "text": "《불교와 고려제왕》", "start_eid_short": 9, "end_eid_short": 9, "text_short": "고려제왕》"}
+        ]}, 
+        {"id": 4, "type": "AF_WORKS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 3, "text": "《십현담주해》,", "start_eid_short": 7, "end_eid_short": 7, "text_short": "《십현담주해》,"}
+        ]}, 
+        {"id": 5, "type": "AF_WORKS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": 1, "text": "《조선불교유신론》,", "start_eid_short": 5, "end_eid_short": 5, "text_short": "《조선불교유신론》,"}
+        ]}, 
+        {"id": 6, "type": "AF_WORKS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": 2, "text": "《불교대전》,", "start_eid_short": 6, "end_eid_short": 6, "text_short": "《불교대전》,"}
+        ]}
+    ]
+}

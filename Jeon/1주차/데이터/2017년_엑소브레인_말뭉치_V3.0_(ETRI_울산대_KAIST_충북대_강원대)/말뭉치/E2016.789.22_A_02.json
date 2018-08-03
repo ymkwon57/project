@@ -1,0 +1,138 @@
+{
+    "doc_id": "E2016.789.22_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "간인", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "함께 묶인 서류의 종잇장 사이에 걸쳐서 도장을 찍음.", 
+            "morp": [
+                {"id": 0, "lemma": "함께", "type": "MAG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "묶이", "type": "VV", "position": 7, "weight": 0.9}, 
+                {"id": 2, "lemma": "ㄴ", "type": "ETM", "position": 10, "weight": 0.304215}, 
+                {"id": 3, "lemma": "서류", "type": "NNG", "position": 14, "weight": 0.9}, 
+                {"id": 4, "lemma": "의", "type": "JKG", "position": 20, "weight": 0.0694213}, 
+                {"id": 5, "lemma": "종잇장", "type": "NNG", "position": 24, "weight": 0.9}, 
+                {"id": 6, "lemma": "사이", "type": "NNG", "position": 34, "weight": 0.184827}, 
+                {"id": 7, "lemma": "에", "type": "JKB", "position": 40, "weight": 0.153364}, 
+                {"id": 8, "lemma": "걸치", "type": "VV", "position": 44, "weight": 0.9}, 
+                {"id": 9, "lemma": "어서", "type": "EC", "position": 47, "weight": 0.421998}, 
+                {"id": 10, "lemma": "도장", "type": "NNG", "position": 54, "weight": 0.218662}, 
+                {"id": 11, "lemma": "을", "type": "JKO", "position": 60, "weight": 0.129611}, 
+                {"id": 12, "lemma": "찍", "type": "VV", "position": 64, "weight": 0.772248}, 
+                {"id": 13, "lemma": "음", "type": "ETN", "position": 67, "weight": 0.0359932}, 
+                {"id": 14, "lemma": ".", "type": "SF", "position": 70, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "함께", "type": "MAG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "묶이", "type": "VV", "scode": "000501", "weight": 0.142857, "position": 7, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "서류", "type": "NNG", "scode": "020000", "weight": 0.25, "position": 14, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "종잇장", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 24, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "사이", "type": "NNG", "scode": "010001", "weight": 0.0833333, "position": 34, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 40, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "걸치", "type": "VV", "scode": "000102", "weight": 0.166667, "position": 44, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "어서", "type": "EC", "scode": "000000", "weight": 1, "position": 47, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "도장", "type": "NNG", "scode": "170000", "weight": 0.047619, "position": 54, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 60, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "찍", "type": "VV", "scode": "020101", "weight": 0.0714286, "position": 64, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "음", "type": "ETN", "scode": "000000", "weight": 1, "position": 67, "begin": 13, "end": 13}, 
+                {"id": 14, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 70, "begin": 14, "end": 14}
+            ], 
+            "word": [
+                {"id": 0, "text": "함께", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "묶인", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "서류의", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "종잇장", "type": "", "begin": 5, "end": 5}, 
+                {"id": 4, "text": "사이에", "type": "", "begin": 6, "end": 7}, 
+                {"id": 5, "text": "걸쳐서", "type": "", "begin": 8, "end": 9}, 
+                {"id": 6, "text": "도장을", "type": "", "begin": 10, "end": 11}, 
+                {"id": 7, "text": "찍음.", "type": "", "begin": 12, "end": 14}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "함께", "head": 1, "label": "AP", "mod": [], "weight": 0.288924}, 
+                {"id": 1, "text": "묶인", "head": 2, "label": "VP_MOD", "mod": [0], "weight": 0.485861}, 
+                {"id": 2, "text": "서류의", "head": 3, "label": "NP_MOD", "mod": [1], "weight": 0.319221}, 
+                {"id": 3, "text": "종잇장", "head": 4, "label": "NP", "mod": [2], "weight": 0.75462}, 
+                {"id": 4, "text": "사이에", "head": 5, "label": "NP_AJT", "mod": [3], "weight": 0.810424}, 
+                {"id": 5, "text": "걸쳐서", "head": 7, "label": "VP", "mod": [4], "weight": 0.785722}, 
+                {"id": 6, "text": "도장을", "head": 7, "label": "NP_OBJ", "mod": [], "weight": 0.830519}, 
+                {"id": 7, "text": "찍음.", "head": -1, "label": "VP", "mod": [5, 6], "weight": 0.0133181}
+            ], 
+            "SRL": [
+                {"verb": "묶이", "sense": 1, "word_id": 1, "weight": 0.140379, "argument": [
+                    {"type": "ARGM-ADV", "word_id": 0, "text": "함께", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 2, "text": "서류의", "weight": 1}
+                ]}, 
+                {"verb": "걸치", "sense": 1, "word_id": 5, "weight": 0.111112, "argument": [
+                    {"type": "ARG2", "word_id": 4, "text": "사이에", "weight": 0.111112}
+                ]}, 
+                {"verb": "찍", "sense": 2, "word_id": 7, "weight": 0.3356, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "도장을", "weight": 0.3356}, 
+                    {"type": "ARGM-LOC", "word_id": 4, "text": "사이에", "weight": 1}, 
+                    {"type": "ARGM-MNR", "word_id": 5, "text": "걸쳐서", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "또는 그 도장.", 
+            "morp": [
+                {"id": 0, "lemma": "또는", "type": "MAJ", "position": 71, "weight": 0.0374139}, 
+                {"id": 1, "lemma": "그", "type": "MM", "position": 78, "weight": 0.100598}, 
+                {"id": 2, "lemma": "도장", "type": "NNG", "position": 82, "weight": 0.734892}, 
+                {"id": 3, "lemma": ".", "type": "SF", "position": 88, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "또는", "type": "MAJ", "scode": "000000", "weight": 1, "position": 71, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "그", "type": "MM", "scode": "010102", "weight": 0.142857, "position": 78, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "도장", "type": "NNG", "scode": "170000", "weight": 0.047619, "position": 82, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 88, "begin": 3, "end": 3}
+            ], 
+            "word": [
+                {"id": 0, "text": "또는", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "그", "type": "", "begin": 1, "end": 1}, 
+                {"id": 2, "text": "도장.", "type": "", "begin": 2, "end": 3}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "또는", "head": 2, "label": "AP", "mod": [], "weight": 0.836588}, 
+                {"id": 1, "text": "그", "head": 2, "label": "DP", "mod": [], "weight": 0.834143}, 
+                {"id": 2, "text": "도장.", "head": -1, "label": "NP", "mod": [0, 1], "weight": 0.530679}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "함께 묶인 서류의", "start_eid_short": 2, "end_eid_short": 2, "text_short": "서류의"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "함께 묶인 서류의 종잇장", "start_eid_short": 3, "end_eid_short": 3, "text_short": "종잇장"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "도장을", "start_eid_short": 6, "end_eid_short": 6, "text_short": "도장을"}, 
+            {"id": 3, "sent_id": 1, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "그 도장.", "start_eid_short": 1, "end_eid_short": 2, "text_short": "그 도장."}
+        ]}
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "doc_id": "E2016.835.06_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "히틀러", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<인명> 오스트리아 태생의 독일 정치가(1889~1945).", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "인명", "type": "NNG", "position": 1, "weight": 0.153379}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "오스트리아", "type": "NNP", "position": 9, "weight": 0.9}, 
+                {"id": 4, "lemma": "태생", "type": "NNG", "position": 25, "weight": 0.9}, 
+                {"id": 5, "lemma": "의", "type": "JKG", "position": 31, "weight": 0.0694213}, 
+                {"id": 6, "lemma": "독일", "type": "NNP", "position": 35, "weight": 0.9}, 
+                {"id": 7, "lemma": "정치", "type": "NNG", "position": 42, "weight": 0.9}, 
+                {"id": 8, "lemma": "가", "type": "XSN", "position": 48, "weight": 0.000115417}, 
+                {"id": 9, "lemma": "(", "type": "SS", "position": 51, "weight": 1}, 
+                {"id": 10, "lemma": "1889", "type": "SN", "position": 52, "weight": 1}, 
+                {"id": 11, "lemma": "~", "type": "SO", "position": 56, "weight": 1}, 
+                {"id": 12, "lemma": "1945", "type": "SN", "position": 57, "weight": 1}, 
+                {"id": 13, "lemma": ")", "type": "SS", "position": 61, "weight": 1}, 
+                {"id": 14, "lemma": ".", "type": "SF", "position": 62, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "인명", "type": "NNG", "scode": "010000", "weight": 0.2, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "오스트리아", "type": "NNP", "scode": "000000", "weight": 1, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "태생", "type": "NNG", "scode": "000001", "weight": 0.25, "position": 25, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 31, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "독일", "type": "NNP", "scode": "000000", "weight": 1, "position": 35, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "정치가", "type": "NNG", "scode": "000000", "weight": 1, "position": 42, "begin": 7, "end": 8}, 
+                {"id": 8, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 51, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "1889", "type": "SN", "scode": "000000", "weight": 1, "position": 52, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "~", "type": "SO", "scode": "000000", "weight": 1, "position": 56, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "1945", "type": "SN", "scode": "000000", "weight": 1, "position": 57, "begin": 12, "end": 12}, 
+                {"id": 12, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 61, "begin": 13, "end": 13}, 
+                {"id": 13, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 62, "begin": 14, "end": 14}
+            ], 
+            "word": [
+                {"id": 0, "text": "<인명>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "오스트리아", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "태생의", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "독일", "type": "", "begin": 6, "end": 6}, 
+                {"id": 4, "text": "정치가(1889~1945).", "type": "", "begin": 7, "end": 14}
+            ], 
+            "NE": [
+                {"id": 0, "text": "오스트리아", "type": "LCP_COUNTRY", "begin": 3, "end": 3, "weight": 0.561932, "common_noun": 0}, 
+                {"id": 1, "text": "독일", "type": "LCP_COUNTRY", "begin": 6, "end": 6, "weight": 0.862123, "common_noun": 0}, 
+                {"id": 2, "text": "정치가", "type": "CV_OCCUPATION", "begin": 7, "end": 8, "weight": 0.530941, "common_noun": 0}, 
+                {"id": 3, "text": "1889~1945", "type": "DT_DURATION", "begin": 10, "end": 12, "weight": 0.64367, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<인명>", "head": 4, "label": "NP", "mod": [], "weight": 0.813032}, 
+                {"id": 1, "text": "오스트리아", "head": 2, "label": "NP", "mod": [], "weight": 0.867771}, 
+                {"id": 2, "text": "태생의", "head": 4, "label": "NP_MOD", "mod": [1], "weight": 0.606966}, 
+                {"id": 3, "text": "독일", "head": 4, "label": "NP", "mod": [], "weight": 0.784636}, 
+                {"id": 4, "text": "정치가(1889~1945).", "head": -1, "label": "NP", "mod": [0, 2, 3], "weight": 0.277974}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "1919년에 독일 노동당에 입당하여 1921년부터 나치스의 당수를 지냈으며 1933년에 독일 연방의 총리가 되고 다음 해 총통이 되었다.", 
+            "morp": [
+                {"id": 0, "lemma": "1919", "type": "SN", "position": 63, "weight": 1}, 
+                {"id": 1, "lemma": "년", "type": "NNB", "position": 67, "weight": 0.414343}, 
+                {"id": 2, "lemma": "에", "type": "JKB", "position": 70, "weight": 0.135559}, 
+                {"id": 3, "lemma": "독일", "type": "NNP", "position": 74, "weight": 0.9}, 
+                {"id": 4, "lemma": "노동", "type": "NNG", "position": 81, "weight": 0.9}, 
+                {"id": 5, "lemma": "당", "type": "NNG", "position": 87, "weight": 0.107866}, 
+                {"id": 6, "lemma": "에", "type": "JKB", "position": 90, "weight": 0.153364}, 
+                {"id": 7, "lemma": "입당", "type": "NNG", "position": 94, "weight": 0.9}, 
+                {"id": 8, "lemma": "하", "type": "XSV", "position": 100, "weight": 0.0001}, 
+                {"id": 9, "lemma": "아", "type": "EC", "position": 103, "weight": 0.361326}, 
+                {"id": 10, "lemma": "1921", "type": "SN", "position": 107, "weight": 1}, 
+                {"id": 11, "lemma": "년", "type": "NNB", "position": 111, "weight": 0.414343}, 
+                {"id": 12, "lemma": "부터", "type": "JX", "position": 114, "weight": 0.105319}, 
+                {"id": 13, "lemma": "나치스", "type": "NNP", "position": 121, "weight": 0.278504}, 
+                {"id": 14, "lemma": "의", "type": "JKG", "position": 130, "weight": 0.0694213}, 
+                {"id": 15, "lemma": "당수", "type": "NNG", "position": 134, "weight": 0.9}, 
+                {"id": 16, "lemma": "를", "type": "JKO", "position": 140, "weight": 0.137686}, 
+                {"id": 17, "lemma": "지내", "type": "VV", "position": 144, "weight": 0.777813}, 
+                {"id": 18, "lemma": "았", "type": "EP", "position": 147, "weight": 0.9}, 
+                {"id": 19, "lemma": "으며", "type": "EC", "position": 150, "weight": 0.197482}, 
+                {"id": 20, "lemma": "1933", "type": "SN", "position": 157, "weight": 1}, 
+                {"id": 21, "lemma": "년", "type": "NNB", "position": 161, "weight": 0.414343}, 
+                {"id": 22, "lemma": "에", "type": "JKB", "position": 164, "weight": 0.135559}, 
+                {"id": 23, "lemma": "독일", "type": "NNP", "position": 168, "weight": 0.9}, 
+                {"id": 24, "lemma": "연방", "type": "NNG", "position": 175, "weight": 0.232411}, 
+                {"id": 25, "lemma": "의", "type": "JKG", "position": 181, "weight": 0.0694213}, 
+                {"id": 26, "lemma": "총리", "type": "NNG", "position": 185, "weight": 0.9}, 
+                {"id": 27, "lemma": "가", "type": "JKC", "position": 191, "weight": 0.000442184}, 
+                {"id": 28, "lemma": "되", "type": "VV", "position": 195, "weight": 0.542406}, 
+                {"id": 29, "lemma": "고", "type": "EC", "position": 198, "weight": 0.416679}, 
+                {"id": 30, "lemma": "다음", "type": "NNG", "position": 202, "weight": 0.219301}, 
+                {"id": 31, "lemma": "해", "type": "NNG", "position": 209, "weight": 0.124011}, 
+                {"id": 32, "lemma": "총통", "type": "NNG", "position": 213, "weight": 0.9}, 
+                {"id": 33, "lemma": "이", "type": "JKC", "position": 219, "weight": 0.000287945}, 
+                {"id": 34, "lemma": "되", "type": "VV", "position": 223, "weight": 0.542406}, 
+                {"id": 35, "lemma": "었", "type": "EP", "position": 226, "weight": 0.9}, 
+                {"id": 36, "lemma": "다", "type": "EF", "position": 229, "weight": 0.640954}, 
+                {"id": 37, "lemma": ".", "type": "SF", "position": 232, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "1919", "type": "SN", "scode": "000000", "weight": 1, "position": 63, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 67, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 70, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "독일", "type": "NNP", "scode": "000000", "weight": 1, "position": 74, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "노동당", "type": "NNG", "scode": "000000", "weight": 1, "position": 81, "begin": 4, "end": 5}, 
+                {"id": 5, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 90, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "입당하", "type": "VV", "scode": "020000", "weight": 0.5, "position": 94, "begin": 7, "end": 8}, 
+                {"id": 7, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 103, "begin": 9, "end": 9}, 
+                {"id": 8, "text": "1921", "type": "SN", "scode": "000000", "weight": 1, "position": 107, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 111, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "부터", "type": "JX", "scode": "000000", "weight": 1, "position": 114, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "나치스", "type": "NNP", "scode": "000000", "weight": 1, "position": 121, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 130, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "당수", "type": "NNG", "scode": "040000", "weight": 0.25, "position": 134, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 140, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "지내", "type": "VV", "scode": "010301", "weight": 0.166667, "position": 144, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 147, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "으며", "type": "EC", "scode": "000000", "weight": 1, "position": 150, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "1933", "type": "SN", "scode": "000000", "weight": 1, "position": 157, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 161, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 164, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "독일", "type": "NNP", "scode": "000000", "weight": 1, "position": 168, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "연방", "type": "NNG", "scode": "090000", "weight": 0.111111, "position": 175, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 181, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "총리", "type": "NNG", "scode": "010003", "weight": 0.2, "position": 185, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "가", "type": "JKC", "scode": "000000", "weight": 1, "position": 191, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "되", "type": "VV", "scode": "010101", "weight": 0.03125, "position": 195, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 198, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "다음", "type": "NNG", "scode": "010002", "weight": 0.0833333, "position": 202, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "해", "type": "NNG", "scode": "010002", "weight": 0.0333333, "position": 209, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "총통", "type": "NNG", "scode": "020002", "weight": 0.25, "position": 213, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "이", "type": "JKC", "scode": "000000", "weight": 1, "position": 219, "begin": 33, "end": 33}, 
+                {"id": 32, "text": "되", "type": "VV", "scode": "010101", "weight": 0.03125, "position": 223, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 226, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 229, "begin": 36, "end": 36}, 
+                {"id": 35, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 232, "begin": 37, "end": 37}
+            ], 
+            "word": [
+                {"id": 0, "text": "1919년에", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "독일", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "노동당에", "type": "", "begin": 4, "end": 6}, 
+                {"id": 3, "text": "입당하여", "type": "", "begin": 7, "end": 9}, 
+                {"id": 4, "text": "1921년부터", "type": "", "begin": 10, "end": 12}, 
+                {"id": 5, "text": "나치스의", "type": "", "begin": 13, "end": 14}, 
+                {"id": 6, "text": "당수를", "type": "", "begin": 15, "end": 16}, 
+                {"id": 7, "text": "지냈으며", "type": "", "begin": 17, "end": 19}, 
+                {"id": 8, "text": "1933년에", "type": "", "begin": 20, "end": 22}, 
+                {"id": 9, "text": "독일", "type": "", "begin": 23, "end": 23}, 
+                {"id": 10, "text": "연방의", "type": "", "begin": 24, "end": 25}, 
+                {"id": 11, "text": "총리가", "type": "", "begin": 26, "end": 27}, 
+                {"id": 12, "text": "되고", "type": "", "begin": 28, "end": 29}, 
+                {"id": 13, "text": "다음", "type": "", "begin": 30, "end": 30}, 
+                {"id": 14, "text": "해", "type": "", "begin": 31, "end": 31}, 
+                {"id": 15, "text": "총통이", "type": "", "begin": 32, "end": 33}, 
+                {"id": 16, "text": "되었다.", "type": "", "begin": 34, "end": 37}
+            ], 
+            "NE": [
+                {"id": 0, "text": "1919년", "type": "DT_YEAR", "begin": 0, "end": 1, "weight": 0.789909, "common_noun": 0}, 
+                {"id": 1, "text": "독일", "type": "LCP_COUNTRY", "begin": 3, "end": 3, "weight": 0.896689, "common_noun": 0}, 
+                {"id": 2, "text": "노동당", "type": "OGG_POLITICS", "begin": 4, "end": 5, "weight": 0.543304, "common_noun": 0}, 
+                {"id": 3, "text": "1921년", "type": "DT_YEAR", "begin": 10, "end": 11, "weight": 0.801409, "common_noun": 0}, 
+                {"id": 4, "text": "나치스", "type": "OGG_POLITICS", "begin": 13, "end": 13, "weight": 0.50184, "common_noun": 0}, 
+                {"id": 5, "text": "당수", "type": "CV_POSITION", "begin": 15, "end": 15, "weight": 0.484612, "common_noun": 0}, 
+                {"id": 6, "text": "1933년", "type": "DT_YEAR", "begin": 20, "end": 21, "weight": 0.839359, "common_noun": 0}, 
+                {"id": 7, "text": "독일", "type": "LCP_COUNTRY", "begin": 23, "end": 23, "weight": 0.526642, "common_noun": 0}, 
+                {"id": 8, "text": "총리", "type": "CV_POSITION", "begin": 26, "end": 26, "weight": 0.59602, "common_noun": 0}, 
+                {"id": 9, "text": "다음 해", "type": "DT_YEAR", "begin": 30, "end": 31, "weight": 0.214787, "common_noun": 0}, 
+                {"id": 10, "text": "총통", "type": "CV_POSITION", "begin": 32, "end": 32, "weight": 0.236529, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "1919년에", "head": 3, "label": "NP_AJT", "mod": [], "weight": 0.844226}, 
+                {"id": 1, "text": "독일", "head": 2, "label": "NP", "mod": [], "weight": 0.747209}, 
+                {"id": 2, "text": "노동당에", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.842531}, 
+                {"id": 3, "text": "입당하여", "head": 7, "label": "VP", "mod": [0, 2], "weight": 0.859471}, 
+                {"id": 4, "text": "1921년부터", "head": 7, "label": "NP_AJT", "mod": [], "weight": 0.772227}, 
+                {"id": 5, "text": "나치스의", "head": 6, "label": "NP_MOD", "mod": [], "weight": 0.75975}, 
+                {"id": 6, "text": "당수를", "head": 7, "label": "NP_OBJ", "mod": [5], "weight": 0.833656}, 
+                {"id": 7, "text": "지냈으며", "head": 12, "label": "VP", "mod": [3, 4, 6], "weight": 0.878054}, 
+                {"id": 8, "text": "1933년에", "head": 12, "label": "NP_AJT", "mod": [], "weight": 0.82063}, 
+                {"id": 9, "text": "독일", "head": 10, "label": "NP", "mod": [], "weight": 0.661316}, 
+                {"id": 10, "text": "연방의", "head": 11, "label": "NP_MOD", "mod": [9], "weight": 0.725464}, 
+                {"id": 11, "text": "총리가", "head": 12, "label": "NP_CMP", "mod": [10], "weight": 0.61128}, 
+                {"id": 12, "text": "되고", "head": 16, "label": "VP", "mod": [7, 8, 11], "weight": 0.77361}, 
+                {"id": 13, "text": "다음", "head": 14, "label": "NP", "mod": [], "weight": 0.376369}, 
+                {"id": 14, "text": "해", "head": 15, "label": "NP", "mod": [13], "weight": 0.0956696}, 
+                {"id": 15, "text": "총통이", "head": 16, "label": "NP_CMP", "mod": [14], "weight": 0.760391}, 
+                {"id": 16, "text": "되었다.", "head": -1, "label": "VP", "mod": [12, 15], "weight": 0.000778663}
+            ], 
+            "SRL": [
+                {"verb": "입당", "sense": 1, "word_id": 3, "weight": 0.111279, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 0, "text": "1919년에", "weight": 0.136466}, 
+                    {"type": "ARG1", "word_id": 2, "text": "노동당에", "weight": 1}
+                ]}, 
+                {"verb": "지내", "sense": 2, "word_id": 7, "weight": 0.344948, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 4, "text": "1921년부터", "weight": 0.435895}, 
+                    {"type": "ARG1", "word_id": 6, "text": "당수를", "weight": 0.254}
+                ]}, 
+                {"verb": "되", "sense": 1, "word_id": 12, "weight": 0.229295, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 8, "text": "1933년에", "weight": 0.120016}, 
+                    {"type": "ARG2", "word_id": 11, "text": "총리가", "weight": 0.338575}
+                ]}, 
+                {"verb": "되", "sense": 1, "word_id": 16, "weight": 0.459832, "argument": [
+                    {"type": "ARG2", "word_id": 15, "text": "총통이", "weight": 0.459832}, 
+                    {"type": "ARGM-TMP", "word_id": 14, "text": "해", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": " 반유대주의와 게르만 민족의 우월성을 내세워 제이차 세계 대전을 일으켰다.", 
+            "morp": [
+                {"id": 0, "lemma": "반", "type": "XPN", "position": 234, "weight": 0.000528317}, 
+                {"id": 1, "lemma": "유대", "type": "NNG", "position": 237, "weight": 0.3999}, 
+                {"id": 2, "lemma": "주의", "type": "NNG", "position": 243, "weight": 0.9}, 
+                {"id": 3, "lemma": "와", "type": "JKB", "position": 249, "weight": 0.0567862}, 
+                {"id": 4, "lemma": "게르만", "type": "NNP", "position": 253, "weight": 0.9}, 
+                {"id": 5, "lemma": "민족", "type": "NNG", "position": 263, "weight": 0.9}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 269, "weight": 0.0694213}, 
+                {"id": 7, "lemma": "우월", "type": "NNG", "position": 273, "weight": 0.9}, 
+                {"id": 8, "lemma": "성", "type": "XSN", "position": 279, "weight": 0.0161708}, 
+                {"id": 9, "lemma": "을", "type": "JKO", "position": 282, "weight": 0.0819193}, 
+                {"id": 10, "lemma": "내세우", "type": "VV", "position": 286, "weight": 0.9}, 
+                {"id": 11, "lemma": "어", "type": "EC", "position": 292, "weight": 0.41831}, 
+                {"id": 12, "lemma": "제", "type": "XPN", "position": 296, "weight": 0.000581263}, 
+                {"id": 13, "lemma": "이", "type": "NR", "position": 299, "weight": 0.0001}, 
+                {"id": 14, "lemma": "차", "type": "NNB", "position": 302, "weight": 0.10069}, 
+                {"id": 15, "lemma": "세계", "type": "NNG", "position": 306, "weight": 0.9}, 
+                {"id": 16, "lemma": "대전", "type": "NNG", "position": 313, "weight": 0.117127}, 
+                {"id": 17, "lemma": "을", "type": "JKO", "position": 319, "weight": 0.129611}, 
+                {"id": 18, "lemma": "일으키", "type": "VV", "position": 323, "weight": 0.9}, 
+                {"id": 19, "lemma": "었", "type": "EP", "position": 329, "weight": 0.9}, 
+                {"id": 20, "lemma": "다", "type": "EF", "position": 332, "weight": 0.640954}, 
+                {"id": 21, "lemma": ".", "type": "SF", "position": 335, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "반유대주의", "type": "NNG", "scode": "000000", "weight": 1, "position": 234, "begin": 0, "end": 2}, 
+                {"id": 1, "text": "와", "type": "JKB", "scode": "000000", "weight": 1, "position": 249, "begin": 3, "end": 3}, 
+                {"id": 2, "text": "게르만", "type": "NNP", "scode": "010000", "weight": 0.5, "position": 253, "begin": 4, "end": 4}, 
+                {"id": 3, "text": "민족", "type": "NNG", "scode": "000000", "weight": 1, "position": 263, "begin": 5, "end": 5}, 
+                {"id": 4, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 269, "begin": 6, "end": 6}, 
+                {"id": 5, "text": "우월성", "type": "NNG", "scode": "000000", "weight": 1, "position": 273, "begin": 7, "end": 8}, 
+                {"id": 6, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 282, "begin": 9, "end": 9}, 
+                {"id": 7, "text": "내세우", "type": "VV", "scode": "000301", "weight": 0.2, "position": 286, "begin": 10, "end": 10}, 
+                {"id": 8, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 292, "begin": 11, "end": 11}, 
+                {"id": 9, "text": "제", "type": "XPN", "scode": "210000", "weight": 0.0322581, "position": 296, "begin": 12, "end": 12}, 
+                {"id": 10, "text": "이", "type": "NR", "scode": "090000", "weight": 0.0172414, "position": 299, "begin": 13, "end": 13}, 
+                {"id": 11, "text": "차", "type": "NNB", "scode": "030001", "weight": 0.05, "position": 302, "begin": 14, "end": 14}, 
+                {"id": 12, "text": "세계", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 306, "begin": 15, "end": 15}, 
+                {"id": 13, "text": "대전", "type": "NNG", "scode": "070002", "weight": 0.047619, "position": 313, "begin": 16, "end": 16}, 
+                {"id": 14, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 319, "begin": 17, "end": 17}, 
+                {"id": 15, "text": "일으키", "type": "VV", "scode": "000004", "weight": 0.166667, "position": 323, "begin": 18, "end": 18}, 
+                {"id": 16, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 329, "begin": 19, "end": 19}, 
+                {"id": 17, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 332, "begin": 20, "end": 20}, 
+                {"id": 18, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 335, "begin": 21, "end": 21}
+            ], 
+            "word": [
+                {"id": 0, "text": "반유대주의와", "type": "", "begin": 0, "end": 3}, 
+                {"id": 1, "text": "게르만", "type": "", "begin": 4, "end": 4}, 
+                {"id": 2, "text": "민족의", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "우월성을", "type": "", "begin": 7, "end": 9}, 
+                {"id": 4, "text": "내세워", "type": "", "begin": 10, "end": 11}, 
+                {"id": 5, "text": "제이차", "type": "", "begin": 12, "end": 14}, 
+                {"id": 6, "text": "세계", "type": "", "begin": 15, "end": 15}, 
+                {"id": 7, "text": "대전을", "type": "", "begin": 16, "end": 17}, 
+                {"id": 8, "text": "일으켰다.", "type": "", "begin": 18, "end": 21}
+            ], 
+            "NE": [
+                {"id": 0, "text": "반유대주의", "type": "TR_SOCIAL_SCIENCE", "begin": 0, "end": 2, "weight": 0.79885, "common_noun": 0}, 
+                {"id": 1, "text": "게르만 민족", "type": "CV_TRIBE", "begin": 4, "end": 5, "weight": 0.585878, "common_noun": 0}, 
+                {"id": 2, "text": "제이차 세계 대전", "type": "EV_WAR_REVOLUTION", "begin": 12, "end": 16, "weight": 0.277252, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "반유대주의와", "head": 3, "label": "NP_CNJ", "mod": [], "weight": 0.255311}, 
+                {"id": 1, "text": "게르만", "head": 2, "label": "NP", "mod": [], "weight": 0.55317}, 
+                {"id": 2, "text": "민족의", "head": 3, "label": "NP_MOD", "mod": [1], "weight": 0.572904}, 
+                {"id": 3, "text": "우월성을", "head": 4, "label": "NP_OBJ", "mod": [0, 2], "weight": 0.739514}, 
+                {"id": 4, "text": "내세워", "head": 8, "label": "VP", "mod": [3], "weight": 0.813243}, 
+                {"id": 5, "text": "제이차", "head": 7, "label": "NP", "mod": [], "weight": 0.787175}, 
+                {"id": 6, "text": "세계", "head": 7, "label": "NP", "mod": [], "weight": 0.82823}, 
+                {"id": 7, "text": "대전을", "head": 8, "label": "NP_OBJ", "mod": [5, 6], "weight": 0.84998}, 
+                {"id": 8, "text": "일으켰다.", "head": -1, "label": "VP", "mod": [4, 7], "weight": 0.020288}
+            ], 
+            "SRL": [
+                {"verb": "내세우", "sense": 1, "word_id": 4, "weight": 0.175991, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "우월성을", "weight": 0.175991}
+                ]}, 
+                {"verb": "일으키", "sense": 1, "word_id": 8, "weight": 0.172456, "argument": [
+                    {"type": "ARGM-CAU", "word_id": 4, "text": "내세워", "weight": 0.0862404}, 
+                    {"type": "ARG1", "word_id": 7, "text": "대전을", "weight": 0.258671}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "오스트리아 태생의", "start_eid_short": 1, "end_eid_short": 2, "text_short": "오스트리아 태생의"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "오스트리아", "start_eid_short": 1, "end_eid_short": 1, "text_short": "오스트리아"}
+        ]}, 
+        {"id": 2, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": 1, "text": "독일", "start_eid_short": 3, "end_eid_short": 3, "text_short": "독일"}, 
+            {"id": 6, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": 1, "text": "독일", "start_eid_short": 1, "end_eid_short": 1, "text_short": "독일"}, 
+            {"id": 13, "sent_id": 1, "start_eid": 9, "end_eid": 9, "ne_id": 7, "text": "독일", "start_eid_short": 9, "end_eid_short": 9, "text_short": "독일"}
+        ]}, 
+        {"id": 3, "type": "DT_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 1, "end_eid": 4, "ne_id": 2, "text": "오스트리아 태생의 독일 정치가(1889~1945).", "start_eid_short": 4, "end_eid_short": 4, "text_short": "정치가(1889~1945)."}
+        ]}, 
+        {"id": 4, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 4, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "1919년에", "start_eid_short": 0, "end_eid_short": 0, "text_short": "1919년에"}
+        ]}, 
+        {"id": 5, "type": "OGG_POLITICS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 1, "end_eid": 2, "ne_id": 2, "text": "독일 노동당에", "start_eid_short": 1, "end_eid_short": 2, "text_short": "독일 노동당에"}
+        ]}, 
+        {"id": 6, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": 3, "text": "1921년부터", "start_eid_short": 4, "end_eid_short": 4, "text_short": "1921년부터"}
+        ]}, 
+        {"id": 7, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 5, "end_eid": 6, "ne_id": 5, "text": "나치스의 당수를", "start_eid_short": 6, "end_eid_short": 6, "text_short": "당수를"}
+        ]}, 
+        {"id": 8, "type": "OGG_POLITICS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 5, "end_eid": 5, "ne_id": 4, "text": "나치스의", "start_eid_short": 5, "end_eid_short": 5, "text_short": "나치스의"}
+        ]}, 
+        {"id": 9, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 8, "end_eid": 8, "ne_id": 6, "text": "1933년에", "start_eid_short": 8, "end_eid_short": 8, "text_short": "1933년에"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 9, "end_eid": 10, "ne_id": -1, "text": "독일 연방의", "start_eid_short": 9, "end_eid_short": 10, "text_short": "독일 연방의"}
+        ]}, 
+        {"id": 11, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 9, "end_eid": 11, "ne_id": 8, "text": "독일 연방의 총리가", "start_eid_short": 11, "end_eid_short": 11, "text_short": "총리가"}
+        ]}, 
+        {"id": 12, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 15, "end_eid": 15, "ne_id": 10, "text": "총통이", "start_eid_short": 15, "end_eid_short": 15, "text_short": "총통이"}
+        ]}, 
+        {"id": 13, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 13, "end_eid": 14, "ne_id": 9, "text": "다음 해", "start_eid_short": 13, "end_eid_short": 14, "text_short": "다음 해"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 2, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "반유대주의와 게르만 민족의 우월성을", "start_eid_short": 3, "end_eid_short": 3, "text_short": "우월성을"}
+        ]}, 
+        {"id": 15, "type": "TR_SOCIAL_SCIENCE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 2, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "반유대주의와", "start_eid_short": 0, "end_eid_short": 0, "text_short": "반유대주의와"}
+        ]}, 
+        {"id": 16, "type": "CV_TRIBE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 2, "start_eid": 1, "end_eid": 2, "ne_id": 1, "text": "게르만 민족의", "start_eid_short": 1, "end_eid_short": 2, "text_short": "게르만 민족의"}
+        ]}, 
+        {"id": 17, "type": "EV_WAR_REVOLUTION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 2, "start_eid": 5, "end_eid": 7, "ne_id": 2, "text": "제이차 세계 대전을", "start_eid_short": 5, "end_eid_short": 7, "text_short": "제이차 세계 대전을"}
+        ]}, 
+        {"id": 18, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 2, "start_eid": 1, "end_eid": 3, "ne_id": -1, "text": "게르만 민족의 우월성을", "start_eid_short": 3, "end_eid_short": 3, "text_short": "우월성을"}
+        ]}
+    ]
+}

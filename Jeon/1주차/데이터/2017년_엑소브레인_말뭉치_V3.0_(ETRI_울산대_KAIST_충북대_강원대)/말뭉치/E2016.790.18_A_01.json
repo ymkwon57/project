@@ -1,0 +1,716 @@
+{
+    "doc_id": "E2016.790.18_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "황룡사", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "황룡사(皇龍寺)는 경상북도 경주시에 있었던 사찰로서, 경주에서 가장 컸던 사찰로 알려져 있으나, 현재는 터만 남아 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "황룡사", "type": "NNP", "position": 0, "weight": 0.318508}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 9, "weight": 1}, 
+                {"id": 2, "lemma": "皇龍寺", "type": "SH", "position": 10, "weight": 1}, 
+                {"id": 3, "lemma": ")", "type": "SS", "position": 19, "weight": 1}, 
+                {"id": 4, "lemma": "는", "type": "JX", "position": 20, "weight": 0.00823314}, 
+                {"id": 5, "lemma": "경상북도", "type": "NNP", "position": 24, "weight": 0.9}, 
+                {"id": 6, "lemma": "경주시", "type": "NNP", "position": 37, "weight": 0.0577918}, 
+                {"id": 7, "lemma": "에", "type": "JKB", "position": 46, "weight": 0.153364}, 
+                {"id": 8, "lemma": "있", "type": "VA", "position": 50, "weight": 0.037292}, 
+                {"id": 9, "lemma": "었", "type": "EP", "position": 53, "weight": 0.9}, 
+                {"id": 10, "lemma": "던", "type": "ETM", "position": 56, "weight": 0.107547}, 
+                {"id": 11, "lemma": "사찰", "type": "NNG", "position": 60, "weight": 0.9}, 
+                {"id": 12, "lemma": "로서", "type": "JKB", "position": 66, "weight": 0.9}, 
+                {"id": 13, "lemma": ",", "type": "SP", "position": 72, "weight": 1}, 
+                {"id": 14, "lemma": "경주", "type": "NNP", "position": 74, "weight": 0.088365}, 
+                {"id": 15, "lemma": "에서", "type": "JKB", "position": 80, "weight": 0.0823859}, 
+                {"id": 16, "lemma": "가장", "type": "MAG", "position": 87, "weight": 0.0546356}, 
+                {"id": 17, "lemma": "크", "type": "VA", "position": 94, "weight": 0.131358}, 
+                {"id": 18, "lemma": "었", "type": "EP", "position": 94, "weight": 0.9}, 
+                {"id": 19, "lemma": "던", "type": "ETM", "position": 97, "weight": 0.107547}, 
+                {"id": 20, "lemma": "사찰", "type": "NNG", "position": 101, "weight": 0.9}, 
+                {"id": 21, "lemma": "로", "type": "JKB", "position": 107, "weight": 0.153229}, 
+                {"id": 22, "lemma": "알려지", "type": "VV", "position": 111, "weight": 0.9}, 
+                {"id": 23, "lemma": "어", "type": "EC", "position": 117, "weight": 0.41831}, 
+                {"id": 24, "lemma": "있", "type": "VX", "position": 121, "weight": 0.125953}, 
+                {"id": 25, "lemma": "으나", "type": "EC", "position": 124, "weight": 0.26557}, 
+                {"id": 26, "lemma": ",", "type": "SP", "position": 130, "weight": 1}, 
+                {"id": 27, "lemma": "현재", "type": "NNG", "position": 132, "weight": 0.213749}, 
+                {"id": 28, "lemma": "는", "type": "JX", "position": 138, "weight": 0.0287565}, 
+                {"id": 29, "lemma": "터", "type": "NNG", "position": 142, "weight": 0.0331944}, 
+                {"id": 30, "lemma": "만", "type": "JX", "position": 145, "weight": 0.0522241}, 
+                {"id": 31, "lemma": "남", "type": "VV", "position": 149, "weight": 0.0624723}, 
+                {"id": 32, "lemma": "아", "type": "EC", "position": 152, "weight": 0.398809}, 
+                {"id": 33, "lemma": "있", "type": "VX", "position": 156, "weight": 0.125953}, 
+                {"id": 34, "lemma": "다", "type": "EF", "position": 159, "weight": 0.180366}, 
+                {"id": 35, "lemma": ".", "type": "SF", "position": 162, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "황룡사", "type": "NNP", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 9, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "皇龍寺", "type": "SH", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 19, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "경상북도", "type": "NNP", "scode": "000000", "weight": 1, "position": 24, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "경주시", "type": "NNP", "scode": "000000", "weight": 0, "position": 37, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 46, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "있", "type": "VA", "scode": "010401", "weight": 0.0416667, "position": 50, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 53, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "던", "type": "ETM", "scode": "000000", "weight": 1, "position": 56, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "사찰", "type": "NNG", "scode": "020000", "weight": 0.125, "position": 60, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "로서", "type": "JKB", "scode": "000000", "weight": 1, "position": 66, "begin": 12, "end": 12}, 
+                {"id": 13, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 72, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "경주", "type": "NNP", "scode": "040000", "weight": 0.0909091, "position": 74, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 80, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "가장", "type": "MAG", "scode": "010000", "weight": 0.0555556, "position": 87, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "크", "type": "VA", "scode": "010001", "weight": 0.0555556, "position": 94, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 94, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "던", "type": "ETM", "scode": "000000", "weight": 1, "position": 97, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "사찰", "type": "NNG", "scode": "020000", "weight": 0.125, "position": 101, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 107, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "알려지", "type": "VV", "scode": "000002", "weight": 0.5, "position": 111, "begin": 22, "end": 22}, 
+                {"id": 23, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 117, "begin": 23, "end": 23}, 
+                {"id": 24, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 121, "begin": 24, "end": 24}, 
+                {"id": 25, "text": "으나", "type": "EC", "scode": "000000", "weight": 1, "position": 124, "begin": 25, "end": 25}, 
+                {"id": 26, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 130, "begin": 26, "end": 26}, 
+                {"id": 27, "text": "현재", "type": "NNG", "scode": "020001", "weight": 0.0909091, "position": 132, "begin": 27, "end": 27}, 
+                {"id": 28, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 138, "begin": 28, "end": 28}, 
+                {"id": 29, "text": "터", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 142, "begin": 29, "end": 29}, 
+                {"id": 30, "text": "만", "type": "JX", "scode": "000000", "weight": 1, "position": 145, "begin": 30, "end": 30}, 
+                {"id": 31, "text": "남", "type": "VV", "scode": "010302", "weight": 0.142857, "position": 149, "begin": 31, "end": 31}, 
+                {"id": 32, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 152, "begin": 32, "end": 32}, 
+                {"id": 33, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 156, "begin": 33, "end": 33}, 
+                {"id": 34, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 159, "begin": 34, "end": 34}, 
+                {"id": 35, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 162, "begin": 35, "end": 35}
+            ], 
+            "word": [
+                {"id": 0, "text": "황룡사(皇龍寺)는", "type": "", "begin": 0, "end": 4}, 
+                {"id": 1, "text": "경상북도", "type": "", "begin": 5, "end": 5}, 
+                {"id": 2, "text": "경주시에", "type": "", "begin": 6, "end": 7}, 
+                {"id": 3, "text": "있었던", "type": "", "begin": 8, "end": 10}, 
+                {"id": 4, "text": "사찰로서,", "type": "", "begin": 11, "end": 13}, 
+                {"id": 5, "text": "경주에서", "type": "", "begin": 14, "end": 15}, 
+                {"id": 6, "text": "가장", "type": "", "begin": 16, "end": 16}, 
+                {"id": 7, "text": "컸던", "type": "", "begin": 17, "end": 19}, 
+                {"id": 8, "text": "사찰로", "type": "", "begin": 20, "end": 21}, 
+                {"id": 9, "text": "알려져", "type": "", "begin": 22, "end": 23}, 
+                {"id": 10, "text": "있으나,", "type": "", "begin": 24, "end": 26}, 
+                {"id": 11, "text": "현재는", "type": "", "begin": 27, "end": 28}, 
+                {"id": 12, "text": "터만", "type": "", "begin": 29, "end": 30}, 
+                {"id": 13, "text": "남아", "type": "", "begin": 31, "end": 32}, 
+                {"id": 14, "text": "있다.", "type": "", "begin": 33, "end": 35}
+            ], 
+            "NE": [
+                {"id": 0, "text": "황룡사", "type": "AF_CULTURAL_ASSET", "begin": 0, "end": 0, "weight": 0.812881, "common_noun": 0}, 
+                {"id": 1, "text": "皇龍寺", "type": "AF_CULTURAL_ASSET", "begin": 2, "end": 2, "weight": 0.28564, "common_noun": 0}, 
+                {"id": 2, "text": "경상북도", "type": "LCP_PROVINCE", "begin": 5, "end": 5, "weight": 0.829693, "common_noun": 0}, 
+                {"id": 3, "text": "경주시", "type": "LCP_CITY", "begin": 6, "end": 6, "weight": 0.708203, "common_noun": 0}, 
+                {"id": 4, "text": "경주", "type": "LCP_CITY", "begin": 14, "end": 14, "weight": 0.388756, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "황룡사(皇龍寺)는", "head": 4, "label": "NP_SBJ", "mod": [], "weight": 0.499395}, 
+                {"id": 1, "text": "경상북도", "head": 2, "label": "NP", "mod": [], "weight": 0.492288}, 
+                {"id": 2, "text": "경주시에", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.807447}, 
+                {"id": 3, "text": "있었던", "head": 4, "label": "VP_MOD", "mod": [2], "weight": 0.758899}, 
+                {"id": 4, "text": "사찰로서,", "head": 9, "label": "NP_AJT", "mod": [3, 0], "weight": 0.831557}, 
+                {"id": 5, "text": "경주에서", "head": 7, "label": "NP_AJT", "mod": [], "weight": 0.57685}, 
+                {"id": 6, "text": "가장", "head": 7, "label": "AP", "mod": [], "weight": 0.659862}, 
+                {"id": 7, "text": "컸던", "head": 8, "label": "VP_MOD", "mod": [5, 6], "weight": 0.661949}, 
+                {"id": 8, "text": "사찰로", "head": 9, "label": "NP_AJT", "mod": [7], "weight": 0.827228}, 
+                {"id": 9, "text": "알려져", "head": 10, "label": "VP", "mod": [4, 8], "weight": 0.841086}, 
+                {"id": 10, "text": "있으나,", "head": 13, "label": "VP", "mod": [9], "weight": 0.683134}, 
+                {"id": 11, "text": "현재는", "head": 13, "label": "NP_AJT", "mod": [], "weight": 0.160367}, 
+                {"id": 12, "text": "터만", "head": 13, "label": "NP_SBJ", "mod": [], "weight": 0.408039}, 
+                {"id": 13, "text": "남아", "head": 14, "label": "VP", "mod": [10, 11, 12], "weight": 0.755183}, 
+                {"id": 14, "text": "있다.", "head": -1, "label": "VP", "mod": [13], "weight": 0.00055002}
+            ], 
+            "SRL": [
+                {"verb": "있", "sense": 1, "word_id": 3, "weight": 0.216423, "argument": [
+                    {"type": "ARG2", "word_id": 2, "text": "경주시에", "weight": 0.206155}, 
+                    {"type": "ARG1", "word_id": 4, "text": "사찰로서,", "weight": 0.22669}
+                ]}, 
+                {"verb": "크", "sense": 1, "word_id": 7, "weight": 0.204174, "argument": [
+                    {"type": "ARGM-LOC", "word_id": 5, "text": "경주에서", "weight": 0.148343}, 
+                    {"type": "ARGM-EXT", "word_id": 6, "text": "가장", "weight": 0.275618}, 
+                    {"type": "ARG1", "word_id": 8, "text": "사찰로", "weight": 0.188562}
+                ]}, 
+                {"verb": "알려지", "sense": 1, "word_id": 9, "weight": 0.261139, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "황룡사(皇龍寺)는", "weight": 0.23967}, 
+                    {"type": "ARG2", "word_id": 8, "text": "사찰로", "weight": 1}, 
+                    {"type": "AUX", "word_id": 10, "text": "있으나,", "weight": 0.471989}
+                ]}, 
+                {"verb": "남", "sense": 1, "word_id": 13, "weight": 0.262953, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 11, "text": "현재는", "weight": 0.182194}, 
+                    {"type": "ARG1", "word_id": 12, "text": "터만", "weight": 0.145462}, 
+                    {"type": "AUX", "word_id": 14, "text": "있다.", "weight": 0.461202}, 
+                    {"type": "ARG0", "word_id": 0, "text": "황룡사(皇龍寺)는", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "황룡사는 9층 목탑과 장륙상(丈六像)과 더불어 신라 삼보(三寶)의 하나로 유명하였다.", 
+            "morp": [
+                {"id": 0, "lemma": "황룡사", "type": "NNP", "position": 163, "weight": 0.318508}, 
+                {"id": 1, "lemma": "는", "type": "JX", "position": 172, "weight": 0.0641645}, 
+                {"id": 2, "lemma": "9", "type": "SN", "position": 176, "weight": 1}, 
+                {"id": 3, "lemma": "층", "type": "NNG", "position": 177, "weight": 0.0768379}, 
+                {"id": 4, "lemma": "목탑", "type": "NNG", "position": 181, "weight": 0.55}, 
+                {"id": 5, "lemma": "과", "type": "JC", "position": 187, "weight": 0.017569}, 
+                {"id": 6, "lemma": "장륙", "type": "NNG", "position": 191, "weight": 0.05}, 
+                {"id": 7, "lemma": "상", "type": "NNG", "position": 197, "weight": 0.0834075}, 
+                {"id": 8, "lemma": "(", "type": "SS", "position": 200, "weight": 1}, 
+                {"id": 9, "lemma": "丈六像", "type": "SH", "position": 201, "weight": 1}, 
+                {"id": 10, "lemma": ")", "type": "SS", "position": 210, "weight": 1}, 
+                {"id": 11, "lemma": "과", "type": "JKB", "position": 211, "weight": 0.0159402}, 
+                {"id": 12, "lemma": "더불", "type": "VV", "position": 215, "weight": 0.9}, 
+                {"id": 13, "lemma": "어", "type": "EC", "position": 221, "weight": 0.41831}, 
+                {"id": 14, "lemma": "신라", "type": "NNP", "position": 225, "weight": 0.9}, 
+                {"id": 15, "lemma": "삼보", "type": "NNG", "position": 232, "weight": 0.229663}, 
+                {"id": 16, "lemma": "(", "type": "SS", "position": 238, "weight": 1}, 
+                {"id": 17, "lemma": "三寶", "type": "SH", "position": 239, "weight": 1}, 
+                {"id": 18, "lemma": ")", "type": "SS", "position": 245, "weight": 1}, 
+                {"id": 19, "lemma": "의", "type": "JKG", "position": 246, "weight": 0.0878251}, 
+                {"id": 20, "lemma": "하나", "type": "NNG", "position": 250, "weight": 0.000723053}, 
+                {"id": 21, "lemma": "로", "type": "JKB", "position": 256, "weight": 0.0190976}, 
+                {"id": 22, "lemma": "유명", "type": "NNG", "position": 260, "weight": 0.9}, 
+                {"id": 23, "lemma": "하", "type": "XSA", "position": 266, "weight": 0.0001}, 
+                {"id": 24, "lemma": "았", "type": "EP", "position": 269, "weight": 0.9}, 
+                {"id": 25, "lemma": "다", "type": "EF", "position": 272, "weight": 0.640954}, 
+                {"id": 26, "lemma": ".", "type": "SF", "position": 275, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "황룡사", "type": "NNP", "scode": "000000", "weight": 1, "position": 163, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 172, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "9", "type": "SN", "scode": "000000", "weight": 1, "position": 176, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "층", "type": "NNG", "scode": "020004", "weight": 0.0909091, "position": 177, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "목탑", "type": "NNG", "scode": "000000", "weight": 1, "position": 181, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 187, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "장륙상", "type": "NNG", "scode": "000000", "weight": 1, "position": 191, "begin": 6, "end": 7}, 
+                {"id": 7, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 200, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "丈六像", "type": "SH", "scode": "000000", "weight": 1, "position": 201, "begin": 9, "end": 9}, 
+                {"id": 9, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 210, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "과", "type": "JKB", "scode": "000000", "weight": 1, "position": 211, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "더불", "type": "VV", "scode": "000002", "weight": 0.333333, "position": 215, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 221, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "신라", "type": "NNP", "scode": "000000", "weight": 1, "position": 225, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "삼보", "type": "NNG", "scode": "050004", "weight": 0.1, "position": 232, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 238, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "三寶", "type": "SH", "scode": "000000", "weight": 1, "position": 239, "begin": 17, "end": 17}, 
+                {"id": 17, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 245, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 246, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "하나", "type": "NNG", "scode": "000202", "weight": 0.166667, "position": 250, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 256, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "유명하", "type": "VA", "scode": "010000", "weight": 0.5, "position": 260, "begin": 22, "end": 23}, 
+                {"id": 22, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 269, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 272, "begin": 25, "end": 25}, 
+                {"id": 24, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 275, "begin": 26, "end": 26}
+            ], 
+            "word": [
+                {"id": 0, "text": "황룡사는", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "9층", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "목탑과", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "장륙상(丈六像)과", "type": "", "begin": 6, "end": 11}, 
+                {"id": 4, "text": "더불어", "type": "", "begin": 12, "end": 13}, 
+                {"id": 5, "text": "신라", "type": "", "begin": 14, "end": 14}, 
+                {"id": 6, "text": "삼보(三寶)의", "type": "", "begin": 15, "end": 19}, 
+                {"id": 7, "text": "하나로", "type": "", "begin": 20, "end": 21}, 
+                {"id": 8, "text": "유명하였다.", "type": "", "begin": 22, "end": 26}
+            ], 
+            "NE": [
+                {"id": 0, "text": "황룡사", "type": "AF_CULTURAL_ASSET", "begin": 0, "end": 0, "weight": 0.802266, "common_noun": 0}, 
+                {"id": 1, "text": "9층", "type": "QT_ORDER", "begin": 2, "end": 3, "weight": 0.474041, "common_noun": 0}, 
+                {"id": 2, "text": "장륙상", "type": "AFW_ART_CRAFT", "begin": 6, "end": 7, "weight": 1, "common_noun": 0}, 
+                {"id": 3, "text": "丈六像", "type": "AFW_ART_CRAFT", "begin": 9, "end": 9, "weight": 1, "common_noun": 0}, 
+                {"id": 4, "text": "신라", "type": "LCP_COUNTRY", "begin": 14, "end": 14, "weight": 0.325825, "common_noun": 0}, 
+                {"id": 5, "text": "삼보", "type": "QT_COUNT", "begin": 15, "end": 15, "weight": 0.197401, "common_noun": 0}, 
+                {"id": 6, "text": "三寶", "type": "QT_COUNT", "begin": 17, "end": 17, "weight": 0.105765, "common_noun": 0}, 
+                {"id": 7, "text": "하나", "type": "QT_COUNT", "begin": 20, "end": 20, "weight": 0.488125, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "황룡사는", "head": 8, "label": "NP_SBJ", "mod": [], "weight": 0.779755}, 
+                {"id": 1, "text": "9층", "head": 2, "label": "NP", "mod": [], "weight": 0.43311}, 
+                {"id": 2, "text": "목탑과", "head": 3, "label": "NP_CNJ", "mod": [1], "weight": 0.761373}, 
+                {"id": 3, "text": "장륙상(丈六像)과", "head": 4, "label": "NP_AJT", "mod": [2], "weight": 0.754486}, 
+                {"id": 4, "text": "더불어", "head": 8, "label": "VP", "mod": [3], "weight": 0.79926}, 
+                {"id": 5, "text": "신라", "head": 6, "label": "NP", "mod": [], "weight": 0.701742}, 
+                {"id": 6, "text": "삼보(三寶)의", "head": 7, "label": "NP_MOD", "mod": [5], "weight": 0.648607}, 
+                {"id": 7, "text": "하나로", "head": 8, "label": "NP_AJT", "mod": [6], "weight": 0.812546}, 
+                {"id": 8, "text": "유명하였다.", "head": -1, "label": "VP", "mod": [4, 7, 0], "weight": 0.0480263}
+            ], 
+            "SRL": [
+                {"verb": "더불", "sense": 1, "word_id": 4, "weight": 0, "argument": [
+                    {"type": "ARG2", "word_id": 3, "text": "장륙상(丈六像)과", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 0, "text": "황룡사는", "weight": 1}
+                ]}, 
+                {"verb": "유명", "sense": 1, "word_id": 8, "weight": 0.15192, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "황룡사는", "weight": 0.141767}, 
+                    {"type": "ARG2", "word_id": 7, "text": "하나로", "weight": 0.216187}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "신라의 사찰로 553년(진흥왕 14년) 기공이 시작되어 569년에 완공되었다고 여겨지나, 566년(진흥왕 27년) 일단 준공되었다가 645년(선덕여왕 14년)에 완성되었다는 설도 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "신라", "type": "NNP", "position": 276, "weight": 0.9}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 282, "weight": 0.0987295}, 
+                {"id": 2, "lemma": "사찰", "type": "NNG", "position": 286, "weight": 0.9}, 
+                {"id": 3, "lemma": "로", "type": "JKB", "position": 292, "weight": 0.153229}, 
+                {"id": 4, "lemma": "553", "type": "SN", "position": 296, "weight": 1}, 
+                {"id": 5, "lemma": "년", "type": "NNB", "position": 299, "weight": 0.414343}, 
+                {"id": 6, "lemma": "(", "type": "SS", "position": 302, "weight": 1}, 
+                {"id": 7, "lemma": "진흥왕", "type": "NNP", "position": 303, "weight": 0.066747}, 
+                {"id": 8, "lemma": "14", "type": "SN", "position": 313, "weight": 1}, 
+                {"id": 9, "lemma": "년", "type": "NNB", "position": 315, "weight": 0.414343}, 
+                {"id": 10, "lemma": ")", "type": "SS", "position": 318, "weight": 1}, 
+                {"id": 11, "lemma": "기공", "type": "NNG", "position": 320, "weight": 0.9}, 
+                {"id": 12, "lemma": "이", "type": "JKS", "position": 326, "weight": 0.0360723}, 
+                {"id": 13, "lemma": "시작", "type": "NNG", "position": 330, "weight": 0.9}, 
+                {"id": 14, "lemma": "되", "type": "XSV", "position": 336, "weight": 0.000224177}, 
+                {"id": 15, "lemma": "어", "type": "EC", "position": 339, "weight": 0.361326}, 
+                {"id": 16, "lemma": "569", "type": "SN", "position": 343, "weight": 1}, 
+                {"id": 17, "lemma": "년", "type": "NNB", "position": 346, "weight": 0.414343}, 
+                {"id": 18, "lemma": "에", "type": "JKB", "position": 349, "weight": 0.135559}, 
+                {"id": 19, "lemma": "완공", "type": "NNG", "position": 353, "weight": 0.9}, 
+                {"id": 20, "lemma": "되", "type": "XSV", "position": 359, "weight": 0.000224177}, 
+                {"id": 21, "lemma": "었", "type": "EP", "position": 362, "weight": 0.9}, 
+                {"id": 22, "lemma": "다고", "type": "EC", "position": 365, "weight": 0.193823}, 
+                {"id": 23, "lemma": "여기", "type": "VV", "position": 372, "weight": 0.0706803}, 
+                {"id": 24, "lemma": "어", "type": "EC", "position": 375, "weight": 0.41831}, 
+                {"id": 25, "lemma": "지", "type": "VX", "position": 378, "weight": 0.0539764}, 
+                {"id": 26, "lemma": "나", "type": "EC", "position": 381, "weight": 0.011362}, 
+                {"id": 27, "lemma": ",", "type": "SP", "position": 384, "weight": 1}, 
+                {"id": 28, "lemma": "566", "type": "SN", "position": 386, "weight": 1}, 
+                {"id": 29, "lemma": "년", "type": "NNB", "position": 389, "weight": 0.414343}, 
+                {"id": 30, "lemma": "(", "type": "SS", "position": 392, "weight": 1}, 
+                {"id": 31, "lemma": "진흥왕", "type": "NNP", "position": 393, "weight": 0.00013411}, 
+                {"id": 32, "lemma": "27", "type": "SN", "position": 403, "weight": 1}, 
+                {"id": 33, "lemma": "년", "type": "NNB", "position": 405, "weight": 0.414343}, 
+                {"id": 34, "lemma": ")", "type": "SS", "position": 408, "weight": 1}, 
+                {"id": 35, "lemma": "일단", "type": "MAG", "position": 410, "weight": 0.0185457}, 
+                {"id": 36, "lemma": "준공", "type": "NNG", "position": 417, "weight": 0.9}, 
+                {"id": 37, "lemma": "되", "type": "XSV", "position": 423, "weight": 0.000224177}, 
+                {"id": 38, "lemma": "었", "type": "EP", "position": 426, "weight": 0.9}, 
+                {"id": 39, "lemma": "다가", "type": "EC", "position": 429, "weight": 0.188685}, 
+                {"id": 40, "lemma": "645", "type": "SN", "position": 436, "weight": 1}, 
+                {"id": 41, "lemma": "년", "type": "NNB", "position": 439, "weight": 0.414343}, 
+                {"id": 42, "lemma": "(", "type": "SS", "position": 442, "weight": 1}, 
+                {"id": 43, "lemma": "선덕여왕", "type": "NNP", "position": 443, "weight": 0.00778351}, 
+                {"id": 44, "lemma": "14", "type": "SN", "position": 456, "weight": 1}, 
+                {"id": 45, "lemma": "년", "type": "NNB", "position": 458, "weight": 0.414343}, 
+                {"id": 46, "lemma": ")", "type": "SS", "position": 461, "weight": 1}, 
+                {"id": 47, "lemma": "에", "type": "JKB", "position": 462, "weight": 0.048593}, 
+                {"id": 48, "lemma": "완성", "type": "NNG", "position": 466, "weight": 0.9}, 
+                {"id": 49, "lemma": "되", "type": "XSV", "position": 472, "weight": 0.000224177}, 
+                {"id": 50, "lemma": "었", "type": "EP", "position": 475, "weight": 0.9}, 
+                {"id": 51, "lemma": "다는", "type": "ETM", "position": 478, "weight": 0.107585}, 
+                {"id": 52, "lemma": "설", "type": "NNG", "position": 485, "weight": 0.286395}, 
+                {"id": 53, "lemma": "도", "type": "JX", "position": 488, "weight": 0.0676272}, 
+                {"id": 54, "lemma": "있", "type": "VA", "position": 492, "weight": 0.0558599}, 
+                {"id": 55, "lemma": "다", "type": "EF", "position": 495, "weight": 0.132573}, 
+                {"id": 56, "lemma": ".", "type": "SF", "position": 498, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "신라", "type": "NNP", "scode": "000000", "weight": 1, "position": 276, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 282, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "사찰", "type": "NNG", "scode": "020000", "weight": 0.125, "position": 286, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 292, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "553", "type": "SN", "scode": "000000", "weight": 1, "position": 296, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 299, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 302, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "진흥왕", "type": "NNP", "scode": "000000", "weight": 1, "position": 303, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "14", "type": "SN", "scode": "000000", "weight": 1, "position": 313, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 315, "begin": 9, "end": 9}, 
+                {"id": 10, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 318, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "기공", "type": "NNG", "scode": "070000", "weight": 0.0769231, "position": 320, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 326, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "시작되", "type": "VV", "scode": "010001", "weight": 0.333333, "position": 330, "begin": 13, "end": 14}, 
+                {"id": 14, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 339, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "569", "type": "SN", "scode": "000000", "weight": 1, "position": 343, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 346, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 349, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "완공되", "type": "VV", "scode": "000000", "weight": 1, "position": 353, "begin": 19, "end": 20}, 
+                {"id": 19, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 362, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "다고", "type": "EC", "scode": "000000", "weight": 1, "position": 365, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "여기", "type": "VV", "scode": "000001", "weight": 0.5, "position": 372, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 375, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "지", "type": "VX", "scode": "040102", "weight": 0.037037, "position": 378, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "나", "type": "EC", "scode": "000000", "weight": 1, "position": 381, "begin": 26, "end": 26}, 
+                {"id": 25, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 384, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "566", "type": "SN", "scode": "000000", "weight": 1, "position": 386, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 389, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 392, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "진흥왕", "type": "NNP", "scode": "000000", "weight": 1, "position": 393, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "27", "type": "SN", "scode": "000000", "weight": 1, "position": 403, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 405, "begin": 33, "end": 33}, 
+                {"id": 32, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 408, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "일단", "type": "MAG", "scode": "010001", "weight": 0.0833333, "position": 410, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "준공되", "type": "VV", "scode": "000000", "weight": 1, "position": 417, "begin": 36, "end": 37}, 
+                {"id": 35, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 426, "begin": 38, "end": 38}, 
+                {"id": 36, "text": "다가", "type": "EC", "scode": "000000", "weight": 1, "position": 429, "begin": 39, "end": 39}, 
+                {"id": 37, "text": "645", "type": "SN", "scode": "000000", "weight": 1, "position": 436, "begin": 40, "end": 40}, 
+                {"id": 38, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 439, "begin": 41, "end": 41}, 
+                {"id": 39, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 442, "begin": 42, "end": 42}, 
+                {"id": 40, "text": "선덕여왕", "type": "NNP", "scode": "000000", "weight": 1, "position": 443, "begin": 43, "end": 43}, 
+                {"id": 41, "text": "14", "type": "SN", "scode": "000000", "weight": 1, "position": 456, "begin": 44, "end": 44}, 
+                {"id": 42, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 458, "begin": 45, "end": 45}, 
+                {"id": 43, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 461, "begin": 46, "end": 46}, 
+                {"id": 44, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 462, "begin": 47, "end": 47}, 
+                {"id": 45, "text": "완성되", "type": "VV", "scode": "000000", "weight": 1, "position": 466, "begin": 48, "end": 49}, 
+                {"id": 46, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 475, "begin": 50, "end": 50}, 
+                {"id": 47, "text": "다는", "type": "ETM", "scode": "000000", "weight": 1, "position": 478, "begin": 51, "end": 51}, 
+                {"id": 48, "text": "설", "type": "NNG", "scode": "080000", "weight": 0.0714286, "position": 485, "begin": 52, "end": 52}, 
+                {"id": 49, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 488, "begin": 53, "end": 53}, 
+                {"id": 50, "text": "있", "type": "VA", "scode": "010302", "weight": 0.0416667, "position": 492, "begin": 54, "end": 54}, 
+                {"id": 51, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 495, "begin": 55, "end": 55}, 
+                {"id": 52, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 498, "begin": 56, "end": 56}
+            ], 
+            "word": [
+                {"id": 0, "text": "신라의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "사찰로", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "553년(진흥왕", "type": "", "begin": 4, "end": 7}, 
+                {"id": 3, "text": "14년)", "type": "", "begin": 8, "end": 10}, 
+                {"id": 4, "text": "기공이", "type": "", "begin": 11, "end": 12}, 
+                {"id": 5, "text": "시작되어", "type": "", "begin": 13, "end": 15}, 
+                {"id": 6, "text": "569년에", "type": "", "begin": 16, "end": 18}, 
+                {"id": 7, "text": "완공되었다고", "type": "", "begin": 19, "end": 22}, 
+                {"id": 8, "text": "여겨지나,", "type": "", "begin": 23, "end": 27}, 
+                {"id": 9, "text": "566년(진흥왕", "type": "", "begin": 28, "end": 31}, 
+                {"id": 10, "text": "27년)", "type": "", "begin": 32, "end": 34}, 
+                {"id": 11, "text": "일단", "type": "", "begin": 35, "end": 35}, 
+                {"id": 12, "text": "준공되었다가", "type": "", "begin": 36, "end": 39}, 
+                {"id": 13, "text": "645년(선덕여왕", "type": "", "begin": 40, "end": 43}, 
+                {"id": 14, "text": "14년)에", "type": "", "begin": 44, "end": 47}, 
+                {"id": 15, "text": "완성되었다는", "type": "", "begin": 48, "end": 51}, 
+                {"id": 16, "text": "설도", "type": "", "begin": 52, "end": 53}, 
+                {"id": 17, "text": "있다.", "type": "", "begin": 54, "end": 56}
+            ], 
+            "NE": [
+                {"id": 0, "text": "신라", "type": "LCP_COUNTRY", "begin": 0, "end": 0, "weight": 0.719998, "common_noun": 0}, 
+                {"id": 1, "text": "553년", "type": "DT_YEAR", "begin": 4, "end": 5, "weight": 0.467249, "common_noun": 0}, 
+                {"id": 2, "text": "진흥왕 14년", "type": "DT_DYNASTY", "begin": 7, "end": 9, "weight": 0.874646, "common_noun": 0}, 
+                {"id": 3, "text": "569년", "type": "DT_YEAR", "begin": 16, "end": 17, "weight": 0.518809, "common_noun": 0}, 
+                {"id": 4, "text": "566년", "type": "DT_YEAR", "begin": 28, "end": 29, "weight": 0.421308, "common_noun": 0}, 
+                {"id": 5, "text": "진흥왕 27년", "type": "DT_DYNASTY", "begin": 31, "end": 33, "weight": 0.797072, "common_noun": 0}, 
+                {"id": 6, "text": "645년", "type": "DT_YEAR", "begin": 40, "end": 41, "weight": 0.442895, "common_noun": 0}, 
+                {"id": 7, "text": "선덕여왕 14년", "type": "DT_DYNASTY", "begin": 43, "end": 45, "weight": 0.638265, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "신라의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.724481}, 
+                {"id": 1, "text": "사찰로", "head": 5, "label": "NP_AJT", "mod": [0], "weight": 0.594545}, 
+                {"id": 2, "text": "553년(진흥왕", "head": 3, "label": "NP", "mod": [], "weight": 0.652998}, 
+                {"id": 3, "text": "14년)", "head": 5, "label": "NP_AJT", "mod": [2], "weight": 0.462294}, 
+                {"id": 4, "text": "기공이", "head": 5, "label": "NP_SBJ", "mod": [], "weight": 0.784637}, 
+                {"id": 5, "text": "시작되어", "head": 7, "label": "VP", "mod": [1, 3, 4], "weight": 0.488213}, 
+                {"id": 6, "text": "569년에", "head": 7, "label": "NP_AJT", "mod": [], "weight": 0.804983}, 
+                {"id": 7, "text": "완공되었다고", "head": 8, "label": "VP_CMP", "mod": [5, 6], "weight": 0.503753}, 
+                {"id": 8, "text": "여겨지나,", "head": 12, "label": "VP", "mod": [7], "weight": 0.558502}, 
+                {"id": 9, "text": "566년(진흥왕", "head": 10, "label": "NP", "mod": [], "weight": 0.527301}, 
+                {"id": 10, "text": "27년)", "head": 12, "label": "NP_AJT", "mod": [9], "weight": 0.461505}, 
+                {"id": 11, "text": "일단", "head": 12, "label": "AP", "mod": [], "weight": 0.399706}, 
+                {"id": 12, "text": "준공되었다가", "head": 15, "label": "VP", "mod": [8, 10, 11], "weight": 0.640474}, 
+                {"id": 13, "text": "645년(선덕여왕", "head": 14, "label": "NP", "mod": [], "weight": 0.65735}, 
+                {"id": 14, "text": "14년)에", "head": 15, "label": "NP_AJT", "mod": [13], "weight": 0.675474}, 
+                {"id": 15, "text": "완성되었다는", "head": 16, "label": "VP_MOD", "mod": [12, 14], "weight": 0.615017}, 
+                {"id": 16, "text": "설도", "head": 17, "label": "NP_SBJ", "mod": [15], "weight": 0.779524}, 
+                {"id": 17, "text": "있다.", "head": -1, "label": "VP", "mod": [16], "weight": 0.000114516}
+            ], 
+            "SRL": [
+                {"verb": "시작", "sense": 1, "word_id": 5, "weight": 0.188595, "argument": [
+                    {"type": "ARGM-CND", "word_id": 1, "text": "사찰로", "weight": 1}, 
+                    {"type": "ARGM-TMP", "word_id": 3, "text": "14년)", "weight": 0.236702}, 
+                    {"type": "ARG1", "word_id": 4, "text": "기공이", "weight": 0.239789}
+                ]}, 
+                {"verb": "완공", "sense": 1, "word_id": 7, "weight": 0.12999, "argument": [
+                    {"type": "ARG1", "word_id": 1, "text": "사찰로", "weight": 1}, 
+                    {"type": "ARGM-TMP", "word_id": 6, "text": "569년에", "weight": 0.152109}
+                ]}, 
+                {"verb": "여기", "sense": 1, "word_id": 8, "weight": 0.222505, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "완공되었다고", "weight": 1}
+                ]}, 
+                {"verb": "준공", "sense": 1, "word_id": 12, "weight": 0.196054, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 10, "text": "27년)", "weight": 0.284934}, 
+                    {"type": "ARGM-ADV", "word_id": 11, "text": "일단", "weight": 1}
+                ]}, 
+                {"verb": "완성", "sense": 1, "word_id": 15, "weight": 0.201867, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 14, "text": "14년)에", "weight": 0.201867}
+                ]}, 
+                {"verb": "있", "sense": 1, "word_id": 17, "weight": 0.239682, "argument": [
+                    {"type": "ARG1", "word_id": 16, "text": "설도", "weight": 0.239682}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 3, 
+            "reserve_str": "", 
+            "text": "고려 고종 25년(1238년)에 몽골의 침입으로 소실되었다.", 
+            "morp": [
+                {"id": 0, "lemma": "고려", "type": "NNP", "position": 499, "weight": 0.0850783}, 
+                {"id": 1, "lemma": "고종", "type": "NNP", "position": 506, "weight": 0.078962}, 
+                {"id": 2, "lemma": "25", "type": "SN", "position": 513, "weight": 1}, 
+                {"id": 3, "lemma": "년", "type": "NNB", "position": 515, "weight": 0.414343}, 
+                {"id": 4, "lemma": "(", "type": "SS", "position": 518, "weight": 1}, 
+                {"id": 5, "lemma": "1238", "type": "SN", "position": 519, "weight": 1}, 
+                {"id": 6, "lemma": "년", "type": "NNB", "position": 523, "weight": 0.414343}, 
+                {"id": 7, "lemma": ")", "type": "SS", "position": 526, "weight": 1}, 
+                {"id": 8, "lemma": "에", "type": "JKB", "position": 527, "weight": 0.048593}, 
+                {"id": 9, "lemma": "몽골", "type": "NNP", "position": 531, "weight": 0.9}, 
+                {"id": 10, "lemma": "의", "type": "JKG", "position": 537, "weight": 0.0987295}, 
+                {"id": 11, "lemma": "침입", "type": "NNG", "position": 541, "weight": 0.9}, 
+                {"id": 12, "lemma": "으로", "type": "JKB", "position": 547, "weight": 0.153406}, 
+                {"id": 13, "lemma": "소실", "type": "NNG", "position": 554, "weight": 0.9}, 
+                {"id": 14, "lemma": "되", "type": "XSV", "position": 560, "weight": 0.000224177}, 
+                {"id": 15, "lemma": "었", "type": "EP", "position": 563, "weight": 0.9}, 
+                {"id": 16, "lemma": "다", "type": "EF", "position": 566, "weight": 0.640954}, 
+                {"id": 17, "lemma": ".", "type": "SF", "position": 569, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "고려", "type": "NNP", "scode": "050001", "weight": 0.0833333, "position": 499, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "고종", "type": "NNP", "scode": "080000", "weight": 0.0714286, "position": 506, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "25", "type": "SN", "scode": "000000", "weight": 1, "position": 513, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 515, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 518, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "1238", "type": "SN", "scode": "000000", "weight": 1, "position": 519, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 523, "begin": 6, "end": 6}, 
+                {"id": 7, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 526, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 527, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "몽골", "type": "NNP", "scode": "000001", "weight": 0.5, "position": 531, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 537, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "침입", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 541, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 547, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "소실되", "type": "VV", "scode": "010000", "weight": 0.5, "position": 554, "begin": 13, "end": 14}, 
+                {"id": 14, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 563, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 566, "begin": 16, "end": 16}, 
+                {"id": 16, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 569, "begin": 17, "end": 17}
+            ], 
+            "word": [
+                {"id": 0, "text": "고려", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "고종", "type": "", "begin": 1, "end": 1}, 
+                {"id": 2, "text": "25년(1238년)에", "type": "", "begin": 2, "end": 8}, 
+                {"id": 3, "text": "몽골의", "type": "", "begin": 9, "end": 10}, 
+                {"id": 4, "text": "침입으로", "type": "", "begin": 11, "end": 12}, 
+                {"id": 5, "text": "소실되었다.", "type": "", "begin": 13, "end": 17}
+            ], 
+            "NE": [
+                {"id": 0, "text": "고려 고종 25년", "type": "DT_DYNASTY", "begin": 0, "end": 3, "weight": 0.40498, "common_noun": 0}, 
+                {"id": 1, "text": "1238년", "type": "DT_YEAR", "begin": 5, "end": 6, "weight": 0.781956, "common_noun": 0}, 
+                {"id": 2, "text": "몽골", "type": "LCP_COUNTRY", "begin": 9, "end": 9, "weight": 0.252633, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "고려", "head": 1, "label": "NP", "mod": [], "weight": 0.691539}, 
+                {"id": 1, "text": "고종", "head": 2, "label": "NP", "mod": [0], "weight": 0.801446}, 
+                {"id": 2, "text": "25년(1238년)에", "head": 5, "label": "NP_AJT", "mod": [1], "weight": 0.800367}, 
+                {"id": 3, "text": "몽골의", "head": 4, "label": "NP_MOD", "mod": [], "weight": 0.787876}, 
+                {"id": 4, "text": "침입으로", "head": 5, "label": "NP_AJT", "mod": [3], "weight": 0.794349}, 
+                {"id": 5, "text": "소실되었다.", "head": -1, "label": "VP", "mod": [2, 4], "weight": 0.231382}
+            ], 
+            "SRL": [
+                {"verb": "소실", "sense": 1, "word_id": 5, "weight": 0.121847, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 2, "text": "25년(1238년)에", "weight": 0.163247}, 
+                    {"type": "ARGM-CAU", "word_id": 4, "text": "침입으로", "weight": 0.0804482}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 4, 
+            "reserve_str": "", 
+            "text": "현재 그 터인 황룡사지(皇龍寺址)가 사적 제6호로 지정되어 있다.", 
+            "morp": [
+                {"id": 0, "lemma": "현재", "type": "MAG", "position": 570, "weight": 0.0393399}, 
+                {"id": 1, "lemma": "그", "type": "MM", "position": 577, "weight": 0.0191185}, 
+                {"id": 2, "lemma": "터", "type": "NNG", "position": 581, "weight": 0.162099}, 
+                {"id": 3, "lemma": "이", "type": "VCP", "position": 584, "weight": 0.0607843}, 
+                {"id": 4, "lemma": "ㄴ", "type": "ETM", "position": 584, "weight": 0.220712}, 
+                {"id": 5, "lemma": "황룡사", "type": "NNP", "position": 588, "weight": 0.479157}, 
+                {"id": 6, "lemma": "지", "type": "XSN", "position": 597, "weight": 0.000128357}, 
+                {"id": 7, "lemma": "(", "type": "SS", "position": 600, "weight": 1}, 
+                {"id": 8, "lemma": "皇龍寺址", "type": "SH", "position": 601, "weight": 1}, 
+                {"id": 9, "lemma": ")", "type": "SS", "position": 613, "weight": 1}, 
+                {"id": 10, "lemma": "가", "type": "JKS", "position": 614, "weight": 0.0144542}, 
+                {"id": 11, "lemma": "사적", "type": "NNG", "position": 618, "weight": 0.208085}, 
+                {"id": 12, "lemma": "제", "type": "XPN", "position": 625, "weight": 0.000343053}, 
+                {"id": 13, "lemma": "6", "type": "SN", "position": 628, "weight": 1}, 
+                {"id": 14, "lemma": "호", "type": "NNB", "position": 629, "weight": 0.215698}, 
+                {"id": 15, "lemma": "로", "type": "JKB", "position": 632, "weight": 0.13544}, 
+                {"id": 16, "lemma": "지정", "type": "NNG", "position": 636, "weight": 0.9}, 
+                {"id": 17, "lemma": "되", "type": "XSV", "position": 642, "weight": 0.000224177}, 
+                {"id": 18, "lemma": "어", "type": "EC", "position": 645, "weight": 0.361326}, 
+                {"id": 19, "lemma": "있", "type": "VX", "position": 649, "weight": 0.125953}, 
+                {"id": 20, "lemma": "다", "type": "EF", "position": 652, "weight": 0.180366}, 
+                {"id": 21, "lemma": ".", "type": "SF", "position": 655, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "현재", "type": "MAG", "scode": "020101", "weight": 0.0909091, "position": 570, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "그", "type": "MM", "scode": "010102", "weight": 0.142857, "position": 577, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "터", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 581, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 584, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 584, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "황룡사", "type": "NNP", "scode": "000000", "weight": 1, "position": 588, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "지", "type": "XSN", "scode": "260001", "weight": 0.027027, "position": 597, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 600, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "皇龍寺址", "type": "SH", "scode": "000000", "weight": 1, "position": 601, "begin": 8, "end": 8}, 
+                {"id": 9, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 613, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 614, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "사적", "type": "NNG", "scode": "050002", "weight": 0.0555556, "position": 618, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "제", "type": "XPN", "scode": "210000", "weight": 0.0322581, "position": 625, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "6", "type": "SN", "scode": "000000", "weight": 1, "position": 628, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "호", "type": "NNB", "scode": "140002", "weight": 0.0333333, "position": 629, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 632, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "지정되", "type": "VV", "scode": "000002", "weight": 0.5, "position": 636, "begin": 16, "end": 17}, 
+                {"id": 17, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 645, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 649, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 652, "begin": 20, "end": 20}, 
+                {"id": 20, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 655, "begin": 21, "end": 21}
+            ], 
+            "word": [
+                {"id": 0, "text": "현재", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "그", "type": "", "begin": 1, "end": 1}, 
+                {"id": 2, "text": "터인", "type": "", "begin": 2, "end": 4}, 
+                {"id": 3, "text": "황룡사지(皇龍寺址)가", "type": "", "begin": 5, "end": 10}, 
+                {"id": 4, "text": "사적", "type": "", "begin": 11, "end": 11}, 
+                {"id": 5, "text": "제6호로", "type": "", "begin": 12, "end": 15}, 
+                {"id": 6, "text": "지정되어", "type": "", "begin": 16, "end": 18}, 
+                {"id": 7, "text": "있다.", "type": "", "begin": 19, "end": 21}
+            ], 
+            "NE": [
+                {"id": 0, "text": "황룡사지", "type": "AF_CULTURAL_ASSET", "begin": 5, "end": 6, "weight": 0.913742, "common_noun": 0}, 
+                {"id": 1, "text": "皇龍寺址", "type": "AF_CULTURAL_ASSET", "begin": 8, "end": 8, "weight": 1, "common_noun": 0}, 
+                {"id": 2, "text": "제6호", "type": "QT_ORDER", "begin": 12, "end": 14, "weight": 0.866817, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "현재", "head": 6, "label": "AP", "mod": [], "weight": 0.707867}, 
+                {"id": 1, "text": "그", "head": 2, "label": "DP", "mod": [], "weight": 0.497313}, 
+                {"id": 2, "text": "터인", "head": 3, "label": "VNP_MOD", "mod": [1], "weight": 0.715603}, 
+                {"id": 3, "text": "황룡사지(皇龍寺址)가", "head": 6, "label": "NP_SBJ", "mod": [2], "weight": 0.779119}, 
+                {"id": 4, "text": "사적", "head": 5, "label": "NP", "mod": [], "weight": 0.849947}, 
+                {"id": 5, "text": "제6호로", "head": 6, "label": "NP_AJT", "mod": [4], "weight": 0.714885}, 
+                {"id": 6, "text": "지정되어", "head": 7, "label": "VP", "mod": [0, 3, 5], "weight": 0.792721}, 
+                {"id": 7, "text": "있다.", "head": -1, "label": "VP", "mod": [6], "weight": 0.0712475}
+            ], 
+            "SRL": [
+                {"verb": "지정", "sense": 1, "word_id": 6, "weight": 0.267956, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 0, "text": "현재", "weight": 0.198955}, 
+                    {"type": "ARG1", "word_id": 3, "text": "황룡사지(皇龍寺址)가", "weight": 0.241383}, 
+                    {"type": "ARG2", "word_id": 5, "text": "제6호로", "weight": 0.205305}, 
+                    {"type": "AUX", "word_id": 7, "text": "있다.", "weight": 0.426183}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 4, "ne_id": -1, "text": "경상북도 경주시에 있었던 사찰로서,", "start_eid_short": 4, "end_eid_short": 4, "text_short": "사찰로서,"}
+        ]}, 
+        {"id": 1, "type": "AF_CULTURAL_ASSET", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "황룡사(皇龍寺)는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "황룡사(皇龍寺)는"}, 
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 8, "ne_id": -1, "text": "경주에서 가장 컸던 사찰로", "start_eid_short": 8, "end_eid_short": 8, "text_short": "사찰로"}, 
+            {"id": 8, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "황룡사는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "황룡사는"}
+        ]}, 
+        {"id": 2, "type": "LCP_CITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 3, "text": "경상북도 경주시에", "start_eid_short": 1, "end_eid_short": 2, "text_short": "경상북도 경주시에"}, 
+            {"id": 5, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": 4, "text": "경주에서", "start_eid_short": 5, "end_eid_short": 5, "text_short": "경주에서"}
+        ]}, 
+        {"id": 3, "type": "LCP_PROVINCE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 2, "text": "경상북도", "start_eid_short": 1, "end_eid_short": 1, "text_short": "경상북도"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "9층 목탑과", "start_eid_short": 1, "end_eid_short": 2, "text_short": "9층 목탑과"}
+        ]}, 
+        {"id": 5, "type": "QT_ORDER", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": 1, "text": "9층", "start_eid_short": 1, "end_eid_short": 1, "text_short": "9층"}
+        ]}, 
+        {"id": 6, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 3, "end_eid": 3, "ne_id": 2, "text": "장륙상(丈六像)과", "start_eid_short": 3, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 7, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 5, "end_eid": 5, "ne_id": 3, "text": "신라", "start_eid_short": 5, "end_eid_short": 5, "text_short": "신라"}, 
+            {"id": 17, "sent_id": 2, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "신라의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "신라의"}
+        ]}, 
+        {"id": 8, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 5, "end_eid": 7, "ne_id": 5, "text": "신라 삼보(三寶)의 하나로", "start_eid_short": 7, "end_eid_short": 7, "text_short": "하나로"}
+        ]}, 
+        {"id": 9, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 5, "end_eid": 6, "ne_id": 4, "text": "신라 삼보(三寶)의", "start_eid_short": 6, "end_eid_short": 6, "text_short": "삼보(三寶)의"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 21, "sent_id": 2, "start_eid": 9, "end_eid": 16, "ne_id": -1, "text": "566년(진흥왕 27년) 일단 준공되었다가 645년(선덕여왕 14년)에 완성되었다는 설도", "start_eid_short": 16, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 2, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "신라의 사찰로", "start_eid_short": 1, "end_eid_short": 1, "text_short": "사찰로"}
+        ]}, 
+        {"id": 12, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 18, "sent_id": 2, "start_eid": 2, "end_eid": 3, "ne_id": 2, "text": "553년(진흥왕 14년)", "start_eid_short": 2, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 2, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "기공이", "start_eid_short": 4, "end_eid_short": 4, "text_short": "기공이"}
+        ]}, 
+        {"id": 14, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 20, "sent_id": 2, "start_eid": 6, "end_eid": 6, "ne_id": 3, "text": "569년에", "start_eid_short": 6, "end_eid_short": 6, "text_short": "569년에"}
+        ]}, 
+        {"id": 15, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 22, "sent_id": 2, "start_eid": 9, "end_eid": 10, "ne_id": 5, "text": "566년(진흥왕 27년)", "start_eid_short": 9, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 16, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 23, "sent_id": 2, "start_eid": 13, "end_eid": 14, "ne_id": 7, "text": "645년(선덕여왕 14년)에", "start_eid_short": 13, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 17, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 24, "sent_id": 3, "start_eid": 0, "end_eid": 2, "ne_id": 0, "text": "고려 고종 25년(1238년)에", "start_eid_short": 2, "end_eid_short": 2, "text_short": "25년(1238년)에"}
+        ]}, 
+        {"id": 18, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 25, "sent_id": 3, "start_eid": 3, "end_eid": 4, "ne_id": -1, "text": "몽골의 침입으로", "start_eid_short": 4, "end_eid_short": 4, "text_short": "침입으로"}
+        ]}, 
+        {"id": 19, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 26, "sent_id": 3, "start_eid": 3, "end_eid": 3, "ne_id": 2, "text": "몽골의", "start_eid_short": 3, "end_eid_short": 3, "text_short": "몽골의"}
+        ]}, 
+        {"id": 20, "type": "QT_ORDER", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 12, "end_eid": 12, "ne_id": -1, "text": "터만", "start_eid_short": 12, "end_eid_short": 12, "text_short": "터만"}, 
+            {"id": 28, "sent_id": 4, "start_eid": 1, "end_eid": 3, "ne_id": 0, "text": "그 터인 황룡사지(皇龍寺址)가", "start_eid_short": 3, "end_eid_short": 3, "text_short": "황룡사지(皇龍寺址)가"}, 
+            {"id": 29, "sent_id": 4, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "그 터인", "start_eid_short": 2, "end_eid_short": 2, "text_short": "터인"}, 
+            {"id": 30, "sent_id": 4, "start_eid": 4, "end_eid": 5, "ne_id": 2, "text": "사적 제6호로", "start_eid_short": 4, "end_eid_short": 5, "text_short": "사적 제6호로"}
+        ]}, 
+        {"id": 21, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 31, "sent_id": 4, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "사적", "start_eid_short": 4, "end_eid_short": 4, "text_short": "사적"}
+        ]}, 
+        {"id": 22, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 1, "end_eid": 3, "ne_id": 2, "text": "9층 목탑과 장륙상(丈六像)과", "start_eid_short": 3, "end_eid_short": 3, "text_short": "장륙상(丈六像)과"}
+        ]}, 
+        {"id": 23, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 11, "end_eid": 11, "ne_id": -1, "text": "현재는", "start_eid_short": 11, "end_eid_short": 11, "text_short": "현재는"}, 
+            {"id": 27, "sent_id": 4, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "현재", "start_eid_short": 0, "end_eid_short": 0, "text_short": "현재"}
+        ]}
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "doc_id": "E2016.835.08_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "플로렌스", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "플로렌스(Florence)는 이탈리아의 도시 \"피렌체\"의 영어식 이름이다.", 
+            "morp": [
+                {"id": 0, "lemma": "플로렌스", "type": "NNP", "position": 0, "weight": 0.4}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 12, "weight": 1}, 
+                {"id": 2, "lemma": "Florence", "type": "SL", "position": 13, "weight": 1}, 
+                {"id": 3, "lemma": ")", "type": "SS", "position": 21, "weight": 1}, 
+                {"id": 4, "lemma": "는", "type": "JX", "position": 22, "weight": 0.00823314}, 
+                {"id": 5, "lemma": "이탈리아", "type": "NNP", "position": 26, "weight": 0.9}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 38, "weight": 0.0987295}, 
+                {"id": 7, "lemma": "도시", "type": "NNG", "position": 42, "weight": 0.868222}, 
+                {"id": 8, "lemma": "\"", "type": "SS", "position": 49, "weight": 1}, 
+                {"id": 9, "lemma": "피렌체", "type": "NNP", "position": 50, "weight": 0.9}, 
+                {"id": 10, "lemma": "\"", "type": "SS", "position": 59, "weight": 1}, 
+                {"id": 11, "lemma": "의", "type": "JKG", "position": 60, "weight": 0.0878251}, 
+                {"id": 12, "lemma": "영어", "type": "NNP", "position": 64, "weight": 0.137554}, 
+                {"id": 13, "lemma": "식", "type": "XSN", "position": 70, "weight": 0.0146035}, 
+                {"id": 14, "lemma": "이름", "type": "NNG", "position": 74, "weight": 0.9}, 
+                {"id": 15, "lemma": "이", "type": "VCP", "position": 80, "weight": 0.0177525}, 
+                {"id": 16, "lemma": "다", "type": "EF", "position": 83, "weight": 0.353579}, 
+                {"id": 17, "lemma": ".", "type": "SF", "position": 86, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "플로렌스", "type": "NNP", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 12, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "Florence", "type": "SL", "scode": "000000", "weight": 1, "position": 13, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 21, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 22, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "이탈리아", "type": "NNP", "scode": "000000", "weight": 1, "position": 26, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 38, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "도시", "type": "NNG", "scode": "030000", "weight": 0.0909091, "position": 42, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "\"", "type": "SS", "scode": "000000", "weight": 1, "position": 49, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "피렌체", "type": "NNP", "scode": "000000", "weight": 1, "position": 50, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "\"", "type": "SS", "scode": "000000", "weight": 1, "position": 59, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 60, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "영어", "type": "NNP", "scode": "020000", "weight": 0.2, "position": 64, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "식", "type": "XSN", "scode": "090001", "weight": 0.0714286, "position": 70, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "이름", "type": "NNG", "scode": "000001", "weight": 0.111111, "position": 74, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 80, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 83, "begin": 16, "end": 16}, 
+                {"id": 17, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 86, "begin": 17, "end": 17}
+            ], 
+            "word": [
+                {"id": 0, "text": "플로렌스(Florence)는", "type": "", "begin": 0, "end": 4}, 
+                {"id": 1, "text": "이탈리아의", "type": "", "begin": 5, "end": 6}, 
+                {"id": 2, "text": "도시", "type": "", "begin": 7, "end": 7}, 
+                {"id": 3, "text": "\"피렌체\"의", "type": "", "begin": 8, "end": 11}, 
+                {"id": 4, "text": "영어식", "type": "", "begin": 12, "end": 13}, 
+                {"id": 5, "text": "이름이다.", "type": "", "begin": 14, "end": 17}
+            ], 
+            "NE": [
+                {"id": 0, "text": "플로렌스", "type": "LCP_CITY", "begin": 0, "end": 0, "weight": 0.141599, "common_noun": 0}, 
+                {"id": 1, "text": "Florence", "type": "LCP_CITY", "begin": 2, "end": 2, "weight": 0.346156, "common_noun": 0}, 
+                {"id": 2, "text": "이탈리아", "type": "LCP_COUNTRY", "begin": 5, "end": 5, "weight": 0.67075, "common_noun": 0}, 
+                {"id": 3, "text": "피렌체", "type": "LCP_CITY", "begin": 9, "end": 9, "weight": 0.493699, "common_noun": 0}, 
+                {"id": 4, "text": "영어", "type": "CV_LANGUAGE", "begin": 12, "end": 12, "weight": 0.476934, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "플로렌스(Florence)는", "head": 5, "label": "NP_SBJ", "mod": [], "weight": 0.787363}, 
+                {"id": 1, "text": "이탈리아의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.62167}, 
+                {"id": 2, "text": "도시", "head": 3, "label": "NP", "mod": [1], "weight": 0.886549}, 
+                {"id": 3, "text": "\"피렌체\"의", "head": 5, "label": "NP_MOD", "mod": [2], "weight": 0.725659}, 
+                {"id": 4, "text": "영어식", "head": 5, "label": "NP", "mod": [], "weight": 0.707635}, 
+                {"id": 5, "text": "이름이다.", "head": -1, "label": "VNP", "mod": [0, 3, 4], "weight": 0.199622}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "OGG_ECONOMY", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "플로렌스(Florence)는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "플로렌스(Florence)는"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 5, "ne_id": -1, "text": "이탈리아의 도시 \"피렌체\"의 영어식 이름이다.", "start_eid_short": 5, "end_eid_short": 5, "text_short": "이름이다."}, 
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": 3, "text": "이탈리아의 도시 \"피렌체\"의", "start_eid_short": 3, "end_eid_short": 3, "text_short": "\"피렌체\"의"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "이탈리아의 도시", "start_eid_short": 2, "end_eid_short": 2, "text_short": "도시"}
+        ]}, 
+        {"id": 2, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 2, "text": "이탈리아의", "start_eid_short": 1, "end_eid_short": 1, "text_short": "이탈리아의"}
+        ]}, 
+        {"id": 3, "type": "CV_LANGUAGE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": 4, "text": "영어식", "start_eid_short": 4, "end_eid_short": 4, "text_short": "영어식"}
+        ]}
+    ]
+}

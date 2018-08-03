@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+중국(中國,China,中国; 종구우)은 공식적으로 중화인민공화국(종훙렌민공헤구오)으로 알려져있으며 동아시아의 거대한 나라이다. 그 크기는 미국과 같으며 세계 최고 인구의 나라로 알려져 있다.
+중국은 동지나해, 황해, 남지나해의 해변과 14개국이 접경한다. 그것은 남쪽으로 아프가니스탄, 파키스탄, 인도, 네팔, 부탄, 미얀마, 라오스 와 베트남과 접경한다. 서쪽으로는 타지키스탄, 카자흐스탄과 키르기즈스탄, 북쪽으로는 러시아와 몽골 동쪽으로는 북한과 접경한다. 단지 러시아만이 아시아에서 더많은 영토를 지녔다.
+
+도시
+중국에는 많은 크고 유명한 도시들이 있다. 아래에 중국 본토에 여행자들에게 가장 중요한 구개의 목록이 있다. 다른 도시들은 특정 지역에 목록이 있다.
+베이징 (北京) - 수도 문화중심 그리고 2008년 올림픽의 개최지
+광저우 (广州) - 홍콩 근처의 가장 번영하고 자유로운 도시
+구이린 (桂林) - 중국인고 외국인 여행자들의 인기있는 여행지. 감각적인 산과 강의 명장면
+항조우 (杭州) - 유명하게 아름다은 도시와 비단 산업의 주요 도시
+쿤밍 (昆明) - 연난의 수도 소수민족지역의 무지개로의 관문
+난징 (南京) - 유명한 역사문화 도시
+샹하이 (上海) - 강변의 도시풍경으로 유명하다. 이 중국 최대의 도시는 많은 쇼핑 기회가 있는 주요 상업 중심이다.
+수조우 (苏州) - "동양의 베니스" 운하와 정원으로 유명한 고대도시
+시안 (西安) - 중국의 가장 오래된 도시이자 중국의 고대 도시, 10왕조의 고향으로 한나라, 당나라 등이 있다. 비단길의 동단이며 테라코타 전사(진용)의 고향
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="3" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="17" end="20" text="종구우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="29" end="36" text="중화인민공화국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="37" end="45" text="종훙렌민공헤구오" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="66" end="68" text="나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="거대한" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="78" end="80" text="미국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="96" end="98" text="나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="108" end="110" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="112" end="116" text="동지나해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="118" end="120" text="황해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="122" end="126" text="남지나해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="153" end="159" text="아프가니스탄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="161" end="165" text="파키스탄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="167" end="169" text="인도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="171" end="173" text="네팔" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="175" end="177" text="부탄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="179" end="182" text="미얀마" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="184" end="187" text="라오스" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="190" end="193" text="베트남" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="207" end="212" text="타지키스탄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="214" end="219" text="카자흐스탄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="221" end="227" text="키르기즈스탄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="235" end="238" text="러시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="240" end="242" text="몽골" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="249" end="251" text="북한" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="262" end="265" text="러시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="268" end="271" text="아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="278" end="280" text="영토" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="많은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="288" end="290" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="291" end="293" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="306" end="309" text="도시들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="크고" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="319" end="321" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="322" end="324" text="본토" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="355" end="358" text="도시들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="363" end="365" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="375" end="378" text="베이징" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="386" end="388" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="409" end="412" text="개최지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="413" end="416" text="광저우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="424" end="426" text="홍콩" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="444" end="446" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="447" end="450" text="구이린" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="478" end="481" text="여행지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="488" end="489" text="산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl46" start="498" end="501" text="항조우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl47" start="519" end="521" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl48" start="533" end="535" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl49" start="536" end="538" text="쿤밍" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl50" start="546" end="548" text="연난" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl51" start="550" end="552" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl52" start="553" end="559" text="소수민족지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl53" start="570" end="572" text="난징" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl54" start="589" end="591" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl55" start="592" end="595" text="샹하이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl57" start="622" end="624" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl58" start="629" end="631" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl59" start="658" end="661" text="수조우" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl62" start="683" end="685" text="정원" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl63" start="692" end="696" text="고대도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl64" start="697" end="699" text="시안" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl65" start="707" end="709" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl66" start="718" end="720" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl67" start="723" end="725" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl68" start="730" end="732" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl69" start="740" end="742" text="고향" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl70" start="745" end="748" text="한나라" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl71" start="750" end="753" text="당나라" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl72" start="784" end="786" text="고향" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl74" start="607" end="609" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl56" start="491" end="492" text="강" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl75" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="761" />
+<PLACE id="pl4" start="56" end="60" text="동아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="132" end="136" text="14개국" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl73" start="128" end="130" text="해변" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl76" start="144" end="146" text="그것" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl77" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="201" />
+<PLACE id="pl78" start="603" end="605" text="강변" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PATH id="p7" start="679" end="681" text="운하" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p8" start="761" end="764" text="비단길" beginID="" endID="" midIDs="" type="ROAD" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="-1" end="-1" text="" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="144" />
+<PATH id="p1" start="-1" end="-1" text="" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="201" />
+<SPATIAL_SIGNAL id="s2" start="138" end="141" text="접경한" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="148" end="150" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="195" end="198" text="접경한" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="201" end="203" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="229" end="231" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="243" end="245" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="253" end="256" text="접경한" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s18" start="766" end="768" text="동단" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="293" end="295" text="에는" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="60" end="61" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="126" end="127" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="725" end="726" text="의" cluster="" semantic_type="" comment="" />
+<MEASURE id="me0" start="427" end="429" text="근처" value="근처" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="71" text="중국(中國,China,中国; 종구우)은 공식적으로 중화인민공화국(종훙렌민공헤구오)으로 알려져있으며 동아시아의 거대한 나라이다." comment="" />
+<SENTENCE id="sent1" start="72" end="107" text="그 크기는 미국과 같으며 세계 최고 인구의 나라로 알려져 있다." comment="" />
+<SENTENCE id="sent2" start="108" end="143" text="중국은 동지나해, 황해, 남지나해의 해변과 14개국이 접경한다." comment="" />
+<SENTENCE id="sent3" start="144" end="200" text="그것은 남쪽으로 아프가니스탄, 파키스탄, 인도, 네팔, 부탄, 미얀마, 라오스 와 베트남과 접경한다." comment="" />
+<SENTENCE id="sent4" start="201" end="258" text="서쪽으로는 타지키스탄, 카자흐스탄과 키르기즈스탄, 북쪽으로는 러시아와 몽골 동쪽으로는 북한과 접경한다." comment="" />
+<SENTENCE id="sent5" start="259" end="286" text="단지 러시아만이 아시아에서 더많은 영토를 지녔다." comment="" />
+<SENTENCE id="sent6" start="288" end="290" text="도시" comment="" />
+<SENTENCE id="sent7" start="291" end="314" text="중국에는 많은 크고 유명한 도시들이 있다." comment="" />
+<SENTENCE id="sent8" start="315" end="351" text="아래에 중국 본토에 여행자들에게 가장 중요한 구개의 목록이 있다." comment="" />
+<SENTENCE id="sent9" start="352" end="374" text="다른 도시들은 특정 지역에 목록이 있다." comment="" />
+<SENTENCE id="sent10" start="375" end="412" text="베이징 (北京) - 수도 문화중심 그리고 2008년 올림픽의 개최지" comment="" />
+<SENTENCE id="sent11" start="413" end="446" text="광저우 (广州) - 홍콩 근처의 가장 번영하고 자유로운 도시" comment="" />
+<SENTENCE id="sent12" start="447" end="497" text="구이린 (桂林) - 중국인고 외국인 여행자들의 인기있는 여행지. 감각적인 산과 강의 명장면" comment="" />
+<SENTENCE id="sent13" start="498" end="535" text="항조우 (杭州) - 유명하게 아름다은 도시와 비단 산업의 주요 도시" comment="" />
+<SENTENCE id="sent14" start="536" end="569" text="쿤밍 (昆明) - 연난의 수도 소수민족지역의 무지개로의 관문" comment="" />
+<SENTENCE id="sent15" start="570" end="591" text="난징 (南京) - 유명한 역사문화 도시" comment="" />
+<SENTENCE id="sent16" start="592" end="619" text="샹하이 (上海) - 강변의 도시풍경으로 유명하다." comment="" />
+<SENTENCE id="sent17" start="620" end="657" text="이 중국 최대의 도시는 많은 쇼핑 기회가 있는 주요 상업 중심이다." comment="" />
+<SENTENCE id="sent18" start="658" end="696" text="수조우 (苏州) - '동양의 베니스' 운하와 정원으로 유명한 고대도시" comment="" />
+<SENTENCE id="sent19" start="697" end="760" text="시안 (西安) - 중국의 가장 오래된 도시이자 중국의 고대 도시, 10왕조의 고향으로 한나라, 당나라 등이 있다." comment="" />
+<SENTENCE id="sent20" start="761" end="786" text="비단길의 동단이며 테라코타 전사(진용)의 고향" comment="" />
+<QSLINK id="qsl7" fromID="pl76" fromText="" toID="pl13" toText="아프가니스탄" relType="EC" trajector="pl76" landmark="pl13" trigger="s4" comment="" />
+<QSLINK id="qsl8" fromID="p0" fromText="" toID="pl14" toText="파키스탄" relType="EC" trajector="pl76" landmark="pl14" trigger="s4" comment="" />
+<QSLINK id="qsl9" fromID="p0" fromText="" toID="pl15" toText="인도" relType="EC" trajector="pl76" landmark="pl15" trigger="s4" comment="" />
+<QSLINK id="qsl10" fromID="p0" fromText="" toID="pl16" toText="네팔" relType="EC" trajector="pl76" landmark="pl16" trigger="s4" comment="" />
+<QSLINK id="qsl11" fromID="p0" fromText="" toID="pl17" toText="부탄" relType="EC" trajector="pl76" landmark="pl17" trigger="s4" comment="" />
+<QSLINK id="qsl12" fromID="p0" fromText="" toID="pl18" toText="미얀마" relType="EC" trajector="pl76" landmark="pl18" trigger="s4" comment="" />
+<QSLINK id="qsl13" fromID="p0" fromText="" toID="pl19" toText="라오스" relType="EC" trajector="pl76" landmark="pl19" trigger="s4" comment="" />
+<QSLINK id="qsl14" fromID="p0" fromText="" toID="pl20" toText="베트남" relType="EC" trajector="pl76" landmark="pl20" trigger="s4" comment="" />
+<QSLINK id="qsl15" fromID="s5" fromText="서쪽" toID="pl21" toText="타지키스탄" relType="EC" trajector="pl77" landmark="pl21" trigger="s8" comment="" />
+<QSLINK id="qsl16" fromID="s5" fromText="서쪽" toID="pl22" toText="카자흐스탄" relType="EC" trajector="pl77" landmark="pl22" trigger="s8" comment="" />
+<QSLINK id="qsl17" fromID="s5" fromText="서쪽" toID="pl23" toText="키르기즈스탄" relType="EC" trajector="pl77" landmark="pl23" trigger="s8" comment="" />
+<QSLINK id="qsl18" fromID="s5" fromText="서쪽" toID="pl24" toText="러시아" relType="EC" trajector="pl77" landmark="pl24" trigger="s8" comment="" />
+<QSLINK id="qsl19" fromID="s5" fromText="서쪽" toID="pl25" toText="몽골" relType="EC" trajector="pl77" landmark="pl25" trigger="s8" comment="" />
+<QSLINK id="qsl20" fromID="s5" fromText="서쪽" toID="pl26" toText="북한" relType="EC" trajector="pl77" landmark="pl26" trigger="s8" comment="" />
+<QSLINK id="qsl26" fromID="pl31" fromText="중국" toID="pl32" toText="도시들" relType="IN" trajector="pl32" landmark="pl31" trigger="s9" comment="" />
+<QSLINK id="qsl4" fromID="pl5" fromText="나라" toID="pl4" toText="동아시아" relType="IN" trajector="pl5" landmark="pl4" trigger="s0" comment="" />
+<QSLINK id="qsl5" fromID="pl73" fromText="해변" toID="pl11" toText="남지나해" relType="IN" trajector="pl73" landmark="pl11" trigger="s1" comment="" />
+<QSLINK id="qsl6" fromID="pl73" fromText="해변" toID="pl12" toText="14개국" relType="EC" trajector="pl73" landmark="pl12" trigger="s2" comment="" />
+<QSLINK id="qsl28" fromID="pl68" fromText="도시" toID="pl67" toText="중국" relType="NTPP" trajector="pl68" landmark="pl67" trigger="s10" comment="" />
+<OLINK id="ol8" fromID="pl76" fromText="" toID="pl13" toText="아프가니스탄" relType="남" trajector="pl13" landmark="pl76" trigger="s3" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol9" fromID="pl76" fromText="" toID="pl14" toText="파키스탄" relType="남" trajector="pl14" landmark="pl76" trigger="s3" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol10" fromID="pl76" fromText="" toID="pl15" toText="인도" relType="남" trajector="pl15" landmark="pl76" trigger="s3" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol12" fromID="pl76" fromText="" toID="pl16" toText="네팔" relType="남" trajector="pl16" landmark="pl76" trigger="s3" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol13" fromID="pl76" fromText="" toID="pl17" toText="부탄" relType="남" trajector="pl17" landmark="pl76" trigger="s3" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol14" fromID="pl76" fromText="" toID="pl18" toText="미얀마" relType="남" trajector="pl18" landmark="pl76" trigger="s3" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol15" fromID="pl76" fromText="" toID="pl19" toText="라오스" relType="남" trajector="pl19" landmark="pl76" trigger="s3" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol16" fromID="pl76" fromText="" toID="pl20" toText="베트남" relType="남" trajector="pl20" landmark="pl76" trigger="s3" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol17" fromID="pl77" fromText="서쪽" toID="pl21" toText="타지키스탄" relType="서" trajector="pl21" landmark="pl77" trigger="s5" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol18" fromID="pl77" fromText="서쪽" toID="pl22" toText="카자흐스탄" relType="서" trajector="pl22" landmark="pl77" trigger="s5" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol19" fromID="pl77" fromText="서쪽" toID="pl23" toText="키르기즈스탄" relType="서" trajector="pl23" landmark="pl77" trigger="s5" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol20" fromID="pl77" fromText="북쪽" toID="pl24" toText="러시아" relType="북" trajector="pl24" landmark="pl77" trigger="s6" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol21" fromID="pl77" fromText="북쪽" toID="pl25" toText="몽골" relType="북" trajector="pl25" landmark="pl77" trigger="s6" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol22" fromID="pl77" fromText="동쪽" toID="pl26" toText="북한" relType="동" trajector="pl26" landmark="pl77" trigger="s7" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol23" fromID="pl75" fromText="" toID="p8" toText="비단길" relType="동" trajector="pl75" landmark="p8" trigger="s18" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<MEASURELINK id="ml0" fromID="pl42" fromText="도시" toID="pl41" toText="홍콩" trajector="pl42" landmark="pl41" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

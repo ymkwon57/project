@@ -1,0 +1,530 @@
+{
+    "doc_id": "E2016.788.15_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "아보카도", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "악어의 등처럼 울퉁불퉁한 껍질 때문에 악어배라고도 한다.", 
+            "morp": [
+                {"id": 0, "lemma": "악어", "type": "NNG", "position": 0, "weight": 0.41256}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 6, "weight": 0.0694213}, 
+                {"id": 2, "lemma": "등", "type": "NNG", "position": 10, "weight": 0.0623906}, 
+                {"id": 3, "lemma": "처럼", "type": "JKB", "position": 13, "weight": 0.9}, 
+                {"id": 4, "lemma": "울퉁불퉁", "type": "MAG", "position": 20, "weight": 0.65}, 
+                {"id": 5, "lemma": "하", "type": "XSA", "position": 32, "weight": 0.0001}, 
+                {"id": 6, "lemma": "ㄴ", "type": "ETM", "position": 32, "weight": 0.488779}, 
+                {"id": 7, "lemma": "껍질", "type": "NNG", "position": 36, "weight": 0.9}, 
+                {"id": 8, "lemma": "때문", "type": "NNB", "position": 43, "weight": 0.9}, 
+                {"id": 9, "lemma": "에", "type": "JKB", "position": 49, "weight": 0.135559}, 
+                {"id": 10, "lemma": "악어", "type": "NNG", "position": 53, "weight": 0.6}, 
+                {"id": 11, "lemma": "배", "type": "NNG", "position": 53, "weight": 0.6}, 
+                {"id": 12, "lemma": "이", "type": "VCP", "position": 59, "weight": 0.00359898}, 
+                {"id": 13, "lemma": "라고", "type": "EC", "position": 62, "weight": 0.204147}, 
+                {"id": 14, "lemma": "도", "type": "JX", "position": 68, "weight": 0.0271372}, 
+                {"id": 15, "lemma": "하", "type": "VV", "position": 72, "weight": 0.0910671}, 
+                {"id": 16, "lemma": "ㄴ다", "type": "EF", "position": 72, "weight": 0.0793196}, 
+                {"id": 17, "lemma": ".", "type": "SF", "position": 78, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "악어", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "등", "type": "NNG", "scode": "010001", "weight": 0.0526316, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "처럼", "type": "JKB", "scode": "000000", "weight": 1, "position": 13, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "울퉁불퉁하", "type": "VA", "scode": "000000", "weight": 1, "position": 20, "begin": 4, "end": 5}, 
+                {"id": 5, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 32, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "껍질", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 36, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "때문", "type": "NNB", "scode": "000000", "weight": 1, "position": 43, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 49, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "악어", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 53, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "배", "type": "NNG", "scode": "030000", "weight": 0.047619, "position": 53, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 59, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "라고", "type": "EC", "scode": "000000", "weight": 1, "position": 62, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 68, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "하", "type": "VV", "scode": "010400", "weight": 0.02, "position": 72, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 72, "begin": 16, "end": 16}, 
+                {"id": 16, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 78, "begin": 17, "end": 17}
+            ], 
+            "word": [
+                {"id": 0, "text": "악어의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "등처럼", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "울퉁불퉁한", "type": "", "begin": 4, "end": 6}, 
+                {"id": 3, "text": "껍질", "type": "", "begin": 7, "end": 7}, 
+                {"id": 4, "text": "때문에", "type": "", "begin": 8, "end": 9}, 
+                {"id": 5, "text": "악어배라고도", "type": "", "begin": 10, "end": 14}, 
+                {"id": 6, "text": "한다.", "type": "", "begin": 15, "end": 17}
+            ], 
+            "NE": [
+                {"id": 0, "text": "악어", "type": "AM_REPTILIA", "begin": 0, "end": 0, "weight": 0.520734, "common_noun": 0}, 
+                {"id": 1, "text": "등", "type": "AM_PART", "begin": 2, "end": 2, "weight": 0.687583, "common_noun": 0}, 
+                {"id": 2, "text": "악어배", "type": "PT_FRUIT", "begin": 10, "end": 11, "weight": 0.259853, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "악어의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.681449}, 
+                {"id": 1, "text": "등처럼", "head": 2, "label": "NP_AJT", "mod": [0], "weight": 0.221252}, 
+                {"id": 2, "text": "울퉁불퉁한", "head": 3, "label": "VP_MOD", "mod": [1], "weight": 0.634272}, 
+                {"id": 3, "text": "껍질", "head": 4, "label": "NP", "mod": [2], "weight": 0.797746}, 
+                {"id": 4, "text": "때문에", "head": 5, "label": "NP_AJT", "mod": [3], "weight": 0.709606}, 
+                {"id": 5, "text": "악어배라고도", "head": 6, "label": "VNP_CMP", "mod": [4], "weight": 0.593567}, 
+                {"id": 6, "text": "한다.", "head": -1, "label": "VP", "mod": [5], "weight": 0.0233785}
+            ], 
+            "SRL": [
+                {"verb": "울퉁불퉁", "sense": 1, "word_id": 2, "weight": 0.0626971, "argument": [
+                    {"type": "ARGM-PRD", "word_id": 1, "text": "등처럼", "weight": 0.0626971}, 
+                    {"type": "ARG1", "word_id": 3, "text": "껍질", "weight": 1}
+                ]}, 
+                {"verb": "하", "sense": 2, "word_id": 6, "weight": 0.155454, "argument": [
+                    {"type": "ARGM-CAU", "word_id": 4, "text": "때문에", "weight": 0.168834}, 
+                    {"type": "ARG2", "word_id": 5, "text": "악어배라고도", "weight": 0.142073}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "과육은 버터같이 부드럽고 노란색을 띠며 독특한 향기가 난다.", 
+            "morp": [
+                {"id": 0, "lemma": "과육", "type": "NNG", "position": 79, "weight": 0.9}, 
+                {"id": 1, "lemma": "은", "type": "JX", "position": 85, "weight": 0.0449928}, 
+                {"id": 2, "lemma": "버터", "type": "NNG", "position": 89, "weight": 0.9}, 
+                {"id": 3, "lemma": "같이", "type": "JKB", "position": 95, "weight": 0.0484965}, 
+                {"id": 4, "lemma": "부드럽", "type": "VA", "position": 102, "weight": 0.9}, 
+                {"id": 5, "lemma": "고", "type": "EC", "position": 111, "weight": 0.310376}, 
+                {"id": 6, "lemma": "노란", "type": "NNG", "position": 115, "weight": 0}, 
+                {"id": 7, "lemma": "색", "type": "NNG", "position": 121, "weight": 0.184754}, 
+                {"id": 8, "lemma": "을", "type": "JKO", "position": 124, "weight": 0.129611}, 
+                {"id": 9, "lemma": "띠", "type": "VV", "position": 128, "weight": 0.644999}, 
+                {"id": 10, "lemma": "며", "type": "EC", "position": 131, "weight": 0.429701}, 
+                {"id": 11, "lemma": "독특", "type": "NNG", "position": 135, "weight": 0.15}, 
+                {"id": 12, "lemma": "하", "type": "XSA", "position": 141, "weight": 0.0001}, 
+                {"id": 13, "lemma": "ㄴ", "type": "ETM", "position": 141, "weight": 0.488779}, 
+                {"id": 14, "lemma": "향기", "type": "NNG", "position": 145, "weight": 0.9}, 
+                {"id": 15, "lemma": "가", "type": "JKS", "position": 151, "weight": 0.066324}, 
+                {"id": 16, "lemma": "나", "type": "VV", "position": 155, "weight": 0.0452571}, 
+                {"id": 17, "lemma": "ㄴ다", "type": "EF", "position": 155, "weight": 0.0793196}, 
+                {"id": 18, "lemma": ".", "type": "SF", "position": 161, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "과육", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 79, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 85, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "버터", "type": "NNG", "scode": "000000", "weight": 1, "position": 89, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "같이", "type": "JKB", "scode": "000000", "weight": 1, "position": 95, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "부드럽", "type": "VA", "scode": "000001", "weight": 0.2, "position": 102, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 111, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "노란색", "type": "NNG", "scode": "000000", "weight": 1, "position": 115, "begin": 6, "end": 7}, 
+                {"id": 7, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 124, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "띠", "type": "VV", "scode": "010203", "weight": 0.142857, "position": 128, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "며", "type": "EC", "scode": "000000", "weight": 1, "position": 131, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "독특하", "type": "VA", "scode": "000001", "weight": 0.5, "position": 135, "begin": 11, "end": 12}, 
+                {"id": 11, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 141, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "향기", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 145, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 151, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "나", "type": "VV", "scode": "010403", "weight": 0.0277778, "position": 155, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 155, "begin": 17, "end": 17}, 
+                {"id": 16, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 161, "begin": 18, "end": 18}
+            ], 
+            "word": [
+                {"id": 0, "text": "과육은", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "버터같이", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "부드럽고", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "노란색을", "type": "", "begin": 6, "end": 8}, 
+                {"id": 4, "text": "띠며", "type": "", "begin": 9, "end": 10}, 
+                {"id": 5, "text": "독특한", "type": "", "begin": 11, "end": 13}, 
+                {"id": 6, "text": "향기가", "type": "", "begin": 14, "end": 15}, 
+                {"id": 7, "text": "난다.", "type": "", "begin": 16, "end": 18}
+            ], 
+            "NE": [
+                {"id": 0, "text": "버터", "type": "CV_FOOD", "begin": 2, "end": 2, "weight": 0.272978, "common_noun": 0}, 
+                {"id": 1, "text": "노란색", "type": "TM_COLOR", "begin": 6, "end": 7, "weight": 0.621292, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "과육은", "head": 2, "label": "NP_SBJ", "mod": [], "weight": 0.554437}, 
+                {"id": 1, "text": "버터같이", "head": 2, "label": "NP_AJT", "mod": [], "weight": 0.72308}, 
+                {"id": 2, "text": "부드럽고", "head": 4, "label": "VP", "mod": [0, 1], "weight": 0.542685}, 
+                {"id": 3, "text": "노란색을", "head": 4, "label": "NP_OBJ", "mod": [], "weight": 0.713297}, 
+                {"id": 4, "text": "띠며", "head": 7, "label": "VP", "mod": [2, 3], "weight": 0.788008}, 
+                {"id": 5, "text": "독특한", "head": 6, "label": "VP_MOD", "mod": [], "weight": 0.777592}, 
+                {"id": 6, "text": "향기가", "head": 7, "label": "NP_SBJ", "mod": [5], "weight": 0.795177}, 
+                {"id": 7, "text": "난다.", "head": -1, "label": "VP", "mod": [4, 6], "weight": 0.0608005}
+            ], 
+            "SRL": [
+                {"verb": "부드럽", "sense": 1, "word_id": 2, "weight": 0.156048, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "과육은", "weight": 0.188986}, 
+                    {"type": "ARGM-PRD", "word_id": 1, "text": "버터같이", "weight": 1}
+                ]}, 
+                {"verb": "띠", "sense": 1, "word_id": 4, "weight": 0.250586, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "노란색을", "weight": 0.250586}, 
+                    {"type": "ARG0", "word_id": 0, "text": "과육은", "weight": 1}
+                ]}, 
+                {"verb": "독특", "sense": 1, "word_id": 5, "weight": 0.401732, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "향기가", "weight": 0.401732}
+                ]}, 
+                {"verb": "나", "sense": 2, "word_id": 7, "weight": 0.276269, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "향기가", "weight": 0.276269}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "가장 영양가 높은 과일로 알려져 있는데, 30% 정도의 지방, 많은 탄수화물과 단백질이 들어 있고 비타민의 함량도 높다.", 
+            "morp": [
+                {"id": 0, "lemma": "가장", "type": "MAG", "position": 162, "weight": 0.0643516}, 
+                {"id": 1, "lemma": "영양", "type": "NNG", "position": 169, "weight": 0.255373}, 
+                {"id": 2, "lemma": "가", "type": "XSN", "position": 175, "weight": 0.000115417}, 
+                {"id": 3, "lemma": "높", "type": "VA", "position": 179, "weight": 0.00422232}, 
+                {"id": 4, "lemma": "은", "type": "ETM", "position": 182, "weight": 0.155123}, 
+                {"id": 5, "lemma": "과일", "type": "NNG", "position": 186, "weight": 0.658226}, 
+                {"id": 6, "lemma": "로", "type": "JKB", "position": 192, "weight": 0.153229}, 
+                {"id": 7, "lemma": "알려지", "type": "VV", "position": 196, "weight": 0.9}, 
+                {"id": 8, "lemma": "어", "type": "EC", "position": 202, "weight": 0.41831}, 
+                {"id": 9, "lemma": "있", "type": "VX", "position": 206, "weight": 0.125953}, 
+                {"id": 10, "lemma": "는데", "type": "EC", "position": 209, "weight": 0.252751}, 
+                {"id": 11, "lemma": ",", "type": "SP", "position": 215, "weight": 1}, 
+                {"id": 12, "lemma": "30", "type": "SN", "position": 217, "weight": 1}, 
+                {"id": 13, "lemma": "%", "type": "SW", "position": 219, "weight": 1}, 
+                {"id": 14, "lemma": "정도", "type": "NNG", "position": 221, "weight": 0.264826}, 
+                {"id": 15, "lemma": "의", "type": "JKG", "position": 227, "weight": 0.0694213}, 
+                {"id": 16, "lemma": "지방", "type": "NNG", "position": 231, "weight": 0.9}, 
+                {"id": 17, "lemma": ",", "type": "SP", "position": 237, "weight": 1}, 
+                {"id": 18, "lemma": "많", "type": "VA", "position": 239, "weight": 0.033285}, 
+                {"id": 19, "lemma": "은", "type": "ETM", "position": 242, "weight": 0.155123}, 
+                {"id": 20, "lemma": "탄수화물", "type": "NNG", "position": 246, "weight": 0.9}, 
+                {"id": 21, "lemma": "과", "type": "JC", "position": 258, "weight": 0.017569}, 
+                {"id": 22, "lemma": "단백질", "type": "NNG", "position": 268, "weight": 0.0050218}, 
+                {"id": 23, "lemma": "이", "type": "JKS", "position": 271, "weight": 0.0731805}, 
+                {"id": 24, "lemma": "들", "type": "VV", "position": 275, "weight": 0.03692}, 
+                {"id": 25, "lemma": "어", "type": "EC", "position": 278, "weight": 0.41831}, 
+                {"id": 26, "lemma": "있", "type": "VX", "position": 282, "weight": 0.125953}, 
+                {"id": 27, "lemma": "고", "type": "EC", "position": 285, "weight": 0.25644}, 
+                {"id": 28, "lemma": "비타민", "type": "NNG", "position": 289, "weight": 0.9}, 
+                {"id": 29, "lemma": "의", "type": "JKG", "position": 298, "weight": 0.0694213}, 
+                {"id": 30, "lemma": "함량", "type": "NNG", "position": 302, "weight": 0.9}, 
+                {"id": 31, "lemma": "도", "type": "JX", "position": 308, "weight": 0.0676272}, 
+                {"id": 32, "lemma": "높", "type": "VA", "position": 312, "weight": 0.109105}, 
+                {"id": 33, "lemma": "다", "type": "EF", "position": 315, "weight": 0.132573}, 
+                {"id": 34, "lemma": ".", "type": "SF", "position": 318, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "가장", "type": "MAG", "scode": "010000", "weight": 0.0555556, "position": 162, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "영양가", "type": "NNG", "scode": "000000", "weight": 1, "position": 169, "begin": 1, "end": 2}, 
+                {"id": 2, "text": "높", "type": "VA", "scode": "000003", "weight": 0.0769231, "position": 179, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 182, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "과일", "type": "NNG", "scode": "010000", "weight": 0.2, "position": 186, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 192, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "알려지", "type": "VV", "scode": "000002", "weight": 0.5, "position": 196, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 202, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 206, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "는데", "type": "EC", "scode": "000000", "weight": 1, "position": 209, "begin": 10, "end": 10}, 
+                {"id": 10, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 215, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "30", "type": "SN", "scode": "000000", "weight": 1, "position": 217, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "%", "type": "SW", "scode": "000000", "weight": 1, "position": 219, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "정도", "type": "NNG", "scode": "110003", "weight": 0.0526316, "position": 221, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 227, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "지방", "type": "NNG", "scode": "090000", "weight": 0.0909091, "position": 231, "begin": 16, "end": 16}, 
+                {"id": 16, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 237, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "많", "type": "VA", "scode": "000000", "weight": 1, "position": 239, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 242, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "탄수화물", "type": "NNG", "scode": "000000", "weight": 1, "position": 246, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 258, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "단백질", "type": "NNG", "scode": "000000", "weight": 1, "position": 268, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 271, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "들", "type": "VV", "scode": "010204", "weight": 0.027027, "position": 275, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 278, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 282, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 285, "begin": 27, "end": 27}, 
+                {"id": 27, "text": "비타민", "type": "NNG", "scode": "000000", "weight": 1, "position": 289, "begin": 28, "end": 28}, 
+                {"id": 28, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 298, "begin": 29, "end": 29}, 
+                {"id": 29, "text": "함량", "type": "NNG", "scode": "000000", "weight": 1, "position": 302, "begin": 30, "end": 30}, 
+                {"id": 30, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 308, "begin": 31, "end": 31}, 
+                {"id": 31, "text": "높", "type": "VA", "scode": "000004", "weight": 0.0769231, "position": 312, "begin": 32, "end": 32}, 
+                {"id": 32, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 315, "begin": 33, "end": 33}, 
+                {"id": 33, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 318, "begin": 34, "end": 34}
+            ], 
+            "word": [
+                {"id": 0, "text": "가장", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "영양가", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "높은", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "과일로", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "알려져", "type": "", "begin": 7, "end": 8}, 
+                {"id": 5, "text": "있는데,", "type": "", "begin": 9, "end": 11}, 
+                {"id": 6, "text": "30%", "type": "", "begin": 12, "end": 13}, 
+                {"id": 7, "text": "정도의", "type": "", "begin": 14, "end": 15}, 
+                {"id": 8, "text": "지방,", "type": "", "begin": 16, "end": 17}, 
+                {"id": 9, "text": "많은", "type": "", "begin": 18, "end": 19}, 
+                {"id": 10, "text": "탄수화물과", "type": "", "begin": 20, "end": 21}, 
+                {"id": 11, "text": "단백질이", "type": "", "begin": 22, "end": 23}, 
+                {"id": 12, "text": "들어", "type": "", "begin": 24, "end": 25}, 
+                {"id": 13, "text": "있고", "type": "", "begin": 26, "end": 27}, 
+                {"id": 14, "text": "비타민의", "type": "", "begin": 28, "end": 29}, 
+                {"id": 15, "text": "함량도", "type": "", "begin": 30, "end": 31}, 
+                {"id": 16, "text": "높다.", "type": "", "begin": 32, "end": 34}
+            ], 
+            "NE": [
+                {"id": 0, "text": "30%", "type": "QT_PERCENTAGE", "begin": 12, "end": 13, "weight": 0.780039, "common_noun": 0}, 
+                {"id": 1, "text": "지방", "type": "MT_CHEMICAL", "begin": 16, "end": 16, "weight": 0.353248, "common_noun": 0}, 
+                {"id": 2, "text": "탄수화물", "type": "MT_CHEMICAL", "begin": 20, "end": 20, "weight": 0.499949, "common_noun": 0}, 
+                {"id": 3, "text": "단백질", "type": "MT_CHEMICAL", "begin": 22, "end": 22, "weight": 0.137288, "common_noun": 0}, 
+                {"id": 4, "text": "비타민", "type": "MT_CHEMICAL", "begin": 28, "end": 28, "weight": 0.665445, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "가장", "head": 2, "label": "AP", "mod": [], "weight": 0.450664}, 
+                {"id": 1, "text": "영양가", "head": 2, "label": "NP_SBJ", "mod": [], "weight": 0.334475}, 
+                {"id": 2, "text": "높은", "head": 3, "label": "VP_MOD", "mod": [0, 1], "weight": 0.743887}, 
+                {"id": 3, "text": "과일로", "head": 4, "label": "NP_AJT", "mod": [2], "weight": 0.791072}, 
+                {"id": 4, "text": "알려져", "head": 5, "label": "VP", "mod": [3], "weight": 0.794453}, 
+                {"id": 5, "text": "있는데,", "head": 12, "label": "VP", "mod": [4], "weight": 0.782056}, 
+                {"id": 6, "text": "30%", "head": 7, "label": "NP", "mod": [], "weight": 0.702878}, 
+                {"id": 7, "text": "정도의", "head": 8, "label": "NP_MOD", "mod": [6], "weight": 0.611122}, 
+                {"id": 8, "text": "지방,", "head": 11, "label": "NP_CNJ", "mod": [7], "weight": 0.122025}, 
+                {"id": 9, "text": "많은", "head": 11, "label": "VP_MOD", "mod": [], "weight": 0.717446}, 
+                {"id": 10, "text": "탄수화물과", "head": 11, "label": "NP_CNJ", "mod": [], "weight": 0.554035}, 
+                {"id": 11, "text": "단백질이", "head": 12, "label": "NP_SBJ", "mod": [9, 10, 8], "weight": 0.908714}, 
+                {"id": 12, "text": "들어", "head": 13, "label": "VP", "mod": [5, 11], "weight": 0.800393}, 
+                {"id": 13, "text": "있고", "head": 16, "label": "VP", "mod": [12], "weight": 0.793745}, 
+                {"id": 14, "text": "비타민의", "head": 15, "label": "NP_MOD", "mod": [], "weight": 0.762582}, 
+                {"id": 15, "text": "함량도", "head": 16, "label": "NP_SBJ", "mod": [14], "weight": 0.763715}, 
+                {"id": 16, "text": "높다.", "head": -1, "label": "VP", "mod": [13, 15], "weight": 0.000311849}
+            ], 
+            "SRL": [
+                {"verb": "높", "sense": 1, "word_id": 2, "weight": 0.241471, "argument": [
+                    {"type": "ARGM-EXT", "word_id": 0, "text": "가장", "weight": 0.226608}, 
+                    {"type": "ARG1", "word_id": 1, "text": "영양가", "weight": 0.252852}
+                ]}, 
+                {"verb": "알려지", "sense": 1, "word_id": 4, "weight": 0.173632, "argument": [
+                    {"type": "ARG2", "word_id": 3, "text": "과일로", "weight": 0.0651301}, 
+                    {"type": "AUX", "word_id": 5, "text": "있는데,", "weight": 0.282134}
+                ]}, 
+                {"verb": "많", "sense": 1, "word_id": 9, "weight": 0.360259, "argument": [
+                    {"type": "ARG1", "word_id": 11, "text": "단백질이", "weight": 0.360259}
+                ]}, 
+                {"verb": "들", "sense": 2, "word_id": 12, "weight": 0.293353, "argument": [
+                    {"type": "ARG1", "word_id": 11, "text": "단백질이", "weight": 0.158019}, 
+                    {"type": "AUX", "word_id": 13, "text": "있고", "weight": 0.428688}
+                ]}, 
+                {"verb": "높", "sense": 1, "word_id": 16, "weight": 0.26648, "argument": [
+                    {"type": "ARG1", "word_id": 15, "text": "함량도", "weight": 0.26648}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 3, 
+            "reserve_str": "", 
+            "text": "소스를 만들거나 샐러드 등의 요리재료로 쓰며, 빵에 발라먹거나 아보카도 기름을 채취하기도 한다.", 
+            "morp": [
+                {"id": 0, "lemma": "소스", "type": "NNG", "position": 319, "weight": 0.9}, 
+                {"id": 1, "lemma": "를", "type": "JKO", "position": 325, "weight": 0.137686}, 
+                {"id": 2, "lemma": "만들", "type": "VV", "position": 329, "weight": 0.9}, 
+                {"id": 3, "lemma": "거나", "type": "EC", "position": 335, "weight": 0.421781}, 
+                {"id": 4, "lemma": "샐러드", "type": "NNG", "position": 342, "weight": 0.9}, 
+                {"id": 5, "lemma": "등", "type": "NNB", "position": 352, "weight": 0.0146757}, 
+                {"id": 6, "lemma": "의", "type": "JKG", "position": 355, "weight": 0.0520933}, 
+                {"id": 7, "lemma": "요리", "type": "NNG", "position": 359, "weight": 0.853658}, 
+                {"id": 8, "lemma": "재료", "type": "NNG", "position": 365, "weight": 0.9}, 
+                {"id": 9, "lemma": "로", "type": "JKB", "position": 371, "weight": 0.153229}, 
+                {"id": 10, "lemma": "쓰", "type": "VV", "position": 375, "weight": 0.441895}, 
+                {"id": 11, "lemma": "며", "type": "EC", "position": 378, "weight": 0.429701}, 
+                {"id": 12, "lemma": ",", "type": "SP", "position": 381, "weight": 1}, 
+                {"id": 13, "lemma": "빵", "type": "NNG", "position": 383, "weight": 0.516643}, 
+                {"id": 14, "lemma": "에", "type": "JKB", "position": 386, "weight": 0.153364}, 
+                {"id": 15, "lemma": "바르", "type": "VV", "position": 390, "weight": 0.05}, 
+                {"id": 16, "lemma": "어", "type": "EC", "position": 390, "weight": 0.05}, 
+                {"id": 17, "lemma": "먹", "type": "VV", "position": 390, "weight": 0.05}, 
+                {"id": 18, "lemma": "거나", "type": "EC", "position": 399, "weight": 0.421781}, 
+                {"id": 19, "lemma": "아보카도", "type": "NNG", "position": 406, "weight": 0.6}, 
+                {"id": 20, "lemma": "기름", "type": "NNG", "position": 419, "weight": 0.9}, 
+                {"id": 21, "lemma": "을", "type": "JKO", "position": 425, "weight": 0.129611}, 
+                {"id": 22, "lemma": "채취", "type": "NNG", "position": 429, "weight": 0.9}, 
+                {"id": 23, "lemma": "하", "type": "XSV", "position": 435, "weight": 0.0001}, 
+                {"id": 24, "lemma": "기", "type": "ETN", "position": 438, "weight": 0.0556099}, 
+                {"id": 25, "lemma": "도", "type": "JX", "position": 441, "weight": 0.147715}, 
+                {"id": 26, "lemma": "하", "type": "VX", "position": 445, "weight": 0.00978548}, 
+                {"id": 27, "lemma": "ㄴ다", "type": "EF", "position": 445, "weight": 0.184394}, 
+                {"id": 28, "lemma": ".", "type": "SF", "position": 451, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "소스", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 319, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 325, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "만들", "type": "VV", "scode": "000101", "weight": 0.0769231, "position": 329, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "거나", "type": "EC", "scode": "000000", "weight": 1, "position": 335, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "샐러드", "type": "NNG", "scode": "000000", "weight": 1, "position": 342, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 352, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 355, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "요리", "type": "NNG", "scode": "050001", "weight": 0.125, "position": 359, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "재료", "type": "NNG", "scode": "010001", "weight": 0.25, "position": 365, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 371, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "쓰", "type": "VV", "scode": "030101", "weight": 0.0384615, "position": 375, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "며", "type": "EC", "scode": "000000", "weight": 1, "position": 378, "begin": 11, "end": 11}, 
+                {"id": 12, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 381, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "빵", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 383, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 386, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "바르", "type": "VV", "scode": "010200", "weight": 0.1, "position": 390, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 390, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "먹", "type": "VV", "scode": "020101", "weight": 0.047619, "position": 390, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "거나", "type": "EC", "scode": "000000", "weight": 1, "position": 399, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "아보카도", "type": "NNG", "scode": "000000", "weight": 1, "position": 406, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "기름", "type": "NNG", "scode": "010001", "weight": 0.166667, "position": 419, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 425, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "채취하", "type": "VV", "scode": "000001", "weight": 0.5, "position": 429, "begin": 22, "end": 23}, 
+                {"id": 23, "text": "기", "type": "ETN", "scode": "000000", "weight": 1, "position": 438, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 441, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "하", "type": "VX", "scode": "011105", "weight": 0.02, "position": 445, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 445, "begin": 27, "end": 27}, 
+                {"id": 27, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 451, "begin": 28, "end": 28}
+            ], 
+            "word": [
+                {"id": 0, "text": "소스를", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "만들거나", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "샐러드", "type": "", "begin": 4, "end": 4}, 
+                {"id": 3, "text": "등의", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "요리재료로", "type": "", "begin": 7, "end": 9}, 
+                {"id": 5, "text": "쓰며,", "type": "", "begin": 10, "end": 12}, 
+                {"id": 6, "text": "빵에", "type": "", "begin": 13, "end": 14}, 
+                {"id": 7, "text": "발라먹거나", "type": "", "begin": 15, "end": 18}, 
+                {"id": 8, "text": "아보카도", "type": "", "begin": 19, "end": 19}, 
+                {"id": 9, "text": "기름을", "type": "", "begin": 20, "end": 21}, 
+                {"id": 10, "text": "채취하기도", "type": "", "begin": 22, "end": 25}, 
+                {"id": 11, "text": "한다.", "type": "", "begin": 26, "end": 28}
+            ], 
+            "NE": [
+                {"id": 0, "text": "샐러드", "type": "CV_FOOD", "begin": 4, "end": 4, "weight": 0.254912, "common_noun": 0}, 
+                {"id": 1, "text": "빵", "type": "CV_FOOD", "begin": 13, "end": 13, "weight": 0.305236, "common_noun": 0}, 
+                {"id": 2, "text": "아보카도", "type": "PT_FRUIT", "begin": 19, "end": 19, "weight": 0.274234, "common_noun": 0}, 
+                {"id": 3, "text": "기름", "type": "MT_CHEMICAL", "begin": 20, "end": 20, "weight": 0.165241, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "소스를", "head": 1, "label": "NP_OBJ", "mod": [], "weight": 0.855114}, 
+                {"id": 1, "text": "만들거나", "head": 5, "label": "VP", "mod": [0], "weight": 0.781012}, 
+                {"id": 2, "text": "샐러드", "head": 3, "label": "NP", "mod": [], "weight": 0.769956}, 
+                {"id": 3, "text": "등의", "head": 4, "label": "NP_MOD", "mod": [2], "weight": 0.659638}, 
+                {"id": 4, "text": "요리재료로", "head": 5, "label": "NP_AJT", "mod": [3], "weight": 0.7958}, 
+                {"id": 5, "text": "쓰며,", "head": 7, "label": "VP", "mod": [1, 4], "weight": 0.462197}, 
+                {"id": 6, "text": "빵에", "head": 7, "label": "NP_AJT", "mod": [], "weight": 0.821851}, 
+                {"id": 7, "text": "발라먹거나", "head": 10, "label": "VP", "mod": [5, 6], "weight": 0.68606}, 
+                {"id": 8, "text": "아보카도", "head": 9, "label": "NP", "mod": [], "weight": 0.653619}, 
+                {"id": 9, "text": "기름을", "head": 10, "label": "NP_OBJ", "mod": [8], "weight": 0.873045}, 
+                {"id": 10, "text": "채취하기도", "head": 11, "label": "VP", "mod": [7, 9], "weight": 0.677442}, 
+                {"id": 11, "text": "한다.", "head": -1, "label": "VP", "mod": [10], "weight": 0.0220857}
+            ], 
+            "SRL": [
+                {"verb": "만들", "sense": 1, "word_id": 1, "weight": 0.274507, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "소스를", "weight": 0.274507}
+                ]}, 
+                {"verb": "쓰", "sense": 1, "word_id": 5, "weight": 0.0770202, "argument": [
+                    {"type": "ARG2", "word_id": 4, "text": "요리재료로", "weight": 0.0770202}
+                ]}, 
+                {"verb": "바르", "sense": 2, "word_id": 7, "weight": 0.374355, "argument": [
+                    {"type": "ARG2", "word_id": 6, "text": "빵에", "weight": 0.374355}
+                ]}, 
+                {"verb": "채취", "sense": 1, "word_id": 10, "weight": 0.241388, "argument": [
+                    {"type": "ARG1", "word_id": 9, "text": "기름을", "weight": 0.155546}, 
+                    {"type": "AUX", "word_id": 11, "text": "한다.", "weight": 0.32723}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "악어의 등처럼 울퉁불퉁한 껍질", "start_eid_short": 3, "end_eid_short": 3, "text_short": "껍질"}
+        ]}, 
+        {"id": 1, "type": "AM_PART", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "악어의 등처럼", "start_eid_short": 1, "end_eid_short": 1, "text_short": "등처럼"}
+        ]}, 
+        {"id": 2, "type": "AM_REPTILIA", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "악어의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "악어의"}
+        ]}, 
+        {"id": 3, "type": "AM_REPTILIA", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": 2, "text": "악어배라고도", "start_eid_short": 5, "end_eid_short": 5, "text_short": "악어배라고도"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "과육은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "과육은"}
+        ]}, 
+        {"id": 5, "type": "CV_FOOD", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "버터같이", "start_eid_short": 1, "end_eid_short": 1, "text_short": "버터같이"}
+        ]}, 
+        {"id": 6, "type": "TM_COLOR", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 3, "end_eid": 3, "ne_id": 1, "text": "노란색을", "start_eid_short": 3, "end_eid_short": 3, "text_short": "노란색을"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 5, "end_eid": 6, "ne_id": -1, "text": "독특한 향기가", "start_eid_short": 6, "end_eid_short": 6, "text_short": "향기가"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 2, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "가장 영양가 높은 과일로", "start_eid_short": 3, "end_eid_short": 3, "text_short": "과일로"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 2, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "영양가", "start_eid_short": 1, "end_eid_short": 1, "text_short": "영양가"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 2, "start_eid": 6, "end_eid": 7, "ne_id": -1, "text": "30% 정도의", "start_eid_short": 7, "end_eid_short": 7, "text_short": "정도의"}
+        ]}, 
+        {"id": 11, "type": "QT_PERCENTAGE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 2, "start_eid": 6, "end_eid": 6, "ne_id": 0, "text": "30%", "start_eid_short": 6, "end_eid_short": 6, "text_short": "30%"}
+        ]}, 
+        {"id": 12, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 2, "start_eid": 9, "end_eid": 11, "ne_id": -1, "text": "많은 탄수화물과 단백질이", "start_eid_short": 11, "end_eid_short": 11, "text_short": "단백질이"}
+        ]}, 
+        {"id": 13, "type": "MT_CHEMICAL", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 2, "start_eid": 10, "end_eid": 10, "ne_id": 1, "text": "탄수화물과", "start_eid_short": 10, "end_eid_short": 10, "text_short": "탄수화물과"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 2, "start_eid": 14, "end_eid": 15, "ne_id": -1, "text": "비타민의 함량도", "start_eid_short": 15, "end_eid_short": 15, "text_short": "함량도"}
+        ]}, 
+        {"id": 15, "type": "MT_CHEMICAL", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 2, "start_eid": 14, "end_eid": 14, "ne_id": 2, "text": "비타민의", "start_eid_short": 14, "end_eid_short": 14, "text_short": "비타민의"}
+        ]}, 
+        {"id": 16, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 3, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "소스를", "start_eid_short": 0, "end_eid_short": 0, "text_short": "소스를"}
+        ]}, 
+        {"id": 17, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 3, "start_eid": 2, "end_eid": 3, "ne_id": -1, "text": "샐러드 등의", "start_eid_short": 2, "end_eid_short": 3, "text_short": "샐러드 등의"}
+        ]}, 
+        {"id": 18, "type": "CV_FOOD", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 21, "sent_id": 3, "start_eid": 2, "end_eid": 2, "ne_id": 0, "text": "샐러드", "start_eid_short": 2, "end_eid_short": 2, "text_short": "샐러드"}
+        ]}, 
+        {"id": 19, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 3, "start_eid": 2, "end_eid": 4, "ne_id": -1, "text": "샐러드 등의 요리재료로", "start_eid_short": 4, "end_eid_short": 4, "text_short": "요리재료로"}
+        ]}, 
+        {"id": 20, "type": "CV_FOOD", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 22, "sent_id": 3, "start_eid": 6, "end_eid": 6, "ne_id": 1, "text": "빵에", "start_eid_short": 6, "end_eid_short": 6, "text_short": "빵에"}
+        ]}, 
+        {"id": 21, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 23, "sent_id": 3, "start_eid": 8, "end_eid": 9, "ne_id": -1, "text": "아보카도 기름을", "start_eid_short": 8, "end_eid_short": 9, "text_short": "아보카도 기름을"}
+        ]}, 
+        {"id": 22, "type": "CV_FOOD", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 24, "sent_id": 3, "start_eid": 8, "end_eid": 8, "ne_id": 2, "text": "아보카도", "start_eid_short": 8, "end_eid_short": 8, "text_short": "아보카도"}
+        ]}, 
+        {"id": 23, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 2, "start_eid": 6, "end_eid": 8, "ne_id": -1, "text": "30% 정도의 지방,", "start_eid_short": 8, "end_eid_short": 8, "text_short": "지방,"}
+        ]}, 
+        {"id": 24, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 2, "start_eid": 11, "end_eid": 11, "ne_id": -1, "text": "단백질이", "start_eid_short": 11, "end_eid_short": 11, "text_short": "단백질이"}
+        ]}
+    ]
+}

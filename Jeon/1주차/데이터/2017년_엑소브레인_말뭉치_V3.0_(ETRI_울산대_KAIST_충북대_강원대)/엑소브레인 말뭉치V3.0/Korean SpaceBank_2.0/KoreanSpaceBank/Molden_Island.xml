@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+몰덴 섬은 남태평양 하와이의 남쪽 라인 제도에 딸린 환초(環礁)이며 면적은 약 90km2이다. 남위 4 °03 , 서경 154 °59에 위치하며 거의 삼각형을 이루고, 안에 초호(礁湖)가 있다. 1849년 과노(guano:鳥糞層)의 퇴적이 발견되었다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="몰덴 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="7" end="11" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="12" end="15" text="하와이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="20" end="25" text="라인 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="54" end="62" text="남위 4 °03" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="65" end="75" text="서경 154 °59" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="54" />
+<PLACE id="pl4" start="30" end="32" text="환초" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="98" end="100" text="초호" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="36" end="37" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="106" end="107" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e4" start="77" end="80" text="위치하" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="25" end="26" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="75" end="76" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="17" end="19" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="95" end="96" text="안" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me0" start="45" end="50" text="90km2" value="90" unit="km2" comment="" />
+<SENTENCE id="sent0" start="1" end="53" text="몰덴 섬은 남태평양 하와이의 남쪽 라인 제도에 딸린 환초(環礁)이며 면적은 약 90km2이다." comment="" />
+<SENTENCE id="sent1" start="54" end="109" text="남위 4 °03 , 서경 154 °59에 위치하며 거의 삼각형을 이루고, 안에 초호(礁湖)가 있다." comment="" />
+<SENTENCE id="sent2" start="110" end="141" text="1849년 과노(guano:鳥糞層)의 퇴적이 발견되었다." comment="" />
+<QSLINK id="qsl0" fromID="pl7" fromText="" toID="pl6" toText="서경 154 °59" relType="IN" trajector="pl7" landmark="pl6" trigger="s1" comment="" />
+<QSLINK id="qsl1" fromID="pl7" fromText="" toID="pl5" toText="남위 4 °03" relType="IN" trajector="pl7" landmark="pl5" trigger="s1" comment="" />
+<QSLINK id="qsl3" fromID="se0" fromText="초호" toID="pl6" toText="서경 154 °59" relType="IN" trajector="se0" landmark="pl6" trigger="s2" comment="" />
+<QSLINK id="qsl4" fromID="se0" fromText="초호" toID="pl5" toText="남위 4 °03" relType="IN" trajector="se0" landmark="pl5" trigger="s2" comment="" />
+<QSLINK id="qsl5" fromID="pl4" fromText="환초" toID="pl3" toText="라인 제도" relType="IN" trajector="pl4" landmark="pl3" trigger="s0" comment="" />
+<QSLINK id="qsl2" fromID="pl0" fromText="몰덴 섬" toID="pl3" toText="라인 제도" relType="IN" trajector="pl0" landmark="pl3" trigger="s0" comment="" />
+<OLINK id="ol0" fromID="pl3" fromText="라인 제도" toID="pl2" toText="하와이" relType="남" trajector="pl3" landmark="pl2" trigger="s3" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<MEASURELINK id="ml0" fromID="pl0" fromText="몰덴 섬" toID="me0" toText="약 90km2" trajector="pl0" landmark="pl0" relType="GENERAL_DIMENSION" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

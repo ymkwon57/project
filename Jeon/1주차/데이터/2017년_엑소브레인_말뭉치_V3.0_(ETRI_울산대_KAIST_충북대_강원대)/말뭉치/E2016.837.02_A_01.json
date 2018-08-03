@@ -1,0 +1,150 @@
+{
+    "doc_id": "E2016.837.02_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "방령", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<역사> 백제 때에, 지방 행정 조직인 오방(五方)에 각각 속하여 행정을 맡아보던 으뜸 벼슬.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "역사", "type": "NNG", "position": 1, "weight": 0.199932}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "백제", "type": "NNP", "position": 9, "weight": 0.9}, 
+                {"id": 4, "lemma": "때", "type": "NNG", "position": 16, "weight": 0.280999}, 
+                {"id": 5, "lemma": "에", "type": "JKB", "position": 19, "weight": 0.153364}, 
+                {"id": 6, "lemma": ",", "type": "SP", "position": 22, "weight": 1}, 
+                {"id": 7, "lemma": "지방", "type": "NNG", "position": 24, "weight": 0.9}, 
+                {"id": 8, "lemma": "행정", "type": "NNG", "position": 31, "weight": 0.9}, 
+                {"id": 9, "lemma": "조직", "type": "NNG", "position": 38, "weight": 0.184801}, 
+                {"id": 10, "lemma": "이", "type": "VCP", "position": 44, "weight": 0.0177525}, 
+                {"id": 11, "lemma": "ㄴ", "type": "ETM", "position": 44, "weight": 0.220712}, 
+                {"id": 12, "lemma": "오방", "type": "NNG", "position": 48, "weight": 0.9}, 
+                {"id": 13, "lemma": "(", "type": "SS", "position": 54, "weight": 1}, 
+                {"id": 14, "lemma": "五方", "type": "SH", "position": 55, "weight": 1}, 
+                {"id": 15, "lemma": ")", "type": "SS", "position": 61, "weight": 1}, 
+                {"id": 16, "lemma": "에", "type": "JKB", "position": 62, "weight": 0.048593}, 
+                {"id": 17, "lemma": "각각", "type": "MAG", "position": 66, "weight": 0.0478324}, 
+                {"id": 18, "lemma": "속하", "type": "VV", "position": 73, "weight": 0.257747}, 
+                {"id": 19, "lemma": "아", "type": "EC", "position": 79, "weight": 0.361326}, 
+                {"id": 20, "lemma": "행정", "type": "NNG", "position": 83, "weight": 0.9}, 
+                {"id": 21, "lemma": "을", "type": "JKO", "position": 89, "weight": 0.129611}, 
+                {"id": 22, "lemma": "맡아보", "type": "VV", "position": 93, "weight": 0.9}, 
+                {"id": 23, "lemma": "던", "type": "ETM", "position": 102, "weight": 0.317449}, 
+                {"id": 24, "lemma": "으뜸", "type": "NNG", "position": 106, "weight": 0.9}, 
+                {"id": 25, "lemma": "벼슬", "type": "NNG", "position": 113, "weight": 0.9}, 
+                {"id": 26, "lemma": ".", "type": "SF", "position": 119, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "역사", "type": "NNG", "scode": "040001", "weight": 0.0526316, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "백제", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 16, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 19, "begin": 5, "end": 5}, 
+                {"id": 6, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 22, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "지방", "type": "NNG", "scode": "050003", "weight": 0.0909091, "position": 24, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "행정", "type": "NNG", "scode": "010003", "weight": 0.166667, "position": 31, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "조직", "type": "NNG", "scode": "000002", "weight": 0.2, "position": 38, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 44, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 44, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "오방", "type": "NNG", "scode": "010002", "weight": 0.25, "position": 48, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 54, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "五方", "type": "SH", "scode": "000000", "weight": 1, "position": 55, "begin": 14, "end": 14}, 
+                {"id": 15, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 61, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 62, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "각각", "type": "MAG", "scode": "010200", "weight": 0.333333, "position": 66, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "속하", "type": "VV", "scode": "020001", "weight": 0.25, "position": 73, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 79, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "행정", "type": "NNG", "scode": "010003", "weight": 0.166667, "position": 83, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 89, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "맡아보", "type": "VV", "scode": "000000", "weight": 1, "position": 93, "begin": 22, "end": 22}, 
+                {"id": 23, "text": "던", "type": "ETM", "scode": "000000", "weight": 1, "position": 102, "begin": 23, "end": 23}, 
+                {"id": 24, "text": "으뜸", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 106, "begin": 24, "end": 24}, 
+                {"id": 25, "text": "벼슬", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 113, "begin": 25, "end": 25}, 
+                {"id": 26, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 119, "begin": 26, "end": 26}
+            ], 
+            "word": [
+                {"id": 0, "text": "<역사>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "백제", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "때에,", "type": "", "begin": 4, "end": 6}, 
+                {"id": 3, "text": "지방", "type": "", "begin": 7, "end": 7}, 
+                {"id": 4, "text": "행정", "type": "", "begin": 8, "end": 8}, 
+                {"id": 5, "text": "조직인", "type": "", "begin": 9, "end": 11}, 
+                {"id": 6, "text": "오방(五方)에", "type": "", "begin": 12, "end": 16}, 
+                {"id": 7, "text": "각각", "type": "", "begin": 17, "end": 17}, 
+                {"id": 8, "text": "속하여", "type": "", "begin": 18, "end": 19}, 
+                {"id": 9, "text": "행정을", "type": "", "begin": 20, "end": 21}, 
+                {"id": 10, "text": "맡아보던", "type": "", "begin": 22, "end": 23}, 
+                {"id": 11, "text": "으뜸", "type": "", "begin": 24, "end": 24}, 
+                {"id": 12, "text": "벼슬.", "type": "", "begin": 25, "end": 26}
+            ], 
+            "NE": [
+                {"id": 0, "text": "백제 때", "type": "DT_DYNASTY", "begin": 3, "end": 4, "weight": 0.739428, "common_noun": 0}, 
+                {"id": 1, "text": "오방", "type": "QT_COUNT", "begin": 12, "end": 12, "weight": 0.100977, "common_noun": 0}, 
+                {"id": 2, "text": "五方", "type": "QT_COUNT", "begin": 14, "end": 14, "weight": 0.100977, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<역사>", "head": 12, "label": "NP", "mod": [], "weight": 0.875458}, 
+                {"id": 1, "text": "백제", "head": 2, "label": "NP", "mod": [], "weight": 0.689608}, 
+                {"id": 2, "text": "때에,", "head": 8, "label": "NP_AJT", "mod": [1], "weight": 0.367462}, 
+                {"id": 3, "text": "지방", "head": 4, "label": "NP", "mod": [], "weight": 0.624405}, 
+                {"id": 4, "text": "행정", "head": 5, "label": "NP", "mod": [3], "weight": 0.750115}, 
+                {"id": 5, "text": "조직인", "head": 6, "label": "VNP_MOD", "mod": [4], "weight": 0.757679}, 
+                {"id": 6, "text": "오방(五方)에", "head": 8, "label": "NP_AJT", "mod": [5], "weight": 0.703528}, 
+                {"id": 7, "text": "각각", "head": 8, "label": "AP", "mod": [], "weight": 0.823676}, 
+                {"id": 8, "text": "속하여", "head": 10, "label": "VP", "mod": [2, 6, 7], "weight": 0.646086}, 
+                {"id": 9, "text": "행정을", "head": 10, "label": "NP_OBJ", "mod": [], "weight": 0.781379}, 
+                {"id": 10, "text": "맡아보던", "head": 12, "label": "VP_MOD", "mod": [8, 9], "weight": 0.86346}, 
+                {"id": 11, "text": "으뜸", "head": 12, "label": "NP", "mod": [], "weight": 0.799609}, 
+                {"id": 12, "text": "벼슬.", "head": -1, "label": "NP", "mod": [0, 10, 11], "weight": 0.0132756}
+            ], 
+            "SRL": [
+                {"verb": "속하", "sense": 1, "word_id": 8, "weight": 0.206366, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 2, "text": "때에,", "weight": 0.26725}, 
+                    {"type": "ARG2", "word_id": 6, "text": "오방(五方)에", "weight": 0.103355}
+                ]}, 
+                {"verb": "맡아보", "sense": 1, "word_id": 10, "weight": 0.226464, "argument": [
+                    {"type": "ARG1", "word_id": 9, "text": "행정을", "weight": 0.265074}, 
+                    {"type": "ARG0", "word_id": 12, "text": "벼슬.", "weight": 0.1111}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 0, "text": "백제 때에,", "start_eid_short": 2, "end_eid_short": 2, "text_short": "때에,"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 9, "end_eid": 9, "ne_id": -1, "text": "행정을", "start_eid_short": 9, "end_eid_short": 9, "text_short": "행정을"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "지방", "start_eid_short": 3, "end_eid_short": 3, "text_short": "지방"}
+        ]}, 
+        {"id": 3, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 6, "ne_id": 1, "text": "백제 때에, 지방 행정 조직인 오방(五方)에", "start_eid_short": 6, "end_eid_short": 6, "text_short": "오방(五方)에"}, 
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 5, "ne_id": -1, "text": "백제 때에, 지방 행정 조직인", "start_eid_short": 5, "end_eid_short": 5, "text_short": "조직인"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 11, "end_eid": 11, "ne_id": -1, "text": "으뜸", "start_eid_short": 11, "end_eid_short": 11, "text_short": "으뜸"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 3, "end_eid": 4, "ne_id": -1, "text": "지방 행정", "start_eid_short": 3, "end_eid_short": 4, "text_short": "지방 행정"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 1, "end_eid": 12, "ne_id": -1, "text": "백제 때에, 지방 행정 조직인 오방(五方)에 각각 속하여 행정을 맡아보던 으뜸 벼슬.", "start_eid_short": 11, "end_eid_short": 12, "text_short": "으뜸 벼슬."}
+        ]}
+    ]
+}

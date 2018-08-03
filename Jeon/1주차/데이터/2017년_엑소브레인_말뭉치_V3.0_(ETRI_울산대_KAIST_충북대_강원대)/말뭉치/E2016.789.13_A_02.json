@@ -1,0 +1,231 @@
+{
+    "doc_id": "E2016.789.13_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "쿠키", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<컴퓨터> 특정 웹 사이트를 방문했을 때 만들어지는 정보를 담는 파일.", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "컴퓨터", "type": "NNG", "position": 1, "weight": 0.9}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 10, "weight": 1}, 
+                {"id": 3, "lemma": "특정", "type": "NNG", "position": 12, "weight": 0.9}, 
+                {"id": 4, "lemma": "웹", "type": "NNG", "position": 19, "weight": 0.180309}, 
+                {"id": 5, "lemma": "사이트", "type": "NNG", "position": 23, "weight": 0.9}, 
+                {"id": 6, "lemma": "를", "type": "JKO", "position": 32, "weight": 0.137686}, 
+                {"id": 7, "lemma": "방문", "type": "NNG", "position": 36, "weight": 0.9}, 
+                {"id": 8, "lemma": "하", "type": "XSV", "position": 42, "weight": 0.0001}, 
+                {"id": 9, "lemma": "았", "type": "EP", "position": 42, "weight": 0.9}, 
+                {"id": 10, "lemma": "을", "type": "ETM", "position": 45, "weight": 0.00734398}, 
+                {"id": 11, "lemma": "때", "type": "NNG", "position": 49, "weight": 0.656522}, 
+                {"id": 12, "lemma": "만들", "type": "VV", "position": 53, "weight": 0.9}, 
+                {"id": 13, "lemma": "어", "type": "EC", "position": 59, "weight": 0.41831}, 
+                {"id": 14, "lemma": "지", "type": "VX", "position": 62, "weight": 0.0539764}, 
+                {"id": 15, "lemma": "는", "type": "ETM", "position": 65, "weight": 0.183966}, 
+                {"id": 16, "lemma": "정보", "type": "NNG", "position": 69, "weight": 0.65525}, 
+                {"id": 17, "lemma": "를", "type": "JKO", "position": 75, "weight": 0.137686}, 
+                {"id": 18, "lemma": "담", "type": "VV", "position": 79, "weight": 0.603567}, 
+                {"id": 19, "lemma": "는", "type": "ETM", "position": 82, "weight": 0.184941}, 
+                {"id": 20, "lemma": "파일", "type": "NNG", "position": 86, "weight": 0.650554}, 
+                {"id": 21, "lemma": ".", "type": "SF", "position": 92, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "컴퓨터", "type": "NNG", "scode": "000000", "weight": 1, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "특정", "type": "NNG", "scode": "000000", "weight": 1, "position": 12, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "웹", "type": "NNG", "scode": "000000", "weight": 1, "position": 19, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "사이트", "type": "NNG", "scode": "000000", "weight": 1, "position": 23, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 32, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "방문하", "type": "VV", "scode": "000000", "weight": 1, "position": 36, "begin": 7, "end": 8}, 
+                {"id": 8, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 42, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "을", "type": "ETM", "scode": "000000", "weight": 1, "position": 45, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 49, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "만들", "type": "VV", "scode": "000101", "weight": 0.0769231, "position": 53, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 59, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "지", "type": "VX", "scode": "040101", "weight": 0.037037, "position": 62, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 65, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "정보", "type": "NNG", "scode": "060001", "weight": 0.1, "position": 69, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 75, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "담", "type": "VV", "scode": "010001", "weight": 0.333333, "position": 79, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 82, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "파일", "type": "NNG", "scode": "030002", "weight": 0.166667, "position": 86, "begin": 20, "end": 20}, 
+                {"id": 20, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 92, "begin": 21, "end": 21}
+            ], 
+            "word": [
+                {"id": 0, "text": "<컴퓨터>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "특정", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "웹", "type": "", "begin": 4, "end": 4}, 
+                {"id": 3, "text": "사이트를", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "방문했을", "type": "", "begin": 7, "end": 10}, 
+                {"id": 5, "text": "때", "type": "", "begin": 11, "end": 11}, 
+                {"id": 6, "text": "만들어지는", "type": "", "begin": 12, "end": 15}, 
+                {"id": 7, "text": "정보를", "type": "", "begin": 16, "end": 17}, 
+                {"id": 8, "text": "담는", "type": "", "begin": 18, "end": 19}, 
+                {"id": 9, "text": "파일.", "type": "", "begin": 20, "end": 21}
+            ], 
+            "NE": [
+                {"id": 0, "text": "컴퓨터", "type": "TMI_HW", "begin": 1, "end": 1, "weight": 0.337159, "common_noun": 0}, 
+                {"id": 1, "text": "웹 사이트", "type": "TMI_SERVICE", "begin": 4, "end": 5, "weight": 0.337159, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<컴퓨터>", "head": 9, "label": "NP", "mod": [], "weight": 0.882419}, 
+                {"id": 1, "text": "특정", "head": 2, "label": "NP", "mod": [], "weight": 0.460832}, 
+                {"id": 2, "text": "웹", "head": 3, "label": "NP", "mod": [1], "weight": 0.690642}, 
+                {"id": 3, "text": "사이트를", "head": 4, "label": "NP_OBJ", "mod": [2], "weight": 0.57852}, 
+                {"id": 4, "text": "방문했을", "head": 5, "label": "VP_MOD", "mod": [3], "weight": 0.84544}, 
+                {"id": 5, "text": "때", "head": 6, "label": "NP_AJT", "mod": [4], "weight": 0.76644}, 
+                {"id": 6, "text": "만들어지는", "head": 7, "label": "VP_MOD", "mod": [5], "weight": 0.466121}, 
+                {"id": 7, "text": "정보를", "head": 8, "label": "NP_OBJ", "mod": [6], "weight": 0.850156}, 
+                {"id": 8, "text": "담는", "head": 9, "label": "VP_MOD", "mod": [7], "weight": 0.866465}, 
+                {"id": 9, "text": "파일.", "head": -1, "label": "NP", "mod": [0, 8], "weight": 0.0314766}
+            ], 
+            "SRL": [
+                {"verb": "방문", "sense": 1, "word_id": 4, "weight": 0.18676, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "사이트를", "weight": 0.18676}
+                ]}, 
+                {"verb": "만들", "sense": 1, "word_id": 6, "weight": 0.265429, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 5, "text": "때", "weight": 0.224324}, 
+                    {"type": "ARG1", "word_id": 7, "text": "정보를", "weight": 0.306533}
+                ]}, 
+                {"verb": "담", "sense": 1, "word_id": 8, "weight": 0.357451, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "정보를", "weight": 0.357451}, 
+                    {"type": "ARG2", "word_id": 9, "text": "파일.", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "방문 기록, 비밀번호 따위를 기록하였다가 다음에 방문할 때 되살린다.", 
+            "morp": [
+                {"id": 0, "lemma": "방문", "type": "NNG", "position": 93, "weight": 0.9}, 
+                {"id": 1, "lemma": "기록", "type": "NNG", "position": 100, "weight": 0.9}, 
+                {"id": 2, "lemma": ",", "type": "SP", "position": 106, "weight": 1}, 
+                {"id": 3, "lemma": "비밀", "type": "NNG", "position": 108, "weight": 0.531285}, 
+                {"id": 4, "lemma": "번호", "type": "NNG", "position": 114, "weight": 0.184611}, 
+                {"id": 5, "lemma": "따위", "type": "NNB", "position": 121, "weight": 0.9}, 
+                {"id": 6, "lemma": "를", "type": "JKO", "position": 127, "weight": 0.0669358}, 
+                {"id": 7, "lemma": "기록", "type": "NNG", "position": 131, "weight": 0.9}, 
+                {"id": 8, "lemma": "하", "type": "XSV", "position": 137, "weight": 0.0001}, 
+                {"id": 9, "lemma": "았", "type": "EP", "position": 140, "weight": 0.9}, 
+                {"id": 10, "lemma": "다가", "type": "EC", "position": 143, "weight": 0.188685}, 
+                {"id": 11, "lemma": "다음", "type": "NNG", "position": 150, "weight": 0.219301}, 
+                {"id": 12, "lemma": "에", "type": "JKB", "position": 156, "weight": 0.153364}, 
+                {"id": 13, "lemma": "방문", "type": "NNG", "position": 160, "weight": 0.9}, 
+                {"id": 14, "lemma": "하", "type": "XSV", "position": 166, "weight": 0.0001}, 
+                {"id": 15, "lemma": "ㄹ", "type": "ETM", "position": 166, "weight": 0.387847}, 
+                {"id": 16, "lemma": "때", "type": "NNG", "position": 170, "weight": 0.656522}, 
+                {"id": 17, "lemma": "되살리", "type": "VV", "position": 174, "weight": 0.9}, 
+                {"id": 18, "lemma": "ㄴ다", "type": "EF", "position": 180, "weight": 0.0793196}, 
+                {"id": 19, "lemma": ".", "type": "SF", "position": 186, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "방문", "type": "NNG", "scode": "030000", "weight": 0.25, "position": 93, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "기록", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 100, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 106, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "비밀번호", "type": "NNG", "scode": "000000", "weight": 1, "position": 108, "begin": 3, "end": 4}, 
+                {"id": 4, "text": "따위", "type": "NNB", "scode": "000001", "weight": 0.5, "position": 121, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 127, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "기록하", "type": "VV", "scode": "000001", "weight": 0.5, "position": 131, "begin": 7, "end": 8}, 
+                {"id": 7, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 140, "begin": 9, "end": 9}, 
+                {"id": 8, "text": "다가", "type": "EC", "scode": "000000", "weight": 1, "position": 143, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "다음", "type": "NNG", "scode": "010004", "weight": 0.0833333, "position": 150, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 156, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "방문하", "type": "VV", "scode": "000000", "weight": 1, "position": 160, "begin": 13, "end": 14}, 
+                {"id": 12, "text": "ㄹ", "type": "ETM", "scode": "000000", "weight": 1, "position": 166, "begin": 15, "end": 15}, 
+                {"id": 13, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 170, "begin": 16, "end": 16}, 
+                {"id": 14, "text": "되살리", "type": "VV", "scode": "000001", "weight": 0.333333, "position": 174, "begin": 17, "end": 17}, 
+                {"id": 15, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 180, "begin": 18, "end": 18}, 
+                {"id": 16, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 186, "begin": 19, "end": 19}
+            ], 
+            "word": [
+                {"id": 0, "text": "방문", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "기록,", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "비밀번호", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "따위를", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "기록하였다가", "type": "", "begin": 7, "end": 10}, 
+                {"id": 5, "text": "다음에", "type": "", "begin": 11, "end": 12}, 
+                {"id": 6, "text": "방문할", "type": "", "begin": 13, "end": 15}, 
+                {"id": 7, "text": "때", "type": "", "begin": 16, "end": 16}, 
+                {"id": 8, "text": "되살린다.", "type": "", "begin": 17, "end": 19}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "방문", "head": 1, "label": "NP", "mod": [], "weight": 0.462448}, 
+                {"id": 1, "text": "기록,", "head": 2, "label": "NP_CNJ", "mod": [0], "weight": 0.283598}, 
+                {"id": 2, "text": "비밀번호", "head": 3, "label": "NP", "mod": [1], "weight": 0.648451}, 
+                {"id": 3, "text": "따위를", "head": 4, "label": "NP_OBJ", "mod": [2], "weight": 0.743307}, 
+                {"id": 4, "text": "기록하였다가", "head": 8, "label": "VP", "mod": [3], "weight": 0.784545}, 
+                {"id": 5, "text": "다음에", "head": 6, "label": "NP_AJT", "mod": [], "weight": 0.698042}, 
+                {"id": 6, "text": "방문할", "head": 7, "label": "VP_MOD", "mod": [5], "weight": 0.847694}, 
+                {"id": 7, "text": "때", "head": 8, "label": "NP_AJT", "mod": [6], "weight": 0.721983}, 
+                {"id": 8, "text": "되살린다.", "head": -1, "label": "VP", "mod": [4, 7], "weight": 0.0177482}
+            ], 
+            "SRL": [
+                {"verb": "기록", "sense": 1, "word_id": 4, "weight": 0.392876, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "따위를", "weight": 0.392876}
+                ]}, 
+                {"verb": "방문", "sense": 1, "word_id": 6, "weight": 0.148473, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 5, "text": "다음에", "weight": 0.148473}
+                ]}, 
+                {"verb": "되살리", "sense": 1, "word_id": 8, "weight": 0.148536, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 7, "text": "때", "weight": 0.148536}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "TMI_HW", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "<컴퓨터>", "start_eid_short": 0, "end_eid_short": 0, "text_short": "<컴퓨터>"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 7, "ne_id": -1, "text": "특정 웹 사이트를 방문했을 때 만들어지는 정보를", "start_eid_short": 7, "end_eid_short": 7, "text_short": "정보를"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 5, "ne_id": -1, "text": "특정 웹 사이트를 방문했을 때", "start_eid_short": 5, "end_eid_short": 5, "text_short": "때"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "특정 웹", "start_eid_short": 1, "end_eid_short": 2, "text_short": "특정 웹"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "특정", "start_eid_short": 1, "end_eid_short": 1, "text_short": "특정"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": -1, "text": "특정 웹 사이트를", "start_eid_short": 1, "end_eid_short": 3, "text_short": "특정 웹 사이트를"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "방문 기록,", "start_eid_short": 0, "end_eid_short": 1, "text_short": "방문 기록,"}
+        ]}, 
+        {"id": 7, "type": "TMI_SERVICE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": 0, "text": "비밀번호", "start_eid_short": 2, "end_eid_short": 2, "text_short": "비밀번호"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "방문 기록, 비밀번호 따위를", "start_eid_short": 2, "end_eid_short": 3, "text_short": "비밀번호 따위를"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 5, "end_eid": 7, "ne_id": -1, "text": "다음에 방문할 때", "start_eid_short": 7, "end_eid_short": 7, "text_short": "때"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 9, "ne_id": -1, "text": "특정 웹 사이트를 방문했을 때 만들어지는 정보를 담는 파일.", "start_eid_short": 9, "end_eid_short": 9, "text_short": "파일."}
+        ]}
+    ]
+}

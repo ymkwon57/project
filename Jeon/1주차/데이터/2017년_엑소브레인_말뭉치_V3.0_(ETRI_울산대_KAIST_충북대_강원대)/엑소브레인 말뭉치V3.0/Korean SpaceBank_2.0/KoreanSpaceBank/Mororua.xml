@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+모로루아는 팡가타우파와 같이 프랑스령 폴리네시아의 핵실험장이다.
+1966년 7월 시작된 프랑스의 핵 실험은 폴리네시아 사회를 송두리째 바꿔 놓았다. 물밀듯 밀려들어온 ‘핵 경제’는 자급자족의 전통 경제를 뒤흔들어, 농산물까지 수입에 의존하는 기형적 경제 구조로 바꿔놓았다. 수많은 이들이 손쉽게 고소득을 올릴 수 있는 핵 관련 시설에서 일하기 위해 타히티에서 남서쪽으로 약 1천km 떨어진 외딴 산호섬 모로루아와 팡가타우파로 몰려들었다. 알프레드 파우테헤아도 그들 가운데 1명이다.
+파우테헤아는 1968년부터 1979년까지 만 12년을 모루로아 핵 실험장에서 중장비 기사로 일했다. 4년여 전 친구들과 야생돼지 사냥에 나섰던 그는 숲을 헤매다 다리를 다쳤다. 상처는 두 달이 지나도록 아물지 않았다. 혈액 검사를 한 의사는 뜻밖에 ‘토토페’(백혈병을 일컫는 타히티어로 ‘죽은 피’라는 뜻)라는 진단을 내렸다.
+25만여 인구의 프랑스령 폴리네시아에선 매년 500~600명에게 암 진단이 내려지고, 250명이 그로 인해 숨진다. 의료진은 ‘방사능 노출에 따른 직업병일 가능성이 있다’는 진단서를 발급했지만, 프랑스 정부는 “핵 실험장은 안전하기 때문에 직업병임을 인정할 수 없다”는 공문만 보내왔다. 2002년 11월 프랑스 정부를 상대로 소송을 시작하면서 “핵 실험이 안전했다면, 내 백혈병은 어디서 온 것이냐”며 울분을 토하기도 했다. 힘겨운 싸움을 이어가던 그는 결국 지난해 숨을 거뒀다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="모로루아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="7" end="12" text="팡가타우파" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="61" end="66" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="196" end="199" text="타히티" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="222" end="225" text="산호섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="226" end="230" text="모로루아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="232" end="237" text="팡가타우파" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="301" end="305" text="모루로아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="354" end="355" text="숲" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="17" end="21" text="프랑스령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="22" end="27" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="463" end="467" text="프랑스령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="468" end="473" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="158" end="160" text="이들" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="351" end="352" text="그" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="29" end="33" text="핵실험장" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="306" end="311" text="핵 실험장" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="271" end="276" text="파우테헤아" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="496" end="499" text="내려지" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="637" end="639" text="소송" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e4" start="33" end="34" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e5" start="365" end="367" text="다쳤" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e3" start="57" end="59" text="실험" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="189" end="191" text="일하" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e6" start="322" end="324" text="일했" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e7" start="514" end="516" text="숨진" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e8" start="609" end="612" text="보내왔" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="357" end="359" text="헤매" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="239" end="242" text="몰려들" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="202" end="205" text="남서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="215" end="218" text="떨어진" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="27" end="28" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="311" end="313" text="에서" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="355" end="356" text="을" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="237" end="238" text="로" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="210" end="214" text="1천km" value="1000" unit="km" comment="" />
+<SENTENCE id="sent0" start="1" end="36" text="모로루아는 팡가타우파와 같이 프랑스령 폴리네시아의 핵실험장이다." comment="" />
+<SENTENCE id="sent1" start="37" end="83" text="1966년 7월 시작된 프랑스의 핵 실험은 폴리네시아 사회를 송두리째 바꿔 놓았다." comment="" />
+<SENTENCE id="sent2" start="84" end="153" text="물밀듯 밀려들어온 ‘핵 경제’는 자급자족의 전통 경제를 뒤흔들어, 농산물까지 수입에 의존하는 기형적 경제 구조로 바꿔놓았다." comment="" />
+<SENTENCE id="sent3" start="154" end="245" text="수많은 이들이 손쉽게 고소득을 올릴 수 있는 핵 관련 시설에서 일하기 위해 타히티에서 남서쪽으로 약 1천km 떨어진 외딴 산호섬 모로루아와 팡가타우파로 몰려들었다." comment="" />
+<SENTENCE id="sent4" start="246" end="270" text="알프레드 파우테헤아도 그들 가운데 1명이다." comment="" />
+<SENTENCE id="sent5" start="271" end="326" text="파우테헤아는 1968년부터 1979년까지 만 12년을 모루로아 핵 실험장에서 중장비 기사로 일했다." comment="" />
+<SENTENCE id="sent6" start="327" end="369" text="4년여 전 친구들과 야생돼지 사냥에 나섰던 그는 숲을 헤매다 다리를 다쳤다." comment="" />
+<SENTENCE id="sent7" start="370" end="392" text="상처는 두 달이 지나도록 아물지 않았다." comment="" />
+<SENTENCE id="sent8" start="393" end="453" text="혈액 검사를 한 의사는 뜻밖에 ‘토토페’(백혈병을 일컫는 타히티어로 ‘죽은 피’라는 뜻)라는 진단을 내렸다." comment="" />
+<SENTENCE id="sent9" start="454" end="518" text="25만여 인구의 프랑스령 폴리네시아에선 매년 500~600명에게 암 진단이 내려지고, 250명이 그로 인해 숨진다." comment="" />
+<SENTENCE id="sent10" start="519" end="614" text="의료진은 ‘방사능 노출에 따른 직업병일 가능성이 있다’는 진단서를 발급했지만, 프랑스 정부는 “핵 실험장은 안전하기 때문에 직업병임을 인정할 수 없다”는 공문만 보내왔다." comment="" />
+<SENTENCE id="sent11" start="615" end="692" text="2002년 11월 프랑스 정부를 상대로 소송을 시작하면서 “핵 실험이 안전했다면, 내 백혈병은 어디서 온 것이냐”며 울분을 토하기도 했다." comment="" />
+<SENTENCE id="sent12" start="693" end="724" text="힘겨운 싸움을 이어가던 그는 결국 지난해 숨을 거뒀다. " comment="" />
+<QSLINK id="qsl4" fromID="pl8" fromText="모로루아" toID="pl6" toText="타히티" relType="DC" trajector="pl8" landmark="pl6" trigger="s2" comment="" />
+<QSLINK id="qsl5" fromID="pl9" fromText="팡가타우파" toID="pl6" toText="타히티" relType="DC" trajector="pl9" landmark="pl6" trigger="s2" comment="" />
+<QSLINK id="qsl6" fromID="se4" fromText="파우테헤아" toID="se3" toText="핵 실험장" relType="NTPP" trajector="se4" landmark="se3" trigger="s3" comment="" />
+<QSLINK id="qsl7" fromID="se2" fromText="핵실험장" toID="pl11" toText="폴리네시아" relType="NTPP" trajector="se2" landmark="pl11" trigger="s1" comment="" />
+<OLINK id="ol1" fromID="pl8" fromText="모로루아" toID="pl6" toText="타히티" relType="남서" trajector="pl8" landmark="pl6" trigger="s0" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl9" fromText="팡가타우파" toID="pl6" toText="타히티" relType="남서" trajector="pl9" landmark="pl6" trigger="s0" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="ms1" fromText="로" toID="m1" toText="몰려들" trigger="m1" source="pl6" goal="pl8" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl1" fromID="ms1" fromText="로" toID="m1" toText="몰려들" trigger="m1" source="pl6" goal="pl9" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl2" fromID="m0" fromText="헤매" toID="ms0" toText="을" trigger="m0" source="" goal="pl13" midPoint="" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl3" fromID="m1" fromText="몰려들" toID="ms1" toText="로" trigger="m1" source="pl6" goal="pl7" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MEASURELINK id="ml0" fromID="pl7" fromText="산호섬" toID="pl6" toText="타히티" trajector="pl7" landmark="pl6" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

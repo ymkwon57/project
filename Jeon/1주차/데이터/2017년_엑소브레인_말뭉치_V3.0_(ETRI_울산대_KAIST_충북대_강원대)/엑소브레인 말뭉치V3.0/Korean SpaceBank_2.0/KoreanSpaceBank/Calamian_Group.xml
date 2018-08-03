@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+칼라미안 제도(Calamian Group)는 팔라완 섬 지역의 가장 북쪽 끝에 있으며 부수앙가 섬, 쿨리온 섬, 코론 섬과 95개의 제도이다.
+필리핀의 칼라미안 타그반와족 비니얌은 빛이 전혀 없는 동굴 안에 있었다. 그곳은 평소 그가 제비집을 모아 놓던 동굴이었다. 부수앙가는 동물들을 키우기 시작한 곳으로 얼룩말, 지젤, 기린등의 아프리카 동물들과 필리핀 토종의 희귀 동물인 칼라미안 사슴, 필리핀 마우스디어(Mousedeer), 팔라완 공작, 꿩등을 볼 수 있는 야생동물 보호구역이다. 부수앙가로 칼라미안 제도에 속해 있다. 부수앙가는 웅장한 석회암 절벽과 해저 동굴, 온천으로 유명하다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="8" text="칼라미안 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="49" end="55" text="부수앙가 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="57" end="62" text="쿨리온 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="64" end="68" text="코론 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="75" end="77" text="제도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="81" end="84" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="111" end="113" text="동굴" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="122" end="124" text="그곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="143" end="145" text="동굴" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="150" end="154" text="부수앙가" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="169" end="170" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="267" end="271" text="보호구역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="275" end="279" text="부수앙가" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="281" end="288" text="칼라미안 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="297" end="301" text="부수앙가" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="42" end="43" text="끝" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="32" end="34" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="26" end="31" text="팔라완 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="86" end="100" text="칼라미안 타그반와족 비니얌" type="PERSON" dimensionality="" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="43" end="44" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="114" end="115" text="안" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="39" end="41" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="84" end="85" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="288" end="289" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SENTENCE id="sent0" start="1" end="80" text="칼라미안 제도(Calamian Group)는 팔라완 섬 지역의 가장 북쪽 끝에 있으며 부수앙가 섬, 쿨리온 섬, 코론 섬과 95개의 제도이다." comment="" />
+<SENTENCE id="sent1" start="81" end="121" text="필리핀의 칼라미안 타그반와족 비니얌은 빛이 전혀 없는 동굴 안에 있었다." comment="" />
+<SENTENCE id="sent2" start="122" end="149" text="그곳은 평소 그가 제비집을 모아 놓던 동굴이었다." comment="" />
+<SENTENCE id="sent3" start="150" end="274" text="부수앙가는 동물들을 키우기 시작한 곳으로 얼룩말, 지젤, 기린등의 아프리카 동물들과 필리핀 토종의 희귀 동물인 칼라미안 사슴, 필리핀 마우스디어(Mousedeer), 팔라완 공작, 꿩등을 볼 수 있는 야생동물 보호구역이다." comment="" />
+<SENTENCE id="sent4" start="275" end="296" text="부수앙가로 칼라미안 제도에 속해 있다." comment="" />
+<SENTENCE id="sent5" start="297" end="332" text="부수앙가는 웅장한 석회암 절벽과 해저 동굴, 온천으로 유명하다." comment="" />
+<QSLINK id="qsl0" fromID="pl3" fromText="끝" toID="pl0" toText="칼라미안 제도" relType="IN" trajector="pl0" landmark="pl3" trigger="s1" comment="" />
+<QSLINK id="qsl2" fromID="pl10" fromText="동굴" toID="se0" toText="칼라미안 타그반와족 비니얌" relType="NTPP" trajector="se0" landmark="pl10" trigger="s3" comment="" />
+<QSLINK id="qsl3" fromID="pl20" fromText="부수앙가" toID="pl21" toText="칼라미안 제도" relType="IN" trajector="pl20" landmark="pl21" trigger="s4" comment="" />
+<QSLINK id="qsl4" fromID="pl4" fromText="부수앙가 섬" toID="pl3" toText="끝" relType="IN" trajector="pl4" landmark="pl3" trigger="s1" comment="" />
+<QSLINK id="qsl5" fromID="pl5" fromText="쿨리온 섬" toID="pl3" toText="끝" relType="IN" trajector="pl5" landmark="pl3" trigger="s1" comment="" />
+<QSLINK id="qsl6" fromID="pl6" fromText="코론 섬" toID="pl3" toText="끝" relType="IN" trajector="pl6" landmark="pl3" trigger="s1" comment="" />
+<QSLINK id="qsl7" fromID="pl7" fromText="제도" toID="pl3" toText="끝" relType="IN" trajector="pl7" landmark="pl3" trigger="s1" comment="" />
+<QSLINK id="qsl10" fromID="se0" fromText="칼라미안 타그반와족 비니얌" toID="pl8" toText="필리핀" relType="IN" trajector="se0" landmark="pl8" trigger="s2" comment="" />
+<OLINK id="ol0" fromID="pl3" fromText="끝" toID="pl1" toText="지역" relType="북" trajector="pl3" landmark="pl1" trigger="s5" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<METALINK id="metal0" fromID="pl0" fromText="칼라미안 제도" toID="pl4" toText="부수앙가 섬" objectID1="pl4" objectID2="pl0" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl0" fromText="칼라미안 제도" toID="pl5" toText="쿨리온 섬" objectID1="pl5" objectID2="pl0" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl0" fromText="칼라미안 제도" toID="pl6" toText="코론 섬" objectID1="pl6" objectID2="pl0" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl0" fromText="칼라미안 제도" toID="pl7" toText="제도" objectID1="pl7" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl11" fromText="그곳" toID="pl13" toText="동굴" objectID1="pl11" objectID2="pl13" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl14" fromText="부수앙가" toID="pl15" toText="곳" objectID1="pl15" objectID2="pl14" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl15" fromText="곳" toID="pl19" toText="보호구역" objectID1="pl15" objectID2="pl19" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

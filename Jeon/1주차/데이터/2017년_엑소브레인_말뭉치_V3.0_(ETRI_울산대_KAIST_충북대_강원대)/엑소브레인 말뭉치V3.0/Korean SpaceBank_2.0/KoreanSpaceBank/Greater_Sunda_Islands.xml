@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+대순다 열도(문화어: 대쑨다 렬도)는 말레이 제도의 서쪽 부분의 큰 섬으로 이루어진 섬 무리이다. 수마트라·자바·보르네오·셀레베스 섬들 및 인접한 작은 섬들이다.
+한국은 물론이거니와 중국, 인도차이나, 필리핀 그리고 대순다열도, 소순다 열도를 아우르는 광대한 아시아 지역이 치열한 전장이었단다.
+최근에 일어난 대형 쓰나미는 2004년 12월 16일 인도네시아 대순다열도 중 수마트라섬 부근에서 발생한 수m의 쓰나미다.
+2010년 말 인도네시아 대순다 열도의 4개 섬 중 하나인 술라웨시 섬에서 거대한 금광이 발견됐다. 인도네시아 대순다 열도의 4개 섬 중 하나인 술라웨시 섬의 거대한 금광에서 서재석씨는 5년 넘게 인도네시아 전역을 돌아다니며 세 곳의 금광개발권을 따냈다. 인도네시아 금광개발 골드러쉬 안에 사람은 없다 인도네시아 대순다 열도의 4개 섬 중 하나인 술라웨시 섬. 이곳에 거대한 금광이 발견되면서 변화는 시작되었다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="7" text="대순다 열도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="13" end="19" text="대쑨다 렬도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="22" end="28" text="말레이 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="39" end="40" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="큰" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="48" end="49" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="56" end="60" text="수마트라" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="61" end="63" text="자바" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="64" end="68" text="보르네오" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="86" end="88" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="작은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="92" end="94" text="한국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="103" end="105" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="107" end="112" text="인도차이나" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="114" end="117" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="122" end="127" text="대순다열도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="129" end="135" text="소순다 열도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="196" end="201" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="202" end="207" text="대순다열도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="210" end="215" text="수마트라섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="243" end="248" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="249" end="255" text="대순다 열도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="260" end="261" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="268" end="274" text="술라웨시 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="291" end="296" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="297" end="303" text="대순다 열도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="308" end="309" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="316" end="322" text="술라웨시 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="363" end="364" text="곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="378" end="383" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="404" end="409" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="410" end="416" text="대순다 열도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="421" end="422" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="429" end="435" text="술라웨시 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="437" end="439" text="이곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="264" end="266" text="하나" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="312" end="314" text="하나" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="425" end="427" text="하나" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="69" end="76" text="셀레베스 섬들" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="146" end="152" text="아시아 지역" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="345" end="353" text="인도네시아 전역" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="333" end="336" text="서재석" type="PERSON" dimensionality="VOLUME" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="281" end="283" text="금광" type="ARTIFACT" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="328" end="330" text="금광" type="ARTIFACT" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="445" end="447" text="금광" type="ARTIFACT" dimensionality="AREA" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="229" end="232" text="쓰나미" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="177" end="180" text="쓰나미" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="355" end="359" text="돌아다니" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="30" end="32" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="274" end="276" text="에서" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="439" end="440" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="255" end="256" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="303" end="304" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="322" end="323" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="416" end="417" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="353" end="354" text="을" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="225" end="227" text="수m" value="수" unit="m" comment="" />
+<MEASURE id="me1" start="79" end="82" text="인접한" value="인접한" unit="" comment="" />
+<MEASURE id="me2" start="216" end="218" text="부근" value="부근" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="55" text="대순다 열도(문화어: 대쑨다 렬도)는 말레이 제도의 서쪽 부분의 큰 섬으로 이루어진 섬 무리이다." comment="" />
+<SENTENCE id="sent1" start="56" end="91" text="수마트라·자바·보르네오·셀레베스 섬들 및 인접한 작은 섬들이다." comment="" />
+<SENTENCE id="sent2" start="92" end="165" text="한국은 물론이거니와 중국, 인도차이나, 필리핀 그리고 대순다열도, 소순다 열도를 아우르는 광대한 아시아 지역이 치열한 전장이었단다." comment="" />
+<SENTENCE id="sent3" start="166" end="234" text="최근에 일어난 대형 쓰나미는 2004년 12월 16일 인도네시아 대순다열도 중 수마트라섬 부근에서 발생한 수m의 쓰나미다." comment="" />
+<SENTENCE id="sent4" start="235" end="290" text="2010년 말 인도네시아 대순다 열도의 4개 섬 중 하나인 술라웨시 섬에서 거대한 금광이 발견됐다." comment="" />
+<SENTENCE id="sent5" start="291" end="377" text="인도네시아 대순다 열도의 4개 섬 중 하나인 술라웨시 섬의 거대한 금광에서 서재석씨는 5년 넘게 인도네시아 전역을 돌아다니며 세 곳의 금광개발권을 따냈다." comment="" />
+<SENTENCE id="sent6" start="378" end="403" text="인도네시아 금광개발 골드러쉬 안에 사람은 없다" comment="" />
+<SENTENCE id="sent7" start="404" end="436" text="인도네시아 대순다 열도의 4개 섬 중 하나인 술라웨시 섬." comment="" />
+<SENTENCE id="sent8" start="437" end="465" text="이곳에 거대한 금광이 발견되면서 변화는 시작되었다." comment="" />
+<QSLINK id="qsl9" fromID="se0" fromText="금광" toID="pl26" toText="술라웨시 섬" relType="IN" trajector="se0" landmark="pl26" trigger="s4" comment="" />
+<QSLINK id="qsl11" fromID="se3" fromText="금광" toID="pl41" toText="이곳" relType="IN" trajector="se3" landmark="pl41" trigger="s7" comment="" />
+<QSLINK id="qsl5" fromID="pl10" fromText="섬들" toID="pl8" toText="셀레베스 섬들" relType="OUT" trajector="pl10" landmark="pl8" trigger="s2" comment="" />
+<QSLINK id="qsl8" fromID="pl25" fromText="섬" toID="pl24" toText="대순다 열도" relType="IN" trajector="pl25" landmark="pl24" trigger="s0" comment="" />
+<QSLINK id="qsl13" fromID="pl29" fromText="섬" toID="pl28" toText="대순다 열도" relType="IN" trajector="pl29" landmark="pl28" trigger="s5" comment="" />
+<QSLINK id="qsl16" fromID="se1" fromText="금광" toID="pl30" toText="술라웨시 섬" relType="IN" trajector="se1" landmark="pl30" trigger="s6" comment="" />
+<QSLINK id="qsl17" fromID="pl39" fromText="섬" toID="pl38" toText="대순다 열도" relType="IN" trajector="pl39" landmark="pl38" trigger="s8" comment="" />
+<OLINK id="ol0" fromID="pl2" fromText="말레이 제도" toID="pl3" toText="섬" relType="서" trajector="pl3" landmark="pl2" trigger="s1" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<MOVELINK id="mvl1" fromID="se2" fromText="서재석" toID="m0" toText="돌아다니" trigger="m0" source="" goal="" midPoint="" mover="se2" landmark="pl17" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MEASURELINK id="ml1" fromID="se4" fromText="쓰나미" toID="me0" toText="수m" trajector="se4" landmark="se4" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml0" fromID="pl10" fromText="섬들" toID="pl5" toText="수마트라" trajector="pl10" landmark="pl5" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="pl10" fromText="섬들" toID="pl6" toText="자바" trajector="pl10" landmark="pl6" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="pl10" fromText="섬들" toID="pl7" toText="보르네오" trajector="pl10" landmark="pl7" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml4" fromID="pl10" fromText="섬들" toID="pl8" toText="셀레베스 섬들" trajector="pl10" landmark="pl8" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml5" fromID="pl22" fromText="수마트라섬" toID="se4" toText="쓰나미" trajector="se4" landmark="pl22" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

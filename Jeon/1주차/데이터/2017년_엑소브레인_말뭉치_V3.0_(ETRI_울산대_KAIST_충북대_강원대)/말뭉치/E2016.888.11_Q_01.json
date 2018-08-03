@@ -1,0 +1,258 @@
+{
+    "doc_id": "E2016.888.11_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "미국의 소수 인종 중에 상당수를 차지하는 이 인종은 미국 대선의 중요한 변수로 작용한다.", 
+            "morp": [
+                {"id": 0, "lemma": "미국", "type": "NNP", "position": 0, "weight": 0.0892934}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 6, "weight": 0.0987295}, 
+                {"id": 2, "lemma": "소수", "type": "NNG", "position": 10, "weight": 0.864204}, 
+                {"id": 3, "lemma": "인종", "type": "NNG", "position": 17, "weight": 0.158141}, 
+                {"id": 4, "lemma": "중", "type": "NNB", "position": 24, "weight": 0.013531}, 
+                {"id": 5, "lemma": "에", "type": "JKB", "position": 27, "weight": 0.135559}, 
+                {"id": 6, "lemma": "상당", "type": "NNG", "position": 31, "weight": 0.207307}, 
+                {"id": 7, "lemma": "수", "type": "NNG", "position": 37, "weight": 0.00933311}, 
+                {"id": 8, "lemma": "를", "type": "JKO", "position": 40, "weight": 0.137686}, 
+                {"id": 9, "lemma": "차지", "type": "NNG", "position": 44, "weight": 0.0446654}, 
+                {"id": 10, "lemma": "하", "type": "XSV", "position": 50, "weight": 0.0001}, 
+                {"id": 11, "lemma": "는", "type": "ETM", "position": 53, "weight": 0.238503}, 
+                {"id": 12, "lemma": "이", "type": "MM", "position": 57, "weight": 0.00060084}, 
+                {"id": 13, "lemma": "인종", "type": "NNG", "position": 61, "weight": 0.630932}, 
+                {"id": 14, "lemma": "은", "type": "JX", "position": 67, "weight": 0.0449928}, 
+                {"id": 15, "lemma": "미국", "type": "NNP", "position": 71, "weight": 0.0448659}, 
+                {"id": 16, "lemma": "대선", "type": "NNG", "position": 78, "weight": 0.281688}, 
+                {"id": 17, "lemma": "의", "type": "JKG", "position": 84, "weight": 0.0694213}, 
+                {"id": 18, "lemma": "중요", "type": "NNG", "position": 88, "weight": 0.9}, 
+                {"id": 19, "lemma": "하", "type": "XSA", "position": 94, "weight": 0.0001}, 
+                {"id": 20, "lemma": "ㄴ", "type": "ETM", "position": 94, "weight": 0.488779}, 
+                {"id": 21, "lemma": "변수", "type": "NNG", "position": 98, "weight": 0.657669}, 
+                {"id": 22, "lemma": "로", "type": "JKB", "position": 104, "weight": 0.153229}, 
+                {"id": 23, "lemma": "작용", "type": "NNG", "position": 108, "weight": 0.9}, 
+                {"id": 24, "lemma": "하", "type": "XSV", "position": 114, "weight": 0.0001}, 
+                {"id": 25, "lemma": "ㄴ다", "type": "EF", "position": 114, "weight": 0.0449045}, 
+                {"id": 26, "lemma": ".", "type": "SF", "position": 120, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "미국", "type": "NNP", "scode": "030000", "weight": 0.333333, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "소수", "type": "NNG", "scode": "080000", "weight": 0.05, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "인종", "type": "NNG", "scode": "010002", "weight": 0.166667, "position": 17, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "중", "type": "NNB", "scode": "040101", "weight": 0.0526316, "position": 24, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 27, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "상당수", "type": "NNG", "scode": "000000", "weight": 1, "position": 31, "begin": 6, "end": 7}, 
+                {"id": 7, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 40, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "차지하", "type": "VV", "scode": "010002", "weight": 0.25, "position": 44, "begin": 9, "end": 10}, 
+                {"id": 9, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 53, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "이", "type": "MM", "scode": "050002", "weight": 0.0172414, "position": 57, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "인종", "type": "NNG", "scode": "010002", "weight": 0.166667, "position": 61, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 67, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "미국", "type": "NNP", "scode": "030000", "weight": 0.333333, "position": 71, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "대선", "type": "NNG", "scode": "888888", "weight": 0.2, "position": 78, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 84, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "중요하", "type": "VA", "scode": "020000", "weight": 0.5, "position": 88, "begin": 18, "end": 19}, 
+                {"id": 17, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 94, "begin": 20, "end": 20}, 
+                {"id": 18, "text": "변수", "type": "NNG", "scode": "060002", "weight": 0.142857, "position": 98, "begin": 21, "end": 21}, 
+                {"id": 19, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 104, "begin": 22, "end": 22}, 
+                {"id": 20, "text": "작용하", "type": "VV", "scode": "010001", "weight": 0.333333, "position": 108, "begin": 23, "end": 24}, 
+                {"id": 21, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 114, "begin": 25, "end": 25}, 
+                {"id": 22, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 120, "begin": 26, "end": 26}
+            ], 
+            "word": [
+                {"id": 0, "text": "미국의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "소수", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "인종", "type": "", "begin": 3, "end": 3}, 
+                {"id": 3, "text": "중에", "type": "", "begin": 4, "end": 5}, 
+                {"id": 4, "text": "상당수를", "type": "", "begin": 6, "end": 8}, 
+                {"id": 5, "text": "차지하는", "type": "", "begin": 9, "end": 11}, 
+                {"id": 6, "text": "이", "type": "", "begin": 12, "end": 12}, 
+                {"id": 7, "text": "인종은", "type": "", "begin": 13, "end": 14}, 
+                {"id": 8, "text": "미국", "type": "", "begin": 15, "end": 15}, 
+                {"id": 9, "text": "대선의", "type": "", "begin": 16, "end": 17}, 
+                {"id": 10, "text": "중요한", "type": "", "begin": 18, "end": 20}, 
+                {"id": 11, "text": "변수로", "type": "", "begin": 21, "end": 22}, 
+                {"id": 12, "text": "작용한다.", "type": "", "begin": 23, "end": 26}
+            ], 
+            "NE": [
+                {"id": 0, "text": "미국", "type": "LCP_COUNTRY", "begin": 0, "end": 0, "weight": 0.843337, "common_noun": 0}, 
+                {"id": 1, "text": "미국", "type": "LCP_COUNTRY", "begin": 15, "end": 15, "weight": 0.470837, "common_noun": 0}, 
+                {"id": 2, "text": "대선", "type": "EV_OTHERS", "begin": 16, "end": 16, "weight": 0.362705, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "미국의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.613644}, 
+                {"id": 1, "text": "소수", "head": 2, "label": "NP", "mod": [], "weight": 0.809589}, 
+                {"id": 2, "text": "인종", "head": 3, "label": "NP", "mod": [0, 1], "weight": 0.813762}, 
+                {"id": 3, "text": "중에", "head": 5, "label": "NP_AJT", "mod": [2], "weight": 0.649807}, 
+                {"id": 4, "text": "상당수를", "head": 5, "label": "NP_OBJ", "mod": [], "weight": 0.622953}, 
+                {"id": 5, "text": "차지하는", "head": 7, "label": "VP_MOD", "mod": [3, 4], "weight": 0.741781}, 
+                {"id": 6, "text": "이", "head": 7, "label": "DP", "mod": [], "weight": 0.540601}, 
+                {"id": 7, "text": "인종은", "head": 12, "label": "NP_SBJ", "mod": [5, 6], "weight": 0.784434}, 
+                {"id": 8, "text": "미국", "head": 9, "label": "NP", "mod": [], "weight": 0.758897}, 
+                {"id": 9, "text": "대선의", "head": 11, "label": "NP_MOD", "mod": [8], "weight": 0.701489}, 
+                {"id": 10, "text": "중요한", "head": 11, "label": "VP_MOD", "mod": [], "weight": 0.799745}, 
+                {"id": 11, "text": "변수로", "head": 12, "label": "NP_AJT", "mod": [9, 10], "weight": 0.84062}, 
+                {"id": 12, "text": "작용한다.", "head": -1, "label": "VP", "mod": [7, 11], "weight": 0.0170717}
+            ], 
+            "SRL": [
+                {"verb": "차지", "sense": 1, "word_id": 5, "weight": 0.184161, "argument": [
+                    {"type": "ARGM-CND", "word_id": 3, "text": "중에", "weight": 0.0718668}, 
+                    {"type": "ARG1", "word_id": 4, "text": "상당수를", "weight": 0.261966}, 
+                    {"type": "ARG0", "word_id": 7, "text": "인종은", "weight": 0.218651}
+                ]}, 
+                {"verb": "중요", "sense": 1, "word_id": 10, "weight": 0.222779, "argument": [
+                    {"type": "ARG1", "word_id": 11, "text": "변수로", "weight": 1}
+                ]}, 
+                {"verb": "작용", "sense": 1, "word_id": 12, "weight": 0.148522, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "인종은", "weight": 0.189541}, 
+                    {"type": "ARG2", "word_id": 11, "text": "변수로", "weight": 0.107502}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "스페인어를 쓰는 중남미계 미국 이주민인 이 인종을 가르키는 용어는 무엇일까? ", 
+            "morp": [
+                {"id": 0, "lemma": "스페인", "type": "NNP", "position": 121, "weight": 0.9}, 
+                {"id": 1, "lemma": "어", "type": "XSN", "position": 130, "weight": 0.0001}, 
+                {"id": 2, "lemma": "를", "type": "JKO", "position": 133, "weight": 0.0870227}, 
+                {"id": 3, "lemma": "쓰", "type": "VV", "position": 137, "weight": 0.772556}, 
+                {"id": 4, "lemma": "는", "type": "ETM", "position": 140, "weight": 0.184941}, 
+                {"id": 5, "lemma": "중남미", "type": "NNP", "position": 144, "weight": 0.9}, 
+                {"id": 6, "lemma": "계", "type": "XSN", "position": 153, "weight": 0.0128393}, 
+                {"id": 7, "lemma": "미국", "type": "NNP", "position": 157, "weight": 0.00809621}, 
+                {"id": 8, "lemma": "이주", "type": "NNG", "position": 164, "weight": 0.272378}, 
+                {"id": 9, "lemma": "민", "type": "XSN", "position": 170, "weight": 0.00715593}, 
+                {"id": 10, "lemma": "이", "type": "VCP", "position": 173, "weight": 0.0165001}, 
+                {"id": 11, "lemma": "ㄴ", "type": "ETM", "position": 173, "weight": 0.220712}, 
+                {"id": 12, "lemma": "이", "type": "MM", "position": 177, "weight": 0.00060084}, 
+                {"id": 13, "lemma": "인종", "type": "NNG", "position": 181, "weight": 0.630932}, 
+                {"id": 14, "lemma": "을", "type": "JKO", "position": 187, "weight": 0.129611}, 
+                {"id": 15, "lemma": "가르키", "type": "VV", "position": 191, "weight": 0.85}, 
+                {"id": 16, "lemma": "는", "type": "ETM", "position": 200, "weight": 0.184941}, 
+                {"id": 17, "lemma": "용어", "type": "NNG", "position": 204, "weight": 0.9}, 
+                {"id": 18, "lemma": "는", "type": "JX", "position": 210, "weight": 0.0287565}, 
+                {"id": 19, "lemma": "무엇", "type": "NP", "position": 214, "weight": 0.9}, 
+                {"id": 20, "lemma": "이", "type": "VCP", "position": 220, "weight": 0.0175768}, 
+                {"id": 21, "lemma": "ㄹ까", "type": "EF", "position": 220, "weight": 0.258243}, 
+                {"id": 22, "lemma": "?", "type": "SF", "position": 226, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "스페인어", "type": "NNG", "scode": "000000", "weight": 1, "position": 121, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 133, "begin": 2, "end": 2}, 
+                {"id": 2, "text": "쓰", "type": "VV", "scode": "030303", "weight": 0.0384615, "position": 137, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 140, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "중남미", "type": "NNP", "scode": "000000", "weight": 1, "position": 144, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "계", "type": "XSN", "scode": "160000", "weight": 0.03125, "position": 153, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "미국", "type": "NNP", "scode": "030000", "weight": 0.333333, "position": 157, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "이주민", "type": "NNG", "scode": "000000", "weight": 1, "position": 164, "begin": 8, "end": 9}, 
+                {"id": 8, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 173, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 173, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 177, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "인종", "type": "NNG", "scode": "010002", "weight": 0.166667, "position": 181, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 187, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "가르키", "type": "VV", "scode": "000000", "weight": 0.5, "position": 191, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 200, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "용어", "type": "NNG", "scode": "020000", "weight": 0.2, "position": 204, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 210, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "무엇", "type": "NP", "scode": "000001", "weight": 0.5, "position": 214, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 220, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "ㄹ까", "type": "EF", "scode": "000000", "weight": 1, "position": 220, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 226, "begin": 22, "end": 22}
+            ], 
+            "word": [
+                {"id": 0, "text": "스페인어를", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "쓰는", "type": "", "begin": 3, "end": 4}, 
+                {"id": 2, "text": "중남미계", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "미국", "type": "", "begin": 7, "end": 7}, 
+                {"id": 4, "text": "이주민인", "type": "", "begin": 8, "end": 11}, 
+                {"id": 5, "text": "이", "type": "", "begin": 12, "end": 12}, 
+                {"id": 6, "text": "인종을", "type": "", "begin": 13, "end": 14}, 
+                {"id": 7, "text": "가르키는", "type": "", "begin": 15, "end": 16}, 
+                {"id": 8, "text": "용어는", "type": "", "begin": 17, "end": 18}, 
+                {"id": 9, "text": "무엇일까?", "type": "", "begin": 19, "end": 22}
+            ], 
+            "NE": [
+                {"id": 0, "text": "스페인어", "type": "CV_LANGUAGE", "begin": 0, "end": 1, "weight": 0.362844, "common_noun": 0}, 
+                {"id": 1, "text": "중남미", "type": "LCG_CONTINENT", "begin": 5, "end": 5, "weight": 0.44863, "common_noun": 0}, 
+                {"id": 2, "text": "미국", "type": "LCP_COUNTRY", "begin": 7, "end": 7, "weight": 0.853383, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "스페인어를", "head": 1, "label": "NP_OBJ", "mod": [], "weight": 0.777056}, 
+                {"id": 1, "text": "쓰는", "head": 4, "label": "VP_MOD", "mod": [0], "weight": 0.514803}, 
+                {"id": 2, "text": "중남미계", "head": 4, "label": "NP", "mod": [], "weight": 0.554053}, 
+                {"id": 3, "text": "미국", "head": 4, "label": "NP", "mod": [], "weight": 0.825243}, 
+                {"id": 4, "text": "이주민인", "head": 6, "label": "VNP_MOD", "mod": [2, 3, 1], "weight": 0.522812}, 
+                {"id": 5, "text": "이", "head": 6, "label": "DP", "mod": [], "weight": 0.674026}, 
+                {"id": 6, "text": "인종을", "head": 7, "label": "NP_OBJ", "mod": [4, 5], "weight": 0.889145}, 
+                {"id": 7, "text": "가르키는", "head": 8, "label": "VP_MOD", "mod": [6], "weight": 0.793359}, 
+                {"id": 8, "text": "용어는", "head": 9, "label": "NP_SBJ", "mod": [7], "weight": 0.845303}, 
+                {"id": 9, "text": "무엇일까?", "head": -1, "label": "VNP", "mod": [8], "weight": 0.0319962}
+            ], 
+            "SRL": [
+                {"verb": "쓰", "sense": 1, "word_id": 1, "weight": 0.218941, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "스페인어를", "weight": 0.2298}, 
+                    {"type": "ARG0", "word_id": 4, "text": "이주민인", "weight": 1}
+                ]}, 
+                {"verb": "가르키", "sense": 1, "word_id": 7, "weight": 0.202049, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "인종을", "weight": 0.26627}, 
+                    {"type": "ARG0", "word_id": 8, "text": "용어는", "weight": 0.137827}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 6, "end_eid": 7, "ne_id": 2, "text": "이 인종은", "start_eid_short": 6, "end_eid_short": 7, "text_short": "이 인종은"}, 
+            {"id": 8, "sent_id": 1, "start_eid": 0, "end_eid": 8, "ne_id": -1, "text": "스페인어를 쓰는 중남미계 미국 이주민인 이 인종을 가르키는 용어는", "start_eid_short": 8, "end_eid_short": 8, "text_short": "용어는"}, 
+            {"id": 9, "sent_id": 1, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "스페인어를 쓰는 중남미계 미국 이주민인", "start_eid_short": 4, "end_eid_short": 4, "text_short": "이주민인"}, 
+            {"id": 13, "sent_id": 1, "start_eid": 5, "end_eid": 6, "ne_id": 3, "text": "이 인종을", "start_eid_short": 5, "end_eid_short": 6, "text_short": "이 인종을"}, 
+            {"id": 14, "sent_id": 1, "start_eid": 9, "end_eid": 9, "ne_id": -1, "text": "무엇일까?", "start_eid_short": 9, "end_eid_short": 9, "text_short": "무엇일까?"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "미국의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "미국의"}, 
+            {"id": 7, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": 3, "text": "미국", "start_eid_short": 8, "end_eid_short": 8, "text_short": "미국"}, 
+            {"id": 12, "sent_id": 1, "start_eid": 3, "end_eid": 3, "ne_id": 2, "text": "미국", "start_eid_short": 3, "end_eid_short": 3, "text_short": "미국"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "소수", "start_eid_short": 1, "end_eid_short": 1, "text_short": "소수"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "상당수를", "start_eid_short": 4, "end_eid_short": 4, "text_short": "상당수를"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 8, "end_eid": 9, "ne_id": -1, "text": "미국 대선의", "start_eid_short": 8, "end_eid_short": 9, "text_short": "미국 대선의"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 8, "end_eid": 11, "ne_id": -1, "text": "미국 대선의 중요한 변수로", "start_eid_short": 11, "end_eid_short": 11, "text_short": "변수로"}
+        ]}, 
+        {"id": 6, "type": "CV_LANGUAGE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "스페인어를", "start_eid_short": 0, "end_eid_short": 0, "text_short": "스페인어를"}
+        ]}, 
+        {"id": 7, "type": "LCG_CONTINENT", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": 1, "text": "중남미계", "start_eid_short": 2, "end_eid_short": 2, "text_short": "중남미계"}
+        ]}, 
+        {"id": 8, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": 1, "text": "미국의 소수 인종", "start_eid_short": 1, "end_eid_short": 2, "text_short": "소수 인종"}
+        ]}
+    ]
+}

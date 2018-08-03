@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+갬비어 제도[Gambier Islands,(프)Îles Gambier. Mangareva Islands]는 남태평양 중앙에 있는 프랑스령 폴리네시아의 투아모투 군도 가운데 남동쪽 말단의 섬들이다. 타히티에서 약 1,600㎞ 동남동쪽에 있다. 인구 620(1988)명이였다. 이 섬들은 산호섬이었다.
+사람이 사는 주요 섬은 망가레바(마가레바)·타라바이·아카마루·아우케나와 같은 화산섬이다. 길이는 8㎞이며, 보초(堡礁)로 둘러싸인 망가레바는 듀프 봉과 모코토 봉에서 최고 440m에 이르며, 그 동쪽 기슭에 성 미카엘 성당(1834~71)이 있는 중심 마을인 리키테아가 있다.
+선교단 수송선 듀프호의 제임스 윌슨 선장이 망가레바를 중심으로 한 섬들을 발견하고(1797) 제임스 갬비어 제독의 이름을 따서 명명했다. 1842년 프랑스의 보호령이 되었고, 1880년 프랑스의 식민지가 되었다. 1881년 프랑스에 합병된 이 제도는 지금은 프랑스령 폴리네시아의 투아모투 갬비어 행정구에 속한다. 자원은 빈약하며, 주민들은 자급 농업, 코코넛 재배, 소규모의 어업으로 생계를 유지하고 있다
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="7" text="갬비어 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="61" end="65" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="85" end="92" text="투아모투 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="105" end="107" text="섬들" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="111" end="114" text="타히티" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="156" end="158" text="섬들" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="160" end="163" text="산호섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="178" end="179" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="181" end="185" text="망가레바" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="186" end="190" text="마가레바" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="192" end="196" text="타라바이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="197" end="201" text="아카마루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="202" end="206" text="아우케나" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="211" end="214" text="화산섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="241" end="245" text="망가레바" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="247" end="251" text="듀프 봉" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="253" end="258" text="모코토 봉" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="280" end="282" text="기슭" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="309" end="311" text="마을" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="313" end="317" text="리키테아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="347" end="351" text="망가레바" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="360" end="362" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="459" end="461" text="제도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="479" end="483" text="투아모투" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="484" end="487" text="갬비어" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="488" end="491" text="행정구" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="101" end="103" text="말단" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="284" end="292" text="성 미카엘 성당" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="111" />
+<PLACE id="pl4" start="467" end="471" text="프랑스령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="472" end="477" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="73" end="77" text="프랑스령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="78" end="83" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="228" end="230" text="보초" type="ARTIFACT" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="66" end="68" text="중앙" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="97" end="100" text="남동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="126" end="130" text="동남동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="277" end="279" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="282" end="283" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="236" end="239" text="둘러싸" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="493" end="495" text="속하" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="83" end="84" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="103" end="104" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="477" end="478" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me1" start="222" end="224" text="8㎞" value="8" unit="km" comment="" />
+<MEASURE id="me0" start="119" end="125" text="1,600㎞" value="1600" unit="km" comment="" />
+<MEASURE id="me2" start="264" end="268" text="440m" value="440" unit="m" comment="" />
+<SENTENCE id="sent0" start="1" end="110" text="갬비어 제도[Gambier Islands,(프)Îles Gambier. Mangareva Islands]는 남태평양 중앙에 있는 프랑스령 폴리네시아의 투아모투 군도 가운데 남동쪽 말단의 섬들이다." comment="" />
+<SENTENCE id="sent1" start="111" end="135" text="타히티에서 약 1,600㎞ 동남동쪽에 있다." comment="" />
+<SENTENCE id="sent2" start="136" end="153" text="인구 620(1988)명이였다." comment="" />
+<SENTENCE id="sent3" start="154" end="167" text="이 섬들은 산호섬이었다." comment="" />
+<SENTENCE id="sent4" start="168" end="217" text="사람이 사는 주요 섬은 망가레바(마가레바)·타라바이·아카마루·아우케나와 같은 화산섬이다." comment="" />
+<SENTENCE id="sent5" start="218" end="322" text="길이는 8㎞이며, 보초(堡礁)로 둘러싸인 망가레바는 듀프 봉과 모코토 봉에서 최고 440m에 이르며, 그 동쪽 기슭에 성 미카엘 성당(1834~71)이 있는 중심 마을인 리키테아가 있다." comment="" />
+<SENTENCE id="sent6" start="323" end="399" text="선교단 수송선 듀프호의 제임스 윌슨 선장이 망가레바를 중심으로 한 섬들을 발견하고(1797) 제임스 갬비어 제독의 이름을 따서 명명했다." comment="" />
+<SENTENCE id="sent7" start="400" end="441" text="1842년 프랑스의 보호령이 되었고, 1880년 프랑스의 식민지가 되었다." comment="" />
+<SENTENCE id="sent8" start="442" end="497" text="1881년 프랑스에 합병된 이 제도는 지금은 프랑스령 폴리네시아의 투아모투 갬비어 행정구에 속한다." comment="" />
+<SENTENCE id="sent9" start="498" end="549" text="자원은 빈약하며, 주민들은 자급 농업, 코코넛 재배, 소규모의 어업으로 생계를 유지하고 있다" comment="" />
+<QSLINK id="qsl0" fromID="pl2" fromText="남태평양" toID="pl27" toText="프랑스령" relType="NTPP" trajector="pl27" landmark="pl2" trigger="s0" comment="" />
+<QSLINK id="qsl5" fromID="pl31" fromText="제도" toID="pl36" toText="행정구" relType="IN" trajector="pl36" landmark="pl31" trigger="s6" comment="" />
+<QSLINK id="qsl6" fromID="se0" fromText="보초" toID="pl17" toText="망가레바" relType="OUT" trajector="pl17" landmark="se0" trigger="s2" comment="" />
+<QSLINK id="qsl1" fromID="pl6" fromText="섬들" toID="pl38" toText="말단" relType="NTPP" trajector="pl6" landmark="pl38" trigger="s4" comment="" />
+<QSLINK id="qsl4" fromID="pl21" fromText="성 미카엘 성당" toID="pl20" toText="기슭" relType="NTPP" trajector="pl21" landmark="pl20" trigger="s10" comment="" />
+<QSLINK id="qsl9" fromID="pl5" fromText="투아모투 군도" toID="pl28" toText="폴리네시아" relType="NTPP" trajector="pl5" landmark="pl28" trigger="s1" comment="" />
+<QSLINK id="qsl10" fromID="pl36" fromText="행정구" toID="pl26" toText="폴리네시아" relType="NTPP" trajector="pl36" landmark="pl26" trigger="s7" comment="" />
+<OLINK id="ol0" fromID="pl38" fromText="말단" toID="pl6" toText="섬들" relType="남동" trajector="pl38" landmark="pl5" trigger="s3" frame_type="ABSOLUTE" referencePt="남동" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl1" fromText="" toID="pl7" toText="타히티" relType="동남동" trajector="pl1" landmark="pl7" trigger="s5" frame_type="ABSOLUTE" referencePt="동남동" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl17" fromText="망가레바" toID="pl20" toText="기슭" relType="동" trajector="pl20" landmark="pl17" trigger="s9" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<MEASURELINK id="ml0" fromID="me1" fromText="8㎞" toID="pl17" toText="망가레바" trajector="pl17" landmark="pl17" relType="LENGTH" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl1" fromText="" toID="pl7" toText="타히티" trajector="pl1" landmark="pl7" relType="DISTANCE" val="me0" endPoint1="pl1" endPoint2="pl7" comment="" />
+<MEASURELINK id="ml3" fromID="pl18" fromText="듀프 봉" toID="me2" toText="최고 440m" trajector="pl17" landmark="pl18" relType="DISTANCE" val="me2" endPoint1="pl17" endPoint2="pl18" comment="" />
+<MEASURELINK id="ml4" fromID="pl19" fromText="모코토 봉" toID="me2" toText="최고 440m" trajector="pl17" landmark="pl19" relType="DISTANCE" val="me2" endPoint1="pl17" endPoint2="pl19" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

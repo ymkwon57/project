@@ -1,0 +1,401 @@
+{
+    "doc_id": "E2016.836.21_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "톨레미의 세계지도", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "프톨레마이오스는 그의 세계지도를 만들기 위하여 지구의 주위를 360°로 등분하여 경위선망을 설정하였고, 다시 이 경위선을 평면에 투영하기 위하여 간단한 원뿔투영도법을 고안하여 위도 0°에서 180°에 이르는 세계 반구도(半球圖)를 제작하였다.", 
+            "morp": [
+                {"id": 0, "lemma": "프톨레마이오스", "type": "NNP", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "는", "type": "JX", "position": 21, "weight": 0.0332677}, 
+                {"id": 2, "lemma": "그", "type": "NP", "position": 25, "weight": 0.0198995}, 
+                {"id": 3, "lemma": "의", "type": "JKG", "position": 28, "weight": 0.134696}, 
+                {"id": 4, "lemma": "세계", "type": "NNG", "position": 32, "weight": 0.9}, 
+                {"id": 5, "lemma": "지도", "type": "NNG", "position": 38, "weight": 0.184498}, 
+                {"id": 6, "lemma": "를", "type": "JKO", "position": 44, "weight": 0.137686}, 
+                {"id": 7, "lemma": "만들", "type": "VV", "position": 48, "weight": 0.9}, 
+                {"id": 8, "lemma": "기", "type": "ETN", "position": 54, "weight": 0.0380514}, 
+                {"id": 9, "lemma": "위하", "type": "VV", "position": 58, "weight": 0.176484}, 
+                {"id": 10, "lemma": "여", "type": "EC", "position": 64, "weight": 0.41831}, 
+                {"id": 11, "lemma": "지구", "type": "NNG", "position": 68, "weight": 0.9}, 
+                {"id": 12, "lemma": "의", "type": "JKG", "position": 74, "weight": 0.0694213}, 
+                {"id": 13, "lemma": "주위", "type": "NNG", "position": 78, "weight": 0.9}, 
+                {"id": 14, "lemma": "를", "type": "JKO", "position": 84, "weight": 0.137686}, 
+                {"id": 15, "lemma": "360", "type": "SN", "position": 88, "weight": 1}, 
+                {"id": 16, "lemma": "°", "type": "SW", "position": 91, "weight": 1}, 
+                {"id": 17, "lemma": "로", "type": "JKB", "position": 93, "weight": 0.0544879}, 
+                {"id": 18, "lemma": "등분", "type": "NNG", "position": 97, "weight": 0.95}, 
+                {"id": 19, "lemma": "하", "type": "XSV", "position": 103, "weight": 0.0001}, 
+                {"id": 20, "lemma": "여", "type": "EC", "position": 106, "weight": 0.361326}, 
+                {"id": 21, "lemma": "경위", "type": "NNG", "position": 110, "weight": 0.9}, 
+                {"id": 22, "lemma": "선", "type": "NNG", "position": 116, "weight": 0.00217259}, 
+                {"id": 23, "lemma": "망", "type": "NNG", "position": 119, "weight": 0.9}, 
+                {"id": 24, "lemma": "을", "type": "JKO", "position": 122, "weight": 0.129611}, 
+                {"id": 25, "lemma": "설정", "type": "NNG", "position": 126, "weight": 0.101155}, 
+                {"id": 26, "lemma": "하", "type": "XSV", "position": 132, "weight": 0.0001}, 
+                {"id": 27, "lemma": "였", "type": "EP", "position": 135, "weight": 0.9}, 
+                {"id": 28, "lemma": "고", "type": "EC", "position": 138, "weight": 0.190901}, 
+                {"id": 29, "lemma": ",", "type": "SP", "position": 141, "weight": 1}, 
+                {"id": 30, "lemma": "다시", "type": "MAG", "position": 143, "weight": 0.0572153}, 
+                {"id": 31, "lemma": "이", "type": "MM", "position": 150, "weight": 0.00146884}, 
+                {"id": 32, "lemma": "경위", "type": "NNG", "position": 154, "weight": 0.9}, 
+                {"id": 33, "lemma": "선", "type": "NNG", "position": 160, "weight": 0.00217259}, 
+                {"id": 34, "lemma": "을", "type": "JKO", "position": 163, "weight": 0.0819193}, 
+                {"id": 35, "lemma": "평면", "type": "NNG", "position": 167, "weight": 0.9}, 
+                {"id": 36, "lemma": "에", "type": "JKB", "position": 173, "weight": 0.153364}, 
+                {"id": 37, "lemma": "투영", "type": "NNG", "position": 177, "weight": 0.9}, 
+                {"id": 38, "lemma": "하", "type": "XSV", "position": 183, "weight": 0.0001}, 
+                {"id": 39, "lemma": "기", "type": "ETN", "position": 186, "weight": 0.0556099}, 
+                {"id": 40, "lemma": "위하", "type": "VV", "position": 190, "weight": 0.176484}, 
+                {"id": 41, "lemma": "여", "type": "EC", "position": 196, "weight": 0.41831}, 
+                {"id": 42, "lemma": "간단", "type": "NNG", "position": 200, "weight": 0.9}, 
+                {"id": 43, "lemma": "하", "type": "XSA", "position": 206, "weight": 0.0001}, 
+                {"id": 44, "lemma": "ㄴ", "type": "ETM", "position": 206, "weight": 0.488779}, 
+                {"id": 45, "lemma": "원뿔", "type": "NNG", "position": 210, "weight": 0.9}, 
+                {"id": 46, "lemma": "투영", "type": "NNG", "position": 216, "weight": 0.9}, 
+                {"id": 47, "lemma": "도법", "type": "NNG", "position": 222, "weight": 0.133418}, 
+                {"id": 48, "lemma": "을", "type": "JKO", "position": 228, "weight": 0.129611}, 
+                {"id": 49, "lemma": "고안", "type": "NNG", "position": 232, "weight": 0.0994143}, 
+                {"id": 50, "lemma": "하", "type": "XSV", "position": 238, "weight": 0.0001}, 
+                {"id": 51, "lemma": "여", "type": "EC", "position": 241, "weight": 0.361326}, 
+                {"id": 52, "lemma": "위도", "type": "NNG", "position": 245, "weight": 0.00274664}, 
+                {"id": 53, "lemma": "0", "type": "SN", "position": 252, "weight": 1}, 
+                {"id": 54, "lemma": "°", "type": "SW", "position": 253, "weight": 1}, 
+                {"id": 55, "lemma": "에서", "type": "JKB", "position": 255, "weight": 0.0545509}, 
+                {"id": 56, "lemma": "180", "type": "SN", "position": 262, "weight": 1}, 
+                {"id": 57, "lemma": "°", "type": "SW", "position": 265, "weight": 1}, 
+                {"id": 58, "lemma": "에", "type": "JKB", "position": 267, "weight": 0.0545356}, 
+                {"id": 59, "lemma": "이르", "type": "VV", "position": 271, "weight": 0.434887}, 
+                {"id": 60, "lemma": "는", "type": "ETM", "position": 277, "weight": 0.184941}, 
+                {"id": 61, "lemma": "세계", "type": "NNG", "position": 281, "weight": 0.9}, 
+                {"id": 62, "lemma": "반구", "type": "NNG", "position": 288, "weight": 0.6}, 
+                {"id": 63, "lemma": "도", "type": "XSN", "position": 288, "weight": 0.6}, 
+                {"id": 64, "lemma": "(", "type": "SS", "position": 297, "weight": 1}, 
+                {"id": 65, "lemma": "半球圖", "type": "SH", "position": 298, "weight": 1}, 
+                {"id": 66, "lemma": ")", "type": "SS", "position": 307, "weight": 1}, 
+                {"id": 67, "lemma": "를", "type": "JKO", "position": 308, "weight": 0.0357023}, 
+                {"id": 68, "lemma": "제작", "type": "NNG", "position": 312, "weight": 0.9}, 
+                {"id": 69, "lemma": "하", "type": "XSV", "position": 318, "weight": 0.0001}, 
+                {"id": 70, "lemma": "였", "type": "EP", "position": 321, "weight": 0.9}, 
+                {"id": 71, "lemma": "다", "type": "EF", "position": 324, "weight": 0.640954}, 
+                {"id": 72, "lemma": ".", "type": "SF", "position": 327, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "프톨레마이오스", "type": "NNP", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 21, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "그", "type": "NP", "scode": "010002", "weight": 0.142857, "position": 25, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 28, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "세계지도", "type": "NNG", "scode": "000000", "weight": 1, "position": 32, "begin": 4, "end": 5}, 
+                {"id": 5, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 44, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "만들", "type": "VV", "scode": "000101", "weight": 0.0769231, "position": 48, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "기", "type": "ETN", "scode": "000000", "weight": 1, "position": 54, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "위하", "type": "VV", "scode": "010003", "weight": 0.25, "position": 58, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "여", "type": "EC", "scode": "000000", "weight": 1, "position": 64, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "지구", "type": "NNG", "scode": "040000", "weight": 0.0769231, "position": 68, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 74, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "주위", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 78, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 84, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "360", "type": "SN", "scode": "000000", "weight": 1, "position": 88, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "°", "type": "SW", "scode": "000000", "weight": 1, "position": 91, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 93, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "등분하", "type": "VV", "scode": "020000", "weight": 0.25, "position": 97, "begin": 18, "end": 19}, 
+                {"id": 18, "text": "여", "type": "EC", "scode": "000000", "weight": 1, "position": 106, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "경위선", "type": "NNG", "scode": "000000", "weight": 0.0909091, "position": 110, "begin": 21, "end": 22}, 
+                {"id": 20, "text": "망", "type": "NNG", "scode": "090002", "weight": 0.25, "position": 116, "begin": 23, "end": 23}, 
+                {"id": 21, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 122, "begin": 24, "end": 24}, 
+                {"id": 22, "text": "설정하", "type": "VV", "scode": "020001", "weight": 0.333333, "position": 126, "begin": 25, "end": 26}, 
+                {"id": 23, "text": "였", "type": "EP", "scode": "000000", "weight": 1, "position": 135, "begin": 27, "end": 27}, 
+                {"id": 24, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 138, "begin": 28, "end": 28}, 
+                {"id": 25, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 141, "begin": 29, "end": 29}, 
+                {"id": 26, "text": "다시", "type": "MAG", "scode": "010001", "weight": 0.1, "position": 143, "begin": 30, "end": 30}, 
+                {"id": 27, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 150, "begin": 31, "end": 31}, 
+                {"id": 28, "text": "경위선", "type": "NNG", "scode": "000000", "weight": 1, "position": 154, "begin": 32, "end": 33}, 
+                {"id": 29, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 163, "begin": 34, "end": 34}, 
+                {"id": 30, "text": "평면", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 167, "begin": 35, "end": 35}, 
+                {"id": 31, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 173, "begin": 36, "end": 36}, 
+                {"id": 32, "text": "투영하", "type": "VV", "scode": "020002", "weight": 0.142857, "position": 177, "begin": 37, "end": 38}, 
+                {"id": 33, "text": "기", "type": "ETN", "scode": "000000", "weight": 1, "position": 186, "begin": 39, "end": 39}, 
+                {"id": 34, "text": "위하", "type": "VV", "scode": "010003", "weight": 0.25, "position": 190, "begin": 40, "end": 40}, 
+                {"id": 35, "text": "여", "type": "EC", "scode": "000000", "weight": 1, "position": 196, "begin": 41, "end": 41}, 
+                {"id": 36, "text": "간단하", "type": "VA", "scode": "020101", "weight": 0.2, "position": 200, "begin": 42, "end": 43}, 
+                {"id": 37, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 206, "begin": 44, "end": 44}, 
+                {"id": 38, "text": "원뿔", "type": "NNG", "scode": "000000", "weight": 1, "position": 210, "begin": 45, "end": 45}, 
+                {"id": 39, "text": "투영도법", "type": "NNG", "scode": "000000", "weight": 1, "position": 216, "begin": 46, "end": 47}, 
+                {"id": 40, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 228, "begin": 48, "end": 48}, 
+                {"id": 41, "text": "고안하", "type": "VV", "scode": "000000", "weight": 1, "position": 232, "begin": 49, "end": 50}, 
+                {"id": 42, "text": "여", "type": "EC", "scode": "000000", "weight": 1, "position": 241, "begin": 51, "end": 51}, 
+                {"id": 43, "text": "위도", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 245, "begin": 52, "end": 52}, 
+                {"id": 44, "text": "0", "type": "SN", "scode": "000000", "weight": 1, "position": 252, "begin": 53, "end": 53}, 
+                {"id": 45, "text": "°", "type": "SW", "scode": "000000", "weight": 1, "position": 253, "begin": 54, "end": 54}, 
+                {"id": 46, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 255, "begin": 55, "end": 55}, 
+                {"id": 47, "text": "180", "type": "SN", "scode": "000000", "weight": 1, "position": 262, "begin": 56, "end": 56}, 
+                {"id": 48, "text": "°", "type": "SW", "scode": "000000", "weight": 1, "position": 265, "begin": 57, "end": 57}, 
+                {"id": 49, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 267, "begin": 58, "end": 58}, 
+                {"id": 50, "text": "이르", "type": "VV", "scode": "010002", "weight": 0.1, "position": 271, "begin": 59, "end": 59}, 
+                {"id": 51, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 277, "begin": 60, "end": 60}, 
+                {"id": 52, "text": "세계", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 281, "begin": 61, "end": 61}, 
+                {"id": 53, "text": "반구", "type": "NNG", "scode": "030003", "weight": 0.125, "position": 288, "begin": 62, "end": 62}, 
+                {"id": 54, "text": "도", "type": "XSN", "scode": "210000", "weight": 0.025641, "position": 288, "begin": 63, "end": 63}, 
+                {"id": 55, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 297, "begin": 64, "end": 64}, 
+                {"id": 56, "text": "半球圖", "type": "SH", "scode": "000000", "weight": 1, "position": 298, "begin": 65, "end": 65}, 
+                {"id": 57, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 307, "begin": 66, "end": 66}, 
+                {"id": 58, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 308, "begin": 67, "end": 67}, 
+                {"id": 59, "text": "제작하", "type": "VV", "scode": "020000", "weight": 0.333333, "position": 312, "begin": 68, "end": 69}, 
+                {"id": 60, "text": "였", "type": "EP", "scode": "000000", "weight": 1, "position": 321, "begin": 70, "end": 70}, 
+                {"id": 61, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 324, "begin": 71, "end": 71}, 
+                {"id": 62, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 327, "begin": 72, "end": 72}
+            ], 
+            "word": [
+                {"id": 0, "text": "프톨레마이오스는", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "그의", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "세계지도를", "type": "", "begin": 4, "end": 6}, 
+                {"id": 3, "text": "만들기", "type": "", "begin": 7, "end": 8}, 
+                {"id": 4, "text": "위하여", "type": "", "begin": 9, "end": 10}, 
+                {"id": 5, "text": "지구의", "type": "", "begin": 11, "end": 12}, 
+                {"id": 6, "text": "주위를", "type": "", "begin": 13, "end": 14}, 
+                {"id": 7, "text": "360°로", "type": "", "begin": 15, "end": 17}, 
+                {"id": 8, "text": "등분하여", "type": "", "begin": 18, "end": 20}, 
+                {"id": 9, "text": "경위선망을", "type": "", "begin": 21, "end": 24}, 
+                {"id": 10, "text": "설정하였고,", "type": "", "begin": 25, "end": 29}, 
+                {"id": 11, "text": "다시", "type": "", "begin": 30, "end": 30}, 
+                {"id": 12, "text": "이", "type": "", "begin": 31, "end": 31}, 
+                {"id": 13, "text": "경위선을", "type": "", "begin": 32, "end": 34}, 
+                {"id": 14, "text": "평면에", "type": "", "begin": 35, "end": 36}, 
+                {"id": 15, "text": "투영하기", "type": "", "begin": 37, "end": 39}, 
+                {"id": 16, "text": "위하여", "type": "", "begin": 40, "end": 41}, 
+                {"id": 17, "text": "간단한", "type": "", "begin": 42, "end": 44}, 
+                {"id": 18, "text": "원뿔투영도법을", "type": "", "begin": 45, "end": 48}, 
+                {"id": 19, "text": "고안하여", "type": "", "begin": 49, "end": 51}, 
+                {"id": 20, "text": "위도", "type": "", "begin": 52, "end": 52}, 
+                {"id": 21, "text": "0°에서", "type": "", "begin": 53, "end": 55}, 
+                {"id": 22, "text": "180°에", "type": "", "begin": 56, "end": 58}, 
+                {"id": 23, "text": "이르는", "type": "", "begin": 59, "end": 60}, 
+                {"id": 24, "text": "세계", "type": "", "begin": 61, "end": 61}, 
+                {"id": 25, "text": "반구도(半球圖)를", "type": "", "begin": 62, "end": 67}, 
+                {"id": 26, "text": "제작하였다.", "type": "", "begin": 68, "end": 72}
+            ], 
+            "NE": [
+                {"id": 0, "text": "프톨레마이오스", "type": "PS_NAME", "begin": 0, "end": 0, "weight": 0.415631, "common_noun": 0}, 
+                {"id": 1, "text": "지구", "type": "LC_SPACE", "begin": 11, "end": 11, "weight": 0.326889, "common_noun": 0}, 
+                {"id": 2, "text": "360°", "type": "QT_OTHERS", "begin": 15, "end": 16, "weight": 0.490763, "common_noun": 0}, 
+                {"id": 3, "text": "위도 0°", "type": "QT_OTHERS", "begin": 52, "end": 54, "weight": 0.402803, "common_noun": 0}, 
+                {"id": 4, "text": "180°", "type": "QT_OTHERS", "begin": 56, "end": 57, "weight": 0.564599, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "프톨레마이오스는", "head": 3, "label": "NP_SBJ", "mod": [], "weight": 0.373678}, 
+                {"id": 1, "text": "그의", "head": 2, "label": "NP_MOD", "mod": [], "weight": 0.627413}, 
+                {"id": 2, "text": "세계지도를", "head": 3, "label": "NP_OBJ", "mod": [1], "weight": 0.826269}, 
+                {"id": 3, "text": "만들기", "head": 4, "label": "VP_OBJ", "mod": [0, 2], "weight": 0.651759}, 
+                {"id": 4, "text": "위하여", "head": 8, "label": "VP", "mod": [3], "weight": 0.685573}, 
+                {"id": 5, "text": "지구의", "head": 6, "label": "NP_MOD", "mod": [], "weight": 0.755707}, 
+                {"id": 6, "text": "주위를", "head": 8, "label": "NP_OBJ", "mod": [5], "weight": 0.812025}, 
+                {"id": 7, "text": "360°로", "head": 8, "label": "NP_AJT", "mod": [], "weight": 0.561909}, 
+                {"id": 8, "text": "등분하여", "head": 10, "label": "VP", "mod": [4, 6, 7], "weight": 0.721911}, 
+                {"id": 9, "text": "경위선망을", "head": 10, "label": "NP_OBJ", "mod": [], "weight": 0.682616}, 
+                {"id": 10, "text": "설정하였고,", "head": 15, "label": "VP", "mod": [8, 9], "weight": 0.557368}, 
+                {"id": 11, "text": "다시", "head": 15, "label": "AP", "mod": [], "weight": 0.612224}, 
+                {"id": 12, "text": "이", "head": 13, "label": "DP", "mod": [], "weight": 0.7953}, 
+                {"id": 13, "text": "경위선을", "head": 15, "label": "NP_OBJ", "mod": [12], "weight": 0.704798}, 
+                {"id": 14, "text": "평면에", "head": 15, "label": "NP_AJT", "mod": [], "weight": 0.707951}, 
+                {"id": 15, "text": "투영하기", "head": 16, "label": "VP_OBJ", "mod": [10, 11, 13, 14], "weight": 0.77623}, 
+                {"id": 16, "text": "위하여", "head": 19, "label": "VP", "mod": [15], "weight": 0.723537}, 
+                {"id": 17, "text": "간단한", "head": 18, "label": "VP_MOD", "mod": [], "weight": 0.710778}, 
+                {"id": 18, "text": "원뿔투영도법을", "head": 19, "label": "NP_OBJ", "mod": [17], "weight": 0.656995}, 
+                {"id": 19, "text": "고안하여", "head": 26, "label": "VP", "mod": [16, 18], "weight": 0.814988}, 
+                {"id": 20, "text": "위도", "head": 21, "label": "NP", "mod": [], "weight": 0.861231}, 
+                {"id": 21, "text": "0°에서", "head": 22, "label": "NP_AJT", "mod": [20], "weight": 0.525311}, 
+                {"id": 22, "text": "180°에", "head": 23, "label": "NP_AJT", "mod": [21], "weight": 0.766398}, 
+                {"id": 23, "text": "이르는", "head": 25, "label": "VP_MOD", "mod": [22], "weight": 0.792084}, 
+                {"id": 24, "text": "세계", "head": 25, "label": "NP", "mod": [], "weight": 0.755172}, 
+                {"id": 25, "text": "반구도(半球圖)를", "head": 26, "label": "NP_OBJ", "mod": [23, 24], "weight": 0.638823}, 
+                {"id": 26, "text": "제작하였다.", "head": -1, "label": "VP", "mod": [19, 25], "weight": 4.96916e-05}
+            ], 
+            "SRL": [
+                {"verb": "만들", "sense": 1, "word_id": 3, "weight": 0.405872, "argument": [
+                    {"type": "ARG1", "word_id": 2, "text": "세계지도를", "weight": 0.405872}, 
+                    {"type": "ARG0", "word_id": 0, "text": "프톨레마이오스는", "weight": 1}
+                ]}, 
+                {"verb": "위하", "sense": 1, "word_id": 4, "weight": 0.154464, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "만들기", "weight": 0.154464}
+                ]}, 
+                {"verb": "등분", "sense": 1, "word_id": 8, "weight": 0.26521, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "주위를", "weight": 0.26521}, 
+                    {"type": "ARG0", "word_id": 0, "text": "프톨레마이오스는", "weight": 1}, 
+                    {"type": "ARG2", "word_id": 7, "text": "360°로", "weight": 1}
+                ]}, 
+                {"verb": "설정", "sense": 1, "word_id": 10, "weight": 0.32876, "argument": [
+                    {"type": "ARG1", "word_id": 9, "text": "경위선망을", "weight": 0.32876}, 
+                    {"type": "ARG0", "word_id": 0, "text": "프톨레마이오스는", "weight": 1}
+                ]}, 
+                {"verb": "투영", "sense": 1, "word_id": 15, "weight": 0.257087, "argument": [
+                    {"type": "ARG1", "word_id": 13, "text": "경위선을", "weight": 0.413492}, 
+                    {"type": "ARG2", "word_id": 14, "text": "평면에", "weight": 0.100682}, 
+                    {"type": "ARG0", "word_id": 0, "text": "프톨레마이오스는", "weight": 1}
+                ]}, 
+                {"verb": "위하", "sense": 1, "word_id": 16, "weight": 0.175431, "argument": [
+                    {"type": "ARG1", "word_id": 15, "text": "투영하기", "weight": 0.175431}
+                ]}, 
+                {"verb": "간단하", "sense": 1, "word_id": 17, "weight": 0, "argument": [
+                    {"type": "ARG1", "word_id": 18, "text": "원뿔투영도법을", "weight": 1}
+                ]}, 
+                {"verb": "고안", "sense": 1, "word_id": 19, "weight": 0.267051, "argument": [
+                    {"type": "ARGM-PRP", "word_id": 16, "text": "위하여", "weight": 0.202515}, 
+                    {"type": "ARG1", "word_id": 18, "text": "원뿔투영도법을", "weight": 0.331586}, 
+                    {"type": "ARG0", "word_id": 0, "text": "프톨레마이오스는", "weight": 1}
+                ]}, 
+                {"verb": "이르", "sense": 1, "word_id": 23, "weight": 0.191465, "argument": [
+                    {"type": "ARG2", "word_id": 21, "text": "0°에서", "weight": 0.126084}, 
+                    {"type": "ARG3", "word_id": 22, "text": "180°에", "weight": 0.254795}, 
+                    {"type": "ARG1", "word_id": 25, "text": "반구도(半球圖)를", "weight": 0.193517}
+                ]}, 
+                {"verb": "제작", "sense": 1, "word_id": 26, "weight": 0.156854, "argument": [
+                    {"type": "ARG0", "word_id": 0, "text": "프톨레마이오스는", "weight": 0.195172}, 
+                    {"type": "ARG1", "word_id": 25, "text": "반구도(半球圖)를", "weight": 0.118536}, 
+                    {"type": "ARGM-MNR", "word_id": 19, "text": "고안하여", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "이러한 점에서 프톨레마이오스의 세계지도는 근대지도의 기초가 되었다.", 
+            "morp": [
+                {"id": 0, "lemma": "이러하", "type": "VA", "position": 328, "weight": 0.0465593}, 
+                {"id": 1, "lemma": "ㄴ", "type": "ETM", "position": 334, "weight": 0.430446}, 
+                {"id": 2, "lemma": "점", "type": "NNG", "position": 338, "weight": 0.558489}, 
+                {"id": 3, "lemma": "에서", "type": "JKB", "position": 341, "weight": 0.153407}, 
+                {"id": 4, "lemma": "프톨레마이오스", "type": "NNP", "position": 348, "weight": 0.9}, 
+                {"id": 5, "lemma": "의", "type": "JKG", "position": 369, "weight": 0.0987295}, 
+                {"id": 6, "lemma": "세계", "type": "NNG", "position": 373, "weight": 0.9}, 
+                {"id": 7, "lemma": "지도", "type": "NNG", "position": 379, "weight": 0.184498}, 
+                {"id": 8, "lemma": "는", "type": "JX", "position": 385, "weight": 0.0287565}, 
+                {"id": 9, "lemma": "근대", "type": "NNG", "position": 389, "weight": 0.324665}, 
+                {"id": 10, "lemma": "지도", "type": "NNG", "position": 395, "weight": 0.184498}, 
+                {"id": 11, "lemma": "의", "type": "JKG", "position": 401, "weight": 0.0694213}, 
+                {"id": 12, "lemma": "기초", "type": "NNG", "position": 405, "weight": 0.9}, 
+                {"id": 13, "lemma": "가", "type": "JKC", "position": 411, "weight": 0.000442184}, 
+                {"id": 14, "lemma": "되", "type": "VV", "position": 415, "weight": 0.542406}, 
+                {"id": 15, "lemma": "었", "type": "EP", "position": 418, "weight": 0.9}, 
+                {"id": 16, "lemma": "다", "type": "EF", "position": 421, "weight": 0.640954}, 
+                {"id": 17, "lemma": ".", "type": "SF", "position": 424, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이러하", "type": "VA", "scode": "000000", "weight": 1, "position": 328, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 334, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "점", "type": "NNG", "scode": "100005", "weight": 0.037037, "position": 338, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 341, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "프톨레마이오스", "type": "NNP", "scode": "000000", "weight": 1, "position": 348, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 369, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "세계지도", "type": "NNG", "scode": "000000", "weight": 1, "position": 373, "begin": 6, "end": 7}, 
+                {"id": 7, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 385, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "근대", "type": "NNG", "scode": "030002", "weight": 0.25, "position": 389, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "지도", "type": "NNG", "scode": "030000", "weight": 0.0833333, "position": 395, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 401, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "기초", "type": "NNG", "scode": "060001", "weight": 0.111111, "position": 405, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "가", "type": "JKC", "scode": "000000", "weight": 1, "position": 411, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "되", "type": "VV", "scode": "010401", "weight": 0.03125, "position": 415, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 418, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 421, "begin": 16, "end": 16}, 
+                {"id": 16, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 424, "begin": 17, "end": 17}
+            ], 
+            "word": [
+                {"id": 0, "text": "이러한", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "점에서", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "프톨레마이오스의", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "세계지도는", "type": "", "begin": 6, "end": 8}, 
+                {"id": 4, "text": "근대지도의", "type": "", "begin": 9, "end": 11}, 
+                {"id": 5, "text": "기초가", "type": "", "begin": 12, "end": 13}, 
+                {"id": 6, "text": "되었다.", "type": "", "begin": 14, "end": 17}
+            ], 
+            "NE": [
+                {"id": 0, "text": "프톨레마이오스", "type": "PS_NAME", "begin": 4, "end": 4, "weight": 0.334063, "common_noun": 0}, 
+                {"id": 1, "text": "근대", "type": "DT_OTHERS", "begin": 9, "end": 9, "weight": 0.64137, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이러한", "head": 1, "label": "VP_MOD", "mod": [], "weight": 0.77048}, 
+                {"id": 1, "text": "점에서", "head": 6, "label": "NP_AJT", "mod": [0], "weight": 0.805665}, 
+                {"id": 2, "text": "프톨레마이오스의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.695668}, 
+                {"id": 3, "text": "세계지도는", "head": 6, "label": "NP_SBJ", "mod": [2], "weight": 0.678813}, 
+                {"id": 4, "text": "근대지도의", "head": 5, "label": "NP_MOD", "mod": [], "weight": 0.740081}, 
+                {"id": 5, "text": "기초가", "head": 6, "label": "NP_CMP", "mod": [4], "weight": 0.690985}, 
+                {"id": 6, "text": "되었다.", "head": -1, "label": "VP", "mod": [1, 3, 5], "weight": 0.118409}
+            ], 
+            "SRL": [
+                {"verb": "되", "sense": 1, "word_id": 6, "weight": 0.227839, "argument": [
+                    {"type": "ARGM-PRD", "word_id": 1, "text": "점에서", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 3, "text": "세계지도는", "weight": 0.253403}, 
+                    {"type": "ARG2", "word_id": 5, "text": "기초가", "weight": 0.332446}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "프톨레마이오스는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "프톨레마이오스는"}, 
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "그의", "start_eid_short": 1, "end_eid_short": 1, "text_short": "그의"}, 
+            {"id": 16, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": 0, "text": "프톨레마이오스의", "start_eid_short": 2, "end_eid_short": 2, "text_short": "프톨레마이오스의"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "그의 세계지도를", "start_eid_short": 2, "end_eid_short": 2, "text_short": "세계지도를"}, 
+            {"id": 15, "sent_id": 1, "start_eid": 2, "end_eid": 3, "ne_id": -1, "text": "프톨레마이오스의 세계지도는", "start_eid_short": 3, "end_eid_short": 3, "text_short": "세계지도는"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 5, "end_eid": 6, "ne_id": -1, "text": "지구의 주위를", "start_eid_short": 6, "end_eid_short": 6, "text_short": "주위를"}
+        ]}, 
+        {"id": 3, "type": "LC_SPACE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": 1, "text": "지구의", "start_eid_short": 5, "end_eid_short": 5, "text_short": "지구의"}
+        ]}, 
+        {"id": 4, "type": "QT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 2, "text": "360°로", "start_eid_short": 7, "end_eid_short": 7, "text_short": "360°로"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 9, "end_eid": 9, "ne_id": -1, "text": "경위선망을", "start_eid_short": 9, "end_eid_short": 9, "text_short": "경위선망을"}, 
+            {"id": 7, "sent_id": 0, "start_eid": 12, "end_eid": 13, "ne_id": -1, "text": "이 경위선을", "start_eid_short": 12, "end_eid_short": 13, "text_short": "이 경위선을"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 14, "end_eid": 14, "ne_id": -1, "text": "평면에", "start_eid_short": 14, "end_eid_short": 14, "text_short": "평면에"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 17, "end_eid": 18, "ne_id": -1, "text": "간단한 원뿔투영도법을", "start_eid_short": 18, "end_eid_short": 18, "text_short": "원뿔투영도법을"}
+        ]}, 
+        {"id": 8, "type": "QT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 0, "start_eid": 20, "end_eid": 21, "ne_id": 3, "text": "위도 0°에서", "start_eid_short": 21, "end_eid_short": 21, "text_short": "0°에서"}
+        ]}, 
+        {"id": 9, "type": "QT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 0, "start_eid": 22, "end_eid": 22, "ne_id": 4, "text": "180°에", "start_eid_short": 22, "end_eid_short": 22, "text_short": "180°에"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 0, "start_eid": 24, "end_eid": 24, "ne_id": -1, "text": "세계", "start_eid_short": 24, "end_eid_short": 24, "text_short": "세계"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "점에서", "start_eid_short": 1, "end_eid_short": 1, "text_short": "점에서"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 4, "end_eid": 5, "ne_id": -1, "text": "근대지도의 기초가", "start_eid_short": 5, "end_eid_short": 5, "text_short": "기초가"}
+        ]}, 
+        {"id": 13, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 18, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": 1, "text": "근대지도의", "start_eid_short": 4, "end_eid_short": 4, "text_short": "근대지도의"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 20, "end_eid": 25, "ne_id": -1, "text": "위도 0°에서 180°에 이르는 세계 반구도(半球圖)를", "start_eid_short": 25, "end_eid_short": 25, "text_short": "반구도(半球圖)를"}
+        ]}
+    ]
+}

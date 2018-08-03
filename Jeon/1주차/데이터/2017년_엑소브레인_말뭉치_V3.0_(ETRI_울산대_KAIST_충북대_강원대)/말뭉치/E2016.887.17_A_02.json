@@ -1,0 +1,231 @@
+{
+    "doc_id": "E2016.887.17_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "디오라마", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "미니어처로 제작된 모형과 배경을 설치하여 역사적인 전투 장면과 같이 특정한 상황의 한 장면으로 구성하여 실제로 보는 것처럼 느끼도록 만든 것 또는 그러한 배치.", 
+            "morp": [
+                {"id": 0, "lemma": "미니어처", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "로", "type": "JKB", "position": 12, "weight": 0.153229}, 
+                {"id": 2, "lemma": "제작", "type": "NNG", "position": 16, "weight": 0.9}, 
+                {"id": 3, "lemma": "되", "type": "XSV", "position": 22, "weight": 0.000224177}, 
+                {"id": 4, "lemma": "ㄴ", "type": "ETM", "position": 22, "weight": 0.392321}, 
+                {"id": 5, "lemma": "모형", "type": "NNG", "position": 26, "weight": 0.657448}, 
+                {"id": 6, "lemma": "과", "type": "JC", "position": 32, "weight": 0.017569}, 
+                {"id": 7, "lemma": "배경", "type": "NNG", "position": 36, "weight": 0.9}, 
+                {"id": 8, "lemma": "을", "type": "JKO", "position": 42, "weight": 0.129611}, 
+                {"id": 9, "lemma": "설치", "type": "NNG", "position": 46, "weight": 0.0749782}, 
+                {"id": 10, "lemma": "하", "type": "XSV", "position": 52, "weight": 0.0001}, 
+                {"id": 11, "lemma": "아", "type": "EC", "position": 55, "weight": 0.361326}, 
+                {"id": 12, "lemma": "역사", "type": "NNG", "position": 59, "weight": 0.219349}, 
+                {"id": 13, "lemma": "적", "type": "XSN", "position": 65, "weight": 0.0168756}, 
+                {"id": 14, "lemma": "이", "type": "VCP", "position": 68, "weight": 0.0165001}, 
+                {"id": 15, "lemma": "ㄴ", "type": "ETM", "position": 68, "weight": 0.220712}, 
+                {"id": 16, "lemma": "전투", "type": "NNG", "position": 72, "weight": 0.9}, 
+                {"id": 17, "lemma": "장면", "type": "NNG", "position": 79, "weight": 0.183229}, 
+                {"id": 18, "lemma": "과", "type": "JKB", "position": 85, "weight": 0.0503087}, 
+                {"id": 19, "lemma": "같이", "type": "MAG", "position": 89, "weight": 0.0382452}, 
+                {"id": 20, "lemma": "특정", "type": "NNG", "position": 96, "weight": 0.9}, 
+                {"id": 21, "lemma": "하", "type": "XSA", "position": 102, "weight": 0.0001}, 
+                {"id": 22, "lemma": "ㄴ", "type": "ETM", "position": 102, "weight": 0.488779}, 
+                {"id": 23, "lemma": "상황", "type": "NNG", "position": 106, "weight": 0.9}, 
+                {"id": 24, "lemma": "의", "type": "JKG", "position": 112, "weight": 0.0694213}, 
+                {"id": 25, "lemma": "한", "type": "MM", "position": 116, "weight": 0.0231003}, 
+                {"id": 26, "lemma": "장면", "type": "NNG", "position": 120, "weight": 0.731026}, 
+                {"id": 27, "lemma": "으로", "type": "JKB", "position": 126, "weight": 0.153406}, 
+                {"id": 28, "lemma": "구성", "type": "NNG", "position": 133, "weight": 0.207604}, 
+                {"id": 29, "lemma": "하", "type": "XSV", "position": 139, "weight": 0.0001}, 
+                {"id": 30, "lemma": "아", "type": "EC", "position": 142, "weight": 0.361326}, 
+                {"id": 31, "lemma": "실제로", "type": "MAG", "position": 146, "weight": 0.9}, 
+                {"id": 32, "lemma": "보", "type": "VV", "position": 156, "weight": 0.237962}, 
+                {"id": 33, "lemma": "는", "type": "ETM", "position": 159, "weight": 0.184941}, 
+                {"id": 34, "lemma": "것", "type": "NNB", "position": 163, "weight": 0.228788}, 
+                {"id": 35, "lemma": "처럼", "type": "JKB", "position": 166, "weight": 0.9}, 
+                {"id": 36, "lemma": "느끼", "type": "VV", "position": 173, "weight": 0.9}, 
+                {"id": 37, "lemma": "도록", "type": "EC", "position": 179, "weight": 0.429228}, 
+                {"id": 38, "lemma": "만들", "type": "VV", "position": 186, "weight": 0.9}, 
+                {"id": 39, "lemma": "ㄴ", "type": "ETM", "position": 189, "weight": 0.304215}, 
+                {"id": 40, "lemma": "것", "type": "NNB", "position": 193, "weight": 0.228788}, 
+                {"id": 41, "lemma": "또는", "type": "MAJ", "position": 197, "weight": 0.00032659}, 
+                {"id": 42, "lemma": "그러하", "type": "VA", "position": 204, "weight": 0.9}, 
+                {"id": 43, "lemma": "ㄴ", "type": "ETM", "position": 210, "weight": 0.430446}, 
+                {"id": 44, "lemma": "배치", "type": "NNG", "position": 214, "weight": 0.9}, 
+                {"id": 45, "lemma": ".", "type": "SF", "position": 220, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "미니어처", "type": "NNG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 12, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "제작되", "type": "VV", "scode": "000000", "weight": 1, "position": 16, "begin": 2, "end": 3}, 
+                {"id": 3, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 22, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "모형", "type": "NNG", "scode": "050002", "weight": 0.142857, "position": 26, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 32, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "배경", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 36, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 42, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "설치하", "type": "VV", "scode": "010000", "weight": 0.25, "position": 46, "begin": 9, "end": 10}, 
+                {"id": 9, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 55, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "역사적", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 59, "begin": 12, "end": 13}, 
+                {"id": 11, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 68, "begin": 14, "end": 14}, 
+                {"id": 12, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 68, "begin": 15, "end": 15}, 
+                {"id": 13, "text": "전투", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 72, "begin": 16, "end": 16}, 
+                {"id": 14, "text": "장면", "type": "NNG", "scode": "040002", "weight": 0.142857, "position": 79, "begin": 17, "end": 17}, 
+                {"id": 15, "text": "과", "type": "JKB", "scode": "000000", "weight": 1, "position": 85, "begin": 18, "end": 18}, 
+                {"id": 16, "text": "같이", "type": "MAG", "scode": "000101", "weight": 0.25, "position": 89, "begin": 19, "end": 19}, 
+                {"id": 17, "text": "특정하", "type": "VA", "scode": "000000", "weight": 1, "position": 96, "begin": 20, "end": 21}, 
+                {"id": 18, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 102, "begin": 22, "end": 22}, 
+                {"id": 19, "text": "상황", "type": "NNG", "scode": "020000", "weight": 0.2, "position": 106, "begin": 23, "end": 23}, 
+                {"id": 20, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 112, "begin": 24, "end": 24}, 
+                {"id": 21, "text": "한", "type": "MM", "scode": "010002", "weight": 0.0357143, "position": 116, "begin": 25, "end": 25}, 
+                {"id": 22, "text": "장면", "type": "NNG", "scode": "040002", "weight": 0.142857, "position": 120, "begin": 26, "end": 26}, 
+                {"id": 23, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 126, "begin": 27, "end": 27}, 
+                {"id": 24, "text": "구성하", "type": "VV", "scode": "000001", "weight": 0.333333, "position": 133, "begin": 28, "end": 29}, 
+                {"id": 25, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 142, "begin": 30, "end": 30}, 
+                {"id": 26, "text": "실제로", "type": "MAG", "scode": "000000", "weight": 1, "position": 146, "begin": 31, "end": 31}, 
+                {"id": 27, "text": "보", "type": "VV", "scode": "010101", "weight": 0.025641, "position": 156, "begin": 32, "end": 32}, 
+                {"id": 28, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 159, "begin": 33, "end": 33}, 
+                {"id": 29, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 163, "begin": 34, "end": 34}, 
+                {"id": 30, "text": "처럼", "type": "JKB", "scode": "000000", "weight": 1, "position": 166, "begin": 35, "end": 35}, 
+                {"id": 31, "text": "느끼", "type": "VV", "scode": "020002", "weight": 0.166667, "position": 173, "begin": 36, "end": 36}, 
+                {"id": 32, "text": "도록", "type": "EC", "scode": "000000", "weight": 1, "position": 179, "begin": 37, "end": 37}, 
+                {"id": 33, "text": "만들", "type": "VV", "scode": "000101", "weight": 0.0769231, "position": 186, "begin": 38, "end": 38}, 
+                {"id": 34, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 189, "begin": 39, "end": 39}, 
+                {"id": 35, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 193, "begin": 40, "end": 40}, 
+                {"id": 36, "text": "또는", "type": "MAJ", "scode": "000000", "weight": 1, "position": 197, "begin": 41, "end": 41}, 
+                {"id": 37, "text": "그러하", "type": "VA", "scode": "000001", "weight": 0.333333, "position": 204, "begin": 42, "end": 42}, 
+                {"id": 38, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 210, "begin": 43, "end": 43}, 
+                {"id": 39, "text": "배치", "type": "NNG", "scode": "030000", "weight": 0.25, "position": 214, "begin": 44, "end": 44}, 
+                {"id": 40, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 220, "begin": 45, "end": 45}
+            ], 
+            "word": [
+                {"id": 0, "text": "미니어처로", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "제작된", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "모형과", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "배경을", "type": "", "begin": 7, "end": 8}, 
+                {"id": 4, "text": "설치하여", "type": "", "begin": 9, "end": 11}, 
+                {"id": 5, "text": "역사적인", "type": "", "begin": 12, "end": 15}, 
+                {"id": 6, "text": "전투", "type": "", "begin": 16, "end": 16}, 
+                {"id": 7, "text": "장면과", "type": "", "begin": 17, "end": 18}, 
+                {"id": 8, "text": "같이", "type": "", "begin": 19, "end": 19}, 
+                {"id": 9, "text": "특정한", "type": "", "begin": 20, "end": 22}, 
+                {"id": 10, "text": "상황의", "type": "", "begin": 23, "end": 24}, 
+                {"id": 11, "text": "한", "type": "", "begin": 25, "end": 25}, 
+                {"id": 12, "text": "장면으로", "type": "", "begin": 26, "end": 27}, 
+                {"id": 13, "text": "구성하여", "type": "", "begin": 28, "end": 30}, 
+                {"id": 14, "text": "실제로", "type": "", "begin": 31, "end": 31}, 
+                {"id": 15, "text": "보는", "type": "", "begin": 32, "end": 33}, 
+                {"id": 16, "text": "것처럼", "type": "", "begin": 34, "end": 35}, 
+                {"id": 17, "text": "느끼도록", "type": "", "begin": 36, "end": 37}, 
+                {"id": 18, "text": "만든", "type": "", "begin": 38, "end": 39}, 
+                {"id": 19, "text": "것", "type": "", "begin": 40, "end": 40}, 
+                {"id": 20, "text": "또는", "type": "", "begin": 41, "end": 41}, 
+                {"id": 21, "text": "그러한", "type": "", "begin": 42, "end": 43}, 
+                {"id": 22, "text": "배치.", "type": "", "begin": 44, "end": 45}
+            ], 
+            "NE": [
+                {"id": 0, "text": "한 장면", "type": "QT_COUNT", "begin": 25, "end": 26, "weight": 0.424024, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "미니어처로", "head": 1, "label": "NP_AJT", "mod": [], "weight": 0.316724}, 
+                {"id": 1, "text": "제작된", "head": 3, "label": "VP_MOD", "mod": [0], "weight": 0.736624}, 
+                {"id": 2, "text": "모형과", "head": 3, "label": "NP_CNJ", "mod": [], "weight": 0.714676}, 
+                {"id": 3, "text": "배경을", "head": 4, "label": "NP_OBJ", "mod": [1, 2], "weight": 0.785264}, 
+                {"id": 4, "text": "설치하여", "head": 13, "label": "VP", "mod": [3], "weight": 0.706216}, 
+                {"id": 5, "text": "역사적인", "head": 7, "label": "VNP_MOD", "mod": [], "weight": 0.628068}, 
+                {"id": 6, "text": "전투", "head": 7, "label": "NP", "mod": [], "weight": 0.718274}, 
+                {"id": 7, "text": "장면과", "head": 8, "label": "NP_AJT", "mod": [5, 6], "weight": 0.533465}, 
+                {"id": 8, "text": "같이", "head": 13, "label": "AP", "mod": [7], "weight": 0.674041}, 
+                {"id": 9, "text": "특정한", "head": 10, "label": "VP_MOD", "mod": [], "weight": 0.62541}, 
+                {"id": 10, "text": "상황의", "head": 12, "label": "NP_MOD", "mod": [9], "weight": 0.691749}, 
+                {"id": 11, "text": "한", "head": 12, "label": "DP", "mod": [], "weight": 0.62822}, 
+                {"id": 12, "text": "장면으로", "head": 13, "label": "NP_AJT", "mod": [10, 11], "weight": 0.796633}, 
+                {"id": 13, "text": "구성하여", "head": 17, "label": "VP", "mod": [4, 8, 12], "weight": 0.309036}, 
+                {"id": 14, "text": "실제로", "head": 15, "label": "AP", "mod": [], "weight": 0.846043}, 
+                {"id": 15, "text": "보는", "head": 16, "label": "VP_MOD", "mod": [14], "weight": 0.88308}, 
+                {"id": 16, "text": "것처럼", "head": 17, "label": "NP_AJT", "mod": [15], "weight": 0.709849}, 
+                {"id": 17, "text": "느끼도록", "head": 18, "label": "VP", "mod": [16, 13], "weight": 0.819612}, 
+                {"id": 18, "text": "만든", "head": 19, "label": "VP_MOD", "mod": [17], "weight": 0.779026}, 
+                {"id": 19, "text": "것", "head": 22, "label": "NP_CNJ", "mod": [18], "weight": 0.240871}, 
+                {"id": 20, "text": "또는", "head": 22, "label": "AP", "mod": [], "weight": 0.805085}, 
+                {"id": 21, "text": "그러한", "head": 22, "label": "VP_MOD", "mod": [], "weight": 0.776397}, 
+                {"id": 22, "text": "배치.", "head": -1, "label": "NP", "mod": [19, 20, 21], "weight": 4.04884e-05}
+            ], 
+            "SRL": [
+                {"verb": "제작", "sense": 1, "word_id": 1, "weight": 0.149082, "argument": [
+                    {"type": "ARGM-INS", "word_id": 0, "text": "미니어처로", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 3, "text": "배경을", "weight": 1}
+                ]}, 
+                {"verb": "설치", "sense": 1, "word_id": 4, "weight": 0.367309, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "배경을", "weight": 0.367309}
+                ]}, 
+                {"verb": "특정", "sense": 1, "word_id": 9, "weight": 0.160618, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "상황의", "weight": 0.188641}
+                ]}, 
+                {"verb": "구성", "sense": 1, "word_id": 13, "weight": 0.15473, "argument": [
+                    {"type": "ARG2", "word_id": 12, "text": "장면으로", "weight": 0.15473}
+                ]}, 
+                {"verb": "보", "sense": 1, "word_id": 15, "weight": 0.0968889, "argument": [
+                    {"type": "ARG1", "word_id": 12, "text": "장면으로", "weight": 1}
+                ]}, 
+                {"verb": "느끼", "sense": 1, "word_id": 17, "weight": 0, "argument": [
+                    {"type": "ARG1", "word_id": 16, "text": "것처럼", "weight": 1}, 
+                    {"type": "ARGM-MNR", "word_id": 13, "text": "구성하여", "weight": 1}
+                ]}, 
+                {"verb": "만들", "sense": 1, "word_id": 18, "weight": 0.0792411, "argument": [
+                    {"type": "ARGM-PRP", "word_id": 17, "text": "느끼도록", "weight": 0.0792411}, 
+                    {"type": "ARG1", "word_id": 19, "text": "것", "weight": 1}
+                ]}, 
+                {"verb": "그러하", "sense": 1, "word_id": 21, "weight": 0.135352, "argument": [
+                    {"type": "ARG1", "word_id": 22, "text": "배치.", "weight": 0.135352}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "미니어처로 제작된 모형과 배경을", "start_eid_short": 3, "end_eid_short": 3, "text_short": "배경을"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "미니어처로", "start_eid_short": 0, "end_eid_short": 0, "text_short": "미니어처로"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "모형과", "start_eid_short": 2, "end_eid_short": 2, "text_short": "모형과"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 5, "end_eid": 7, "ne_id": -1, "text": "역사적인 전투 장면과", "start_eid_short": 6, "end_eid_short": 7, "text_short": "전투 장면과"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "전투", "start_eid_short": 6, "end_eid_short": 6, "text_short": "전투"}
+        ]}, 
+        {"id": 5, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 12, "ne_id": 0, "text": "역사적인 전투 장면과 같이 특정한 상황의 한 장면으로", "start_eid_short": 12, "end_eid_short": 12, "text_short": "장면으로"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 10, "end_eid": 10, "ne_id": -1, "text": "상황의", "start_eid_short": 10, "end_eid_short": 10, "text_short": "상황의"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 14, "end_eid": 19, "ne_id": -1, "text": "실제로 보는 것처럼 느끼도록 만든 것", "start_eid_short": 19, "end_eid_short": 19, "text_short": "것"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 14, "end_eid": 16, "ne_id": -1, "text": "실제로 보는 것처럼", "start_eid_short": 16, "end_eid_short": 16, "text_short": "것처럼"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "배경을", "start_eid_short": 3, "end_eid_short": 3, "text_short": "배경을"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 14, "end_eid": 22, "ne_id": -1, "text": "실제로 보는 것처럼 느끼도록 만든 것 또는 그러한 배치.", "start_eid_short": 22, "end_eid_short": 22, "text_short": "배치."}
+        ]}
+    ]
+}

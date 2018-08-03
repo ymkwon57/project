@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+히말라야 산맥(Himalayas)는 인도 대륙과 중국의 티베트 고원 사이에 형성되어 있는 산맥이다. 세계에서 가장 높은 산맥으로 해발 7,300m 이상의 고봉이 30여 개나 분포한다. 히말라야 산맥은 북서쪽에서 남동방향으로 활 모양을 그리며 파키스탄, 인도 북부, 네팔, 시킴, 부탄, 티베트 남부를 뻗어내리면서 몇 갈래의 산계로 이루어져 있다. 서쪽 파키스탄의 낭가파르바트산까지 이어지는 산맥이 가장 정통한 히말라야 산맥이며, 이 지역을 대히말라야(Great Himalaya)라고 부른다. 히말라야 산중의 왕으로 불리는 낭가파르밧산은 히말라야 산맥의 8,000m 이상 고봉중 가장 서쪽에 위치하고 있다. 지리적으로 다른 거봉들과 떨어져 있다.
+히말라야 지층이 동서 방향인데 반해 인도 대륙 지층은 남쪽 방향이라는 것과, 바다 생물 화석과 퇴적층이 히말라야 산맥에서 발견되는 점을 들어 지질시대에는 이 지역이 바다였다가 융기했음을 설명하고 있다.
+세계 10대 최고봉 중 8개가 있다는 '세계의 지붕'이라는 히말라야 산맥이 있는 나라 네팔이다. 면적은 우리 한반도의 3분의 2 정도이며 인도, 티베트(중국)와 국경을 마주하고 있다. 수도인 카트만두는 해발 1280 미터의 분지에 자리잡고 있다.
+세계의 지붕이라 불리는 히말라야 산맥은 18세기경, 기독교 선교사들과 측량국 직원들이 드나들면서 처음으로 세상에 알려졌다. 7천만년전 인도대륙이 북상하면서 티베트 지역과 부딪히면서 생겨난 산맥이다. 에베레스트산은 히말라야 산맥이 생겨나면서 솟아난 봉우리 중에서 가장 높은 봉우리다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl2" start="28" end="30" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="32" end="38" text="티베트 고원" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="87" end="89" text="고봉" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="136" end="140" text="파키스탄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="149" end="151" text="네팔" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="153" end="155" text="시킴" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="157" end="159" text="부탄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="198" end="202" text="파키스탄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="204" end="211" text="낭가파르바트산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="243" end="245" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="247" end="252" text="대히말라야" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="276" end="282" text="히말라야 산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="320" end="322" text="고봉" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="349" end="352" text="거봉들" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="405" end="407" text="바다" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="454" end="456" text="바다" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="482" end="485" text="최고봉" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="520" end="522" text="나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="523" end="525" text="네팔" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="536" end="539" text="한반도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="552" end="554" text="인도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="556" end="559" text="티베트" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="560" end="562" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="578" end="580" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="582" end="586" text="카트만두" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="600" end="602" text="분지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me2" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="724" end="730" text="에베레스트산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="765" end="768" text="봉우리" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="높은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl46" start="415" end="418" text="퇴적층" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl47" start="293" end="299" text="낭가파르밧산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="340" />
+<PLACE id="pl0" start="21" end="26" text="인도 대륙" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="142" end="147" text="인도 북부" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="161" end="167" text="티베트 남부" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="362" end="369" text="히말라야 지층" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="382" end="390" text="인도 대륙 지층" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="700" end="706" text="티베트 지역" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="1" end="8" text="히말라야 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="51" end="53" text="산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="68" end="70" text="산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="높은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="104" end="111" text="히말라야 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p4" start="182" end="184" text="산계" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p5" start="219" end="221" text="산맥" beginID="" endID="pl13" midIDs="" type="MTS" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p6" start="230" end="237" text="히말라야 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p7" start="301" end="308" text="히말라야 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p8" start="420" end="427" text="히말라야 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p9" start="508" end="515" text="히말라야 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p10" start="565" end="567" text="국경" beginID="" endID="" midIDs="" type="BOUNDARY" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p11" start="718" end="720" text="산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p12" start="732" end="739" text="히말라야 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p13" start="-1" end="-1" text=" " beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="56" />
+<PATH id="p14" start="626" end="633" text="히말라야 산맥" beginID="" endID="" midIDs="" type="" dimensionality="" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="646" end="650" text="선교사들" type="PERSON" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="656" end="659" text="직원들" type="PERSON" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="688" end="692" text="인도대륙" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="751" end="754" text="봉우리" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="450" end="452" text="지역" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="53" end="54" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="237" end="238" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e3" start="331" end="334" text="위치하" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e4" start="430" end="433" text="발견되" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e5" start="456" end="457" text="였" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e6" start="517" end="518" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e7" start="525" end="526" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e8" start="604" end="607" text="자리잡" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e9" start="676" end="679" text="알려졌" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e11" start="714" end="716" text="생겨" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e12" start="720" end="721" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e13" start="741" end="743" text="생겨" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e14" start="271" end="273" text="부른" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e15" start="289" end="291" text="불리" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e16" start="492" end="493" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e17" start="504" end="505" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e18" start="619" end="620" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e19" start="622" end="624" text="불리" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="48" end="49" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e20" start="191" end="192" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e21" start="336" end="337" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e22" start="471" end="472" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e23" start="574" end="575" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e24" start="580" end="581" text="인" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="460" end="463" text="융기했" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_INTERNAL" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="661" end="664" text="드나들" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="694" end="697" text="북상하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="DEVIATE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="747" end="748" text="솟" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_INTERNAL" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m5" start="708" end="711" text="부딪히" domain="" latLong="" elevation="" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s7" start="327" end="329" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="354" end="357" text="떨어져" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="569" end="572" text="마주하" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="39" end="41" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s13" start="214" end="217" text="이어지" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="602" end="603" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="195" end="197" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="30" end="31" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="202" end="203" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="308" end="309" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me2" start="591" end="598" text="1280 미터" value="1280" unit="m" comment="" />
+<MEASURE id="me0" start="76" end="82" text="7,300m" value="7300" unit="m" comment="" />
+<MEASURE id="me1" start="310" end="316" text="8,000m" value="8000" unit="m" comment="" />
+<SENTENCE id="sent0" start="1" end="56" text="히말라야 산맥(Himalayas)는 인도 대륙과 중국의 티베트 고원 사이에 형성되어 있는 산맥이다." comment="" />
+<SENTENCE id="sent1" start="57" end="103" text="세계에서 가장 높은 산맥으로 해발 7,300m 이상의 고봉이 30여 개나 분포한다." comment="" />
+<SENTENCE id="sent2" start="104" end="194" text="히말라야 산맥은 북서쪽에서 남동방향으로 활 모양을 그리며 파키스탄, 인도 북부, 네팔, 시킴, 부탄, 티베트 남부를 뻗어내리면서 몇 갈래의 산계로 이루어져 있다." comment="" />
+<SENTENCE id="sent3" start="195" end="275" text="서쪽 파키스탄의 낭가파르바트산까지 이어지는 산맥이 가장 정통한 히말라야 산맥이며, 이 지역을 대히말라야(Great Himalaya)라고 부른다." comment="" />
+<SENTENCE id="sent4" start="276" end="339" text="히말라야 산중의 왕으로 불리는 낭가파르밧산은 히말라야 산맥의 8,000m 이상 고봉중 가장 서쪽에 위치하고 있다." comment="" />
+<SENTENCE id="sent5" start="340" end="361" text="지리적으로 다른 거봉들과 떨어져 있다." comment="" />
+<SENTENCE id="sent6" start="362" end="474" text="히말라야 지층이 동서 방향인데 반해 인도 대륙 지층은 남쪽 방향이라는 것과, 바다 생물 화석과 퇴적층이 히말라야 산맥에서 발견되는 점을 들어 지질시대에는 이 지역이 바다였다가 융기했음을 설명하고 있다." comment="" />
+<SENTENCE id="sent7" start="475" end="528" text="세계 10대 최고봉 중 8개가 있다는 '세계의 지붕'이라는 히말라야 산맥이 있는 나라 네팔이다." comment="" />
+<SENTENCE id="sent8" start="529" end="577" text="면적은 우리 한반도의 3분의 2 정도이며 인도, 티베트(중국)와 국경을 마주하고 있다." comment="" />
+<SENTENCE id="sent9" start="578" end="612" text="수도인 카트만두는 해발 1280 미터의 분지에 자리잡고 있다." comment="" />
+<SENTENCE id="sent10" start="613" end="681" text="세계의 지붕이라 불리는 히말라야 산맥은 18세기경, 기독교 선교사들과 측량국 직원들이 드나들면서 처음으로 세상에 알려졌다." comment="" />
+<SENTENCE id="sent11" start="682" end="723" text="7천만년전 인도대륙이 북상하면서 티베트 지역과 부딪히면서 생겨난 산맥이다." comment="" />
+<SENTENCE id="sent12" start="724" end="770" text="에베레스트산은 히말라야 산맥이 생겨나면서 솟아난 봉우리 중에서 가장 높은 봉우리다." comment="" />
+<QSLINK id="qsl4" fromID="pl30" fromText="" toID="pl19" toText="거봉들" relType="DC" trajector="pl30" landmark="pl19" trigger="s8" comment="" />
+<QSLINK id="qsl5" fromID="pl32" fromText="인도" toID="p10" toText="국경" relType="OUT" trajector="pl32" landmark="p10" trigger="s10" comment="" />
+<QSLINK id="qsl6" fromID="pl33" fromText="티베트" toID="p10" toText="국경" relType="OUT" trajector="pl33" landmark="p10" trigger="s10" comment="" />
+<QSLINK id="qsl8" fromID="pl3" fromText="티베트 고원" toID="p1" toText="산맥" relType="OUT" trajector="p1" landmark="pl3" trigger="s12" comment="" />
+<QSLINK id="qsl10" fromID="p5" fromText="산맥" toID="pl13" toText="낭가파르바트산" relType="EC" trajector="p5" landmark="pl13" trigger="s13" comment="" />
+<QSLINK id="qsl12" fromID="pl36" fromText="카트만두" toID="pl37" toText="분지" relType="NTPP" trajector="pl36" landmark="pl37" trigger="s3" comment="" />
+<QSLINK id="qsl0" fromID="pl3" fromText="티베트 고원" toID="pl2" toText="중국" relType="IN" trajector="pl3" landmark="pl2" trigger="s0" comment="" />
+<QSLINK id="qsl2" fromID="p1" fromText="산맥" toID="pl0" toText="인도 대륙" relType="OUT" trajector="p1" landmark="pl0" trigger="s12" comment="" />
+<QSLINK id="qsl13" fromID="p0" fromText="히말라야 산맥" toID="pl3" toText="티베트 고원" relType="OUT" trajector="p0" landmark="pl3" trigger="s12" comment="" />
+<QSLINK id="qsl14" fromID="pl0" fromText="인도 대륙" toID="pl3" toText="티베트 고원" relType="DC" trajector="pl0" landmark="pl3" trigger="s12" comment="" />
+<QSLINK id="qsl15" fromID="pl13" fromText="낭가파르바트산" toID="pl12" toText="파키스탄" relType="IN" trajector="pl13" landmark="pl12" trigger="s1" comment="" />
+<QSLINK id="qsl16" fromID="p6" fromText="히말라야 산맥" toID="pl13" toText="낭가파르바트산" relType="EC" trajector="p6" landmark="pl13" trigger="s13" comment="" />
+<QSLINK id="qsl1" fromID="pl18" fromText="고봉" toID="p7" toText="히말라야 산맥" relType="NTPP" trajector="pl18" landmark="p7" trigger="s2" comment="" />
+<OLINK id="ol7" fromID="p7" fromText="히말라야 산맥" toID="pl47" toText="낭가파르밧산" relType="서" trajector="pl47" landmark="p7" trigger="s7" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl12" fromText="파키스탄" toID="pl13" toText="낭가파르바트산" relType="서" trajector="pl7" landmark="pl12" trigger="s9" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<MOVELINK id="mvl1" fromID="se0" fromText="선교사들" toID="m2" toText="드나들" trigger="m2" source="" goal="" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="p14" motion_signalID="" comment="" />
+<MOVELINK id="mvl2" fromID="se1" fromText="직원들" toID="m2" toText="드나들" trigger="m2" source="" goal="" midPoint="" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="p14" motion_signalID="" comment="" />
+<MOVELINK id="mvl6" fromID="se2" fromText="인도대륙" toID="m3" toText="북상하" trigger="m3" source="" goal="pl20" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl7" fromID="se3" fromText="봉우리" toID="m4" toText="솟" trigger="m4" source="" goal="" midPoint="" mover="se3" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl8" fromID="se4" fromText="지역" toID="m1" toText="융기했" trigger="m1" source="" goal="" midPoint="" mover="se4" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MEASURELINK id="ml0" fromID="me2" fromText="1280 미터" toID="pl37" toText="분지" trajector="pl37" landmark="pl37" relType="HEIGHT" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="me0" fromText="7,300m 이상" toID="pl4" toText="고봉" trajector="pl4" landmark="pl4" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="me1" fromText="8,000m 이상" toID="pl18" toText="고봉" trajector="pl18" landmark="pl18" relType="HEIGHT" val="me1" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="pl30" fromText="" toID="pl47" toText="낭가파르밧산" objectID1="pl30" objectID2="pl47" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="p0" fromText="히말라야 산맥" toID="p1" toText="산맥" objectID1="p1" objectID2="p0" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="p0" fromText="히말라야 산맥" toID="p13" toText=" " objectID1="p13" objectID2="p0" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal4" fromID="p13" fromText=" " toID="p2" toText="산맥" objectID1="p13" objectID2="p2" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="p5" fromText="산맥" toID="p6" toText="히말라야 산맥" objectID1="p5" objectID2="p6" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="pl14" fromText="지역" toID="pl15" toText="대히말라야" objectID1="pl14" objectID2="pl15" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="p9" fromText="히말라야 산맥" toID="pl29" toText="네팔" objectID1="p9" objectID2="pl29" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal14" fromID="pl33" fromText="티베트" toID="pl34" toText="중국" objectID1="pl33" objectID2="pl34" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal15" fromID="pl35" fromText="수도" toID="pl36" toText="카트만두" objectID1="pl35" objectID2="pl36" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="pl43" fromText="에베레스트산" toID="pl45" toText="봉우리" objectID1="pl45" objectID2="pl43" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

@@ -1,0 +1,24 @@
+자바 스크립트 - 웹 브라우저
+브라우저를 제어하기 위한 프로그래밍 언어
+
+탈웹브라우저 : 자바스크립트가 웹 제어로만 사용되는게 아님!
+-웹서버 - node.js
+웹서버 : php, java, python, ruby...
+웹브라우저 : 주소를 치면 주소에 해당하는 컴퓨터를 찾아서 웹서버에 요청
+
+탈웹
+
+https://web-n.github.io/web2_javascript/
+f12 elements : tag
+
+input에 type="button"을 주면  button이 됨
+value="night" : 글자
+onclick="" : 속성으로 자바스크립트가 와야함
+-> onclick에 속한것을 클릭했을때 그 안에 있는 코드 실행
+
+body : 화면 전체를 포함하는 큰 틀
+body tag에 background style
+
+cf) css : 디자인하는것에 최적화된 언어
+
+자바스크립트 : html 위에서 시작

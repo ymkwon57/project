@@ -1,0 +1,86 @@
+{
+    "doc_id": "E2016.836.02_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "세계 최초로 금연국을 선포한 나라는?", 
+            "morp": [
+                {"id": 0, "lemma": "세계", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "최초", "type": "NNG", "position": 7, "weight": 0.9}, 
+                {"id": 2, "lemma": "로", "type": "JKB", "position": 13, "weight": 0.153229}, 
+                {"id": 3, "lemma": "금연", "type": "NNG", "position": 17, "weight": 0.20677}, 
+                {"id": 4, "lemma": "국", "type": "XSN", "position": 23, "weight": 0.0205107}, 
+                {"id": 5, "lemma": "을", "type": "JKO", "position": 26, "weight": 0.0819193}, 
+                {"id": 6, "lemma": "선포", "type": "NNG", "position": 30, "weight": 0.9}, 
+                {"id": 7, "lemma": "하", "type": "XSV", "position": 36, "weight": 0.0001}, 
+                {"id": 8, "lemma": "ㄴ", "type": "ETM", "position": 36, "weight": 0.392321}, 
+                {"id": 9, "lemma": "나라", "type": "NNG", "position": 40, "weight": 0.657386}, 
+                {"id": 10, "lemma": "는", "type": "JX", "position": 46, "weight": 0.0287565}, 
+                {"id": 11, "lemma": "?", "type": "SF", "position": 49, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "세계", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "최초", "type": "NNG", "scode": "000000", "weight": 1, "position": 7, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 13, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "금연", "type": "NNG", "scode": "010002", "weight": 0.333333, "position": 17, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "국", "type": "XSN", "scode": "100000", "weight": 0.0909091, "position": 23, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 26, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "선포하", "type": "VV", "scode": "000000", "weight": 1, "position": 30, "begin": 6, "end": 7}, 
+                {"id": 7, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 36, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "나라", "type": "NNG", "scode": "010001", "weight": 0.25, "position": 40, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 46, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 49, "begin": 11, "end": 11}
+            ], 
+            "word": [
+                {"id": 0, "text": "세계", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "최초로", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "금연국을", "type": "", "begin": 3, "end": 5}, 
+                {"id": 3, "text": "선포한", "type": "", "begin": 6, "end": 8}, 
+                {"id": 4, "text": "나라는?", "type": "", "begin": 9, "end": 11}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "세계", "head": 1, "label": "NP", "mod": [], "weight": 0.885113}, 
+                {"id": 1, "text": "최초로", "head": 3, "label": "NP_AJT", "mod": [0], "weight": 0.604838}, 
+                {"id": 2, "text": "금연국을", "head": 3, "label": "NP_OBJ", "mod": [], "weight": 0.737614}, 
+                {"id": 3, "text": "선포한", "head": 4, "label": "VP_MOD", "mod": [1, 2], "weight": 0.663683}, 
+                {"id": 4, "text": "나라는?", "head": -1, "label": "NP", "mod": [3], "weight": 0.227379}
+            ], 
+            "SRL": [
+                {"verb": "선포", "sense": 1, "word_id": 3, "weight": 0.181705, "argument": [
+                    {"type": "ARGM-PRD", "word_id": 1, "text": "최초로", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 2, "text": "금연국을", "weight": 0.326884}, 
+                    {"type": "ARG0", "word_id": 4, "text": "나라는?", "weight": 0.144381}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "세계 최초로 금연국을 선포한 나라는?", "start_eid_short": 4, "end_eid_short": 4, "text_short": "나라는?"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "세계 최초로", "start_eid_short": 0, "end_eid_short": 1, "text_short": "세계 최초로"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "세계", "start_eid_short": 0, "end_eid_short": 0, "text_short": "세계"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "금연국을", "start_eid_short": 2, "end_eid_short": 2, "text_short": "금연국을"}
+        ]}
+    ]
+}

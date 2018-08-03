@@ -1,0 +1,568 @@
+{
+    "doc_id": "E2016.790.15_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "파킨슨병", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "뇌의 신경세포 손상으로 손과 팔에 경련이 일어나고, 다리는 보행이 어려워지는 손상을 입는 질병이다.", 
+            "morp": [
+                {"id": 0, "lemma": "뇌", "type": "NNG", "position": 0, "weight": 0.421624}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 3, "weight": 0.0694213}, 
+                {"id": 2, "lemma": "신경", "type": "NNG", "position": 7, "weight": 0.87047}, 
+                {"id": 3, "lemma": "세포", "type": "NNG", "position": 13, "weight": 0.184757}, 
+                {"id": 4, "lemma": "손상", "type": "NNG", "position": 20, "weight": 0.9}, 
+                {"id": 5, "lemma": "으로", "type": "JKB", "position": 26, "weight": 0.153406}, 
+                {"id": 6, "lemma": "손", "type": "NNG", "position": 33, "weight": 0.20419}, 
+                {"id": 7, "lemma": "과", "type": "JC", "position": 36, "weight": 0.017569}, 
+                {"id": 8, "lemma": "팔", "type": "NNG", "position": 40, "weight": 0.273293}, 
+                {"id": 9, "lemma": "에", "type": "JKB", "position": 43, "weight": 0.153364}, 
+                {"id": 10, "lemma": "경련", "type": "NNG", "position": 47, "weight": 0.207369}, 
+                {"id": 11, "lemma": "이", "type": "JKS", "position": 53, "weight": 0.0360723}, 
+                {"id": 12, "lemma": "일어나", "type": "VV", "position": 57, "weight": 0.9}, 
+                {"id": 13, "lemma": "고", "type": "EC", "position": 66, "weight": 0.416679}, 
+                {"id": 14, "lemma": ",", "type": "SP", "position": 69, "weight": 1}, 
+                {"id": 15, "lemma": "다리", "type": "NNG", "position": 71, "weight": 0.520388}, 
+                {"id": 16, "lemma": "는", "type": "JX", "position": 77, "weight": 0.0287565}, 
+                {"id": 17, "lemma": "보행", "type": "NNG", "position": 81, "weight": 0.9}, 
+                {"id": 18, "lemma": "이", "type": "JKS", "position": 87, "weight": 0.0360723}, 
+                {"id": 19, "lemma": "어렵", "type": "VA", "position": 91, "weight": 0.249251}, 
+                {"id": 20, "lemma": "어", "type": "EC", "position": 94, "weight": 0.311591}, 
+                {"id": 21, "lemma": "지", "type": "VX", "position": 100, "weight": 0.0539764}, 
+                {"id": 22, "lemma": "는", "type": "ETM", "position": 103, "weight": 0.183966}, 
+                {"id": 23, "lemma": "손상", "type": "NNG", "position": 107, "weight": 0.9}, 
+                {"id": 24, "lemma": "을", "type": "JKO", "position": 113, "weight": 0.129611}, 
+                {"id": 25, "lemma": "입", "type": "VV", "position": 117, "weight": 0.35055}, 
+                {"id": 26, "lemma": "는", "type": "ETM", "position": 120, "weight": 0.184941}, 
+                {"id": 27, "lemma": "질병", "type": "NNG", "position": 124, "weight": 0.9}, 
+                {"id": 28, "lemma": "이", "type": "VCP", "position": 130, "weight": 0.0177525}, 
+                {"id": 29, "lemma": "다", "type": "EF", "position": 133, "weight": 0.353579}, 
+                {"id": 30, "lemma": ".", "type": "SF", "position": 136, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "뇌", "type": "NNG", "scode": "030000", "weight": 0.1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 3, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "신경세포", "type": "NNG", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 3}, 
+                {"id": 3, "text": "손상", "type": "NNG", "scode": "000002", "weight": 0.25, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 26, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "손", "type": "NNG", "scode": "010001", "weight": 0.037037, "position": 33, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 36, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "팔", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 40, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 43, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "경련", "type": "NNG", "scode": "020000", "weight": 0.333333, "position": 47, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 53, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "일어나", "type": "VV", "scode": "000207", "weight": 0.0909091, "position": 57, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 66, "begin": 13, "end": 13}, 
+                {"id": 13, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 69, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "다리", "type": "NNG", "scode": "010001", "weight": 0.111111, "position": 71, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 77, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "보행", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 81, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 87, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "어렵", "type": "VA", "scode": "000101", "weight": 0.142857, "position": 91, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 94, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "지", "type": "VX", "scode": "040103", "weight": 0.037037, "position": 100, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 103, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "손상", "type": "NNG", "scode": "000002", "weight": 0.25, "position": 107, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 113, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "입", "type": "VV", "scode": "010002", "weight": 0.333333, "position": 117, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 120, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "질병", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 124, "begin": 27, "end": 27}, 
+                {"id": 27, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 130, "begin": 28, "end": 28}, 
+                {"id": 28, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 133, "begin": 29, "end": 29}, 
+                {"id": 29, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 136, "begin": 30, "end": 30}
+            ], 
+            "word": [
+                {"id": 0, "text": "뇌의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "신경세포", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "손상으로", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "손과", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "팔에", "type": "", "begin": 8, "end": 9}, 
+                {"id": 5, "text": "경련이", "type": "", "begin": 10, "end": 11}, 
+                {"id": 6, "text": "일어나고,", "type": "", "begin": 12, "end": 14}, 
+                {"id": 7, "text": "다리는", "type": "", "begin": 15, "end": 16}, 
+                {"id": 8, "text": "보행이", "type": "", "begin": 17, "end": 18}, 
+                {"id": 9, "text": "어려워지는", "type": "", "begin": 19, "end": 22}, 
+                {"id": 10, "text": "손상을", "type": "", "begin": 23, "end": 24}, 
+                {"id": 11, "text": "입는", "type": "", "begin": 25, "end": 26}, 
+                {"id": 12, "text": "질병이다.", "type": "", "begin": 27, "end": 30}
+            ], 
+            "NE": [
+                {"id": 0, "text": "뇌", "type": "TM_CELL_TISSUE", "begin": 0, "end": 0, "weight": 0.371604, "common_noun": 0}, 
+                {"id": 1, "text": "신경세포", "type": "TM_CELL_TISSUE", "begin": 2, "end": 3, "weight": 0.898751, "common_noun": 0}, 
+                {"id": 2, "text": "손", "type": "AM_PART", "begin": 6, "end": 6, "weight": 0.411362, "common_noun": 0}, 
+                {"id": 3, "text": "팔", "type": "AM_PART", "begin": 8, "end": 8, "weight": 0.457242, "common_noun": 0}, 
+                {"id": 4, "text": "경련", "type": "TMM_DISEASE", "begin": 10, "end": 10, "weight": 0.433083, "common_noun": 0}, 
+                {"id": 5, "text": "다리", "type": "AM_PART", "begin": 15, "end": 15, "weight": 0.600545, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "뇌의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.696501}, 
+                {"id": 1, "text": "신경세포", "head": 2, "label": "NP", "mod": [0], "weight": 0.678245}, 
+                {"id": 2, "text": "손상으로", "head": 6, "label": "NP_AJT", "mod": [1], "weight": 0.825867}, 
+                {"id": 3, "text": "손과", "head": 4, "label": "NP_CNJ", "mod": [], "weight": 0.820132}, 
+                {"id": 4, "text": "팔에", "head": 6, "label": "NP_AJT", "mod": [3], "weight": 0.750503}, 
+                {"id": 5, "text": "경련이", "head": 6, "label": "NP_SBJ", "mod": [], "weight": 0.743885}, 
+                {"id": 6, "text": "일어나고,", "head": 11, "label": "VP", "mod": [2, 4, 5], "weight": 0.74478}, 
+                {"id": 7, "text": "다리는", "head": 11, "label": "NP_SBJ", "mod": [], "weight": 0.552912}, 
+                {"id": 8, "text": "보행이", "head": 9, "label": "NP_SBJ", "mod": [], "weight": 0.630004}, 
+                {"id": 9, "text": "어려워지는", "head": 10, "label": "VP_MOD", "mod": [8], "weight": 0.424795}, 
+                {"id": 10, "text": "손상을", "head": 11, "label": "NP_OBJ", "mod": [9], "weight": 0.76603}, 
+                {"id": 11, "text": "입는", "head": 12, "label": "VP_MOD", "mod": [6, 7, 10], "weight": 0.771892}, 
+                {"id": 12, "text": "질병이다.", "head": -1, "label": "VNP", "mod": [11], "weight": 0.00907918}
+            ], 
+            "SRL": [
+                {"verb": "일어나", "sense": 1, "word_id": 6, "weight": 0.148905, "argument": [
+                    {"type": "ARG2", "word_id": 4, "text": "팔에", "weight": 0.105456}, 
+                    {"type": "ARG1", "word_id": 5, "text": "경련이", "weight": 0.192355}, 
+                    {"type": "ARGM-CAU", "word_id": 2, "text": "손상으로", "weight": 1}
+                ]}, 
+                {"verb": "어렵", "sense": 1, "word_id": 9, "weight": 0.130224, "argument": [
+                    {"type": "ARG1", "word_id": 8, "text": "보행이", "weight": 0.130224}
+                ]}, 
+                {"verb": "입", "sense": 2, "word_id": 11, "weight": 0.150563, "argument": [
+                    {"type": "ARG2", "word_id": 10, "text": "손상을", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 7, "text": "다리는", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "과도한 산화질소가 파킨 단백질에 결합하여 파킨 단백질이 제기능을 하지 못하는 것이 원인이 된다.", 
+            "morp": [
+                {"id": 0, "lemma": "과도", "type": "NNG", "position": 137, "weight": 0.9}, 
+                {"id": 1, "lemma": "하", "type": "XSA", "position": 143, "weight": 0.0001}, 
+                {"id": 2, "lemma": "ㄴ", "type": "ETM", "position": 143, "weight": 0.488779}, 
+                {"id": 3, "lemma": "산화", "type": "NNG", "position": 147, "weight": 0.9}, 
+                {"id": 4, "lemma": "질소", "type": "NNG", "position": 153, "weight": 0.9}, 
+                {"id": 5, "lemma": "가", "type": "JKS", "position": 159, "weight": 0.066324}, 
+                {"id": 6, "lemma": "파킨", "type": "NNG", "position": 163, "weight": 0.6}, 
+                {"id": 7, "lemma": "단백", "type": "NNG", "position": 170, "weight": 0.9}, 
+                {"id": 8, "lemma": "질", "type": "XSN", "position": 176, "weight": 0.0050218}, 
+                {"id": 9, "lemma": "에", "type": "JKB", "position": 179, "weight": 0.121683}, 
+                {"id": 10, "lemma": "결합", "type": "NNG", "position": 183, "weight": 0.9}, 
+                {"id": 11, "lemma": "하", "type": "XSV", "position": 189, "weight": 0.0001}, 
+                {"id": 12, "lemma": "아", "type": "EC", "position": 192, "weight": 0.361326}, 
+                {"id": 13, "lemma": "파킨", "type": "NNG", "position": 196, "weight": 0.6}, 
+                {"id": 14, "lemma": "단백", "type": "NNG", "position": 203, "weight": 0.9}, 
+                {"id": 15, "lemma": "질", "type": "XSN", "position": 209, "weight": 0.0050218}, 
+                {"id": 16, "lemma": "이", "type": "JKS", "position": 212, "weight": 0.0731805}, 
+                {"id": 17, "lemma": "저", "type": "NP", "position": 216, "weight": 0.0192619}, 
+                {"id": 18, "lemma": "의", "type": "JKG", "position": 216, "weight": 0.134696}, 
+                {"id": 19, "lemma": "기능", "type": "NNG", "position": 219, "weight": 0.871236}, 
+                {"id": 20, "lemma": "을", "type": "JKO", "position": 225, "weight": 0.129611}, 
+                {"id": 21, "lemma": "하", "type": "VV", "position": 229, "weight": 0.48169}, 
+                {"id": 22, "lemma": "지", "type": "EC", "position": 232, "weight": 0.301842}, 
+                {"id": 23, "lemma": "못하", "type": "VX", "position": 236, "weight": 0.225592}, 
+                {"id": 24, "lemma": "는", "type": "ETM", "position": 242, "weight": 0.183966}, 
+                {"id": 25, "lemma": "것", "type": "NNB", "position": 246, "weight": 0.228788}, 
+                {"id": 26, "lemma": "이", "type": "JKS", "position": 249, "weight": 0.0376169}, 
+                {"id": 27, "lemma": "원인", "type": "NNG", "position": 253, "weight": 0.9}, 
+                {"id": 28, "lemma": "이", "type": "JKC", "position": 259, "weight": 0.000287945}, 
+                {"id": 29, "lemma": "되", "type": "VV", "position": 263, "weight": 0.542406}, 
+                {"id": 30, "lemma": "ㄴ다", "type": "EF", "position": 263, "weight": 0.0793196}, 
+                {"id": 31, "lemma": ".", "type": "SF", "position": 269, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "과도하", "type": "VA", "scode": "010000", "weight": 0.5, "position": 137, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 143, "begin": 2, "end": 2}, 
+                {"id": 2, "text": "산화질소", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 147, "begin": 3, "end": 4}, 
+                {"id": 3, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 159, "begin": 5, "end": 5}, 
+                {"id": 4, "text": "파킨", "type": "NNG", "scode": "000000", "weight": 0, "position": 163, "begin": 6, "end": 6}, 
+                {"id": 5, "text": "단백질", "type": "NNG", "scode": "000000", "weight": 1, "position": 170, "begin": 7, "end": 8}, 
+                {"id": 6, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 179, "begin": 9, "end": 9}, 
+                {"id": 7, "text": "결합하", "type": "VV", "scode": "000000", "weight": 1, "position": 183, "begin": 10, "end": 11}, 
+                {"id": 8, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 192, "begin": 12, "end": 12}, 
+                {"id": 9, "text": "파킨", "type": "NNG", "scode": "000000", "weight": 0, "position": 196, "begin": 13, "end": 13}, 
+                {"id": 10, "text": "단백질", "type": "NNG", "scode": "000000", "weight": 1, "position": 203, "begin": 14, "end": 15}, 
+                {"id": 11, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 212, "begin": 16, "end": 16}, 
+                {"id": 12, "text": "저", "type": "NP", "scode": "030002", "weight": 0.0588235, "position": 216, "begin": 17, "end": 17}, 
+                {"id": 13, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 216, "begin": 18, "end": 18}, 
+                {"id": 14, "text": "기능", "type": "NNG", "scode": "030001", "weight": 0.25, "position": 219, "begin": 19, "end": 19}, 
+                {"id": 15, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 225, "begin": 20, "end": 20}, 
+                {"id": 16, "text": "하", "type": "VV", "scode": "010101", "weight": 0.02, "position": 229, "begin": 21, "end": 21}, 
+                {"id": 17, "text": "지", "type": "EC", "scode": "000000", "weight": 1, "position": 232, "begin": 22, "end": 22}, 
+                {"id": 18, "text": "못하", "type": "VX", "scode": "000300", "weight": 0.166667, "position": 236, "begin": 23, "end": 23}, 
+                {"id": 19, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 242, "begin": 24, "end": 24}, 
+                {"id": 20, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 246, "begin": 25, "end": 25}, 
+                {"id": 21, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 249, "begin": 26, "end": 26}, 
+                {"id": 22, "text": "원인", "type": "NNG", "scode": "020000", "weight": 0.1, "position": 253, "begin": 27, "end": 27}, 
+                {"id": 23, "text": "이", "type": "JKC", "scode": "000000", "weight": 1, "position": 259, "begin": 28, "end": 28}, 
+                {"id": 24, "text": "되", "type": "VV", "scode": "010401", "weight": 0.03125, "position": 263, "begin": 29, "end": 29}, 
+                {"id": 25, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 263, "begin": 30, "end": 30}, 
+                {"id": 26, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 269, "begin": 31, "end": 31}
+            ], 
+            "word": [
+                {"id": 0, "text": "과도한", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "산화질소가", "type": "", "begin": 3, "end": 5}, 
+                {"id": 2, "text": "파킨", "type": "", "begin": 6, "end": 6}, 
+                {"id": 3, "text": "단백질에", "type": "", "begin": 7, "end": 9}, 
+                {"id": 4, "text": "결합하여", "type": "", "begin": 10, "end": 12}, 
+                {"id": 5, "text": "파킨", "type": "", "begin": 13, "end": 13}, 
+                {"id": 6, "text": "단백질이", "type": "", "begin": 14, "end": 16}, 
+                {"id": 7, "text": "제기능을", "type": "", "begin": 17, "end": 20}, 
+                {"id": 8, "text": "하지", "type": "", "begin": 21, "end": 22}, 
+                {"id": 9, "text": "못하는", "type": "", "begin": 23, "end": 24}, 
+                {"id": 10, "text": "것이", "type": "", "begin": 25, "end": 26}, 
+                {"id": 11, "text": "원인이", "type": "", "begin": 27, "end": 28}, 
+                {"id": 12, "text": "된다.", "type": "", "begin": 29, "end": 31}
+            ], 
+            "NE": [
+                {"id": 0, "text": "산화질소", "type": "MT_CHEMICAL", "begin": 3, "end": 4, "weight": 0.85791, "common_noun": 0}, 
+                {"id": 1, "text": "파킨", "type": "MT_CHEMICAL", "begin": 6, "end": 6, "weight": 0.580934, "common_noun": 0}, 
+                {"id": 2, "text": "단백질", "type": "MT_CHEMICAL", "begin": 7, "end": 8, "weight": 0.804812, "common_noun": 0}, 
+                {"id": 3, "text": "파킨", "type": "MT_CHEMICAL", "begin": 13, "end": 13, "weight": 0.204991, "common_noun": 0}, 
+                {"id": 4, "text": "단백질", "type": "MT_CHEMICAL", "begin": 14, "end": 15, "weight": 0.809773, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "과도한", "head": 1, "label": "VP_MOD", "mod": [], "weight": 0.690193}, 
+                {"id": 1, "text": "산화질소가", "head": 4, "label": "NP_SBJ", "mod": [0], "weight": 0.658747}, 
+                {"id": 2, "text": "파킨", "head": 3, "label": "NP", "mod": [], "weight": 0.70688}, 
+                {"id": 3, "text": "단백질에", "head": 4, "label": "NP_AJT", "mod": [2], "weight": 0.745492}, 
+                {"id": 4, "text": "결합하여", "head": 8, "label": "VP", "mod": [1, 3], "weight": 0.832695}, 
+                {"id": 5, "text": "파킨", "head": 6, "label": "NP", "mod": [], "weight": 0.461756}, 
+                {"id": 6, "text": "단백질이", "head": 8, "label": "NP_SBJ", "mod": [5], "weight": 0.750134}, 
+                {"id": 7, "text": "제기능을", "head": 8, "label": "NP_OBJ", "mod": [], "weight": 0.691613}, 
+                {"id": 8, "text": "하지", "head": 9, "label": "VP", "mod": [6, 7, 4], "weight": 0.765322}, 
+                {"id": 9, "text": "못하는", "head": 10, "label": "VP_MOD", "mod": [8], "weight": 0.836404}, 
+                {"id": 10, "text": "것이", "head": 12, "label": "NP_SBJ", "mod": [9], "weight": 0.755895}, 
+                {"id": 11, "text": "원인이", "head": 12, "label": "NP_CMP", "mod": [], "weight": 0.766328}, 
+                {"id": 12, "text": "된다.", "head": -1, "label": "VP", "mod": [10, 11], "weight": 0.0140419}
+            ], 
+            "SRL": [
+                {"verb": "과도", "sense": 1, "word_id": 0, "weight": 0.330243, "argument": [
+                    {"type": "ARG1", "word_id": 1, "text": "산화질소가", "weight": 0.330243}
+                ]}, 
+                {"verb": "결합", "sense": 1, "word_id": 4, "weight": 0.209566, "argument": [
+                    {"type": "ARG1", "word_id": 1, "text": "산화질소가", "weight": 1}, 
+                    {"type": "ARG2", "word_id": 3, "text": "단백질에", "weight": 0.236472}
+                ]}, 
+                {"verb": "하", "sense": 1, "word_id": 8, "weight": 0.229926, "argument": [
+                    {"type": "ARG0", "word_id": 6, "text": "단백질이", "weight": 0.308511}, 
+                    {"type": "ARG1", "word_id": 7, "text": "제기능을", "weight": 0.186035}, 
+                    {"type": "ARGM-NEG", "word_id": 9, "text": "못하는", "weight": 0.195233}
+                ]}, 
+                {"verb": "되", "sense": 1, "word_id": 12, "weight": 0.280672, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "것이", "weight": 0.40634}, 
+                    {"type": "ARG2", "word_id": 11, "text": "원인이", "weight": 0.334894}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "또한 도파민(dopamine)을 만들어내는 뇌세포가 점차 손실되어 병의 진행은 점차 심각해진다.", 
+            "morp": [
+                {"id": 0, "lemma": "또한", "type": "MAG", "position": 270, "weight": 0.0653106}, 
+                {"id": 1, "lemma": "도파민", "type": "NNG", "position": 277, "weight": 0.4}, 
+                {"id": 2, "lemma": "(", "type": "SS", "position": 286, "weight": 1}, 
+                {"id": 3, "lemma": "dopamine", "type": "SL", "position": 287, "weight": 1}, 
+                {"id": 4, "lemma": ")", "type": "SS", "position": 295, "weight": 1}, 
+                {"id": 5, "lemma": "을", "type": "JKO", "position": 296, "weight": 0.0336085}, 
+                {"id": 6, "lemma": "만들", "type": "VV", "position": 300, "weight": 0.9}, 
+                {"id": 7, "lemma": "어", "type": "EC", "position": 306, "weight": 0.41831}, 
+                {"id": 8, "lemma": "내", "type": "VX", "position": 309, "weight": 0.0587845}, 
+                {"id": 9, "lemma": "는", "type": "ETM", "position": 312, "weight": 0.183966}, 
+                {"id": 10, "lemma": "뇌", "type": "NNG", "position": 316, "weight": 0.634283}, 
+                {"id": 11, "lemma": "세포", "type": "NNG", "position": 319, "weight": 0.184757}, 
+                {"id": 12, "lemma": "가", "type": "JKS", "position": 325, "weight": 0.066324}, 
+                {"id": 13, "lemma": "점차", "type": "MAG", "position": 329, "weight": 0.9}, 
+                {"id": 14, "lemma": "손실", "type": "NNG", "position": 336, "weight": 0.9}, 
+                {"id": 15, "lemma": "되", "type": "XSV", "position": 342, "weight": 0.000224177}, 
+                {"id": 16, "lemma": "어", "type": "EC", "position": 345, "weight": 0.361326}, 
+                {"id": 17, "lemma": "병", "type": "NNG", "position": 349, "weight": 0.219279}, 
+                {"id": 18, "lemma": "의", "type": "JKG", "position": 352, "weight": 0.0694213}, 
+                {"id": 19, "lemma": "진행", "type": "NNG", "position": 356, "weight": 0.9}, 
+                {"id": 20, "lemma": "은", "type": "JX", "position": 362, "weight": 0.0449928}, 
+                {"id": 21, "lemma": "점차", "type": "MAG", "position": 366, "weight": 0.9}, 
+                {"id": 22, "lemma": "심각", "type": "NNG", "position": 373, "weight": 0.9}, 
+                {"id": 23, "lemma": "하", "type": "XSA", "position": 379, "weight": 0.0001}, 
+                {"id": 24, "lemma": "아", "type": "EC", "position": 379, "weight": 0.354073}, 
+                {"id": 25, "lemma": "지", "type": "VX", "position": 379, "weight": 0.0539764}, 
+                {"id": 26, "lemma": "ㄴ다", "type": "EF", "position": 379, "weight": 0.184394}, 
+                {"id": 27, "lemma": ".", "type": "SF", "position": 388, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "또한", "type": "MAG", "scode": "000002", "weight": 0.5, "position": 270, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "도파민", "type": "NNG", "scode": "000000", "weight": 1, "position": 277, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 286, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "dopamine", "type": "SL", "scode": "000000", "weight": 1, "position": 287, "begin": 3, "end": 3}, 
+                {"id": 4, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 295, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 296, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "만들", "type": "VV", "scode": "000101", "weight": 0.0769231, "position": 300, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 306, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "내", "type": "VX", "scode": "020600", "weight": 0.03125, "position": 309, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 312, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "뇌세포", "type": "NNG", "scode": "000000", "weight": 1, "position": 316, "begin": 10, "end": 11}, 
+                {"id": 11, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 325, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "점차", "type": "MAG", "scode": "020000", "weight": 0.25, "position": 329, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "손실되", "type": "VV", "scode": "000000", "weight": 1, "position": 336, "begin": 14, "end": 15}, 
+                {"id": 14, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 345, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "병", "type": "NNG", "scode": "040001", "weight": 0.0769231, "position": 349, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 352, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "진행", "type": "NNG", "scode": "020001", "weight": 0.25, "position": 356, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 362, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "점차", "type": "MAG", "scode": "020000", "weight": 0.25, "position": 366, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "심각하", "type": "VA", "scode": "020000", "weight": 0.5, "position": 373, "begin": 22, "end": 23}, 
+                {"id": 21, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 379, "begin": 24, "end": 24}, 
+                {"id": 22, "text": "지", "type": "VX", "scode": "040103", "weight": 0.037037, "position": 379, "begin": 25, "end": 25}, 
+                {"id": 23, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 379, "begin": 26, "end": 26}, 
+                {"id": 24, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 388, "begin": 27, "end": 27}
+            ], 
+            "word": [
+                {"id": 0, "text": "또한", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "도파민(dopamine)을", "type": "", "begin": 1, "end": 5}, 
+                {"id": 2, "text": "만들어내는", "type": "", "begin": 6, "end": 9}, 
+                {"id": 3, "text": "뇌세포가", "type": "", "begin": 10, "end": 12}, 
+                {"id": 4, "text": "점차", "type": "", "begin": 13, "end": 13}, 
+                {"id": 5, "text": "손실되어", "type": "", "begin": 14, "end": 16}, 
+                {"id": 6, "text": "병의", "type": "", "begin": 17, "end": 18}, 
+                {"id": 7, "text": "진행은", "type": "", "begin": 19, "end": 20}, 
+                {"id": 8, "text": "점차", "type": "", "begin": 21, "end": 21}, 
+                {"id": 9, "text": "심각해진다.", "type": "", "begin": 22, "end": 27}
+            ], 
+            "NE": [
+                {"id": 0, "text": "도파민", "type": "MT_CHEMICAL", "begin": 1, "end": 1, "weight": 0.393754, "common_noun": 0}, 
+                {"id": 1, "text": "dopamine", "type": "MT_CHEMICAL", "begin": 3, "end": 3, "weight": 0.393754, "common_noun": 0}, 
+                {"id": 2, "text": "뇌세포", "type": "TM_CELL_TISSUE", "begin": 10, "end": 11, "weight": 0.393754, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "또한", "head": 5, "label": "AP", "mod": [], "weight": 0.575952}, 
+                {"id": 1, "text": "도파민(dopamine)을", "head": 2, "label": "NP_OBJ", "mod": [], "weight": 0.798692}, 
+                {"id": 2, "text": "만들어내는", "head": 3, "label": "VP_MOD", "mod": [1], "weight": 0.719798}, 
+                {"id": 3, "text": "뇌세포가", "head": 5, "label": "NP_SBJ", "mod": [2], "weight": 0.829061}, 
+                {"id": 4, "text": "점차", "head": 5, "label": "AP", "mod": [], "weight": 0.642966}, 
+                {"id": 5, "text": "손실되어", "head": 9, "label": "VP", "mod": [0, 3, 4], "weight": 0.853101}, 
+                {"id": 6, "text": "병의", "head": 7, "label": "NP_MOD", "mod": [], "weight": 0.703125}, 
+                {"id": 7, "text": "진행은", "head": 9, "label": "NP_SBJ", "mod": [6], "weight": 0.682687}, 
+                {"id": 8, "text": "점차", "head": 9, "label": "AP", "mod": [], "weight": 0.770016}, 
+                {"id": 9, "text": "심각해진다.", "head": -1, "label": "VP", "mod": [5, 7, 8], "weight": 0.0508279}
+            ], 
+            "SRL": [
+                {"verb": "만들", "sense": 1, "word_id": 2, "weight": 0.172593, "argument": [
+                    {"type": "ARGM-DIS", "word_id": 0, "text": "또한", "weight": 0.186151}, 
+                    {"type": "ARG1", "word_id": 1, "text": "도파민(dopamine)을", "weight": 0.21789}, 
+                    {"type": "ARG0", "word_id": 3, "text": "뇌세포가", "weight": 0.113738}
+                ]}, 
+                {"verb": "손실", "sense": 1, "word_id": 5, "weight": 0.181614, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "뇌세포가", "weight": 0.263668}, 
+                    {"type": "ARGM-ADV", "word_id": 4, "text": "점차", "weight": 1}
+                ]}, 
+                {"verb": "심각", "sense": 1, "word_id": 9, "weight": 0.162545, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "진행은", "weight": 0.198424}, 
+                    {"type": "ARGM-CAU", "word_id": 5, "text": "손실되어", "weight": 1}, 
+                    {"type": "ARGM-ADV", "word_id": 8, "text": "점차", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 3, 
+            "reserve_str": "", 
+            "text": "중국 최고지도자 덩샤오핑[鄧小平]과 미국의 권투선수 무하마드 알리가 앓았던 병이기도 하다.", 
+            "morp": [
+                {"id": 0, "lemma": "중국", "type": "NNP", "position": 389, "weight": 0.0892692}, 
+                {"id": 1, "lemma": "최고", "type": "NNG", "position": 396, "weight": 0.9}, 
+                {"id": 2, "lemma": "지도", "type": "NNG", "position": 402, "weight": 0.184498}, 
+                {"id": 3, "lemma": "자", "type": "XSN", "position": 408, "weight": 0.00398741}, 
+                {"id": 4, "lemma": "덩샤오핑", "type": "NNP", "position": 412, "weight": 0.9}, 
+                {"id": 5, "lemma": "[", "type": "SS", "position": 424, "weight": 1}, 
+                {"id": 6, "lemma": "鄧小平", "type": "SH", "position": 425, "weight": 1}, 
+                {"id": 7, "lemma": "]", "type": "SS", "position": 434, "weight": 1}, 
+                {"id": 8, "lemma": "과", "type": "JC", "position": 435, "weight": 0.00441114}, 
+                {"id": 9, "lemma": "미국", "type": "NNP", "position": 439, "weight": 0.0705068}, 
+                {"id": 10, "lemma": "의", "type": "JKG", "position": 445, "weight": 0.0987295}, 
+                {"id": 11, "lemma": "권투", "type": "NNG", "position": 449, "weight": 0.9}, 
+                {"id": 12, "lemma": "선수", "type": "NNG", "position": 455, "weight": 0.9}, 
+                {"id": 13, "lemma": "무하마드", "type": "NNP", "position": 462, "weight": 0.9}, 
+                {"id": 14, "lemma": "알리", "type": "NNP", "position": 475, "weight": 0.000726266}, 
+                {"id": 15, "lemma": "가", "type": "JKS", "position": 481, "weight": 0.0431193}, 
+                {"id": 16, "lemma": "앓", "type": "VV", "position": 485, "weight": 0.9}, 
+                {"id": 17, "lemma": "았", "type": "EP", "position": 488, "weight": 0.9}, 
+                {"id": 18, "lemma": "던", "type": "ETM", "position": 491, "weight": 0.107547}, 
+                {"id": 19, "lemma": "병", "type": "NNG", "position": 495, "weight": 0.658406}, 
+                {"id": 20, "lemma": "이", "type": "VCP", "position": 498, "weight": 0.0177525}, 
+                {"id": 21, "lemma": "기", "type": "ETN", "position": 501, "weight": 0.019088}, 
+                {"id": 22, "lemma": "도", "type": "JX", "position": 504, "weight": 0.147715}, 
+                {"id": 23, "lemma": "하", "type": "VX", "position": 508, "weight": 0.00978548}, 
+                {"id": 24, "lemma": "다", "type": "EF", "position": 511, "weight": 0.180366}, 
+                {"id": 25, "lemma": ".", "type": "SF", "position": 514, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "중국", "type": "NNP", "scode": "010000", "weight": 0.5, "position": 389, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "최고", "type": "NNG", "scode": "020001", "weight": 0.2, "position": 396, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "지도자", "type": "NNG", "scode": "000000", "weight": 1, "position": 402, "begin": 2, "end": 3}, 
+                {"id": 3, "text": "덩샤오핑", "type": "NNP", "scode": "000000", "weight": 0, "position": 412, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "[", "type": "SS", "scode": "000000", "weight": 1, "position": 424, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "鄧小平", "type": "SH", "scode": "000000", "weight": 1, "position": 425, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "]", "type": "SS", "scode": "000000", "weight": 1, "position": 434, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 435, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "미국", "type": "NNP", "scode": "030000", "weight": 0.333333, "position": 439, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 445, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "권투", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 449, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "선수", "type": "NNG", "scode": "050001", "weight": 0.125, "position": 455, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "무하마드", "type": "NNP", "scode": "000000", "weight": 0, "position": 462, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "알리", "type": "NNP", "scode": "888888", "weight": 0.5, "position": 475, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 481, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "앓", "type": "VV", "scode": "000001", "weight": 0.5, "position": 485, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 488, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "던", "type": "ETM", "scode": "000000", "weight": 1, "position": 491, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "병", "type": "NNG", "scode": "040001", "weight": 0.0769231, "position": 495, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 498, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "기", "type": "ETN", "scode": "000000", "weight": 1, "position": 501, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "도", "type": "JX", "scode": "000000", "weight": 1, "position": 504, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "하", "type": "VX", "scode": "011105", "weight": 0.02, "position": 508, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 511, "begin": 24, "end": 24}, 
+                {"id": 24, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 514, "begin": 25, "end": 25}
+            ], 
+            "word": [
+                {"id": 0, "text": "중국", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "최고지도자", "type": "", "begin": 1, "end": 3}, 
+                {"id": 2, "text": "덩샤오핑[鄧小平]과", "type": "", "begin": 4, "end": 8}, 
+                {"id": 3, "text": "미국의", "type": "", "begin": 9, "end": 10}, 
+                {"id": 4, "text": "권투선수", "type": "", "begin": 11, "end": 12}, 
+                {"id": 5, "text": "무하마드", "type": "", "begin": 13, "end": 13}, 
+                {"id": 6, "text": "알리가", "type": "", "begin": 14, "end": 15}, 
+                {"id": 7, "text": "앓았던", "type": "", "begin": 16, "end": 18}, 
+                {"id": 8, "text": "병이기도", "type": "", "begin": 19, "end": 22}, 
+                {"id": 9, "text": "하다.", "type": "", "begin": 23, "end": 25}
+            ], 
+            "NE": [
+                {"id": 0, "text": "중국", "type": "LCP_COUNTRY", "begin": 0, "end": 0, "weight": 0.572263, "common_noun": 0}, 
+                {"id": 1, "text": "최고지도자", "type": "CV_POSITION", "begin": 1, "end": 3, "weight": 0.77158, "common_noun": 0}, 
+                {"id": 2, "text": "덩샤오핑", "type": "PS_NAME", "begin": 4, "end": 4, "weight": 0.602161, "common_noun": 0}, 
+                {"id": 3, "text": "鄧小平", "type": "PS_NAME", "begin": 6, "end": 6, "weight": 0.602161, "common_noun": 0}, 
+                {"id": 4, "text": "미국", "type": "LCP_COUNTRY", "begin": 9, "end": 9, "weight": 0.872204, "common_noun": 0}, 
+                {"id": 5, "text": "권투선수", "type": "CV_OCCUPATION", "begin": 11, "end": 12, "weight": 0.503281, "common_noun": 0}, 
+                {"id": 6, "text": "무하마드 알리", "type": "PS_NAME", "begin": 13, "end": 14, "weight": 0.608692, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "중국", "head": 1, "label": "NP", "mod": [], "weight": 0.275032}, 
+                {"id": 1, "text": "최고지도자", "head": 2, "label": "NP", "mod": [0], "weight": 0.835673}, 
+                {"id": 2, "text": "덩샤오핑[鄧小平]과", "head": 6, "label": "NP_CNJ", "mod": [1], "weight": 0.764807}, 
+                {"id": 3, "text": "미국의", "head": 4, "label": "NP_MOD", "mod": [], "weight": 0.180959}, 
+                {"id": 4, "text": "권투선수", "head": 6, "label": "NP", "mod": [3], "weight": 0.625132}, 
+                {"id": 5, "text": "무하마드", "head": 6, "label": "NP", "mod": [], "weight": 0.695876}, 
+                {"id": 6, "text": "알리가", "head": 7, "label": "NP_SBJ", "mod": [2, 4, 5], "weight": 0.823009}, 
+                {"id": 7, "text": "앓았던", "head": 8, "label": "VP_MOD", "mod": [6], "weight": 0.717298}, 
+                {"id": 8, "text": "병이기도", "head": 9, "label": "VNP", "mod": [7], "weight": 0.725745}, 
+                {"id": 9, "text": "하다.", "head": -1, "label": "VP", "mod": [8], "weight": 0.00470574}
+            ], 
+            "SRL": [
+                {"verb": "앓", "sense": 1, "word_id": 7, "weight": 0.181431, "argument": [
+                    {"type": "ARG0", "word_id": 6, "text": "알리가", "weight": 0.241593}, 
+                    {"type": "ARG1", "word_id": 8, "text": "병이기도", "weight": 0.12127}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "TM_CELL_TISSUE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "뇌의 신경세포", "start_eid_short": 1, "end_eid_short": 1, "text_short": "신경세포"}
+        ]}, 
+        {"id": 1, "type": "TM_CELL_TISSUE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "뇌의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "뇌의"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "뇌의 신경세포 손상으로", "start_eid_short": 1, "end_eid_short": 2, "text_short": "신경세포 손상으로"}
+        ]}, 
+        {"id": 3, "type": "AM_PART", "number": "plural", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 3, "end_eid": 4, "ne_id": 3, "text": "손과 팔에", "start_eid_short": 4, "end_eid_short": 4, "text_short": "팔에"}
+        ]}, 
+        {"id": 4, "type": "AM_PART", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": 2, "text": "손과", "start_eid_short": 3, "end_eid_short": 3, "text_short": "손과"}
+        ]}, 
+        {"id": 5, "type": "TMM_DISEASE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": 4, "text": "경련이", "start_eid_short": 5, "end_eid_short": 5, "text_short": "경련이"}
+        ]}, 
+        {"id": 6, "type": "AM_PART", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 5, "text": "다리는", "start_eid_short": 7, "end_eid_short": 7, "text_short": "다리는"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 8, "end_eid": 10, "ne_id": -1, "text": "보행이 어려워지는 손상을", "start_eid_short": 10, "end_eid_short": 10, "text_short": "손상을"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "보행이", "start_eid_short": 8, "end_eid_short": 8, "text_short": "보행이"}
+        ]}, 
+        {"id": 9, "type": "MT_CHEMICAL", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "과도한 산화질소가", "start_eid_short": 1, "end_eid_short": 1, "text_short": "산화질소가"}
+        ]}, 
+        {"id": 10, "type": "MT_CHEMICAL", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 2, "end_eid": 3, "ne_id": 2, "text": "파킨 단백질에", "start_eid_short": 2, "end_eid_short": 3, "text_short": "파킨 단백질에"}, 
+            {"id": 15, "sent_id": 1, "start_eid": 5, "end_eid": 6, "ne_id": 4, "text": "파킨 단백질이", "start_eid_short": 5, "end_eid_short": 6, "text_short": "파킨 단백질이"}
+        ]}, 
+        {"id": 11, "type": "MT_CHEMICAL", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": 1, "text": "파킨", "start_eid_short": 2, "end_eid_short": 2, "text_short": "파킨"}, 
+            {"id": 16, "sent_id": 1, "start_eid": 5, "end_eid": 5, "ne_id": 3, "text": "파킨", "start_eid_short": 5, "end_eid_short": 5, "text_short": "파킨"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 5, "end_eid": 10, "ne_id": -1, "text": "파킨 단백질이 제기능을 하지 못하는 것이", "start_eid_short": 10, "end_eid_short": 10, "text_short": "것이"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "제기능을", "start_eid_short": 7, "end_eid_short": 7, "text_short": "제기능을"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 1, "start_eid": 11, "end_eid": 11, "ne_id": -1, "text": "원인이", "start_eid_short": 11, "end_eid_short": 11, "text_short": "원인이"}
+        ]}, 
+        {"id": 15, "type": "TM_CELL_TISSUE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 2, "start_eid": 1, "end_eid": 3, "ne_id": 0, "text": "도파민(dopamine)을 만들어내는 뇌세포가", "start_eid_short": 3, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 16, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 21, "sent_id": 2, "start_eid": 6, "end_eid": 7, "ne_id": -1, "text": "병의 진행은", "start_eid_short": 7, "end_eid_short": 7, "text_short": "진행은"}
+        ]}, 
+        {"id": 17, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 22, "sent_id": 2, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "병의", "start_eid_short": 6, "end_eid_short": 6, "text_short": "병의"}
+        ]}, 
+        {"id": 18, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 26, "sent_id": 3, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "중국", "start_eid_short": 0, "end_eid_short": 0, "text_short": "중국"}
+        ]}, 
+        {"id": 19, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 23, "sent_id": 3, "start_eid": 0, "end_eid": 6, "ne_id": 5, "text": "중국 최고지도자 덩샤오핑[鄧小平]과 미국의 권투선수 무하마드 알리가", "start_eid_short": 4, "end_eid_short": 6, "text_short": "권투선수 무하마드 알리가"}
+        ]}, 
+        {"id": 20, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 24, "sent_id": 3, "start_eid": 0, "end_eid": 2, "ne_id": 2, "text": "중국 최고지도자 덩샤오핑[鄧小平]과", "start_eid_short": 2, "end_eid_short": 2, "text_short": "덩샤오핑[鄧小平]과"}, 
+            {"id": 25, "sent_id": 3, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "중국 최고지도자", "start_eid_short": 0, "end_eid_short": 1, "text_short": "중국 최고지도자"}
+        ]}, 
+        {"id": 21, "type": "AM_PART", "number": "singular", "gender": "", "person": "", "animacy": "animal", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": 3, "text": "팔에", "start_eid_short": 4, "end_eid_short": 4, "text_short": "팔에"}
+        ]}, 
+        {"id": 22, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 12, "ne_id": -1, "text": "뇌의 신경세포 손상으로 손과 팔에 경련이 일어나고, 다리는 보행이 어려워지는 손상을 입는 질병이다.", "start_eid_short": 12, "end_eid_short": 12, "text_short": "질병이다."}
+        ]}, 
+        {"id": 23, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 2, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "도파민(dopamine)을", "start_eid_short": 1, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 24, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 29, "sent_id": 3, "start_eid": 3, "end_eid": 3, "ne_id": 3, "text": "미국의", "start_eid_short": 3, "end_eid_short": 3, "text_short": "미국의"}
+        ]}, 
+        {"id": 25, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 27, "sent_id": 3, "start_eid": 3, "end_eid": 6, "ne_id": 5, "text": "미국의 권투선수 무하마드 알리가", "start_eid_short": 4, "end_eid_short": 6, "text_short": "권투선수 무하마드 알리가"}, 
+            {"id": 28, "sent_id": 3, "start_eid": 3, "end_eid": 4, "ne_id": 4, "text": "미국의 권투선수", "start_eid_short": 4, "end_eid_short": 4, "text_short": "권투선수"}
+        ]}
+    ]
+}

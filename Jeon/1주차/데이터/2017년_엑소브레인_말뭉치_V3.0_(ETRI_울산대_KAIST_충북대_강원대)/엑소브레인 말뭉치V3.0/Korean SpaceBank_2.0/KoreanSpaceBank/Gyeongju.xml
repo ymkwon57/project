@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+경주(慶州市, Gyeongju)는 한국, 경상북도의 도시이다.
+
+경주는 신라왕조의 수도로 그것은 7세기에서 9세기까지 코리아를 지배하였다. 코리아 군주의 1000년이상 거주지로서 그곳은 관광의 유산을 유지하고있다. 도시는 유산을 보존하기위해 수많은 노력을 하고 있다.
+오늘날의 경주는 26만의 인구가 있지만 소도시의 느낌을 유지하며 돌아보기 수월하다.
+
+경주에는 공항이 없고 인근의 포항, 울산 멀리는 부산(김해국제공항)에서 버스로 한시간 거리이다. 공항에서 경주 터미널까지 시간별로 버스가 운행된다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="3" text="경주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="20" end="22" text="한국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="24" end="28" text="경상북도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="30" end="32" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="37" end="39" text="경주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="47" end="49" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="95" end="98" text="거주지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="101" end="103" text="그곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="121" end="123" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="156" end="158" text="경주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="173" end="176" text="소도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="199" end="201" text="경주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="215" end="217" text="포항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="219" end="221" text="울산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="226" end="228" text="부산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="229" end="235" text="김해국제공항" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="-1" end="-1" text=" " type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="78" />
+<PLACE id="pl18" start="258" end="264" text="경주 터미널" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="67" end="70" text="코리아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="272" end="274" text="버스" type="ARTIFACT" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="253" end="255" text="공항" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="276" end="279" text="운행된" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="28" end="29" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="255" end="257" text="에서" motion_signal_type="" comment="" />
+<MOTION_SIGNAL id="ms1" start="264" end="266" text="까지" motion_signal_type="" comment="" />
+<MEASURE id="me0" start="222" end="223" text="멀" value="멀" unit="" comment="" />
+<MEASURE id="me1" start="211" end="213" text="인근" value="인근" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="35" text="경주(慶州市, Gyeongju)는 한국, 경상북도의 도시이다." comment="" />
+<SENTENCE id="sent1" start="37" end="78" text="경주는 신라왕조의 수도로 그것은 7세기에서 9세기까지 코리아를 지배하였다." comment="" />
+<SENTENCE id="sent2" start="79" end="120" text="코리아 군주의 1000년이상 거주지로서 그곳은 관광의 유산을 유지하고있다." comment="" />
+<SENTENCE id="sent3" start="121" end="150" text="도시는 유산을 보존하기위해 수많은 노력을 하고 있다." comment="" />
+<SENTENCE id="sent4" start="151" end="197" text="오늘날의 경주는 26만의 인구가 있지만 소도시의 느낌을 유지하며 돌아보기 수월하다." comment="" />
+<SENTENCE id="sent5" start="199" end="252" text="경주에는 공항이 없고 인근의 포항, 울산 멀리는 부산(김해국제공항)에서 버스로 한시간 거리이다." comment="" />
+<SENTENCE id="sent6" start="253" end="281" text="공항에서 경주 터미널까지 시간별로 버스가 운행된다." comment="" />
+<QSLINK id="qsl0" fromID="pl3" fromText="도시" toID="pl2" toText="경상북도" relType="IN" trajector="pl3" landmark="pl2" trigger="s0" comment="" />
+<MOVELINK id="mvl0" fromID="se0" fromText="버스" toID="m1" toText="운행된" trigger="m1" source="se1" goal="pl18" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0,ms1" comment="" />
+<MEASURELINK id="ml5" fromID="pl15" fromText="부산" toID="pl11" toText="경주" trajector="pl15" landmark="pl11" relType="DISTANCE" val="me0" endPoint1="pl11" endPoint2="pl15" comment="" />
+<MEASURELINK id="ml0" fromID="pl13" fromText="포항" toID="pl11" toText="경주" trajector="pl13" landmark="pl11" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl14" fromText="울산" toID="pl11" toText="경주" trajector="pl14" landmark="pl11" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="pl1" fromText="한국" toID="pl2" toText="경상북도" objectID1="pl2" objectID2="pl1" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl0" fromText="경주" toID="pl3" toText="도시" objectID1="pl3" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl20" fromText=" " toID="pl6" toText="거주지" objectID1="pl6" objectID2="pl6" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl0" fromText="경주" toID="pl20" toText=" " objectID1="pl20" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl20" fromText=" " toID="pl7" toText="그곳" objectID1="pl20" objectID2="pl7" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl15" fromText="부산" toID="pl16" toText="김해국제공항" objectID1="pl16" objectID2="pl15" relType="SUBCOREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

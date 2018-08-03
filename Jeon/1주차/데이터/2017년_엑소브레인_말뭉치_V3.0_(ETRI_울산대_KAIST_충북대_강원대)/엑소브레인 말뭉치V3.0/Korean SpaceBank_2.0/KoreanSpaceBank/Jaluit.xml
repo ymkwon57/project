@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+잴루잇은 마셜 제도의 섬이다. 마샬 제도의 국기에 그려진 4개의 긴 빛은 마주로, 에베예, 잴루잇, 워체 등 4개 주요 섬을 나타낸다. 마셜 제도의 국가를 우리나라 작곡가인 길옥윤 씨가 만들었다.
+중순양함 도네를 중심으로 한 수상 함대가 마셜 제도의 잴루잇 환초 부근에서 시위 활동을 했고, 잠수함 I-8 호는 1월 23일과 28일에 칸톤 섬을 포격했다. 총 379대에 이르는 항공기들이 마셜 제도의 밀리, 콰잘레인, 잴루잇, 말로에라프, 웟제 등지를 폭격하고 주변 해역에 기뢰를 투하했다.
+잴루잇 섬과 밀리 섬, 워체 섬, 나우루 섬에서 일본군들은 작물을 키우고 고기를 잡으면서 악착같이 살아남으려 했다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="4" text="잴루잇" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="6" end="11" text="마셜 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="13" end="14" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="18" end="23" text="마샬 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="42" end="45" text="마주로" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="47" end="50" text="에베예" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="52" end="55" text="잴루잇" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="57" end="59" text="워체" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="68" end="69" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="77" end="82" text="마셜 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="134" end="139" text="마셜 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="141" end="147" text="잴루잇 환초" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="188" end="192" text="칸톤 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="218" end="223" text="마셜 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="225" end="227" text="밀리" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="229" end="233" text="콰잘레인" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="235" end="238" text="잴루잇" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="240" end="245" text="말로에라프" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="247" end="249" text="웟제" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="262" end="264" text="해역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="276" end="281" text="잴루잇 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="283" end="287" text="밀리 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="289" end="293" text="워체 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="295" end="300" text="나우루 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="266" end="268" text="기뢰" type="ARTIFACT" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="303" end="307" text="일본군들" type="PERSON" dimensionality="POINT" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="130" end="132" text="함대" type="VEHICLE" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="153" end="155" text="시위" type="FAC" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="270" end="273" text="투하했" domain="" latLong="" elevation="" motion_type="PATH" motion_class="DETACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s7" start="300" end="302" text="에서" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="11" end="12" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="139" end="140" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="223" end="224" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="264" end="265" text="에" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="148" end="150" text="부근" value="부근" unit="" comment="" />
+<MEASURE id="me1" start="259" end="261" text="주변" value="주변" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="17" text="잴루잇은 마셜 제도의 섬이다." comment="" />
+<SENTENCE id="sent1" start="18" end="76" text="마샬 제도의 국기에 그려진 4개의 긴 빛은 마주로, 에베예, 잴루잇, 워체 등 4개 주요 섬을 나타낸다." comment="" />
+<SENTENCE id="sent2" start="77" end="110" text="마셜 제도의 국가를 우리나라 작곡가인 길옥윤 씨가 만들었다." comment="" />
+<SENTENCE id="sent3" start="111" end="199" text="중순양함 도네를 중심으로 한 수상 함대가 마셜 제도의 잴루잇 환초 부근에서 시위 활동을 했고, 잠수함 I-8 호는 1월 23일과 28일에 칸톤 섬을 포격했다." comment="" />
+<SENTENCE id="sent4" start="200" end="275" text="총 379대에 이르는 항공기들이 마셜 제도의 밀리, 콰잘레인, 잴루잇, 말로에라프, 웟제 등지를 폭격하고 주변 해역에 기뢰를 투하했다." comment="" />
+<SENTENCE id="sent5" start="276" end="341" text="잴루잇 섬과 밀리 섬, 워체 섬, 나우루 섬에서 일본군들은 작물을 키우고 고기를 잡으면서 악착같이 살아남으려 했다. " comment="" />
+<QSLINK id="qsl10" fromID="pl22" fromText="잴루잇 섬" toID="se2" toText="일본군들" relType="NTPP" trajector="se2" landmark="pl22" trigger="s7" comment="" />
+<QSLINK id="qsl11" fromID="pl23" fromText="밀리 섬" toID="se2" toText="일본군들" relType="NTPP" trajector="se2" landmark="pl23" trigger="s7" comment="" />
+<QSLINK id="qsl12" fromID="pl24" fromText="워체 섬" toID="se2" toText="일본군들" relType="NTPP" trajector="se2" landmark="pl24" trigger="s7" comment="" />
+<QSLINK id="qsl13" fromID="pl25" fromText="나우루 섬" toID="se2" toText="일본군들" relType="NTPP" trajector="se2" landmark="pl25" trigger="s7" comment="" />
+<QSLINK id="qsl1" fromID="pl2" fromText="섬" toID="pl1" toText="마셜 제도" relType="IN" trajector="pl2" landmark="pl1" trigger="s0" comment="" />
+<QSLINK id="qsl4" fromID="pl13" fromText="잴루잇" toID="pl12" toText="마셜 제도" relType="IN" trajector="pl13" landmark="pl12" trigger="s1" comment="" />
+<QSLINK id="qsl5" fromID="pl16" fromText="밀리" toID="pl15" toText="마셜 제도" relType="IN" trajector="pl16" landmark="pl15" trigger="s2" comment="" />
+<QSLINK id="qsl6" fromID="pl17" fromText="콰잘레인" toID="pl15" toText="마셜 제도" relType="IN" trajector="pl17" landmark="pl15" trigger="s2" comment="" />
+<QSLINK id="qsl7" fromID="pl18" fromText="잴루잇" toID="pl15" toText="마셜 제도" relType="IN" trajector="pl18" landmark="pl15" trigger="s2" comment="" />
+<QSLINK id="qsl8" fromID="pl19" fromText="말로에라프" toID="pl15" toText="마셜 제도" relType="IN" trajector="pl19" landmark="pl15" trigger="s2" comment="" />
+<QSLINK id="qsl14" fromID="pl20" fromText="웟제" toID="pl15" toText="마셜 제도" relType="IN" trajector="pl20" landmark="pl15" trigger="s2" comment="" />
+<OLINK id="ol0" fromID="pl21" fromText="해역" toID="pl16" toText="밀리" relType="" trajector="" landmark="" trigger="" frame_type="" referencePt="" projective="" comment="" />
+<MOVELINK id="mvl0" fromID="pl21" fromText="해역" toID="se1" toText="기뢰" trigger="m1" source="" goal="pl21" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MEASURELINK id="ml0" fromID="se3" fromText="시위" toID="pl13" toText="잴루잇 환초" trajector="se3" landmark="pl13" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl21" fromText="해역" toID="pl16" toText="밀리" trajector="pl21" landmark="pl16" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="pl21" fromText="해역" toID="pl17" toText="콰잘레인" trajector="pl21" landmark="pl17" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="pl21" fromText="해역" toID="pl18" toText="잴루잇" trajector="pl21" landmark="pl18" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml4" fromID="pl21" fromText="해역" toID="pl19" toText="말로에라프" trajector="pl21" landmark="pl19" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml5" fromID="pl21" fromText="해역" toID="pl20" toText="웟제" trajector="pl21" landmark="pl20" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="pl0" fromText="잴루잇" toID="pl2" toText="섬" objectID1="pl2" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl4" fromText="마주로" toID="pl8" toText="섬" objectID1="pl4" objectID2="pl8" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl5" fromText="에베예" toID="pl8" toText="섬" objectID1="pl5" objectID2="pl8" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl6" fromText="잴루잇" toID="pl8" toText="섬" objectID1="pl6" objectID2="pl8" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl7" fromText="워체" toID="pl8" toText="섬" objectID1="pl7" objectID2="pl8" relType="SUBCOREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

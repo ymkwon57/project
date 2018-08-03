@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+주부(중부)는 혼슈 중부 산악지대 일본 알프스 산맥이 있고 일본 4대 도시 중 나고야가 위치한 곳이다. 그리고 이세 신궁이 있다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="3" text="주부" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="4" end="6" text="중부" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="9" end="11" text="혼슈" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="20" end="22" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="34" end="36" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="40" end="42" text="도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="45" end="48" text="나고야" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="54" end="55" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="63" end="68" text="이세 신궁" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="15" end="19" text="산악지대" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="23" end="29" text="알프스 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="31" end="32" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="50" end="53" text="위치한" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e4" start="70" end="71" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="55" end="56" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="12" end="14" text="중부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SENTENCE id="sent0" start="1" end="58" text="주부(중부)는 혼슈 중부 산악지대 일본 알프스 산맥이 있고 일본 4대 도시 중 나고야가 위치한 곳이다." comment="" />
+<SENTENCE id="sent1" start="59" end="73" text="그리고 이세 신궁이 있다." comment="" />
+<OLINK id="ol0" fromID="pl9" fromText="산악지대" toID="pl2" toText="혼슈" relType="중" trajector="pl9" landmark="pl2" trigger="s0" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<METALINK id="metal0" fromID="pl0" fromText="주부" toID="pl1" toText="중부" objectID1="pl1" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl6" fromText="나고야" toID="pl7" toText="곳" objectID1="pl6" objectID2="pl7" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl5" fromText="도시" toID="pl6" toText="나고야" objectID1="pl6" objectID2="pl5" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl4" fromText="일본" toID="pl5" toText="도시" objectID1="pl5" objectID2="pl4" relType="SUBCOREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

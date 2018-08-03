@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+마쓰시마(Matsushima,松島)는 동북 일본의 미야기의 작은 마을이다.
+마을은 마쓰시만 만과 접하며 260개의 작은 섬으로 유명한데 소나무가 많다. 그리하여 마쓰시마라 불리며 일본 3경중의 하나로 알려져 있다.
+
+오늘날의 마쓰시마는 아마도 적고 덜 고무적이지만 지역 내이면 당일여행의 가치가 있다.
+
+마을은 단지 현의 수도 센다이에서 가깝다.
+
+많은 방문객들이 JR 센세키선(仙石線)를 승차하면 센다이에서 이시노마키까지 고속은 25분 지역선은 40분 걸린다. 가장 편리한 역은 마쓰시마 역,시마-카이간(松島海岸)이다. JR 도호쿠의 마쓰시마 역은 해변에서 제법 떨어져 있다.
+도쿄에서 신칸센 탄환열차는 센다이로 달리며 센세키선으로 연결된다. 요금은 10900엔이다. 마쓰시마 가이간까지의 여행은 두 시간 45분 걸린다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="마쓰시마" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="25" end="27" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="29" end="32" text="미야기" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="47" end="53" text="마쓰시만 만" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="91" end="95" text="마쓰시마" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="127" end="131" text="마쓰시마" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="101" end="103" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="149" end="151" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="184" end="187" text="센다이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="224" end="227" text="센다이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="230" end="235" text="이시노마키" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="270" end="276" text="마쓰시마 역" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="301" end="307" text="마쓰시마 역" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="325" end="327" text="도쿄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="340" end="343" text="센다이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="376" end="380" text="마쓰시마" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="381" end="384" text="가이간" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="37" end="39" text="마을" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="43" end="45" text="마을" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="68" end="69" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="171" end="173" text="마을" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="178" end="179" text="현" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="181" end="183" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="309" end="311" text="해변" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="277" end="283" text="시마-카이간" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="1" />
+<PATH id="p0" start="349" end="353" text="센세키선" beginID="" endID="" midIDs="" type="RAILWAY" dimensionality="LINE" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="199" end="203" text="방문객들" type="PERSON" dimensionality="POINT" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="330" end="338" text="신칸센 탄환열차" type="ARTIFACT" dimensionality="POINT" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="117" end="118" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e3" start="39" end="40" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="321" end="322" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e4" start="289" end="290" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="166" end="167" text="있" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="219" end="222" text="승차하" domain="" latLong="" elevation="" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="345" end="347" text="달리" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="22" end="24" text="동북" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="317" end="320" text="떨어져" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="55" end="57" text="접하" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="27" end="28" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="32" end="33" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="205" end="212" text="JR 센세키선" motion_signal_type="MANNER" comment="" />
+<MOTION_SIGNAL id="ms1" start="327" end="329" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="343" end="344" text="로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="227" end="229" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="235" end="237" text="까지" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="190" end="192" text="가깝" value="가깝" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="42" text="마쓰시마(Matsushima,松島)는 동북 일본의 미야기의 작은 마을이다." comment="" />
+<SENTENCE id="sent1" start="43" end="85" text="마을은 마쓰시만 만과 접하며 260개의 작은 섬으로 유명한데 소나무가 많다." comment="" />
+<SENTENCE id="sent2" start="86" end="120" text="그리하여 마쓰시마라 불리며 일본 3경중의 하나로 알려져 있다." comment="" />
+<SENTENCE id="sent3" start="122" end="169" text="오늘날의 마쓰시마는 아마도 적고 덜 고무적이지만 지역 내이면 당일여행의 가치가 있다." comment="" />
+<SENTENCE id="sent4" start="171" end="194" text="마을은 단지 현의 수도 센다이에서 가깝다." comment="" />
+<SENTENCE id="sent5" start="196" end="259" text="많은 방문객들이 JR 센세키선(仙石線)를 승차하면 센다이에서 이시노마키까지 고속은 25분 지역선은 40분 걸린다." comment="" />
+<SENTENCE id="sent6" start="260" end="292" text="가장 편리한 역은 마쓰시마 역,시마-카이간(松島海岸)이다." comment="" />
+<SENTENCE id="sent7" start="293" end="324" text="JR 도호쿠의 마쓰시마 역은 해변에서 제법 떨어져 있다." comment="" />
+<SENTENCE id="sent8" start="325" end="361" text="도쿄에서 신칸센 탄환열차는 센다이로 달리며 센세키선으로 연결된다." comment="" />
+<SENTENCE id="sent9" start="362" end="375" text="요금은 10900엔이다." comment="" />
+<SENTENCE id="sent10" start="376" end="405" text="마쓰시마 가이간까지의 여행은 두 시간 45분 걸린다." comment="" />
+<QSLINK id="qsl2" fromID="pl7" fromText="마쓰시만 만" toID="pl6" toText="마을" relType="EC" trajector="pl6" landmark="pl7" trigger="s1" comment="" />
+<QSLINK id="qsl3" fromID="pl21" fromText="마쓰시마 역" toID="pl20" toText="해변" relType="DC" trajector="pl21" landmark="pl20" trigger="s8" comment="" />
+<QSLINK id="qsl0" fromID="pl4" fromText="미야기" toID="pl3" toText="일본" relType="IN" trajector="pl4" landmark="pl3" trigger="s2" comment="" />
+<QSLINK id="qsl1" fromID="pl5" fromText="마을" toID="pl4" toText="미야기" relType="IN" trajector="pl5" landmark="pl4" trigger="s3" comment="" />
+<OLINK id="ol1" fromID="pl23" fromText="" toID="pl3" toText="일본" relType="동북" trajector="pl23" landmark="pl3" trigger="s0" frame_type="ABSOLUTE" referencePt="동북" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="승차하" toID="ms0" toText="JR 센세키선" trigger="m0" source="pl15" goal="pl16" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0,ms3,ms4" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="달리" toID="ms2" toText="로" trigger="m1" source="pl24" goal="pl27" midPoint="" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="p0" motion_signalID="ms1,ms2" comment="" />
+<MEASURELINK id="ml0" fromID="pl14" fromText="센다이" toID="pl11" toText="마을" trajector="pl11" landmark="pl14" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

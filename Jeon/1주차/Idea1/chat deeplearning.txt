@@ -1,0 +1,30 @@
+챗봇 딥러닝
+https://www.slideshare.net/inureyes/chat-bot-making-process-using-python-3-tensorflow
+https://medium.com/botsupply/generative-model-chatbots-e422ab08461e
+http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/
+https://www.slideshare.net/KimSungdong1/20170227-72644192
+https://brunch.co.kr/@gentlepie/18
+https://www.youtube.com/watch?v=q44fefORi1k
+https://github.com/datanada/Awesome-Korean-NLP
+
+데이터
+http://antispam.textcube.org/
+http://aiopen.etri.re.kr/doc_language.php
+http://www.openhangul.com/
+https://www.etri.re.kr/kor/sub6/sub6_01020102.etri?departCode=104&departInfoCode=180
+https://ithub.korean.go.kr/user/guide/corpus/guide1.do
+https://ko.wikisource.org/wiki/%EC%9C%84%ED%82%A4%EB%AC%B8%ED%97%8C:%EB%8C%80%EB%AC%B8
+https://www.data.go.kr/search/index.do
+
+
+tone generator
+http://www.nch.com.au/tonegen/index.html
+
+sentiwordnet
+http://bab2min.tistory.com/573
+
+감정분석 코드
+https://github.com/mrlee23/KoreanSentimentAnalyzer
+
+감정사전 요청메일
+kosac.snu@gmail.com

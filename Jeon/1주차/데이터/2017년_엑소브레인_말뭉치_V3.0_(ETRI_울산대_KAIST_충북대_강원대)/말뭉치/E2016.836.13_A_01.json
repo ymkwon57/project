@@ -1,0 +1,157 @@
+{
+    "doc_id": "E2016.836.13_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "열대야", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "열대야(熱帶夜)는 본래 일본 기상청 용어로 야간의 최저 기온이 25℃ 이상인 밤을 뜻한다.", 
+            "morp": [
+                {"id": 0, "lemma": "열대야", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 9, "weight": 1}, 
+                {"id": 2, "lemma": "熱帶夜", "type": "SH", "position": 10, "weight": 1}, 
+                {"id": 3, "lemma": ")", "type": "SS", "position": 19, "weight": 1}, 
+                {"id": 4, "lemma": "는", "type": "JX", "position": 20, "weight": 0.00823314}, 
+                {"id": 5, "lemma": "본래", "type": "NNG", "position": 24, "weight": 0.9}, 
+                {"id": 6, "lemma": "일본", "type": "NNP", "position": 31, "weight": 0.00710307}, 
+                {"id": 7, "lemma": "기상", "type": "NNG", "position": 38, "weight": 0.9}, 
+                {"id": 8, "lemma": "청", "type": "XSN", "position": 44, "weight": 0.0130066}, 
+                {"id": 9, "lemma": "용어", "type": "NNG", "position": 48, "weight": 0.9}, 
+                {"id": 10, "lemma": "로", "type": "JKB", "position": 54, "weight": 0.153229}, 
+                {"id": 11, "lemma": "야간", "type": "NNG", "position": 58, "weight": 0.9}, 
+                {"id": 12, "lemma": "의", "type": "JKG", "position": 64, "weight": 0.0694213}, 
+                {"id": 13, "lemma": "최저", "type": "NNG", "position": 68, "weight": 0.9}, 
+                {"id": 14, "lemma": "기온", "type": "NNG", "position": 75, "weight": 0.9}, 
+                {"id": 15, "lemma": "이", "type": "JKS", "position": 81, "weight": 0.0360723}, 
+                {"id": 16, "lemma": "25", "type": "SN", "position": 85, "weight": 1}, 
+                {"id": 17, "lemma": "℃", "type": "SW", "position": 87, "weight": 1}, 
+                {"id": 18, "lemma": "이상", "type": "NNG", "position": 91, "weight": 0.263293}, 
+                {"id": 19, "lemma": "이", "type": "VCP", "position": 97, "weight": 0.0177525}, 
+                {"id": 20, "lemma": "ㄴ", "type": "ETM", "position": 97, "weight": 0.220712}, 
+                {"id": 21, "lemma": "밤", "type": "NNG", "position": 101, "weight": 0.658489}, 
+                {"id": 22, "lemma": "을", "type": "JKO", "position": 104, "weight": 0.129611}, 
+                {"id": 23, "lemma": "뜻", "type": "NNG", "position": 108, "weight": 0.9}, 
+                {"id": 24, "lemma": "하", "type": "XSV", "position": 111, "weight": 0.0001}, 
+                {"id": 25, "lemma": "ㄴ다", "type": "EF", "position": 111, "weight": 0.0449045}, 
+                {"id": 26, "lemma": ".", "type": "SF", "position": 117, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "열대야", "type": "NNG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 9, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "熱帶夜", "type": "SH", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 19, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "본래", "type": "NNG", "scode": "000000", "weight": 1, "position": 24, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "일본", "type": "NNP", "scode": "020000", "weight": 0.333333, "position": 31, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "기상청", "type": "NNG", "scode": "000000", "weight": 1, "position": 38, "begin": 7, "end": 8}, 
+                {"id": 8, "text": "용어", "type": "NNG", "scode": "020000", "weight": 0.2, "position": 48, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 54, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "야간", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 58, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 64, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "최저", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 68, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "기온", "type": "NNG", "scode": "000000", "weight": 1, "position": 75, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 81, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "25", "type": "SN", "scode": "000000", "weight": 1, "position": 85, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "℃", "type": "SW", "scode": "000000", "weight": 1, "position": 87, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "이상", "type": "NNG", "scode": "050001", "weight": 0.0357143, "position": 91, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 97, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 97, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "밤", "type": "NNG", "scode": "010000", "weight": 0.166667, "position": 101, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 104, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "뜻하", "type": "VV", "scode": "000200", "weight": 0.333333, "position": 108, "begin": 23, "end": 24}, 
+                {"id": 23, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 111, "begin": 25, "end": 25}, 
+                {"id": 24, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 117, "begin": 26, "end": 26}
+            ], 
+            "word": [
+                {"id": 0, "text": "열대야(熱帶夜)는", "type": "", "begin": 0, "end": 4}, 
+                {"id": 1, "text": "본래", "type": "", "begin": 5, "end": 5}, 
+                {"id": 2, "text": "일본", "type": "", "begin": 6, "end": 6}, 
+                {"id": 3, "text": "기상청", "type": "", "begin": 7, "end": 8}, 
+                {"id": 4, "text": "용어로", "type": "", "begin": 9, "end": 10}, 
+                {"id": 5, "text": "야간의", "type": "", "begin": 11, "end": 12}, 
+                {"id": 6, "text": "최저", "type": "", "begin": 13, "end": 13}, 
+                {"id": 7, "text": "기온이", "type": "", "begin": 14, "end": 15}, 
+                {"id": 8, "text": "25℃", "type": "", "begin": 16, "end": 17}, 
+                {"id": 9, "text": "이상인", "type": "", "begin": 18, "end": 20}, 
+                {"id": 10, "text": "밤을", "type": "", "begin": 21, "end": 22}, 
+                {"id": 11, "text": "뜻한다.", "type": "", "begin": 23, "end": 26}
+            ], 
+            "NE": [
+                {"id": 0, "text": "열대야", "type": "TM_CLIMATE", "begin": 0, "end": 0, "weight": 0.134263, "common_noun": 0}, 
+                {"id": 1, "text": "熱帶夜", "type": "TM_CLIMATE", "begin": 2, "end": 2, "weight": 1, "common_noun": 0}, 
+                {"id": 2, "text": "일본", "type": "LCP_COUNTRY", "begin": 6, "end": 6, "weight": 0.588278, "common_noun": 0}, 
+                {"id": 3, "text": "기상청", "type": "OGG_POLITICS", "begin": 7, "end": 8, "weight": 0.6631, "common_noun": 0}, 
+                {"id": 4, "text": "야간", "type": "TI_DURATION", "begin": 11, "end": 11, "weight": 0.286688, "common_noun": 0}, 
+                {"id": 5, "text": "25℃", "type": "QT_TEMPERATURE", "begin": 16, "end": 17, "weight": 0.740577, "common_noun": 0}, 
+                {"id": 6, "text": "밤", "type": "TI_DURATION", "begin": 21, "end": 21, "weight": 0.344913, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "열대야(熱帶夜)는", "head": 4, "label": "NP_SBJ", "mod": [], "weight": 0.738377}, 
+                {"id": 1, "text": "본래", "head": 4, "label": "NP", "mod": [], "weight": 0.498626}, 
+                {"id": 2, "text": "일본", "head": 3, "label": "NP", "mod": [], "weight": 0.71251}, 
+                {"id": 3, "text": "기상청", "head": 4, "label": "NP", "mod": [2], "weight": 0.758355}, 
+                {"id": 4, "text": "용어로", "head": 11, "label": "NP_AJT", "mod": [1, 3, 0], "weight": 0.830751}, 
+                {"id": 5, "text": "야간의", "head": 7, "label": "NP_MOD", "mod": [], "weight": 0.719302}, 
+                {"id": 6, "text": "최저", "head": 7, "label": "NP", "mod": [], "weight": 0.709753}, 
+                {"id": 7, "text": "기온이", "head": 9, "label": "NP_SBJ", "mod": [5, 6], "weight": 0.429547}, 
+                {"id": 8, "text": "25℃", "head": 9, "label": "NP", "mod": [], "weight": 0.781532}, 
+                {"id": 9, "text": "이상인", "head": 10, "label": "VNP_MOD", "mod": [7, 8], "weight": 0.755978}, 
+                {"id": 10, "text": "밤을", "head": 11, "label": "NP_OBJ", "mod": [9], "weight": 0.888329}, 
+                {"id": 11, "text": "뜻한다.", "head": -1, "label": "VP", "mod": [4, 10], "weight": 0.0166404}
+            ], 
+            "SRL": [
+                {"verb": "뜻", "sense": 1, "word_id": 11, "weight": 0.196889, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "열대야(熱帶夜)는", "weight": 0.158615}, 
+                    {"type": "ARGM-PRD", "word_id": 4, "text": "용어로", "weight": 0.13588}, 
+                    {"type": "ARG2", "word_id": 10, "text": "밤을", "weight": 0.296173}, 
+                    {"type": "ARGM-EXT", "word_id": 9, "text": "이상인", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 4, "ne_id": -1, "text": "본래 일본 기상청 용어로", "start_eid_short": 1, "end_eid_short": 4, "text_short": "본래 일본 기상청 용어로"}
+        ]}, 
+        {"id": 1, "type": "TI_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "열대야(熱帶夜)는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "열대야(熱帶夜)는"}, 
+            {"id": 8, "sent_id": 0, "start_eid": 7, "end_eid": 10, "ne_id": 5, "text": "기온이 25℃ 이상인 밤을", "start_eid_short": 10, "end_eid_short": 10, "text_short": "밤을"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "본래", "start_eid_short": 1, "end_eid_short": 1, "text_short": "본래"}
+        ]}, 
+        {"id": 3, "type": "OGG_POLITICS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 2, "end_eid": 3, "ne_id": 3, "text": "일본 기상청", "start_eid_short": 2, "end_eid_short": 3, "text_short": "일본 기상청"}
+        ]}, 
+        {"id": 4, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": 2, "text": "일본", "start_eid_short": 2, "end_eid_short": 2, "text_short": "일본"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 5, "end_eid": 7, "ne_id": -1, "text": "야간의 최저 기온이", "start_eid_short": 6, "end_eid_short": 7, "text_short": "최저 기온이"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "야간의", "start_eid_short": 5, "end_eid_short": 5, "text_short": "야간의"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "최저", "start_eid_short": 6, "end_eid_short": 6, "text_short": "최저"}
+        ]}, 
+        {"id": 8, "type": "QT_TEMPERATURE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": 4, "text": "25℃", "start_eid_short": 8, "end_eid_short": 8, "text_short": "25℃"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 7, "end_eid": 9, "ne_id": -1, "text": "기온이 25℃ 이상인", "start_eid_short": 9, "end_eid_short": 9, "text_short": "이상인"}
+        ]}
+    ]
+}

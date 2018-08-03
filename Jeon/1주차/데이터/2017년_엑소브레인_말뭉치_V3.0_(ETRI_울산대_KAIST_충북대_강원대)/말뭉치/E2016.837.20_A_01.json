@@ -1,0 +1,101 @@
+{
+    "doc_id": "E2016.837.20_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "선덕여왕", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "신라 최초의 여왕이자 제27대 왕(재위 632∼647).", 
+            "morp": [
+                {"id": 0, "lemma": "신라", "type": "NNP", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "최초", "type": "NNG", "position": 7, "weight": 0.9}, 
+                {"id": 2, "lemma": "의", "type": "JKG", "position": 13, "weight": 0.0694213}, 
+                {"id": 3, "lemma": "여왕", "type": "NNG", "position": 17, "weight": 0.868777}, 
+                {"id": 4, "lemma": "이", "type": "VCP", "position": 23, "weight": 0.0177525}, 
+                {"id": 5, "lemma": "자", "type": "EC", "position": 26, "weight": 0.109096}, 
+                {"id": 6, "lemma": "제", "type": "XPN", "position": 30, "weight": 0.000581263}, 
+                {"id": 7, "lemma": "27", "type": "SN", "position": 33, "weight": 1}, 
+                {"id": 8, "lemma": "대", "type": "NNB", "position": 35, "weight": 0.147138}, 
+                {"id": 9, "lemma": "왕", "type": "NNG", "position": 39, "weight": 0.100746}, 
+                {"id": 10, "lemma": "(", "type": "SS", "position": 42, "weight": 1}, 
+                {"id": 11, "lemma": "재위", "type": "NNG", "position": 43, "weight": 0.9}, 
+                {"id": 12, "lemma": "632", "type": "SN", "position": 50, "weight": 1}, 
+                {"id": 13, "lemma": "∼", "type": "SO", "position": 53, "weight": 1}, 
+                {"id": 14, "lemma": "647", "type": "SN", "position": 56, "weight": 1}, 
+                {"id": 15, "lemma": ")", "type": "SS", "position": 59, "weight": 1}, 
+                {"id": 16, "lemma": ".", "type": "SF", "position": 60, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "신라", "type": "NNP", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "최초", "type": "NNG", "scode": "000000", "weight": 1, "position": 7, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 13, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "여왕", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 17, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 23, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "자", "type": "EC", "scode": "000000", "weight": 1, "position": 26, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "제", "type": "XPN", "scode": "210000", "weight": 0.0322581, "position": 30, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "27", "type": "SN", "scode": "000000", "weight": 1, "position": 33, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "대", "type": "NNB", "scode": "060102", "weight": 0.0232558, "position": 35, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "왕", "type": "NNG", "scode": "040001", "weight": 0.0833333, "position": 39, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 42, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "재위", "type": "NNG", "scode": "000000", "weight": 1, "position": 43, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "632", "type": "SN", "scode": "000000", "weight": 1, "position": 50, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "∼", "type": "SO", "scode": "000000", "weight": 1, "position": 53, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "647", "type": "SN", "scode": "000000", "weight": 1, "position": 56, "begin": 14, "end": 14}, 
+                {"id": 15, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 59, "begin": 15, "end": 15}, 
+                {"id": 16, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 60, "begin": 16, "end": 16}
+            ], 
+            "word": [
+                {"id": 0, "text": "신라", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "최초의", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "여왕이자", "type": "", "begin": 3, "end": 5}, 
+                {"id": 3, "text": "제27대", "type": "", "begin": 6, "end": 8}, 
+                {"id": 4, "text": "왕(재위", "type": "", "begin": 9, "end": 11}, 
+                {"id": 5, "text": "632∼647).", "type": "", "begin": 12, "end": 16}
+            ], 
+            "NE": [
+                {"id": 0, "text": "신라", "type": "LCP_COUNTRY", "begin": 0, "end": 0, "weight": 0.631452, "common_noun": 0}, 
+                {"id": 1, "text": "여왕", "type": "CV_POSITION", "begin": 3, "end": 3, "weight": 0.694383, "common_noun": 0}, 
+                {"id": 2, "text": "제27대", "type": "QT_ORDER", "begin": 6, "end": 8, "weight": 0.540064, "common_noun": 0}, 
+                {"id": 3, "text": "왕", "type": "CV_POSITION", "begin": 9, "end": 9, "weight": 0.60519, "common_noun": 0}, 
+                {"id": 4, "text": "632∼647", "type": "DT_DURATION", "begin": 12, "end": 14, "weight": 0.372293, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "신라", "head": 1, "label": "NP", "mod": [], "weight": 0.708074}, 
+                {"id": 1, "text": "최초의", "head": 2, "label": "NP_MOD", "mod": [0], "weight": 0.752678}, 
+                {"id": 2, "text": "여왕이자", "head": 4, "label": "VNP", "mod": [1], "weight": 0.412483}, 
+                {"id": 3, "text": "제27대", "head": 4, "label": "NP", "mod": [], "weight": 0.787352}, 
+                {"id": 4, "text": "왕(재위", "head": 5, "label": "NP", "mod": [2, 3], "weight": 0.656862}, 
+                {"id": 5, "text": "632∼647).", "head": -1, "label": "NP", "mod": [4], "weight": 0.0936321}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "신라 최초의", "start_eid_short": 0, "end_eid_short": 1, "text_short": "신라 최초의"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "신라", "start_eid_short": 0, "end_eid_short": 0, "text_short": "신라"}
+        ]}, 
+        {"id": 2, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 5, "ne_id": 4, "text": "신라 최초의 여왕이자 제27대 왕(재위 632∼647).", "start_eid_short": 5, "end_eid_short": 5, "text_short": "632∼647)."}, 
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": 1, "text": "신라 최초의 여왕이자", "start_eid_short": 2, "end_eid_short": 2, "text_short": "여왕이자"}, 
+            {"id": 4, "sent_id": 0, "start_eid": 3, "end_eid": 5, "ne_id": 4, "text": "제27대 왕(재위 632∼647).", "start_eid_short": 5, "end_eid_short": 5, "text_short": "632∼647)."}
+        ]}, 
+        {"id": 3, "type": "QT_ORDER", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": 2, "text": "제27대", "start_eid_short": 3, "end_eid_short": 3, "text_short": "제27대"}
+        ]}
+    ]
+}

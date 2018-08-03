@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+비키니 섬(Bikini)은 태평양에 떠있는 해초로 이루어진 섬이다. 비키니는 서태평양 한가로웠던 휴향지로 1946년 미국의 핵폭탄, 수소폭탄의 실험장소로 유명해진 섬이다. 비키니 섬을 해방 시켜 준건 미국이였다. 주민들은 미국에 감사를 표하고, 환호했다.
+1946년 처음 등장한 비키니 수영복은 당시 란제리 전문점을 운영하던 프랑스 루이 레아드가 만들었는데 당시 원자폭탄이 실험됐던 마샬 군도의 비키니 섬에서 유래됐다. 이 말은 이 옷의 충격적인 인상과 원폭 실험의 충격을 공통점으로 해 만들었다. 1945년 10월, 원자 폭탄 실험 계획인 '교차로 작전'이 은밀하게 시작된다! 제2차 세계 대전이 막을 내린 직후, 미국 정부는 원자 폭탄의 가공할 파괴력을 실험하기 위해 태평양의 평화로운 섬을 선택하였다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="6" text="비키니 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="16" end="19" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="34" end="35" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="39" end="42" text="비키니" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="55" end="58" text="휴향지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="92" end="93" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="97" end="102" text="비키니 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="215" end="220" text="마샬 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="222" end="227" text="비키니 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="377" end="380" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="387" end="388" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="44" end="48" text="서태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="25" end="27" text="해초" type="FAC" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="19" end="20" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="220" end="221" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="380" end="381" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SENTENCE id="sent0" start="1" end="38" text="비키니 섬(Bikini)은 태평양에 떠있는 해초로 이루어진 섬이다." comment="" />
+<SENTENCE id="sent1" start="39" end="96" text="비키니는 서태평양 한가로웠던 휴향지로 1946년 미국의 핵폭탄, 수소폭탄의 실험장소로 유명해진 섬이다." comment="" />
+<SENTENCE id="sent2" start="97" end="119" text="비키니 섬을 해방 시켜 준건 미국이였다." comment="" />
+<SENTENCE id="sent3" start="120" end="143" text="주민들은 미국에 감사를 표하고, 환호했다." comment="" />
+<SENTENCE id="sent4" start="144" end="235" text="1946년 처음 등장한 비키니 수영복은 당시 란제리 전문점을 운영하던 프랑스 루이 레아드가 만들었는데 당시 원자폭탄이 실험됐던 마샬 군도의 비키니 섬에서 유래됐다." comment="" />
+<SENTENCE id="sent5" start="236" end="279" text="이 말은 이 옷의 충격적인 인상과 원폭 실험의 충격을 공통점으로 해 만들었다." comment="" />
+<SENTENCE id="sent6" start="280" end="324" text="1945년 10월, 원자 폭탄 실험 계획인 '교차로 작전'이 은밀하게 시작된다!" comment="" />
+<SENTENCE id="sent7" start="325" end="397" text="제2차 세계 대전이 막을 내린 직후, 미국 정부는 원자 폭탄의 가공할 파괴력을 실험하기 위해 태평양의 평화로운 섬을 선택하였다. " comment="" />
+<QSLINK id="qsl0" fromID="pl1" fromText="태평양" toID="se0" toText="해초" relType="NTPP" trajector="se0" landmark="pl1" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="pl2" fromText="섬" toID="pl1" toText="태평양" relType="NTPP" trajector="pl2" landmark="pl1" trigger="s0" comment="" />
+<QSLINK id="qsl3" fromID="pl14" fromText="비키니 섬" toID="pl13" toText="마샬 군도" relType="IN" trajector="pl14" landmark="pl13" trigger="s1" comment="" />
+<QSLINK id="qsl4" fromID="pl17" fromText="섬" toID="pl16" toText="태평양" relType="IN" trajector="pl17" landmark="pl16" trigger="s2" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

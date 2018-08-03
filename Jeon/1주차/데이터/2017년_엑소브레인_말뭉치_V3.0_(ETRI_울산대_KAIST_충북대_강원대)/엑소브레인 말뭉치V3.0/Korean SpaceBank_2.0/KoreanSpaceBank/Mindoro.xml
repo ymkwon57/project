@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+민도로[Mindoro] 는 필리핀 제도 중앙에 있는 섬이다. 북동쪽의 루손 섬과 남서쪽의 베르데 섬 사이에 위치하며, 남서부와 남동부에는 민도로 해협과 타블라스 해협이 각각 자리잡고 있다. 면적은 1만 347km2, 인구는 약 48만(1992). 필리핀 제도 중 7번째로 큰 섬이며 행정적으로는 민도로옥시덴탈주(州:주도 맘부라오)와 민도로오리엔탈주(州:주도 칼라판)로 나뉜다. 필리핀의 수도가 있는 루손(Luzon) 섬 남쪽에 위치한다. 민도로 큰박쥐라고 명명된 이 박쥐는 말그대로 기사를 제외하고는 거의 알려지지 않은 생물이다. 발견된지는 2년정도 됬지만, 왠지 모르게 인기가 없는 놈이다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="4" text="민도로" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="16" end="22" text="필리핀 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="30" end="31" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="40" end="44" text="루손 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="51" end="56" text="베르데 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="139" end="145" text="필리핀 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="166" end="174" text="민도로옥시덴탈주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="187" end="195" text="민도로오리엔탈주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="212" end="215" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="224" end="226" text="루손" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="107" />
+<PLACE id="pl14" start="177" end="179" text="주도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="180" end="184" text="맘부라오" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="198" end="200" text="주도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="201" end="204" text="칼라판" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="35" />
+<PLACE id="pl22" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="212" />
+<PLACE id="pl6" start="155" end="156" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="217" end="219" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="234" end="235" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="78" end="84" text="민도로 해협" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="86" end="93" text="타블라스 해협" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s2" start="35" end="38" text="북동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="57" end="59" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="236" end="238" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="67" end="70" text="남서부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="23" end="25" text="중앙" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="46" end="49" text="남서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="72" end="75" text="남동부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="215" end="216" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me0" start="111" end="120" text="1만 347km2" value="10347" unit="km2" comment="" />
+<SENTENCE id="sent0" start="1" end="34" text="민도로[Mindoro] 는 필리핀 제도 중앙에 있는 섬이다." comment="" />
+<SENTENCE id="sent1" start="35" end="106" text="북동쪽의 루손 섬과 남서쪽의 베르데 섬 사이에 위치하며, 남서부와 남동부에는 민도로 해협과 타블라스 해협이 각각 자리잡고 있다." comment="" />
+<SENTENCE id="sent2" start="107" end="138" text="면적은 1만 347km2, 인구는 약 48만(1992)." comment="" />
+<SENTENCE id="sent3" start="139" end="211" text="필리핀 제도 중 7번째로 큰 섬이며 행정적으로는 민도로옥시덴탈주(州:주도 맘부라오)와 민도로오리엔탈주(州:주도 칼라판)로 나뉜다." comment="" />
+<SENTENCE id="sent4" start="212" end="245" text="필리핀의 수도가 있는 루손(Luzon) 섬 남쪽에 위치한다." comment="" />
+<SENTENCE id="sent5" start="246" end="297" text="민도로 큰박쥐라고 명명된 이 박쥐는 말그대로 기사를 제외하고는 거의 알려지지 않은 생물이다." comment="" />
+<SENTENCE id="sent6" start="298" end="333" text="발견된지는 2년정도 됬지만, 왠지 모르게 인기가 없는 놈이다. " comment="" />
+<QSLINK id="qsl1" fromID="pl4" fromText="베르데 섬" toID="pl3" toText="루손 섬" relType="DC" trajector="pl4" landmark="pl3" trigger="s4" comment="" />
+<QSLINK id="qsl2" fromID="pl3" fromText="루손 섬" toID="pl21" toText="" relType="OUT" trajector="pl3" landmark="pl21" trigger="s4" comment="" />
+<QSLINK id="qsl3" fromID="pl4" fromText="베르데 섬" toID="pl21" toText="" relType="OUT" trajector="pl4" landmark="pl21" trigger="s4" comment="" />
+<QSLINK id="qsl4" fromID="pl10" fromText="수도" toID="pl9" toText="필리핀" relType="NTPP" trajector="pl10" landmark="pl9" trigger="s6" comment="" />
+<OLINK id="ol0" fromID="pl3" fromText="루손 섬" toID="pl21" toText="북동" relType="북동" trajector="pl3" landmark="pl21" trigger="s2" frame_type="ABSOLUTE" referencePt="북동" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl4" fromText="베르데 섬" toID="pl21" toText="남서" relType="남서" trajector="pl4" landmark="pl21" trigger="s3" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="p0" fromText="민도로 해협" toID="pl21" toText="" relType="남서" trajector="p0" landmark="pl21" trigger="s1" frame_type="ABSOLUTE" referencePt="남서" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="p1" fromText="타블라스 해협" toID="pl21" toText="" relType="남동" trajector="p1" landmark="pl21" trigger="s5" frame_type="ABSOLUTE" referencePt="남동" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl22" fromText="" toID="pl12" toText="섬" relType="남" trajector="pl22" landmark="pl12" trigger="s7" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol6" fromID="pl2" fromText="섬" toID="pl1" toText="필리핀 제도" relType="중" trajector="pl2" landmark="pl1" trigger="s0" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<MEASURELINK id="ml0" fromID="pl15" fromText="" toID="me0" toText="1만 347km2" trajector="pl15" landmark="pl15" relType="GENERAL_DIMENSION" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

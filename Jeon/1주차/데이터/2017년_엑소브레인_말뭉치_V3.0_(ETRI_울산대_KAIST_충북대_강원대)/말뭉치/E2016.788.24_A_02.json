@@ -1,0 +1,412 @@
+{
+    "doc_id": "E2016.788.24_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "동국정운", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<책명> 조선 세종 30년(1448)에 신숙주, 최항, 성삼문, 박팽년, 이개 등의 집현전 학자들이 왕명에 따라 편찬한 운서(韻書).", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "책명", "type": "NNG", "position": 1, "weight": 0.55}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "조선", "type": "NNP", "position": 9, "weight": 0.0663851}, 
+                {"id": 4, "lemma": "세종", "type": "NNP", "position": 16, "weight": 0.0807222}, 
+                {"id": 5, "lemma": "30", "type": "SN", "position": 23, "weight": 1}, 
+                {"id": 6, "lemma": "년", "type": "NNB", "position": 25, "weight": 0.414343}, 
+                {"id": 7, "lemma": "(", "type": "SS", "position": 28, "weight": 1}, 
+                {"id": 8, "lemma": "1448", "type": "SN", "position": 29, "weight": 1}, 
+                {"id": 9, "lemma": ")", "type": "SS", "position": 33, "weight": 1}, 
+                {"id": 10, "lemma": "에", "type": "JKB", "position": 34, "weight": 0.048593}, 
+                {"id": 11, "lemma": "신숙주", "type": "NNP", "position": 38, "weight": 0.9}, 
+                {"id": 12, "lemma": ",", "type": "SP", "position": 47, "weight": 1}, 
+                {"id": 13, "lemma": "최항", "type": "NNP", "position": 49, "weight": 0.55}, 
+                {"id": 14, "lemma": ",", "type": "SP", "position": 55, "weight": 1}, 
+                {"id": 15, "lemma": "성삼문", "type": "NNP", "position": 57, "weight": 0.9}, 
+                {"id": 16, "lemma": ",", "type": "SP", "position": 66, "weight": 1}, 
+                {"id": 17, "lemma": "박팽년", "type": "NNP", "position": 68, "weight": 0.45}, 
+                {"id": 18, "lemma": ",", "type": "SP", "position": 77, "weight": 1}, 
+                {"id": 19, "lemma": "이개", "type": "NNP", "position": 79, "weight": 0.0773764}, 
+                {"id": 20, "lemma": "등", "type": "NNB", "position": 86, "weight": 0.0459798}, 
+                {"id": 21, "lemma": "의", "type": "JKG", "position": 89, "weight": 0.0520933}, 
+                {"id": 22, "lemma": "집현전", "type": "NNP", "position": 93, "weight": 0.798822}, 
+                {"id": 23, "lemma": "학자", "type": "NNG", "position": 103, "weight": 0.9}, 
+                {"id": 24, "lemma": "들", "type": "XSN", "position": 109, "weight": 0.0299841}, 
+                {"id": 25, "lemma": "이", "type": "JKS", "position": 112, "weight": 0.0731805}, 
+                {"id": 26, "lemma": "왕명", "type": "NNG", "position": 116, "weight": 0.9}, 
+                {"id": 27, "lemma": "에", "type": "JKB", "position": 122, "weight": 0.153364}, 
+                {"id": 28, "lemma": "따르", "type": "VV", "position": 126, "weight": 0.9}, 
+                {"id": 29, "lemma": "아", "type": "EC", "position": 129, "weight": 0.398809}, 
+                {"id": 30, "lemma": "편찬", "type": "NNG", "position": 133, "weight": 0.9}, 
+                {"id": 31, "lemma": "하", "type": "XSV", "position": 139, "weight": 0.0001}, 
+                {"id": 32, "lemma": "ㄴ", "type": "ETM", "position": 139, "weight": 0.392321}, 
+                {"id": 33, "lemma": "운서", "type": "NNG", "position": 143, "weight": 0.9}, 
+                {"id": 34, "lemma": "(", "type": "SS", "position": 149, "weight": 1}, 
+                {"id": 35, "lemma": "韻書", "type": "SH", "position": 150, "weight": 1}, 
+                {"id": 36, "lemma": ")", "type": "SS", "position": 156, "weight": 1}, 
+                {"id": 37, "lemma": ".", "type": "SF", "position": 157, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "책명", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "조선", "type": "NNP", "scode": "050002", "weight": 0.0833333, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "세종", "type": "NNP", "scode": "020000", "weight": 0.166667, "position": 16, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "30", "type": "SN", "scode": "000000", "weight": 1, "position": 23, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 25, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 28, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "1448", "type": "SN", "scode": "000000", "weight": 1, "position": 29, "begin": 8, "end": 8}, 
+                {"id": 9, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 33, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 34, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "신숙주", "type": "NNP", "scode": "000000", "weight": 1, "position": 38, "begin": 11, "end": 11}, 
+                {"id": 12, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 47, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "최항", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 49, "begin": 13, "end": 13}, 
+                {"id": 14, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 55, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "성삼문", "type": "NNP", "scode": "000000", "weight": 1, "position": 57, "begin": 15, "end": 15}, 
+                {"id": 16, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 66, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "박팽년", "type": "NNP", "scode": "000000", "weight": 1, "position": 68, "begin": 17, "end": 17}, 
+                {"id": 18, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 77, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "이개", "type": "NNP", "scode": "030000", "weight": 0.333333, "position": 79, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 86, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 89, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "집현전", "type": "NNP", "scode": "000002", "weight": 0.5, "position": 93, "begin": 22, "end": 22}, 
+                {"id": 23, "text": "학자", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 103, "begin": 23, "end": 23}, 
+                {"id": 24, "text": "들", "type": "XSN", "scode": "090000", "weight": 0.0909091, "position": 109, "begin": 24, "end": 24}, 
+                {"id": 25, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 112, "begin": 25, "end": 25}, 
+                {"id": 26, "text": "왕명", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 116, "begin": 26, "end": 26}, 
+                {"id": 27, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 122, "begin": 27, "end": 27}, 
+                {"id": 28, "text": "따르", "type": "VV", "scode": "010202", "weight": 0.125, "position": 126, "begin": 28, "end": 28}, 
+                {"id": 29, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 129, "begin": 29, "end": 29}, 
+                {"id": 30, "text": "편찬하", "type": "VV", "scode": "000000", "weight": 1, "position": 133, "begin": 30, "end": 31}, 
+                {"id": 31, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 139, "begin": 32, "end": 32}, 
+                {"id": 32, "text": "운서", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 143, "begin": 33, "end": 33}, 
+                {"id": 33, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 149, "begin": 34, "end": 34}, 
+                {"id": 34, "text": "韻書", "type": "SH", "scode": "000000", "weight": 1, "position": 150, "begin": 35, "end": 35}, 
+                {"id": 35, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 156, "begin": 36, "end": 36}, 
+                {"id": 36, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 157, "begin": 37, "end": 37}
+            ], 
+            "word": [
+                {"id": 0, "text": "<책명>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "조선", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "세종", "type": "", "begin": 4, "end": 4}, 
+                {"id": 3, "text": "30년(1448)에", "type": "", "begin": 5, "end": 10}, 
+                {"id": 4, "text": "신숙주,", "type": "", "begin": 11, "end": 12}, 
+                {"id": 5, "text": "최항,", "type": "", "begin": 13, "end": 14}, 
+                {"id": 6, "text": "성삼문,", "type": "", "begin": 15, "end": 16}, 
+                {"id": 7, "text": "박팽년,", "type": "", "begin": 17, "end": 18}, 
+                {"id": 8, "text": "이개", "type": "", "begin": 19, "end": 19}, 
+                {"id": 9, "text": "등의", "type": "", "begin": 20, "end": 21}, 
+                {"id": 10, "text": "집현전", "type": "", "begin": 22, "end": 22}, 
+                {"id": 11, "text": "학자들이", "type": "", "begin": 23, "end": 25}, 
+                {"id": 12, "text": "왕명에", "type": "", "begin": 26, "end": 27}, 
+                {"id": 13, "text": "따라", "type": "", "begin": 28, "end": 29}, 
+                {"id": 14, "text": "편찬한", "type": "", "begin": 30, "end": 32}, 
+                {"id": 15, "text": "운서(韻書).", "type": "", "begin": 33, "end": 37}
+            ], 
+            "NE": [
+                {"id": 0, "text": "조선 세종 30년", "type": "DT_DYNASTY", "begin": 3, "end": 6, "weight": 0.26628, "common_noun": 0}, 
+                {"id": 1, "text": "1448", "type": "DT_YEAR", "begin": 8, "end": 8, "weight": 0.457265, "common_noun": 0}, 
+                {"id": 2, "text": "신숙주", "type": "PS_NAME", "begin": 11, "end": 11, "weight": 0.356144, "common_noun": 0}, 
+                {"id": 3, "text": "최항", "type": "PS_NAME", "begin": 13, "end": 13, "weight": 0.598474, "common_noun": 0}, 
+                {"id": 4, "text": "성삼문", "type": "PS_NAME", "begin": 15, "end": 15, "weight": 0.456897, "common_noun": 0}, 
+                {"id": 5, "text": "박팽년", "type": "PS_NAME", "begin": 17, "end": 17, "weight": 0.694141, "common_noun": 0}, 
+                {"id": 6, "text": "이개", "type": "PS_NAME", "begin": 19, "end": 19, "weight": 0.660246, "common_noun": 0}, 
+                {"id": 7, "text": "집현전", "type": "OGG_POLITICS", "begin": 22, "end": 22, "weight": 0.471487, "common_noun": 0}, 
+                {"id": 8, "text": "학자", "type": "CV_OCCUPATION", "begin": 23, "end": 23, "weight": 0.672385, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<책명>", "head": 15, "label": "NP", "mod": [], "weight": 0.777635}, 
+                {"id": 1, "text": "조선", "head": 2, "label": "NP", "mod": [], "weight": 0.808061}, 
+                {"id": 2, "text": "세종", "head": 3, "label": "NP", "mod": [1], "weight": 0.791823}, 
+                {"id": 3, "text": "30년(1448)에", "head": 13, "label": "NP_AJT", "mod": [2], "weight": 0.395256}, 
+                {"id": 4, "text": "신숙주,", "head": 8, "label": "NP_CNJ", "mod": [], "weight": 0.766627}, 
+                {"id": 5, "text": "최항,", "head": 8, "label": "NP_CNJ", "mod": [], "weight": 0.852269}, 
+                {"id": 6, "text": "성삼문,", "head": 8, "label": "NP_CNJ", "mod": [], "weight": 0.86798}, 
+                {"id": 7, "text": "박팽년,", "head": 8, "label": "NP_CNJ", "mod": [], "weight": 0.809546}, 
+                {"id": 8, "text": "이개", "head": 9, "label": "NP", "mod": [4, 5, 6, 7], "weight": 0.865914}, 
+                {"id": 9, "text": "등의", "head": 11, "label": "NP_MOD", "mod": [8], "weight": 0.684961}, 
+                {"id": 10, "text": "집현전", "head": 11, "label": "NP", "mod": [], "weight": 0.831125}, 
+                {"id": 11, "text": "학자들이", "head": 13, "label": "NP_SBJ", "mod": [9, 10], "weight": 0.487227}, 
+                {"id": 12, "text": "왕명에", "head": 13, "label": "NP_AJT", "mod": [], "weight": 0.56095}, 
+                {"id": 13, "text": "따라", "head": 14, "label": "VP", "mod": [3, 11, 12], "weight": 0.66587}, 
+                {"id": 14, "text": "편찬한", "head": 15, "label": "VP_MOD", "mod": [13], "weight": 0.794171}, 
+                {"id": 15, "text": "운서(韻書).", "head": -1, "label": "NP", "mod": [0, 14], "weight": 0.00456137}
+            ], 
+            "SRL": [
+                {"verb": "따르", "sense": 1, "word_id": 13, "weight": 0.196848, "argument": [
+                    {"type": "ARG1", "word_id": 12, "text": "왕명에", "weight": 1}, 
+                    {"type": "ARGM-TMP", "word_id": 3, "text": "30년(1448)에", "weight": 1}, 
+                    {"type": "ARG0", "word_id": 11, "text": "학자들이", "weight": 1}
+                ]}, 
+                {"verb": "편찬", "sense": 1, "word_id": 14, "weight": 0.29217, "argument": [
+                    {"type": "ARG0", "word_id": 11, "text": "학자들이", "weight": 0.373142}, 
+                    {"type": "ARG1", "word_id": 15, "text": "운서(韻書).", "weight": 0.211198}, 
+                    {"type": "ARGM-TMP", "word_id": 3, "text": "30년(1448)에", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "중국의 운서인 ≪홍무정운≫ 등을 참고하여 우리나라의 한자음을 새로운 체계로 정리한 최초의 음운서로, ≪훈민정음≫의 창제 원리 및 배경연구에 매우 귀중한 자료이다.", 
+            "morp": [
+                {"id": 0, "lemma": "중국", "type": "NNP", "position": 158, "weight": 0.0892692}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 164, "weight": 0.0987295}, 
+                {"id": 2, "lemma": "운서", "type": "NNG", "position": 168, "weight": 0.9}, 
+                {"id": 3, "lemma": "이", "type": "VCP", "position": 174, "weight": 0.00359898}, 
+                {"id": 4, "lemma": "ㄴ", "type": "ETM", "position": 174, "weight": 0.220712}, 
+                {"id": 5, "lemma": "≪", "type": "SS", "position": 178, "weight": 1}, 
+                {"id": 6, "lemma": "홍무정운", "type": "NNP", "position": 181, "weight": 0.25}, 
+                {"id": 7, "lemma": "≫", "type": "SS", "position": 193, "weight": 1}, 
+                {"id": 8, "lemma": "등", "type": "NNB", "position": 197, "weight": 0.0121753}, 
+                {"id": 9, "lemma": "을", "type": "JKO", "position": 200, "weight": 0.0630104}, 
+                {"id": 10, "lemma": "참고", "type": "NNG", "position": 204, "weight": 0.9}, 
+                {"id": 11, "lemma": "하", "type": "XSV", "position": 210, "weight": 0.0001}, 
+                {"id": 12, "lemma": "어", "type": "EC", "position": 213, "weight": 0.361326}, 
+                {"id": 13, "lemma": "우리", "type": "NNG", "position": 217, "weight": 0.0007654}, 
+                {"id": 14, "lemma": "나라", "type": "NNG", "position": 223, "weight": 0.184431}, 
+                {"id": 15, "lemma": "의", "type": "JKG", "position": 229, "weight": 0.0694213}, 
+                {"id": 16, "lemma": "한자", "type": "NNG", "position": 233, "weight": 0.8673}, 
+                {"id": 17, "lemma": "음", "type": "NNG", "position": 239, "weight": 0.0140056}, 
+                {"id": 18, "lemma": "을", "type": "JKO", "position": 242, "weight": 0.129611}, 
+                {"id": 19, "lemma": "새롭", "type": "VA", "position": 246, "weight": 0.9}, 
+                {"id": 20, "lemma": "은", "type": "ETM", "position": 249, "weight": 0.155123}, 
+                {"id": 21, "lemma": "체계", "type": "NNG", "position": 256, "weight": 0.9}, 
+                {"id": 22, "lemma": "로", "type": "JKB", "position": 262, "weight": 0.153229}, 
+                {"id": 23, "lemma": "정리", "type": "NNG", "position": 266, "weight": 0.9}, 
+                {"id": 24, "lemma": "하", "type": "XSV", "position": 272, "weight": 0.0001}, 
+                {"id": 25, "lemma": "ㄴ", "type": "ETM", "position": 272, "weight": 0.392321}, 
+                {"id": 26, "lemma": "최초", "type": "NNG", "position": 276, "weight": 0.9}, 
+                {"id": 27, "lemma": "의", "type": "JKG", "position": 282, "weight": 0.0694213}, 
+                {"id": 28, "lemma": "음운서", "type": "NNG", "position": 286, "weight": 0.1}, 
+                {"id": 29, "lemma": "로", "type": "JKB", "position": 295, "weight": 0.153229}, 
+                {"id": 30, "lemma": ",", "type": "SP", "position": 298, "weight": 1}, 
+                {"id": 31, "lemma": "≪", "type": "SS", "position": 300, "weight": 1}, 
+                {"id": 32, "lemma": "훈민정음", "type": "NNP", "position": 303, "weight": 0.1}, 
+                {"id": 33, "lemma": "≫", "type": "SS", "position": 315, "weight": 1}, 
+                {"id": 34, "lemma": "의", "type": "JKG", "position": 318, "weight": 0.0878251}, 
+                {"id": 35, "lemma": "창제", "type": "NNG", "position": 322, "weight": 0.9}, 
+                {"id": 36, "lemma": "원리", "type": "NNG", "position": 329, "weight": 0.9}, 
+                {"id": 37, "lemma": "및", "type": "MAJ", "position": 336, "weight": 0.00215414}, 
+                {"id": 38, "lemma": "배경", "type": "NNG", "position": 340, "weight": 0.9}, 
+                {"id": 39, "lemma": "연구", "type": "NNG", "position": 346, "weight": 0.9}, 
+                {"id": 40, "lemma": "에", "type": "JKB", "position": 352, "weight": 0.153364}, 
+                {"id": 41, "lemma": "매우", "type": "MAG", "position": 356, "weight": 0.0558577}, 
+                {"id": 42, "lemma": "귀중하", "type": "VA", "position": 363, "weight": 0.3}, 
+                {"id": 43, "lemma": "ㄴ", "type": "ETM", "position": 369, "weight": 0.488779}, 
+                {"id": 44, "lemma": "자료", "type": "NNG", "position": 373, "weight": 0.9}, 
+                {"id": 45, "lemma": "이", "type": "VCP", "position": 379, "weight": 0.0177525}, 
+                {"id": 46, "lemma": "다", "type": "EF", "position": 382, "weight": 0.353579}, 
+                {"id": 47, "lemma": ".", "type": "SF", "position": 385, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "중국", "type": "NNP", "scode": "010000", "weight": 0.5, "position": 158, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 164, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "운서", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 168, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 174, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 174, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "≪", "type": "SS", "scode": "000000", "weight": 1, "position": 178, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "홍무정운", "type": "NNP", "scode": "000000", "weight": 1, "position": 181, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "≫", "type": "SS", "scode": "000000", "weight": 1, "position": 193, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 197, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 200, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "참고하", "type": "VV", "scode": "000002", "weight": 0.5, "position": 204, "begin": 10, "end": 11}, 
+                {"id": 11, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 213, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "우리나라", "type": "NNG", "scode": "000000", "weight": 1, "position": 217, "begin": 13, "end": 14}, 
+                {"id": 13, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 229, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "한자음", "type": "NNG", "scode": "000000", "weight": 1, "position": 233, "begin": 16, "end": 17}, 
+                {"id": 15, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 242, "begin": 18, "end": 18}, 
+                {"id": 16, "text": "새롭", "type": "VA", "scode": "000001", "weight": 0.333333, "position": 246, "begin": 19, "end": 19}, 
+                {"id": 17, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 249, "begin": 20, "end": 20}, 
+                {"id": 18, "text": "체계", "type": "NNG", "scode": "030001", "weight": 0.25, "position": 256, "begin": 21, "end": 21}, 
+                {"id": 19, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 262, "begin": 22, "end": 22}, 
+                {"id": 20, "text": "정리하", "type": "VV", "scode": "000102", "weight": 0.166667, "position": 266, "begin": 23, "end": 24}, 
+                {"id": 21, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 272, "begin": 25, "end": 25}, 
+                {"id": 22, "text": "최초", "type": "NNG", "scode": "000000", "weight": 1, "position": 276, "begin": 26, "end": 26}, 
+                {"id": 23, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 282, "begin": 27, "end": 27}, 
+                {"id": 24, "text": "음운서", "type": "NNG", "scode": "000000", "weight": 0, "position": 286, "begin": 28, "end": 28}, 
+                {"id": 25, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 295, "begin": 29, "end": 29}, 
+                {"id": 26, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 298, "begin": 30, "end": 30}, 
+                {"id": 27, "text": "≪", "type": "SS", "scode": "000000", "weight": 1, "position": 300, "begin": 31, "end": 31}, 
+                {"id": 28, "text": "훈민정음", "type": "NNP", "scode": "000002", "weight": 0.5, "position": 303, "begin": 32, "end": 32}, 
+                {"id": 29, "text": "≫", "type": "SS", "scode": "000000", "weight": 1, "position": 315, "begin": 33, "end": 33}, 
+                {"id": 30, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 318, "begin": 34, "end": 34}, 
+                {"id": 31, "text": "창제", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 322, "begin": 35, "end": 35}, 
+                {"id": 32, "text": "원리", "type": "NNG", "scode": "020001", "weight": 0.2, "position": 329, "begin": 36, "end": 36}, 
+                {"id": 33, "text": "및", "type": "MAJ", "scode": "000000", "weight": 1, "position": 336, "begin": 37, "end": 37}, 
+                {"id": 34, "text": "배경", "type": "NNG", "scode": "010004", "weight": 0.142857, "position": 340, "begin": 38, "end": 38}, 
+                {"id": 35, "text": "연구", "type": "NNG", "scode": "030000", "weight": 0.111111, "position": 346, "begin": 39, "end": 39}, 
+                {"id": 36, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 352, "begin": 40, "end": 40}, 
+                {"id": 37, "text": "매우", "type": "MAG", "scode": "010000", "weight": 0.2, "position": 356, "begin": 41, "end": 41}, 
+                {"id": 38, "text": "귀중하", "type": "VA", "scode": "010000", "weight": 0.5, "position": 363, "begin": 42, "end": 42}, 
+                {"id": 39, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 369, "begin": 43, "end": 43}, 
+                {"id": 40, "text": "자료", "type": "NNG", "scode": "030001", "weight": 0.2, "position": 373, "begin": 44, "end": 44}, 
+                {"id": 41, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 379, "begin": 45, "end": 45}, 
+                {"id": 42, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 382, "begin": 46, "end": 46}, 
+                {"id": 43, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 385, "begin": 47, "end": 47}
+            ], 
+            "word": [
+                {"id": 0, "text": "중국의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "운서인", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "≪홍무정운≫", "type": "", "begin": 5, "end": 7}, 
+                {"id": 3, "text": "등을", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "참고하여", "type": "", "begin": 10, "end": 12}, 
+                {"id": 5, "text": "우리나라의", "type": "", "begin": 13, "end": 15}, 
+                {"id": 6, "text": "한자음을", "type": "", "begin": 16, "end": 18}, 
+                {"id": 7, "text": "새로운", "type": "", "begin": 19, "end": 20}, 
+                {"id": 8, "text": "체계로", "type": "", "begin": 21, "end": 22}, 
+                {"id": 9, "text": "정리한", "type": "", "begin": 23, "end": 25}, 
+                {"id": 10, "text": "최초의", "type": "", "begin": 26, "end": 27}, 
+                {"id": 11, "text": "음운서로,", "type": "", "begin": 28, "end": 30}, 
+                {"id": 12, "text": "≪훈민정음≫의", "type": "", "begin": 31, "end": 34}, 
+                {"id": 13, "text": "창제", "type": "", "begin": 35, "end": 35}, 
+                {"id": 14, "text": "원리", "type": "", "begin": 36, "end": 36}, 
+                {"id": 15, "text": "및", "type": "", "begin": 37, "end": 37}, 
+                {"id": 16, "text": "배경연구에", "type": "", "begin": 38, "end": 40}, 
+                {"id": 17, "text": "매우", "type": "", "begin": 41, "end": 41}, 
+                {"id": 18, "text": "귀중한", "type": "", "begin": 42, "end": 43}, 
+                {"id": 19, "text": "자료이다.", "type": "", "begin": 44, "end": 47}
+            ], 
+            "NE": [
+                {"id": 0, "text": "중국", "type": "LCP_COUNTRY", "begin": 0, "end": 0, "weight": 0.668427, "common_noun": 0}, 
+                {"id": 1, "text": "홍무정운", "type": "AFW_DOCUMENT", "begin": 6, "end": 6, "weight": 0.444272, "common_noun": 0}, 
+                {"id": 2, "text": "훈민정음", "type": "AFW_DOCUMENT", "begin": 32, "end": 32, "weight": 0.644796, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "중국의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.507714}, 
+                {"id": 1, "text": "운서인", "head": 2, "label": "VNP_MOD", "mod": [0], "weight": 0.687735}, 
+                {"id": 2, "text": "≪홍무정운≫", "head": 3, "label": "NP", "mod": [1], "weight": 0.570622}, 
+                {"id": 3, "text": "등을", "head": 4, "label": "NP_OBJ", "mod": [2], "weight": 0.766155}, 
+                {"id": 4, "text": "참고하여", "head": 9, "label": "VP", "mod": [3], "weight": 0.536255}, 
+                {"id": 5, "text": "우리나라의", "head": 6, "label": "NP_MOD", "mod": [], "weight": 0.690774}, 
+                {"id": 6, "text": "한자음을", "head": 9, "label": "NP_OBJ", "mod": [5], "weight": 0.715414}, 
+                {"id": 7, "text": "새로운", "head": 8, "label": "VP_MOD", "mod": [], "weight": 0.695373}, 
+                {"id": 8, "text": "체계로", "head": 9, "label": "NP_AJT", "mod": [7], "weight": 0.864155}, 
+                {"id": 9, "text": "정리한", "head": 11, "label": "VP_MOD", "mod": [4, 6, 8], "weight": 0.736894}, 
+                {"id": 10, "text": "최초의", "head": 11, "label": "NP_MOD", "mod": [], "weight": 0.822719}, 
+                {"id": 11, "text": "음운서로,", "head": 19, "label": "NP_AJT", "mod": [9, 10], "weight": 0.814923}, 
+                {"id": 12, "text": "≪훈민정음≫의", "head": 14, "label": "NP_MOD", "mod": [], "weight": 0.241318}, 
+                {"id": 13, "text": "창제", "head": 14, "label": "NP", "mod": [], "weight": 0.474935}, 
+                {"id": 14, "text": "원리", "head": 16, "label": "NP_CNJ", "mod": [12, 13], "weight": 0.393292}, 
+                {"id": 15, "text": "및", "head": 16, "label": "AP", "mod": [], "weight": 0.880078}, 
+                {"id": 16, "text": "배경연구에", "head": 18, "label": "NP_AJT", "mod": [14, 15], "weight": 0.573271}, 
+                {"id": 17, "text": "매우", "head": 18, "label": "AP", "mod": [], "weight": 0.870108}, 
+                {"id": 18, "text": "귀중한", "head": 19, "label": "VP_MOD", "mod": [16, 17], "weight": 0.749114}, 
+                {"id": 19, "text": "자료이다.", "head": -1, "label": "VNP", "mod": [11, 18], "weight": 0.000149815}
+            ], 
+            "SRL": [
+                {"verb": "참고", "sense": 1, "word_id": 4, "weight": 0.299775, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "등을", "weight": 0.299775}
+                ]}, 
+                {"verb": "새롭", "sense": 1, "word_id": 7, "weight": 0.220246, "argument": [
+                    {"type": "ARG1", "word_id": 8, "text": "체계로", "weight": 0.220246}
+                ]}, 
+                {"verb": "정리", "sense": 1, "word_id": 9, "weight": 0.174627, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 4, "text": "참고하여", "weight": 0.167449}, 
+                    {"type": "ARG1", "word_id": 6, "text": "한자음을", "weight": 0.30381}, 
+                    {"type": "ARGM-PRD", "word_id": 8, "text": "체계로", "weight": 1}
+                ]}, 
+                {"verb": "귀중하", "sense": 1, "word_id": 18, "weight": 0.180438, "argument": [
+                    {"type": "ARG2", "word_id": 16, "text": "배경연구에", "weight": 0.0902037}, 
+                    {"type": "ARGM-EXT", "word_id": 17, "text": "매우", "weight": 0.270672}, 
+                    {"type": "ARG1", "word_id": 19, "text": "자료이다.", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": 0, "text": "조선 세종 30년(1448)에", "start_eid_short": 3, "end_eid_short": 3, "text_short": "30년(1448)에"}
+        ]}, 
+        {"id": 1, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": 2, "text": "신숙주,", "start_eid_short": 4, "end_eid_short": 4, "text_short": "신숙주,"}
+        ]}, 
+        {"id": 2, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": 3, "text": "최항,", "start_eid_short": 5, "end_eid_short": 5, "text_short": "최항,"}
+        ]}, 
+        {"id": 3, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": 4, "text": "성삼문,", "start_eid_short": 6, "end_eid_short": 6, "text_short": "성삼문,"}
+        ]}, 
+        {"id": 4, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 5, "text": "박팽년,", "start_eid_short": 7, "end_eid_short": 7, "text_short": "박팽년,"}
+        ]}, 
+        {"id": 5, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": 6, "text": "이개", "start_eid_short": 8, "end_eid_short": 8, "text_short": "이개"}
+        ]}, 
+        {"id": 6, "type": "CV_OCCUPATION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 4, "end_eid": 11, "ne_id": 8, "text": "신숙주, 최항, 성삼문, 박팽년, 이개 등의 집현전 학자들이", "start_eid_short": 10, "end_eid_short": 11, "text_short": "집현전 학자들이"}
+        ]}, 
+        {"id": 7, "type": "OGG_POLITICS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 10, "end_eid": 10, "ne_id": 7, "text": "집현전", "start_eid_short": 10, "end_eid_short": 10, "text_short": "집현전"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 12, "end_eid": 12, "ne_id": -1, "text": "왕명에", "start_eid_short": 12, "end_eid_short": 12, "text_short": "왕명에"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 1, "end_eid": 15, "ne_id": -1, "text": "조선 세종 30년(1448)에 신숙주, 최항, 성삼문, 박팽년, 이개 등의 집현전 학자들이 왕명에 따라 편찬한 운서(韻書).", "start_eid_short": 15, "end_eid_short": 15, "text_short": "운서(韻書)."}, 
+            {"id": 11, "sent_id": 1, "start_eid": 0, "end_eid": 11, "ne_id": -1, "text": "중국의 운서인 ≪홍무정운≫ 등을 참고하여 우리나라의 한자음을 새로운 체계로 정리한 최초의 음운서로,", "start_eid_short": 11, "end_eid_short": 11, "text_short": "음운서로,"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "중국의 운서인", "start_eid_short": 1, "end_eid_short": 1, "text_short": "운서인"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "중국의 운서인 ≪홍무정운≫ 등을", "start_eid_short": 3, "end_eid_short": 3, "text_short": "등을"}
+        ]}, 
+        {"id": 12, "type": "AFW_DOCUMENT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 0, "end_eid": 2, "ne_id": 1, "text": "중국의 운서인 ≪홍무정운≫", "start_eid_short": 2, "end_eid_short": 2, "text_short": "≪홍무정운≫"}
+        ]}, 
+        {"id": 13, "type": "CV_LANGUAGE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 1, "start_eid": 5, "end_eid": 6, "ne_id": 2, "text": "우리나라의 한자음을", "start_eid_short": 6, "end_eid_short": 6, "text_short": "한자음을"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "우리나라의", "start_eid_short": 5, "end_eid_short": 5, "text_short": "우리나라의"}
+        ]}, 
+        {"id": 15, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 1, "start_eid": 7, "end_eid": 8, "ne_id": -1, "text": "새로운 체계로", "start_eid_short": 8, "end_eid_short": 8, "text_short": "체계로"}
+        ]}, 
+        {"id": 16, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 1, "start_eid": 10, "end_eid": 10, "ne_id": -1, "text": "최초의", "start_eid_short": 10, "end_eid_short": 10, "text_short": "최초의"}
+        ]}, 
+        {"id": 17, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 22, "sent_id": 1, "start_eid": 12, "end_eid": 14, "ne_id": -1, "text": "≪훈민정음≫의 창제 원리", "start_eid_short": 13, "end_eid_short": 14, "text_short": "창제 원리"}
+        ]}, 
+        {"id": 18, "type": "AFW_DOCUMENT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 23, "sent_id": 1, "start_eid": 12, "end_eid": 12, "ne_id": 3, "text": "≪훈민정음≫의", "start_eid_short": 12, "end_eid_short": 12, "text_short": "≪훈민정음≫의"}
+        ]}, 
+        {"id": 19, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 24, "sent_id": 1, "start_eid": 13, "end_eid": 13, "ne_id": -1, "text": "창제", "start_eid_short": 13, "end_eid_short": 13, "text_short": "창제"}
+        ]}, 
+        {"id": 20, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 25, "sent_id": 1, "start_eid": 16, "end_eid": 16, "ne_id": -1, "text": "배경연구에", "start_eid_short": 16, "end_eid_short": 16, "text_short": "배경연구에"}
+        ]}, 
+        {"id": 21, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 4, "end_eid": 9, "ne_id": -1, "text": "신숙주, 최항, 성삼문, 박팽년, 이개 등의", "start_eid_short": 8, "end_eid_short": 9, "text_short": "이개 등의"}
+        ]}, 
+        {"id": 22, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "중국의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "중국의"}
+        ]}, 
+        {"id": 23, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 21, "sent_id": 1, "start_eid": 12, "end_eid": 16, "ne_id": -1, "text": "≪훈민정음≫의 창제 원리 및 배경연구에", "start_eid_short": 16, "end_eid_short": 16, "text_short": "배경연구에"}
+        ]}, 
+        {"id": 24, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 20, "sent_id": 1, "start_eid": 12, "end_eid": 19, "ne_id": -1, "text": "≪훈민정음≫의 창제 원리 및 배경연구에 매우 귀중한 자료이다.", "start_eid_short": 19, "end_eid_short": 19, "text_short": "자료이다."}
+        ]}
+    ]
+}

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+사모아 제도(영어: Samoan Islands)는 남태평양 중부의 군도로, 면적은 3,030km², 인구는 약 25만 명이다. 사모아 제도는 같은 언어와 문화를 가지고 있으나 정치적으로는 둘로 나뉘어 있다. 사모아 군도에 가면 엄청나게 크고 동그란 돌들이 있다. 그 것이 태초의 화폐이다.
+동사모아는 투투일라아우누타우스웨인스의 여러 섬과 마누아 제도의 섬들로 이루어져 있다. 사모아 제도는 태평양권의 대표적인 화산도로, 자연적인 면에서는 하와이와 비슷하다.
+중국의 힘이 더 커지면 방어선은 2000㎞ 밖인 2도련선으로 확장된다. 이 선은 일본 중부-필리핀-사모아 군도를 넘어 태평양 안쪽 깊숙이 설정돼 있다. 《빠빠라기》는 독일의 에리히 쇼이어만이 남태평양의 사모아 군도로 이민을 다녀온 뒤, 티아베아 섬마을의 추장 투이아비의 연설문을 엮어 출간된 책이다.
+호주는 사모아 제도 남태평양 군소 섬국가들, 말레이 인도네시아에 자국경찰과 군인을 파병해 군사 정치 문화적 영향력을 확장하고있다.
+환태평양 지진대와 연관성 남태평양의 사모아 군도와 인도네시아 지역은 지진이 자주 발생하는 곳이다. 남태평양의 사모아 군도와 인도네시아 서수마트라 등지에 2009년 9월 29일(이하 현지시간)과 30일 쓰나미와 강진이 잇따라 덮치면서 수백명이 사망하는 참사가 발생했다. 남태평양에서 발생한 규모 8.0의 강진으로 쓰나미가 밀려온 사모아 제도 등에서는 연안부를 중심으로 피해가 확대돼, 지금까지 사모아와 미국령 사무와 그리고 동가에서 모두 116명이 사망했다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="7" text="사모아 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="29" end="33" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="38" end="40" text="군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="72" end="78" text="사모아 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="117" end="123" text="사모아 군도" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="163" end="167" text="동사모아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="169" end="182" text="투투일라아우누타우스웨인스" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="187" end="188" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="190" end="196" text="마누아 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="198" end="200" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="211" end="217" text="사모아 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="230" end="233" text="화산도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="246" end="249" text="하와이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="257" end="259" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="302" end="304" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="308" end="311" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="312" end="318" text="사모아 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="323" end="326" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="350" end="352" text="독일" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="364" end="368" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="370" end="376" text="사모아 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="425" end="427" text="호주" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="429" end="435" text="사모아 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="436" end="440" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="450" end="459" text="말레이 인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="512" end="516" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="518" end="524" text="사모아 군도" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="548" end="549" text="곳" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="553" end="557" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="559" end="565" text="사모아 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="567" end="572" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="573" end="578" text="서수마트라" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="648" end="652" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="681" end="687" text="사모아 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="693" end="696" text="연안부" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="717" end="720" text="사모아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="726" end="728" text="사무" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="734" end="736" text="동가" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="722" end="725" text="미국령" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="444" end="448" text="섬국가들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl46" start="394" end="397" text="섬마을" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl47" start="526" end="534" text="인도네시아 지역" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="389" end="393" text="티아베아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="270" end="273" text="방어선" beginID="" endID="" midIDs="" type="BARRIER" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="284" end="288" text="2도련선" beginID="" endID="" midIDs="" type="BARRIER" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="299" end="300" text="선" beginID="" endID="pl15,pl16,pl17" midIDs="" type="BARRIER" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="498" end="506" text="환태평양 지진대" beginID="" endID="" midIDs="" type="ROW" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="461" end="465" text="자국경찰" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="467" end="469" text="군인" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="610" end="613" text="쓰나미" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="615" end="617" text="강진" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se6" start="140" end="142" text="돌들" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se7" start="354" end="362" text="에리히 쇼이어만" type="PERSON" dimensionality="POINT" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="117" />
+<SPATIAL_ENTITY id="se8" start="667" end="669" text="강진" type="" dimensionality="" form="" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="125" end="126" text="가" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="291" end="294" text="확장된" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="382" end="385" text="다녀온" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="471" end="474" text="파병해" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="623" end="625" text="덮치" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="327" end="329" text="안쪽" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="281" end="282" text="밖" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="34" end="36" text="중부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="196" end="197" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="182" end="183" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="305" end="307" text="중부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="368" end="369" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="516" end="517" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="557" end="558" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="652" end="654" text="에서" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="123" end="124" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="376" end="377" text="로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="459" end="460" text="에" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="47" end="55" text="3,030km²" value="3030" unit="km2" comment="" />
+<MEASURE id="me1" start="275" end="280" text="2000㎞" value="2000" unit="km" comment="" />
+<MEASURE id="me2" start="579" end="581" text="등지" value="등지" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="71" text="사모아 제도(영어: Samoan Islands)는 남태평양 중부의 군도로, 면적은 3,030km², 인구는 약 25만 명이다." comment="" />
+<SENTENCE id="sent1" start="72" end="116" text="사모아 제도는 같은 언어와 문화를 가지고 있으나 정치적으로는 둘로 나뉘어 있다." comment="" />
+<SENTENCE id="sent2" start="117" end="147" text="사모아 군도에 가면 엄청나게 크고 동그란 돌들이 있다." comment="" />
+<SENTENCE id="sent3" start="148" end="162" text="그 것이 태초의 화폐이다." comment="" />
+<SENTENCE id="sent4" start="163" end="210" text="동사모아는 투투일라아우누타우스웨인스의 여러 섬과 마누아 제도의 섬들로 이루어져 있다." comment="" />
+<SENTENCE id="sent5" start="211" end="256" text="사모아 제도는 태평양권의 대표적인 화산도로, 자연적인 면에서는 하와이와 비슷하다." comment="" />
+<SENTENCE id="sent6" start="257" end="296" text="중국의 힘이 더 커지면 방어선은 2000㎞ 밖인 2도련선으로 확장된다." comment="" />
+<SENTENCE id="sent7" start="297" end="341" text="이 선은 일본 중부-필리핀-사모아 군도를 넘어 태평양 안쪽 깊숙이 설정돼 있다." comment="" />
+<SENTENCE id="sent8" start="342" end="424" text="《빠빠라기》는 독일의 에리히 쇼이어만이 남태평양의 사모아 군도로 이민을 다녀온 뒤, 티아베아 섬마을의 추장 투이아비의 연설문을 엮어 출간된 책이다." comment="" />
+<SENTENCE id="sent9" start="425" end="497" text="호주는 사모아 제도 남태평양 군소 섬국가들, 말레이 인도네시아에 자국경찰과 군인을 파병해 군사 정치 문화적 영향력을 확장하고있다." comment="" />
+<SENTENCE id="sent10" start="498" end="552" text="환태평양 지진대와 연관성 남태평양의 사모아 군도와 인도네시아 지역은 지진이 자주 발생하는 곳이다." comment="" />
+<SENTENCE id="sent11" start="553" end="647" text="남태평양의 사모아 군도와 인도네시아 서수마트라 등지에 2009년 9월 29일(이하 현지시간)과 30일 쓰나미와 강진이 잇따라 덮치면서 수백명이 사망하는 참사가 발생했다." comment="" />
+<SENTENCE id="sent12" start="648" end="753" text="남태평양에서 발생한 규모 8.0의 강진으로 쓰나미가 밀려온 사모아 제도 등에서는 연안부를 중심으로 피해가 확대돼, 지금까지 사모아와 미국령 사무와 그리고 동가에서 모두 116명이 사망했다." comment="" />
+<QSLINK id="qsl3" fromID="p1" fromText="2도련선" toID="p0" toText="방어선" relType="DC" trajector="p1" landmark="p0" trigger="s8" comment="" />
+<QSLINK id="qsl4" fromID="p2" fromText="선" toID="pl18" toText="태평양" relType="NTPP" trajector="p2" landmark="pl18" trigger="s1" comment="" />
+<QSLINK id="qsl2" fromID="pl9" fromText="섬들" toID="pl8" toText="마누아 제도" relType="NTPP" trajector="pl9" landmark="pl8" trigger="s3" comment="" />
+<QSLINK id="qsl5" fromID="pl7" fromText="섬" toID="pl6" toText="투투일라아우누타우스웨인스" relType="NTPP" trajector="pl7" landmark="pl6" trigger="s4" comment="" />
+<QSLINK id="qsl10" fromID="pl21" fromText="사모아 군도" toID="pl20" toText="남태평양" relType="NTPP" trajector="pl21" landmark="pl20" trigger="s6" comment="" />
+<QSLINK id="qsl11" fromID="pl30" fromText="사모아 군도" toID="pl29" toText="남태평양" relType="NTPP" trajector="pl30" landmark="pl29" trigger="s7" comment="" />
+<QSLINK id="qsl12" fromID="pl35" fromText="사모아 군도" toID="pl34" toText="남태평양" relType="NTPP" trajector="pl35" landmark="pl34" trigger="s9" comment="" />
+<QSLINK id="qsl13" fromID="se8" fromText="강진" toID="pl38" toText="남태평양" relType="NTPP" trajector="se8" landmark="pl38" trigger="s11" comment="" />
+<OLINK id="ol0" fromID="pl2" fromText="군도" toID="pl1" toText="남태평양" relType="중" trajector="pl2" landmark="pl1" trigger="s0" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl14" fromText="일본" toID="p2" toText="선" relType="중" trajector="p2" landmark="pl14" trigger="s5" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="pl4" fromText="사모아 군도" toID="m0" toText="가" trigger="m0" source="" goal="pl4" midPoint="" mover="se2" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="m2" fromText="다녀온" toID="ms2" toText="로" trigger="m2" source="" goal="" midPoint="" mover="se7" landmark="pl21" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl2" fromID="m3" fromText="파병해" toID="ms3" toText="에" trigger="m3" source="" goal="pl28" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl3" fromID="m3" fromText="파병해" toID="ms3" toText="에" trigger="m3" source="" goal="pl28" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms3" comment="" />
+<MEASURELINK id="ml0" fromID="pl2" fromText="군도" toID="me0" toText="3,030km²" trajector="pl2" landmark="pl2" relType="GENERAL_DIMENSION" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="p1" fromText="2도련선" toID="p0" toText="방어선" trajector="p1" landmark="p0" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="se3" fromText="쓰나미" toID="pl37" toText="서수마트라" trajector="se3" landmark="pl37" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="se4" fromText="강진" toID="pl37" toText="서수마트라" trajector="se4" landmark="pl37" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

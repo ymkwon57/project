@@ -1,0 +1,220 @@
+{
+    "doc_id": "E2016.837.14_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "프랑스 루브르미술관에 소장되어 있는 작품이다.", 
+            "morp": [
+                {"id": 0, "lemma": "프랑스", "type": "NNP", "position": 0, "weight": 0.0892825}, 
+                {"id": 1, "lemma": "루브르", "type": "NNP", "position": 10, "weight": 0.0762139}, 
+                {"id": 2, "lemma": "미술", "type": "NNG", "position": 19, "weight": 0.9}, 
+                {"id": 3, "lemma": "관", "type": "XSN", "position": 25, "weight": 0.0123777}, 
+                {"id": 4, "lemma": "에", "type": "JKB", "position": 28, "weight": 0.121683}, 
+                {"id": 5, "lemma": "소장", "type": "NNG", "position": 32, "weight": 0.9}, 
+                {"id": 6, "lemma": "되", "type": "XSV", "position": 38, "weight": 0.000224177}, 
+                {"id": 7, "lemma": "어", "type": "EC", "position": 41, "weight": 0.361326}, 
+                {"id": 8, "lemma": "있", "type": "VX", "position": 45, "weight": 0.125953}, 
+                {"id": 9, "lemma": "는", "type": "ETM", "position": 48, "weight": 0.183966}, 
+                {"id": 10, "lemma": "작품", "type": "NNG", "position": 52, "weight": 0.65877}, 
+                {"id": 11, "lemma": "이", "type": "VCP", "position": 58, "weight": 0.0177525}, 
+                {"id": 12, "lemma": "다", "type": "EF", "position": 61, "weight": 0.353579}, 
+                {"id": 13, "lemma": ".", "type": "SF", "position": 64, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "프랑스", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "루브르미술관", "type": "NNG", "scode": "000000", "weight": 1, "position": 10, "begin": 1, "end": 3}, 
+                {"id": 2, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 28, "begin": 4, "end": 4}, 
+                {"id": 3, "text": "소장되", "type": "VV", "scode": "000000", "weight": 1, "position": 32, "begin": 5, "end": 6}, 
+                {"id": 4, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 41, "begin": 7, "end": 7}, 
+                {"id": 5, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 45, "begin": 8, "end": 8}, 
+                {"id": 6, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 48, "begin": 9, "end": 9}, 
+                {"id": 7, "text": "작품", "type": "NNG", "scode": "010002", "weight": 0.25, "position": 52, "begin": 10, "end": 10}, 
+                {"id": 8, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 58, "begin": 11, "end": 11}, 
+                {"id": 9, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 61, "begin": 12, "end": 12}, 
+                {"id": 10, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 64, "begin": 13, "end": 13}
+            ], 
+            "word": [
+                {"id": 0, "text": "프랑스", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "루브르미술관에", "type": "", "begin": 1, "end": 4}, 
+                {"id": 2, "text": "소장되어", "type": "", "begin": 5, "end": 7}, 
+                {"id": 3, "text": "있는", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "작품이다.", "type": "", "begin": 10, "end": 13}
+            ], 
+            "NE": [
+                {"id": 0, "text": "프랑스", "type": "LCP_COUNTRY", "begin": 0, "end": 0, "weight": 0.860757, "common_noun": 0}, 
+                {"id": 1, "text": "루브르미술관", "type": "OGG_ART", "begin": 1, "end": 3, "weight": 0.750685, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "프랑스", "head": 1, "label": "NP", "mod": [], "weight": 0.706369}, 
+                {"id": 1, "text": "루브르미술관에", "head": 2, "label": "NP_AJT", "mod": [0], "weight": 0.725834}, 
+                {"id": 2, "text": "소장되어", "head": 3, "label": "VP", "mod": [1], "weight": 0.827594}, 
+                {"id": 3, "text": "있는", "head": 4, "label": "VP_MOD", "mod": [2], "weight": 0.817665}, 
+                {"id": 4, "text": "작품이다.", "head": -1, "label": "VNP", "mod": [3], "weight": 0.281333}
+            ], 
+            "SRL": [
+                {"verb": "소장", "sense": 1, "word_id": 2, "weight": 0.262298, "argument": [
+                    {"type": "ARGM-LOC", "word_id": 1, "text": "루브르미술관에", "weight": 0.156223}, 
+                    {"type": "AUX", "word_id": 3, "text": "있는", "weight": 0.368372}, 
+                    {"type": "ARG1", "word_id": 4, "text": "작품이다.", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "레오나르도 다빈치가 피렌체의 부호 조콘다의 부인을 그린 초상화로 신비로운 미소가 돋보이는 이 그림은?", 
+            "morp": [
+                {"id": 0, "lemma": "레오나르도", "type": "NNP", "position": 65, "weight": 0.9}, 
+                {"id": 1, "lemma": "다빈치", "type": "NNP", "position": 81, "weight": 0.9}, 
+                {"id": 2, "lemma": "가", "type": "JKS", "position": 90, "weight": 0.0431193}, 
+                {"id": 3, "lemma": "피렌체", "type": "NNP", "position": 94, "weight": 0.9}, 
+                {"id": 4, "lemma": "의", "type": "JKG", "position": 103, "weight": 0.0987295}, 
+                {"id": 5, "lemma": "부호", "type": "NNG", "position": 107, "weight": 0.9}, 
+                {"id": 6, "lemma": "조콘다", "type": "NNP", "position": 114, "weight": 0.05}, 
+                {"id": 7, "lemma": "의", "type": "JKG", "position": 123, "weight": 0.0694213}, 
+                {"id": 8, "lemma": "부인", "type": "NNG", "position": 127, "weight": 0.9}, 
+                {"id": 9, "lemma": "을", "type": "JKO", "position": 133, "weight": 0.129611}, 
+                {"id": 10, "lemma": "그리", "type": "VV", "position": 137, "weight": 0.604417}, 
+                {"id": 11, "lemma": "ㄴ", "type": "ETM", "position": 140, "weight": 0.304215}, 
+                {"id": 12, "lemma": "초상", "type": "NNG", "position": 144, "weight": 0.9}, 
+                {"id": 13, "lemma": "화", "type": "XSN", "position": 150, "weight": 0.0240371}, 
+                {"id": 14, "lemma": "로", "type": "JKB", "position": 153, "weight": 0.121577}, 
+                {"id": 15, "lemma": "신비", "type": "NNG", "position": 157, "weight": 0.9}, 
+                {"id": 16, "lemma": "롭", "type": "XSA", "position": 163, "weight": 0.000351437}, 
+                {"id": 17, "lemma": "ㄴ", "type": "ETM", "position": 163, "weight": 0.488779}, 
+                {"id": 18, "lemma": "미소", "type": "NNG", "position": 170, "weight": 0.637543}, 
+                {"id": 19, "lemma": "가", "type": "JKS", "position": 176, "weight": 0.066324}, 
+                {"id": 20, "lemma": "돋보이", "type": "VV", "position": 180, "weight": 0.9}, 
+                {"id": 21, "lemma": "는", "type": "ETM", "position": 189, "weight": 0.184941}, 
+                {"id": 22, "lemma": "이", "type": "MM", "position": 193, "weight": 0.00060084}, 
+                {"id": 23, "lemma": "그림", "type": "NNG", "position": 197, "weight": 0.734943}, 
+                {"id": 24, "lemma": "은", "type": "JX", "position": 203, "weight": 0.0449928}, 
+                {"id": 25, "lemma": "?", "type": "SF", "position": 206, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "레오나르도", "type": "NNP", "scode": "000000", "weight": 0, "position": 65, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "다빈치", "type": "NNP", "scode": "000000", "weight": 1, "position": 81, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 90, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "피렌체", "type": "NNP", "scode": "000000", "weight": 1, "position": 94, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 103, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "부호", "type": "NNG", "scode": "050000", "weight": 0.142857, "position": 107, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "조콘다", "type": "NNP", "scode": "000000", "weight": 0, "position": 114, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 123, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "부인", "type": "NNG", "scode": "010001", "weight": 0.0833333, "position": 127, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 133, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "그리", "type": "VV", "scode": "020001", "weight": 0.166667, "position": 137, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 140, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "초상화", "type": "NNG", "scode": "000000", "weight": 1, "position": 144, "begin": 12, "end": 13}, 
+                {"id": 13, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 153, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "신비롭", "type": "VA", "scode": "000000", "weight": 1, "position": 157, "begin": 15, "end": 16}, 
+                {"id": 15, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 163, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "미소", "type": "NNG", "scode": "050000", "weight": 0.2, "position": 170, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 176, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "돋보이", "type": "VV", "scode": "000000", "weight": 1, "position": 180, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 189, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 193, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "그림", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 197, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 203, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 206, "begin": 25, "end": 25}
+            ], 
+            "word": [
+                {"id": 0, "text": "레오나르도", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "다빈치가", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "피렌체의", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "부호", "type": "", "begin": 5, "end": 5}, 
+                {"id": 4, "text": "조콘다의", "type": "", "begin": 6, "end": 7}, 
+                {"id": 5, "text": "부인을", "type": "", "begin": 8, "end": 9}, 
+                {"id": 6, "text": "그린", "type": "", "begin": 10, "end": 11}, 
+                {"id": 7, "text": "초상화로", "type": "", "begin": 12, "end": 14}, 
+                {"id": 8, "text": "신비로운", "type": "", "begin": 15, "end": 17}, 
+                {"id": 9, "text": "미소가", "type": "", "begin": 18, "end": 19}, 
+                {"id": 10, "text": "돋보이는", "type": "", "begin": 20, "end": 21}, 
+                {"id": 11, "text": "이", "type": "", "begin": 22, "end": 22}, 
+                {"id": 12, "text": "그림은?", "type": "", "begin": 23, "end": 25}
+            ], 
+            "NE": [
+                {"id": 0, "text": "레오나르도 다빈치", "type": "PS_NAME", "begin": 0, "end": 1, "weight": 0.913795, "common_noun": 0}, 
+                {"id": 1, "text": "피렌체", "type": "LCP_CITY", "begin": 3, "end": 3, "weight": 0.340702, "common_noun": 0}, 
+                {"id": 2, "text": "조콘다", "type": "PS_NAME", "begin": 6, "end": 6, "weight": 0.317869, "common_noun": 0}, 
+                {"id": 3, "text": "부인", "type": "CV_RELATION", "begin": 8, "end": 8, "weight": 0.735637, "common_noun": 0}, 
+                {"id": 4, "text": "초상화", "type": "FD_ART", "begin": 12, "end": 13, "weight": 0.784508, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "레오나르도", "head": 1, "label": "NP", "mod": [], "weight": 0.852574}, 
+                {"id": 1, "text": "다빈치가", "head": 6, "label": "NP_SBJ", "mod": [0], "weight": 0.808275}, 
+                {"id": 2, "text": "피렌체의", "head": 3, "label": "NP_MOD", "mod": [], "weight": 0.390661}, 
+                {"id": 3, "text": "부호", "head": 4, "label": "NP", "mod": [2], "weight": 0.701383}, 
+                {"id": 4, "text": "조콘다의", "head": 5, "label": "NP_MOD", "mod": [3], "weight": 0.60908}, 
+                {"id": 5, "text": "부인을", "head": 6, "label": "NP_OBJ", "mod": [4], "weight": 0.441986}, 
+                {"id": 6, "text": "그린", "head": 7, "label": "VP_MOD", "mod": [5, 1], "weight": 0.726736}, 
+                {"id": 7, "text": "초상화로", "head": 10, "label": "NP_AJT", "mod": [6], "weight": 0.462928}, 
+                {"id": 8, "text": "신비로운", "head": 9, "label": "VP_MOD", "mod": [], "weight": 0.660616}, 
+                {"id": 9, "text": "미소가", "head": 10, "label": "NP_SBJ", "mod": [8], "weight": 0.810261}, 
+                {"id": 10, "text": "돋보이는", "head": 12, "label": "VP_MOD", "mod": [7, 9], "weight": 0.73209}, 
+                {"id": 11, "text": "이", "head": 12, "label": "DP", "mod": [], "weight": 0.719025}, 
+                {"id": 12, "text": "그림은?", "head": -1, "label": "NP_SBJ", "mod": [10, 11], "weight": 0.00240417}
+            ], 
+            "SRL": [
+                {"verb": "그리", "sense": 1, "word_id": 6, "weight": 0.1972, "argument": [
+                    {"type": "ARG1", "word_id": 5, "text": "부인을", "weight": 0.231827}, 
+                    {"type": "ARG0", "word_id": 1, "text": "다빈치가", "weight": 1}
+                ]}, 
+                {"verb": "신비", "sense": 1, "word_id": 8, "weight": 0.442675, "argument": [
+                    {"type": "ARG1", "word_id": 9, "text": "미소가", "weight": 0.442675}
+                ]}, 
+                {"verb": "돋보이", "sense": 1, "word_id": 10, "weight": 0.145592, "argument": [
+                    {"type": "ARGM-PRD", "word_id": 7, "text": "초상화로", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 9, "text": "미소가", "weight": 0.216105}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "FD_ART", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "프랑스 루브르미술관에 소장되어 있는 작품이다.", "start_eid_short": 4, "end_eid_short": 4, "text_short": "작품이다."}, 
+            {"id": 3, "sent_id": 1, "start_eid": 0, "end_eid": 7, "ne_id": 4, "text": "레오나르도 다빈치가 피렌체의 부호 조콘다의 부인을 그린 초상화로", "start_eid_short": 7, "end_eid_short": 7, "text_short": "초상화로"}, 
+            {"id": 10, "sent_id": 1, "start_eid": 11, "end_eid": 12, "ne_id": -1, "text": "이 그림은?", "start_eid_short": 12, "end_eid_short": 12, "text_short": "그림은?"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "프랑스", "start_eid_short": 0, "end_eid_short": 0, "text_short": "프랑스"}
+        ]}, 
+        {"id": 2, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 4, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "레오나르도 다빈치가", "start_eid_short": 0, "end_eid_short": 1, "text_short": "레오나르도 다빈치가"}
+        ]}, 
+        {"id": 3, "type": "LCP_CITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": 1, "text": "피렌체의", "start_eid_short": 2, "end_eid_short": 2, "text_short": "피렌체의"}
+        ]}, 
+        {"id": 4, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 2, "end_eid": 4, "ne_id": 2, "text": "피렌체의 부호 조콘다의", "start_eid_short": 3, "end_eid_short": 4, "text_short": "부호 조콘다의"}, 
+            {"id": 7, "sent_id": 1, "start_eid": 2, "end_eid": 3, "ne_id": -1, "text": "피렌체의 부호", "start_eid_short": 3, "end_eid_short": 3, "text_short": "부호"}
+        ]}, 
+        {"id": 5, "type": "CV_RELATION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 5, "sent_id": 1, "start_eid": 2, "end_eid": 5, "ne_id": 3, "text": "피렌체의 부호 조콘다의 부인을", "start_eid_short": 5, "end_eid_short": 5, "text_short": "부인을"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 9, "end_eid": 9, "ne_id": -1, "text": "미소가", "start_eid_short": 9, "end_eid_short": 9, "text_short": "미소가"}
+        ]}, 
+        {"id": 7, "type": "OGG_ART", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "프랑스 루브르미술관에", "start_eid_short": 0, "end_eid_short": 1, "text_short": "프랑스 루브르미술관에"}
+        ]}
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "doc_id": "E2016.835.15_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "나폴레옹 1세", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "프랑스의 군인이자 제1통령이며 황제를 지낸 인물", 
+            "morp": [
+                {"id": 0, "lemma": "프랑스", "type": "NNP", "position": 0, "weight": 0.0892825}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 9, "weight": 0.0987295}, 
+                {"id": 2, "lemma": "군인", "type": "NNG", "position": 13, "weight": 0.9}, 
+                {"id": 3, "lemma": "이", "type": "VCP", "position": 19, "weight": 0.0177525}, 
+                {"id": 4, "lemma": "자", "type": "EC", "position": 22, "weight": 0.109096}, 
+                {"id": 5, "lemma": "제", "type": "XPN", "position": 26, "weight": 0.000581263}, 
+                {"id": 6, "lemma": "1", "type": "SN", "position": 29, "weight": 1}, 
+                {"id": 7, "lemma": "통령", "type": "NNG", "position": 30, "weight": 0.35}, 
+                {"id": 8, "lemma": "이", "type": "VCP", "position": 36, "weight": 0.0177525}, 
+                {"id": 9, "lemma": "며", "type": "EC", "position": 39, "weight": 0.250555}, 
+                {"id": 10, "lemma": "황제", "type": "NNG", "position": 43, "weight": 0.218849}, 
+                {"id": 11, "lemma": "를", "type": "JKO", "position": 49, "weight": 0.137686}, 
+                {"id": 12, "lemma": "지내", "type": "VV", "position": 53, "weight": 0.777813}, 
+                {"id": 13, "lemma": "ㄴ", "type": "ETM", "position": 56, "weight": 0.304215}, 
+                {"id": 14, "lemma": "인물", "type": "NNG", "position": 60, "weight": 0.65867}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "프랑스", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 9, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "군인", "type": "NNG", "scode": "000000", "weight": 1, "position": 13, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 19, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "자", "type": "EC", "scode": "000000", "weight": 1, "position": 22, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "제", "type": "XPN", "scode": "210000", "weight": 0.0322581, "position": 26, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "1", "type": "SN", "scode": "000000", "weight": 1, "position": 29, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "통령", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 30, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 36, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "며", "type": "EC", "scode": "000000", "weight": 1, "position": 39, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "황제", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 43, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 49, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "지내", "type": "VV", "scode": "010301", "weight": 0.166667, "position": 53, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 56, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "인물", "type": "NNG", "scode": "000002", "weight": 0.2, "position": 60, "begin": 14, "end": 14}
+            ], 
+            "word": [
+                {"id": 0, "text": "프랑스의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "군인이자", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "제1통령이며", "type": "", "begin": 5, "end": 9}, 
+                {"id": 3, "text": "황제를", "type": "", "begin": 10, "end": 11}, 
+                {"id": 4, "text": "지낸", "type": "", "begin": 12, "end": 13}, 
+                {"id": 5, "text": "인물", "type": "", "begin": 14, "end": 14}
+            ], 
+            "NE": [
+                {"id": 0, "text": "프랑스", "type": "LCP_COUNTRY", "begin": 0, "end": 0, "weight": 0.871898, "common_noun": 0}, 
+                {"id": 1, "text": "군인", "type": "CV_OCCUPATION", "begin": 2, "end": 2, "weight": 0.644671, "common_noun": 0}, 
+                {"id": 2, "text": "제1통령", "type": "QT_ORDER", "begin": 5, "end": 7, "weight": 0.422243, "common_noun": 0}, 
+                {"id": 3, "text": "황제", "type": "CV_POSITION", "begin": 10, "end": 10, "weight": 0.525682, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "프랑스의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.81171}, 
+                {"id": 1, "text": "군인이자", "head": 2, "label": "VNP", "mod": [0], "weight": 0.436383}, 
+                {"id": 2, "text": "제1통령이며", "head": 4, "label": "VNP", "mod": [1], "weight": 0.511504}, 
+                {"id": 3, "text": "황제를", "head": 4, "label": "NP_OBJ", "mod": [], "weight": 0.762217}, 
+                {"id": 4, "text": "지낸", "head": 5, "label": "VP_MOD", "mod": [3, 2], "weight": 0.782817}, 
+                {"id": 5, "text": "인물", "head": -1, "label": "NP", "mod": [4], "weight": 0.089492}
+            ], 
+            "SRL": [
+                {"verb": "지내", "sense": 2, "word_id": 4, "weight": 0.195138, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "황제를", "weight": 0.262778}, 
+                    {"type": "ARG0", "word_id": 5, "text": "인물", "weight": 0.127498}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "프랑스의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "프랑스의"}
+        ]}, 
+        {"id": 1, "type": "CV_OCCUPATION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 1, "text": "군인이자", "start_eid_short": 1, "end_eid_short": 1, "text_short": "군인이자"}
+        ]}, 
+        {"id": 2, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": 3, "text": "황제를", "start_eid_short": 3, "end_eid_short": 3, "text_short": "황제를"}
+        ]}, 
+        {"id": 3, "type": "QT_ORDER", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 5, "ne_id": -1, "text": "프랑스의 군인이자 제1통령이며 황제를 지낸 인물", "start_eid_short": 5, "end_eid_short": 5, "text_short": "인물"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": 2, "text": "프랑스의 군인이자 제1통령이며", "start_eid_short": 2, "end_eid_short": 2, "text_short": "제1통령이며"}, 
+            {"id": 4, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": 2, "text": "제1통령이며", "start_eid_short": 2, "end_eid_short": 2, "text_short": "제1통령이며"}
+        ]}
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "doc_id": "E2016.889.17_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "지정은", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "<역사> 중국 청나라 때에, 인정세와 지세를 합쳐서 토지에 부과하여 은(銀)으로 징수하던 세제(稅制).", 
+            "morp": [
+                {"id": 0, "lemma": "<", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "역사", "type": "NNG", "position": 1, "weight": 0.199932}, 
+                {"id": 2, "lemma": ">", "type": "SS", "position": 7, "weight": 1}, 
+                {"id": 3, "lemma": "중국", "type": "NNP", "position": 9, "weight": 0.0674343}, 
+                {"id": 4, "lemma": "청", "type": "NNP", "position": 16, "weight": 0.134865}, 
+                {"id": 5, "lemma": "나라", "type": "NNG", "position": 19, "weight": 0.184431}, 
+                {"id": 6, "lemma": "때", "type": "NNG", "position": 26, "weight": 0.184189}, 
+                {"id": 7, "lemma": "에", "type": "JKB", "position": 29, "weight": 0.153364}, 
+                {"id": 8, "lemma": ",", "type": "SP", "position": 32, "weight": 1}, 
+                {"id": 9, "lemma": "인정", "type": "NNG", "position": 34, "weight": 0.529804}, 
+                {"id": 10, "lemma": "세", "type": "NNG", "position": 40, "weight": 0.00867074}, 
+                {"id": 11, "lemma": "와", "type": "JC", "position": 43, "weight": 0.0169714}, 
+                {"id": 12, "lemma": "지세", "type": "NNG", "position": 47, "weight": 0.9}, 
+                {"id": 13, "lemma": "를", "type": "JKO", "position": 53, "weight": 0.137686}, 
+                {"id": 14, "lemma": "합치", "type": "VV", "position": 57, "weight": 0.765743}, 
+                {"id": 15, "lemma": "어서", "type": "EC", "position": 60, "weight": 0.421998}, 
+                {"id": 16, "lemma": "토지", "type": "NNG", "position": 67, "weight": 0.217485}, 
+                {"id": 17, "lemma": "에", "type": "JKB", "position": 73, "weight": 0.153364}, 
+                {"id": 18, "lemma": "부과", "type": "NNG", "position": 77, "weight": 0.9}, 
+                {"id": 19, "lemma": "하", "type": "XSV", "position": 83, "weight": 0.0001}, 
+                {"id": 20, "lemma": "아", "type": "EC", "position": 86, "weight": 0.361326}, 
+                {"id": 21, "lemma": "은", "type": "NNG", "position": 90, "weight": 0.000284774}, 
+                {"id": 22, "lemma": "(", "type": "SS", "position": 93, "weight": 1}, 
+                {"id": 23, "lemma": "銀", "type": "SH", "position": 94, "weight": 1}, 
+                {"id": 24, "lemma": ")", "type": "SS", "position": 97, "weight": 1}, 
+                {"id": 25, "lemma": "으로", "type": "JKB", "position": 98, "weight": 0.0486063}, 
+                {"id": 26, "lemma": "징수", "type": "NNG", "position": 105, "weight": 0.9}, 
+                {"id": 27, "lemma": "하", "type": "XSV", "position": 111, "weight": 0.0001}, 
+                {"id": 28, "lemma": "던", "type": "ETM", "position": 114, "weight": 0.409388}, 
+                {"id": 29, "lemma": "세제", "type": "NNG", "position": 118, "weight": 0.9}, 
+                {"id": 30, "lemma": "(", "type": "SS", "position": 124, "weight": 1}, 
+                {"id": 31, "lemma": "稅制", "type": "SH", "position": 125, "weight": 1}, 
+                {"id": 32, "lemma": ")", "type": "SS", "position": 131, "weight": 1}, 
+                {"id": 33, "lemma": ".", "type": "SF", "position": 132, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "<", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "역사", "type": "NNG", "scode": "040004", "weight": 0.0526316, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": ">", "type": "SS", "scode": "000000", "weight": 1, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "중국", "type": "NNP", "scode": "010000", "weight": 0.5, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "청나라", "type": "NNP", "scode": "000000", "weight": 1, "position": 16, "begin": 4, "end": 5}, 
+                {"id": 5, "text": "때", "type": "NNG", "scode": "010006", "weight": 0.0666667, "position": 26, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 29, "begin": 7, "end": 7}, 
+                {"id": 7, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 32, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "인정", "type": "NNG", "scode": "020000", "weight": 0.0833333, "position": 34, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "세", "type": "NNG", "scode": "100001", "weight": 0.0526316, "position": 40, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 43, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "지세", "type": "NNG", "scode": "010000", "weight": 0.166667, "position": 47, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 53, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "합치", "type": "VV", "scode": "000000", "weight": 1, "position": 57, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "어서", "type": "EC", "scode": "000000", "weight": 1, "position": 60, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "토지", "type": "NNG", "scode": "020001", "weight": 0.25, "position": 67, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 73, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "부과하", "type": "VV", "scode": "030001", "weight": 0.2, "position": 77, "begin": 18, "end": 19}, 
+                {"id": 18, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 86, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "은", "type": "NNG", "scode": "040000", "weight": 0.1, "position": 90, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 93, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "銀", "type": "SH", "scode": "000000", "weight": 1, "position": 94, "begin": 23, "end": 23}, 
+                {"id": 22, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 97, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 98, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "징수하", "type": "VV", "scode": "000002", "weight": 0.5, "position": 105, "begin": 26, "end": 27}, 
+                {"id": 25, "text": "던", "type": "ETM", "scode": "000000", "weight": 1, "position": 114, "begin": 28, "end": 28}, 
+                {"id": 26, "text": "세제", "type": "NNG", "scode": "050000", "weight": 0.142857, "position": 118, "begin": 29, "end": 29}, 
+                {"id": 27, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 124, "begin": 30, "end": 30}, 
+                {"id": 28, "text": "稅制", "type": "SH", "scode": "000000", "weight": 1, "position": 125, "begin": 31, "end": 31}, 
+                {"id": 29, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 131, "begin": 32, "end": 32}, 
+                {"id": 30, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 132, "begin": 33, "end": 33}
+            ], 
+            "word": [
+                {"id": 0, "text": "<역사>", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "중국", "type": "", "begin": 3, "end": 3}, 
+                {"id": 2, "text": "청나라", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "때에,", "type": "", "begin": 6, "end": 8}, 
+                {"id": 4, "text": "인정세와", "type": "", "begin": 9, "end": 11}, 
+                {"id": 5, "text": "지세를", "type": "", "begin": 12, "end": 13}, 
+                {"id": 6, "text": "합쳐서", "type": "", "begin": 14, "end": 15}, 
+                {"id": 7, "text": "토지에", "type": "", "begin": 16, "end": 17}, 
+                {"id": 8, "text": "부과하여", "type": "", "begin": 18, "end": 20}, 
+                {"id": 9, "text": "은(銀)으로", "type": "", "begin": 21, "end": 25}, 
+                {"id": 10, "text": "징수하던", "type": "", "begin": 26, "end": 28}, 
+                {"id": 11, "text": "세제(稅制).", "type": "", "begin": 29, "end": 33}
+            ], 
+            "NE": [
+                {"id": 0, "text": "중국", "type": "LCP_COUNTRY", "begin": 3, "end": 3, "weight": 0.682922, "common_noun": 0}, 
+                {"id": 1, "text": "청나라 때", "type": "DT_DYNASTY", "begin": 4, "end": 6, "weight": 0.732498, "common_noun": 0}, 
+                {"id": 2, "text": "인정세", "type": "CV_TAX", "begin": 9, "end": 10, "weight": 0.682922, "common_noun": 0}, 
+                {"id": 3, "text": "지세", "type": "CV_TAX", "begin": 12, "end": 12, "weight": 0.682922, "common_noun": 0}, 
+                {"id": 4, "text": "은", "type": "MT_ELEMENT", "begin": 21, "end": 21, "weight": 0.330595, "common_noun": 0}, 
+                {"id": 5, "text": "銀", "type": "MT_ELEMENT", "begin": 23, "end": 23, "weight": 0.330595, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "<역사>", "head": 11, "label": "NP", "mod": [], "weight": 0.807278}, 
+                {"id": 1, "text": "중국", "head": 2, "label": "NP", "mod": [], "weight": 0.688572}, 
+                {"id": 2, "text": "청나라", "head": 3, "label": "NP", "mod": [1], "weight": 0.849511}, 
+                {"id": 3, "text": "때에,", "head": 6, "label": "NP_AJT", "mod": [2], "weight": 0.679684}, 
+                {"id": 4, "text": "인정세와", "head": 5, "label": "NP_CNJ", "mod": [], "weight": 0.634128}, 
+                {"id": 5, "text": "지세를", "head": 6, "label": "NP_OBJ", "mod": [4], "weight": 0.758363}, 
+                {"id": 6, "text": "합쳐서", "head": 8, "label": "VP", "mod": [3, 5], "weight": 0.703576}, 
+                {"id": 7, "text": "토지에", "head": 8, "label": "NP_AJT", "mod": [], "weight": 0.750734}, 
+                {"id": 8, "text": "부과하여", "head": 10, "label": "VP", "mod": [6, 7], "weight": 0.700344}, 
+                {"id": 9, "text": "은(銀)으로", "head": 10, "label": "NP_AJT", "mod": [], "weight": 0.65764}, 
+                {"id": 10, "text": "징수하던", "head": 11, "label": "VP_MOD", "mod": [8, 9], "weight": 0.827911}, 
+                {"id": 11, "text": "세제(稅制).", "head": -1, "label": "NP", "mod": [0, 10], "weight": 0.0228759}
+            ], 
+            "SRL": [
+                {"verb": "합치", "sense": 1, "word_id": 6, "weight": 0.210604, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 3, "text": "때에,", "weight": 0.270643}, 
+                    {"type": "ARG1", "word_id": 4, "text": "인정세와", "weight": 0.164727}, 
+                    {"type": "ARG1", "word_id": 5, "text": "지세를", "weight": 0.196442}
+                ]}, 
+                {"verb": "부과", "sense": 1, "word_id": 8, "weight": 0.140479, "argument": [
+                    {"type": "ARG2", "word_id": 7, "text": "토지에", "weight": 0.140479}, 
+                    {"type": "ARGM-MNR", "word_id": 6, "text": "합쳐서", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 5, "text": "지세를", "weight": 1}
+                ]}, 
+                {"verb": "징수", "sense": 1, "word_id": 10, "weight": 0.118839, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 8, "text": "부과하여", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 9, "text": "은(銀)으로", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 3, "ne_id": 1, "text": "중국 청나라 때에,", "start_eid_short": 3, "end_eid_short": 3, "text_short": "때에,"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "중국", "start_eid_short": 1, "end_eid_short": 1, "text_short": "중국"}
+        ]}, 
+        {"id": 2, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 4, "end_eid": 5, "ne_id": -1, "text": "인정세와 지세를", "start_eid_short": 5, "end_eid_short": 5, "text_short": "지세를"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "인정세와", "start_eid_short": 4, "end_eid_short": 4, "text_short": "인정세와"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "토지에", "start_eid_short": 7, "end_eid_short": 7, "text_short": "토지에"}
+        ]}, 
+        {"id": 5, "type": "MT_METAL", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 9, "end_eid": 9, "ne_id": 2, "text": "은(銀)으로", "start_eid_short": 9, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 11, "ne_id": -1, "text": "<역사> 중국 청나라 때에, 인정세와 지세를 합쳐서 토지에 부과하여 은(銀)으로 징수하던 세제(稅制).", "start_eid_short": 11, "end_eid_short": 11, "text_short": "세제(稅制)."}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "지세를", "start_eid_short": 5, "end_eid_short": 5, "text_short": "지세를"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "<역사>", "start_eid_short": 0, "end_eid_short": 0, "text_short": "<역사>"}
+        ]}
+    ]
+}

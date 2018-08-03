@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+이리얀 자야는 세계에서 두번째로 큰 섬인 뉴기니 섬의 서반부로서 인도네시아 령이다. 열대우림을 간직한 미개척지 인도네시아 이리안 자야. 환상적인 정글 풍경, 적도 빙하, 산꼭대기는 눈으로 덮인 산들, 뻗어있는 습지들, 특이한 새와 동물들의 지역이다. 인도네시아에는 눈이 오지 않고요 이리안 자야의 고산에는 만녈설이나 빙하가 존재한다
+우리가 흔히 보지 못했던 동물들이 인도네시아 자야푸라라는 곳에서 한꺼번에 발견되었다. 그래서 이곳은 에덴 동산이라고 불린다.
+오리엔탈 정공은 인도네시아 '자야 수마드라 카루니자' 해운사에 228억2000만원 규모의 석탄 운송용 캐리어 2척을 공급키로 합의했다고 7일 공시했다.
+경성 대학교는 2009년 3월 22일 인도네시아 수도인 자카르타 소재 아트맛자야 카톨릭 대학과 학술 교류 협정을 체결하였다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="7" text="이리얀 자야" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="21" end="22" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="큰" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="24" end="29" text="뉴기니 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="58" end="62" text="미개척지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="63" end="68" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="69" end="75" text="이리안 자야" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="82" end="84" text="정글" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="96" end="100" text="산꼭대기" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="109" end="111" text="산들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="118" end="121" text="습지들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="135" end="137" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="141" end="146" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="159" end="165" text="이리안 자야" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="167" end="169" text="고산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="206" end="211" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="212" end="216" text="자야푸라" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="219" end="220" text="곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="239" end="241" text="이곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="243" end="248" text="에덴 동산" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="266" end="271" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="363" end="368" text="인도네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="369" end="371" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="373" end="377" text="자카르타" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="381" end="393" text="아트맛자야 카톨릭 대학" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="287" end="290" text="해운사" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="37" end="44" text="인도네시아 령" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PATH id="p0" start="89" end="91" text="적도" beginID="" endID="" midIDs="" type="LANE" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="149" end="150" text="눈" type="DYNAMIC_EVENT" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="172" end="175" text="만녈설" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="178" end="180" text="빙하" type="FAC" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="201" end="204" text="동물들" type="FAC" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="44" end="45" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="54" end="57" text="간직한" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="137" end="138" text="이" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e3" start="228" end="231" text="발견되" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e4" start="405" end="408" text="체결하" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e5" start="182" end="185" text="존재한" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e6" start="22" end="23" text="인" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e7" start="194" end="195" text="보" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e8" start="252" end="254" text="불린" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e9" start="336" end="339" text="공시했" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e10" start="327" end="330" text="합의했" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e11" start="322" end="324" text="공급" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e12" start="155" end="156" text="않" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e13" start="197" end="199" text="못했" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e14" start="371" end="372" text="인" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="152" end="153" text="오" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s2" start="169" end="170" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="220" end="222" text="에서" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="378" end="380" text="소재" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="31" end="34" text="서반부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="165" end="166" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="146" end="148" text="에는" motion_signal_type="PATH" comment="" />
+<SENTENCE id="sent0" start="1" end="47" text="이리얀 자야는 세계에서 두번째로 큰 섬인 뉴기니 섬의 서반부로서 인도네시아 령이다." comment="" />
+<SENTENCE id="sent1" start="48" end="76" text="열대우림을 간직한 미개척지 인도네시아 이리안 자야." comment="" />
+<SENTENCE id="sent2" start="77" end="140" text="환상적인 정글 풍경, 적도 빙하, 산꼭대기는 눈으로 덮인 산들, 뻗어있는 습지들, 특이한 새와 동물들의 지역이다." comment="" />
+<SENTENCE id="sent3" start="141" end="158" text="인도네시아에는 눈이 오지 않고요" comment="" />
+<SENTENCE id="sent4" start="159" end="186" text="이리안 자야의 고산에는 만녈설이나 빙하가 존재한다" comment="" />
+<SENTENCE id="sent5" start="187" end="234" text="우리가 흔히 보지 못했던 동물들이 인도네시아 자야푸라라는 곳에서 한꺼번에 발견되었다." comment="" />
+<SENTENCE id="sent6" start="235" end="256" text="그래서 이곳은 에덴 동산이라고 불린다." comment="" />
+<SENTENCE id="sent7" start="257" end="341" text="오리엔탈 정공은 인도네시아 '자야 수마드라 카루니자' 해운사에 228억2000만원 규모의 석탄 운송용 캐리어 2척을 공급키로 합의했다고 7일 공시했다." comment="" />
+<SENTENCE id="sent8" start="342" end="411" text="경성 대학교는 2009년 3월 22일 인도네시아 수도인 자카르타 소재 아트맛자야 카톨릭 대학과 학술 교류 협정을 체결하였다." comment="" />
+<QSLINK id="qsl1" fromID="pl16" fromText="고산" toID="se1" toText="만녈설" relType="IN" trajector="se1" landmark="pl16" trigger="s2" comment="" />
+<QSLINK id="qsl2" fromID="pl16" fromText="고산" toID="se2" toText="빙하" relType="IN" trajector="se2" landmark="pl16" trigger="s2" comment="" />
+<QSLINK id="qsl3" fromID="se3" fromText="동물들" toID="pl21" toText="곳" relType="NTPP" trajector="se3" landmark="pl21" trigger="s4" comment="" />
+<QSLINK id="qsl5" fromID="pl28" fromText="자카르타" toID="pl29" toText="아트맛자야 카톨릭 대학" relType="IN" trajector="pl29" landmark="pl28" trigger="s3" comment="" />
+<QSLINK id="qsl0" fromID="pl16" fromText="고산" toID="pl15" toText="이리안 자야" relType="IN" trajector="pl16" landmark="pl15" trigger="s1" comment="" />
+<QSLINK id="qsl4" fromID="se3" fromText="동물들" toID="pl20" toText="자야푸라" relType="NTPP" trajector="se3" landmark="pl20" trigger="s4" comment="" />
+<OLINK id="ol1" fromID="pl3" fromText="인도네시아 령" toID="pl2" toText="뉴기니 섬" relType="서" trajector="pl3" landmark="pl2" trigger="s0" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="se0" fromText="눈" toID="pl14" toText="인도네시아" trigger="m0" source="" goal="pl14" midPoint="" mover="se0" landmark="" goal_reached="NO" pathID="" motion_signalID="ms0" comment="" />
+<METALINK id="metal0" fromID="pl1" fromText="섬" toID="pl2" toText="뉴기니 섬" objectID1="pl1" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl7" fromText="인도네시아" toID="pl8" toText="이리안 자야" objectID1="pl8" objectID2="pl7" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl6" fromText="미개척지" toID="pl8" toText="이리안 자야" objectID1="pl6" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl19" fromText="인도네시아" toID="pl20" toText="자야푸라" objectID1="pl20" objectID2="pl19" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl20" fromText="자야푸라" toID="pl21" toText="곳" objectID1="pl21" objectID2="pl20" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl22" fromText="이곳" toID="pl23" toText="에덴 동산" objectID1="pl22" objectID2="pl23" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl26" fromText="인도네시아" toID="pl27" toText="수도" objectID1="pl27" objectID2="pl26" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl27" fromText="수도" toID="pl28" toText="자카르타" objectID1="pl27" objectID2="pl28" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="pl20" fromText="자야푸라" toID="pl22" toText="이곳" objectID1="pl22" objectID2="pl20" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

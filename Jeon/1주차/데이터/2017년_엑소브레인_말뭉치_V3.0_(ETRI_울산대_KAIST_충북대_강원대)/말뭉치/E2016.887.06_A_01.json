@@ -1,0 +1,175 @@
+{
+    "doc_id": "E2016.887.06_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "박용만 (1881년)", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "1914년 6월 하와이 가훌루 '아후이마누' 지역에 대조선 국민군단이 창설되고, 8월 29일 대조선국민군단 사관학교 낙성식이 거행된다.", 
+            "morp": [
+                {"id": 0, "lemma": "1914", "type": "SN", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "년", "type": "NNB", "position": 4, "weight": 0.414343}, 
+                {"id": 2, "lemma": "6", "type": "SN", "position": 8, "weight": 1}, 
+                {"id": 3, "lemma": "월", "type": "NNB", "position": 9, "weight": 0.408539}, 
+                {"id": 4, "lemma": "하와이", "type": "NNP", "position": 13, "weight": 0.9}, 
+                {"id": 5, "lemma": "가훌루", "type": "NNP", "position": 23, "weight": 0.6}, 
+                {"id": 6, "lemma": "'", "type": "SS", "position": 33, "weight": 1}, 
+                {"id": 7, "lemma": "아후이마누", "type": "NNP", "position": 34, "weight": 0.6}, 
+                {"id": 8, "lemma": "'", "type": "SS", "position": 49, "weight": 1}, 
+                {"id": 9, "lemma": "지역", "type": "NNG", "position": 51, "weight": 0.9}, 
+                {"id": 10, "lemma": "에", "type": "JKB", "position": 57, "weight": 0.153364}, 
+                {"id": 11, "lemma": "대", "type": "XPN", "position": 61, "weight": 0.0001}, 
+                {"id": 12, "lemma": "조선", "type": "NNP", "position": 64, "weight": 0.0454248}, 
+                {"id": 13, "lemma": "국민", "type": "NNG", "position": 71, "weight": 0.278417}, 
+                {"id": 14, "lemma": "군단", "type": "NNG", "position": 77, "weight": 0.9}, 
+                {"id": 15, "lemma": "이", "type": "JKS", "position": 83, "weight": 0.0360723}, 
+                {"id": 16, "lemma": "창설", "type": "NNG", "position": 87, "weight": 0.9}, 
+                {"id": 17, "lemma": "되", "type": "XSV", "position": 93, "weight": 0.000224177}, 
+                {"id": 18, "lemma": "고", "type": "EC", "position": 96, "weight": 0.359917}, 
+                {"id": 19, "lemma": ",", "type": "SP", "position": 99, "weight": 1}, 
+                {"id": 20, "lemma": "8", "type": "SN", "position": 101, "weight": 1}, 
+                {"id": 21, "lemma": "월", "type": "NNB", "position": 102, "weight": 0.408539}, 
+                {"id": 22, "lemma": "29", "type": "SN", "position": 106, "weight": 1}, 
+                {"id": 23, "lemma": "일", "type": "NNB", "position": 108, "weight": 0.126777}, 
+                {"id": 24, "lemma": "대", "type": "XPN", "position": 112, "weight": 0.0001}, 
+                {"id": 25, "lemma": "조선", "type": "NNP", "position": 115, "weight": 0.00753116}, 
+                {"id": 26, "lemma": "국민", "type": "NNG", "position": 121, "weight": 0.182497}, 
+                {"id": 27, "lemma": "군단", "type": "NNG", "position": 127, "weight": 0.9}, 
+                {"id": 28, "lemma": "사관", "type": "NNG", "position": 134, "weight": 0.9}, 
+                {"id": 29, "lemma": "학교", "type": "NNG", "position": 140, "weight": 0.184769}, 
+                {"id": 30, "lemma": "낙성", "type": "NNG", "position": 147, "weight": 0.7}, 
+                {"id": 31, "lemma": "식", "type": "XSN", "position": 153, "weight": 0.0146035}, 
+                {"id": 32, "lemma": "이", "type": "JKS", "position": 156, "weight": 0.0731805}, 
+                {"id": 33, "lemma": "거행", "type": "NNG", "position": 160, "weight": 0.8}, 
+                {"id": 34, "lemma": "되", "type": "XSV", "position": 166, "weight": 0.000224177}, 
+                {"id": 35, "lemma": "ㄴ다", "type": "EF", "position": 166, "weight": 0.0449045}, 
+                {"id": 36, "lemma": ".", "type": "SF", "position": 172, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "1914", "type": "SN", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 4, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "6", "type": "SN", "scode": "000000", "weight": 1, "position": 8, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "월", "type": "NNB", "scode": "020100", "weight": 0.125, "position": 9, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "하와이", "type": "NNP", "scode": "000000", "weight": 1, "position": 13, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "가훌루", "type": "NNP", "scode": "000000", "weight": 0, "position": 23, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 33, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "아후이마누", "type": "NNP", "scode": "000000", "weight": 0, "position": 34, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 49, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "지역", "type": "NNG", "scode": "030001", "weight": 0.2, "position": 51, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 57, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "대", "type": "XPN", "scode": "170000", "weight": 0.0232558, "position": 61, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "조선", "type": "NNP", "scode": "050002", "weight": 0.0833333, "position": 64, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "국민", "type": "NNG", "scode": "000000", "weight": 1, "position": 71, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "군단", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 77, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 83, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "창설되", "type": "VV", "scode": "000000", "weight": 1, "position": 87, "begin": 16, "end": 17}, 
+                {"id": 17, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 96, "begin": 18, "end": 18}, 
+                {"id": 18, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 99, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "8", "type": "SN", "scode": "000000", "weight": 1, "position": 101, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "월", "type": "NNB", "scode": "020100", "weight": 0.125, "position": 102, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "29", "type": "SN", "scode": "000000", "weight": 1, "position": 106, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "일", "type": "NNB", "scode": "070100", "weight": 0.04, "position": 108, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "대", "type": "XPN", "scode": "170000", "weight": 0.0232558, "position": 112, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "조선", "type": "NNP", "scode": "050002", "weight": 0.0833333, "position": 115, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "국민", "type": "NNG", "scode": "000000", "weight": 1, "position": 121, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "군단", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 127, "begin": 27, "end": 27}, 
+                {"id": 27, "text": "사관학교", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 134, "begin": 28, "end": 29}, 
+                {"id": 28, "text": "낙성식", "type": "NNG", "scode": "000000", "weight": 1, "position": 147, "begin": 30, "end": 31}, 
+                {"id": 29, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 156, "begin": 32, "end": 32}, 
+                {"id": 30, "text": "거행되", "type": "VV", "scode": "000002", "weight": 0.5, "position": 160, "begin": 33, "end": 34}, 
+                {"id": 31, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 166, "begin": 35, "end": 35}, 
+                {"id": 32, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 172, "begin": 36, "end": 36}
+            ], 
+            "word": [
+                {"id": 0, "text": "1914년", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "6월", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "하와이", "type": "", "begin": 4, "end": 4}, 
+                {"id": 3, "text": "가훌루", "type": "", "begin": 5, "end": 5}, 
+                {"id": 4, "text": "'아후이마누'", "type": "", "begin": 6, "end": 8}, 
+                {"id": 5, "text": "지역에", "type": "", "begin": 9, "end": 10}, 
+                {"id": 6, "text": "대조선", "type": "", "begin": 11, "end": 12}, 
+                {"id": 7, "text": "국민군단이", "type": "", "begin": 13, "end": 15}, 
+                {"id": 8, "text": "창설되고,", "type": "", "begin": 16, "end": 19}, 
+                {"id": 9, "text": "8월", "type": "", "begin": 20, "end": 21}, 
+                {"id": 10, "text": "29일", "type": "", "begin": 22, "end": 23}, 
+                {"id": 11, "text": "대조선국민군단", "type": "", "begin": 24, "end": 27}, 
+                {"id": 12, "text": "사관학교", "type": "", "begin": 28, "end": 29}, 
+                {"id": 13, "text": "낙성식이", "type": "", "begin": 30, "end": 32}, 
+                {"id": 14, "text": "거행된다.", "type": "", "begin": 33, "end": 36}
+            ], 
+            "NE": [
+                {"id": 0, "text": "1914년 6월", "type": "DT_OTHERS", "begin": 0, "end": 3, "weight": 0.772136, "common_noun": 0}, 
+                {"id": 1, "text": "하와이", "type": "LCP_PROVINCE", "begin": 4, "end": 4, "weight": 0.435653, "common_noun": 0}, 
+                {"id": 2, "text": "가훌루", "type": "LCP_COUNTY", "begin": 5, "end": 5, "weight": 0.435653, "common_noun": 0}, 
+                {"id": 3, "text": "아후이마누", "type": "LC_OTHERS", "begin": 7, "end": 7, "weight": 0.136692, "common_noun": 0}, 
+                {"id": 4, "text": "대조선 국민군단", "type": "OGG_MILITARY", "begin": 11, "end": 14, "weight": 0.718423, "common_noun": 0}, 
+                {"id": 5, "text": "8월 29일", "type": "DT_OTHERS", "begin": 20, "end": 23, "weight": 0.836644, "common_noun": 0}, 
+                {"id": 6, "text": "대조선국민군단 사관학교", "type": "OGG_EDUCATION", "begin": 24, "end": 29, "weight": 0.724175, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "1914년", "head": 1, "label": "NP", "mod": [], "weight": 0.734338}, 
+                {"id": 1, "text": "6월", "head": 8, "label": "NP_AJT", "mod": [0], "weight": 0.616806}, 
+                {"id": 2, "text": "하와이", "head": 3, "label": "NP", "mod": [], "weight": 0.453678}, 
+                {"id": 3, "text": "가훌루", "head": 4, "label": "NP", "mod": [2], "weight": 0.751153}, 
+                {"id": 4, "text": "'아후이마누'", "head": 5, "label": "NP", "mod": [3], "weight": 0.73449}, 
+                {"id": 5, "text": "지역에", "head": 8, "label": "NP_AJT", "mod": [4], "weight": 0.798453}, 
+                {"id": 6, "text": "대조선", "head": 7, "label": "NP", "mod": [], "weight": 0.519256}, 
+                {"id": 7, "text": "국민군단이", "head": 8, "label": "NP_SBJ", "mod": [6], "weight": 0.815357}, 
+                {"id": 8, "text": "창설되고,", "head": 14, "label": "VP", "mod": [1, 5, 7], "weight": 0.605726}, 
+                {"id": 9, "text": "8월", "head": 10, "label": "NP", "mod": [], "weight": 0.801875}, 
+                {"id": 10, "text": "29일", "head": 14, "label": "NP_AJT", "mod": [9], "weight": 0.788222}, 
+                {"id": 11, "text": "대조선국민군단", "head": 12, "label": "NP", "mod": [], "weight": 0.0295631}, 
+                {"id": 12, "text": "사관학교", "head": 13, "label": "NP", "mod": [11], "weight": 0.757481}, 
+                {"id": 13, "text": "낙성식이", "head": 14, "label": "NP_SBJ", "mod": [12], "weight": 0.790338}, 
+                {"id": 14, "text": "거행된다.", "head": -1, "label": "VP", "mod": [8, 10, 13], "weight": 0.000227293}
+            ], 
+            "SRL": [
+                {"verb": "창설", "sense": 1, "word_id": 8, "weight": 0.125202, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 1, "text": "6월", "weight": 0.148042}, 
+                    {"type": "ARG2", "word_id": 5, "text": "지역에", "weight": 0.119122}, 
+                    {"type": "ARG1", "word_id": 7, "text": "국민군단이", "weight": 0.108443}
+                ]}, 
+                {"verb": "거행", "sense": 1, "word_id": 14, "weight": 0.176528, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 10, "text": "29일", "weight": 0.181301}, 
+                    {"type": "ARG1", "word_id": 13, "text": "낙성식이", "weight": 0.171754}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "1914년 6월", "start_eid_short": 0, "end_eid_short": 1, "text_short": "1914년 6월"}
+        ]}, 
+        {"id": 1, "type": "LCG_ISLAND", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 2, "end_eid": 3, "ne_id": 1, "text": "하와이 가훌루", "start_eid_short": 2, "end_eid_short": 3, "text_short": "하와이 가훌루"}
+        ]}, 
+        {"id": 2, "type": "LC_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 2, "end_eid": 5, "ne_id": -1, "text": "하와이 가훌루 '아후이마누' 지역에", "start_eid_short": 5, "end_eid_short": 5, "text_short": "지역에"}, 
+            {"id": 2, "sent_id": 0, "start_eid": 2, "end_eid": 4, "ne_id": 2, "text": "하와이 가훌루 '아후이마누'", "start_eid_short": 4, "end_eid_short": 4, "text_short": "'아후이마누'"}
+        ]}, 
+        {"id": 3, "type": "OGG_MILITARY", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 6, "end_eid": 7, "ne_id": 3, "text": "대조선 국민군단이", "start_eid_short": 6, "end_eid_short": 7, "text_short": "대조선 국민군단이"}
+        ]}, 
+        {"id": 4, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 9, "end_eid": 10, "ne_id": 4, "text": "8월 29일", "start_eid_short": 9, "end_eid_short": 10, "text_short": "8월 29일"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 11, "end_eid": 13, "ne_id": -1, "text": "대조선국민군단 사관학교 낙성식이", "start_eid_short": 11, "end_eid_short": 13, "text_short": "대조선국민군단 사관학교 낙성식이"}
+        ]}, 
+        {"id": 6, "type": "OGG_EDUCATION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 11, "end_eid": 12, "ne_id": 5, "text": "대조선국민군단 사관학교", "start_eid_short": 11, "end_eid_short": 12, "text_short": "대조선국민군단 사관학교"}
+        ]}
+    ]
+}

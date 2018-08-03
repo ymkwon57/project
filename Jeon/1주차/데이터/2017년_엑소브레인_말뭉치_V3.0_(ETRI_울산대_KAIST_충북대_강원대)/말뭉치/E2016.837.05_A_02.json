@@ -1,0 +1,61 @@
+{
+    "doc_id": "E2016.837.05_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "프랑스어", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "세네갈, 코트 디부아르", 
+            "morp": [
+                {"id": 0, "lemma": "세네갈", "type": "NNP", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": ",", "type": "SP", "position": 9, "weight": 1}, 
+                {"id": 2, "lemma": "코트", "type": "NNP", "position": 11, "weight": 0.528368}, 
+                {"id": 3, "lemma": "디부아르", "type": "NNP", "position": 18, "weight": 0.6}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "세네갈", "type": "NNP", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 9, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "코트", "type": "NNP", "scode": "000000", "weight": 0.333333, "position": 11, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "디부아르", "type": "NNP", "scode": "000000", "weight": 0, "position": 18, "begin": 3, "end": 3}
+            ], 
+            "word": [
+                {"id": 0, "text": "세네갈,", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "코트", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "디부아르", "type": "", "begin": 3, "end": 3}
+            ], 
+            "NE": [
+                {"id": 0, "text": "세네갈", "type": "LCP_COUNTRY", "begin": 0, "end": 0, "weight": 0.324392, "common_noun": 0}, 
+                {"id": 1, "text": "코트 디부아르", "type": "LCP_COUNTRY", "begin": 2, "end": 3, "weight": 0.282143, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "세네갈,", "head": 2, "label": "NP_CNJ", "mod": [], "weight": 0.285239}, 
+                {"id": 1, "text": "코트", "head": 2, "label": "NP", "mod": [], "weight": 0.609112}, 
+                {"id": 2, "text": "디부아르", "head": -1, "label": "NP", "mod": [0, 1], "weight": 0.133186}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": 1, "text": "세네갈, 코트 디부아르", "start_eid_short": 1, "end_eid_short": 2, "text_short": "코트 디부아르"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "세네갈,", "start_eid_short": 0, "end_eid_short": 0, "text_short": "세네갈,"}
+        ]}, 
+        {"id": 2, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": 1, "text": "코트 디부아르", "start_eid_short": 1, "end_eid_short": 2, "text_short": "코트 디부아르"}
+        ]}
+    ]
+}

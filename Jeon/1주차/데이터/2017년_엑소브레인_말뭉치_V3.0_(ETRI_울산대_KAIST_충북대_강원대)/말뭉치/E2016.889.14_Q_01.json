@@ -1,0 +1,239 @@
+{
+    "doc_id": "E2016.889.14_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "이 노래는 프랑스가 오스트리아에 선전 포고한 후 의용군을 위해 루제 드릴이 작곡했다.", 
+            "morp": [
+                {"id": 0, "lemma": "이", "type": "MM", "position": 0, "weight": 0.0020222}, 
+                {"id": 1, "lemma": "노래", "type": "NNG", "position": 4, "weight": 0.9}, 
+                {"id": 2, "lemma": "는", "type": "JX", "position": 10, "weight": 0.0287565}, 
+                {"id": 3, "lemma": "프랑스", "type": "NNP", "position": 14, "weight": 0.0448604}, 
+                {"id": 4, "lemma": "가", "type": "JKS", "position": 23, "weight": 0.0431193}, 
+                {"id": 5, "lemma": "오스트리아", "type": "NNP", "position": 27, "weight": 0.9}, 
+                {"id": 6, "lemma": "에", "type": "JKB", "position": 42, "weight": 0.0823628}, 
+                {"id": 7, "lemma": "선전", "type": "NNG", "position": 46, "weight": 0.204006}, 
+                {"id": 8, "lemma": "포고", "type": "NNG", "position": 53, "weight": 0.9}, 
+                {"id": 9, "lemma": "하", "type": "XSV", "position": 59, "weight": 0.0001}, 
+                {"id": 10, "lemma": "ㄴ", "type": "ETM", "position": 59, "weight": 0.392321}, 
+                {"id": 11, "lemma": "후", "type": "NNG", "position": 63, "weight": 0.655812}, 
+                {"id": 12, "lemma": "의용", "type": "NNG", "position": 67, "weight": 0.95}, 
+                {"id": 13, "lemma": "군", "type": "NNG", "position": 73, "weight": 0.110913}, 
+                {"id": 14, "lemma": "을", "type": "JKO", "position": 76, "weight": 0.129611}, 
+                {"id": 15, "lemma": "위하", "type": "VV", "position": 80, "weight": 0.778555}, 
+                {"id": 16, "lemma": "아", "type": "EC", "position": 83, "weight": 0.41831}, 
+                {"id": 17, "lemma": "루제", "type": "NNP", "position": 87, "weight": 0.05}, 
+                {"id": 18, "lemma": "드릴", "type": "NNP", "position": 94, "weight": 0.00207611}, 
+                {"id": 19, "lemma": "이", "type": "JKS", "position": 100, "weight": 0.0234517}, 
+                {"id": 20, "lemma": "작곡", "type": "NNG", "position": 104, "weight": 0.9}, 
+                {"id": 21, "lemma": "하", "type": "XSV", "position": 110, "weight": 0.0001}, 
+                {"id": 22, "lemma": "았", "type": "EP", "position": 110, "weight": 0.9}, 
+                {"id": 23, "lemma": "다", "type": "EF", "position": 113, "weight": 0.640954}, 
+                {"id": 24, "lemma": ".", "type": "SF", "position": 116, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이", "type": "MM", "scode": "050101", "weight": 0.0172414, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "노래", "type": "NNG", "scode": "010001", "weight": 0.125, "position": 4, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "프랑스", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 14, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 23, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "오스트리아", "type": "NNP", "scode": "000000", "weight": 1, "position": 27, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 42, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "선전", "type": "NNG", "scode": "060000", "weight": 0.0909091, "position": 46, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "포고하", "type": "VV", "scode": "010003", "weight": 0.2, "position": 53, "begin": 8, "end": 9}, 
+                {"id": 9, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 59, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "후", "type": "NNG", "scode": "080001", "weight": 0.0666667, "position": 63, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "의용군", "type": "NNG", "scode": "000000", "weight": 1, "position": 67, "begin": 12, "end": 13}, 
+                {"id": 12, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 76, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "위하", "type": "VV", "scode": "010003", "weight": 0.25, "position": 80, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 83, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "루제", "type": "NNP", "scode": "000000", "weight": 0, "position": 87, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "드릴", "type": "NNP", "scode": "000000", "weight": 0.5, "position": 94, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 100, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "작곡하", "type": "VV", "scode": "010000", "weight": 0.333333, "position": 104, "begin": 20, "end": 21}, 
+                {"id": 19, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 110, "begin": 22, "end": 22}, 
+                {"id": 20, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 113, "begin": 23, "end": 23}, 
+                {"id": 21, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 116, "begin": 24, "end": 24}
+            ], 
+            "word": [
+                {"id": 0, "text": "이", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "노래는", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "프랑스가", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "오스트리아에", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "선전", "type": "", "begin": 7, "end": 7}, 
+                {"id": 5, "text": "포고한", "type": "", "begin": 8, "end": 10}, 
+                {"id": 6, "text": "후", "type": "", "begin": 11, "end": 11}, 
+                {"id": 7, "text": "의용군을", "type": "", "begin": 12, "end": 14}, 
+                {"id": 8, "text": "위해", "type": "", "begin": 15, "end": 16}, 
+                {"id": 9, "text": "루제", "type": "", "begin": 17, "end": 17}, 
+                {"id": 10, "text": "드릴이", "type": "", "begin": 18, "end": 19}, 
+                {"id": 11, "text": "작곡했다.", "type": "", "begin": 20, "end": 24}
+            ], 
+            "NE": [
+                {"id": 0, "text": "프랑스", "type": "LCP_COUNTRY", "begin": 3, "end": 3, "weight": 0.815978, "common_noun": 0}, 
+                {"id": 1, "text": "오스트리아", "type": "LCP_COUNTRY", "begin": 5, "end": 5, "weight": 0.545118, "common_noun": 0}, 
+                {"id": 2, "text": "의용군", "type": "OGG_MILITARY", "begin": 12, "end": 13, "weight": 0.526715, "common_noun": 0}, 
+                {"id": 3, "text": "루제 드릴", "type": "PS_NAME", "begin": 17, "end": 18, "weight": 0.279493, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이", "head": 1, "label": "DP", "mod": [], "weight": 0.686542}, 
+                {"id": 1, "text": "노래는", "head": 11, "label": "NP_OBJ", "mod": [0], "weight": 0.460373}, 
+                {"id": 2, "text": "프랑스가", "head": 5, "label": "NP_SBJ", "mod": [], "weight": 0.869848}, 
+                {"id": 3, "text": "오스트리아에", "head": 5, "label": "NP_AJT", "mod": [], "weight": 0.766756}, 
+                {"id": 4, "text": "선전", "head": 5, "label": "NP", "mod": [], "weight": 0.232894}, 
+                {"id": 5, "text": "포고한", "head": 6, "label": "VP_MOD", "mod": [2, 3, 4], "weight": 0.696086}, 
+                {"id": 6, "text": "후", "head": 8, "label": "NP_AJT", "mod": [5], "weight": 0.723964}, 
+                {"id": 7, "text": "의용군을", "head": 8, "label": "NP_OBJ", "mod": [], "weight": 0.706489}, 
+                {"id": 8, "text": "위해", "head": 11, "label": "VP", "mod": [6, 7], "weight": 0.86725}, 
+                {"id": 9, "text": "루제", "head": 10, "label": "NP", "mod": [], "weight": 0.682257}, 
+                {"id": 10, "text": "드릴이", "head": 11, "label": "NP_SBJ", "mod": [9], "weight": 0.76584}, 
+                {"id": 11, "text": "작곡했다.", "head": -1, "label": "VP", "mod": [8, 10, 1], "weight": 0.00686142}
+            ], 
+            "SRL": [
+                {"verb": "포고", "sense": 1, "word_id": 5, "weight": 0.152914, "argument": [
+                    {"type": "ARG0", "word_id": 2, "text": "프랑스가", "weight": 0.171584}, 
+                    {"type": "ARGM-LOC", "word_id": 3, "text": "오스트리아에", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 4, "text": "선전", "weight": 1}
+                ]}, 
+                {"verb": "위하", "sense": 1, "word_id": 8, "weight": 0.306429, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "의용군을", "weight": 0.306429}, 
+                    {"type": "ARG0", "word_id": 1, "text": "노래는", "weight": 1}, 
+                    {"type": "ARGM-TMP", "word_id": 6, "text": "후", "weight": 1}
+                ]}, 
+                {"verb": "작곡", "sense": 1, "word_id": 11, "weight": 0.206316, "argument": [
+                    {"type": "ARGM-PRP", "word_id": 8, "text": "위해", "weight": 0.224949}, 
+                    {"type": "ARG0", "word_id": 10, "text": "드릴이", "weight": 0.166851}, 
+                    {"type": "ARG1", "word_id": 1, "text": "노래는", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "현재 프랑스 국가로 지정되어 있는 이 노래의 원어 제목은 무엇일까? ", 
+            "morp": [
+                {"id": 0, "lemma": "현재", "type": "MAG", "position": 117, "weight": 0.0393399}, 
+                {"id": 1, "lemma": "프랑스", "type": "NNP", "position": 124, "weight": 0.0267186}, 
+                {"id": 2, "lemma": "국가", "type": "NNG", "position": 134, "weight": 0.281959}, 
+                {"id": 3, "lemma": "로", "type": "JKB", "position": 140, "weight": 0.153229}, 
+                {"id": 4, "lemma": "지정", "type": "NNG", "position": 144, "weight": 0.9}, 
+                {"id": 5, "lemma": "되", "type": "XSV", "position": 150, "weight": 0.000224177}, 
+                {"id": 6, "lemma": "아", "type": "EC", "position": 153, "weight": 0.361326}, 
+                {"id": 7, "lemma": "있", "type": "VX", "position": 157, "weight": 0.125953}, 
+                {"id": 8, "lemma": "는", "type": "ETM", "position": 160, "weight": 0.183966}, 
+                {"id": 9, "lemma": "이", "type": "MM", "position": 164, "weight": 0.00060084}, 
+                {"id": 10, "lemma": "노래", "type": "NNG", "position": 168, "weight": 0.9}, 
+                {"id": 11, "lemma": "의", "type": "JKG", "position": 174, "weight": 0.0694213}, 
+                {"id": 12, "lemma": "원어", "type": "NNG", "position": 178, "weight": 0.9}, 
+                {"id": 13, "lemma": "제목", "type": "NNG", "position": 185, "weight": 0.9}, 
+                {"id": 14, "lemma": "은", "type": "JX", "position": 191, "weight": 0.0449928}, 
+                {"id": 15, "lemma": "무엇", "type": "NP", "position": 195, "weight": 0.9}, 
+                {"id": 16, "lemma": "이", "type": "VCP", "position": 201, "weight": 0.0175768}, 
+                {"id": 17, "lemma": "ㄹ까", "type": "EF", "position": 201, "weight": 0.258243}, 
+                {"id": 18, "lemma": "?", "type": "SF", "position": 207, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "현재", "type": "MAG", "scode": "020101", "weight": 0.0909091, "position": 117, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "프랑스", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 124, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "국가", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 134, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 140, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "지정되", "type": "VV", "scode": "000002", "weight": 0.5, "position": 144, "begin": 4, "end": 5}, 
+                {"id": 5, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 153, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 157, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 160, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 164, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "노래", "type": "NNG", "scode": "010001", "weight": 0.125, "position": 168, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 174, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "원어", "type": "NNG", "scode": "000000", "weight": 1, "position": 178, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "제목", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 185, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 191, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "무엇", "type": "NP", "scode": "000001", "weight": 0.5, "position": 195, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 201, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "ㄹ까", "type": "EF", "scode": "000000", "weight": 1, "position": 201, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 207, "begin": 18, "end": 18}
+            ], 
+            "word": [
+                {"id": 0, "text": "현재", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "프랑스", "type": "", "begin": 1, "end": 1}, 
+                {"id": 2, "text": "국가로", "type": "", "begin": 2, "end": 3}, 
+                {"id": 3, "text": "지정되어", "type": "", "begin": 4, "end": 6}, 
+                {"id": 4, "text": "있는", "type": "", "begin": 7, "end": 8}, 
+                {"id": 5, "text": "이", "type": "", "begin": 9, "end": 9}, 
+                {"id": 6, "text": "노래의", "type": "", "begin": 10, "end": 11}, 
+                {"id": 7, "text": "원어", "type": "", "begin": 12, "end": 12}, 
+                {"id": 8, "text": "제목은", "type": "", "begin": 13, "end": 14}, 
+                {"id": 9, "text": "무엇일까?", "type": "", "begin": 15, "end": 18}
+            ], 
+            "NE": [
+                {"id": 0, "text": "프랑스", "type": "LCP_COUNTRY", "begin": 1, "end": 1, "weight": 0.85993, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "현재", "head": 3, "label": "AP", "mod": [], "weight": 0.535557}, 
+                {"id": 1, "text": "프랑스", "head": 2, "label": "NP", "mod": [], "weight": 0.763252}, 
+                {"id": 2, "text": "국가로", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.714881}, 
+                {"id": 3, "text": "지정되어", "head": 4, "label": "VP", "mod": [0, 2], "weight": 0.800682}, 
+                {"id": 4, "text": "있는", "head": 6, "label": "VP_MOD", "mod": [3], "weight": 0.322968}, 
+                {"id": 5, "text": "이", "head": 6, "label": "DP", "mod": [], "weight": 0.547011}, 
+                {"id": 6, "text": "노래의", "head": 8, "label": "NP_MOD", "mod": [4, 5], "weight": 0.720124}, 
+                {"id": 7, "text": "원어", "head": 8, "label": "NP", "mod": [], "weight": 0.697214}, 
+                {"id": 8, "text": "제목은", "head": 9, "label": "NP_SBJ", "mod": [6, 7], "weight": 0.859147}, 
+                {"id": 9, "text": "무엇일까?", "head": -1, "label": "VNP", "mod": [8], "weight": 0.0155908}
+            ], 
+            "SRL": [
+                {"verb": "지정", "sense": 1, "word_id": 3, "weight": 0.277271, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 0, "text": "현재", "weight": 0.206899}, 
+                    {"type": "ARG2", "word_id": 2, "text": "국가로", "weight": 0.165838}, 
+                    {"type": "AUX", "word_id": 4, "text": "있는", "weight": 0.459077}, 
+                    {"type": "ARG1", "word_id": 6, "text": "노래의", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "이 노래는", "start_eid_short": 0, "end_eid_short": 1, "text_short": "이 노래는"}, 
+            {"id": 6, "sent_id": 1, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "현재 프랑스 국가로", "start_eid_short": 0, "end_eid_short": 2, "text_short": "현재 프랑스 국가로"}, 
+            {"id": 8, "sent_id": 1, "start_eid": 5, "end_eid": 8, "ne_id": -1, "text": "이 노래의 원어 제목은", "start_eid_short": 7, "end_eid_short": 8, "text_short": "원어 제목은"}, 
+            {"id": 9, "sent_id": 1, "start_eid": 5, "end_eid": 6, "ne_id": -1, "text": "이 노래의", "start_eid_short": 5, "end_eid_short": 6, "text_short": "이 노래의"}, 
+            {"id": 11, "sent_id": 1, "start_eid": 9, "end_eid": 9, "ne_id": -1, "text": "무엇일까?", "start_eid_short": 9, "end_eid_short": 9, "text_short": "무엇일까?"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": 0, "text": "프랑스가", "start_eid_short": 2, "end_eid_short": 2, "text_short": "프랑스가"}, 
+            {"id": 7, "sent_id": 1, "start_eid": 1, "end_eid": 1, "ne_id": 0, "text": "프랑스", "start_eid_short": 1, "end_eid_short": 1, "text_short": "프랑스"}
+        ]}, 
+        {"id": 2, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": 1, "text": "오스트리아에", "start_eid_short": 3, "end_eid_short": 3, "text_short": "오스트리아에"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "선전", "start_eid_short": 4, "end_eid_short": 4, "text_short": "선전"}
+        ]}, 
+        {"id": 4, "type": "OGG_MILITARY", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 2, "text": "의용군을", "start_eid_short": 7, "end_eid_short": 7, "text_short": "의용군을"}
+        ]}, 
+        {"id": 5, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 9, "end_eid": 10, "ne_id": 3, "text": "루제 드릴이", "start_eid_short": 9, "end_eid_short": 10, "text_short": "루제 드릴이"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "원어", "start_eid_short": 7, "end_eid_short": 7, "text_short": "원어"}
+        ]}
+    ]
+}

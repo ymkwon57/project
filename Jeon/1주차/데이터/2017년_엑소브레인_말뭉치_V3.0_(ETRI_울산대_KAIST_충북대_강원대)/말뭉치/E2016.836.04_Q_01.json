@@ -1,0 +1,83 @@
+{
+    "doc_id": "E2016.836.04_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "다음 중 형성 원인이 다른 사막은?", 
+            "morp": [
+                {"id": 0, "lemma": "다음", "type": "NNG", "position": 0, "weight": 0.437703}, 
+                {"id": 1, "lemma": "중", "type": "NNB", "position": 7, "weight": 0.013531}, 
+                {"id": 2, "lemma": "형성", "type": "NNG", "position": 11, "weight": 0.9}, 
+                {"id": 3, "lemma": "원인", "type": "NNG", "position": 18, "weight": 0.9}, 
+                {"id": 4, "lemma": "이", "type": "JKS", "position": 24, "weight": 0.0360723}, 
+                {"id": 5, "lemma": "다르", "type": "VA", "position": 28, "weight": 0.9}, 
+                {"id": 6, "lemma": "ㄴ", "type": "ETM", "position": 28, "weight": 0.9}, 
+                {"id": 7, "lemma": "사막", "type": "NNG", "position": 35, "weight": 0.9}, 
+                {"id": 8, "lemma": "은", "type": "JX", "position": 41, "weight": 0.0449928}, 
+                {"id": 9, "lemma": "?", "type": "SF", "position": 44, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "다음", "type": "NNG", "scode": "010009", "weight": 0.0833333, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "중", "type": "NNB", "scode": "040101", "weight": 0.0526316, "position": 7, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "형성", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 11, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "원인", "type": "NNG", "scode": "020000", "weight": 0.1, "position": 18, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 24, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "다르", "type": "VA", "scode": "010001", "weight": 0.333333, "position": 28, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 28, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "사막", "type": "NNG", "scode": "040000", "weight": 0.166667, "position": 35, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 41, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 44, "begin": 9, "end": 9}
+            ], 
+            "word": [
+                {"id": 0, "text": "다음", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "중", "type": "", "begin": 1, "end": 1}, 
+                {"id": 2, "text": "형성", "type": "", "begin": 2, "end": 2}, 
+                {"id": 3, "text": "원인이", "type": "", "begin": 3, "end": 4}, 
+                {"id": 4, "text": "다른", "type": "", "begin": 5, "end": 6}, 
+                {"id": 5, "text": "사막은?", "type": "", "begin": 7, "end": 9}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "다음", "head": 1, "label": "NP", "mod": [], "weight": 0.668995}, 
+                {"id": 1, "text": "중", "head": 4, "label": "NP", "mod": [0], "weight": 0.0696727}, 
+                {"id": 2, "text": "형성", "head": 3, "label": "NP", "mod": [], "weight": 0.811199}, 
+                {"id": 3, "text": "원인이", "head": 4, "label": "NP_SBJ", "mod": [2], "weight": 0.700604}, 
+                {"id": 4, "text": "다른", "head": 5, "label": "VP_MOD", "mod": [1, 3], "weight": 0.341028}, 
+                {"id": 5, "text": "사막은?", "head": -1, "label": "NP_SBJ", "mod": [4], "weight": 0.00502396}
+            ], 
+            "SRL": [
+                {"verb": "다르", "sense": 1, "word_id": 4, "weight": 0, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "원인이", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 5, "ne_id": -1, "text": "다음 중 형성 원인이 다른 사막은?", "start_eid_short": 5, "end_eid_short": 5, "text_short": "사막은?"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "다음", "start_eid_short": 0, "end_eid_short": 0, "text_short": "다음"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 2, "end_eid": 3, "ne_id": -1, "text": "형성 원인이", "start_eid_short": 2, "end_eid_short": 3, "text_short": "형성 원인이"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "형성", "start_eid_short": 2, "end_eid_short": 2, "text_short": "형성"}
+        ]}
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "doc_id": "E2016.888.15_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "이 조항은 조일 통상 장정 규정을 토대로 1889년 함경도 관찰사 조병식이 발표한 것이다.", 
+            "morp": [
+                {"id": 0, "lemma": "이", "type": "MM", "position": 0, "weight": 0.0020222}, 
+                {"id": 1, "lemma": "조항", "type": "NNG", "position": 4, "weight": 0.9}, 
+                {"id": 2, "lemma": "은", "type": "JX", "position": 10, "weight": 0.0449928}, 
+                {"id": 3, "lemma": "조일", "type": "NNG", "position": 14, "weight": 0.0464174}, 
+                {"id": 4, "lemma": "통상", "type": "NNG", "position": 21, "weight": 0.168438}, 
+                {"id": 5, "lemma": "장정", "type": "NNG", "position": 28, "weight": 0.181251}, 
+                {"id": 6, "lemma": "규정", "type": "NNG", "position": 35, "weight": 0.9}, 
+                {"id": 7, "lemma": "을", "type": "JKO", "position": 41, "weight": 0.129611}, 
+                {"id": 8, "lemma": "토대", "type": "NNG", "position": 45, "weight": 0.9}, 
+                {"id": 9, "lemma": "로", "type": "JKB", "position": 51, "weight": 0.153229}, 
+                {"id": 10, "lemma": "1889", "type": "SN", "position": 55, "weight": 1}, 
+                {"id": 11, "lemma": "년", "type": "NNB", "position": 59, "weight": 0.414343}, 
+                {"id": 12, "lemma": "함경도", "type": "NNP", "position": 63, "weight": 0.009856}, 
+                {"id": 13, "lemma": "관찰", "type": "NNG", "position": 73, "weight": 0.9}, 
+                {"id": 14, "lemma": "사", "type": "XSN", "position": 79, "weight": 0.00634534}, 
+                {"id": 15, "lemma": "조병식", "type": "NNP", "position": 83, "weight": 0.25}, 
+                {"id": 16, "lemma": "이", "type": "JKS", "position": 92, "weight": 0.0234517}, 
+                {"id": 17, "lemma": "발표", "type": "NNG", "position": 96, "weight": 0.9}, 
+                {"id": 18, "lemma": "하", "type": "XSV", "position": 102, "weight": 0.0001}, 
+                {"id": 19, "lemma": "ㄴ", "type": "ETM", "position": 102, "weight": 0.392321}, 
+                {"id": 20, "lemma": "것", "type": "NNB", "position": 106, "weight": 0.228788}, 
+                {"id": 21, "lemma": "이", "type": "VCP", "position": 109, "weight": 0.0607843}, 
+                {"id": 22, "lemma": "다", "type": "EF", "position": 112, "weight": 0.353579}, 
+                {"id": 23, "lemma": ".", "type": "SF", "position": 115, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이", "type": "MM", "scode": "050101", "weight": 0.0172414, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "조항", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 4, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "조일", "type": "NNG", "scode": "000000", "weight": 1, "position": 14, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "통상", "type": "NNG", "scode": "010000", "weight": 0.2, "position": 21, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "장정", "type": "NNG", "scode": "010001", "weight": 0.0833333, "position": 28, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "규정", "type": "NNG", "scode": "040001", "weight": 0.0833333, "position": 35, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 41, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "토대", "type": "NNG", "scode": "000003", "weight": 0.333333, "position": 45, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 51, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "1889", "type": "SN", "scode": "000000", "weight": 1, "position": 55, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "년", "type": "NNB", "scode": "020000", "weight": 0.166667, "position": 59, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "함경도", "type": "NNP", "scode": "000002", "weight": 0.5, "position": 63, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "관찰사", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 73, "begin": 13, "end": 14}, 
+                {"id": 14, "text": "조병식", "type": "NNP", "scode": "000000", "weight": 1, "position": 83, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 92, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "발표하", "type": "VV", "scode": "000000", "weight": 1, "position": 96, "begin": 17, "end": 18}, 
+                {"id": 17, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 102, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 106, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 109, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 112, "begin": 22, "end": 22}, 
+                {"id": 21, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 115, "begin": 23, "end": 23}
+            ], 
+            "word": [
+                {"id": 0, "text": "이", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "조항은", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "조일", "type": "", "begin": 3, "end": 3}, 
+                {"id": 3, "text": "통상", "type": "", "begin": 4, "end": 4}, 
+                {"id": 4, "text": "장정", "type": "", "begin": 5, "end": 5}, 
+                {"id": 5, "text": "규정을", "type": "", "begin": 6, "end": 7}, 
+                {"id": 6, "text": "토대로", "type": "", "begin": 8, "end": 9}, 
+                {"id": 7, "text": "1889년", "type": "", "begin": 10, "end": 11}, 
+                {"id": 8, "text": "함경도", "type": "", "begin": 12, "end": 12}, 
+                {"id": 9, "text": "관찰사", "type": "", "begin": 13, "end": 14}, 
+                {"id": 10, "text": "조병식이", "type": "", "begin": 15, "end": 16}, 
+                {"id": 11, "text": "발표한", "type": "", "begin": 17, "end": 19}, 
+                {"id": 12, "text": "것이다.", "type": "", "begin": 20, "end": 23}
+            ], 
+            "NE": [
+                {"id": 0, "text": "조일 통상 장정", "type": "CV_LAW", "begin": 3, "end": 5, "weight": 0.844847, "common_noun": 0}, 
+                {"id": 1, "text": "1889년", "type": "DT_YEAR", "begin": 10, "end": 11, "weight": 0.844847, "common_noun": 0}, 
+                {"id": 2, "text": "함경도", "type": "LCP_PROVINCE", "begin": 12, "end": 12, "weight": 0.463751, "common_noun": 0}, 
+                {"id": 3, "text": "관찰사", "type": "CV_POSITION", "begin": 13, "end": 14, "weight": 0.857594, "common_noun": 0}, 
+                {"id": 4, "text": "조병식", "type": "PS_NAME", "begin": 15, "end": 15, "weight": 0.670008, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이", "head": 1, "label": "DP", "mod": [], "weight": 0.720217}, 
+                {"id": 1, "text": "조항은", "head": 12, "label": "NP_SBJ", "mod": [0], "weight": 0.712637}, 
+                {"id": 2, "text": "조일", "head": 3, "label": "NP", "mod": [], "weight": 0.4366}, 
+                {"id": 3, "text": "통상", "head": 4, "label": "NP", "mod": [2], "weight": 0.543241}, 
+                {"id": 4, "text": "장정", "head": 5, "label": "NP", "mod": [3], "weight": 0.796235}, 
+                {"id": 5, "text": "규정을", "head": 6, "label": "NP_OBJ", "mod": [4], "weight": 0.705414}, 
+                {"id": 6, "text": "토대로", "head": 11, "label": "NP_AJT", "mod": [5], "weight": 0.766821}, 
+                {"id": 7, "text": "1889년", "head": 11, "label": "NP_AJT", "mod": [], "weight": 0.67305}, 
+                {"id": 8, "text": "함경도", "head": 9, "label": "NP", "mod": [], "weight": 0.567554}, 
+                {"id": 9, "text": "관찰사", "head": 10, "label": "NP", "mod": [8], "weight": 0.855598}, 
+                {"id": 10, "text": "조병식이", "head": 11, "label": "NP_SBJ", "mod": [9], "weight": 0.83125}, 
+                {"id": 11, "text": "발표한", "head": 12, "label": "VP_MOD", "mod": [6, 7, 10], "weight": 0.794062}, 
+                {"id": 12, "text": "것이다.", "head": -1, "label": "VNP", "mod": [11, 1], "weight": 0.0090572}
+            ], 
+            "SRL": [
+                {"verb": "발표", "sense": 1, "word_id": 11, "weight": 0.270782, "argument": [
+                    {"type": "ARGM-PRD", "word_id": 6, "text": "토대로", "weight": 1}, 
+                    {"type": "ARGM-TMP", "word_id": 7, "text": "1889년", "weight": 0.233255}, 
+                    {"type": "ARG0", "word_id": 10, "text": "조병식이", "weight": 0.504165}, 
+                    {"type": "ARG1", "word_id": 12, "text": "것이다.", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "흉년이 들어 곡물이 부족할 때 외부로의 식량 유출을 금지하게 한 이 조항은 무엇일까? ", 
+            "morp": [
+                {"id": 0, "lemma": "흉년", "type": "NNG", "position": 116, "weight": 0.9}, 
+                {"id": 1, "lemma": "이", "type": "JKS", "position": 122, "weight": 0.0360723}, 
+                {"id": 2, "lemma": "들", "type": "VV", "position": 126, "weight": 0.03692}, 
+                {"id": 3, "lemma": "어", "type": "EC", "position": 129, "weight": 0.41831}, 
+                {"id": 4, "lemma": "곡물", "type": "NNG", "position": 133, "weight": 0.9}, 
+                {"id": 5, "lemma": "이", "type": "JKS", "position": 139, "weight": 0.0360723}, 
+                {"id": 6, "lemma": "부족", "type": "NNG", "position": 143, "weight": 0.9}, 
+                {"id": 7, "lemma": "하", "type": "XSA", "position": 149, "weight": 0.0001}, 
+                {"id": 8, "lemma": "ㄹ", "type": "ETM", "position": 149, "weight": 0.483205}, 
+                {"id": 9, "lemma": "때", "type": "NNG", "position": 153, "weight": 0.656522}, 
+                {"id": 10, "lemma": "외부", "type": "NNG", "position": 157, "weight": 0.9}, 
+                {"id": 11, "lemma": "로", "type": "JKB", "position": 163, "weight": 0.153229}, 
+                {"id": 12, "lemma": "의", "type": "JKG", "position": 166, "weight": 0.00917577}, 
+                {"id": 13, "lemma": "식량", "type": "NNG", "position": 170, "weight": 0.9}, 
+                {"id": 14, "lemma": "유출", "type": "NNG", "position": 177, "weight": 0.18426}, 
+                {"id": 15, "lemma": "을", "type": "JKO", "position": 183, "weight": 0.129611}, 
+                {"id": 16, "lemma": "금지", "type": "NNG", "position": 187, "weight": 0.101291}, 
+                {"id": 17, "lemma": "하", "type": "XSV", "position": 193, "weight": 0.0001}, 
+                {"id": 18, "lemma": "게", "type": "EC", "position": 196, "weight": 0.369675}, 
+                {"id": 19, "lemma": "하", "type": "VX", "position": 200, "weight": 0.0899221}, 
+                {"id": 20, "lemma": "ㄴ", "type": "ETM", "position": 200, "weight": 0.302612}, 
+                {"id": 21, "lemma": "이", "type": "MM", "position": 204, "weight": 0.00060084}, 
+                {"id": 22, "lemma": "조항", "type": "NNG", "position": 208, "weight": 0.9}, 
+                {"id": 23, "lemma": "은", "type": "JX", "position": 214, "weight": 0.0449928}, 
+                {"id": 24, "lemma": "무엇", "type": "NP", "position": 218, "weight": 0.9}, 
+                {"id": 25, "lemma": "이", "type": "VCP", "position": 224, "weight": 0.0175768}, 
+                {"id": 26, "lemma": "ㄹ까", "type": "EF", "position": 224, "weight": 0.258243}, 
+                {"id": 27, "lemma": "?", "type": "SF", "position": 230, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "흉년", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 116, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 122, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "들", "type": "VV", "scode": "010207", "weight": 0.027027, "position": 126, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 129, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "곡물", "type": "NNG", "scode": "000000", "weight": 1, "position": 133, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 139, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "부족하", "type": "VA", "scode": "000000", "weight": 1, "position": 143, "begin": 6, "end": 7}, 
+                {"id": 7, "text": "ㄹ", "type": "ETM", "scode": "000000", "weight": 1, "position": 149, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "때", "type": "NNG", "scode": "010005", "weight": 0.0666667, "position": 153, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "외부", "type": "NNG", "scode": "020002", "weight": 0.2, "position": 157, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 163, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 166, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "식량", "type": "NNG", "scode": "030000", "weight": 0.25, "position": 170, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "유출", "type": "NNG", "scode": "010002", "weight": 0.25, "position": 177, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 183, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "금지하", "type": "VV", "scode": "000000", "weight": 1, "position": 187, "begin": 16, "end": 17}, 
+                {"id": 16, "text": "게", "type": "EC", "scode": "000000", "weight": 1, "position": 196, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "하", "type": "VX", "scode": "011101", "weight": 0.02, "position": 200, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 200, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 204, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "조항", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 208, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 214, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "무엇", "type": "NP", "scode": "000001", "weight": 0.5, "position": 218, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 224, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "ㄹ까", "type": "EF", "scode": "000000", "weight": 1, "position": 224, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 230, "begin": 27, "end": 27}
+            ], 
+            "word": [
+                {"id": 0, "text": "흉년이", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "들어", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "곡물이", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "부족할", "type": "", "begin": 6, "end": 8}, 
+                {"id": 4, "text": "때", "type": "", "begin": 9, "end": 9}, 
+                {"id": 5, "text": "외부로의", "type": "", "begin": 10, "end": 12}, 
+                {"id": 6, "text": "식량", "type": "", "begin": 13, "end": 13}, 
+                {"id": 7, "text": "유출을", "type": "", "begin": 14, "end": 15}, 
+                {"id": 8, "text": "금지하게", "type": "", "begin": 16, "end": 18}, 
+                {"id": 9, "text": "한", "type": "", "begin": 19, "end": 20}, 
+                {"id": 10, "text": "이", "type": "", "begin": 21, "end": 21}, 
+                {"id": 11, "text": "조항은", "type": "", "begin": 22, "end": 23}, 
+                {"id": 12, "text": "무엇일까?", "type": "", "begin": 24, "end": 27}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "흉년이", "head": 1, "label": "NP_SBJ", "mod": [], "weight": 0.858356}, 
+                {"id": 1, "text": "들어", "head": 3, "label": "VP", "mod": [0], "weight": 0.173054}, 
+                {"id": 2, "text": "곡물이", "head": 3, "label": "NP_SBJ", "mod": [], "weight": 0.839811}, 
+                {"id": 3, "text": "부족할", "head": 4, "label": "VP_MOD", "mod": [1, 2], "weight": 0.787926}, 
+                {"id": 4, "text": "때", "head": 8, "label": "NP_AJT", "mod": [3], "weight": 0.618788}, 
+                {"id": 5, "text": "외부로의", "head": 7, "label": "NP_MOD", "mod": [], "weight": 0.677261}, 
+                {"id": 6, "text": "식량", "head": 7, "label": "NP", "mod": [], "weight": 0.695123}, 
+                {"id": 7, "text": "유출을", "head": 8, "label": "NP_OBJ", "mod": [5, 6], "weight": 0.663357}, 
+                {"id": 8, "text": "금지하게", "head": 9, "label": "VP", "mod": [4, 7], "weight": 0.569421}, 
+                {"id": 9, "text": "한", "head": 11, "label": "VP_MOD", "mod": [8], "weight": 0.750915}, 
+                {"id": 10, "text": "이", "head": 11, "label": "DP", "mod": [], "weight": 0.701944}, 
+                {"id": 11, "text": "조항은", "head": 12, "label": "NP_SBJ", "mod": [9, 10], "weight": 0.813551}, 
+                {"id": 12, "text": "무엇일까?", "head": -1, "label": "VNP", "mod": [11], "weight": 0.00408441}
+            ], 
+            "SRL": [
+                {"verb": "들", "sense": 1, "word_id": 1, "weight": 0.148981, "argument": [
+                    {"type": "ARG1", "word_id": 0, "text": "흉년이", "weight": 0.148981}
+                ]}, 
+                {"verb": "부족", "sense": 1, "word_id": 3, "weight": 0.214165, "argument": [
+                    {"type": "ARGM-CAU", "word_id": 1, "text": "들어", "weight": 0.128454}, 
+                    {"type": "ARG1", "word_id": 2, "text": "곡물이", "weight": 0.299875}
+                ]}, 
+                {"verb": "금지", "sense": 1, "word_id": 8, "weight": 0.22555, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 4, "text": "때", "weight": 0.223692}, 
+                    {"type": "ARG1", "word_id": 7, "text": "유출을", "weight": 0.261315}, 
+                    {"type": "AUX", "word_id": 9, "text": "한", "weight": 0.247512}, 
+                    {"type": "ARGM-INS", "word_id": 11, "text": "조항은", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "이 조항은", "start_eid_short": 0, "end_eid_short": 1, "text_short": "이 조항은"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 2, "end_eid": 12, "ne_id": -1, "text": "조일 통상 장정 규정을 토대로 1889년 함경도 관찰사 조병식이 발표한 것이다.", "start_eid_short": 12, "end_eid_short": 12, "text_short": "것이다."}, 
+            {"id": 16, "sent_id": 1, "start_eid": 10, "end_eid": 11, "ne_id": -1, "text": "이 조항은", "start_eid_short": 10, "end_eid_short": 11, "text_short": "이 조항은"}, 
+            {"id": 17, "sent_id": 1, "start_eid": 12, "end_eid": 12, "ne_id": -1, "text": "무엇일까?", "start_eid_short": 12, "end_eid_short": 12, "text_short": "무엇일까?"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 2, "end_eid": 3, "ne_id": -1, "text": "조일 통상", "start_eid_short": 2, "end_eid_short": 3, "text_short": "조일 통상"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 2, "end_eid": 5, "ne_id": -1, "text": "조일 통상 장정 규정을", "start_eid_short": 2, "end_eid_short": 5, "text_short": "조일 통상 장정 규정을"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 2, "end_eid": 4, "ne_id": -1, "text": "조일 통상 장정", "start_eid_short": 2, "end_eid_short": 4, "text_short": "조일 통상 장정"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "토대로", "start_eid_short": 6, "end_eid_short": 6, "text_short": "토대로"}
+        ]}, 
+        {"id": 5, "type": "DT_YEAR", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 0, "text": "1889년", "start_eid_short": 7, "end_eid_short": 7, "text_short": "1889년"}
+        ]}, 
+        {"id": 6, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 8, "end_eid": 10, "ne_id": 3, "text": "함경도 관찰사 조병식이", "start_eid_short": 8, "end_eid_short": 10, "text_short": "함경도 관찰사 조병식이"}, 
+            {"id": 8, "sent_id": 0, "start_eid": 8, "end_eid": 9, "ne_id": 2, "text": "함경도 관찰사", "start_eid_short": 8, "end_eid_short": 9, "text_short": "함경도 관찰사"}
+        ]}, 
+        {"id": 7, "type": "LCP_PROVINCE", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": 1, "text": "함경도", "start_eid_short": 8, "end_eid_short": 8, "text_short": "함경도"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 0, "end_eid": 4, "ne_id": -1, "text": "흉년이 들어 곡물이 부족할 때", "start_eid_short": 4, "end_eid_short": 4, "text_short": "때"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "흉년이", "start_eid_short": 0, "end_eid_short": 0, "text_short": "흉년이"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "곡물이", "start_eid_short": 2, "end_eid_short": 2, "text_short": "곡물이"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 5, "end_eid": 7, "ne_id": -1, "text": "외부로의 식량 유출을", "start_eid_short": 6, "end_eid_short": 7, "text_short": "식량 유출을"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 1, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "외부로의", "start_eid_short": 5, "end_eid_short": 5, "text_short": "외부로의"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 1, "start_eid": 6, "end_eid": 6, "ne_id": -1, "text": "식량", "start_eid_short": 6, "end_eid_short": 6, "text_short": "식량"}
+        ]}
+    ]
+}

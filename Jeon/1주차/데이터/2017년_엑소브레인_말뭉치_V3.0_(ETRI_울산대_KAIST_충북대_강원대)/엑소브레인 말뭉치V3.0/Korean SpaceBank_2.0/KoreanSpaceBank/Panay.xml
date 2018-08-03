@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+파나이[Panay]는 필리핀 중부 비사야 제도에서 가장 서쪽에 있는 섬이다. 시부얀·비사얀·술루해로 둘러싸여 있으며, 남동쪽으로 기마라스 해협을 사이에 두고 네그로스 섬과 마주보고 있다. 필리핀 중부 비사야스(Visayas)지방의 서쪽에 위치한 큰 섬인 '파나이(Panay)섬'은 북쪽 끝에는 우리에게도 잘 알려진 휴양지로 유명한 보라카이 섬과 남쪽에는 어학 연수지로 잘 알려진 일로일로(Iloilo)시가 있는 큰 섬이다.
+필리핀 파나이 섬은 필리핀 섬 중에 4번째 큰 섬으로 스페인 점령 당시에 세부 다음으로 점령당한 섬으로 또 세부 다음 카톨릭이 득세 하는 곳이다. 주도(主都)는 일로일로이며, 최고점은 2,049m이다. 거의 네모꼴을 이루는 이 섬은 동서 양안에 두 줄기의 습곡 산맥(褶曲山脈)이 뻗어 있다. 주민의 대부분이 해변과 파나이(Panay)평원에 밀집되어 있다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="4" text="파나이" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="13" end="16" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="20" end="26" text="비사야 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="39" end="40" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="44" end="47" text="시부얀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="48" end="51" text="비사얀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="52" end="55" text="술루해" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="89" end="95" text="네그로스 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="106" end="109" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="113" end="117" text="비사야스" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="126" end="128" text="지방" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="140" end="141" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="큰" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="144" end="147" text="파나이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="154" end="155" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="186" end="192" text="보라카이 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="213" end="217" text="일로일로" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="225" end="226" text="시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="233" end="234" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="큰" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="238" end="241" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="242" end="247" text="파나이 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="249" end="252" text="필리핀" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="253" end="254" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="264" end="265" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="큰" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="279" end="281" text="세부" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="292" end="293" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="298" end="300" text="세부" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="315" end="316" text="곳" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="320" end="322" text="주도" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="328" end="332" text="일로일로" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="365" end="366" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="410" end="412" text="해변" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="414" end="417" text="파나이" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="424" end="426" text="평원" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="161" end="162" text="끝" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="336" end="339" text="최고점" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="371" end="373" text="양안" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="44" />
+<PLACE id="pl15" start="177" end="180" text="휴양지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="202" end="205" text="연수지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="381" end="386" text="습곡 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="73" end="80" text="기마라스 해협" beginID="" endID="" midIDs="" type="" dimensionality="" form="" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="401" end="403" text="주민" type="PERSON" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s2" start="57" end="60" text="둘러싸" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="67" end="70" text="남동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="97" end="100" text="마주보" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s7" start="130" end="132" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="158" end="160" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="426" end="427" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="373" end="374" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="32" end="34" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="194" end="196" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="82" end="84" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="17" end="19" text="중부" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="110" end="112" text="중부" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="162" end="163" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me0" start="341" end="347" text="2,049m" value="2049" unit="m" comment="" />
+<SENTENCE id="sent0" start="1" end="105" text="파나이[Panay]는 필리핀 중부 비사야 제도에서 가장 서쪽에 있는 섬이다. 시부얀·비사얀·술루해로 둘러싸여 있으며, 남동쪽으로 기마라스 해협을 사이에 두고 네그로스 섬과 마주보고 있다." comment="" />
+<SENTENCE id="sent1" start="106" end="237" text="필리핀 중부 비사야스(Visayas)지방의 서쪽에 위치한 큰 섬인 '파나이(Panay)섬'은 북쪽 끝에는 우리에게도 잘 알려진 휴양지로 유명한 보라카이 섬과 남쪽에는 어학 연수지로 잘 알려진 일로일로(Iloilo)시가 있는 큰 섬이다." comment="" />
+<SENTENCE id="sent2" start="238" end="319" text="필리핀 파나이 섬은 필리핀 섬 중에 4번째 큰 섬으로 스페인 점령 당시에 세부 다음으로 점령당한 섬으로 또 세부 다음 카톨릭이 득세 하는 곳이다." comment="" />
+<SENTENCE id="sent3" start="320" end="350" text="주도(主都)는 일로일로이며, 최고점은 2,049m이다." comment="" />
+<SENTENCE id="sent4" start="351" end="400" text="거의 네모꼴을 이루는 이 섬은 동서 양안에 두 줄기의 습곡 산맥(褶曲山脈)이 뻗어 있다." comment="" />
+<SENTENCE id="sent5" start="401" end="436" text="주민의 대부분이 해변과 파나이(Panay)평원에 밀집되어 있다." comment="" />
+<QSLINK id="qsl0" fromID="pl4" fromText="시부얀" toID="pl42" toText="" relType="EC" trajector="pl4" landmark="pl42" trigger="s2" comment="" />
+<QSLINK id="qsl1" fromID="pl5" fromText="비사얀" toID="pl42" toText="" relType="EC" trajector="pl5" landmark="pl42" trigger="s2" comment="" />
+<QSLINK id="qsl2" fromID="pl6" fromText="술루해" toID="pl42" toText="" relType="EC" trajector="pl6" landmark="pl42" trigger="s2" comment="" />
+<QSLINK id="qsl3" fromID="pl8" fromText="네그로스 섬" toID="pl42" toText="" relType="DC" trajector="pl8" landmark="pl42" trigger="s4" comment="" />
+<QSLINK id="qsl6" fromID="pl42" fromText="" toID="pl8" toText="네그로스 섬" relType="DC" trajector="pl42" landmark="pl8" trigger="s5" comment="" />
+<QSLINK id="qsl7" fromID="p1" fromText="습곡 산맥" toID="pl33" toText="양안" relType="IN" trajector="p1" landmark="pl33" trigger="s0" comment="" />
+<QSLINK id="qsl8" fromID="pl37" fromText="평원" toID="se0" toText="주민" relType="IN" trajector="se0" landmark="pl37" trigger="s10" comment="" />
+<QSLINK id="qsl9" fromID="pl35" fromText="해변" toID="se0" toText="주민" relType="IN" trajector="se0" landmark="pl35" trigger="s10" comment="" />
+<QSLINK id="qsl10" fromID="pl2" fromText="비사야 제도" toID="pl1" toText="필리핀" relType="NTPP" trajector="pl2" landmark="pl1" trigger="s9" comment="" />
+<QSLINK id="qsl11" fromID="p0" fromText="기마라스 해협" toID="pl42" toText="" relType="OUT" trajector="p0" landmark="pl42" trigger="s4" comment="" />
+<QSLINK id="qsl12" fromID="pl8" fromText="네그로스 섬" toID="p0" toText="기마라스 해협" relType="OUT" trajector="pl8" landmark="p0" trigger="s4" comment="" />
+<QSLINK id="qsl13" fromID="pl8" fromText="네그로스 섬" toID="pl42" toText="" relType="DC" trajector="pl8" landmark="pl42" trigger="s4" comment="" />
+<QSLINK id="qsl14" fromID="pl42" fromText="" toID="pl8" toText="네그로스 섬" relType="DC" trajector="pl42" landmark="pl8" trigger="s5" comment="" />
+<QSLINK id="qsl17" fromID="pl15" fromText="휴양지" toID="pl40" toText="끝" relType="NTPP" trajector="pl15" landmark="pl40" trigger="s12" comment="" />
+<QSLINK id="qsl18" fromID="pl16" fromText="보라카이 섬" toID="pl40" toText="끝" relType="NTPP" trajector="pl16" landmark="pl40" trigger="s12" comment="" />
+<OLINK id="ol0" fromID="pl3" fromText="섬" toID="pl2" toText="비사야 제도" relType="서" trajector="pl3" landmark="pl2" trigger="s1" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl12" fromText="섬" toID="pl11" toText="지방" relType="서" trajector="pl12" landmark="pl11" trigger="s7" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="pl18" fromText="일로일로" toID="pl14" toText="섬" relType="남" trajector="pl18" landmark="pl14" trigger="s9" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="pl0" fromText="파나이" toID="pl2" toText="비사야 제도" relType="서" trajector="pl0" landmark="pl2" trigger="s1" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol6" fromID="pl42" fromText="" toID="pl8" toText="네그로스 섬" relType="pl8" trajector="pl42" landmark="pl8" trigger="s5" frame_type="RELATIVE" referencePt="pl8" projective="FALSE" comment="" />
+<OLINK id="ol7" fromID="pl12" fromText="섬" toID="pl10" toText="비사야스" relType="서" trajector="pl12" landmark="pl10" trigger="s7" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol8" fromID="pl13" fromText="파나이" toID="pl10" toText="비사야스" relType="서" trajector="pl13" landmark="pl10" trigger="s7" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol9" fromID="pl13" fromText="파나이" toID="pl11" toText="지방" relType="서" trajector="pl13" landmark="pl11" trigger="s7" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol10" fromID="pl14" fromText="섬" toID="pl10" toText="비사야스" relType="서" trajector="pl14" landmark="pl10" trigger="s7" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol11" fromID="pl14" fromText="섬" toID="pl11" toText="지방" relType="서" trajector="pl14" landmark="pl11" trigger="s7" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol12" fromID="pl40" fromText="끝" toID="pl13" toText="파나이" relType="북" trajector="pl40" landmark="pl13" trigger="s8" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol13" fromID="pl20" fromText="섬" toID="pl12" toText="섬" relType="남" trajector="pl20" landmark="pl12" trigger="s9" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol14" fromID="pl20" fromText="섬" toID="pl13" toText="파나이" relType="남" trajector="pl20" landmark="pl13" trigger="s9" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol15" fromID="pl20" fromText="섬" toID="pl14" toText="섬" relType="남" trajector="pl20" landmark="pl14" trigger="s9" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol16" fromID="pl19" fromText="시" toID="pl12" toText="섬" relType="남" trajector="pl19" landmark="pl12" trigger="s9" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol17" fromID="pl19" fromText="시" toID="pl13" toText="파나이" relType="남" trajector="pl19" landmark="pl13" trigger="s9" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol18" fromID="pl19" fromText="시" toID="pl14" toText="섬" relType="남" trajector="pl19" landmark="pl14" trigger="s9" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol19" fromID="pl18" fromText="일로일로" toID="pl13" toText="파나이" relType="남" trajector="pl18" landmark="pl13" trigger="s9" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol20" fromID="pl18" fromText="일로일로" toID="pl12" toText="섬" relType="남" trajector="pl18" landmark="pl12" trigger="s9" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol21" fromID="pl40" fromText="끝" toID="pl14" toText="섬" relType="북" trajector="pl40" landmark="pl14" trigger="s8" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol22" fromID="pl40" fromText="끝" toID="pl12" toText="섬" relType="북" trajector="pl40" landmark="pl12" trigger="s8" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol23" fromID="p0" fromText="기마라스 해협" toID="pl42" toText="" relType="남동" trajector="p0" landmark="pl42" trigger="s3" frame_type="ABSOLUTE" referencePt="남동" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl11" fromText="지방" toID="pl9" toText="필리핀" relType="중" trajector="pl11" landmark="pl9" trigger="s11" frame_type="ABSOLUTE" referencePt="중" projective="FALSE" comment="" />
+<MEASURELINK id="ml0" fromID="pl41" fromText="최고점" toID="me0" toText="2,049m" trajector="pl41" landmark="pl41" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

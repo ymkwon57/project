@@ -1,0 +1,115 @@
+{
+    "doc_id": "E2016.889.07_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "칠한 먹이 마르면 더 짙은 먹을 덧칠하는 기법은 무엇일까?", 
+            "morp": [
+                {"id": 0, "lemma": "칠하", "type": "VV", "position": 0, "weight": 0.221525}, 
+                {"id": 1, "lemma": "ㄴ", "type": "ETM", "position": 3, "weight": 0.392321}, 
+                {"id": 2, "lemma": "먹", "type": "NNG", "position": 7, "weight": 0.00894836}, 
+                {"id": 3, "lemma": "이", "type": "JKS", "position": 10, "weight": 0.0360723}, 
+                {"id": 4, "lemma": "마르", "type": "VV", "position": 14, "weight": 0.314248}, 
+                {"id": 5, "lemma": "면", "type": "EC", "position": 20, "weight": 0.399365}, 
+                {"id": 6, "lemma": "더", "type": "MAG", "position": 24, "weight": 0.0472614}, 
+                {"id": 7, "lemma": "짙", "type": "VA", "position": 28, "weight": 0.13313}, 
+                {"id": 8, "lemma": "은", "type": "ETM", "position": 31, "weight": 0.155123}, 
+                {"id": 9, "lemma": "먹", "type": "NNG", "position": 35, "weight": 0.00894836}, 
+                {"id": 10, "lemma": "을", "type": "JKO", "position": 38, "weight": 0.129611}, 
+                {"id": 11, "lemma": "덧칠", "type": "NNG", "position": 42, "weight": 0.9}, 
+                {"id": 12, "lemma": "하", "type": "XSV", "position": 48, "weight": 0.0001}, 
+                {"id": 13, "lemma": "는", "type": "ETM", "position": 51, "weight": 0.238503}, 
+                {"id": 14, "lemma": "기법", "type": "NNG", "position": 55, "weight": 0.9}, 
+                {"id": 15, "lemma": "은", "type": "JX", "position": 61, "weight": 0.0449928}, 
+                {"id": 16, "lemma": "무엇", "type": "NP", "position": 65, "weight": 0.9}, 
+                {"id": 17, "lemma": "이", "type": "VCP", "position": 71, "weight": 0.0175768}, 
+                {"id": 18, "lemma": "ㄹ까", "type": "EF", "position": 71, "weight": 0.258243}, 
+                {"id": 19, "lemma": "?", "type": "SF", "position": 77, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "칠하", "type": "VV", "scode": "000002", "weight": 0.5, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 3, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "먹", "type": "NNG", "scode": "010001", "weight": 0.25, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 10, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "마르", "type": "VV", "scode": "010001", "weight": 0.142857, "position": 14, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "면", "type": "EC", "scode": "000000", "weight": 1, "position": 20, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "더", "type": "MAG", "scode": "010002", "weight": 0.333333, "position": 24, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "짙", "type": "VA", "scode": "020101", "weight": 0.111111, "position": 28, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 31, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "먹", "type": "NNG", "scode": "010001", "weight": 0.25, "position": 35, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 38, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "덧칠하", "type": "VV", "scode": "000001", "weight": 0.5, "position": 42, "begin": 11, "end": 12}, 
+                {"id": 12, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 51, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "기법", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 55, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 61, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "무엇", "type": "NP", "scode": "000001", "weight": 0.5, "position": 65, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 71, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "ㄹ까", "type": "EF", "scode": "000000", "weight": 1, "position": 71, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 77, "begin": 19, "end": 19}
+            ], 
+            "word": [
+                {"id": 0, "text": "칠한", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "먹이", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "마르면", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "더", "type": "", "begin": 6, "end": 6}, 
+                {"id": 4, "text": "짙은", "type": "", "begin": 7, "end": 8}, 
+                {"id": 5, "text": "먹을", "type": "", "begin": 9, "end": 10}, 
+                {"id": 6, "text": "덧칠하는", "type": "", "begin": 11, "end": 13}, 
+                {"id": 7, "text": "기법은", "type": "", "begin": 14, "end": 15}, 
+                {"id": 8, "text": "무엇일까?", "type": "", "begin": 16, "end": 19}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "칠한", "head": 1, "label": "VP_MOD", "mod": [], "weight": 0.63103}, 
+                {"id": 1, "text": "먹이", "head": 2, "label": "NP_SBJ", "mod": [0], "weight": 0.792568}, 
+                {"id": 2, "text": "마르면", "head": 6, "label": "VP", "mod": [1], "weight": 0.52112}, 
+                {"id": 3, "text": "더", "head": 4, "label": "AP", "mod": [], "weight": 0.446612}, 
+                {"id": 4, "text": "짙은", "head": 5, "label": "VP_MOD", "mod": [3], "weight": 0.721664}, 
+                {"id": 5, "text": "먹을", "head": 6, "label": "NP_OBJ", "mod": [4], "weight": 0.775414}, 
+                {"id": 6, "text": "덧칠하는", "head": 7, "label": "VP_MOD", "mod": [2, 5], "weight": 0.797924}, 
+                {"id": 7, "text": "기법은", "head": 8, "label": "NP_SBJ", "mod": [6], "weight": 0.813496}, 
+                {"id": 8, "text": "무엇일까?", "head": -1, "label": "VNP", "mod": [7], "weight": 0.0365787}
+            ], 
+            "SRL": [
+                {"verb": "칠하", "sense": 1, "word_id": 0, "weight": 0.214077, "argument": [
+                    {"type": "ARG1", "word_id": 1, "text": "먹이", "weight": 0.214077}
+                ]}, 
+                {"verb": "마르", "sense": 1, "word_id": 2, "weight": 0.205647, "argument": [
+                    {"type": "ARG1", "word_id": 1, "text": "먹이", "weight": 0.205647}
+                ]}, 
+                {"verb": "짙", "sense": 1, "word_id": 4, "weight": 0.202518, "argument": [
+                    {"type": "ARGM-ADV", "word_id": 3, "text": "더", "weight": 0.179835}, 
+                    {"type": "ARG1", "word_id": 5, "text": "먹을", "weight": 0.225201}
+                ]}, 
+                {"verb": "덧칠하", "sense": 1, "word_id": 6, "weight": 0.20462, "argument": [
+                    {"type": "ARG1", "word_id": 5, "text": "먹을", "weight": 0.20462}, 
+                    {"type": "ARGM-CND", "word_id": 2, "text": "마르면", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 7, "ne_id": -1, "text": "칠한 먹이 마르면 더 짙은 먹을 덧칠하는 기법은", "start_eid_short": 7, "end_eid_short": 7, "text_short": "기법은"}, 
+            {"id": 3, "sent_id": 0, "start_eid": 8, "end_eid": 8, "ne_id": -1, "text": "무엇일까?", "start_eid_short": 8, "end_eid_short": 8, "text_short": "무엇일까?"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "칠한 먹이", "start_eid_short": 1, "end_eid_short": 1, "text_short": "먹이"}, 
+            {"id": 2, "sent_id": 0, "start_eid": 3, "end_eid": 5, "ne_id": -1, "text": "더 짙은 먹을", "start_eid_short": 5, "end_eid_short": 5, "text_short": "먹을"}
+        ]}
+    ]
+}

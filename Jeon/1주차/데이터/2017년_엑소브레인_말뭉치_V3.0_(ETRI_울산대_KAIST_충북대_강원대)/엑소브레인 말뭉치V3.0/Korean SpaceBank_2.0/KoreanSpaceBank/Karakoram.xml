@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+카라코람 산맥(Karakoram)은 대 히말라야 산맥의 일부분으로 파키스탄과 인도, 중국 국경지대의 고산 지대를 통칭하기도 한다. 카라코람은 터키어로 '검은 자갈밭'을 의미하는데, 지형이 험준하고 빙하와 잡석으로 이루어져 있어 유럽의 탐험대도 19세기 초에야 겨우 접근할 수 있었다.
+카슈미르 지방 북부에 위치해 있으며 남쪽에는 인더스 강을 사이에 끼고 서부 히말라야가, 서쪽 및 서남쪽에는 파키스탄을 사이에 끼고 서부 힌두쿠시 산맥이, 북쪽에는 투르크스탄, 동쪽에는 중국의 신장 웨이우얼 자치구가 있다. 세계 제2의 K2봉을 비롯해서 가셔브룸1봉, 가셔브룸2봉, 브로드피크 등 8,000m급의 준령이 솟아 있다. 남쪽에는 발토로, 비아포, 초골그마, 히스파 등 수십 km에 걸치는 대빙하가 있다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="38" end="42" text="파키스탄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="44" end="46" text="인도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="74" end="78" text="카라코람" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="220" end="224" text="파키스탄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="263" end="265" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="267" end="278" text="신장 웨이우얼 자치구" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="291" end="294" text="K2봉" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="301" end="307" text="가셔브룸1봉" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="309" end="315" text="가셔브룸2봉" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="317" end="322" text="브로드피크" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="334" end="336" text="준령" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="251" end="256" text="투르크스탄" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="32" end="35" text="일부분" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="57" end="62" text="고산 지대" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="51" end="55" text="국경지대" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="160" end="167" text="카슈미르 지방" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="48" end="50" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="284" end="286" text="세계" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="1" end="8" text="카라코람 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="23" end="30" text="히말라야 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="185" end="190" text="인더스 강" beginID="" endID="" midIDs="" type="WATERWAY" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p4" start="202" end="206" text="히말라야" beginID="" endID="" midIDs="" type="MTS" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="236" end="243" text="힌두쿠시 산맥" beginID="" endID="" midIDs="" type="MTS" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p5" start="-1" end="-1" text="" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="160" />
+<PATH id="p6" start="-1" end="-1" text="" beginID="" endID="" midIDs="" type="MTS" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="345" />
+<SPATIAL_ENTITY id="se0" start="132" end="135" text="탐험대" type="PERSON" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="350" end="353" text="발토로" type="FAC" dimensionality="AREA" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="355" end="358" text="비아포" type="FAC" dimensionality="AREA" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="360" end="364" text="초골그마" type="FAC" dimensionality="AREA" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="366" end="369" text="히스파" type="FAC" dimensionality="AREA" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="383" end="386" text="대빙하" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="149" end="152" text="접근할" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="338" end="339" text="솟" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s2" start="168" end="170" text="북부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="180" end="182" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="209" end="211" text="서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="214" end="217" text="서남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="246" end="248" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="258" end="260" text="동쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="345" end="347" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="192" end="194" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s13" start="226" end="228" text="사이" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="199" end="201" text="서부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="233" end="235" text="서부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="30" end="31" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="55" end="56" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="265" end="266" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s14" start="289" end="290" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me0" start="325" end="331" text="8,000m" value="8000" unit="km" comment="" />
+<MEASURE id="me1" start="372" end="377" text="수십 km" value="수십" unit="km" comment="" />
+<SENTENCE id="sent0" start="1" end="73" text="카라코람 산맥(Karakoram)은 대 히말라야 산맥의 일부분으로 파키스탄과 인도, 중국 국경지대의 고산 지대를 통칭하기도 한다." comment="" />
+<SENTENCE id="sent1" start="74" end="159" text="카라코람은 터키어로 '검은 자갈밭'을 의미하는데, 지형이 험준하고 빙하와 잡석으로 이루어져 있어 유럽의 탐험대도 19세기 초에야 겨우 접근할 수 있었다." comment="" />
+<SENTENCE id="sent2" start="160" end="283" text="카슈미르 지방 북부에 위치해 있으며 남쪽에는 인더스 강을 사이에 끼고 서부 히말라야가, 서쪽 및 서남쪽에는 파키스탄을 사이에 끼고 서부 힌두쿠시 산맥이, 북쪽에는 투르크스탄, 동쪽에는 중국의 신장 웨이우얼 자치구가 있다." comment="" />
+<SENTENCE id="sent3" start="284" end="344" text="세계 제2의 K2봉을 비롯해서 가셔브룸1봉, 가셔브룸2봉, 브로드피크 등 8,000m급의 준령이 솟아 있다." comment="" />
+<SENTENCE id="sent4" start="345" end="392" text="남쪽에는 발토로, 비아포, 초골그마, 히스파 등 수십 km에 걸치는 대빙하가 있다. " comment="" />
+<QSLINK id="qsl1" fromID="p5" fromText="" toID="p3" toText="인더스 강" relType="OUT" trajector="p33" landmark="p5" trigger="s12" comment="" />
+<QSLINK id="qsl2" fromID="p5" fromText="" toID="p4" toText="히말라야" relType="DC" trajector="p4" landmark="p5" trigger="s12" comment="" />
+<QSLINK id="qsl3" fromID="p5" fromText="" toID="pl11" toText="파키스탄" relType="OUT" trajector="pl11" landmark="p5" trigger="s13" comment="" />
+<QSLINK id="qsl4" fromID="p5" fromText="" toID="p2" toText="힌두쿠시 산맥" relType="DC" trajector="p2" landmark="p5" trigger="s13" comment="" />
+<QSLINK id="qsl7" fromID="p3" fromText="인더스 강" toID="p4" toText="히말라야" relType="OUT" trajector="p4" landmark="p3" trigger="s12" comment="" />
+<QSLINK id="qsl8" fromID="pl11" fromText="파키스탄" toID="p2" toText="힌두쿠시 산맥" relType="OUT" trajector="p2" landmark="pl11" trigger="s13" comment="" />
+<QSLINK id="qsl0" fromID="pl10" fromText="일부분" toID="p1" toText="히말라야 산맥" relType="IN" trajector="pl10" landmark="p1" trigger="s0" comment="" />
+<QSLINK id="qsl6" fromID="pl4" fromText="고산 지대" toID="pl6" toText="국경지대" relType="IN" trajector="pl4" landmark="pl6" trigger="s4" comment="" />
+<QSLINK id="qsl9" fromID="pl4" fromText="고산 지대" toID="pl1" toText="인도" relType="IN" trajector="pl4" landmark="pl1" trigger="s4" comment="" />
+<QSLINK id="qsl10" fromID="pl4" fromText="고산 지대" toID="pl0" toText="파키스탄" relType="IN" trajector="pl4" landmark="pl0" trigger="s4" comment="" />
+<QSLINK id="qsl17" fromID="pl13" fromText="신장 웨이우얼 자치구" toID="pl12" toText="중국" relType="IN" trajector="pl13" landmark="pl12" trigger="s10" comment="" />
+<QSLINK id="qsl18" fromID="pl14" fromText="K2봉" toID="pl3" toText="세계" relType="NTPP" trajector="pl14" landmark="pl3" trigger="s14" comment="" />
+<OLINK id="ol1" fromID="p5" fromText="" toID="p3" toText="인더스 강" relType="남" trajector="p3" landmark="p5" trigger="s3" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="p5" fromText="" toID="pl11" toText="파키스탄" relType="서" trajector="pl11" landmark="p5" trigger="s5" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="p5" fromText="" toID="pl11" toText="파키스탄" relType="서남" trajector="pl11" landmark="p5" trigger="s6" frame_type="ABSOLUTE" referencePt="서남" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="p5" fromText="" toID="pl20" toText="투르크스탄" relType="북" trajector="pl20" landmark="p5" trigger="s8" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="p5" fromText="" toID="pl13" toText="신장 웨이우얼 자치구" relType="동" trajector="pl13" landmark="p5" trigger="s9" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol6" fromID="p6" fromText="" toID="se1" toText="발토로" relType="남" trajector="se1" landmark="p6" trigger="s11" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol7" fromID="p6" fromText="" toID="se2" toText="비아포" relType="남" trajector="se2" landmark="p6" trigger="s11" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol8" fromID="p6" fromText="" toID="se3" toText="초골그마" relType="남" trajector="se3" landmark="p6" trigger="s11" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol9" fromID="p6" fromText="" toID="se4" toText="히스파" relType="남" trajector="se4" landmark="p6" trigger="s11" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol10" fromID="p6" fromText="" toID="se5" toText="대빙하" relType="남" trajector="se5" landmark="p6" trigger="s11" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<OLINK id="ol12" fromID="p4" fromText="히말라야" toID="p5" toText="" relType="서" trajector="p5" landmark="p4" trigger="s1" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol13" fromID="p2" fromText="힌두쿠시 산맥" toID="p5" toText="" relType="서" trajector="p5" landmark="p2" trigger="s7" frame_type="ABSOLUTE" referencePt="서" projective="FALSE" comment="" />
+<OLINK id="ol11" fromID="p5" fromText="" toID="pl8" toText="카슈미르 지방" relType="북" trajector="p5" landmark="pl8" trigger="s2" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="se0" fromText="탐험대" toID="pl5" toText="카라코람" trigger="m0" source="" goal="pl5" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl1" fromID="pl18" fromText="준령" toID="m1" toText="솟" trigger="m1" source="" goal="" midPoint="" mover="p18" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MEASURELINK id="ml0" fromID="me0" fromText="8,000m" toID="pl18" toText="준령" trajector="pl18" landmark="pl18" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="me1" fromText="수십 km" toID="se5" toText="대빙하" trajector="se5" landmark="se5" relType="LENGTH" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="pl17" fromText="브로드피크" toID="me0" toText="8,000m" trajector="pl17" landmark="pl17" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="pl16" fromText="가셔브룸2봉" toID="me0" toText="8,000m" trajector="pl16" landmark="pl16" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml4" fromID="pl15" fromText="가셔브룸1봉" toID="me0" toText="8,000m" trajector="pl15" landmark="pl15" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml5" fromID="pl14" fromText="K2봉" toID="me0" toText="8,000m" trajector="pl14" landmark="pl14" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml6" fromID="se4" fromText="히스파" toID="me1" toText="수십 km" trajector="se4" landmark="se4" relType="LENGTH" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml7" fromID="se3" fromText="초골그마" toID="me1" toText="수십 km" trajector="se3" landmark="se3" relType="LENGTH" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml8" fromID="se2" fromText="비아포" toID="me1" toText="수십 km" trajector="se2" landmark="se2" relType="LENGTH" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml9" fromID="se1" fromText="발토로" toID="me1" toText="수십 km" trajector="se1" landmark="se1" relType="LENGTH" val="me1" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

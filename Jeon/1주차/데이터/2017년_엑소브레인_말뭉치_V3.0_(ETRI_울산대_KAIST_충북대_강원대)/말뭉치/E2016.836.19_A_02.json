@@ -1,0 +1,813 @@
+{
+    "doc_id": "E2016.836.19_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "탱고", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "전 세계적으로 친숙해진 아르헨티나와 우루과이의 탱고(Tango) 전통은 리오 데 라플라타(Río de la Plata) 강 유역에 자리 잡은 부에노스아이레스(Buenos Aires)와 몬테비데오(Montevideo)의 하층 계급 시민들에 의해 개발되었다.", 
+            "morp": [
+                {"id": 0, "lemma": "전", "type": "MM", "position": 0, "weight": 0.0133391}, 
+                {"id": 1, "lemma": "세계", "type": "NNG", "position": 4, "weight": 0.9}, 
+                {"id": 2, "lemma": "적", "type": "XSN", "position": 10, "weight": 0.0168756}, 
+                {"id": 3, "lemma": "으로", "type": "JKB", "position": 13, "weight": 0.121717}, 
+                {"id": 4, "lemma": "친숙", "type": "NNG", "position": 20, "weight": 0.3}, 
+                {"id": 5, "lemma": "하", "type": "XSA", "position": 26, "weight": 0.0001}, 
+                {"id": 6, "lemma": "아", "type": "EC", "position": 26, "weight": 0.354073}, 
+                {"id": 7, "lemma": "지", "type": "VX", "position": 26, "weight": 0.0539764}, 
+                {"id": 8, "lemma": "ㄴ", "type": "ETM", "position": 26, "weight": 0.302612}, 
+                {"id": 9, "lemma": "아르헨티나", "type": "NNP", "position": 33, "weight": 0.9}, 
+                {"id": 10, "lemma": "와", "type": "JC", "position": 48, "weight": 0.0104534}, 
+                {"id": 11, "lemma": "우루과이", "type": "NNP", "position": 52, "weight": 0.9}, 
+                {"id": 12, "lemma": "의", "type": "JKG", "position": 64, "weight": 0.0987295}, 
+                {"id": 13, "lemma": "탱고", "type": "NNG", "position": 68, "weight": 0.9}, 
+                {"id": 14, "lemma": "(", "type": "SS", "position": 74, "weight": 1}, 
+                {"id": 15, "lemma": "Tango", "type": "SL", "position": 75, "weight": 1}, 
+                {"id": 16, "lemma": ")", "type": "SS", "position": 80, "weight": 1}, 
+                {"id": 17, "lemma": "전통", "type": "NNG", "position": 82, "weight": 0.9}, 
+                {"id": 18, "lemma": "은", "type": "JX", "position": 88, "weight": 0.0449928}, 
+                {"id": 19, "lemma": "리오", "type": "NNG", "position": 92, "weight": 0.0110204}, 
+                {"id": 20, "lemma": "데", "type": "NNG", "position": 99, "weight": 0.000128028}, 
+                {"id": 21, "lemma": "라플라타", "type": "NNG", "position": 103, "weight": 0.25}, 
+                {"id": 22, "lemma": "(", "type": "SS", "position": 115, "weight": 1}, 
+                {"id": 23, "lemma": "Río", "type": "SL", "position": 116, "weight": 1}, 
+                {"id": 24, "lemma": "de", "type": "SL", "position": 121, "weight": 1}, 
+                {"id": 25, "lemma": "la", "type": "SL", "position": 124, "weight": 1}, 
+                {"id": 26, "lemma": "Plata", "type": "SL", "position": 127, "weight": 1}, 
+                {"id": 27, "lemma": ")", "type": "SS", "position": 132, "weight": 1}, 
+                {"id": 28, "lemma": "강", "type": "NNG", "position": 134, "weight": 0.169279}, 
+                {"id": 29, "lemma": "유역", "type": "NNG", "position": 138, "weight": 0.9}, 
+                {"id": 30, "lemma": "에", "type": "JKB", "position": 144, "weight": 0.153364}, 
+                {"id": 31, "lemma": "자리", "type": "NNG", "position": 148, "weight": 0.207703}, 
+                {"id": 32, "lemma": "잡", "type": "VV", "position": 155, "weight": 0.0149911}, 
+                {"id": 33, "lemma": "은", "type": "ETM", "position": 158, "weight": 0.109632}, 
+                {"id": 34, "lemma": "부에노스아이레스", "type": "NNP", "position": 162, "weight": 0.85}, 
+                {"id": 35, "lemma": "(", "type": "SS", "position": 186, "weight": 1}, 
+                {"id": 36, "lemma": "Buenos", "type": "SL", "position": 187, "weight": 1}, 
+                {"id": 37, "lemma": "Aires", "type": "SL", "position": 194, "weight": 1}, 
+                {"id": 38, "lemma": ")", "type": "SS", "position": 199, "weight": 1}, 
+                {"id": 39, "lemma": "와", "type": "JC", "position": 200, "weight": 0.00426109}, 
+                {"id": 40, "lemma": "몬테비데오", "type": "NNP", "position": 204, "weight": 0.2}, 
+                {"id": 41, "lemma": "(", "type": "SS", "position": 219, "weight": 1}, 
+                {"id": 42, "lemma": "Montevideo", "type": "SL", "position": 220, "weight": 1}, 
+                {"id": 43, "lemma": ")", "type": "SS", "position": 230, "weight": 1}, 
+                {"id": 44, "lemma": "의", "type": "JKG", "position": 231, "weight": 0.0878251}, 
+                {"id": 45, "lemma": "하층", "type": "NNG", "position": 235, "weight": 0.9}, 
+                {"id": 46, "lemma": "계급", "type": "NNG", "position": 242, "weight": 0.9}, 
+                {"id": 47, "lemma": "시민", "type": "NNG", "position": 249, "weight": 0.9}, 
+                {"id": 48, "lemma": "들", "type": "XSN", "position": 255, "weight": 0.0299841}, 
+                {"id": 49, "lemma": "에", "type": "JKB", "position": 258, "weight": 0.121683}, 
+                {"id": 50, "lemma": "의하", "type": "VV", "position": 262, "weight": 0.9}, 
+                {"id": 51, "lemma": "아", "type": "EC", "position": 265, "weight": 0.41831}, 
+                {"id": 52, "lemma": "개발", "type": "NNG", "position": 269, "weight": 0.9}, 
+                {"id": 53, "lemma": "되", "type": "XSV", "position": 275, "weight": 0.000224177}, 
+                {"id": 54, "lemma": "었", "type": "EP", "position": 278, "weight": 0.9}, 
+                {"id": 55, "lemma": "다", "type": "EF", "position": 281, "weight": 0.640954}, 
+                {"id": 56, "lemma": ".", "type": "SF", "position": 284, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "전", "type": "MM", "scode": "070000", "weight": 0.02, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "세계적", "type": "NNG", "scode": "000000", "weight": 1, "position": 4, "begin": 1, "end": 2}, 
+                {"id": 2, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 13, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "친숙하", "type": "VA", "scode": "000000", "weight": 1, "position": 20, "begin": 4, "end": 5}, 
+                {"id": 4, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 26, "begin": 6, "end": 6}, 
+                {"id": 5, "text": "지", "type": "VX", "scode": "040103", "weight": 0.037037, "position": 26, "begin": 7, "end": 7}, 
+                {"id": 6, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 26, "begin": 8, "end": 8}, 
+                {"id": 7, "text": "아르헨티나", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 33, "begin": 9, "end": 9}, 
+                {"id": 8, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 48, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "우루과이", "type": "NNP", "scode": "000000", "weight": 1, "position": 52, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 64, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "탱고", "type": "NNG", "scode": "020002", "weight": 0.333333, "position": 68, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 74, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "Tango", "type": "SL", "scode": "000000", "weight": 1, "position": 75, "begin": 15, "end": 15}, 
+                {"id": 14, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 80, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "전통", "type": "NNG", "scode": "060000", "weight": 0.0909091, "position": 82, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 88, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "리오", "type": "NNG", "scode": "000000", "weight": 0.5, "position": 92, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "데", "type": "NNG", "scode": "888888", "weight": 0.1, "position": 99, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "라플라타", "type": "NNG", "scode": "000000", "weight": 1, "position": 103, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 115, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "Río", "type": "SL", "scode": "000000", "weight": 1, "position": 116, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "de", "type": "SL", "scode": "000000", "weight": 1, "position": 121, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "la", "type": "SL", "scode": "000000", "weight": 1, "position": 124, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "Plata", "type": "SL", "scode": "000000", "weight": 1, "position": 127, "begin": 26, "end": 26}, 
+                {"id": 25, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 132, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "강", "type": "NNG", "scode": "010000", "weight": 0.0384615, "position": 134, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "유역", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 138, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 144, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "자리", "type": "NNG", "scode": "010001", "weight": 0.04, "position": 148, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "잡", "type": "VV", "scode": "010113", "weight": 0.0322581, "position": 155, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "은", "type": "ETM", "scode": "000000", "weight": 1, "position": 158, "begin": 33, "end": 33}, 
+                {"id": 32, "text": "부에노스아이레스", "type": "NNP", "scode": "000000", "weight": 1, "position": 162, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 186, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "Buenos", "type": "SL", "scode": "000000", "weight": 1, "position": 187, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "Aires", "type": "SL", "scode": "000000", "weight": 1, "position": 194, "begin": 37, "end": 37}, 
+                {"id": 36, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 199, "begin": 38, "end": 38}, 
+                {"id": 37, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 200, "begin": 39, "end": 39}, 
+                {"id": 38, "text": "몬테비데오", "type": "NNP", "scode": "000000", "weight": 1, "position": 204, "begin": 40, "end": 40}, 
+                {"id": 39, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 219, "begin": 41, "end": 41}, 
+                {"id": 40, "text": "Montevideo", "type": "SL", "scode": "000000", "weight": 1, "position": 220, "begin": 42, "end": 42}, 
+                {"id": 41, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 230, "begin": 43, "end": 43}, 
+                {"id": 42, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 231, "begin": 44, "end": 44}, 
+                {"id": 43, "text": "하층", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 235, "begin": 45, "end": 45}, 
+                {"id": 44, "text": "계급", "type": "NNG", "scode": "020002", "weight": 0.25, "position": 242, "begin": 46, "end": 46}, 
+                {"id": 45, "text": "시민", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 249, "begin": 47, "end": 47}, 
+                {"id": 46, "text": "들", "type": "XSN", "scode": "090000", "weight": 0.0909091, "position": 255, "begin": 48, "end": 48}, 
+                {"id": 47, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 258, "begin": 49, "end": 49}, 
+                {"id": 48, "text": "의하", "type": "VV", "scode": "010000", "weight": 0.5, "position": 262, "begin": 50, "end": 50}, 
+                {"id": 49, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 265, "begin": 51, "end": 51}, 
+                {"id": 50, "text": "개발되", "type": "VV", "scode": "000004", "weight": 0.25, "position": 269, "begin": 52, "end": 53}, 
+                {"id": 51, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 278, "begin": 54, "end": 54}, 
+                {"id": 52, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 281, "begin": 55, "end": 55}, 
+                {"id": 53, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 284, "begin": 56, "end": 56}
+            ], 
+            "word": [
+                {"id": 0, "text": "전", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "세계적으로", "type": "", "begin": 1, "end": 3}, 
+                {"id": 2, "text": "친숙해진", "type": "", "begin": 4, "end": 8}, 
+                {"id": 3, "text": "아르헨티나와", "type": "", "begin": 9, "end": 10}, 
+                {"id": 4, "text": "우루과이의", "type": "", "begin": 11, "end": 12}, 
+                {"id": 5, "text": "탱고(Tango)", "type": "", "begin": 13, "end": 16}, 
+                {"id": 6, "text": "전통은", "type": "", "begin": 17, "end": 18}, 
+                {"id": 7, "text": "리오", "type": "", "begin": 19, "end": 19}, 
+                {"id": 8, "text": "데", "type": "", "begin": 20, "end": 20}, 
+                {"id": 9, "text": "라플라타(Río", "type": "", "begin": 21, "end": 23}, 
+                {"id": 10, "text": "de", "type": "", "begin": 24, "end": 24}, 
+                {"id": 11, "text": "la", "type": "", "begin": 25, "end": 25}, 
+                {"id": 12, "text": "Plata)", "type": "", "begin": 26, "end": 27}, 
+                {"id": 13, "text": "강", "type": "", "begin": 28, "end": 28}, 
+                {"id": 14, "text": "유역에", "type": "", "begin": 29, "end": 30}, 
+                {"id": 15, "text": "자리", "type": "", "begin": 31, "end": 31}, 
+                {"id": 16, "text": "잡은", "type": "", "begin": 32, "end": 33}, 
+                {"id": 17, "text": "부에노스아이레스(Buenos", "type": "", "begin": 34, "end": 36}, 
+                {"id": 18, "text": "Aires)와", "type": "", "begin": 37, "end": 39}, 
+                {"id": 19, "text": "몬테비데오(Montevideo)의", "type": "", "begin": 40, "end": 44}, 
+                {"id": 20, "text": "하층", "type": "", "begin": 45, "end": 45}, 
+                {"id": 21, "text": "계급", "type": "", "begin": 46, "end": 46}, 
+                {"id": 22, "text": "시민들에", "type": "", "begin": 47, "end": 49}, 
+                {"id": 23, "text": "의해", "type": "", "begin": 50, "end": 51}, 
+                {"id": 24, "text": "개발되었다.", "type": "", "begin": 52, "end": 56}
+            ], 
+            "NE": [
+                {"id": 0, "text": "아르헨티나", "type": "LCP_COUNTRY", "begin": 9, "end": 9, "weight": 0.540944, "common_noun": 0}, 
+                {"id": 1, "text": "우루과이", "type": "LCP_COUNTRY", "begin": 11, "end": 11, "weight": 0.26468, "common_noun": 0}, 
+                {"id": 2, "text": "탱고", "type": "FD_ART", "begin": 13, "end": 13, "weight": 0.185513, "common_noun": 0}, 
+                {"id": 3, "text": "Tango", "type": "FD_ART", "begin": 15, "end": 15, "weight": 0.180418, "common_noun": 0}, 
+                {"id": 4, "text": "리오 데 라플라타", "type": "LCG_RIVER", "begin": 19, "end": 21, "weight": 0.339723, "common_noun": 0}, 
+                {"id": 5, "text": "Río de la", "type": "LCG_RIVER", "begin": 23, "end": 25, "weight": 0.138993, "common_noun": 0}, 
+                {"id": 6, "text": "부에노스아이레스", "type": "LCP_CAPITALCITY", "begin": 34, "end": 34, "weight": 0.254271, "common_noun": 0}, 
+                {"id": 7, "text": "Buenos Aires", "type": "LCP_CAPITALCITY", "begin": 36, "end": 37, "weight": 0.127059, "common_noun": 0}, 
+                {"id": 8, "text": "몬테비데오", "type": "LCP_CAPITALCITY", "begin": 40, "end": 40, "weight": 0.129766, "common_noun": 0}, 
+                {"id": 9, "text": "Montevideo", "type": "LCP_CAPITALCITY", "begin": 42, "end": 42, "weight": 0.0925174, "common_noun": 0}, 
+                {"id": 10, "text": "시민", "type": "CV_POSITION", "begin": 47, "end": 47, "weight": 0.488046, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "전", "head": 1, "label": "DP", "mod": [], "weight": 0.605176}, 
+                {"id": 1, "text": "세계적으로", "head": 2, "label": "NP_AJT", "mod": [0], "weight": 0.553331}, 
+                {"id": 2, "text": "친숙해진", "head": 6, "label": "VP_MOD", "mod": [1], "weight": 0.612393}, 
+                {"id": 3, "text": "아르헨티나와", "head": 4, "label": "NP_CNJ", "mod": [], "weight": 0.500458}, 
+                {"id": 4, "text": "우루과이의", "head": 5, "label": "NP_MOD", "mod": [3], "weight": 0.0253031}, 
+                {"id": 5, "text": "탱고(Tango)", "head": 6, "label": "NP", "mod": [4], "weight": 0.523017}, 
+                {"id": 6, "text": "전통은", "head": 23, "label": "NP_SBJ", "mod": [2, 5], "weight": 0.694163}, 
+                {"id": 7, "text": "리오", "head": 8, "label": "NP", "mod": [], "weight": 0.513545}, 
+                {"id": 8, "text": "데", "head": 9, "label": "NP", "mod": [7], "weight": 0.586347}, 
+                {"id": 9, "text": "라플라타(Río", "head": 10, "label": "NP", "mod": [8], "weight": 0.285909}, 
+                {"id": 10, "text": "de", "head": 11, "label": "NP", "mod": [9], "weight": 0.0476253}, 
+                {"id": 11, "text": "la", "head": 12, "label": "NP", "mod": [10], "weight": 0.865127}, 
+                {"id": 12, "text": "Plata)", "head": 13, "label": "NP", "mod": [11], "weight": 0.0843182}, 
+                {"id": 13, "text": "강", "head": 14, "label": "NP", "mod": [12], "weight": 0.769226}, 
+                {"id": 14, "text": "유역에", "head": 16, "label": "NP_AJT", "mod": [13], "weight": 0.354542}, 
+                {"id": 15, "text": "자리", "head": 16, "label": "NP_OBJ", "mod": [], "weight": 0.5996}, 
+                {"id": 16, "text": "잡은", "head": 22, "label": "VP_MOD", "mod": [14, 15], "weight": 0.630058}, 
+                {"id": 17, "text": "부에노스아이레스(Buenos", "head": 18, "label": "NP", "mod": [], "weight": 0.885536}, 
+                {"id": 18, "text": "Aires)와", "head": 19, "label": "NP_CNJ", "mod": [17], "weight": 0.384562}, 
+                {"id": 19, "text": "몬테비데오(Montevideo)의", "head": 22, "label": "NP_MOD", "mod": [18], "weight": 0.763619}, 
+                {"id": 20, "text": "하층", "head": 21, "label": "NP", "mod": [], "weight": 0.504463}, 
+                {"id": 21, "text": "계급", "head": 22, "label": "NP", "mod": [20], "weight": 0.691519}, 
+                {"id": 22, "text": "시민들에", "head": 23, "label": "NP_AJT", "mod": [16, 19, 21], "weight": 0.872979}, 
+                {"id": 23, "text": "의해", "head": 24, "label": "VP", "mod": [6, 22], "weight": 0.61798}, 
+                {"id": 24, "text": "개발되었다.", "head": -1, "label": "VP", "mod": [23], "weight": 1.22794e-09}
+            ], 
+            "SRL": [
+                {"verb": "친숙", "sense": 1, "word_id": 2, "weight": 0.134064, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 1, "text": "세계적으로", "weight": 0.0738258}, 
+                    {"type": "ARG1", "word_id": 6, "text": "전통은", "weight": 0.194303}
+                ]}, 
+                {"verb": "잡", "sense": 2, "word_id": 16, "weight": 0.235721, "argument": [
+                    {"type": "ARGM-LOC", "word_id": 14, "text": "유역에", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 15, "text": "자리", "weight": 0.227736}, 
+                    {"type": "ARG0", "word_id": 22, "text": "시민들에", "weight": 1}
+                ]}, 
+                {"verb": "의하", "sense": 1, "word_id": 23, "weight": 0.241341, "argument": [
+                    {"type": "ARG2", "word_id": 22, "text": "시민들에", "weight": 0.241341}, 
+                    {"type": "ARG1", "word_id": 6, "text": "전통은", "weight": 1}
+                ]}, 
+                {"verb": "개발", "sense": 1, "word_id": 24, "weight": 0.149883, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "전통은", "weight": 0.194618}, 
+                    {"type": "ARGM-MNR", "word_id": 23, "text": "의해", "weight": 0.105148}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "이 지역에는 이주 유럽인, 아프리카 노예들과 크리올료(criollo)라고 알려져 있는 이 지역 원주민의 후손들이 섞여 함께 살아간다.", 
+            "morp": [
+                {"id": 0, "lemma": "이", "type": "MM", "position": 285, "weight": 0.0020222}, 
+                {"id": 1, "lemma": "지역", "type": "NNG", "position": 289, "weight": 0.9}, 
+                {"id": 2, "lemma": "에", "type": "JKB", "position": 295, "weight": 0.153364}, 
+                {"id": 3, "lemma": "는", "type": "JX", "position": 298, "weight": 0.0387928}, 
+                {"id": 4, "lemma": "이주", "type": "NNG", "position": 302, "weight": 0.313845}, 
+                {"id": 5, "lemma": "유럽", "type": "NNP", "position": 309, "weight": 0.9}, 
+                {"id": 6, "lemma": "인", "type": "XSN", "position": 315, "weight": 0.00915919}, 
+                {"id": 7, "lemma": ",", "type": "SP", "position": 318, "weight": 1}, 
+                {"id": 8, "lemma": "아프리카", "type": "NNP", "position": 320, "weight": 0.9}, 
+                {"id": 9, "lemma": "노예", "type": "NNG", "position": 333, "weight": 0.9}, 
+                {"id": 10, "lemma": "들", "type": "XSN", "position": 339, "weight": 0.0299841}, 
+                {"id": 11, "lemma": "과", "type": "JC", "position": 342, "weight": 0.0096702}, 
+                {"id": 12, "lemma": "크리올료", "type": "NNP", "position": 346, "weight": 0.6}, 
+                {"id": 13, "lemma": "(", "type": "SS", "position": 358, "weight": 1}, 
+                {"id": 14, "lemma": "criollo", "type": "SL", "position": 359, "weight": 1}, 
+                {"id": 15, "lemma": ")", "type": "SS", "position": 366, "weight": 1}, 
+                {"id": 16, "lemma": "라고", "type": "JKQ", "position": 367, "weight": 0.00318431}, 
+                {"id": 17, "lemma": "알려지", "type": "VV", "position": 374, "weight": 0.9}, 
+                {"id": 18, "lemma": "어", "type": "EC", "position": 380, "weight": 0.41831}, 
+                {"id": 19, "lemma": "있", "type": "VX", "position": 384, "weight": 0.125953}, 
+                {"id": 20, "lemma": "는", "type": "ETM", "position": 387, "weight": 0.183966}, 
+                {"id": 21, "lemma": "이", "type": "MM", "position": 391, "weight": 0.00060084}, 
+                {"id": 22, "lemma": "지역", "type": "NNG", "position": 395, "weight": 0.9}, 
+                {"id": 23, "lemma": "원주", "type": "NNG", "position": 402, "weight": 0.0357357}, 
+                {"id": 24, "lemma": "민", "type": "XSN", "position": 408, "weight": 0.00715593}, 
+                {"id": 25, "lemma": "의", "type": "JKG", "position": 411, "weight": 0.120732}, 
+                {"id": 26, "lemma": "후손", "type": "NNG", "position": 415, "weight": 0.9}, 
+                {"id": 27, "lemma": "들", "type": "XSN", "position": 421, "weight": 0.0299841}, 
+                {"id": 28, "lemma": "이", "type": "JKS", "position": 424, "weight": 0.0731805}, 
+                {"id": 29, "lemma": "섞이", "type": "VV", "position": 428, "weight": 0.9}, 
+                {"id": 30, "lemma": "어", "type": "EC", "position": 431, "weight": 0.41831}, 
+                {"id": 31, "lemma": "함께", "type": "MAG", "position": 435, "weight": 0.9}, 
+                {"id": 32, "lemma": "살아가", "type": "VV", "position": 442, "weight": 0.9}, 
+                {"id": 33, "lemma": "ㄴ다", "type": "EF", "position": 448, "weight": 0.0793196}, 
+                {"id": 34, "lemma": ".", "type": "SF", "position": 454, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이", "type": "MM", "scode": "050002", "weight": 0.0172414, "position": 285, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "지역", "type": "NNG", "scode": "030001", "weight": 0.2, "position": 289, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 295, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 298, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이주", "type": "NNG", "scode": "060002", "weight": 0.0833333, "position": 302, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "유럽", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 309, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "인", "type": "XSN", "scode": "170000", "weight": 0.0357143, "position": 315, "begin": 6, "end": 6}, 
+                {"id": 7, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 318, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "아프리카", "type": "NNP", "scode": "000000", "weight": 1, "position": 320, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "노예", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 333, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "들", "type": "XSN", "scode": "090000", "weight": 0.0909091, "position": 339, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 342, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "크리올료", "type": "NNP", "scode": "000000", "weight": 0, "position": 346, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 358, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "criollo", "type": "SL", "scode": "000000", "weight": 1, "position": 359, "begin": 14, "end": 14}, 
+                {"id": 15, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 366, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "라고", "type": "JKQ", "scode": "000000", "weight": 1, "position": 367, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "알려지", "type": "VV", "scode": "000002", "weight": 0.5, "position": 374, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 380, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 384, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 387, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "이", "type": "MM", "scode": "050002", "weight": 0.0172414, "position": 391, "begin": 21, "end": 21}, 
+                {"id": 22, "text": "지역", "type": "NNG", "scode": "030001", "weight": 0.2, "position": 395, "begin": 22, "end": 22}, 
+                {"id": 23, "text": "원주민", "type": "NNG", "scode": "000000", "weight": 1, "position": 402, "begin": 23, "end": 24}, 
+                {"id": 24, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 411, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "후손", "type": "NNG", "scode": "020000", "weight": 0.5, "position": 415, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "들", "type": "XSN", "scode": "090000", "weight": 0.0909091, "position": 421, "begin": 27, "end": 27}, 
+                {"id": 27, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 424, "begin": 28, "end": 28}, 
+                {"id": 28, "text": "섞이", "type": "VV", "scode": "000001", "weight": 0.5, "position": 428, "begin": 29, "end": 29}, 
+                {"id": 29, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 431, "begin": 30, "end": 30}, 
+                {"id": 30, "text": "함께", "type": "MAG", "scode": "000000", "weight": 1, "position": 435, "begin": 31, "end": 31}, 
+                {"id": 31, "text": "살아가", "type": "VV", "scode": "000001", "weight": 0.5, "position": 442, "begin": 32, "end": 32}, 
+                {"id": 32, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 448, "begin": 33, "end": 33}, 
+                {"id": 33, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 454, "begin": 34, "end": 34}
+            ], 
+            "word": [
+                {"id": 0, "text": "이", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "지역에는", "type": "", "begin": 1, "end": 3}, 
+                {"id": 2, "text": "이주", "type": "", "begin": 4, "end": 4}, 
+                {"id": 3, "text": "유럽인,", "type": "", "begin": 5, "end": 7}, 
+                {"id": 4, "text": "아프리카", "type": "", "begin": 8, "end": 8}, 
+                {"id": 5, "text": "노예들과", "type": "", "begin": 9, "end": 11}, 
+                {"id": 6, "text": "크리올료(criollo)라고", "type": "", "begin": 12, "end": 16}, 
+                {"id": 7, "text": "알려져", "type": "", "begin": 17, "end": 18}, 
+                {"id": 8, "text": "있는", "type": "", "begin": 19, "end": 20}, 
+                {"id": 9, "text": "이", "type": "", "begin": 21, "end": 21}, 
+                {"id": 10, "text": "지역", "type": "", "begin": 22, "end": 22}, 
+                {"id": 11, "text": "원주민의", "type": "", "begin": 23, "end": 25}, 
+                {"id": 12, "text": "후손들이", "type": "", "begin": 26, "end": 28}, 
+                {"id": 13, "text": "섞여", "type": "", "begin": 29, "end": 30}, 
+                {"id": 14, "text": "함께", "type": "", "begin": 31, "end": 31}, 
+                {"id": 15, "text": "살아간다.", "type": "", "begin": 32, "end": 34}
+            ], 
+            "NE": [
+                {"id": 0, "text": "유럽인", "type": "CV_TRIBE", "begin": 5, "end": 6, "weight": 0.452721, "common_noun": 0}, 
+                {"id": 1, "text": "아프리카", "type": "LCG_CONTINENT", "begin": 8, "end": 8, "weight": 0.607113, "common_noun": 0}, 
+                {"id": 2, "text": "노예", "type": "CV_POSITION", "begin": 9, "end": 9, "weight": 0.784275, "common_noun": 0}, 
+                {"id": 3, "text": "크리올료", "type": "CV_TRIBE", "begin": 12, "end": 12, "weight": 0.170339, "common_noun": 0}, 
+                {"id": 4, "text": "criollo", "type": "CV_TRIBE", "begin": 14, "end": 14, "weight": 0.170339, "common_noun": 0}, 
+                {"id": 5, "text": "후손", "type": "CV_RELATION", "begin": 26, "end": 26, "weight": 0.578872, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이", "head": 1, "label": "DP", "mod": [], "weight": 0.780952}, 
+                {"id": 1, "text": "지역에는", "head": 15, "label": "NP_AJT", "mod": [0], "weight": 0.231504}, 
+                {"id": 2, "text": "이주", "head": 3, "label": "NP", "mod": [], "weight": 0.311099}, 
+                {"id": 3, "text": "유럽인,", "head": 12, "label": "NP_CNJ", "mod": [2], "weight": 0.0556669}, 
+                {"id": 4, "text": "아프리카", "head": 5, "label": "NP", "mod": [], "weight": 0.702238}, 
+                {"id": 5, "text": "노예들과", "head": 12, "label": "NP_AJT", "mod": [4], "weight": 0.0154075}, 
+                {"id": 6, "text": "크리올료(criollo)라고", "head": 7, "label": "VNP_CMP", "mod": [], "weight": 0.68072}, 
+                {"id": 7, "text": "알려져", "head": 8, "label": "VP", "mod": [6], "weight": 0.839333}, 
+                {"id": 8, "text": "있는", "head": 12, "label": "VP_MOD", "mod": [7], "weight": 0.495791}, 
+                {"id": 9, "text": "이", "head": 10, "label": "DP", "mod": [], "weight": 0.466947}, 
+                {"id": 10, "text": "지역", "head": 11, "label": "NP", "mod": [9], "weight": 0.343316}, 
+                {"id": 11, "text": "원주민의", "head": 12, "label": "NP_MOD", "mod": [10], "weight": 0.692958}, 
+                {"id": 12, "text": "후손들이", "head": 13, "label": "NP_SBJ", "mod": [8, 11, 3, 5], "weight": 0.816384}, 
+                {"id": 13, "text": "섞여", "head": 15, "label": "VP", "mod": [12], "weight": 0.845549}, 
+                {"id": 14, "text": "함께", "head": 15, "label": "AP", "mod": [], "weight": 0.684969}, 
+                {"id": 15, "text": "살아간다.", "head": -1, "label": "VP", "mod": [13, 14, 1], "weight": 4.10544e-07}
+            ], 
+            "SRL": [
+                {"verb": "알려지", "sense": 2, "word_id": 7, "weight": 0.235793, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "크리올료(criollo)라고", "weight": 0.134094}, 
+                    {"type": "AUX", "word_id": 8, "text": "있는", "weight": 0.337491}, 
+                    {"type": "ARG0", "word_id": 12, "text": "후손들이", "weight": 1}
+                ]}, 
+                {"verb": "섞이", "sense": 1, "word_id": 13, "weight": 0.136045, "argument": [
+                    {"type": "ARG1", "word_id": 12, "text": "후손들이", "weight": 0.136045}
+                ]}, 
+                {"verb": "살아가", "sense": 1, "word_id": 15, "weight": 0.202812, "argument": [
+                    {"type": "ARG0", "word_id": 12, "text": "후손들이", "weight": 0.26525}, 
+                    {"type": "ARGM-MNR", "word_id": 13, "text": "섞여", "weight": 0.110864}, 
+                    {"type": "ARGM-LOC", "word_id": 1, "text": "지역에는", "weight": 1}, 
+                    {"type": "ARGM-ADV", "word_id": 14, "text": "함께", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "이러한 가운데 다양한 풍습과 신앙, 의례 등이 통합되고 변형되면서 독특한 문화가 탄생하였다.", 
+            "morp": [
+                {"id": 0, "lemma": "이러하", "type": "VA", "position": 455, "weight": 0.0465593}, 
+                {"id": 1, "lemma": "ㄴ", "type": "ETM", "position": 461, "weight": 0.430446}, 
+                {"id": 2, "lemma": "가운데", "type": "NNG", "position": 465, "weight": 0.9}, 
+                {"id": 3, "lemma": "다양", "type": "NNG", "position": 475, "weight": 0.9}, 
+                {"id": 4, "lemma": "하", "type": "XSA", "position": 481, "weight": 0.0001}, 
+                {"id": 5, "lemma": "ㄴ", "type": "ETM", "position": 481, "weight": 0.488779}, 
+                {"id": 6, "lemma": "풍습", "type": "NNG", "position": 485, "weight": 0.9}, 
+                {"id": 7, "lemma": "과", "type": "JC", "position": 491, "weight": 0.017569}, 
+                {"id": 8, "lemma": "신앙", "type": "NNG", "position": 495, "weight": 0.9}, 
+                {"id": 9, "lemma": ",", "type": "SP", "position": 501, "weight": 1}, 
+                {"id": 10, "lemma": "의례", "type": "NNG", "position": 503, "weight": 0.523957}, 
+                {"id": 11, "lemma": "등", "type": "NNB", "position": 510, "weight": 0.0146757}, 
+                {"id": 12, "lemma": "이", "type": "JKS", "position": 513, "weight": 0.0376169}, 
+                {"id": 13, "lemma": "통합", "type": "NNG", "position": 517, "weight": 0.9}, 
+                {"id": 14, "lemma": "되", "type": "XSV", "position": 523, "weight": 0.000224177}, 
+                {"id": 15, "lemma": "고", "type": "EC", "position": 526, "weight": 0.359917}, 
+                {"id": 16, "lemma": "변형", "type": "NNG", "position": 530, "weight": 0.218973}, 
+                {"id": 17, "lemma": "되", "type": "XSV", "position": 536, "weight": 0.000224177}, 
+                {"id": 18, "lemma": "면서", "type": "EC", "position": 539, "weight": 0.370489}, 
+                {"id": 19, "lemma": "독특", "type": "NNG", "position": 546, "weight": 0.15}, 
+                {"id": 20, "lemma": "하", "type": "XSA", "position": 552, "weight": 0.0001}, 
+                {"id": 21, "lemma": "ㄴ", "type": "ETM", "position": 552, "weight": 0.488779}, 
+                {"id": 22, "lemma": "문화", "type": "NNG", "position": 556, "weight": 0.657511}, 
+                {"id": 23, "lemma": "가", "type": "JKS", "position": 562, "weight": 0.066324}, 
+                {"id": 24, "lemma": "탄생", "type": "NNG", "position": 566, "weight": 0.9}, 
+                {"id": 25, "lemma": "하", "type": "XSV", "position": 572, "weight": 0.0001}, 
+                {"id": 26, "lemma": "었", "type": "EP", "position": 575, "weight": 0.9}, 
+                {"id": 27, "lemma": "다", "type": "EF", "position": 578, "weight": 0.640954}, 
+                {"id": 28, "lemma": ".", "type": "SF", "position": 581, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이러하", "type": "VA", "scode": "000000", "weight": 1, "position": 455, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 461, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "가운데", "type": "NNG", "scode": "000005", "weight": 0.2, "position": 465, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "다양하", "type": "VA", "scode": "010000", "weight": 0.5, "position": 475, "begin": 3, "end": 4}, 
+                {"id": 4, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 481, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "풍습", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 485, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 491, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "신앙", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 495, "begin": 8, "end": 8}, 
+                {"id": 8, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 501, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "의례", "type": "NNG", "scode": "040000", "weight": 0.2, "position": 503, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 510, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 513, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "통합되", "type": "VV", "scode": "000003", "weight": 0.25, "position": 517, "begin": 13, "end": 14}, 
+                {"id": 13, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 526, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "변형되", "type": "VV", "scode": "000001", "weight": 0.333333, "position": 530, "begin": 16, "end": 17}, 
+                {"id": 15, "text": "면서", "type": "EC", "scode": "000000", "weight": 1, "position": 539, "begin": 18, "end": 18}, 
+                {"id": 16, "text": "독특하", "type": "VA", "scode": "000001", "weight": 0.5, "position": 546, "begin": 19, "end": 20}, 
+                {"id": 17, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 552, "begin": 21, "end": 21}, 
+                {"id": 18, "text": "문화", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 556, "begin": 22, "end": 22}, 
+                {"id": 19, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 562, "begin": 23, "end": 23}, 
+                {"id": 20, "text": "탄생하", "type": "VV", "scode": "000002", "weight": 0.5, "position": 566, "begin": 24, "end": 25}, 
+                {"id": 21, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 575, "begin": 26, "end": 26}, 
+                {"id": 22, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 578, "begin": 27, "end": 27}, 
+                {"id": 23, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 581, "begin": 28, "end": 28}
+            ], 
+            "word": [
+                {"id": 0, "text": "이러한", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "가운데", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "다양한", "type": "", "begin": 3, "end": 5}, 
+                {"id": 3, "text": "풍습과", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "신앙,", "type": "", "begin": 8, "end": 9}, 
+                {"id": 5, "text": "의례", "type": "", "begin": 10, "end": 10}, 
+                {"id": 6, "text": "등이", "type": "", "begin": 11, "end": 12}, 
+                {"id": 7, "text": "통합되고", "type": "", "begin": 13, "end": 15}, 
+                {"id": 8, "text": "변형되면서", "type": "", "begin": 16, "end": 18}, 
+                {"id": 9, "text": "독특한", "type": "", "begin": 19, "end": 21}, 
+                {"id": 10, "text": "문화가", "type": "", "begin": 22, "end": 23}, 
+                {"id": 11, "text": "탄생하였다.", "type": "", "begin": 24, "end": 28}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이러한", "head": 1, "label": "VP_MOD", "mod": [], "weight": 0.427623}, 
+                {"id": 1, "text": "가운데", "head": 7, "label": "NP_AJT", "mod": [0], "weight": 0.31925}, 
+                {"id": 2, "text": "다양한", "head": 5, "label": "VP_MOD", "mod": [], "weight": 0.462798}, 
+                {"id": 3, "text": "풍습과", "head": 5, "label": "NP_CNJ", "mod": [], "weight": 0.675404}, 
+                {"id": 4, "text": "신앙,", "head": 5, "label": "NP_CNJ", "mod": [], "weight": 0.56899}, 
+                {"id": 5, "text": "의례", "head": 6, "label": "NP", "mod": [2, 3, 4], "weight": 0.663431}, 
+                {"id": 6, "text": "등이", "head": 7, "label": "NP_SBJ", "mod": [5], "weight": 0.810411}, 
+                {"id": 7, "text": "통합되고", "head": 8, "label": "VP", "mod": [1, 6], "weight": 0.750766}, 
+                {"id": 8, "text": "변형되면서", "head": 11, "label": "VP", "mod": [7], "weight": 0.81469}, 
+                {"id": 9, "text": "독특한", "head": 10, "label": "VP_MOD", "mod": [], "weight": 0.701453}, 
+                {"id": 10, "text": "문화가", "head": 11, "label": "NP_SBJ", "mod": [9], "weight": 0.819292}, 
+                {"id": 11, "text": "탄생하였다.", "head": -1, "label": "VP", "mod": [8, 10], "weight": 0.00371026}
+            ], 
+            "SRL": [
+                {"verb": "다양", "sense": 1, "word_id": 2, "weight": 0.224515, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "등이", "weight": 1}
+                ]}, 
+                {"verb": "통합", "sense": 1, "word_id": 7, "weight": 0.192989, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "등이", "weight": 0.192989}, 
+                    {"type": "ARGM-CND", "word_id": 1, "text": "가운데", "weight": 1}
+                ]}, 
+                {"verb": "변형", "sense": 1, "word_id": 8, "weight": 0.125024, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "등이", "weight": 0.125024}
+                ]}, 
+                {"verb": "독특", "sense": 1, "word_id": 9, "weight": 0.260921, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "문화가", "weight": 0.260921}, 
+                    {"type": "ARGM-CAU", "word_id": 8, "text": "변형되면서", "weight": 1}
+                ]}, 
+                {"verb": "탄생", "sense": 1, "word_id": 11, "weight": 0.200374, "argument": [
+                    {"type": "ARG1", "word_id": 10, "text": "문화가", "weight": 0.200374}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 3, 
+            "reserve_str": "", 
+            "text": "이러한 문화적 특징을 가장 훌륭하게 표현한 것 중 하나가 탱고의 음악과 춤, 그리고 노랫말인데 이러한 탱고의 문화적 표현은 인종적 다양성과 문화적 소통을 표현하고 촉진시키는 역할을 한다.", 
+            "morp": [
+                {"id": 0, "lemma": "이러하", "type": "VA", "position": 582, "weight": 0.0465593}, 
+                {"id": 1, "lemma": "ㄴ", "type": "ETM", "position": 588, "weight": 0.430446}, 
+                {"id": 2, "lemma": "문화", "type": "NNG", "position": 592, "weight": 0.657511}, 
+                {"id": 3, "lemma": "적", "type": "XSN", "position": 598, "weight": 0.0169769}, 
+                {"id": 4, "lemma": "특징", "type": "NNG", "position": 602, "weight": 0.9}, 
+                {"id": 5, "lemma": "을", "type": "JKO", "position": 608, "weight": 0.129611}, 
+                {"id": 6, "lemma": "가장", "type": "MAG", "position": 612, "weight": 0.0663704}, 
+                {"id": 7, "lemma": "훌륭하", "type": "VA", "position": 619, "weight": 0.9}, 
+                {"id": 8, "lemma": "게", "type": "EC", "position": 628, "weight": 0.31879}, 
+                {"id": 9, "lemma": "표현", "type": "NNG", "position": 632, "weight": 0.9}, 
+                {"id": 10, "lemma": "하", "type": "XSV", "position": 638, "weight": 0.0001}, 
+                {"id": 11, "lemma": "ㄴ", "type": "ETM", "position": 638, "weight": 0.392321}, 
+                {"id": 12, "lemma": "것", "type": "NNB", "position": 642, "weight": 0.228788}, 
+                {"id": 13, "lemma": "중", "type": "NNB", "position": 646, "weight": 0.00859691}, 
+                {"id": 14, "lemma": "하나", "type": "NNG", "position": 650, "weight": 0.0787416}, 
+                {"id": 15, "lemma": "가", "type": "JKS", "position": 656, "weight": 0.066324}, 
+                {"id": 16, "lemma": "탱고", "type": "NNG", "position": 660, "weight": 0.9}, 
+                {"id": 17, "lemma": "의", "type": "JKG", "position": 666, "weight": 0.0694213}, 
+                {"id": 18, "lemma": "음악", "type": "NNG", "position": 670, "weight": 0.871243}, 
+                {"id": 19, "lemma": "과", "type": "JC", "position": 676, "weight": 0.017569}, 
+                {"id": 20, "lemma": "춤", "type": "NNG", "position": 680, "weight": 0.799849}, 
+                {"id": 21, "lemma": ",", "type": "SP", "position": 683, "weight": 1}, 
+                {"id": 22, "lemma": "그리고", "type": "MAJ", "position": 685, "weight": 0.00535347}, 
+                {"id": 23, "lemma": "노랫말", "type": "NNG", "position": 695, "weight": 0.9}, 
+                {"id": 24, "lemma": "이", "type": "VCP", "position": 704, "weight": 0.0177525}, 
+                {"id": 25, "lemma": "ㄴ데", "type": "EC", "position": 704, "weight": 0.209075}, 
+                {"id": 26, "lemma": "이러하", "type": "VA", "position": 711, "weight": 0.050168}, 
+                {"id": 27, "lemma": "ㄴ", "type": "ETM", "position": 717, "weight": 0.430446}, 
+                {"id": 28, "lemma": "탱고", "type": "NNG", "position": 721, "weight": 0.9}, 
+                {"id": 29, "lemma": "의", "type": "JKG", "position": 727, "weight": 0.0694213}, 
+                {"id": 30, "lemma": "문화", "type": "NNG", "position": 731, "weight": 0.869683}, 
+                {"id": 31, "lemma": "적", "type": "XSN", "position": 737, "weight": 0.0169769}, 
+                {"id": 32, "lemma": "표현", "type": "NNG", "position": 741, "weight": 0.9}, 
+                {"id": 33, "lemma": "은", "type": "JX", "position": 747, "weight": 0.0449928}, 
+                {"id": 34, "lemma": "인종", "type": "NNG", "position": 751, "weight": 0.277989}, 
+                {"id": 35, "lemma": "적", "type": "XSN", "position": 757, "weight": 0.0168756}, 
+                {"id": 36, "lemma": "다양", "type": "NNG", "position": 761, "weight": 0.9}, 
+                {"id": 37, "lemma": "성", "type": "XSN", "position": 767, "weight": 0.0161708}, 
+                {"id": 38, "lemma": "과", "type": "JC", "position": 770, "weight": 0.0096702}, 
+                {"id": 39, "lemma": "문화", "type": "NNG", "position": 774, "weight": 0.801458}, 
+                {"id": 40, "lemma": "적", "type": "XSN", "position": 780, "weight": 0.0169769}, 
+                {"id": 41, "lemma": "소통", "type": "NNG", "position": 784, "weight": 0.184082}, 
+                {"id": 42, "lemma": "을", "type": "JKO", "position": 790, "weight": 0.129611}, 
+                {"id": 43, "lemma": "표현", "type": "NNG", "position": 794, "weight": 0.9}, 
+                {"id": 44, "lemma": "하", "type": "XSV", "position": 800, "weight": 0.0001}, 
+                {"id": 45, "lemma": "고", "type": "EC", "position": 803, "weight": 0.359917}, 
+                {"id": 46, "lemma": "촉진", "type": "NNG", "position": 807, "weight": 0.9}, 
+                {"id": 47, "lemma": "시키", "type": "XSV", "position": 813, "weight": 0.00340357}, 
+                {"id": 48, "lemma": "는", "type": "ETM", "position": 819, "weight": 0.238503}, 
+                {"id": 49, "lemma": "역할", "type": "NNG", "position": 823, "weight": 0.9}, 
+                {"id": 50, "lemma": "을", "type": "JKO", "position": 829, "weight": 0.129611}, 
+                {"id": 51, "lemma": "하", "type": "VV", "position": 833, "weight": 0.48169}, 
+                {"id": 52, "lemma": "ㄴ다", "type": "EF", "position": 833, "weight": 0.0793196}, 
+                {"id": 53, "lemma": ".", "type": "SF", "position": 839, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이러하", "type": "VA", "scode": "000000", "weight": 1, "position": 582, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 588, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "문화적", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 592, "begin": 2, "end": 3}, 
+                {"id": 3, "text": "특징", "type": "NNG", "scode": "000001", "weight": 0.25, "position": 602, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 608, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "가장", "type": "MAG", "scode": "010000", "weight": 0.0555556, "position": 612, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "훌륭하", "type": "VA", "scode": "000000", "weight": 1, "position": 619, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "게", "type": "EC", "scode": "000000", "weight": 1, "position": 628, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "표현하", "type": "VV", "scode": "000000", "weight": 1, "position": 632, "begin": 9, "end": 10}, 
+                {"id": 9, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 638, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "것", "type": "NNB", "scode": "010001", "weight": 0.125, "position": 642, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "중", "type": "NNB", "scode": "040101", "weight": 0.0526316, "position": 646, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "하나", "type": "NNG", "scode": "000202", "weight": 0.166667, "position": 650, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 656, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "탱고", "type": "NNG", "scode": "020002", "weight": 0.333333, "position": 660, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 666, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "음악", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 670, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 676, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "춤", "type": "NNG", "scode": "010000", "weight": 0.125, "position": 680, "begin": 20, "end": 20}, 
+                {"id": 19, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 683, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "그리고", "type": "MAJ", "scode": "000000", "weight": 1, "position": 685, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "노랫말", "type": "NNG", "scode": "000000", "weight": 1, "position": 695, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 704, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "ㄴ데", "type": "EC", "scode": "000000", "weight": 1, "position": 704, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "이러하", "type": "VA", "scode": "000000", "weight": 1, "position": 711, "begin": 26, "end": 26}, 
+                {"id": 25, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 717, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "탱고", "type": "NNG", "scode": "020002", "weight": 0.333333, "position": 721, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 727, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "문화적", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 731, "begin": 30, "end": 31}, 
+                {"id": 29, "text": "표현", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 741, "begin": 32, "end": 32}, 
+                {"id": 30, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 747, "begin": 33, "end": 33}, 
+                {"id": 31, "text": "인종적", "type": "NNG", "scode": "000000", "weight": 1, "position": 751, "begin": 34, "end": 35}, 
+                {"id": 32, "text": "다양성", "type": "NNG", "scode": "000000", "weight": 1, "position": 761, "begin": 36, "end": 37}, 
+                {"id": 33, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 770, "begin": 38, "end": 38}, 
+                {"id": 34, "text": "문화적", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 774, "begin": 39, "end": 40}, 
+                {"id": 35, "text": "소통", "type": "NNG", "scode": "020001", "weight": 0.25, "position": 784, "begin": 41, "end": 41}, 
+                {"id": 36, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 790, "begin": 42, "end": 42}, 
+                {"id": 37, "text": "표현하", "type": "VV", "scode": "000000", "weight": 1, "position": 794, "begin": 43, "end": 44}, 
+                {"id": 38, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 803, "begin": 45, "end": 45}, 
+                {"id": 39, "text": "촉진", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 807, "begin": 46, "end": 46}, 
+                {"id": 40, "text": "시키", "type": "XSV", "scode": "000000", "weight": 0, "position": 813, "begin": 47, "end": 47}, 
+                {"id": 41, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 819, "begin": 48, "end": 48}, 
+                {"id": 42, "text": "역할", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 823, "begin": 49, "end": 49}, 
+                {"id": 43, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 829, "begin": 50, "end": 50}, 
+                {"id": 44, "text": "하", "type": "VV", "scode": "010101", "weight": 0.02, "position": 833, "begin": 51, "end": 51}, 
+                {"id": 45, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 833, "begin": 52, "end": 52}, 
+                {"id": 46, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 839, "begin": 53, "end": 53}
+            ], 
+            "word": [
+                {"id": 0, "text": "이러한", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "문화적", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "특징을", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "가장", "type": "", "begin": 6, "end": 6}, 
+                {"id": 4, "text": "훌륭하게", "type": "", "begin": 7, "end": 8}, 
+                {"id": 5, "text": "표현한", "type": "", "begin": 9, "end": 11}, 
+                {"id": 6, "text": "것", "type": "", "begin": 12, "end": 12}, 
+                {"id": 7, "text": "중", "type": "", "begin": 13, "end": 13}, 
+                {"id": 8, "text": "하나가", "type": "", "begin": 14, "end": 15}, 
+                {"id": 9, "text": "탱고의", "type": "", "begin": 16, "end": 17}, 
+                {"id": 10, "text": "음악과", "type": "", "begin": 18, "end": 19}, 
+                {"id": 11, "text": "춤,", "type": "", "begin": 20, "end": 21}, 
+                {"id": 12, "text": "그리고", "type": "", "begin": 22, "end": 22}, 
+                {"id": 13, "text": "노랫말인데", "type": "", "begin": 23, "end": 25}, 
+                {"id": 14, "text": "이러한", "type": "", "begin": 26, "end": 27}, 
+                {"id": 15, "text": "탱고의", "type": "", "begin": 28, "end": 29}, 
+                {"id": 16, "text": "문화적", "type": "", "begin": 30, "end": 31}, 
+                {"id": 17, "text": "표현은", "type": "", "begin": 32, "end": 33}, 
+                {"id": 18, "text": "인종적", "type": "", "begin": 34, "end": 35}, 
+                {"id": 19, "text": "다양성과", "type": "", "begin": 36, "end": 38}, 
+                {"id": 20, "text": "문화적", "type": "", "begin": 39, "end": 40}, 
+                {"id": 21, "text": "소통을", "type": "", "begin": 41, "end": 42}, 
+                {"id": 22, "text": "표현하고", "type": "", "begin": 43, "end": 45}, 
+                {"id": 23, "text": "촉진시키는", "type": "", "begin": 46, "end": 48}, 
+                {"id": 24, "text": "역할을", "type": "", "begin": 49, "end": 50}, 
+                {"id": 25, "text": "한다.", "type": "", "begin": 51, "end": 53}
+            ], 
+            "NE": [
+                {"id": 0, "text": "하나", "type": "QT_COUNT", "begin": 14, "end": 14, "weight": 0.498515, "common_noun": 0}, 
+                {"id": 1, "text": "탱고", "type": "FD_ART", "begin": 16, "end": 16, "weight": 0.37931, "common_noun": 0}, 
+                {"id": 2, "text": "음악", "type": "FD_ART", "begin": 18, "end": 18, "weight": 0.687826, "common_noun": 0}, 
+                {"id": 3, "text": "탱고", "type": "FD_ART", "begin": 28, "end": 28, "weight": 0.288273, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이러한", "head": 2, "label": "VP_MOD", "mod": [], "weight": 0.702699}, 
+                {"id": 1, "text": "문화적", "head": 2, "label": "NP", "mod": [], "weight": 0.52274}, 
+                {"id": 2, "text": "특징을", "head": 5, "label": "NP_OBJ", "mod": [0, 1], "weight": 0.443182}, 
+                {"id": 3, "text": "가장", "head": 4, "label": "AP", "mod": [], "weight": 0.844994}, 
+                {"id": 4, "text": "훌륭하게", "head": 5, "label": "VP_AJT", "mod": [3], "weight": 0.521077}, 
+                {"id": 5, "text": "표현한", "head": 6, "label": "VP_MOD", "mod": [2, 4], "weight": 0.771736}, 
+                {"id": 6, "text": "것", "head": 7, "label": "NP", "mod": [5], "weight": 0.560473}, 
+                {"id": 7, "text": "중", "head": 8, "label": "NP", "mod": [6], "weight": 0.632109}, 
+                {"id": 8, "text": "하나가", "head": 13, "label": "NP_SBJ", "mod": [7], "weight": 0.842847}, 
+                {"id": 9, "text": "탱고의", "head": 13, "label": "NP_MOD", "mod": [], "weight": 0.713259}, 
+                {"id": 10, "text": "음악과", "head": 13, "label": "NP_CNJ", "mod": [], "weight": 0.609352}, 
+                {"id": 11, "text": "춤,", "head": 13, "label": "NP_CNJ", "mod": [], "weight": 0.619444}, 
+                {"id": 12, "text": "그리고", "head": 13, "label": "AP", "mod": [], "weight": 0.749361}, 
+                {"id": 13, "text": "노랫말인데", "head": 25, "label": "VNP", "mod": [8, 9, 10, 11, 12], "weight": 0.761386}, 
+                {"id": 14, "text": "이러한", "head": 15, "label": "VP_MOD", "mod": [], "weight": 0.102442}, 
+                {"id": 15, "text": "탱고의", "head": 17, "label": "NP_MOD", "mod": [14], "weight": 0.727774}, 
+                {"id": 16, "text": "문화적", "head": 17, "label": "NP", "mod": [], "weight": 0.5361}, 
+                {"id": 17, "text": "표현은", "head": 25, "label": "NP_SBJ", "mod": [15, 16], "weight": 0.830853}, 
+                {"id": 18, "text": "인종적", "head": 19, "label": "NP", "mod": [], "weight": 0.596255}, 
+                {"id": 19, "text": "다양성과", "head": 21, "label": "NP_CNJ", "mod": [18], "weight": 0.446678}, 
+                {"id": 20, "text": "문화적", "head": 21, "label": "NP", "mod": [], "weight": 0.359806}, 
+                {"id": 21, "text": "소통을", "head": 22, "label": "NP_OBJ", "mod": [19, 20], "weight": 0.571809}, 
+                {"id": 22, "text": "표현하고", "head": 23, "label": "VP", "mod": [21], "weight": 0.393042}, 
+                {"id": 23, "text": "촉진시키는", "head": 24, "label": "VP_MOD", "mod": [22], "weight": 0.805068}, 
+                {"id": 24, "text": "역할을", "head": 25, "label": "NP_OBJ", "mod": [23], "weight": 0.803813}, 
+                {"id": 25, "text": "한다.", "head": -1, "label": "VP", "mod": [13, 17, 24], "weight": 9.38345e-07}
+            ], 
+            "SRL": [
+                {"verb": "표현", "sense": 1, "word_id": 5, "weight": 0.203775, "argument": [
+                    {"type": "ARG1", "word_id": 2, "text": "특징을", "weight": 0.230538}, 
+                    {"type": "ARGM-MNR", "word_id": 4, "text": "훌륭하게", "weight": 0.177013}
+                ]}, 
+                {"verb": "이러하", "sense": 1, "word_id": 14, "weight": 0.214663, "argument": [
+                    {"type": "ARG1", "word_id": 15, "text": "탱고의", "weight": 0.214663}
+                ]}, 
+                {"verb": "표현", "sense": 1, "word_id": 22, "weight": 0.41054, "argument": [
+                    {"type": "ARG1", "word_id": 21, "text": "소통을", "weight": 0.41054}
+                ]}, 
+                {"verb": "하", "sense": 1, "word_id": 25, "weight": 0.227673, "argument": [
+                    {"type": "ARG0", "word_id": 17, "text": "표현은", "weight": 0.164721}, 
+                    {"type": "ARG1", "word_id": 24, "text": "역할을", "weight": 0.290624}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "전 세계적으로", "start_eid_short": 0, "end_eid_short": 1, "text_short": "전 세계적으로"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTRY", "number": "plural", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": 1, "text": "전 세계적으로 친숙해진 아르헨티나와 우루과이의", "start_eid_short": 4, "end_eid_short": 4, "text_short": "우루과이의"}
+        ]}, 
+        {"id": 2, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": 0, "text": "아르헨티나와", "start_eid_short": 3, "end_eid_short": 3, "text_short": "아르헨티나와"}
+        ]}, 
+        {"id": 3, "type": "FD_ART", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 6, "ne_id": -1, "text": "전 세계적으로 친숙해진 아르헨티나와 우루과이의 탱고(Tango) 전통은", "start_eid_short": 6, "end_eid_short": 6, "text_short": "전통은"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 5, "ne_id": 2, "text": "전 세계적으로 친숙해진 아르헨티나와 우루과이의 탱고(Tango)", "start_eid_short": 5, "end_eid_short": 5, "text_short": "탱고(Tango)"}, 
+            {"id": 37, "sent_id": 3, "start_eid": 9, "end_eid": 9, "ne_id": 1, "text": "탱고의", "start_eid_short": 9, "end_eid_short": 9, "text_short": "탱고의"}, 
+            {"id": 42, "sent_id": 3, "start_eid": 15, "end_eid": 15, "ne_id": 3, "text": "탱고의", "start_eid_short": 15, "end_eid_short": 15, "text_short": "탱고의"}
+        ]}, 
+        {"id": 4, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 7, "end_eid": 22, "ne_id": 9, "text": "리오 데 라플라타(Río de la Plata) 강 유역에 자리 잡은 부에노스아이레스(Buenos Aires)와 몬테비데오(Montevideo)의 하층 계급 시민들에", "start_eid_short": 20, "end_eid_short": 22, "text_short": "하층 계급 시민들에"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 7, "end_eid": 13, "ne_id": -1, "text": "리오 데 라플라타(Río de la Plata) 강", "start_eid_short": 13, "end_eid_short": 13, "text_short": "강"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 7, "end_eid": 14, "ne_id": -1, "text": "리오 데 라플라타(Río de la Plata) 강 유역에", "start_eid_short": 13, "end_eid_short": 14, "text_short": "강 유역에"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 0, "start_eid": 15, "end_eid": 15, "ne_id": -1, "text": "자리", "start_eid_short": 15, "end_eid_short": 15, "text_short": "자리"}
+        ]}, 
+        {"id": 8, "type": "LCP_CAPITALCITY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 7, "end_eid": 18, "ne_id": 6, "text": "리오 데 라플라타(Río de la Plata) 강 유역에 자리 잡은 부에노스아이레스(Buenos Aires)와", "start_eid_short": 18, "end_eid_short": 18, "text_short": "Aires)와"}
+        ]}, 
+        {"id": 9, "type": "OGG_ECONOMY", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 13, "sent_id": 0, "start_eid": 19, "end_eid": 19, "ne_id": 7, "text": "몬테비데오(Montevideo)의", "start_eid_short": 19, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 0, "start_eid": 20, "end_eid": 21, "ne_id": -1, "text": "하층 계급", "start_eid_short": 20, "end_eid_short": 21, "text_short": "하층 계급"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 15, "sent_id": 0, "start_eid": 20, "end_eid": 20, "ne_id": -1, "text": "하층", "start_eid_short": 20, "end_eid_short": 20, "text_short": "하층"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "이 지역에는", "start_eid_short": 1, "end_eid_short": 1, "text_short": "지역에는"}, 
+            {"id": 25, "sent_id": 1, "start_eid": 9, "end_eid": 10, "ne_id": -1, "text": "이 지역", "start_eid_short": 9, "end_eid_short": 10, "text_short": "이 지역"}
+        ]}, 
+        {"id": 13, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 19, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "이주", "start_eid_short": 2, "end_eid_short": 2, "text_short": "이주"}
+        ]}, 
+        {"id": 14, "type": "CV_RELATION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 2, "end_eid": 12, "ne_id": 4, "text": "이주 유럽인, 아프리카 노예들과 크리올료(criollo)라고 알려져 있는 이 지역 원주민의 후손들이", "start_eid_short": 12, "end_eid_short": 12, "text_short": "후손들이"}
+        ]}, 
+        {"id": 15, "type": "CV_TRIBE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 18, "sent_id": 1, "start_eid": 2, "end_eid": 3, "ne_id": 0, "text": "이주 유럽인,", "start_eid_short": 2, "end_eid_short": 3, "text_short": "이주 유럽인,"}
+        ]}, 
+        {"id": 16, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 20, "sent_id": 1, "start_eid": 4, "end_eid": 5, "ne_id": 2, "text": "아프리카 노예들과", "start_eid_short": 4, "end_eid_short": 5, "text_short": "아프리카 노예들과"}
+        ]}, 
+        {"id": 17, "type": "LCG_CONTINENT", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 21, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": 1, "text": "아프리카", "start_eid_short": 4, "end_eid_short": 4, "text_short": "아프리카"}
+        ]}, 
+        {"id": 18, "type": "CV_TRIBE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 23, "sent_id": 1, "start_eid": 6, "end_eid": 11, "ne_id": -1, "text": "크리올료(criollo)라고 알려져 있는 이 지역 원주민의", "start_eid_short": 9, "end_eid_short": 0, "text_short": ""}, 
+            {"id": 24, "sent_id": 1, "start_eid": 6, "end_eid": 6, "ne_id": 3, "text": "크리올료(criollo)라고", "start_eid_short": 6, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 19, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 27, "sent_id": 2, "start_eid": 2, "end_eid": 5, "ne_id": -1, "text": "다양한 풍습과 신앙, 의례", "start_eid_short": 5, "end_eid_short": 5, "text_short": "의례"}
+        ]}, 
+        {"id": 20, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 28, "sent_id": 2, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "풍습과", "start_eid_short": 3, "end_eid_short": 3, "text_short": "풍습과"}
+        ]}, 
+        {"id": 21, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 29, "sent_id": 2, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "신앙,", "start_eid_short": 4, "end_eid_short": 4, "text_short": "신앙,"}
+        ]}, 
+        {"id": 22, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 31, "sent_id": 2, "start_eid": 9, "end_eid": 10, "ne_id": -1, "text": "독특한 문화가", "start_eid_short": 10, "end_eid_short": 10, "text_short": "문화가"}
+        ]}, 
+        {"id": 23, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 34, "sent_id": 3, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "문화적 특징을", "start_eid_short": 1, "end_eid_short": 2, "text_short": "문화적 특징을"}
+        ]}, 
+        {"id": 24, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 35, "sent_id": 3, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "문화적", "start_eid_short": 1, "end_eid_short": 1, "text_short": "문화적"}, 
+            {"id": 43, "sent_id": 3, "start_eid": 16, "end_eid": 16, "ne_id": -1, "text": "문화적", "start_eid_short": 16, "end_eid_short": 16, "text_short": "문화적"}, 
+            {"id": 49, "sent_id": 3, "start_eid": 20, "end_eid": 20, "ne_id": -1, "text": "문화적", "start_eid_short": 20, "end_eid_short": 20, "text_short": "문화적"}
+        ]}, 
+        {"id": 25, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 32, "sent_id": 3, "start_eid": 0, "end_eid": 8, "ne_id": 0, "text": "이러한 문화적 특징을 가장 훌륭하게 표현한 것 중 하나가", "start_eid_short": 6, "end_eid_short": 8, "text_short": "것 중 하나가"}
+        ]}, 
+        {"id": 26, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 36, "sent_id": 3, "start_eid": 9, "end_eid": 13, "ne_id": -1, "text": "탱고의 음악과 춤, 그리고 노랫말인데", "start_eid_short": 13, "end_eid_short": 13, "text_short": "노랫말인데"}
+        ]}, 
+        {"id": 27, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 41, "sent_id": 3, "start_eid": 14, "end_eid": 17, "ne_id": -1, "text": "이러한 탱고의 문화적 표현은", "start_eid_short": 16, "end_eid_short": 17, "text_short": "문화적 표현은"}
+        ]}, 
+        {"id": 28, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 44, "sent_id": 3, "start_eid": 18, "end_eid": 24, "ne_id": -1, "text": "인종적 다양성과 문화적 소통을 표현하고 촉진시키는 역할을", "start_eid_short": 24, "end_eid_short": 24, "text_short": "역할을"}
+        ]}, 
+        {"id": 29, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 46, "sent_id": 3, "start_eid": 18, "end_eid": 19, "ne_id": -1, "text": "인종적 다양성과", "start_eid_short": 18, "end_eid_short": 19, "text_short": "인종적 다양성과"}
+        ]}, 
+        {"id": 30, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 47, "sent_id": 3, "start_eid": 18, "end_eid": 18, "ne_id": 4, "text": "인종적", "start_eid_short": 18, "end_eid_short": 18, "text_short": "인종적"}
+        ]}, 
+        {"id": 31, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 45, "sent_id": 3, "start_eid": 18, "end_eid": 21, "ne_id": -1, "text": "인종적 다양성과 문화적 소통을", "start_eid_short": 20, "end_eid_short": 21, "text_short": "문화적 소통을"}
+        ]}, 
+        {"id": 32, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": 1, "text": "우루과이의", "start_eid_short": 4, "end_eid_short": 4, "text_short": "우루과이의"}
+        ]}, 
+        {"id": 33, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 33, "sent_id": 3, "start_eid": 0, "end_eid": 6, "ne_id": -1, "text": "이러한 문화적 특징을 가장 훌륭하게 표현한 것", "start_eid_short": 6, "end_eid_short": 6, "text_short": "것"}
+        ]}, 
+        {"id": 34, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 7, "end_eid": 12, "ne_id": 4, "text": "리오 데 라플라타(Río de la Plata)", "start_eid_short": 12, "end_eid_short": 12, "text_short": "Plata)"}
+        ]}, 
+        {"id": 35, "type": "CV_POSITION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 12, "sent_id": 0, "start_eid": 19, "end_eid": 22, "ne_id": 9, "text": "몬테비데오(Montevideo)의 하층 계급 시민들에", "start_eid_short": 19, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 36, "type": "CV_RELATION", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 22, "sent_id": 1, "start_eid": 6, "end_eid": 12, "ne_id": 4, "text": "크리올료(criollo)라고 알려져 있는 이 지역 원주민의 후손들이", "start_eid_short": 9, "end_eid_short": 0, "text_short": ""}
+        ]}, 
+        {"id": 37, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 26, "sent_id": 2, "start_eid": 2, "end_eid": 6, "ne_id": -1, "text": "다양한 풍습과 신앙, 의례 등이", "start_eid_short": 5, "end_eid_short": 6, "text_short": "의례 등이"}
+        ]}, 
+        {"id": 38, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 30, "sent_id": 2, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "의례", "start_eid_short": 5, "end_eid_short": 5, "text_short": "의례"}
+        ]}, 
+        {"id": 39, "type": "FD_ART", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 38, "sent_id": 3, "start_eid": 10, "end_eid": 10, "ne_id": 2, "text": "음악과", "start_eid_short": 10, "end_eid_short": 10, "text_short": "음악과"}
+        ]}, 
+        {"id": 40, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 39, "sent_id": 3, "start_eid": 11, "end_eid": 11, "ne_id": -1, "text": "춤,", "start_eid_short": 11, "end_eid_short": 11, "text_short": "춤,"}
+        ]}, 
+        {"id": 41, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 40, "sent_id": 3, "start_eid": 13, "end_eid": 13, "ne_id": -1, "text": "노랫말인데", "start_eid_short": 13, "end_eid_short": 13, "text_short": "노랫말인데"}
+        ]}, 
+        {"id": 42, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 48, "sent_id": 3, "start_eid": 20, "end_eid": 21, "ne_id": -1, "text": "문화적 소통을", "start_eid_short": 20, "end_eid_short": 21, "text_short": "문화적 소통을"}
+        ]}
+    ]
+}

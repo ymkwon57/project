@@ -1,0 +1,279 @@
+{
+    "doc_id": "E2016.836.26_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "지각변동으로 솟아올랐던 바다가 빙하기를 거쳐 이 지역에 거대한 호수가 형성된 후, 오랜 세월 동안 물은 증발하면서 형성된 소금사막이다.", 
+            "morp": [
+                {"id": 0, "lemma": "지각", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "변동", "type": "NNG", "position": 6, "weight": 0.183405}, 
+                {"id": 2, "lemma": "으로", "type": "JKB", "position": 12, "weight": 0.153406}, 
+                {"id": 3, "lemma": "솟아오르", "type": "VV", "position": 19, "weight": 0.9}, 
+                {"id": 4, "lemma": "았", "type": "EP", "position": 25, "weight": 0.9}, 
+                {"id": 5, "lemma": "던", "type": "ETM", "position": 31, "weight": 0.107547}, 
+                {"id": 6, "lemma": "바다", "type": "NNG", "position": 35, "weight": 0.635269}, 
+                {"id": 7, "lemma": "가", "type": "JKS", "position": 41, "weight": 0.066324}, 
+                {"id": 8, "lemma": "빙하", "type": "NNG", "position": 45, "weight": 0.9}, 
+                {"id": 9, "lemma": "기", "type": "XSN", "position": 51, "weight": 0.000294499}, 
+                {"id": 10, "lemma": "를", "type": "JKO", "position": 54, "weight": 0.0870227}, 
+                {"id": 11, "lemma": "거치", "type": "VV", "position": 58, "weight": 0.773981}, 
+                {"id": 12, "lemma": "어", "type": "EC", "position": 61, "weight": 0.41831}, 
+                {"id": 13, "lemma": "이", "type": "MM", "position": 65, "weight": 0.000947656}, 
+                {"id": 14, "lemma": "지역", "type": "NNG", "position": 69, "weight": 0.9}, 
+                {"id": 15, "lemma": "에", "type": "JKB", "position": 75, "weight": 0.153364}, 
+                {"id": 16, "lemma": "거대", "type": "NNG", "position": 79, "weight": 0.9}, 
+                {"id": 17, "lemma": "하", "type": "XSA", "position": 85, "weight": 0.0001}, 
+                {"id": 18, "lemma": "ㄴ", "type": "ETM", "position": 85, "weight": 0.488779}, 
+                {"id": 19, "lemma": "호수", "type": "NNG", "position": 89, "weight": 0.658324}, 
+                {"id": 20, "lemma": "가", "type": "JKS", "position": 95, "weight": 0.066324}, 
+                {"id": 21, "lemma": "형성", "type": "NNG", "position": 99, "weight": 0.9}, 
+                {"id": 22, "lemma": "되", "type": "XSV", "position": 105, "weight": 0.000224177}, 
+                {"id": 23, "lemma": "ㄴ", "type": "ETM", "position": 105, "weight": 0.392321}, 
+                {"id": 24, "lemma": "후", "type": "NNG", "position": 109, "weight": 0.655812}, 
+                {"id": 25, "lemma": ",", "type": "SP", "position": 112, "weight": 1}, 
+                {"id": 26, "lemma": "오랜", "type": "MM", "position": 114, "weight": 0.9}, 
+                {"id": 27, "lemma": "세월", "type": "NNG", "position": 121, "weight": 0.737063}, 
+                {"id": 28, "lemma": "동안", "type": "NNG", "position": 128, "weight": 0.184748}, 
+                {"id": 29, "lemma": "물", "type": "NNG", "position": 135, "weight": 0.15808}, 
+                {"id": 30, "lemma": "은", "type": "JX", "position": 138, "weight": 0.0449928}, 
+                {"id": 31, "lemma": "증발", "type": "NNG", "position": 142, "weight": 0.322928}, 
+                {"id": 32, "lemma": "하", "type": "XSV", "position": 148, "weight": 0.0001}, 
+                {"id": 33, "lemma": "면서", "type": "EC", "position": 151, "weight": 0.370489}, 
+                {"id": 34, "lemma": "형성", "type": "NNG", "position": 158, "weight": 0.9}, 
+                {"id": 35, "lemma": "되", "type": "XSV", "position": 164, "weight": 0.000224177}, 
+                {"id": 36, "lemma": "ㄴ", "type": "ETM", "position": 164, "weight": 0.392321}, 
+                {"id": 37, "lemma": "소금", "type": "NNG", "position": 168, "weight": 0.6}, 
+                {"id": 38, "lemma": "사막", "type": "NNG", "position": 168, "weight": 0.6}, 
+                {"id": 39, "lemma": "이", "type": "VCP", "position": 180, "weight": 0.00359898}, 
+                {"id": 40, "lemma": "다", "type": "EF", "position": 183, "weight": 0.353579}, 
+                {"id": 41, "lemma": ".", "type": "SF", "position": 186, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "지각변동", "type": "NNG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 12, "begin": 2, "end": 2}, 
+                {"id": 2, "text": "솟아오르", "type": "VV", "scode": "000001", "weight": 0.5, "position": 19, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 25, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "던", "type": "ETM", "scode": "000000", "weight": 1, "position": 31, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "바다", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 35, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 41, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "빙하기", "type": "NNG", "scode": "000000", "weight": 1, "position": 45, "begin": 8, "end": 9}, 
+                {"id": 8, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 54, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "거치", "type": "VV", "scode": "010202", "weight": 0.2, "position": 58, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 61, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 65, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "지역", "type": "NNG", "scode": "030001", "weight": 0.2, "position": 69, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 75, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "거대하", "type": "VA", "scode": "000000", "weight": 1, "position": 79, "begin": 16, "end": 17}, 
+                {"id": 15, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 85, "begin": 18, "end": 18}, 
+                {"id": 16, "text": "호수", "type": "NNG", "scode": "070000", "weight": 0.0625, "position": 89, "begin": 19, "end": 19}, 
+                {"id": 17, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 95, "begin": 20, "end": 20}, 
+                {"id": 18, "text": "형성되", "type": "VV", "scode": "000000", "weight": 1, "position": 99, "begin": 21, "end": 22}, 
+                {"id": 19, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 105, "begin": 23, "end": 23}, 
+                {"id": 20, "text": "후", "type": "NNG", "scode": "080001", "weight": 0.0666667, "position": 109, "begin": 24, "end": 24}, 
+                {"id": 21, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 112, "begin": 25, "end": 25}, 
+                {"id": 22, "text": "오랜", "type": "MM", "scode": "000000", "weight": 1, "position": 114, "begin": 26, "end": 26}, 
+                {"id": 23, "text": "세월", "type": "NNG", "scode": "020001", "weight": 0.25, "position": 121, "begin": 27, "end": 27}, 
+                {"id": 24, "text": "동안", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 128, "begin": 28, "end": 28}, 
+                {"id": 25, "text": "물", "type": "NNG", "scode": "010001", "weight": 0.0588235, "position": 135, "begin": 29, "end": 29}, 
+                {"id": 26, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 138, "begin": 30, "end": 30}, 
+                {"id": 27, "text": "증발하", "type": "VV", "scode": "010001", "weight": 0.333333, "position": 142, "begin": 31, "end": 32}, 
+                {"id": 28, "text": "면서", "type": "EC", "scode": "000000", "weight": 1, "position": 151, "begin": 33, "end": 33}, 
+                {"id": 29, "text": "형성되", "type": "VV", "scode": "000000", "weight": 1, "position": 158, "begin": 34, "end": 35}, 
+                {"id": 30, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 164, "begin": 36, "end": 36}, 
+                {"id": 31, "text": "소금", "type": "NNG", "scode": "010001", "weight": 0.1, "position": 168, "begin": 37, "end": 37}, 
+                {"id": 32, "text": "사막", "type": "NNG", "scode": "040000", "weight": 0.166667, "position": 168, "begin": 38, "end": 38}, 
+                {"id": 33, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 180, "begin": 39, "end": 39}, 
+                {"id": 34, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 183, "begin": 40, "end": 40}, 
+                {"id": 35, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 186, "begin": 41, "end": 41}
+            ], 
+            "word": [
+                {"id": 0, "text": "지각변동으로", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "솟아올랐던", "type": "", "begin": 3, "end": 5}, 
+                {"id": 2, "text": "바다가", "type": "", "begin": 6, "end": 7}, 
+                {"id": 3, "text": "빙하기를", "type": "", "begin": 8, "end": 10}, 
+                {"id": 4, "text": "거쳐", "type": "", "begin": 11, "end": 12}, 
+                {"id": 5, "text": "이", "type": "", "begin": 13, "end": 13}, 
+                {"id": 6, "text": "지역에", "type": "", "begin": 14, "end": 15}, 
+                {"id": 7, "text": "거대한", "type": "", "begin": 16, "end": 18}, 
+                {"id": 8, "text": "호수가", "type": "", "begin": 19, "end": 20}, 
+                {"id": 9, "text": "형성된", "type": "", "begin": 21, "end": 23}, 
+                {"id": 10, "text": "후,", "type": "", "begin": 24, "end": 25}, 
+                {"id": 11, "text": "오랜", "type": "", "begin": 26, "end": 26}, 
+                {"id": 12, "text": "세월", "type": "", "begin": 27, "end": 27}, 
+                {"id": 13, "text": "동안", "type": "", "begin": 28, "end": 28}, 
+                {"id": 14, "text": "물은", "type": "", "begin": 29, "end": 30}, 
+                {"id": 15, "text": "증발하면서", "type": "", "begin": 31, "end": 33}, 
+                {"id": 16, "text": "형성된", "type": "", "begin": 34, "end": 36}, 
+                {"id": 17, "text": "소금사막이다.", "type": "", "begin": 37, "end": 41}
+            ], 
+            "NE": [
+                {"id": 0, "text": "빙하기", "type": "DT_GEOAGE", "begin": 8, "end": 9, "weight": 0.494252, "common_noun": 0}, 
+                {"id": 1, "text": "소금", "type": "CV_FOOD", "begin": 37, "end": 37, "weight": 0.350258, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "지각변동으로", "head": 1, "label": "NP_AJT", "mod": [], "weight": 0.827594}, 
+                {"id": 1, "text": "솟아올랐던", "head": 2, "label": "VP_MOD", "mod": [0], "weight": 0.535967}, 
+                {"id": 2, "text": "바다가", "head": 4, "label": "NP_SBJ", "mod": [1], "weight": 0.734508}, 
+                {"id": 3, "text": "빙하기를", "head": 4, "label": "NP_OBJ", "mod": [], "weight": 0.711982}, 
+                {"id": 4, "text": "거쳐", "head": 9, "label": "VP", "mod": [2, 3], "weight": 0.340072}, 
+                {"id": 5, "text": "이", "head": 6, "label": "DP", "mod": [], "weight": 0.793407}, 
+                {"id": 6, "text": "지역에", "head": 9, "label": "NP_AJT", "mod": [5], "weight": 0.5661}, 
+                {"id": 7, "text": "거대한", "head": 8, "label": "VP_MOD", "mod": [], "weight": 0.727113}, 
+                {"id": 8, "text": "호수가", "head": 9, "label": "NP_SBJ", "mod": [7], "weight": 0.793126}, 
+                {"id": 9, "text": "형성된", "head": 10, "label": "VP_MOD", "mod": [4, 6, 8], "weight": 0.815542}, 
+                {"id": 10, "text": "후,", "head": 15, "label": "NP_AJT", "mod": [9], "weight": 0.496783}, 
+                {"id": 11, "text": "오랜", "head": 12, "label": "DP", "mod": [], "weight": 0.50073}, 
+                {"id": 12, "text": "세월", "head": 13, "label": "NP", "mod": [11], "weight": 0.747965}, 
+                {"id": 13, "text": "동안", "head": 15, "label": "NP_AJT", "mod": [12], "weight": 0.782505}, 
+                {"id": 14, "text": "물은", "head": 15, "label": "NP_SBJ", "mod": [], "weight": 0.176635}, 
+                {"id": 15, "text": "증발하면서", "head": 16, "label": "VP", "mod": [10, 13, 14], "weight": 0.646406}, 
+                {"id": 16, "text": "형성된", "head": 17, "label": "VP_MOD", "mod": [15], "weight": 0.778398}, 
+                {"id": 17, "text": "소금사막이다.", "head": -1, "label": "VNP", "mod": [16], "weight": 0.000188549}
+            ], 
+            "SRL": [
+                {"verb": "솟아오르", "sense": 2, "word_id": 1, "weight": 0.146113, "argument": [
+                    {"type": "ARGM-CAU", "word_id": 0, "text": "지각변동으로", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 2, "text": "바다가", "weight": 0.21844}
+                ]}, 
+                {"verb": "거치", "sense": 1, "word_id": 4, "weight": 0.199315, "argument": [
+                    {"type": "ARG1", "word_id": 2, "text": "바다가", "weight": 0.103261}, 
+                    {"type": "ARG2", "word_id": 3, "text": "빙하기를", "weight": 0.295369}
+                ]}, 
+                {"verb": "거대", "sense": 1, "word_id": 7, "weight": 0.493397, "argument": [
+                    {"type": "ARG1", "word_id": 8, "text": "호수가", "weight": 0.493397}
+                ]}, 
+                {"verb": "형성", "sense": 1, "word_id": 9, "weight": 0.213571, "argument": [
+                    {"type": "ARGM-LOC", "word_id": 6, "text": "지역에", "weight": 0.142698}, 
+                    {"type": "ARG1", "word_id": 8, "text": "호수가", "weight": 0.284445}
+                ]}, 
+                {"verb": "증발", "sense": 1, "word_id": 15, "weight": 0.235777, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 10, "text": "후,", "weight": 0.26724}, 
+                    {"type": "ARGM-TMP", "word_id": 13, "text": "동안", "weight": 0.161445}, 
+                    {"type": "ARG1", "word_id": 14, "text": "물은", "weight": 0.278646}
+                ]}, 
+                {"verb": "형성", "sense": 1, "word_id": 16, "weight": 0.116254, "argument": [
+                    {"type": "ARG1", "word_id": 17, "text": "소금사막이다.", "weight": 0.116254}, 
+                    {"type": "ARGM-CAU", "word_id": 15, "text": "증발하면서", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "볼리비아에 위치한 세계 최대의 이 소금사막은?", 
+            "morp": [
+                {"id": 0, "lemma": "볼리비아", "type": "NNP", "position": 187, "weight": 0.9}, 
+                {"id": 1, "lemma": "에", "type": "JKB", "position": 199, "weight": 0.0823628}, 
+                {"id": 2, "lemma": "위치", "type": "NNG", "position": 203, "weight": 0.207864}, 
+                {"id": 3, "lemma": "하", "type": "XSV", "position": 209, "weight": 0.0001}, 
+                {"id": 4, "lemma": "ㄴ", "type": "ETM", "position": 209, "weight": 0.392321}, 
+                {"id": 5, "lemma": "세계", "type": "NNG", "position": 213, "weight": 0.9}, 
+                {"id": 6, "lemma": "최대", "type": "NNG", "position": 220, "weight": 0.9}, 
+                {"id": 7, "lemma": "의", "type": "JKG", "position": 226, "weight": 0.0694213}, 
+                {"id": 8, "lemma": "이", "type": "MM", "position": 230, "weight": 0.00105968}, 
+                {"id": 9, "lemma": "소금", "type": "NNG", "position": 234, "weight": 0.73685}, 
+                {"id": 10, "lemma": "사막", "type": "NNG", "position": 240, "weight": 0.9}, 
+                {"id": 11, "lemma": "은", "type": "JX", "position": 246, "weight": 0.0449928}, 
+                {"id": 12, "lemma": "?", "type": "SF", "position": 249, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "볼리비아", "type": "NNP", "scode": "000000", "weight": 1, "position": 187, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 199, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "위치하", "type": "VV", "scode": "000000", "weight": 1, "position": 203, "begin": 2, "end": 3}, 
+                {"id": 3, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 209, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "세계", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 213, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "최대", "type": "NNG", "scode": "000000", "weight": 1, "position": 220, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 226, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 230, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "소금", "type": "NNG", "scode": "010001", "weight": 0.1, "position": 234, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "사막", "type": "NNG", "scode": "040000", "weight": 0.166667, "position": 240, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 246, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 249, "begin": 12, "end": 12}
+            ], 
+            "word": [
+                {"id": 0, "text": "볼리비아에", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "위치한", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "세계", "type": "", "begin": 5, "end": 5}, 
+                {"id": 3, "text": "최대의", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "이", "type": "", "begin": 8, "end": 8}, 
+                {"id": 5, "text": "소금사막은?", "type": "", "begin": 9, "end": 12}
+            ], 
+            "NE": [
+                {"id": 0, "text": "볼리비아", "type": "LCP_COUNTRY", "begin": 0, "end": 0, "weight": 0.487185, "common_noun": 0}, 
+                {"id": 1, "text": "소금", "type": "CV_FOOD", "begin": 9, "end": 9, "weight": 0.342492, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "볼리비아에", "head": 1, "label": "NP_AJT", "mod": [], "weight": 0.832734}, 
+                {"id": 1, "text": "위치한", "head": 5, "label": "VP_MOD", "mod": [0], "weight": 0.783875}, 
+                {"id": 2, "text": "세계", "head": 3, "label": "NP", "mod": [], "weight": 0.778425}, 
+                {"id": 3, "text": "최대의", "head": 5, "label": "NP_MOD", "mod": [2], "weight": 0.726119}, 
+                {"id": 4, "text": "이", "head": 5, "label": "DP", "mod": [], "weight": 0.783656}, 
+                {"id": 5, "text": "소금사막은?", "head": -1, "label": "NP_SBJ", "mod": [1, 3, 4], "weight": 0.167036}
+            ], 
+            "SRL": [
+                {"verb": "위치", "sense": 1, "word_id": 1, "weight": 0.155032, "argument": [
+                    {"type": "ARG2", "word_id": 0, "text": "볼리비아에", "weight": 0.139977}, 
+                    {"type": "ARG1", "word_id": 5, "text": "소금사막은?", "weight": 0.170086}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "지각변동으로 솟아올랐던 바다가", "start_eid_short": 2, "end_eid_short": 2, "text_short": "바다가"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "지각변동으로", "start_eid_short": 0, "end_eid_short": 0, "text_short": "지각변동으로"}
+        ]}, 
+        {"id": 2, "type": "DT_GEOAGE", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 3, "end_eid": 3, "ne_id": 0, "text": "빙하기를", "start_eid_short": 3, "end_eid_short": 3, "text_short": "빙하기를"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 6, "ne_id": -1, "text": "이 지역에", "start_eid_short": 5, "end_eid_short": 6, "text_short": "이 지역에"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 7, "end_eid": 8, "ne_id": -1, "text": "거대한 호수가", "start_eid_short": 8, "end_eid_short": 8, "text_short": "호수가"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 11, "end_eid": 12, "ne_id": -1, "text": "오랜 세월", "start_eid_short": 11, "end_eid_short": 12, "text_short": "오랜 세월"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 11, "end_eid": 13, "ne_id": -1, "text": "오랜 세월 동안", "start_eid_short": 11, "end_eid_short": 13, "text_short": "오랜 세월 동안"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 14, "end_eid": 14, "ne_id": -1, "text": "물은", "start_eid_short": 14, "end_eid_short": 14, "text_short": "물은"}
+        ]}, 
+        {"id": 8, "type": "CV_FOOD", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 17, "ne_id": 1, "text": "지각변동으로 솟아올랐던 바다가 빙하기를 거쳐 이 지역에 거대한 호수가 형성된 후, 오랜 세월 동안 물은 증발하면서 형성된 소금사막이다.", "start_eid_short": 17, "end_eid_short": 17, "text_short": "소금사막이다."}, 
+            {"id": 12, "sent_id": 1, "start_eid": 4, "end_eid": 5, "ne_id": 1, "text": "이 소금사막은?", "start_eid_short": 5, "end_eid_short": 5, "text_short": "소금사막은?"}
+        ]}, 
+        {"id": 9, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "볼리비아에", "start_eid_short": 0, "end_eid_short": 0, "text_short": "볼리비아에"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 2, "end_eid": 3, "ne_id": -1, "text": "세계 최대의", "start_eid_short": 2, "end_eid_short": 3, "text_short": "세계 최대의"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "세계", "start_eid_short": 2, "end_eid_short": 2, "text_short": "세계"}
+        ]}
+    ]
+}

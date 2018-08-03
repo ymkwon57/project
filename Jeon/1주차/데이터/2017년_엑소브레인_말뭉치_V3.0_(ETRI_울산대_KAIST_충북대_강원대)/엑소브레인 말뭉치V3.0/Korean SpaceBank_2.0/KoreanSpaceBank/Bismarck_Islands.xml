@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+비스마르크 군도는 남태평양 멜라네시아의 섬이다. 1942년 일본군은 재 빨리 선수(船首)를 남으로 돌려 뉴기니아, 캐롤라인 제도, 비스마르크 군도, 길버트 제도등 남태평양을 손 쉽게 장악했다. 맥아더 장군의 남서태평양 해역군은 동부 뉴기니아를 장악하고, 바야흐로 비스마르크 군도와 일본군의 대기지 라바울이 있는 뉴브리튼 섬에 상륙할 채비를 갖추었다. 통가 군도에서 북쪽으로 사모아 군도까지 올라와, 북서쪽으로 솔로몬 군도와 비스마르크 군도 쪽으로 올라가는 지역은 태평양 지판과 인도-오스트레일리아 지판이 만나는 경계 지역이다.
+관용의 제스처로 1885년 비스마르크는 태평양에 있는 캐롤라인 군도를 둘러싼 독일과 에스파냐의 갈등에서 중재 역할을 교황청에 제안했다.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="9" text="비스마르크 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="11" end="15" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="16" end="21" text="멜라네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="23" end="24" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="59" end="63" text="뉴기니아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="65" end="72" text="캐롤라인 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="74" end="82" text="비스마르크 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="84" end="90" text="길버트 제도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="131" end="135" text="뉴기니아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="148" end="156" text="비스마르크 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="163" end="166" text="대기지" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="167" end="170" text="라바울" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="175" end="181" text="뉴브리튼 섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="197" end="202" text="통가 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="210" end="216" text="사모아 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="230" end="236" text="솔로몬 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="238" end="246" text="비스마르크 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="256" end="258" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="260" end="266" text="태평양 지판" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="318" end="321" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="326" end="333" text="캐롤라인 군도" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="92" end="96" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="197" />
+<PLACE id="pl27" start="-1" end="-1" text=" " type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="27" />
+<PLACE id="pl31" start="-1" end="-1" text=" " type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="109" />
+<PLACE id="pl29" start="117" end="122" text="남서태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="287" end="292" text="경계 지역" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="311" end="316" text="비스마르크" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="268" end="281" text="인도-오스트레일리아 지판" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="123" end="126" text="해역군" type="PERSON" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="-1" end="-1" text="" type="PERSON" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="197" />
+<MOTION id="m2" start="219" end="222" text="올라와" domain="" latLong="" elevation="" motion_type="PATH" motion_class="DEVIATE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="251" end="254" text="올라가" domain="" latLong="" elevation="" motion_type="PATH" motion_class="DEVIATE" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="183" end="186" text="상륙할" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s3" start="205" end="207" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="224" end="227" text="북서쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="321" end="322" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="247" end="248" text="쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="128" end="130" text="동부" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="21" end="22" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="283" end="285" text="만나" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms1" start="181" end="182" text="에" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="202" end="204" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="216" end="218" text="까지" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="248" end="250" text="으로" motion_signal_type="PATH" comment="" />
+<SENTENCE id="sent0" start="1" end="27" text="비스마르크 군도는 남태평양 멜라네시아의 섬이다." comment="" />
+<SENTENCE id="sent1" start="28" end="108" text="1942년 일본군은 재 빨리 선수(船首)를 남으로 돌려 뉴기니아, 캐롤라인 제도, 비스마르크 군도, 길버트 제도등 남태평양을 손 쉽게 장악했다." comment="" />
+<SENTENCE id="sent2" start="109" end="196" text="맥아더 장군의 남서태평양 해역군은 동부 뉴기니아를 장악하고, 바야흐로 비스마르크 군도와 일본군의 대기지 라바울이 있는 뉴브리튼 섬에 상륙할 채비를 갖추었다." comment="" />
+<SENTENCE id="sent3" start="197" end="295" text="통가 군도에서 북쪽으로 사모아 군도까지 올라와, 북서쪽으로 솔로몬 군도와 비스마르크 군도 쪽으로 올라가는 지역은 태평양 지판과 인도-오스트레일리아 지판이 만나는 경계 지역이다." comment="" />
+<SENTENCE id="sent4" start="296" end="371" text="관용의 제스처로 1885년 비스마르크는 태평양에 있는 캐롤라인 군도를 둘러싼 독일과 에스파냐의 갈등에서 중재 역할을 교황청에 제안했다." comment="" />
+<QSLINK id="qsl0" fromID="pl3" fromText="섬" toID="pl2" toText="멜라네시아" relType="IN" trajector="pl3" landmark="pl2" trigger="s0" comment="" />
+<QSLINK id="qsl2" fromID="pl24" fromText="캐롤라인 군도" toID="pl20" toText="태평양" relType="NTPP" trajector="pl24" landmark="pl20" trigger="s5" comment="" />
+<QSLINK id="qsl3" fromID="pl19" fromText="태평양 지판" toID="pl34" toText="인도-오스트레일리아 지판" relType="EC" trajector="pl19" landmark="pl34" trigger="s1" comment="" />
+<QSLINK id="qsl4" fromID="pl30" fromText="경계 지역" toID="pl34" toText="인도-오스트레일리아 지판" relType="PO" trajector="pl30" landmark="pl34" trigger="s1" comment="" />
+<QSLINK id="qsl5" fromID="pl30" fromText="경계 지역" toID="pl19" toText="태평양 지판" relType="PO" trajector="pl30" landmark="pl19" trigger="s1" comment="" />
+<OLINK id="ol0" fromID="pl13" fromText="통가 군도" toID="pl14" toText="사모아 군도" relType="북" trajector="pl14" landmark="pl13" trigger="s3" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl14" fromText="사모아 군도" toID="pl15" toText="솔로몬 군도" relType="북서" trajector="pl15" landmark="pl14" trigger="s4" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl14" fromText="사모아 군도" toID="pl16" toText="비스마르크 군도" relType="북서" trajector="pl16" landmark="pl14" trigger="s4" frame_type="ABSOLUTE" referencePt="북서" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="pl8" fromText="뉴기니아" toID="pl31" toText=" " relType="동" trajector="pl8" landmark="pl31" trigger="s9" frame_type="ABSOLUTE" referencePt="동" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl18" fromText="지역" toID="pl16" toText="비스마르크 군도" relType="pl16" trajector="pl18" landmark="pl16" trigger="s2" frame_type="RELATIVE" referencePt="pl16" projective="FALSE" comment="" />
+<OLINK id="ol6" fromID="pl18" fromText="지역" toID="pl15" toText="솔로몬 군도" relType="pl15" trajector="pl18" landmark="pl15" trigger="s2" frame_type="RELATIVE" referencePt="pl15" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="se1" fromText="해역군" toID="pl12" toText="뉴브리튼 섬" trigger="m0" source="" goal="pl12" midPoint="" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl1" fromID="se2" fromText="" toID="pl14" toText="사모아 군도" trigger="m2" source="pl13" goal="pl14" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2,ms3" comment="" />
+<MOVELINK id="mvl3" fromID="pl18" fromText="지역" toID="pl16" toText="비스마르크 군도" trigger="m3" source="" goal="pl16" midPoint="" mover="pl18" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms4" comment="" />
+<MOVELINK id="mvl4" fromID="pl18" fromText="지역" toID="pl15" toText="솔로몬 군도" trigger="m3" source="" goal="pl15" midPoint="" mover="pl18" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms4" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

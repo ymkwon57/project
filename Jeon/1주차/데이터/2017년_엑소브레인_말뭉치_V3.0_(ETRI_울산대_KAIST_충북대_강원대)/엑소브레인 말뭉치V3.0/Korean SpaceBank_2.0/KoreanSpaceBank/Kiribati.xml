@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+투발루는 태평양 중서부에 있는 9개의 섬으로 이루어진 입헌군주국이다. 투발루(Tuvalu)는 폴리네시아에 있는 섬나라이며, 키리바시, 사모아, 피지와 가깝다. 바티칸 시국을 제외하면 세계에서 가장 적은 인구를 가진 독립국이다. 남태평양 피지에서 북쪽으로 1,000km, 9개의 섬들로 구성되있는 인구 1만1천여명의 작은 산호초 섬의 나라 투발루, 평균 해발고도 2m미만이다. 남태평양 한가운데, 피지에서 북쪽으로 1,100킬로미터, 키리바시 남쪽으로 250킬로미터 떨어져 있다. 투발루의 주도 푸나푸티는 산호초섬이다.
+일주일에 단두 번, 피지에서 투발루로 향하는 비행기가 투발루와 외부 세계를 연결하는 유일한 교통수단이다. 그런 투발루 공화국이 지도상에서 사라질 위기에 처했다. 수도인 푸나푸티는 침수한 상태이다. 남태평양의 작은 섬나라 투발루에서는 거대한 파도에 휩쓸리지 않기 위한 준비에 모든 것을 걸고있다. 도로는 물론 집이나 공항에도 바닷물이 들어왔다. 드문 일이 아니다.
+가라앉는 섬 투발루 남태평양 적도 부근에 있는 투발루는 기후 변화에 따른 해수면 상승으로 피해를 보고 있다. 바닷물에 쓸린 쓰레기와 폐목들이 어지럽게 쌓여 있다. 지구 온난화로 인한 해수면 상승 때문에 국토가 물에 잠겨 사라진다며 세계에 지원을 호소하던 투발루의 주장에 의문을 제기하는 연구결과가 나왔다.
+화려한 문화와 문명을 꽃 피우던 기원저 9500년의 고대국가가 어느날 심한 지진과 화산활동으로 하루 밤낮 사이에 바닷속으로 가라앉고 말았다
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="4" text="투발루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="6" end="9" text="태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="22" end="23" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="31" end="36" text="입헌군주국" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="40" end="43" text="투발루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="53" end="58" text="폴리네시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="63" end="66" text="섬나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="70" end="74" text="키리바시" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="76" end="79" text="사모아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="81" end="83" text="피지" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="90" end="96" text="바티칸 시국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="128" end="132" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="133" end="135" text="피지" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="156" end="158" text="섬들" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="184" end="185" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="190" end="193" text="투발루" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me2" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="222" end="224" text="피지" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="243" end="247" text="키리바시" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="269" end="272" text="투발루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="274" end="276" text="주도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="277" end="281" text="푸나푸티" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="283" end="287" text="산호초섬" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="302" end="304" text="피지" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="307" end="310" text="투발루" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="321" end="324" text="투발루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="381" end="383" text="수도" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="385" end="389" text="푸나푸티" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="401" end="405" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="410" end="413" text="섬나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="작은" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="414" end="417" text="투발루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="501" end="504" text="투발루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="520" end="523" text="투발루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="607" end="609" text="국토" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="636" end="639" text="투발루" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="728" end="731" text="바닷속" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="505" end="509" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="211" />
+<PLACE id="pl18" start="211" end="215" text="남태평양" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="353" end="360" text="투발루 공화국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="329" end="331" text="세계" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="456" end="458" text="도로" beginID="" endID="" midIDs="" type="ROAD" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p5" start="510" end="512" text="적도" beginID="" endID="" midIDs="" type="LANE" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="316" end="319" text="비행기" type="VEHICLE" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="472" end="475" text="바닷물" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="499" end="500" text="섬" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="694" end="698" text="고대국가" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se6" start="463" end="464" text="집" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se7" start="467" end="469" text="공항" type="FAC" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="312" end="314" text="향하" domain="" latLong="" elevation="" motion_type="PATH" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="477" end="480" text="들어왔" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="494" end="497" text="가라앉" domain="" latLong="" elevation="" motion_type="PATH" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m7" start="734" end="737" text="가라앉" domain="" latLong="" elevation="" motion_type="PATH" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="58" end="59" text="에" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="138" end="140" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="216" end="220" text="한가운데" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="227" end="229" text="북쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="248" end="250" text="남쪽" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="261" end="264" text="떨어져" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="10" end="14" text="중서부에" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s6" start="272" end="273" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="405" end="406" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="304" end="306" text="에서" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="310" end="311" text="로" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="469" end="471" text="에도" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="731" end="733" text="으로" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="85" end="87" text="가깝" value="NEAR" unit="" comment="" />
+<MEASURE id="me1" start="143" end="150" text="1,000km" value="1000" unit="km" comment="" />
+<MEASURE id="me3" start="232" end="241" text="1,100킬로미터" value="1100" unit="km" comment="" />
+<MEASURE id="me4" start="253" end="260" text="250킬로미터" value="250" unit="km" comment="" />
+<MEASURE id="me2" start="203" end="207" text="2m미만" value="2" unit="m" comment="" />
+<MEASURE id="me5" start="513" end="515" text="부근" value="부근" unit="" comment="" />
+<SENTENCE id="sent0" start="1" end="39" text="투발루는 태평양 중서부에 있는 9개의 섬으로 이루어진 입헌군주국이다." comment="" />
+<SENTENCE id="sent1" start="40" end="89" text="투발루(Tuvalu)는 폴리네시아에 있는 섬나라이며, 키리바시, 사모아, 피지와 가깝다." comment="" />
+<SENTENCE id="sent2" start="90" end="127" text="바티칸 시국을 제외하면 세계에서 가장 적은 인구를 가진 독립국이다." comment="" />
+<SENTENCE id="sent3" start="128" end="210" text="남태평양 피지에서 북쪽으로 1,000km, 9개의 섬들로 구성되있는 인구 1만1천여명의 작은 산호초 섬의 나라 투발루, 평균 해발고도 2m미만이다." comment="" />
+<SENTENCE id="sent4" start="211" end="268" text="남태평양 한가운데, 피지에서 북쪽으로 1,100킬로미터, 키리바시 남쪽으로 250킬로미터 떨어져 있다." comment="" />
+<SENTENCE id="sent5" start="269" end="290" text="투발루의 주도 푸나푸티는 산호초섬이다." comment="" />
+<SENTENCE id="sent6" start="291" end="349" text="일주일에 단두 번, 피지에서 투발루로 향하는 비행기가 투발루와 외부 세계를 연결하는 유일한 교통수단이다." comment="" />
+<SENTENCE id="sent7" start="350" end="380" text="그런 투발루 공화국이 지도상에서 사라질 위기에 처했다." comment="" />
+<SENTENCE id="sent8" start="381" end="400" text="수도인 푸나푸티는 침수한 상태이다." comment="" />
+<SENTENCE id="sent9" start="401" end="455" text="남태평양의 작은 섬나라 투발루에서는 거대한 파도에 휩쓸리지 않기 위한 준비에 모든 것을 걸고있다." comment="" />
+<SENTENCE id="sent10" start="456" end="482" text="도로는 물론 집이나 공항에도 바닷물이 들어왔다." comment="" />
+<SENTENCE id="sent11" start="483" end="493" text="드문 일이 아니다." comment="" />
+<SENTENCE id="sent12" start="494" end="554" text="가라앉는 섬 투발루 남태평양 적도 부근에 있는 투발루는 기후 변화에 따른 해수면 상승으로 피해를 보고 있다." comment="" />
+<SENTENCE id="sent13" start="555" end="584" text="바닷물에 쓸린 쓰레기와 폐목들이 어지럽게 쌓여 있다." comment="" />
+<SENTENCE id="sent14" start="585" end="664" text="지구 온난화로 인한 해수면 상승 때문에 국토가 물에 잠겨 사라진다며 세계에 지원을 호소하던 투발루의 주장에 의문을 제기하는 연구결과가 나왔다." comment="" />
+<SENTENCE id="sent15" start="665" end="742" text="화려한 문화와 문명을 꽃 피우던 기원저 9500년의 고대국가가 어느날 심한 지진과 화산활동으로 하루 밤낮 사이에 바닷속으로 가라앉고 말았다" comment="" />
+<QSLINK id="qsl0" fromID="pl5" fromText="폴리네시아" toID="pl6" toText="섬나라" relType="IN" trajector="pl6" landmark="pl5" trigger="s1" comment="" />
+<QSLINK id="qsl1" fromID="pl18" fromText="남태평양" toID="s3" toText="한가운데" relType="NTPP" trajector="pl44" landmark="pl18" trigger="s3" comment="" />
+<QSLINK id="qsl3" fromID="pl32" fromText="남태평양" toID="pl33" toText="섬나라" relType="NTPP" trajector="pl33" landmark="pl32" trigger="s7" comment="" />
+<QSLINK id="qsl6" fromID="pl44" fromText="" toID="pl19" toText="피지" relType="DC" trajector="pl44" landmark="pl19" trigger="s0" comment="" />
+<QSLINK id="qsl7" fromID="pl44" fromText="" toID="pl20" toText="키리바시" relType="DC" trajector="pl44" landmark="pl20" trigger="s0" comment="" />
+<QSLINK id="qsl13" fromID="pl23" fromText="푸나푸티" toID="pl21" toText="투발루" relType="IN" trajector="pl23" landmark="pl21" trigger="s6" comment="" />
+<QSLINK id="qsl16" fromID="pl34" fromText="투발루" toID="pl32" toText="남태평양" relType="NTPP" trajector="pl34" landmark="pl32" trigger="s7" comment="" />
+<OLINK id="ol0" fromID="pl13" fromText="피지" toID="pl17" toText="투발루" relType="북" trajector="pl17" landmark="pl13" trigger="s2" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl44" fromText="" toID="s4" toText="북쪽" relType="북" trajector="pl44" landmark="pl19" trigger="s4" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl2" fromText="섬" toID="pl1" toText="태평양" relType="중서" trajector="pl2" landmark="pl1" trigger="s11" frame_type="ABSOLUTE" referencePt="중서" projective="FALSE" comment="" />
+<OLINK id="ol7" fromID="pl13" fromText="피지" toID="pl14" toText="섬들" relType="북" trajector="pl13" landmark="pl14" trigger="s2" frame_type="ABSOLUTE" referencePt="북" projective="FALSE" comment="" />
+<OLINK id="ol8" fromID="pl20" fromText="키리바시" toID="s5" toText="남쪽" relType="남" trajector="pl44" landmark="pl20" trigger="s5" frame_type="ABSOLUTE" referencePt="남" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="향하" toID="se0" toText="비행기" trigger="m0" source="pl25" goal="pl26" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms0,ms1" comment="" />
+<MOVELINK id="mvl1" fromID="se1" fromText="바닷물" toID="m2" toText="들어왔" trigger="m2" source="" goal="p3" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl2" fromID="m3" fromText="가라앉" toID="se2" toText="섬" trigger="m3" source="" goal="" midPoint="" mover="se2" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl5" fromID="se5" fromText="고대국가" toID="m7" toText="가라앉" trigger="m7" source="" goal="pl42" midPoint="" mover="se5" landmark="" goal_reached="YES" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl6" fromID="se1" fromText="바닷물" toID="m2" toText="들어왔" trigger="m2" source="" goal="se6" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl7" fromID="se1" fromText="바닷물" toID="m2" toText="들어왔" trigger="m2" source="" goal="se7" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+<MEASURELINK id="ml0" fromID="pl4" fromText="투발루" toID="pl7" toText="키리바시" trajector="pl4" landmark="pl7" relType="DISTANCE" val="me0" endPoint1="pl4" endPoint2="pl7" comment="" />
+<MEASURELINK id="ml1" fromID="pl4" fromText="투발루" toID="pl8" toText="사모아" trajector="pl4" landmark="pl8" relType="DISTANCE" val="me0" endPoint1="pl4" endPoint2="pl8" comment="" />
+<MEASURELINK id="ml2" fromID="pl4" fromText="투발루" toID="pl9" toText="피지" trajector="pl4" landmark="pl9" relType="DISTANCE" val="me0" endPoint1="pl4" endPoint2="pl9" comment="" />
+<MEASURELINK id="ml3" fromID="me1" fromText="1,000km" toID="pl17" toText="투발루" trajector="pl17" landmark="pl13" relType="DISTANCE" val="me1" endPoint1="pl17" endPoint2="pl13" comment="" />
+<MEASURELINK id="ml4" fromID="pl44" fromText="" toID="pl19" toText="피지" trajector="pl44" landmark="pl19" relType="DISTANCE" val="me3" endPoint1="pl44" endPoint2="pl19" comment="" />
+<MEASURELINK id="ml5" fromID="pl44" fromText="" toID="pl20" toText="키리바시" trajector="pl44" landmark="pl20" relType="DISTANCE" val="me4" endPoint1="pl44" endPoint2="pl20" comment="" />
+<MEASURELINK id="ml6" fromID="pl17" fromText="투발루" toID="me2" toText="2m미만" trajector="pl17" landmark="pl17" relType="HEIGHT" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml7" fromID="pl6" fromText="섬나라" toID="pl7" toText="키리바시" trajector="pl6" landmark="pl7" relType="DISTANCE" val="me0" endPoint1="pl6" endPoint2="pl7" comment="" />
+<MEASURELINK id="ml8" fromID="pl6" fromText="섬나라" toID="pl8" toText="사모아" trajector="pl6" landmark="pl8" relType="DISTANCE" val="me0" endPoint1="pl6" endPoint2="pl8" comment="" />
+<MEASURELINK id="ml9" fromID="pl6" fromText="섬나라" toID="pl9" toText="피지" trajector="pl6" landmark="pl9" relType="DISTANCE" val="me0" endPoint1="pl6" endPoint2="pl9" comment="" />
+<MEASURELINK id="ml10" fromID="pl38" fromText="투발루" toID="p5" toText="적도" trajector="pl38" landmark="p5" relType="DISTANCE" val="me5" endPoint1="" endPoint2="" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

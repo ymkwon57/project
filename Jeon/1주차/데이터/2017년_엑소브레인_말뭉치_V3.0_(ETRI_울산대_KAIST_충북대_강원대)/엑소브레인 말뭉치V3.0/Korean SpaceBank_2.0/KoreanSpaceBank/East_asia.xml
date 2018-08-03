@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2.1>
+<TEXT><![CDATA[
+동아시아는 아시아의 문화와 지리학적인 영역이다.
+
+나라와 지역
+중국 - 동아시아의 깨어나는 거인 거대한 문화적인 유산
+홍콩 - 이전의 영국의 식민지 이제는 아시아 세계도시로 선언 쇼핑, 해변과 차가없는 섬의 마을.
+마카오 - 이전의 포르투갈 식민지
+일본 - 진보된 기술과 마천루를 지닌 가장 현대적인 국가; 사무라이, 닌자, 젠, 스시, 헬로키티, 포케몬,닌텐도의 제국
+몽골 - 광활한 유목국가
+북조선 - 오웰의 악몽이 실현된다.
+대한민국 - 다이나믹한 여행의 미개척지
+타이완 - 섬과 산, 마천루와 좋은 음식
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="1" end="5" text="동아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="7" end="10" text="아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="22" end="24" text="영역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="29" end="31" text="나라" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="33" end="35" text="지역" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="36" end="38" text="중국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="41" end="45" text="동아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="67" end="69" text="홍콩" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="88" end="91" text="아시아" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="92" end="96" text="세계도시" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="114" end="115" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="117" end="119" text="마을" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="121" end="124" text="마카오" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="140" end="142" text="일본" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="208" end="210" text="몽골" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="222" end="225" text="북조선" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="242" end="246" text="대한민국" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="264" end="267" text="타이완" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="270" end="271" text="섬" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="273" end="274" text="산" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="105" end="107" text="해변" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="115" end="116" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="10" end="11" text="의" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SENTENCE id="sent0" start="1" end="27" text="동아시아는 아시아의 문화와 지리학적인 영역이다." comment="" />
+<SENTENCE id="sent1" start="29" end="35" text="나라와 지역" comment="" />
+<SENTENCE id="sent2" start="36" end="66" text="중국 - 동아시아의 깨어나는 거인 거대한 문화적인 유산" comment="" />
+<SENTENCE id="sent3" start="67" end="120" text="홍콩 - 이전의 영국의 식민지 이제는 아시아 세계도시로 선언 쇼핑, 해변과 차가없는 섬의 마을." comment="" />
+<SENTENCE id="sent4" start="121" end="139" text="마카오 - 이전의 포르투갈 식민지" comment="" />
+<SENTENCE id="sent5" start="140" end="172" text="일본 - 진보된 기술과 마천루를 지닌 가장 현대적인 국가;" comment="" />
+<SENTENCE id="sent6" start="173" end="207" text="사무라이, 닌자, 젠, 스시, 헬로키티, 포케몬,닌텐도의 제국" comment="" />
+<SENTENCE id="sent7" start="208" end="221" text="몽골 - 광활한 유목국가" comment="" />
+<SENTENCE id="sent8" start="222" end="241" text="북조선 - 오웰의 악몽이 실현된다." comment="" />
+<SENTENCE id="sent9" start="242" end="263" text="대한민국 - 다이나믹한 여행의 미개척지" comment="" />
+<SENTENCE id="sent10" start="264" end="287" text="타이완 - 섬과 산, 마천루와 좋은 음식 " comment="" />
+<QSLINK id="qsl0" fromID="pl13" fromText="마을" toID="pl12" toText="섬" relType="NTPP" trajector="pl13" landmark="pl12" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="pl2" fromText="영역" toID="pl1" toText="아시아" relType="NTPP" trajector="pl2" landmark="pl1" trigger="s1" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2.1>

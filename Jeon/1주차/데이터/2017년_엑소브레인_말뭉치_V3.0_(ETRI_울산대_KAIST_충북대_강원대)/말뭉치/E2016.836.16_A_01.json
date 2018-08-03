@@ -1,0 +1,109 @@
+{
+    "doc_id": "E2016.836.16_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "유로", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "유로(통화 기호: €; 코드: EUR)는 유럽 연합(EU)의 공식통화이다.", 
+            "morp": [
+                {"id": 0, "lemma": "유로", "type": "NNG", "position": 0, "weight": 0.377772}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 6, "weight": 1}, 
+                {"id": 2, "lemma": "통화", "type": "NNG", "position": 7, "weight": 0.9}, 
+                {"id": 3, "lemma": "기호", "type": "NNG", "position": 14, "weight": 0.158666}, 
+                {"id": 4, "lemma": ":", "type": "SP", "position": 20, "weight": 1}, 
+                {"id": 5, "lemma": "€", "type": "SW", "position": 22, "weight": 1}, 
+                {"id": 6, "lemma": ";", "type": "SW", "position": 25, "weight": 1}, 
+                {"id": 7, "lemma": "코드", "type": "NNG", "position": 27, "weight": 0.263864}, 
+                {"id": 8, "lemma": ":", "type": "SP", "position": 33, "weight": 1}, 
+                {"id": 9, "lemma": "EUR", "type": "SL", "position": 35, "weight": 1}, 
+                {"id": 10, "lemma": ")", "type": "SS", "position": 38, "weight": 1}, 
+                {"id": 11, "lemma": "는", "type": "JX", "position": 39, "weight": 0.00823314}, 
+                {"id": 12, "lemma": "유럽", "type": "NNP", "position": 43, "weight": 0.9}, 
+                {"id": 13, "lemma": "연합", "type": "NNG", "position": 50, "weight": 0.278684}, 
+                {"id": 14, "lemma": "(", "type": "SS", "position": 56, "weight": 1}, 
+                {"id": 15, "lemma": "EU", "type": "SL", "position": 57, "weight": 1}, 
+                {"id": 16, "lemma": ")", "type": "SS", "position": 59, "weight": 1}, 
+                {"id": 17, "lemma": "의", "type": "JKG", "position": 60, "weight": 0.0878251}, 
+                {"id": 18, "lemma": "공식", "type": "NNG", "position": 64, "weight": 0.9}, 
+                {"id": 19, "lemma": "통화", "type": "NNG", "position": 70, "weight": 0.9}, 
+                {"id": 20, "lemma": "이", "type": "VCP", "position": 76, "weight": 0.0177525}, 
+                {"id": 21, "lemma": "다", "type": "EF", "position": 79, "weight": 0.353579}, 
+                {"id": 22, "lemma": ".", "type": "SF", "position": 82, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "유로", "type": "NNG", "scode": "060000", "weight": 0.111111, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "통화", "type": "NNG", "scode": "030000", "weight": 0.166667, "position": 7, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "기호", "type": "NNG", "scode": "010000", "weight": 0.142857, "position": 14, "begin": 3, "end": 3}, 
+                {"id": 4, "text": ":", "type": "SP", "scode": "000000", "weight": 1, "position": 20, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "€", "type": "SW", "scode": "000000", "weight": 1, "position": 22, "begin": 5, "end": 5}, 
+                {"id": 6, "text": ";", "type": "SW", "scode": "000000", "weight": 1, "position": 25, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "코드", "type": "NNG", "scode": "020003", "weight": 0.125, "position": 27, "begin": 7, "end": 7}, 
+                {"id": 8, "text": ":", "type": "SP", "scode": "000000", "weight": 1, "position": 33, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "EUR", "type": "SL", "scode": "000000", "weight": 1, "position": 35, "begin": 9, "end": 9}, 
+                {"id": 10, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 38, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 39, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "유럽", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 43, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "연합", "type": "NNG", "scode": "030001", "weight": 0.2, "position": 50, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 56, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "EU", "type": "SL", "scode": "000000", "weight": 1, "position": 57, "begin": 15, "end": 15}, 
+                {"id": 16, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 59, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 60, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "공식", "type": "NNG", "scode": "010001", "weight": 0.166667, "position": 64, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "통화", "type": "NNG", "scode": "030000", "weight": 0.166667, "position": 70, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 76, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 79, "begin": 21, "end": 21}, 
+                {"id": 22, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 82, "begin": 22, "end": 22}
+            ], 
+            "word": [
+                {"id": 0, "text": "유로(통화", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "기호:", "type": "", "begin": 3, "end": 4}, 
+                {"id": 2, "text": "€;", "type": "", "begin": 5, "end": 6}, 
+                {"id": 3, "text": "코드:", "type": "", "begin": 7, "end": 8}, 
+                {"id": 4, "text": "EUR)는", "type": "", "begin": 9, "end": 11}, 
+                {"id": 5, "text": "유럽", "type": "", "begin": 12, "end": 12}, 
+                {"id": 6, "text": "연합(EU)의", "type": "", "begin": 13, "end": 17}, 
+                {"id": 7, "text": "공식통화이다.", "type": "", "begin": 18, "end": 22}
+            ], 
+            "NE": [
+                {"id": 0, "text": "유로", "type": "CV_CURRENCY", "begin": 0, "end": 0, "weight": 0.153482, "common_noun": 0}, 
+                {"id": 1, "text": "EUR", "type": "CV_CURRENCY", "begin": 9, "end": 9, "weight": 0.145516, "common_noun": 0}, 
+                {"id": 2, "text": "유럽 연합", "type": "OGG_POLITICS", "begin": 12, "end": 13, "weight": 0.947573, "common_noun": 0}, 
+                {"id": 3, "text": "EU", "type": "OGG_POLITICS", "begin": 15, "end": 15, "weight": 0.708544, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "유로(통화", "head": 1, "label": "NP", "mod": [], "weight": 0.919173}, 
+                {"id": 1, "text": "기호:", "head": 2, "label": "NP", "mod": [0], "weight": 0.0208139}, 
+                {"id": 2, "text": "€;", "head": 4, "label": "NP", "mod": [1], "weight": 0.165132}, 
+                {"id": 3, "text": "코드:", "head": 4, "label": "NP", "mod": [], "weight": 0.746245}, 
+                {"id": 4, "text": "EUR)는", "head": 7, "label": "NP_SBJ", "mod": [2, 3], "weight": 0.80873}, 
+                {"id": 5, "text": "유럽", "head": 6, "label": "NP", "mod": [], "weight": 0.835486}, 
+                {"id": 6, "text": "연합(EU)의", "head": 7, "label": "NP_MOD", "mod": [5], "weight": 0.78285}, 
+                {"id": 7, "text": "공식통화이다.", "head": -1, "label": "VNP", "mod": [4, 6], "weight": 0.00106538}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "CV_CURRENCY", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 4, "ne_id": 1, "text": "유로(통화 기호: €; 코드: EUR)는", "start_eid_short": 0, "end_eid_short": 0, "text_short": "유로(통화"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 5, "end_eid": 7, "ne_id": -1, "text": "유럽 연합(EU)의 공식통화이다.", "start_eid_short": 7, "end_eid_short": 7, "text_short": "공식통화이다."}
+        ]}, 
+        {"id": 1, "type": "OGG_POLITICS", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 5, "end_eid": 6, "ne_id": 2, "text": "유럽 연합(EU)의", "start_eid_short": 6, "end_eid_short": 6, "text_short": "연합(EU)의"}
+        ]}
+    ]
+}

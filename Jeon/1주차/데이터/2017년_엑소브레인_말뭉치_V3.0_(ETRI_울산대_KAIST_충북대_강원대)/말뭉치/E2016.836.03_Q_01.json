@@ -1,0 +1,109 @@
+{
+    "doc_id": "E2016.836.03_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "우리나라에서 경제자유구역(FEZ)이 설치된 지역이 아닌 곳은?", 
+            "morp": [
+                {"id": 0, "lemma": "우리", "type": "NNG", "position": 0, "weight": 0.00152766}, 
+                {"id": 1, "lemma": "나라", "type": "NNG", "position": 6, "weight": 0.184431}, 
+                {"id": 2, "lemma": "에서", "type": "JKB", "position": 12, "weight": 0.153407}, 
+                {"id": 3, "lemma": "경제", "type": "NNG", "position": 19, "weight": 0.208026}, 
+                {"id": 4, "lemma": "자유", "type": "NNG", "position": 25, "weight": 0.18468}, 
+                {"id": 5, "lemma": "구역", "type": "NNG", "position": 31, "weight": 0.9}, 
+                {"id": 6, "lemma": "(", "type": "SS", "position": 37, "weight": 1}, 
+                {"id": 7, "lemma": "FEZ", "type": "SL", "position": 38, "weight": 1}, 
+                {"id": 8, "lemma": ")", "type": "SS", "position": 41, "weight": 1}, 
+                {"id": 9, "lemma": "이", "type": "JKS", "position": 42, "weight": 0.00786134}, 
+                {"id": 10, "lemma": "설치", "type": "NNG", "position": 46, "weight": 0.154717}, 
+                {"id": 11, "lemma": "되", "type": "XSV", "position": 52, "weight": 0.000224177}, 
+                {"id": 12, "lemma": "ㄴ", "type": "ETM", "position": 52, "weight": 0.392321}, 
+                {"id": 13, "lemma": "지역", "type": "NNG", "position": 56, "weight": 0.9}, 
+                {"id": 14, "lemma": "이", "type": "JKC", "position": 62, "weight": 0.000287945}, 
+                {"id": 15, "lemma": "아니", "type": "VCN", "position": 66, "weight": 0.354175}, 
+                {"id": 16, "lemma": "ㄴ", "type": "ETM", "position": 69, "weight": 0.144018}, 
+                {"id": 17, "lemma": "곳", "type": "NNG", "position": 73, "weight": 0.658803}, 
+                {"id": 18, "lemma": "은", "type": "JX", "position": 76, "weight": 0.0449928}, 
+                {"id": 19, "lemma": "?", "type": "SF", "position": 79, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "우리나라", "type": "NNG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 12, "begin": 2, "end": 2}, 
+                {"id": 2, "text": "경제", "type": "NNG", "scode": "040001", "weight": 0.111111, "position": 19, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "자유", "type": "NNG", "scode": "030001", "weight": 0.142857, "position": 25, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "구역", "type": "NNG", "scode": "040001", "weight": 0.0666667, "position": 31, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 37, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "FEZ", "type": "SL", "scode": "000000", "weight": 1, "position": 38, "begin": 7, "end": 7}, 
+                {"id": 7, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 41, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 42, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "설치되", "type": "VV", "scode": "010000", "weight": 0.5, "position": 46, "begin": 10, "end": 11}, 
+                {"id": 10, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 52, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "지역", "type": "NNG", "scode": "030001", "weight": 0.2, "position": 56, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "이", "type": "JKC", "scode": "000000", "weight": 1, "position": 62, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "아니", "type": "VCN", "scode": "000001", "weight": 0.2, "position": 66, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 69, "begin": 16, "end": 16}, 
+                {"id": 15, "text": "곳", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 73, "begin": 17, "end": 17}, 
+                {"id": 16, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 76, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 79, "begin": 19, "end": 19}
+            ], 
+            "word": [
+                {"id": 0, "text": "우리나라에서", "type": "", "begin": 0, "end": 2}, 
+                {"id": 1, "text": "경제자유구역(FEZ)이", "type": "", "begin": 3, "end": 9}, 
+                {"id": 2, "text": "설치된", "type": "", "begin": 10, "end": 12}, 
+                {"id": 3, "text": "지역이", "type": "", "begin": 13, "end": 14}, 
+                {"id": 4, "text": "아닌", "type": "", "begin": 15, "end": 16}, 
+                {"id": 5, "text": "곳은?", "type": "", "begin": 17, "end": 19}
+            ], 
+            "NE": [
+                {"id": 0, "text": "경제자유구역", "type": "LC_OTHERS", "begin": 3, "end": 5, "weight": 0.0925602, "common_noun": 0}, 
+                {"id": 1, "text": "FEZ", "type": "LC_OTHERS", "begin": 7, "end": 7, "weight": 0.0925602, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "우리나라에서", "head": 2, "label": "NP_AJT", "mod": [], "weight": 0.497709}, 
+                {"id": 1, "text": "경제자유구역(FEZ)이", "head": 2, "label": "NP_SBJ", "mod": [], "weight": 0.593388}, 
+                {"id": 2, "text": "설치된", "head": 3, "label": "VP_MOD", "mod": [0, 1], "weight": 0.444823}, 
+                {"id": 3, "text": "지역이", "head": 4, "label": "NP_CMP", "mod": [2], "weight": 0.659191}, 
+                {"id": 4, "text": "아닌", "head": 5, "label": "VP_MOD", "mod": [3], "weight": 0.72446}, 
+                {"id": 5, "text": "곳은?", "head": -1, "label": "NP_SBJ", "mod": [4], "weight": 0.0334314}
+            ], 
+            "SRL": [
+                {"verb": "설치", "sense": 1, "word_id": 2, "weight": 0.165962, "argument": [
+                    {"type": "ARG2", "word_id": 0, "text": "우리나라에서", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 1, "text": "경제자유구역(FEZ)이", "weight": 0.251791}
+                ]}, 
+                {"verb": "아니", "sense": 1, "word_id": 4, "weight": 0.322962, "argument": [
+                    {"type": "ARG2", "word_id": 3, "text": "지역이", "weight": 0.322962}, 
+                    {"type": "ARG1", "word_id": 5, "text": "곳은?", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 5, "ne_id": -1, "text": "우리나라에서 경제자유구역(FEZ)이 설치된 지역이 아닌 곳은?", "start_eid_short": 5, "end_eid_short": 5, "text_short": "곳은?"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "우리나라에서 경제자유구역(FEZ)이 설치된 지역이", "start_eid_short": 3, "end_eid_short": 3, "text_short": "지역이"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "우리나라에서", "start_eid_short": 0, "end_eid_short": 0, "text_short": "우리나라에서"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "경제자유구역(FEZ)이", "start_eid_short": 1, "end_eid_short": 0, "text_short": ""}
+        ]}
+    ]
+}

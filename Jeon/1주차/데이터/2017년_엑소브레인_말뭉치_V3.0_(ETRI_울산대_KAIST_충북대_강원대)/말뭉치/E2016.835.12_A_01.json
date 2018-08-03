@@ -1,0 +1,525 @@
+{
+    "doc_id": "E2016.835.12_A_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "르네상스", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "르네상스(프랑스어: Renaissance, 이탈리아어: Rinascimento) 또는 문예 부흥(文藝復興), 학예 부흥(學藝復興)은 유럽 문명사에서 14세기부터 16세기 사이에 일어난 문예부흥 운동을 말한다.", 
+            "morp": [
+                {"id": 0, "lemma": "르네상스", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "(", "type": "SS", "position": 12, "weight": 1}, 
+                {"id": 2, "lemma": "프랑스", "type": "NNP", "position": 13, "weight": 0.0674443}, 
+                {"id": 3, "lemma": "어", "type": "XSN", "position": 22, "weight": 0.0001}, 
+                {"id": 4, "lemma": ":", "type": "SP", "position": 25, "weight": 1}, 
+                {"id": 5, "lemma": "Renaissance", "type": "SL", "position": 27, "weight": 1}, 
+                {"id": 6, "lemma": ",", "type": "SP", "position": 38, "weight": 1}, 
+                {"id": 7, "lemma": "이탈리아", "type": "NNP", "position": 40, "weight": 0.9}, 
+                {"id": 8, "lemma": "어", "type": "XSN", "position": 52, "weight": 0.0001}, 
+                {"id": 9, "lemma": ":", "type": "SP", "position": 55, "weight": 1}, 
+                {"id": 10, "lemma": "Rinascimento", "type": "SL", "position": 57, "weight": 1}, 
+                {"id": 11, "lemma": ")", "type": "SS", "position": 69, "weight": 1}, 
+                {"id": 12, "lemma": "또는", "type": "MAJ", "position": 71, "weight": 0.00307013}, 
+                {"id": 13, "lemma": "문예", "type": "NNG", "position": 78, "weight": 0.408857}, 
+                {"id": 14, "lemma": "부흥", "type": "NNG", "position": 85, "weight": 0.182809}, 
+                {"id": 15, "lemma": "(", "type": "SS", "position": 91, "weight": 1}, 
+                {"id": 16, "lemma": "文藝復興", "type": "SH", "position": 92, "weight": 1}, 
+                {"id": 17, "lemma": ")", "type": "SS", "position": 104, "weight": 1}, 
+                {"id": 18, "lemma": ",", "type": "SP", "position": 105, "weight": 1}, 
+                {"id": 19, "lemma": "학예", "type": "NNG", "position": 107, "weight": 0.9}, 
+                {"id": 20, "lemma": "부흥", "type": "NNG", "position": 114, "weight": 0.182809}, 
+                {"id": 21, "lemma": "(", "type": "SS", "position": 120, "weight": 1}, 
+                {"id": 22, "lemma": "學藝復興", "type": "SH", "position": 121, "weight": 1}, 
+                {"id": 23, "lemma": ")", "type": "SS", "position": 133, "weight": 1}, 
+                {"id": 24, "lemma": "은", "type": "JX", "position": 134, "weight": 0.0128817}, 
+                {"id": 25, "lemma": "유럽", "type": "NNP", "position": 138, "weight": 0.9}, 
+                {"id": 26, "lemma": "문명", "type": "NNG", "position": 145, "weight": 0.281829}, 
+                {"id": 27, "lemma": "사", "type": "XSN", "position": 151, "weight": 0.00634534}, 
+                {"id": 28, "lemma": "에서", "type": "JKB", "position": 154, "weight": 0.121718}, 
+                {"id": 29, "lemma": "14", "type": "SN", "position": 161, "weight": 1}, 
+                {"id": 30, "lemma": "세기", "type": "NNG", "position": 163, "weight": 0.100259}, 
+                {"id": 31, "lemma": "부터", "type": "JX", "position": 169, "weight": 0.0688504}, 
+                {"id": 32, "lemma": "16", "type": "SN", "position": 176, "weight": 1}, 
+                {"id": 33, "lemma": "세기", "type": "NNG", "position": 178, "weight": 0.100259}, 
+                {"id": 34, "lemma": "사이", "type": "NNG", "position": 185, "weight": 0.184827}, 
+                {"id": 35, "lemma": "에", "type": "JKB", "position": 191, "weight": 0.153364}, 
+                {"id": 36, "lemma": "일어나", "type": "VV", "position": 195, "weight": 0.9}, 
+                {"id": 37, "lemma": "ㄴ", "type": "ETM", "position": 201, "weight": 0.304215}, 
+                {"id": 38, "lemma": "문예", "type": "NNG", "position": 205, "weight": 0.651053}, 
+                {"id": 39, "lemma": "부흥", "type": "NNG", "position": 211, "weight": 0.182809}, 
+                {"id": 40, "lemma": "운동", "type": "NNG", "position": 218, "weight": 0.9}, 
+                {"id": 41, "lemma": "을", "type": "JKO", "position": 224, "weight": 0.129611}, 
+                {"id": 42, "lemma": "말", "type": "NNG", "position": 228, "weight": 0.0814073}, 
+                {"id": 43, "lemma": "하", "type": "XSV", "position": 231, "weight": 0.0001}, 
+                {"id": 44, "lemma": "ㄴ다", "type": "EF", "position": 231, "weight": 0.0449045}, 
+                {"id": 45, "lemma": ".", "type": "SF", "position": 237, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "르네상스", "type": "NNG", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 12, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "프랑스어", "type": "NNG", "scode": "000000", "weight": 1, "position": 13, "begin": 2, "end": 3}, 
+                {"id": 3, "text": ":", "type": "SP", "scode": "000000", "weight": 1, "position": 25, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "Renaissance", "type": "SL", "scode": "000000", "weight": 1, "position": 27, "begin": 5, "end": 5}, 
+                {"id": 5, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 38, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "이탈리아어", "type": "NNG", "scode": "000000", "weight": 1, "position": 40, "begin": 7, "end": 8}, 
+                {"id": 7, "text": ":", "type": "SP", "scode": "000000", "weight": 1, "position": 55, "begin": 9, "end": 9}, 
+                {"id": 8, "text": "Rinascimento", "type": "SL", "scode": "000000", "weight": 1, "position": 57, "begin": 10, "end": 10}, 
+                {"id": 9, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 69, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "또는", "type": "MAJ", "scode": "000000", "weight": 1, "position": 71, "begin": 12, "end": 12}, 
+                {"id": 11, "text": "문예", "type": "NNG", "scode": "010002", "weight": 0.2, "position": 78, "begin": 13, "end": 13}, 
+                {"id": 12, "text": "부흥", "type": "NNG", "scode": "000000", "weight": 1, "position": 85, "begin": 14, "end": 14}, 
+                {"id": 13, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 91, "begin": 15, "end": 15}, 
+                {"id": 14, "text": "文藝復興", "type": "SH", "scode": "000000", "weight": 1, "position": 92, "begin": 16, "end": 16}, 
+                {"id": 15, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 104, "begin": 17, "end": 17}, 
+                {"id": 16, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 105, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "학예", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 107, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "부흥", "type": "NNG", "scode": "000000", "weight": 1, "position": 114, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "(", "type": "SS", "scode": "000000", "weight": 1, "position": 120, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "學藝復興", "type": "SH", "scode": "000000", "weight": 1, "position": 121, "begin": 22, "end": 22}, 
+                {"id": 21, "text": ")", "type": "SS", "scode": "000000", "weight": 1, "position": 133, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 134, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "유럽", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 138, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "문명사", "type": "NNG", "scode": "000000", "weight": 1, "position": 145, "begin": 26, "end": 27}, 
+                {"id": 25, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 154, "begin": 28, "end": 28}, 
+                {"id": 26, "text": "14", "type": "SN", "scode": "000000", "weight": 1, "position": 161, "begin": 29, "end": 29}, 
+                {"id": 27, "text": "세기", "type": "NNG", "scode": "030002", "weight": 0.0909091, "position": 163, "begin": 30, "end": 30}, 
+                {"id": 28, "text": "부터", "type": "JX", "scode": "000000", "weight": 1, "position": 169, "begin": 31, "end": 31}, 
+                {"id": 29, "text": "16", "type": "SN", "scode": "000000", "weight": 1, "position": 176, "begin": 32, "end": 32}, 
+                {"id": 30, "text": "세기", "type": "NNG", "scode": "030002", "weight": 0.0909091, "position": 178, "begin": 33, "end": 33}, 
+                {"id": 31, "text": "사이", "type": "NNG", "scode": "010002", "weight": 0.0833333, "position": 185, "begin": 34, "end": 34}, 
+                {"id": 32, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 191, "begin": 35, "end": 35}, 
+                {"id": 33, "text": "일어나", "type": "VV", "scode": "000207", "weight": 0.0909091, "position": 195, "begin": 36, "end": 36}, 
+                {"id": 34, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 201, "begin": 37, "end": 37}, 
+                {"id": 35, "text": "문예부흥", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 205, "begin": 38, "end": 39}, 
+                {"id": 36, "text": "운동", "type": "NNG", "scode": "020002", "weight": 0.142857, "position": 218, "begin": 40, "end": 40}, 
+                {"id": 37, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 224, "begin": 41, "end": 41}, 
+                {"id": 38, "text": "말하", "type": "VV", "scode": "000101", "weight": 0.125, "position": 228, "begin": 42, "end": 43}, 
+                {"id": 39, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 231, "begin": 44, "end": 44}, 
+                {"id": 40, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 237, "begin": 45, "end": 45}
+            ], 
+            "word": [
+                {"id": 0, "text": "르네상스(프랑스어:", "type": "", "begin": 0, "end": 4}, 
+                {"id": 1, "text": "Renaissance,", "type": "", "begin": 5, "end": 6}, 
+                {"id": 2, "text": "이탈리아어:", "type": "", "begin": 7, "end": 9}, 
+                {"id": 3, "text": "Rinascimento)", "type": "", "begin": 10, "end": 11}, 
+                {"id": 4, "text": "또는", "type": "", "begin": 12, "end": 12}, 
+                {"id": 5, "text": "문예", "type": "", "begin": 13, "end": 13}, 
+                {"id": 6, "text": "부흥(文藝復興),", "type": "", "begin": 14, "end": 18}, 
+                {"id": 7, "text": "학예", "type": "", "begin": 19, "end": 19}, 
+                {"id": 8, "text": "부흥(學藝復興)은", "type": "", "begin": 20, "end": 24}, 
+                {"id": 9, "text": "유럽", "type": "", "begin": 25, "end": 25}, 
+                {"id": 10, "text": "문명사에서", "type": "", "begin": 26, "end": 28}, 
+                {"id": 11, "text": "14세기부터", "type": "", "begin": 29, "end": 31}, 
+                {"id": 12, "text": "16세기", "type": "", "begin": 32, "end": 33}, 
+                {"id": 13, "text": "사이에", "type": "", "begin": 34, "end": 35}, 
+                {"id": 14, "text": "일어난", "type": "", "begin": 36, "end": 37}, 
+                {"id": 15, "text": "문예부흥", "type": "", "begin": 38, "end": 39}, 
+                {"id": 16, "text": "운동을", "type": "", "begin": 40, "end": 41}, 
+                {"id": 17, "text": "말한다.", "type": "", "begin": 42, "end": 45}
+            ], 
+            "NE": [
+                {"id": 0, "text": "르네상스", "type": "EV_ACTIVITY", "begin": 0, "end": 0, "weight": 0.165793, "common_noun": 0}, 
+                {"id": 1, "text": "프랑스어", "type": "CV_LANGUAGE", "begin": 2, "end": 3, "weight": 0.572278, "common_noun": 0}, 
+                {"id": 2, "text": "Renaissance", "type": "EV_ACTIVITY", "begin": 5, "end": 5, "weight": 0.11817, "common_noun": 0}, 
+                {"id": 3, "text": "이탈리아어", "type": "CV_LANGUAGE", "begin": 7, "end": 8, "weight": 0.66319, "common_noun": 0}, 
+                {"id": 4, "text": "Rinascimento", "type": "EV_ACTIVITY", "begin": 10, "end": 10, "weight": 0.11817, "common_noun": 0}, 
+                {"id": 5, "text": "유럽", "type": "LCG_CONTINENT", "begin": 25, "end": 25, "weight": 0.34067, "common_noun": 0}, 
+                {"id": 6, "text": "14세기부터 16세기", "type": "DT_DURATION", "begin": 29, "end": 33, "weight": 0.630253, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "르네상스(프랑스어:", "head": 1, "label": "NP", "mod": [], "weight": 0.176453}, 
+                {"id": 1, "text": "Renaissance,", "head": 3, "label": "NP_CNJ", "mod": [0], "weight": 0.573096}, 
+                {"id": 2, "text": "이탈리아어:", "head": 3, "label": "NP", "mod": [], "weight": 0.777175}, 
+                {"id": 3, "text": "Rinascimento)", "head": 8, "label": "NP_CNJ", "mod": [1, 2], "weight": 0.191321}, 
+                {"id": 4, "text": "또는", "head": 8, "label": "AP", "mod": [], "weight": 0.16343}, 
+                {"id": 5, "text": "문예", "head": 6, "label": "NP", "mod": [], "weight": 0.795287}, 
+                {"id": 6, "text": "부흥(文藝復興),", "head": 8, "label": "NP_CNJ", "mod": [5], "weight": 0.59491}, 
+                {"id": 7, "text": "학예", "head": 8, "label": "NP", "mod": [], "weight": 0.766909}, 
+                {"id": 8, "text": "부흥(學藝復興)은", "head": 17, "label": "NP_SBJ", "mod": [6, 7, 3, 4], "weight": 0.799269}, 
+                {"id": 9, "text": "유럽", "head": 10, "label": "NP", "mod": [], "weight": 0.807466}, 
+                {"id": 10, "text": "문명사에서", "head": 14, "label": "NP_AJT", "mod": [9], "weight": 0.0340968}, 
+                {"id": 11, "text": "14세기부터", "head": 12, "label": "NP", "mod": [], "weight": 0.266539}, 
+                {"id": 12, "text": "16세기", "head": 13, "label": "NP", "mod": [11], "weight": 0.809851}, 
+                {"id": 13, "text": "사이에", "head": 14, "label": "NP_AJT", "mod": [12], "weight": 0.70489}, 
+                {"id": 14, "text": "일어난", "head": 16, "label": "VP_MOD", "mod": [10, 13], "weight": 0.73333}, 
+                {"id": 15, "text": "문예부흥", "head": 16, "label": "NP", "mod": [], "weight": 0.711116}, 
+                {"id": 16, "text": "운동을", "head": 17, "label": "NP_OBJ", "mod": [14, 15], "weight": 0.829717}, 
+                {"id": 17, "text": "말한다.", "head": -1, "label": "VP", "mod": [8, 16], "weight": 1.12381e-06}
+            ], 
+            "SRL": [
+                {"verb": "일어나", "sense": 1, "word_id": 14, "weight": 0.16096, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 13, "text": "사이에", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 16, "text": "운동을", "weight": 0.173452}, 
+                    {"type": "ARG2", "word_id": 10, "text": "문명사에서", "weight": 1}, 
+                    {"type": "ARGM-TMP", "word_id": 11, "text": "14세기부터", "weight": 1}
+                ]}, 
+                {"verb": "말하", "sense": 1, "word_id": 17, "weight": 0.129308, "argument": [
+                    {"type": "ARG1", "word_id": 8, "text": "부흥(學藝復興)은", "weight": 1}, 
+                    {"type": "ARG2", "word_id": 16, "text": "운동을", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "과학 혁명의 토대가 만들어져 중세를 근세와 이어주는 시기가 되었다.", 
+            "morp": [
+                {"id": 0, "lemma": "과학", "type": "NNG", "position": 238, "weight": 0.9}, 
+                {"id": 1, "lemma": "혁명", "type": "NNG", "position": 245, "weight": 0.9}, 
+                {"id": 2, "lemma": "의", "type": "JKG", "position": 251, "weight": 0.0694213}, 
+                {"id": 3, "lemma": "토대", "type": "NNG", "position": 255, "weight": 0.9}, 
+                {"id": 4, "lemma": "가", "type": "JKS", "position": 261, "weight": 0.066324}, 
+                {"id": 5, "lemma": "만들", "type": "VV", "position": 265, "weight": 0.9}, 
+                {"id": 6, "lemma": "어", "type": "EC", "position": 271, "weight": 0.41831}, 
+                {"id": 7, "lemma": "지", "type": "VX", "position": 274, "weight": 0.0539764}, 
+                {"id": 8, "lemma": "어", "type": "EC", "position": 274, "weight": 0.257443}, 
+                {"id": 9, "lemma": "중세", "type": "NNG", "position": 278, "weight": 0.9}, 
+                {"id": 10, "lemma": "를", "type": "JKO", "position": 284, "weight": 0.137686}, 
+                {"id": 11, "lemma": "근세", "type": "NNG", "position": 288, "weight": 0.9}, 
+                {"id": 12, "lemma": "와", "type": "JC", "position": 294, "weight": 0.0169714}, 
+                {"id": 13, "lemma": "잇", "type": "VV", "position": 298, "weight": 0.0205297}, 
+                {"id": 14, "lemma": "어", "type": "EC", "position": 301, "weight": 0.41831}, 
+                {"id": 15, "lemma": "주", "type": "VX", "position": 304, "weight": 0.161283}, 
+                {"id": 16, "lemma": "는", "type": "ETM", "position": 307, "weight": 0.183966}, 
+                {"id": 17, "lemma": "시기", "type": "NNG", "position": 311, "weight": 0.658437}, 
+                {"id": 18, "lemma": "가", "type": "JKC", "position": 317, "weight": 0.000442184}, 
+                {"id": 19, "lemma": "되", "type": "VV", "position": 321, "weight": 0.542406}, 
+                {"id": 20, "lemma": "었", "type": "EP", "position": 324, "weight": 0.9}, 
+                {"id": 21, "lemma": "다", "type": "EF", "position": 327, "weight": 0.640954}, 
+                {"id": 22, "lemma": ".", "type": "SF", "position": 330, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "과학", "type": "NNG", "scode": "000000", "weight": 1, "position": 238, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "혁명", "type": "NNG", "scode": "000003", "weight": 0.333333, "position": 245, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 251, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "토대", "type": "NNG", "scode": "000003", "weight": 0.333333, "position": 255, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 261, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "만들", "type": "VV", "scode": "000101", "weight": 0.0769231, "position": 265, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 271, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "지", "type": "VX", "scode": "040101", "weight": 0.037037, "position": 274, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 274, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "중세", "type": "NNG", "scode": "020000", "weight": 0.333333, "position": 278, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 284, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "근세", "type": "NNG", "scode": "010002", "weight": 0.2, "position": 288, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 294, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "잇", "type": "VV", "scode": "010100", "weight": 0.125, "position": 298, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 301, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "주", "type": "VX", "scode": "010300", "weight": 0.0714286, "position": 304, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 307, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "시기", "type": "NNG", "scode": "040000", "weight": 0.0666667, "position": 311, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "가", "type": "JKC", "scode": "000000", "weight": 1, "position": 317, "begin": 18, "end": 18}, 
+                {"id": 19, "text": "되", "type": "VV", "scode": "010103", "weight": 0.03125, "position": 321, "begin": 19, "end": 19}, 
+                {"id": 20, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 324, "begin": 20, "end": 20}, 
+                {"id": 21, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 327, "begin": 21, "end": 21}, 
+                {"id": 22, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 330, "begin": 22, "end": 22}
+            ], 
+            "word": [
+                {"id": 0, "text": "과학", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "혁명의", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "토대가", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "만들어져", "type": "", "begin": 5, "end": 8}, 
+                {"id": 4, "text": "중세를", "type": "", "begin": 9, "end": 10}, 
+                {"id": 5, "text": "근세와", "type": "", "begin": 11, "end": 12}, 
+                {"id": 6, "text": "이어주는", "type": "", "begin": 13, "end": 16}, 
+                {"id": 7, "text": "시기가", "type": "", "begin": 17, "end": 18}, 
+                {"id": 8, "text": "되었다.", "type": "", "begin": 19, "end": 22}
+            ], 
+            "NE": [
+                {"id": 0, "text": "중세", "type": "DT_DYNASTY", "begin": 9, "end": 9, "weight": 0.350798, "common_noun": 0}, 
+                {"id": 1, "text": "근세", "type": "DT_OTHERS", "begin": 11, "end": 11, "weight": 0.592143, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "과학", "head": 1, "label": "NP", "mod": [], "weight": 0.627912}, 
+                {"id": 1, "text": "혁명의", "head": 2, "label": "NP_MOD", "mod": [0], "weight": 0.771159}, 
+                {"id": 2, "text": "토대가", "head": 3, "label": "NP_SBJ", "mod": [1], "weight": 0.808011}, 
+                {"id": 3, "text": "만들어져", "head": 8, "label": "VP", "mod": [2], "weight": 0.66183}, 
+                {"id": 4, "text": "중세를", "head": 6, "label": "NP_OBJ", "mod": [], "weight": 0.550924}, 
+                {"id": 5, "text": "근세와", "head": 6, "label": "NP_AJT", "mod": [], "weight": 0.612996}, 
+                {"id": 6, "text": "이어주는", "head": 7, "label": "VP_MOD", "mod": [4, 5], "weight": 0.707287}, 
+                {"id": 7, "text": "시기가", "head": 8, "label": "NP_CMP", "mod": [6], "weight": 0.853534}, 
+                {"id": 8, "text": "되었다.", "head": -1, "label": "VP", "mod": [3, 7], "weight": 0.0405868}
+            ], 
+            "SRL": [
+                {"verb": "만들", "sense": 1, "word_id": 3, "weight": 0.15501, "argument": [
+                    {"type": "ARG1", "word_id": 2, "text": "토대가", "weight": 0.15501}
+                ]}, 
+                {"verb": "잇", "sense": 1, "word_id": 6, "weight": 0.139187, "argument": [
+                    {"type": "ARG2", "word_id": 4, "text": "중세를", "weight": 1}, 
+                    {"type": "ARG3", "word_id": 5, "text": "근세와", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 7, "text": "시기가", "weight": 0.1793}
+                ]}, 
+                {"verb": "되", "sense": 1, "word_id": 8, "weight": 0.255606, "argument": [
+                    {"type": "ARG2", "word_id": 7, "text": "시기가", "weight": 0.255606}, 
+                    {"type": "ARGM-CAU", "word_id": 3, "text": "만들어져", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 2, 
+            "reserve_str": "", 
+            "text": "여기서 문예부흥이란 구체적으로 14세기에서 시작하여 16세기 말에 유럽에서 일어난 문화, 예술 전반에 걸친 고대 그리스와 로마 문명의 재인식과 재수용을 의미한다.", 
+            "morp": [
+                {"id": 0, "lemma": "여기", "type": "NP", "position": 331, "weight": 0.050338}, 
+                {"id": 1, "lemma": "서", "type": "JKB", "position": 337, "weight": 0.0619114}, 
+                {"id": 2, "lemma": "문예", "type": "NNG", "position": 341, "weight": 0.205587}, 
+                {"id": 3, "lemma": "부흥", "type": "NNG", "position": 347, "weight": 0.182809}, 
+                {"id": 4, "lemma": "이", "type": "VCP", "position": 353, "weight": 0.0177525}, 
+                {"id": 5, "lemma": "란", "type": "ETM", "position": 356, "weight": 0.165137}, 
+                {"id": 6, "lemma": "구체", "type": "NNG", "position": 360, "weight": 0.9}, 
+                {"id": 7, "lemma": "적", "type": "XSN", "position": 366, "weight": 0.0168756}, 
+                {"id": 8, "lemma": "으로", "type": "JKB", "position": 369, "weight": 0.121717}, 
+                {"id": 9, "lemma": "14", "type": "SN", "position": 376, "weight": 1}, 
+                {"id": 10, "lemma": "세기", "type": "NNG", "position": 378, "weight": 0.100259}, 
+                {"id": 11, "lemma": "에서", "type": "JKB", "position": 384, "weight": 0.153407}, 
+                {"id": 12, "lemma": "시작", "type": "NNG", "position": 391, "weight": 0.9}, 
+                {"id": 13, "lemma": "하", "type": "XSV", "position": 397, "weight": 0.0001}, 
+                {"id": 14, "lemma": "여", "type": "EC", "position": 400, "weight": 0.361326}, 
+                {"id": 15, "lemma": "16", "type": "SN", "position": 404, "weight": 1}, 
+                {"id": 16, "lemma": "세기", "type": "NNG", "position": 406, "weight": 0.100259}, 
+                {"id": 17, "lemma": "말", "type": "NNB", "position": 413, "weight": 0.148392}, 
+                {"id": 18, "lemma": "에", "type": "JKB", "position": 416, "weight": 0.153364}, 
+                {"id": 19, "lemma": "유럽", "type": "NNP", "position": 420, "weight": 0.9}, 
+                {"id": 20, "lemma": "에서", "type": "JKB", "position": 426, "weight": 0.0823859}, 
+                {"id": 21, "lemma": "일어나", "type": "VV", "position": 433, "weight": 0.9}, 
+                {"id": 22, "lemma": "ㄴ", "type": "ETM", "position": 439, "weight": 0.304215}, 
+                {"id": 23, "lemma": "문화", "type": "NNG", "position": 443, "weight": 0.657511}, 
+                {"id": 24, "lemma": ",", "type": "SP", "position": 449, "weight": 1}, 
+                {"id": 25, "lemma": "예술", "type": "NNG", "position": 451, "weight": 0.9}, 
+                {"id": 26, "lemma": "전반", "type": "NNG", "position": 458, "weight": 0.9}, 
+                {"id": 27, "lemma": "에", "type": "JKB", "position": 464, "weight": 0.153364}, 
+                {"id": 28, "lemma": "걸치", "type": "VV", "position": 468, "weight": 0.9}, 
+                {"id": 29, "lemma": "ㄴ", "type": "ETM", "position": 471, "weight": 0.304215}, 
+                {"id": 30, "lemma": "고대", "type": "NNG", "position": 475, "weight": 0.638202}, 
+                {"id": 31, "lemma": "그리스", "type": "NNP", "position": 482, "weight": 0.0070124}, 
+                {"id": 32, "lemma": "와", "type": "JKB", "position": 491, "weight": 0.0304966}, 
+                {"id": 33, "lemma": "로마", "type": "NNP", "position": 495, "weight": 0.11577}, 
+                {"id": 34, "lemma": "문명", "type": "NNG", "position": 502, "weight": 0.184734}, 
+                {"id": 35, "lemma": "의", "type": "JKG", "position": 508, "weight": 0.0694213}, 
+                {"id": 36, "lemma": "재", "type": "XPN", "position": 512, "weight": 0.000968377}, 
+                {"id": 37, "lemma": "인식", "type": "NNG", "position": 515, "weight": 0.9}, 
+                {"id": 38, "lemma": "과", "type": "JC", "position": 521, "weight": 0.017569}, 
+                {"id": 39, "lemma": "재", "type": "XPN", "position": 525, "weight": 0.000951082}, 
+                {"id": 40, "lemma": "수용", "type": "NNG", "position": 528, "weight": 0.9}, 
+                {"id": 41, "lemma": "을", "type": "JKO", "position": 534, "weight": 0.129611}, 
+                {"id": 42, "lemma": "의미", "type": "NNG", "position": 538, "weight": 0.9}, 
+                {"id": 43, "lemma": "하", "type": "XSV", "position": 544, "weight": 0.0001}, 
+                {"id": 44, "lemma": "ㄴ다", "type": "EF", "position": 544, "weight": 0.0449045}, 
+                {"id": 45, "lemma": ".", "type": "SF", "position": 550, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "여기", "type": "NP", "scode": "010002", "weight": 0.0714286, "position": 331, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "서", "type": "JKB", "scode": "000000", "weight": 1, "position": 337, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "문예부흥", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 341, "begin": 2, "end": 3}, 
+                {"id": 3, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 353, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "란", "type": "ETM", "scode": "000000", "weight": 1, "position": 356, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "구체적", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 360, "begin": 6, "end": 7}, 
+                {"id": 6, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 369, "begin": 8, "end": 8}, 
+                {"id": 7, "text": "14", "type": "SN", "scode": "000000", "weight": 1, "position": 376, "begin": 9, "end": 9}, 
+                {"id": 8, "text": "세기", "type": "NNG", "scode": "030002", "weight": 0.0909091, "position": 378, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 384, "begin": 11, "end": 11}, 
+                {"id": 10, "text": "시작하", "type": "VV", "scode": "010001", "weight": 0.25, "position": 391, "begin": 12, "end": 13}, 
+                {"id": 11, "text": "여", "type": "EC", "scode": "000000", "weight": 1, "position": 400, "begin": 14, "end": 14}, 
+                {"id": 12, "text": "16", "type": "SN", "scode": "000000", "weight": 1, "position": 404, "begin": 15, "end": 15}, 
+                {"id": 13, "text": "세기", "type": "NNG", "scode": "030002", "weight": 0.0909091, "position": 406, "begin": 16, "end": 16}, 
+                {"id": 14, "text": "말", "type": "NNB", "scode": "110000", "weight": 0.0384615, "position": 413, "begin": 17, "end": 17}, 
+                {"id": 15, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 416, "begin": 18, "end": 18}, 
+                {"id": 16, "text": "유럽", "type": "NNP", "scode": "020000", "weight": 0.5, "position": 420, "begin": 19, "end": 19}, 
+                {"id": 17, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 426, "begin": 20, "end": 20}, 
+                {"id": 18, "text": "일어나", "type": "VV", "scode": "000207", "weight": 0.0909091, "position": 433, "begin": 21, "end": 21}, 
+                {"id": 19, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 439, "begin": 22, "end": 22}, 
+                {"id": 20, "text": "문화", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 443, "begin": 23, "end": 23}, 
+                {"id": 21, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 449, "begin": 24, "end": 24}, 
+                {"id": 22, "text": "예술", "type": "NNG", "scode": "000002", "weight": 0.333333, "position": 451, "begin": 25, "end": 25}, 
+                {"id": 23, "text": "전반", "type": "NNG", "scode": "030000", "weight": 0.142857, "position": 458, "begin": 26, "end": 26}, 
+                {"id": 24, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 464, "begin": 27, "end": 27}, 
+                {"id": 25, "text": "걸치", "type": "VV", "scode": "000102", "weight": 0.166667, "position": 468, "begin": 28, "end": 28}, 
+                {"id": 26, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 471, "begin": 29, "end": 29}, 
+                {"id": 27, "text": "고대", "type": "NNG", "scode": "040002", "weight": 0.0833333, "position": 475, "begin": 30, "end": 30}, 
+                {"id": 28, "text": "그리스", "type": "NNP", "scode": "020000", "weight": 0.333333, "position": 482, "begin": 31, "end": 31}, 
+                {"id": 29, "text": "와", "type": "JKB", "scode": "000000", "weight": 1, "position": 491, "begin": 32, "end": 32}, 
+                {"id": 30, "text": "로마", "type": "NNP", "scode": "020003", "weight": 0.2, "position": 495, "begin": 33, "end": 33}, 
+                {"id": 31, "text": "문명", "type": "NNG", "scode": "030000", "weight": 0.142857, "position": 502, "begin": 34, "end": 34}, 
+                {"id": 32, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 508, "begin": 35, "end": 35}, 
+                {"id": 33, "text": "재인식", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 512, "begin": 36, "end": 37}, 
+                {"id": 34, "text": "과", "type": "JC", "scode": "000000", "weight": 1, "position": 521, "begin": 38, "end": 38}, 
+                {"id": 35, "text": "재", "type": "XPN", "scode": "170000", "weight": 0.03125, "position": 525, "begin": 39, "end": 39}, 
+                {"id": 36, "text": "수용", "type": "NNG", "scode": "060001", "weight": 0.0769231, "position": 528, "begin": 40, "end": 40}, 
+                {"id": 37, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 534, "begin": 41, "end": 41}, 
+                {"id": 38, "text": "의미하", "type": "VV", "scode": "020002", "weight": 0.333333, "position": 538, "begin": 42, "end": 43}, 
+                {"id": 39, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 544, "begin": 44, "end": 44}, 
+                {"id": 40, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 550, "begin": 45, "end": 45}
+            ], 
+            "word": [
+                {"id": 0, "text": "여기서", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "문예부흥이란", "type": "", "begin": 2, "end": 5}, 
+                {"id": 2, "text": "구체적으로", "type": "", "begin": 6, "end": 8}, 
+                {"id": 3, "text": "14세기에서", "type": "", "begin": 9, "end": 11}, 
+                {"id": 4, "text": "시작하여", "type": "", "begin": 12, "end": 14}, 
+                {"id": 5, "text": "16세기", "type": "", "begin": 15, "end": 16}, 
+                {"id": 6, "text": "말에", "type": "", "begin": 17, "end": 18}, 
+                {"id": 7, "text": "유럽에서", "type": "", "begin": 19, "end": 20}, 
+                {"id": 8, "text": "일어난", "type": "", "begin": 21, "end": 22}, 
+                {"id": 9, "text": "문화,", "type": "", "begin": 23, "end": 24}, 
+                {"id": 10, "text": "예술", "type": "", "begin": 25, "end": 25}, 
+                {"id": 11, "text": "전반에", "type": "", "begin": 26, "end": 27}, 
+                {"id": 12, "text": "걸친", "type": "", "begin": 28, "end": 29}, 
+                {"id": 13, "text": "고대", "type": "", "begin": 30, "end": 30}, 
+                {"id": 14, "text": "그리스와", "type": "", "begin": 31, "end": 32}, 
+                {"id": 15, "text": "로마", "type": "", "begin": 33, "end": 33}, 
+                {"id": 16, "text": "문명의", "type": "", "begin": 34, "end": 35}, 
+                {"id": 17, "text": "재인식과", "type": "", "begin": 36, "end": 38}, 
+                {"id": 18, "text": "재수용을", "type": "", "begin": 39, "end": 41}, 
+                {"id": 19, "text": "의미한다.", "type": "", "begin": 42, "end": 45}
+            ], 
+            "NE": [
+                {"id": 0, "text": "14세기", "type": "DT_OTHERS", "begin": 9, "end": 10, "weight": 0.392455, "common_noun": 0}, 
+                {"id": 1, "text": "16세기 말", "type": "DT_OTHERS", "begin": 15, "end": 17, "weight": 0.873325, "common_noun": 0}, 
+                {"id": 2, "text": "유럽", "type": "LCG_CONTINENT", "begin": 19, "end": 19, "weight": 0.718911, "common_noun": 0}, 
+                {"id": 3, "text": "고대 그리스", "type": "DT_DYNASTY", "begin": 30, "end": 31, "weight": 0.599526, "common_noun": 0}, 
+                {"id": 4, "text": "로마", "type": "LCP_COUNTRY", "begin": 33, "end": 33, "weight": 0.642479, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "여기서", "head": 1, "label": "NP_AJT", "mod": [], "weight": 0.769827}, 
+                {"id": 1, "text": "문예부흥이란", "head": 4, "label": "VNP_MOD", "mod": [0], "weight": 0.20252}, 
+                {"id": 2, "text": "구체적으로", "head": 4, "label": "NP_AJT", "mod": [], "weight": 0.828795}, 
+                {"id": 3, "text": "14세기에서", "head": 4, "label": "NP_AJT", "mod": [], "weight": 0.682058}, 
+                {"id": 4, "text": "시작하여", "head": 8, "label": "VP", "mod": [2, 3, 1], "weight": 0.699963}, 
+                {"id": 5, "text": "16세기", "head": 6, "label": "NP", "mod": [], "weight": 0.823955}, 
+                {"id": 6, "text": "말에", "head": 8, "label": "NP_AJT", "mod": [5], "weight": 0.615991}, 
+                {"id": 7, "text": "유럽에서", "head": 8, "label": "NP_AJT", "mod": [], "weight": 0.641172}, 
+                {"id": 8, "text": "일어난", "head": 18, "label": "VP_MOD", "mod": [6, 7, 4], "weight": 0.469774}, 
+                {"id": 9, "text": "문화,", "head": 10, "label": "NP_CNJ", "mod": [], "weight": 0.231693}, 
+                {"id": 10, "text": "예술", "head": 11, "label": "NP", "mod": [9], "weight": 0.789972}, 
+                {"id": 11, "text": "전반에", "head": 12, "label": "NP_AJT", "mod": [10], "weight": 0.674363}, 
+                {"id": 12, "text": "걸친", "head": 18, "label": "VP_MOD", "mod": [11], "weight": 0.428555}, 
+                {"id": 13, "text": "고대", "head": 15, "label": "NP", "mod": [], "weight": 0.360009}, 
+                {"id": 14, "text": "그리스와", "head": 15, "label": "NP_CNJ", "mod": [], "weight": 0.457953}, 
+                {"id": 15, "text": "로마", "head": 16, "label": "NP", "mod": [14, 13], "weight": 0.826456}, 
+                {"id": 16, "text": "문명의", "head": 18, "label": "NP_MOD", "mod": [15], "weight": 0.723761}, 
+                {"id": 17, "text": "재인식과", "head": 18, "label": "NP_CNJ", "mod": [], "weight": 0.801178}, 
+                {"id": 18, "text": "재수용을", "head": 19, "label": "NP_OBJ", "mod": [12, 16, 17, 8], "weight": 0.778881}, 
+                {"id": 19, "text": "의미한다.", "head": -1, "label": "VP", "mod": [18], "weight": 2.85233e-05}
+            ], 
+            "SRL": [
+                {"verb": "시작", "sense": 1, "word_id": 4, "weight": 0.102699, "argument": [
+                    {"type": "ARGM-PRD", "word_id": 2, "text": "구체적으로", "weight": 0.128561}, 
+                    {"type": "ARGM-TMP", "word_id": 3, "text": "14세기에서", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 1, "text": "문예부흥이란", "weight": 1}
+                ]}, 
+                {"verb": "일어나", "sense": 1, "word_id": 8, "weight": 0.178651, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 6, "text": "말에", "weight": 0.248105}, 
+                    {"type": "ARGM-LOC", "word_id": 7, "text": "유럽에서", "weight": 0.141912}
+                ]}, 
+                {"verb": "걸치", "sense": 1, "word_id": 12, "weight": 0.102212, "argument": [
+                    {"type": "ARG2", "word_id": 11, "text": "전반에", "weight": 0.102212}, 
+                    {"type": "ARG1", "word_id": 18, "text": "재수용을", "weight": 1}
+                ]}, 
+                {"verb": "의미", "sense": 1, "word_id": 19, "weight": 0.239452, "argument": [
+                    {"type": "ARG2", "word_id": 18, "text": "재수용을", "weight": 0.239452}, 
+                    {"type": "ARG1", "word_id": 1, "text": "문예부흥이란", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 8, "ne_id": -1, "text": "르네상스(프랑스어: Renaissance, 이탈리아어: Rinascimento) 또는 문예 부흥(文藝復興), 학예 부흥(學藝復興)은", "start_eid_short": 0, "end_eid_short": 0, "text_short": "르네상스(프랑스어:"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "르네상스(프랑스어: Renaissance, 이탈리아어: Rinascimento)", "start_eid_short": 0, "end_eid_short": 0, "text_short": "르네상스(프랑스어:"}, 
+            {"id": 2, "sent_id": 0, "start_eid": 5, "end_eid": 6, "ne_id": -1, "text": "문예 부흥(文藝復興),", "start_eid_short": 6, "end_eid_short": 6, "text_short": "부흥(文藝復興),"}, 
+            {"id": 3, "sent_id": 0, "start_eid": 7, "end_eid": 8, "ne_id": -1, "text": "학예 부흥(學藝復興)은", "start_eid_short": 8, "end_eid_short": 8, "text_short": "부흥(學藝復興)은"}, 
+            {"id": 4, "sent_id": 0, "start_eid": 9, "end_eid": 16, "ne_id": -1, "text": "유럽 문명사에서 14세기부터 16세기 사이에 일어난 문예부흥 운동을", "start_eid_short": 15, "end_eid_short": 16, "text_short": "문예부흥 운동을"}, 
+            {"id": 8, "sent_id": 0, "start_eid": 15, "end_eid": 15, "ne_id": -1, "text": "문예부흥", "start_eid_short": 15, "end_eid_short": 15, "text_short": "문예부흥"}, 
+            {"id": 15, "sent_id": 2, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "문예부흥이란", "start_eid_short": 1, "end_eid_short": 1, "text_short": "문예부흥이란"}, 
+            {"id": 17, "sent_id": 2, "start_eid": 3, "end_eid": 18, "ne_id": -1, "text": "14세기에서 시작하여 16세기 말에 유럽에서 일어난 문화, 예술 전반에 걸친 고대 그리스와 로마 문명의 재인식과 재수용을", "start_eid_short": 18, "end_eid_short": 18, "text_short": "재수용을"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 9, "end_eid": 10, "ne_id": -1, "text": "유럽 문명사에서", "start_eid_short": 9, "end_eid_short": 10, "text_short": "유럽 문명사에서"}
+        ]}, 
+        {"id": 2, "type": "LCG_CONTINENT", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 9, "end_eid": 9, "ne_id": 3, "text": "유럽", "start_eid_short": 9, "end_eid_short": 9, "text_short": "유럽"}, 
+            {"id": 20, "sent_id": 2, "start_eid": 7, "end_eid": 7, "ne_id": 2, "text": "유럽에서", "start_eid_short": 7, "end_eid_short": 7, "text_short": "유럽에서"}
+        ]}, 
+        {"id": 3, "type": "DT_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 11, "end_eid": 12, "ne_id": 4, "text": "14세기부터 16세기", "start_eid_short": 12, "end_eid_short": 12, "text_short": "16세기"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "과학 혁명의 토대가", "start_eid_short": 2, "end_eid_short": 2, "text_short": "토대가"}
+        ]}, 
+        {"id": 5, "type": "EV_WAR_REVOLUTION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": 0, "text": "과학 혁명의", "start_eid_short": 0, "end_eid_short": 1, "text_short": "과학 혁명의"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 4, "end_eid": 7, "ne_id": -1, "text": "중세를 근세와 이어주는 시기가", "start_eid_short": 7, "end_eid_short": 7, "text_short": "시기가"}
+        ]}, 
+        {"id": 7, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": 1, "text": "중세를", "start_eid_short": 4, "end_eid_short": 4, "text_short": "중세를"}
+        ]}, 
+        {"id": 8, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 5, "end_eid": 5, "ne_id": 2, "text": "근세와", "start_eid_short": 5, "end_eid_short": 5, "text_short": "근세와"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 2, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "구체적으로", "start_eid_short": 2, "end_eid_short": 2, "text_short": "구체적으로"}
+        ]}, 
+        {"id": 10, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 18, "sent_id": 2, "start_eid": 3, "end_eid": 3, "ne_id": 0, "text": "14세기에서", "start_eid_short": 3, "end_eid_short": 3, "text_short": "14세기에서"}
+        ]}, 
+        {"id": 11, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 22, "sent_id": 2, "start_eid": 9, "end_eid": 9, "ne_id": -1, "text": "문화,", "start_eid_short": 9, "end_eid_short": 9, "text_short": "문화,"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 23, "sent_id": 2, "start_eid": 10, "end_eid": 10, "ne_id": -1, "text": "예술", "start_eid_short": 10, "end_eid_short": 10, "text_short": "예술"}
+        ]}, 
+        {"id": 13, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 25, "sent_id": 2, "start_eid": 13, "end_eid": 15, "ne_id": 4, "text": "고대 그리스와 로마", "start_eid_short": 15, "end_eid_short": 15, "text_short": "로마"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 26, "sent_id": 2, "start_eid": 13, "end_eid": 13, "ne_id": -1, "text": "고대", "start_eid_short": 13, "end_eid_short": 13, "text_short": "고대"}
+        ]}, 
+        {"id": 15, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 24, "sent_id": 2, "start_eid": 13, "end_eid": 16, "ne_id": -1, "text": "고대 그리스와 로마 문명의", "start_eid_short": 15, "end_eid_short": 16, "text_short": "로마 문명의"}
+        ]}, 
+        {"id": 16, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 29, "sent_id": 2, "start_eid": 17, "end_eid": 17, "ne_id": -1, "text": "재인식과", "start_eid_short": 17, "end_eid_short": 17, "text_short": "재인식과"}
+        ]}, 
+        {"id": 17, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 14, "sent_id": 2, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "여기서", "start_eid_short": 0, "end_eid_short": 0, "text_short": "여기서"}
+        ]}, 
+        {"id": 18, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 21, "sent_id": 2, "start_eid": 9, "end_eid": 11, "ne_id": -1, "text": "문화, 예술 전반에", "start_eid_short": 10, "end_eid_short": 11, "text_short": "예술 전반에"}
+        ]}, 
+        {"id": 19, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 19, "sent_id": 2, "start_eid": 5, "end_eid": 6, "ne_id": 1, "text": "16세기 말에", "start_eid_short": 5, "end_eid_short": 6, "text_short": "16세기 말에"}
+        ]}, 
+        {"id": 20, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 28, "sent_id": 2, "start_eid": 15, "end_eid": 15, "ne_id": 4, "text": "로마", "start_eid_short": 15, "end_eid_short": 15, "text_short": "로마"}
+        ]}, 
+        {"id": 21, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 30, "sent_id": 2, "start_eid": 18, "end_eid": 18, "ne_id": -1, "text": "재수용을", "start_eid_short": 18, "end_eid_short": 18, "text_short": "재수용을"}
+        ]}, 
+        {"id": 22, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 27, "sent_id": 2, "start_eid": 14, "end_eid": 14, "ne_id": 3, "text": "그리스와", "start_eid_short": 14, "end_eid_short": 14, "text_short": "그리스와"}
+        ]}
+    ]
+}

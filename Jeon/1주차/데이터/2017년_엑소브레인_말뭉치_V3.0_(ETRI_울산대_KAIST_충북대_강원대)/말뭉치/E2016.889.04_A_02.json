@@ -1,0 +1,130 @@
+{
+    "doc_id": "E2016.889.04_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "자산 관리의 원칙", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "포트폴리오와 분산 투자 '달걀을 한 바구니에 담지 말라.'", 
+            "morp": [
+                {"id": 0, "lemma": "포트폴리오", "type": "NNG", "position": 0, "weight": 0.9}, 
+                {"id": 1, "lemma": "와", "type": "JC", "position": 15, "weight": 0.0169714}, 
+                {"id": 2, "lemma": "분산", "type": "NNG", "position": 19, "weight": 0.9}, 
+                {"id": 3, "lemma": "투자", "type": "NNG", "position": 26, "weight": 0.9}, 
+                {"id": 4, "lemma": "'", "type": "SS", "position": 33, "weight": 1}, 
+                {"id": 5, "lemma": "달걀", "type": "NNG", "position": 34, "weight": 0.9}, 
+                {"id": 6, "lemma": "을", "type": "JKO", "position": 40, "weight": 0.129611}, 
+                {"id": 7, "lemma": "한", "type": "MM", "position": 44, "weight": 0.00727438}, 
+                {"id": 8, "lemma": "바구니", "type": "NNG", "position": 48, "weight": 0.9}, 
+                {"id": 9, "lemma": "에", "type": "JKB", "position": 57, "weight": 0.153364}, 
+                {"id": 10, "lemma": "담", "type": "VV", "position": 61, "weight": 0.345235}, 
+                {"id": 11, "lemma": "지", "type": "EC", "position": 64, "weight": 0.301842}, 
+                {"id": 12, "lemma": "말", "type": "VX", "position": 68, "weight": 0.0335225}, 
+                {"id": 13, "lemma": "라", "type": "EF", "position": 71, "weight": 0.023901}, 
+                {"id": 14, "lemma": ".", "type": "SF", "position": 74, "weight": 1}, 
+                {"id": 15, "lemma": "'", "type": "SS", "position": 75, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "포트폴리오", "type": "NNG", "scode": "000000", "weight": 0.5, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 15, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "분산", "type": "NNG", "scode": "020001", "weight": 0.125, "position": 19, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "투자", "type": "NNG", "scode": "020001", "weight": 0.2, "position": 26, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 33, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "달걀", "type": "NNG", "scode": "000000", "weight": 1, "position": 34, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 40, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "한", "type": "MM", "scode": "010001", "weight": 0.0357143, "position": 44, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "바구니", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 48, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 57, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "담", "type": "VV", "scode": "010001", "weight": 0.333333, "position": 61, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "지", "type": "EC", "scode": "000000", "weight": 1, "position": 64, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "말", "type": "VX", "scode": "030101", "weight": 0.111111, "position": 68, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "라", "type": "EF", "scode": "000000", "weight": 1, "position": 71, "begin": 13, "end": 13}, 
+                {"id": 14, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 74, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 75, "begin": 15, "end": 15}
+            ], 
+            "word": [
+                {"id": 0, "text": "포트폴리오와", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "분산", "type": "", "begin": 2, "end": 2}, 
+                {"id": 2, "text": "투자", "type": "", "begin": 3, "end": 3}, 
+                {"id": 3, "text": "'달걀을", "type": "", "begin": 4, "end": 6}, 
+                {"id": 4, "text": "한", "type": "", "begin": 7, "end": 7}, 
+                {"id": 5, "text": "바구니에", "type": "", "begin": 8, "end": 9}, 
+                {"id": 6, "text": "담지", "type": "", "begin": 10, "end": 11}, 
+                {"id": 7, "text": "말라.'", "type": "", "begin": 12, "end": 15}
+            ], 
+            "NE": [
+                {"id": 0, "text": "달걀", "type": "CV_FOOD", "begin": 5, "end": 5, "weight": 0.376155, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "포트폴리오와", "head": 2, "label": "NP_CNJ", "mod": [], "weight": 0.2859}, 
+                {"id": 1, "text": "분산", "head": 2, "label": "NP", "mod": [], "weight": 0.752375}, 
+                {"id": 2, "text": "투자", "head": 7, "label": "NP", "mod": [0, 1], "weight": 0.341223}, 
+                {"id": 3, "text": "'달걀을", "head": 6, "label": "NP_OBJ", "mod": [], "weight": 0.850631}, 
+                {"id": 4, "text": "한", "head": 5, "label": "DP", "mod": [], "weight": 0.407289}, 
+                {"id": 5, "text": "바구니에", "head": 6, "label": "NP_AJT", "mod": [4], "weight": 0.681022}, 
+                {"id": 6, "text": "담지", "head": 7, "label": "VP", "mod": [3, 5], "weight": 0.792785}, 
+                {"id": 7, "text": "말라.'", "head": -1, "label": "VP", "mod": [6, 2], "weight": 0.0104436}
+            ], 
+            "SRL": [
+                {"verb": "담", "sense": 1, "word_id": 6, "weight": 0.197433, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "'달걀을", "weight": 0.272951}, 
+                    {"type": "ARG2", "word_id": 5, "text": "바구니에", "weight": 0.175229}, 
+                    {"type": "ARGM-NEG", "word_id": 7, "text": "말라.'", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "”", 
+            "morp": [
+                {"id": 0, "lemma": "”", "type": "SS", "position": 76, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "”", "type": "SS", "scode": "000000", "weight": 1, "position": 76, "begin": 0, "end": 0}
+            ], 
+            "word": [
+                {"id": 0, "text": "”", "type": "", "begin": 0, "end": 0}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "”", "head": -1, "label": "X", "mod": [], "weight": 0.060287}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "plural", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 2, "ne_id": -1, "text": "포트폴리오와 분산 투자", "start_eid_short": 1, "end_eid_short": 2, "text_short": "분산 투자"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "포트폴리오와", "start_eid_short": 0, "end_eid_short": 0, "text_short": "포트폴리오와"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 1, "end_eid": 1, "ne_id": -1, "text": "분산", "start_eid_short": 1, "end_eid_short": 1, "text_short": "분산"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 3, "end_eid": 7, "ne_id": -1, "text": "'달걀을 한 바구니에 담지 말라.'", "start_eid_short": 7, "end_eid_short": 7, "text_short": "말라.'"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 1, "end_eid": 2, "ne_id": -1, "text": "분산 투자", "start_eid_short": 1, "end_eid_short": 2, "text_short": "분산 투자"}
+        ]}
+    ]
+}

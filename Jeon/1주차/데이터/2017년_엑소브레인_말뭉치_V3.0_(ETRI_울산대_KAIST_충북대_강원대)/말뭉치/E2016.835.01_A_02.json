@@ -1,0 +1,245 @@
+{
+    "doc_id": "E2016.835.01_A_02.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "오현제", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "로마의 평화라고 이야기되는 시기의 다섯 명의 황제인 로마 제국 전성기에 로마를 다스렸던 네르바, 트라야누스, 하드리아누스, 안토니누스 피우스, 마르쿠스 아우렐리우스 등 5인의 황제를 지칭하는 용어이다.", 
+            "morp": [
+                {"id": 0, "lemma": "로마", "type": "NNP", "position": 0, "weight": 0.243702}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 6, "weight": 0.0694213}, 
+                {"id": 2, "lemma": "평화", "type": "NNG", "position": 10, "weight": 0.858116}, 
+                {"id": 3, "lemma": "이", "type": "VCP", "position": 13, "weight": 0.0177525}, 
+                {"id": 4, "lemma": "라고", "type": "EC", "position": 16, "weight": 0.204147}, 
+                {"id": 5, "lemma": "이야기", "type": "NNG", "position": 23, "weight": 0.9}, 
+                {"id": 6, "lemma": "되", "type": "XSV", "position": 32, "weight": 0.000224177}, 
+                {"id": 7, "lemma": "는", "type": "ETM", "position": 35, "weight": 0.238503}, 
+                {"id": 8, "lemma": "시기", "type": "NNG", "position": 39, "weight": 0.658437}, 
+                {"id": 9, "lemma": "의", "type": "JKG", "position": 45, "weight": 0.0694213}, 
+                {"id": 10, "lemma": "다섯", "type": "NR", "position": 49, "weight": 0.9}, 
+                {"id": 11, "lemma": "명", "type": "NNB", "position": 56, "weight": 0.368717}, 
+                {"id": 12, "lemma": "의", "type": "JKG", "position": 59, "weight": 0.0520933}, 
+                {"id": 13, "lemma": "황제", "type": "NNG", "position": 63, "weight": 0.869159}, 
+                {"id": 14, "lemma": "이", "type": "VCP", "position": 69, "weight": 0.0177525}, 
+                {"id": 15, "lemma": "ㄴ", "type": "ETM", "position": 69, "weight": 0.220712}, 
+                {"id": 16, "lemma": "로마", "type": "NNP", "position": 73, "weight": 0.36662}, 
+                {"id": 17, "lemma": "제국", "type": "NNG", "position": 80, "weight": 0.184695}, 
+                {"id": 18, "lemma": "전성", "type": "NNG", "position": 87, "weight": 0.9}, 
+                {"id": 19, "lemma": "기", "type": "XSN", "position": 93, "weight": 0.000294499}, 
+                {"id": 20, "lemma": "에", "type": "JKB", "position": 96, "weight": 0.121683}, 
+                {"id": 21, "lemma": "로마", "type": "NNP", "position": 100, "weight": 0.11577}, 
+                {"id": 22, "lemma": "를", "type": "JKO", "position": 106, "weight": 0.137686}, 
+                {"id": 23, "lemma": "다스리", "type": "VV", "position": 110, "weight": 0.9}, 
+                {"id": 24, "lemma": "었", "type": "EP", "position": 116, "weight": 0.9}, 
+                {"id": 25, "lemma": "던", "type": "ETM", "position": 119, "weight": 0.107547}, 
+                {"id": 26, "lemma": "네르바", "type": "NNP", "position": 123, "weight": 0.05}, 
+                {"id": 27, "lemma": ",", "type": "SP", "position": 132, "weight": 1}, 
+                {"id": 28, "lemma": "트라야누스", "type": "NNP", "position": 134, "weight": 0.3}, 
+                {"id": 29, "lemma": ",", "type": "SP", "position": 149, "weight": 1}, 
+                {"id": 30, "lemma": "하드리아누스", "type": "NNP", "position": 151, "weight": 0.15}, 
+                {"id": 31, "lemma": ",", "type": "SP", "position": 169, "weight": 1}, 
+                {"id": 32, "lemma": "안토니누스", "type": "NNP", "position": 171, "weight": 0.15}, 
+                {"id": 33, "lemma": "피우스", "type": "NNP", "position": 187, "weight": 0.05}, 
+                {"id": 34, "lemma": ",", "type": "SP", "position": 196, "weight": 1}, 
+                {"id": 35, "lemma": "마르쿠스", "type": "NNP", "position": 198, "weight": 0.25}, 
+                {"id": 36, "lemma": "아우렐리우스", "type": "NNP", "position": 211, "weight": 0.4}, 
+                {"id": 37, "lemma": "등", "type": "NNB", "position": 230, "weight": 0.0459798}, 
+                {"id": 38, "lemma": "5", "type": "SN", "position": 234, "weight": 1}, 
+                {"id": 39, "lemma": "인", "type": "NNG", "position": 235, "weight": 0.0408214}, 
+                {"id": 40, "lemma": "의", "type": "JKG", "position": 238, "weight": 0.0694213}, 
+                {"id": 41, "lemma": "황제", "type": "NNG", "position": 242, "weight": 0.869159}, 
+                {"id": 42, "lemma": "를", "type": "JKO", "position": 248, "weight": 0.137686}, 
+                {"id": 43, "lemma": "지칭", "type": "NNG", "position": 252, "weight": 0.9}, 
+                {"id": 44, "lemma": "하", "type": "XSV", "position": 258, "weight": 0.0001}, 
+                {"id": 45, "lemma": "는", "type": "ETM", "position": 261, "weight": 0.238503}, 
+                {"id": 46, "lemma": "용어", "type": "NNG", "position": 265, "weight": 0.9}, 
+                {"id": 47, "lemma": "이", "type": "VCP", "position": 271, "weight": 0.0177525}, 
+                {"id": 48, "lemma": "다", "type": "EF", "position": 274, "weight": 0.353579}, 
+                {"id": 49, "lemma": ".", "type": "SF", "position": 277, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "로마", "type": "NNP", "scode": "020003", "weight": 0.2, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 6, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "평화", "type": "NNG", "scode": "020002", "weight": 0.142857, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 13, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "라고", "type": "EC", "scode": "000000", "weight": 1, "position": 16, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "이야기되", "type": "VV", "scode": "000101", "weight": 0.166667, "position": 23, "begin": 5, "end": 6}, 
+                {"id": 6, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 35, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "시기", "type": "NNG", "scode": "040000", "weight": 0.0666667, "position": 39, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 45, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "다섯", "type": "NR", "scode": "000000", "weight": 1, "position": 49, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "명", "type": "NNB", "scode": "030000", "weight": 0.0588235, "position": 56, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 59, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "황제", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 63, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 69, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 69, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "로마", "type": "NNP", "scode": "020003", "weight": 0.2, "position": 73, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "제국", "type": "NNG", "scode": "020000", "weight": 0.25, "position": 80, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "전성기", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 87, "begin": 18, "end": 19}, 
+                {"id": 18, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 96, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "로마", "type": "NNP", "scode": "020003", "weight": 0.2, "position": 100, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 106, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "다스리", "type": "VV", "scode": "000001", "weight": 0.125, "position": 110, "begin": 23, "end": 23}, 
+                {"id": 22, "text": "었", "type": "EP", "scode": "000000", "weight": 1, "position": 116, "begin": 24, "end": 24}, 
+                {"id": 23, "text": "던", "type": "ETM", "scode": "000000", "weight": 1, "position": 119, "begin": 25, "end": 25}, 
+                {"id": 24, "text": "네르바", "type": "NNP", "scode": "000000", "weight": 1, "position": 123, "begin": 26, "end": 26}, 
+                {"id": 25, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 132, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "트라야누스", "type": "NNP", "scode": "000000", "weight": 1, "position": 134, "begin": 28, "end": 28}, 
+                {"id": 27, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 149, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "하드리아누스", "type": "NNP", "scode": "000000", "weight": 1, "position": 151, "begin": 30, "end": 30}, 
+                {"id": 29, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 169, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "안토니누스", "type": "NNP", "scode": "000000", "weight": 0, "position": 171, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "피우스", "type": "NNP", "scode": "000000", "weight": 0, "position": 187, "begin": 33, "end": 33}, 
+                {"id": 32, "text": ",", "type": "SP", "scode": "000000", "weight": 1, "position": 196, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "마르쿠스", "type": "NNP", "scode": "000000", "weight": 0, "position": 198, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "아우렐리우스", "type": "NNP", "scode": "000000", "weight": 1, "position": 211, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 230, "begin": 37, "end": 37}, 
+                {"id": 36, "text": "5", "type": "SN", "scode": "000000", "weight": 1, "position": 234, "begin": 38, "end": 38}, 
+                {"id": 37, "text": "인", "type": "NNG", "scode": "020002", "weight": 0.0357143, "position": 235, "begin": 39, "end": 39}, 
+                {"id": 38, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 238, "begin": 40, "end": 40}, 
+                {"id": 39, "text": "황제", "type": "NNG", "scode": "020001", "weight": 0.166667, "position": 242, "begin": 41, "end": 41}, 
+                {"id": 40, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 248, "begin": 42, "end": 42}, 
+                {"id": 41, "text": "지칭하", "type": "VV", "scode": "000000", "weight": 1, "position": 252, "begin": 43, "end": 44}, 
+                {"id": 42, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 261, "begin": 45, "end": 45}, 
+                {"id": 43, "text": "용어", "type": "NNG", "scode": "020000", "weight": 0.2, "position": 265, "begin": 46, "end": 46}, 
+                {"id": 44, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 271, "begin": 47, "end": 47}, 
+                {"id": 45, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 274, "begin": 48, "end": 48}, 
+                {"id": 46, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 277, "begin": 49, "end": 49}
+            ], 
+            "word": [
+                {"id": 0, "text": "로마의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "평화라고", "type": "", "begin": 2, "end": 4}, 
+                {"id": 2, "text": "이야기되는", "type": "", "begin": 5, "end": 7}, 
+                {"id": 3, "text": "시기의", "type": "", "begin": 8, "end": 9}, 
+                {"id": 4, "text": "다섯", "type": "", "begin": 10, "end": 10}, 
+                {"id": 5, "text": "명의", "type": "", "begin": 11, "end": 12}, 
+                {"id": 6, "text": "황제인", "type": "", "begin": 13, "end": 15}, 
+                {"id": 7, "text": "로마", "type": "", "begin": 16, "end": 16}, 
+                {"id": 8, "text": "제국", "type": "", "begin": 17, "end": 17}, 
+                {"id": 9, "text": "전성기에", "type": "", "begin": 18, "end": 20}, 
+                {"id": 10, "text": "로마를", "type": "", "begin": 21, "end": 22}, 
+                {"id": 11, "text": "다스렸던", "type": "", "begin": 23, "end": 25}, 
+                {"id": 12, "text": "네르바,", "type": "", "begin": 26, "end": 27}, 
+                {"id": 13, "text": "트라야누스,", "type": "", "begin": 28, "end": 29}, 
+                {"id": 14, "text": "하드리아누스,", "type": "", "begin": 30, "end": 31}, 
+                {"id": 15, "text": "안토니누스", "type": "", "begin": 32, "end": 32}, 
+                {"id": 16, "text": "피우스,", "type": "", "begin": 33, "end": 34}, 
+                {"id": 17, "text": "마르쿠스", "type": "", "begin": 35, "end": 35}, 
+                {"id": 18, "text": "아우렐리우스", "type": "", "begin": 36, "end": 36}, 
+                {"id": 19, "text": "등", "type": "", "begin": 37, "end": 37}, 
+                {"id": 20, "text": "5인의", "type": "", "begin": 38, "end": 40}, 
+                {"id": 21, "text": "황제를", "type": "", "begin": 41, "end": 42}, 
+                {"id": 22, "text": "지칭하는", "type": "", "begin": 43, "end": 45}, 
+                {"id": 23, "text": "용어이다.", "type": "", "begin": 46, "end": 49}
+            ], 
+            "NE": [
+                {"id": 0, "text": "로마", "type": "LCP_CAPITALCITY", "begin": 0, "end": 0, "weight": 0.460529, "common_noun": 0}, 
+                {"id": 1, "text": "다섯 명", "type": "QT_MAN_COUNT", "begin": 10, "end": 11, "weight": 0.598459, "common_noun": 0}, 
+                {"id": 2, "text": "황제", "type": "CV_POSITION", "begin": 13, "end": 13, "weight": 0.324266, "common_noun": 0}, 
+                {"id": 3, "text": "로마 제국", "type": "LCP_COUNTRY", "begin": 16, "end": 17, "weight": 0.419422, "common_noun": 0}, 
+                {"id": 4, "text": "로마", "type": "LCP_COUNTRY", "begin": 21, "end": 21, "weight": 0.319969, "common_noun": 0}, 
+                {"id": 5, "text": "네르바", "type": "PS_NAME", "begin": 26, "end": 26, "weight": 0.37028, "common_noun": 0}, 
+                {"id": 6, "text": "트라야누스", "type": "PS_NAME", "begin": 28, "end": 28, "weight": 0.335137, "common_noun": 0}, 
+                {"id": 7, "text": "하드리아누스", "type": "PS_NAME", "begin": 30, "end": 30, "weight": 0.459422, "common_noun": 0}, 
+                {"id": 8, "text": "안토니누스 피우스", "type": "PS_NAME", "begin": 32, "end": 33, "weight": 0.635544, "common_noun": 0}, 
+                {"id": 9, "text": "마르쿠스 아우렐리우스", "type": "PS_NAME", "begin": 35, "end": 36, "weight": 0.748424, "common_noun": 0}, 
+                {"id": 10, "text": "5인", "type": "QT_MAN_COUNT", "begin": 38, "end": 39, "weight": 1, "common_noun": 0}, 
+                {"id": 11, "text": "황제", "type": "CV_POSITION", "begin": 41, "end": 41, "weight": 0.46373, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "로마의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.681653}, 
+                {"id": 1, "text": "평화라고", "head": 2, "label": "VNP", "mod": [0], "weight": 0.345831}, 
+                {"id": 2, "text": "이야기되는", "head": 3, "label": "VP_MOD", "mod": [1], "weight": 0.0762247}, 
+                {"id": 3, "text": "시기의", "head": 6, "label": "NP_MOD", "mod": [2], "weight": 0.200527}, 
+                {"id": 4, "text": "다섯", "head": 5, "label": "NP", "mod": [], "weight": 0.713162}, 
+                {"id": 5, "text": "명의", "head": 6, "label": "NP_MOD", "mod": [4], "weight": 0.508715}, 
+                {"id": 6, "text": "황제인", "head": 18, "label": "VNP_MOD", "mod": [3, 5], "weight": 0.102854}, 
+                {"id": 7, "text": "로마", "head": 8, "label": "NP", "mod": [], "weight": 0.593671}, 
+                {"id": 8, "text": "제국", "head": 9, "label": "NP", "mod": [7], "weight": 0.713286}, 
+                {"id": 9, "text": "전성기에", "head": 11, "label": "NP_AJT", "mod": [8], "weight": 0.216302}, 
+                {"id": 10, "text": "로마를", "head": 11, "label": "NP_OBJ", "mod": [], "weight": 0.688409}, 
+                {"id": 11, "text": "다스렸던", "head": 18, "label": "VP_MOD", "mod": [9, 10], "weight": 0.0761197}, 
+                {"id": 12, "text": "네르바,", "head": 18, "label": "NP_CNJ", "mod": [], "weight": 0.759027}, 
+                {"id": 13, "text": "트라야누스,", "head": 18, "label": "NP_CNJ", "mod": [], "weight": 0.791877}, 
+                {"id": 14, "text": "하드리아누스,", "head": 18, "label": "NP_CNJ", "mod": [], "weight": 0.710091}, 
+                {"id": 15, "text": "안토니누스", "head": 16, "label": "NP", "mod": [], "weight": 0.867286}, 
+                {"id": 16, "text": "피우스,", "head": 18, "label": "NP_CNJ", "mod": [15], "weight": 0.739648}, 
+                {"id": 17, "text": "마르쿠스", "head": 18, "label": "NP", "mod": [], "weight": 0.428076}, 
+                {"id": 18, "text": "아우렐리우스", "head": 19, "label": "NP", "mod": [11, 12, 13, 14, 16, 17, 6], "weight": 0.784918}, 
+                {"id": 19, "text": "등", "head": 20, "label": "NP", "mod": [18], "weight": 0.00519146}, 
+                {"id": 20, "text": "5인의", "head": 21, "label": "NP_MOD", "mod": [19], "weight": 0.750804}, 
+                {"id": 21, "text": "황제를", "head": 22, "label": "NP_OBJ", "mod": [20], "weight": 0.761876}, 
+                {"id": 22, "text": "지칭하는", "head": 23, "label": "VP_MOD", "mod": [21], "weight": 0.903329}, 
+                {"id": 23, "text": "용어이다.", "head": -1, "label": "VNP", "mod": [22], "weight": 1.3687e-10}
+            ], 
+            "SRL": [
+                {"verb": "이야기되", "sense": 1, "word_id": 2, "weight": 0, "argument": [
+                    {"type": "ARG2", "word_id": 1, "text": "평화라고", "weight": 1}
+                ]}, 
+                {"verb": "다스리", "sense": 1, "word_id": 11, "weight": 0.162232, "argument": [
+                    {"type": "ARGM-TMP", "word_id": 9, "text": "전성기에", "weight": 0.0966812}, 
+                    {"type": "ARG1", "word_id": 10, "text": "로마를", "weight": 0.226685}, 
+                    {"type": "ARG0", "word_id": 19, "text": "등", "weight": 1}
+                ]}, 
+                {"verb": "지칭", "sense": 1, "word_id": 22, "weight": 0.172045, "argument": [
+                    {"type": "ARG2", "word_id": 21, "text": "황제를", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 23, "text": "용어이다.", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "로마의 평화라고", "start_eid_short": 1, "end_eid_short": 1, "text_short": "평화라고"}
+        ]}, 
+        {"id": 1, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 8, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "로마의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "로마의"}, 
+            {"id": 12, "sent_id": 0, "start_eid": 10, "end_eid": 10, "ne_id": 4, "text": "로마를", "start_eid_short": 10, "end_eid_short": 10, "text_short": "로마를"}
+        ]}, 
+        {"id": 2, "type": "QT_MAN_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 0, "start_eid": 4, "end_eid": 5, "ne_id": 1, "text": "다섯 명의", "start_eid_short": 4, "end_eid_short": 5, "text_short": "다섯 명의"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 0, "start_eid": 7, "end_eid": 9, "ne_id": -1, "text": "로마 제국 전성기에", "start_eid_short": 7, "end_eid_short": 9, "text_short": "로마 제국 전성기에"}
+        ]}, 
+        {"id": 4, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 11, "sent_id": 0, "start_eid": 7, "end_eid": 8, "ne_id": 3, "text": "로마 제국", "start_eid_short": 7, "end_eid_short": 8, "text_short": "로마 제국"}
+        ]}, 
+        {"id": 5, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 23, "ne_id": -1, "text": "로마의 평화라고 이야기되는 시기의 다섯 명의 황제인 로마 제국 전성기에 로마를 다스렸던 네르바, 트라야누스, 하드리아누스, 안토니누스 피우스, 마르쿠스 아우렐리우스 등 5인의 황제를 지칭하는 용어이다.", "start_eid_short": 23, "end_eid_short": 23, "text_short": "용어이다."}, 
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 21, "ne_id": 11, "text": "로마의 평화라고 이야기되는 시기의 다섯 명의 황제인 로마 제국 전성기에 로마를 다스렸던 네르바, 트라야누스, 하드리아누스, 안토니누스 피우스, 마르쿠스 아우렐리우스 등 5인의 황제를", "start_eid_short": 21, "end_eid_short": 21, "text_short": "황제를"}, 
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 20, "ne_id": 10, "text": "로마의 평화라고 이야기되는 시기의 다섯 명의 황제인 로마 제국 전성기에 로마를 다스렸던 네르바, 트라야누스, 하드리아누스, 안토니누스 피우스, 마르쿠스 아우렐리우스 등 5인의", "start_eid_short": 17, "end_eid_short": 20, "text_short": "마르쿠스 아우렐리우스 등 5인의"}, 
+            {"id": 3, "sent_id": 0, "start_eid": 0, "end_eid": 19, "ne_id": -1, "text": "로마의 평화라고 이야기되는 시기의 다섯 명의 황제인 로마 제국 전성기에 로마를 다스렸던 네르바, 트라야누스, 하드리아누스, 안토니누스 피우스, 마르쿠스 아우렐리우스 등", "start_eid_short": 17, "end_eid_short": 19, "text_short": "마르쿠스 아우렐리우스 등"}, 
+            {"id": 4, "sent_id": 0, "start_eid": 0, "end_eid": 18, "ne_id": 9, "text": "로마의 평화라고 이야기되는 시기의 다섯 명의 황제인 로마 제국 전성기에 로마를 다스렸던 네르바, 트라야누스, 하드리아누스, 안토니누스 피우스, 마르쿠스 아우렐리우스", "start_eid_short": 17, "end_eid_short": 18, "text_short": "마르쿠스 아우렐리우스"}, 
+            {"id": 5, "sent_id": 0, "start_eid": 0, "end_eid": 6, "ne_id": 2, "text": "로마의 평화라고 이야기되는 시기의 다섯 명의 황제인", "start_eid_short": 6, "end_eid_short": 6, "text_short": "황제인"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "로마의 평화라고 이야기되는 시기의", "start_eid_short": 3, "end_eid_short": 3, "text_short": "시기의"}
+        ]}, 
+        {"id": 7, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 13, "sent_id": 0, "start_eid": 12, "end_eid": 12, "ne_id": 5, "text": "네르바,", "start_eid_short": 12, "end_eid_short": 12, "text_short": "네르바,"}
+        ]}, 
+        {"id": 8, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 14, "sent_id": 0, "start_eid": 13, "end_eid": 13, "ne_id": 6, "text": "트라야누스,", "start_eid_short": 13, "end_eid_short": 13, "text_short": "트라야누스,"}
+        ]}, 
+        {"id": 9, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 15, "sent_id": 0, "start_eid": 14, "end_eid": 14, "ne_id": 7, "text": "하드리아누스,", "start_eid_short": 14, "end_eid_short": 14, "text_short": "하드리아누스,"}
+        ]}, 
+        {"id": 10, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 16, "sent_id": 0, "start_eid": 15, "end_eid": 16, "ne_id": 8, "text": "안토니누스 피우스,", "start_eid_short": 15, "end_eid_short": 16, "text_short": "안토니누스 피우스,"}
+        ]}
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "doc_id": "E2016.836.13_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "한여름 밤의 최저 기온이 25°C  이상인 무더운 기후현상을 말한다.", 
+            "morp": [
+                {"id": 0, "lemma": "한", "type": "XPN", "position": 0, "weight": 0.0001}, 
+                {"id": 1, "lemma": "여름", "type": "NNG", "position": 3, "weight": 0.9}, 
+                {"id": 2, "lemma": "밤", "type": "NNG", "position": 10, "weight": 0.184741}, 
+                {"id": 3, "lemma": "의", "type": "JKG", "position": 13, "weight": 0.0694213}, 
+                {"id": 4, "lemma": "최저", "type": "NNG", "position": 17, "weight": 0.9}, 
+                {"id": 5, "lemma": "기온", "type": "NNG", "position": 24, "weight": 0.9}, 
+                {"id": 6, "lemma": "이", "type": "JKS", "position": 30, "weight": 0.0360723}, 
+                {"id": 7, "lemma": "25", "type": "SN", "position": 34, "weight": 1}, 
+                {"id": 8, "lemma": "°", "type": "SW", "position": 36, "weight": 1}, 
+                {"id": 9, "lemma": "C", "type": "SL", "position": 36, "weight": 1}, 
+                {"id": 10, "lemma": "이상", "type": "NNG", "position": 41, "weight": 0.172402}, 
+                {"id": 11, "lemma": "이", "type": "VCP", "position": 47, "weight": 0.0177525}, 
+                {"id": 12, "lemma": "ㄴ", "type": "ETM", "position": 47, "weight": 0.220712}, 
+                {"id": 13, "lemma": "무덥", "type": "VA", "position": 51, "weight": 0.9}, 
+                {"id": 14, "lemma": "ㄴ", "type": "ETM", "position": 54, "weight": 0.430446}, 
+                {"id": 15, "lemma": "기후", "type": "NNG", "position": 61, "weight": 0.656428}, 
+                {"id": 16, "lemma": "현상", "type": "NNG", "position": 67, "weight": 0.184811}, 
+                {"id": 17, "lemma": "을", "type": "JKO", "position": 73, "weight": 0.129611}, 
+                {"id": 18, "lemma": "말", "type": "NNG", "position": 77, "weight": 0.0814073}, 
+                {"id": 19, "lemma": "하", "type": "XSV", "position": 80, "weight": 0.0001}, 
+                {"id": 20, "lemma": "ㄴ다", "type": "EF", "position": 80, "weight": 0.0449045}, 
+                {"id": 21, "lemma": ".", "type": "SF", "position": 86, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "한여름", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 0, "begin": 0, "end": 1}, 
+                {"id": 1, "text": "밤", "type": "NNG", "scode": "010000", "weight": 0.166667, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 2, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 13, "begin": 3, "end": 3}, 
+                {"id": 3, "text": "최저", "type": "NNG", "scode": "010000", "weight": 0.5, "position": 17, "begin": 4, "end": 4}, 
+                {"id": 4, "text": "기온", "type": "NNG", "scode": "000000", "weight": 1, "position": 24, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 30, "begin": 6, "end": 6}, 
+                {"id": 6, "text": "25", "type": "SN", "scode": "000000", "weight": 1, "position": 34, "begin": 7, "end": 7}, 
+                {"id": 7, "text": "°", "type": "SW", "scode": "000000", "weight": 1, "position": 36, "begin": 8, "end": 8}, 
+                {"id": 8, "text": "C", "type": "SL", "scode": "000000", "weight": 1, "position": 36, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "이상", "type": "NNG", "scode": "050001", "weight": 0.0357143, "position": 41, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 47, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 47, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "무덥", "type": "VA", "scode": "000000", "weight": 1, "position": 51, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 54, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "기후", "type": "NNG", "scode": "050003", "weight": 0.125, "position": 61, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "현상", "type": "NNG", "scode": "040001", "weight": 0.0833333, "position": 67, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 73, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "말하", "type": "VV", "scode": "000300", "weight": 0.125, "position": 77, "begin": 18, "end": 19}, 
+                {"id": 18, "text": "ㄴ다", "type": "EF", "scode": "000000", "weight": 1, "position": 80, "begin": 20, "end": 20}, 
+                {"id": 19, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 86, "begin": 21, "end": 21}
+            ], 
+            "word": [
+                {"id": 0, "text": "한여름", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "밤의", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "최저", "type": "", "begin": 4, "end": 4}, 
+                {"id": 3, "text": "기온이", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "25°C", "type": "", "begin": 7, "end": 9}, 
+                {"id": 5, "text": "이상인", "type": "", "begin": 10, "end": 12}, 
+                {"id": 6, "text": "무더운", "type": "", "begin": 13, "end": 14}, 
+                {"id": 7, "text": "기후현상을", "type": "", "begin": 15, "end": 17}, 
+                {"id": 8, "text": "말한다.", "type": "", "begin": 18, "end": 21}
+            ], 
+            "NE": [
+                {"id": 0, "text": "한여름", "type": "DT_SEASON", "begin": 0, "end": 1, "weight": 0.485012, "common_noun": 0}, 
+                {"id": 1, "text": "밤", "type": "TI_DURATION", "begin": 2, "end": 2, "weight": 0.611817, "common_noun": 0}, 
+                {"id": 2, "text": "25°C  이상", "type": "QT_TEMPERATURE", "begin": 7, "end": 10, "weight": 0.684607, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "한여름", "head": 1, "label": "NP", "mod": [], "weight": 0.757639}, 
+                {"id": 1, "text": "밤의", "head": 3, "label": "NP_MOD", "mod": [0], "weight": 0.710832}, 
+                {"id": 2, "text": "최저", "head": 3, "label": "NP", "mod": [], "weight": 0.643432}, 
+                {"id": 3, "text": "기온이", "head": 5, "label": "NP_SBJ", "mod": [1, 2], "weight": 0.470005}, 
+                {"id": 4, "text": "25°C", "head": 5, "label": "NP", "mod": [], "weight": 0.855172}, 
+                {"id": 5, "text": "이상인", "head": 7, "label": "VNP_MOD", "mod": [3, 4], "weight": 0.646865}, 
+                {"id": 6, "text": "무더운", "head": 7, "label": "VP_MOD", "mod": [], "weight": 0.758729}, 
+                {"id": 7, "text": "기후현상을", "head": 8, "label": "NP_OBJ", "mod": [5, 6], "weight": 0.826105}, 
+                {"id": 8, "text": "말한다.", "head": -1, "label": "VP", "mod": [7], "weight": 0.0505836}
+            ], 
+            "SRL": [
+                {"verb": "무덥", "sense": 1, "word_id": 6, "weight": 0.295667, "argument": [
+                    {"type": "ARGM-EXT", "word_id": 5, "text": "이상인", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 7, "text": "기후현상을", "weight": 1}
+                ]}, 
+                {"verb": "말하", "sense": 1, "word_id": 8, "weight": 0.151367, "argument": [
+                    {"type": "ARG1", "word_id": 7, "text": "기후현상을", "weight": 0.151367}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "에너지 사용이 많고 인구가 집중되어 있는 도시에서 더 자주 발생하는 이 기후 현상은?", 
+            "morp": [
+                {"id": 0, "lemma": "에너지", "type": "NNG", "position": 87, "weight": 0.9}, 
+                {"id": 1, "lemma": "사용", "type": "NNG", "position": 97, "weight": 0.9}, 
+                {"id": 2, "lemma": "이", "type": "JKS", "position": 103, "weight": 0.0360723}, 
+                {"id": 3, "lemma": "많", "type": "VA", "position": 107, "weight": 0.249378}, 
+                {"id": 4, "lemma": "고", "type": "EC", "position": 110, "weight": 0.310376}, 
+                {"id": 5, "lemma": "인구", "type": "NNG", "position": 114, "weight": 0.218515}, 
+                {"id": 6, "lemma": "가", "type": "JKS", "position": 120, "weight": 0.066324}, 
+                {"id": 7, "lemma": "집중", "type": "NNG", "position": 124, "weight": 0.209043}, 
+                {"id": 8, "lemma": "되", "type": "XSV", "position": 130, "weight": 0.000224177}, 
+                {"id": 9, "lemma": "어", "type": "EC", "position": 133, "weight": 0.361326}, 
+                {"id": 10, "lemma": "있", "type": "VX", "position": 137, "weight": 0.125953}, 
+                {"id": 11, "lemma": "는", "type": "ETM", "position": 140, "weight": 0.183966}, 
+                {"id": 12, "lemma": "도시", "type": "NNG", "position": 144, "weight": 0.656406}, 
+                {"id": 13, "lemma": "에서", "type": "JKB", "position": 150, "weight": 0.153407}, 
+                {"id": 14, "lemma": "더", "type": "MAG", "position": 157, "weight": 0.0557614}, 
+                {"id": 15, "lemma": "자주", "type": "MAG", "position": 161, "weight": 0.0408311}, 
+                {"id": 16, "lemma": "발생", "type": "NNG", "position": 168, "weight": 0.9}, 
+                {"id": 17, "lemma": "하", "type": "XSV", "position": 174, "weight": 0.0001}, 
+                {"id": 18, "lemma": "는", "type": "ETM", "position": 177, "weight": 0.238503}, 
+                {"id": 19, "lemma": "이", "type": "MM", "position": 181, "weight": 0.00060084}, 
+                {"id": 20, "lemma": "기후", "type": "NNG", "position": 185, "weight": 0.734752}, 
+                {"id": 21, "lemma": "현상", "type": "NNG", "position": 192, "weight": 0.184811}, 
+                {"id": 22, "lemma": "은", "type": "JX", "position": 198, "weight": 0.0449928}, 
+                {"id": 23, "lemma": "?", "type": "SF", "position": 201, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "에너지", "type": "NNG", "scode": "000002", "weight": 0.5, "position": 87, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "사용", "type": "NNG", "scode": "040001", "weight": 0.142857, "position": 97, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 103, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "많", "type": "VA", "scode": "000000", "weight": 1, "position": 107, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 110, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "인구", "type": "NNG", "scode": "010001", "weight": 0.142857, "position": 114, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 120, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "집중되", "type": "VV", "scode": "000002", "weight": 0.5, "position": 124, "begin": 7, "end": 8}, 
+                {"id": 8, "text": "어", "type": "EC", "scode": "000000", "weight": 1, "position": 133, "begin": 9, "end": 9}, 
+                {"id": 9, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 137, "begin": 10, "end": 10}, 
+                {"id": 10, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 140, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "도시", "type": "NNG", "scode": "030000", "weight": 0.0909091, "position": 144, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "에서", "type": "JKB", "scode": "000000", "weight": 1, "position": 150, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "더", "type": "MAG", "scode": "010002", "weight": 0.333333, "position": 157, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "자주", "type": "MAG", "scode": "010000", "weight": 0.0588235, "position": 161, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "발생하", "type": "VV", "scode": "000001", "weight": 0.5, "position": 168, "begin": 16, "end": 17}, 
+                {"id": 16, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 177, "begin": 18, "end": 18}, 
+                {"id": 17, "text": "이", "type": "MM", "scode": "050002", "weight": 0.0172414, "position": 181, "begin": 19, "end": 19}, 
+                {"id": 18, "text": "기후", "type": "NNG", "scode": "050003", "weight": 0.125, "position": 185, "begin": 20, "end": 20}, 
+                {"id": 19, "text": "현상", "type": "NNG", "scode": "040001", "weight": 0.0833333, "position": 192, "begin": 21, "end": 21}, 
+                {"id": 20, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 198, "begin": 22, "end": 22}, 
+                {"id": 21, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 201, "begin": 23, "end": 23}
+            ], 
+            "word": [
+                {"id": 0, "text": "에너지", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "사용이", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "많고", "type": "", "begin": 3, "end": 4}, 
+                {"id": 3, "text": "인구가", "type": "", "begin": 5, "end": 6}, 
+                {"id": 4, "text": "집중되어", "type": "", "begin": 7, "end": 9}, 
+                {"id": 5, "text": "있는", "type": "", "begin": 10, "end": 11}, 
+                {"id": 6, "text": "도시에서", "type": "", "begin": 12, "end": 13}, 
+                {"id": 7, "text": "더", "type": "", "begin": 14, "end": 14}, 
+                {"id": 8, "text": "자주", "type": "", "begin": 15, "end": 15}, 
+                {"id": 9, "text": "발생하는", "type": "", "begin": 16, "end": 18}, 
+                {"id": 10, "text": "이", "type": "", "begin": 19, "end": 19}, 
+                {"id": 11, "text": "기후", "type": "", "begin": 20, "end": 20}, 
+                {"id": 12, "text": "현상은?", "type": "", "begin": 21, "end": 23}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "에너지", "head": 1, "label": "NP", "mod": [], "weight": 0.599727}, 
+                {"id": 1, "text": "사용이", "head": 2, "label": "NP_SBJ", "mod": [0], "weight": 0.711845}, 
+                {"id": 2, "text": "많고", "head": 4, "label": "VP", "mod": [1], "weight": 0.53034}, 
+                {"id": 3, "text": "인구가", "head": 4, "label": "NP_SBJ", "mod": [], "weight": 0.825135}, 
+                {"id": 4, "text": "집중되어", "head": 5, "label": "VP", "mod": [2, 3], "weight": 0.718005}, 
+                {"id": 5, "text": "있는", "head": 6, "label": "VP_MOD", "mod": [4], "weight": 0.728441}, 
+                {"id": 6, "text": "도시에서", "head": 9, "label": "NP_AJT", "mod": [5], "weight": 0.771292}, 
+                {"id": 7, "text": "더", "head": 8, "label": "AP", "mod": [], "weight": 0.629235}, 
+                {"id": 8, "text": "자주", "head": 9, "label": "AP", "mod": [7], "weight": 0.663508}, 
+                {"id": 9, "text": "발생하는", "head": 12, "label": "VP_MOD", "mod": [6, 8], "weight": 0.882448}, 
+                {"id": 10, "text": "이", "head": 12, "label": "DP", "mod": [], "weight": 0.786211}, 
+                {"id": 11, "text": "기후", "head": 12, "label": "NP", "mod": [], "weight": 0.782884}, 
+                {"id": 12, "text": "현상은?", "head": -1, "label": "NP_SBJ", "mod": [9, 10, 11], "weight": 0.00823957}
+            ], 
+            "SRL": [
+                {"verb": "많", "sense": 1, "word_id": 2, "weight": 0.227719, "argument": [
+                    {"type": "ARG1", "word_id": 1, "text": "사용이", "weight": 0.227719}
+                ]}, 
+                {"verb": "집중", "sense": 1, "word_id": 4, "weight": 0.270265, "argument": [
+                    {"type": "ARG1", "word_id": 3, "text": "인구가", "weight": 0.27485}, 
+                    {"type": "AUX", "word_id": 5, "text": "있는", "weight": 0.377036}, 
+                    {"type": "ARG2", "word_id": 6, "text": "도시에서", "weight": 0.158908}
+                ]}, 
+                {"verb": "발생", "sense": 1, "word_id": 9, "weight": 0.119839, "argument": [
+                    {"type": "ARGM-LOC", "word_id": 6, "text": "도시에서", "weight": 1}, 
+                    {"type": "ARGM-ADV", "word_id": 8, "text": "자주", "weight": 0.135818}, 
+                    {"type": "ARG1", "word_id": 12, "text": "현상은?", "weight": 1}, 
+                    {"type": "ARGM-ADV", "word_id": 7, "text": "더", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "TI_DURATION", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": 1, "text": "한여름 밤의", "start_eid_short": 0, "end_eid_short": 1, "text_short": "한여름 밤의"}
+        ]}, 
+        {"id": 1, "type": "DT_SEASON", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 0, "end_eid": 0, "ne_id": 0, "text": "한여름", "start_eid_short": 0, "end_eid_short": 0, "text_short": "한여름"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "한여름 밤의 최저 기온이", "start_eid_short": 2, "end_eid_short": 3, "text_short": "최저 기온이"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "최저", "start_eid_short": 2, "end_eid_short": 2, "text_short": "최저"}
+        ]}, 
+        {"id": 4, "type": "QT_TEMPERATURE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 5, "ne_id": 2, "text": "한여름 밤의 최저 기온이 25°C 이상인", "start_eid_short": 5, "end_eid_short": 5, "text_short": "이상인"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 7, "ne_id": -1, "text": "한여름 밤의 최저 기온이 25°C 이상인 무더운 기후현상을", "start_eid_short": 7, "end_eid_short": 7, "text_short": "기후현상을"}, 
+            {"id": 10, "sent_id": 1, "start_eid": 10, "end_eid": 12, "ne_id": -1, "text": "이 기후 현상은?", "start_eid_short": 12, "end_eid_short": 12, "text_short": "현상은?"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 0, "end_eid": 6, "ne_id": -1, "text": "에너지 사용이 많고 인구가 집중되어 있는 도시에서", "start_eid_short": 6, "end_eid_short": 6, "text_short": "도시에서"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "에너지 사용이", "start_eid_short": 0, "end_eid_short": 1, "text_short": "에너지 사용이"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "에너지", "start_eid_short": 0, "end_eid_short": 0, "text_short": "에너지"}
+        ]}, 
+        {"id": 9, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 3, "end_eid": 3, "ne_id": -1, "text": "인구가", "start_eid_short": 3, "end_eid_short": 3, "text_short": "인구가"}
+        ]}
+    ]
+}

@@ -1,0 +1,291 @@
+{
+    "doc_id": "E2016.789.11_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "'좀처럼 만나기 어려운 기회'를 뜻하는 이 사자성어는 중국 동진 시대의 학자인 원굉이 '현명한 군주와 지모가 뛰어난 신하가 만나는 기회는 천년에 한번쯤이다'라고 한 데서 유래했다.", 
+            "morp": [
+                {"id": 0, "lemma": "'", "type": "SS", "position": 0, "weight": 1}, 
+                {"id": 1, "lemma": "좀처럼", "type": "MAG", "position": 1, "weight": 0.9}, 
+                {"id": 2, "lemma": "만나", "type": "VV", "position": 11, "weight": 0.389778}, 
+                {"id": 3, "lemma": "기", "type": "ETN", "position": 17, "weight": 0.0380514}, 
+                {"id": 4, "lemma": "어렵", "type": "VA", "position": 21, "weight": 0.0417172}, 
+                {"id": 5, "lemma": "ㄴ", "type": "ETM", "position": 24, "weight": 0.430446}, 
+                {"id": 6, "lemma": "기회", "type": "NNG", "position": 31, "weight": 0.9}, 
+                {"id": 7, "lemma": "'", "type": "SS", "position": 37, "weight": 1}, 
+                {"id": 8, "lemma": "를", "type": "JKO", "position": 38, "weight": 0.0357023}, 
+                {"id": 9, "lemma": "뜻", "type": "NNG", "position": 42, "weight": 0.9}, 
+                {"id": 10, "lemma": "하", "type": "XSV", "position": 45, "weight": 0.0001}, 
+                {"id": 11, "lemma": "는", "type": "ETM", "position": 48, "weight": 0.238503}, 
+                {"id": 12, "lemma": "이", "type": "MM", "position": 52, "weight": 0.00060084}, 
+                {"id": 13, "lemma": "사자성어", "type": "NNG", "position": 56, "weight": 0.9}, 
+                {"id": 14, "lemma": "는", "type": "JX", "position": 68, "weight": 0.0287565}, 
+                {"id": 15, "lemma": "중국", "type": "NNP", "position": 72, "weight": 0.0448537}, 
+                {"id": 16, "lemma": "동진", "type": "NNP", "position": 79, "weight": 0.0699271}, 
+                {"id": 17, "lemma": "시대", "type": "NNG", "position": 86, "weight": 0.9}, 
+                {"id": 18, "lemma": "의", "type": "JKG", "position": 92, "weight": 0.0694213}, 
+                {"id": 19, "lemma": "학자", "type": "NNG", "position": 96, "weight": 0.9}, 
+                {"id": 20, "lemma": "이", "type": "VCP", "position": 102, "weight": 0.0177525}, 
+                {"id": 21, "lemma": "ㄴ", "type": "ETM", "position": 102, "weight": 0.220712}, 
+                {"id": 22, "lemma": "원굉", "type": "NNP", "position": 106, "weight": 0.1}, 
+                {"id": 23, "lemma": "이", "type": "JKS", "position": 112, "weight": 0.0234517}, 
+                {"id": 24, "lemma": "'", "type": "SS", "position": 116, "weight": 1}, 
+                {"id": 25, "lemma": "현명", "type": "NNG", "position": 117, "weight": 0.185715}, 
+                {"id": 26, "lemma": "하", "type": "XSA", "position": 123, "weight": 0.0001}, 
+                {"id": 27, "lemma": "ㄴ", "type": "ETM", "position": 123, "weight": 0.488779}, 
+                {"id": 28, "lemma": "군주", "type": "NNG", "position": 127, "weight": 0.9}, 
+                {"id": 29, "lemma": "와", "type": "JC", "position": 133, "weight": 0.0169714}, 
+                {"id": 30, "lemma": "지모", "type": "NNG", "position": 137, "weight": 0.8}, 
+                {"id": 31, "lemma": "가", "type": "JKS", "position": 143, "weight": 0.066324}, 
+                {"id": 32, "lemma": "뛰어나", "type": "VA", "position": 147, "weight": 0.9}, 
+                {"id": 33, "lemma": "ㄴ", "type": "ETM", "position": 153, "weight": 0.430446}, 
+                {"id": 34, "lemma": "신하", "type": "NNG", "position": 157, "weight": 0.9}, 
+                {"id": 35, "lemma": "가", "type": "JKS", "position": 163, "weight": 0.066324}, 
+                {"id": 36, "lemma": "만나", "type": "VV", "position": 167, "weight": 0.314609}, 
+                {"id": 37, "lemma": "는", "type": "ETM", "position": 173, "weight": 0.184941}, 
+                {"id": 38, "lemma": "기회", "type": "NNG", "position": 177, "weight": 0.9}, 
+                {"id": 39, "lemma": "는", "type": "JX", "position": 183, "weight": 0.0287565}, 
+                {"id": 40, "lemma": "천년", "type": "NNG", "position": 187, "weight": 0.216614}, 
+                {"id": 41, "lemma": "에", "type": "JKB", "position": 193, "weight": 0.153364}, 
+                {"id": 42, "lemma": "한", "type": "MM", "position": 197, "weight": 0.0170035}, 
+                {"id": 43, "lemma": "번", "type": "NNB", "position": 200, "weight": 0.179863}, 
+                {"id": 44, "lemma": "쯤", "type": "XSN", "position": 203, "weight": 0.0225302}, 
+                {"id": 45, "lemma": "이", "type": "VCP", "position": 206, "weight": 0.0165001}, 
+                {"id": 46, "lemma": "다", "type": "EF", "position": 209, "weight": 0.353579}, 
+                {"id": 47, "lemma": "'", "type": "SS", "position": 212, "weight": 1}, 
+                {"id": 48, "lemma": "라고", "type": "JKQ", "position": 213, "weight": 0.00318431}, 
+                {"id": 49, "lemma": "하", "type": "VV", "position": 220, "weight": 0.525586}, 
+                {"id": 50, "lemma": "ㄴ", "type": "ETM", "position": 220, "weight": 0.304215}, 
+                {"id": 51, "lemma": "데", "type": "NNB", "position": 224, "weight": 0.226476}, 
+                {"id": 52, "lemma": "서", "type": "JKB", "position": 227, "weight": 0.0665276}, 
+                {"id": 53, "lemma": "유래", "type": "NNG", "position": 231, "weight": 0.9}, 
+                {"id": 54, "lemma": "하", "type": "XSV", "position": 237, "weight": 0.0001}, 
+                {"id": 55, "lemma": "았", "type": "EP", "position": 237, "weight": 0.9}, 
+                {"id": 56, "lemma": "다", "type": "EF", "position": 240, "weight": 0.640954}, 
+                {"id": 57, "lemma": ".", "type": "SF", "position": 243, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "좀처럼", "type": "MAG", "scode": "000000", "weight": 1, "position": 1, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "만나", "type": "VV", "scode": "000102", "weight": 0.142857, "position": 11, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "기", "type": "ETN", "scode": "000000", "weight": 1, "position": 17, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "어렵", "type": "VA", "scode": "000101", "weight": 0.142857, "position": 21, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 24, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "기회", "type": "NNG", "scode": "030001", "weight": 0.2, "position": 31, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 37, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 38, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "뜻하", "type": "VV", "scode": "000200", "weight": 0.333333, "position": 42, "begin": 9, "end": 10}, 
+                {"id": 10, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 48, "begin": 11, "end": 11}, 
+                {"id": 11, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 52, "begin": 12, "end": 12}, 
+                {"id": 12, "text": "사자성어", "type": "NNG", "scode": "000000", "weight": 0, "position": 56, "begin": 13, "end": 13}, 
+                {"id": 13, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 68, "begin": 14, "end": 14}, 
+                {"id": 14, "text": "중국", "type": "NNP", "scode": "010000", "weight": 0.5, "position": 72, "begin": 15, "end": 15}, 
+                {"id": 15, "text": "동진", "type": "NNP", "scode": "030000", "weight": 0.142857, "position": 79, "begin": 16, "end": 16}, 
+                {"id": 16, "text": "시대", "type": "NNG", "scode": "020001", "weight": 0.333333, "position": 86, "begin": 17, "end": 17}, 
+                {"id": 17, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 92, "begin": 18, "end": 18}, 
+                {"id": 18, "text": "학자", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 96, "begin": 19, "end": 19}, 
+                {"id": 19, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 102, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 102, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "원굉", "type": "NNP", "scode": "000000", "weight": 0, "position": 106, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 112, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 116, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "현명하", "type": "VA", "scode": "010000", "weight": 0.333333, "position": 117, "begin": 25, "end": 26}, 
+                {"id": 25, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 123, "begin": 27, "end": 27}, 
+                {"id": 26, "text": "군주", "type": "NNG", "scode": "010000", "weight": 0.25, "position": 127, "begin": 28, "end": 28}, 
+                {"id": 27, "text": "와", "type": "JC", "scode": "000000", "weight": 1, "position": 133, "begin": 29, "end": 29}, 
+                {"id": 28, "text": "지모", "type": "NNG", "scode": "040000", "weight": 0.166667, "position": 137, "begin": 30, "end": 30}, 
+                {"id": 29, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 143, "begin": 31, "end": 31}, 
+                {"id": 30, "text": "뛰어나", "type": "VA", "scode": "000000", "weight": 1, "position": 147, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 153, "begin": 33, "end": 33}, 
+                {"id": 32, "text": "신하", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 157, "begin": 34, "end": 34}, 
+                {"id": 33, "text": "가", "type": "JKS", "scode": "000000", "weight": 1, "position": 163, "begin": 35, "end": 35}, 
+                {"id": 34, "text": "만나", "type": "VV", "scode": "000102", "weight": 0.142857, "position": 167, "begin": 36, "end": 36}, 
+                {"id": 35, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 173, "begin": 37, "end": 37}, 
+                {"id": 36, "text": "기회", "type": "NNG", "scode": "030001", "weight": 0.2, "position": 177, "begin": 38, "end": 38}, 
+                {"id": 37, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 183, "begin": 39, "end": 39}, 
+                {"id": 38, "text": "천년", "type": "NNG", "scode": "010000", "weight": 0.333333, "position": 187, "begin": 40, "end": 40}, 
+                {"id": 39, "text": "에", "type": "JKB", "scode": "000000", "weight": 1, "position": 193, "begin": 41, "end": 41}, 
+                {"id": 40, "text": "한", "type": "MM", "scode": "010001", "weight": 0.0357143, "position": 197, "begin": 42, "end": 42}, 
+                {"id": 41, "text": "번", "type": "NNB", "scode": "040002", "weight": 0.0769231, "position": 200, "begin": 43, "end": 43}, 
+                {"id": 42, "text": "쯤", "type": "XSN", "scode": "020000", "weight": 0.5, "position": 203, "begin": 44, "end": 44}, 
+                {"id": 43, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 206, "begin": 45, "end": 45}, 
+                {"id": 44, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 209, "begin": 46, "end": 46}, 
+                {"id": 45, "text": "'", "type": "SS", "scode": "000000", "weight": 1, "position": 212, "begin": 47, "end": 47}, 
+                {"id": 46, "text": "라고", "type": "JKQ", "scode": "000000", "weight": 1, "position": 213, "begin": 48, "end": 48}, 
+                {"id": 47, "text": "하", "type": "VV", "scode": "010701", "weight": 0.02, "position": 220, "begin": 49, "end": 49}, 
+                {"id": 48, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 220, "begin": 50, "end": 50}, 
+                {"id": 49, "text": "데", "type": "NNB", "scode": "010002", "weight": 0.1, "position": 224, "begin": 51, "end": 51}, 
+                {"id": 50, "text": "서", "type": "JKB", "scode": "000000", "weight": 1, "position": 227, "begin": 52, "end": 52}, 
+                {"id": 51, "text": "유래하", "type": "VV", "scode": "000000", "weight": 1, "position": 231, "begin": 53, "end": 54}, 
+                {"id": 52, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 237, "begin": 55, "end": 55}, 
+                {"id": 53, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 240, "begin": 56, "end": 56}, 
+                {"id": 54, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 243, "begin": 57, "end": 57}
+            ], 
+            "word": [
+                {"id": 0, "text": "'좀처럼", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "만나기", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "어려운", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "기회'를", "type": "", "begin": 6, "end": 8}, 
+                {"id": 4, "text": "뜻하는", "type": "", "begin": 9, "end": 11}, 
+                {"id": 5, "text": "이", "type": "", "begin": 12, "end": 12}, 
+                {"id": 6, "text": "사자성어는", "type": "", "begin": 13, "end": 14}, 
+                {"id": 7, "text": "중국", "type": "", "begin": 15, "end": 15}, 
+                {"id": 8, "text": "동진", "type": "", "begin": 16, "end": 16}, 
+                {"id": 9, "text": "시대의", "type": "", "begin": 17, "end": 18}, 
+                {"id": 10, "text": "학자인", "type": "", "begin": 19, "end": 21}, 
+                {"id": 11, "text": "원굉이", "type": "", "begin": 22, "end": 23}, 
+                {"id": 12, "text": "'현명한", "type": "", "begin": 24, "end": 27}, 
+                {"id": 13, "text": "군주와", "type": "", "begin": 28, "end": 29}, 
+                {"id": 14, "text": "지모가", "type": "", "begin": 30, "end": 31}, 
+                {"id": 15, "text": "뛰어난", "type": "", "begin": 32, "end": 33}, 
+                {"id": 16, "text": "신하가", "type": "", "begin": 34, "end": 35}, 
+                {"id": 17, "text": "만나는", "type": "", "begin": 36, "end": 37}, 
+                {"id": 18, "text": "기회는", "type": "", "begin": 38, "end": 39}, 
+                {"id": 19, "text": "천년에", "type": "", "begin": 40, "end": 41}, 
+                {"id": 20, "text": "한번쯤이다'라고", "type": "", "begin": 42, "end": 48}, 
+                {"id": 21, "text": "한", "type": "", "begin": 49, "end": 50}, 
+                {"id": 22, "text": "데서", "type": "", "begin": 51, "end": 52}, 
+                {"id": 23, "text": "유래했다.", "type": "", "begin": 53, "end": 57}
+            ], 
+            "NE": [
+                {"id": 0, "text": "중국", "type": "LCP_COUNTRY", "begin": 15, "end": 15, "weight": 0.53479, "common_noun": 0}, 
+                {"id": 1, "text": "동진 시대", "type": "DT_DYNASTY", "begin": 16, "end": 17, "weight": 0.43385, "common_noun": 0}, 
+                {"id": 2, "text": "학자", "type": "CV_OCCUPATION", "begin": 19, "end": 19, "weight": 0.576199, "common_noun": 0}, 
+                {"id": 3, "text": "원굉", "type": "PS_NAME", "begin": 22, "end": 22, "weight": 0.255474, "common_noun": 0}, 
+                {"id": 4, "text": "군주", "type": "CV_POSITION", "begin": 28, "end": 28, "weight": 0.496968, "common_noun": 0}, 
+                {"id": 5, "text": "신하", "type": "CV_POSITION", "begin": 34, "end": 34, "weight": 0.403938, "common_noun": 0}, 
+                {"id": 6, "text": "천년", "type": "DT_DURATION", "begin": 40, "end": 40, "weight": 0.338698, "common_noun": 0}, 
+                {"id": 7, "text": "한번", "type": "QT_COUNT", "begin": 42, "end": 43, "weight": 0.757192, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "'좀처럼", "head": 2, "label": "AP", "mod": [], "weight": 0.46908}, 
+                {"id": 1, "text": "만나기", "head": 2, "label": "VP_SBJ", "mod": [], "weight": 0.538979}, 
+                {"id": 2, "text": "어려운", "head": 3, "label": "VP_MOD", "mod": [1, 0], "weight": 0.774571}, 
+                {"id": 3, "text": "기회'를", "head": 4, "label": "NP_OBJ", "mod": [2], "weight": 0.605081}, 
+                {"id": 4, "text": "뜻하는", "head": 6, "label": "VP_MOD", "mod": [3], "weight": 0.698494}, 
+                {"id": 5, "text": "이", "head": 6, "label": "DP", "mod": [], "weight": 0.695933}, 
+                {"id": 6, "text": "사자성어는", "head": 23, "label": "NP_SBJ", "mod": [4, 5], "weight": 0.780643}, 
+                {"id": 7, "text": "중국", "head": 8, "label": "NP", "mod": [], "weight": 0.467631}, 
+                {"id": 8, "text": "동진", "head": 9, "label": "NP", "mod": [7], "weight": 0.828976}, 
+                {"id": 9, "text": "시대의", "head": 10, "label": "NP_MOD", "mod": [8], "weight": 0.754919}, 
+                {"id": 10, "text": "학자인", "head": 11, "label": "VNP_MOD", "mod": [9], "weight": 0.598775}, 
+                {"id": 11, "text": "원굉이", "head": 21, "label": "NP_SBJ", "mod": [10], "weight": 0.1548}, 
+                {"id": 12, "text": "'현명한", "head": 13, "label": "VP_MOD", "mod": [], "weight": 0.618235}, 
+                {"id": 13, "text": "군주와", "head": 16, "label": "NP_CNJ", "mod": [12], "weight": 0.0725607}, 
+                {"id": 14, "text": "지모가", "head": 15, "label": "NP_SBJ", "mod": [], "weight": 0.691836}, 
+                {"id": 15, "text": "뛰어난", "head": 16, "label": "VP_MOD", "mod": [14], "weight": 0.708365}, 
+                {"id": 16, "text": "신하가", "head": 17, "label": "NP_SBJ", "mod": [15, 13], "weight": 0.823091}, 
+                {"id": 17, "text": "만나는", "head": 18, "label": "VP_MOD", "mod": [16], "weight": 0.847611}, 
+                {"id": 18, "text": "기회는", "head": 20, "label": "NP_SBJ", "mod": [17], "weight": 0.0275587}, 
+                {"id": 19, "text": "천년에", "head": 20, "label": "NP_AJT", "mod": [], "weight": 0.829023}, 
+                {"id": 20, "text": "한번쯤이다'라고", "head": 21, "label": "VNP_CMP", "mod": [18, 19], "weight": 0.229373}, 
+                {"id": 21, "text": "한", "head": 22, "label": "VP_MOD", "mod": [20, 11], "weight": 0.753453}, 
+                {"id": 22, "text": "데서", "head": 23, "label": "NP_AJT", "mod": [21], "weight": 0.874351}, 
+                {"id": 23, "text": "유래했다.", "head": -1, "label": "VP", "mod": [6, 22], "weight": 5.70138e-08}
+            ], 
+            "SRL": [
+                {"verb": "어렵", "sense": 1, "word_id": 2, "weight": 0.19927, "argument": [
+                    {"type": "ARG1", "word_id": 1, "text": "만나기", "weight": 0.19927}
+                ]}, 
+                {"verb": "뜻하", "sense": 1, "word_id": 4, "weight": 0.306496, "argument": [
+                    {"type": "ARG2", "word_id": 3, "text": "기회'를", "weight": 0.36342}, 
+                    {"type": "ARG1", "word_id": 6, "text": "사자성어는", "weight": 0.249572}
+                ]}, 
+                {"verb": "현명", "sense": 1, "word_id": 12, "weight": 0, "argument": [
+                    {"type": "ARG1", "word_id": 13, "text": "군주와", "weight": 1}
+                ]}, 
+                {"verb": "뛰어나", "sense": 1, "word_id": 15, "weight": 0.153804, "argument": [
+                    {"type": "ARG1", "word_id": 14, "text": "지모가", "weight": 0.153804}, 
+                    {"type": "ARG0", "word_id": 16, "text": "신하가", "weight": 1}
+                ]}, 
+                {"verb": "만나", "sense": 1, "word_id": 17, "weight": 0.166567, "argument": [
+                    {"type": "ARG0", "word_id": 16, "text": "신하가", "weight": 0.235705}, 
+                    {"type": "ARG1", "word_id": 18, "text": "기회는", "weight": 1}
+                ]}, 
+                {"verb": "하", "sense": 2, "word_id": 21, "weight": 0.110115, "argument": [
+                    {"type": "ARG2", "word_id": 20, "text": "한번쯤이다'라고", "weight": 1}, 
+                    {"type": "ARG0", "word_id": 11, "text": "원굉이", "weight": 1}
+                ]}, 
+                {"verb": "유래", "sense": 1, "word_id": 23, "weight": 0.236807, "argument": [
+                    {"type": "ARG1", "word_id": 6, "text": "사자성어는", "weight": 0.23949}, 
+                    {"type": "ARG2", "word_id": 22, "text": "데서", "weight": 0.234124}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "이 말은 무엇일까?", 
+            "morp": [
+                {"id": 0, "lemma": "이", "type": "MM", "position": 244, "weight": 0.0020222}, 
+                {"id": 1, "lemma": "말", "type": "NNG", "position": 248, "weight": 0.592037}, 
+                {"id": 2, "lemma": "은", "type": "JX", "position": 251, "weight": 0.0449928}, 
+                {"id": 3, "lemma": "무엇", "type": "NP", "position": 255, "weight": 0.9}, 
+                {"id": 4, "lemma": "이", "type": "VCP", "position": 261, "weight": 0.0175768}, 
+                {"id": 5, "lemma": "ㄹ까", "type": "EF", "position": 261, "weight": 0.258243}, 
+                {"id": 6, "lemma": "?", "type": "SF", "position": 267, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이", "type": "MM", "scode": "050102", "weight": 0.0172414, "position": 244, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "말", "type": "NNG", "scode": "010004", "weight": 0.0384615, "position": 248, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 251, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "무엇", "type": "NP", "scode": "000001", "weight": 0.5, "position": 255, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "이", "type": "VCP", "scode": "030000", "weight": 0.0172414, "position": 261, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "ㄹ까", "type": "EF", "scode": "000000", "weight": 1, "position": 261, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 267, "begin": 6, "end": 6}
+            ], 
+            "word": [
+                {"id": 0, "text": "이", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "말은", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "무엇일까?", "type": "", "begin": 3, "end": 6}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이", "head": 1, "label": "DP", "mod": [], "weight": 0.624609}, 
+                {"id": 1, "text": "말은", "head": 2, "label": "NP_SBJ", "mod": [0], "weight": 0.771137}, 
+                {"id": 2, "text": "무엇일까?", "head": -1, "label": "VNP", "mod": [1], "weight": 0.42293}
+            ], 
+            "SRL": [], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "CV_LANGUAGE", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "'좀처럼 만나기 어려운 기회'를", "start_eid_short": 3, "end_eid_short": 3, "text_short": "기회'를"}, 
+            {"id": 1, "sent_id": 0, "start_eid": 5, "end_eid": 6, "ne_id": 0, "text": "이 사자성어는", "start_eid_short": 5, "end_eid_short": 6, "text_short": "이 사자성어는"}, 
+            {"id": 7, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "이 말은", "start_eid_short": 0, "end_eid_short": 1, "text_short": "이 말은"}, 
+            {"id": 8, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": -1, "text": "무엇일까?", "start_eid_short": 2, "end_eid_short": 2, "text_short": "무엇일까?"}
+        ]}, 
+        {"id": 1, "type": "DT_DYNASTY", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 7, "end_eid": 9, "ne_id": 2, "text": "중국 동진 시대의", "start_eid_short": 7, "end_eid_short": 9, "text_short": "중국 동진 시대의"}
+        ]}, 
+        {"id": 2, "type": "LCP_COUNTRY", "number": "singular", "gender": "", "person": "", "animacy": "place", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": 1, "text": "중국", "start_eid_short": 7, "end_eid_short": 7, "text_short": "중국"}
+        ]}, 
+        {"id": 3, "type": "PS_NAME", "number": "singular", "gender": "", "person": "", "animacy": "human", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 7, "end_eid": 11, "ne_id": 4, "text": "중국 동진 시대의 학자인 원굉이", "start_eid_short": 11, "end_eid_short": 11, "text_short": "원굉이"}, 
+            {"id": 3, "sent_id": 0, "start_eid": 7, "end_eid": 10, "ne_id": 3, "text": "중국 동진 시대의 학자인", "start_eid_short": 10, "end_eid_short": 10, "text_short": "학자인"}
+        ]}, 
+        {"id": 4, "type": "QT_COUNT", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 0, "start_eid": 12, "end_eid": 20, "ne_id": 6, "text": "'현명한 군주와 지모가 뛰어난 신하가 만나는 기회는 천년에 한번쯤이다'라고", "start_eid_short": 20, "end_eid_short": 20, "text_short": "한번쯤이다'라고"}
+        ]}
+    ]
+}

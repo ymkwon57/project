@@ -1,0 +1,320 @@
+{
+    "doc_id": "E2016.836.21_Q_01.json", 
+    "DCT": "", 
+    "category": "", 
+    "category_weight": 0, 
+    "title": {
+        "text": "", 
+        "NE": ""
+    }, 
+    "metaInfo": {}, 
+    "sentence": [
+        {
+            "id": 0, 
+            "reserve_str": "", 
+            "text": "이 사람이 제작한 세계지도는 기존의 경위선 개념을 과학적으로 체계화했다.", 
+            "morp": [
+                {"id": 0, "lemma": "이", "type": "MM", "position": 0, "weight": 0.0020222}, 
+                {"id": 1, "lemma": "사람", "type": "NNG", "position": 4, "weight": 0.737436}, 
+                {"id": 2, "lemma": "이", "type": "JKS", "position": 10, "weight": 0.0360723}, 
+                {"id": 3, "lemma": "제작", "type": "NNG", "position": 14, "weight": 0.9}, 
+                {"id": 4, "lemma": "하", "type": "XSV", "position": 20, "weight": 0.0001}, 
+                {"id": 5, "lemma": "ㄴ", "type": "ETM", "position": 20, "weight": 0.392321}, 
+                {"id": 6, "lemma": "세계", "type": "NNG", "position": 24, "weight": 0.9}, 
+                {"id": 7, "lemma": "지도", "type": "NNG", "position": 30, "weight": 0.184498}, 
+                {"id": 8, "lemma": "는", "type": "JX", "position": 36, "weight": 0.0287565}, 
+                {"id": 9, "lemma": "기존", "type": "NNG", "position": 40, "weight": 0.9}, 
+                {"id": 10, "lemma": "의", "type": "JKG", "position": 46, "weight": 0.0694213}, 
+                {"id": 11, "lemma": "경위", "type": "NNG", "position": 50, "weight": 0.9}, 
+                {"id": 12, "lemma": "선", "type": "XSN", "position": 56, "weight": 0.00217259}, 
+                {"id": 13, "lemma": "개념", "type": "NNG", "position": 60, "weight": 0.9}, 
+                {"id": 14, "lemma": "을", "type": "JKO", "position": 66, "weight": 0.129611}, 
+                {"id": 15, "lemma": "과학", "type": "NNG", "position": 70, "weight": 0.9}, 
+                {"id": 16, "lemma": "적", "type": "XSN", "position": 76, "weight": 0.0168756}, 
+                {"id": 17, "lemma": "으로", "type": "JKB", "position": 79, "weight": 0.121717}, 
+                {"id": 18, "lemma": "체계", "type": "NNG", "position": 86, "weight": 0.9}, 
+                {"id": 19, "lemma": "화", "type": "XSN", "position": 92, "weight": 0.0240371}, 
+                {"id": 20, "lemma": "하", "type": "XSV", "position": 95, "weight": 0.000102334}, 
+                {"id": 21, "lemma": "았", "type": "EP", "position": 95, "weight": 0.9}, 
+                {"id": 22, "lemma": "다", "type": "EF", "position": 98, "weight": 0.640954}, 
+                {"id": 23, "lemma": ".", "type": "SF", "position": 101, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "이", "type": "MM", "scode": "050001", "weight": 0.0172414, "position": 0, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "사람", "type": "NNG", "scode": "000001", "weight": 0.0909091, "position": 4, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "이", "type": "JKS", "scode": "000000", "weight": 1, "position": 10, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "제작하", "type": "VV", "scode": "020000", "weight": 0.333333, "position": 14, "begin": 3, "end": 4}, 
+                {"id": 4, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 20, "begin": 5, "end": 5}, 
+                {"id": 5, "text": "세계지도", "type": "NNG", "scode": "000000", "weight": 1, "position": 24, "begin": 6, "end": 7}, 
+                {"id": 6, "text": "는", "type": "JX", "scode": "000000", "weight": 1, "position": 36, "begin": 8, "end": 8}, 
+                {"id": 7, "text": "기존", "type": "NNG", "scode": "000000", "weight": 1, "position": 40, "begin": 9, "end": 9}, 
+                {"id": 8, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 46, "begin": 10, "end": 10}, 
+                {"id": 9, "text": "경위선", "type": "NNG", "scode": "000000", "weight": 1, "position": 50, "begin": 11, "end": 12}, 
+                {"id": 10, "text": "개념", "type": "NNG", "scode": "000001", "weight": 0.333333, "position": 60, "begin": 13, "end": 13}, 
+                {"id": 11, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 66, "begin": 14, "end": 14}, 
+                {"id": 12, "text": "과학적", "type": "NNG", "scode": "000000", "weight": 1, "position": 70, "begin": 15, "end": 16}, 
+                {"id": 13, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 79, "begin": 17, "end": 17}, 
+                {"id": 14, "text": "체계화하", "type": "VV", "scode": "000000", "weight": 1, "position": 86, "begin": 18, "end": 20}, 
+                {"id": 15, "text": "았", "type": "EP", "scode": "000000", "weight": 1, "position": 95, "begin": 21, "end": 21}, 
+                {"id": 16, "text": "다", "type": "EF", "scode": "000000", "weight": 1, "position": 98, "begin": 22, "end": 22}, 
+                {"id": 17, "text": ".", "type": "SF", "scode": "000000", "weight": 1, "position": 101, "begin": 23, "end": 23}
+            ], 
+            "word": [
+                {"id": 0, "text": "이", "type": "", "begin": 0, "end": 0}, 
+                {"id": 1, "text": "사람이", "type": "", "begin": 1, "end": 2}, 
+                {"id": 2, "text": "제작한", "type": "", "begin": 3, "end": 5}, 
+                {"id": 3, "text": "세계지도는", "type": "", "begin": 6, "end": 8}, 
+                {"id": 4, "text": "기존의", "type": "", "begin": 9, "end": 10}, 
+                {"id": 5, "text": "경위선", "type": "", "begin": 11, "end": 12}, 
+                {"id": 6, "text": "개념을", "type": "", "begin": 13, "end": 14}, 
+                {"id": 7, "text": "과학적으로", "type": "", "begin": 15, "end": 17}, 
+                {"id": 8, "text": "체계화했다.", "type": "", "begin": 18, "end": 23}
+            ], 
+            "NE": [], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "이", "head": 1, "label": "DP", "mod": [], "weight": 0.750436}, 
+                {"id": 1, "text": "사람이", "head": 2, "label": "NP_SBJ", "mod": [0], "weight": 0.755174}, 
+                {"id": 2, "text": "제작한", "head": 3, "label": "VP_MOD", "mod": [1], "weight": 0.663466}, 
+                {"id": 3, "text": "세계지도는", "head": 8, "label": "NP_SBJ", "mod": [2], "weight": 0.757353}, 
+                {"id": 4, "text": "기존의", "head": 6, "label": "NP_MOD", "mod": [], "weight": 0.726352}, 
+                {"id": 5, "text": "경위선", "head": 6, "label": "NP", "mod": [], "weight": 0.672248}, 
+                {"id": 6, "text": "개념을", "head": 8, "label": "NP_OBJ", "mod": [4, 5], "weight": 0.751067}, 
+                {"id": 7, "text": "과학적으로", "head": 8, "label": "NP_AJT", "mod": [], "weight": 0.792091}, 
+                {"id": 8, "text": "체계화했다.", "head": -1, "label": "VP", "mod": [3, 6, 7], "weight": 0.0580627}
+            ], 
+            "SRL": [
+                {"verb": "제작", "sense": 1, "word_id": 2, "weight": 0.23458, "argument": [
+                    {"type": "ARG0", "word_id": 1, "text": "사람이", "weight": 0.310776}, 
+                    {"type": "ARG1", "word_id": 3, "text": "세계지도는", "weight": 0.158383}
+                ]}, 
+                {"verb": "체계화", "sense": 1, "word_id": 8, "weight": 0.120573, "argument": [
+                    {"type": "ARGM-INS", "word_id": 3, "text": "세계지도는", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 6, "text": "개념을", "weight": 0.138524}, 
+                    {"type": "ARGM-MNR", "word_id": 7, "text": "과학적으로", "weight": 0.0732481}, 
+                    {"type": "ARG0", "word_id": 1, "text": "사람이", "weight": 1}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }, 
+        {
+            "id": 1, 
+            "reserve_str": "", 
+            "text": "지도의 위쪽을 북쪽으로 해 방위를 정하는 등 현대 지도의 요소를 포함하고 있으며 근대 지도의 효시로 알려진 세계지도를 제작한 이 사람은?", 
+            "morp": [
+                {"id": 0, "lemma": "지도", "type": "NNG", "position": 102, "weight": 0.437138}, 
+                {"id": 1, "lemma": "의", "type": "JKG", "position": 108, "weight": 0.0694213}, 
+                {"id": 2, "lemma": "위쪽", "type": "NNG", "position": 112, "weight": 0.9}, 
+                {"id": 3, "lemma": "을", "type": "JKO", "position": 118, "weight": 0.129611}, 
+                {"id": 4, "lemma": "북쪽", "type": "NNG", "position": 122, "weight": 0.9}, 
+                {"id": 5, "lemma": "으로", "type": "JKB", "position": 128, "weight": 0.153406}, 
+                {"id": 6, "lemma": "하", "type": "VV", "position": 135, "weight": 0.275522}, 
+                {"id": 7, "lemma": "아", "type": "EC", "position": 135, "weight": 0.41831}, 
+                {"id": 8, "lemma": "방위", "type": "NNG", "position": 139, "weight": 0.9}, 
+                {"id": 9, "lemma": "를", "type": "JKO", "position": 145, "weight": 0.137686}, 
+                {"id": 10, "lemma": "정하", "type": "VV", "position": 149, "weight": 0.0441235}, 
+                {"id": 11, "lemma": "는", "type": "ETM", "position": 155, "weight": 0.238503}, 
+                {"id": 12, "lemma": "등", "type": "NNB", "position": 159, "weight": 0.212402}, 
+                {"id": 13, "lemma": "현대", "type": "NNG", "position": 163, "weight": 0.0647794}, 
+                {"id": 14, "lemma": "지도", "type": "NNG", "position": 170, "weight": 0.184498}, 
+                {"id": 15, "lemma": "의", "type": "JKG", "position": 176, "weight": 0.0694213}, 
+                {"id": 16, "lemma": "요소", "type": "NNG", "position": 180, "weight": 0.9}, 
+                {"id": 17, "lemma": "를", "type": "JKO", "position": 186, "weight": 0.137686}, 
+                {"id": 18, "lemma": "포함", "type": "NNG", "position": 190, "weight": 0.9}, 
+                {"id": 19, "lemma": "하", "type": "XSV", "position": 196, "weight": 0.0001}, 
+                {"id": 20, "lemma": "고", "type": "EC", "position": 199, "weight": 0.359917}, 
+                {"id": 21, "lemma": "있", "type": "VX", "position": 203, "weight": 0.125953}, 
+                {"id": 22, "lemma": "으며", "type": "EC", "position": 206, "weight": 0.265281}, 
+                {"id": 23, "lemma": "근대", "type": "NNG", "position": 213, "weight": 0.21925}, 
+                {"id": 24, "lemma": "지도", "type": "NNG", "position": 220, "weight": 0.184498}, 
+                {"id": 25, "lemma": "의", "type": "JKG", "position": 226, "weight": 0.0694213}, 
+                {"id": 26, "lemma": "효시", "type": "NNG", "position": 230, "weight": 0.9}, 
+                {"id": 27, "lemma": "로", "type": "JKB", "position": 236, "weight": 0.153229}, 
+                {"id": 28, "lemma": "알려지", "type": "VV", "position": 240, "weight": 0.9}, 
+                {"id": 29, "lemma": "ㄴ", "type": "ETM", "position": 246, "weight": 0.304215}, 
+                {"id": 30, "lemma": "세계", "type": "NNG", "position": 250, "weight": 0.9}, 
+                {"id": 31, "lemma": "지도", "type": "NNG", "position": 256, "weight": 0.184498}, 
+                {"id": 32, "lemma": "를", "type": "JKO", "position": 262, "weight": 0.137686}, 
+                {"id": 33, "lemma": "제작", "type": "NNG", "position": 266, "weight": 0.9}, 
+                {"id": 34, "lemma": "하", "type": "XSV", "position": 272, "weight": 0.0001}, 
+                {"id": 35, "lemma": "ㄴ", "type": "ETM", "position": 272, "weight": 0.392321}, 
+                {"id": 36, "lemma": "이", "type": "MM", "position": 276, "weight": 0.00060084}, 
+                {"id": 37, "lemma": "사람", "type": "NNG", "position": 280, "weight": 0.737436}, 
+                {"id": 38, "lemma": "은", "type": "JX", "position": 286, "weight": 0.0449928}, 
+                {"id": 39, "lemma": "?", "type": "SF", "position": 289, "weight": 1}
+            ], 
+            "morp_eval": [], 
+            "WSD": [
+                {"id": 0, "text": "지도", "type": "NNG", "scode": "030000", "weight": 0.0833333, "position": 102, "begin": 0, "end": 0}, 
+                {"id": 1, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 108, "begin": 1, "end": 1}, 
+                {"id": 2, "text": "위쪽", "type": "NNG", "scode": "000000", "weight": 1, "position": 112, "begin": 2, "end": 2}, 
+                {"id": 3, "text": "을", "type": "JKO", "scode": "000000", "weight": 1, "position": 118, "begin": 3, "end": 3}, 
+                {"id": 4, "text": "북쪽", "type": "NNG", "scode": "000001", "weight": 0.5, "position": 122, "begin": 4, "end": 4}, 
+                {"id": 5, "text": "으로", "type": "JKB", "scode": "000000", "weight": 1, "position": 128, "begin": 5, "end": 5}, 
+                {"id": 6, "text": "하", "type": "VV", "scode": "010302", "weight": 0.02, "position": 135, "begin": 6, "end": 6}, 
+                {"id": 7, "text": "아", "type": "EC", "scode": "000000", "weight": 1, "position": 135, "begin": 7, "end": 7}, 
+                {"id": 8, "text": "방위", "type": "NNG", "scode": "010001", "weight": 0.2, "position": 139, "begin": 8, "end": 8}, 
+                {"id": 9, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 145, "begin": 9, "end": 9}, 
+                {"id": 10, "text": "정하", "type": "VV", "scode": "030201", "weight": 0.1, "position": 149, "begin": 10, "end": 10}, 
+                {"id": 11, "text": "는", "type": "ETM", "scode": "000000", "weight": 1, "position": 155, "begin": 11, "end": 11}, 
+                {"id": 12, "text": "등", "type": "NNB", "scode": "050001", "weight": 0.0526316, "position": 159, "begin": 12, "end": 12}, 
+                {"id": 13, "text": "현대", "type": "NNG", "scode": "010001", "weight": 0.333333, "position": 163, "begin": 13, "end": 13}, 
+                {"id": 14, "text": "지도", "type": "NNG", "scode": "030000", "weight": 0.0833333, "position": 170, "begin": 14, "end": 14}, 
+                {"id": 15, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 176, "begin": 15, "end": 15}, 
+                {"id": 16, "text": "요소", "type": "NNG", "scode": "040001", "weight": 0.142857, "position": 180, "begin": 16, "end": 16}, 
+                {"id": 17, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 186, "begin": 17, "end": 17}, 
+                {"id": 18, "text": "포함하", "type": "VV", "scode": "020001", "weight": 0.25, "position": 190, "begin": 18, "end": 19}, 
+                {"id": 19, "text": "고", "type": "EC", "scode": "000000", "weight": 1, "position": 199, "begin": 20, "end": 20}, 
+                {"id": 20, "text": "있", "type": "VX", "scode": "010901", "weight": 0.0416667, "position": 203, "begin": 21, "end": 21}, 
+                {"id": 21, "text": "으며", "type": "EC", "scode": "000000", "weight": 1, "position": 206, "begin": 22, "end": 22}, 
+                {"id": 22, "text": "근대", "type": "NNG", "scode": "030002", "weight": 0.25, "position": 213, "begin": 23, "end": 23}, 
+                {"id": 23, "text": "지도", "type": "NNG", "scode": "030000", "weight": 0.0833333, "position": 220, "begin": 24, "end": 24}, 
+                {"id": 24, "text": "의", "type": "JKG", "scode": "000000", "weight": 1, "position": 226, "begin": 25, "end": 25}, 
+                {"id": 25, "text": "효시", "type": "NNG", "scode": "030002", "weight": 0.25, "position": 230, "begin": 26, "end": 26}, 
+                {"id": 26, "text": "로", "type": "JKB", "scode": "000000", "weight": 1, "position": 236, "begin": 27, "end": 27}, 
+                {"id": 27, "text": "알려지", "type": "VV", "scode": "000002", "weight": 0.5, "position": 240, "begin": 28, "end": 28}, 
+                {"id": 28, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 246, "begin": 29, "end": 29}, 
+                {"id": 29, "text": "세계지도", "type": "NNG", "scode": "000000", "weight": 1, "position": 250, "begin": 30, "end": 31}, 
+                {"id": 30, "text": "를", "type": "JKO", "scode": "000000", "weight": 1, "position": 262, "begin": 32, "end": 32}, 
+                {"id": 31, "text": "제작하", "type": "VV", "scode": "020000", "weight": 0.333333, "position": 266, "begin": 33, "end": 34}, 
+                {"id": 32, "text": "ㄴ", "type": "ETM", "scode": "000000", "weight": 1, "position": 272, "begin": 35, "end": 35}, 
+                {"id": 33, "text": "이", "type": "MM", "scode": "050002", "weight": 0.0172414, "position": 276, "begin": 36, "end": 36}, 
+                {"id": 34, "text": "사람", "type": "NNG", "scode": "000001", "weight": 0.0909091, "position": 280, "begin": 37, "end": 37}, 
+                {"id": 35, "text": "은", "type": "JX", "scode": "000000", "weight": 1, "position": 286, "begin": 38, "end": 38}, 
+                {"id": 36, "text": "?", "type": "SF", "scode": "000000", "weight": 1, "position": 289, "begin": 39, "end": 39}
+            ], 
+            "word": [
+                {"id": 0, "text": "지도의", "type": "", "begin": 0, "end": 1}, 
+                {"id": 1, "text": "위쪽을", "type": "", "begin": 2, "end": 3}, 
+                {"id": 2, "text": "북쪽으로", "type": "", "begin": 4, "end": 5}, 
+                {"id": 3, "text": "해", "type": "", "begin": 6, "end": 7}, 
+                {"id": 4, "text": "방위를", "type": "", "begin": 8, "end": 9}, 
+                {"id": 5, "text": "정하는", "type": "", "begin": 10, "end": 11}, 
+                {"id": 6, "text": "등", "type": "", "begin": 12, "end": 12}, 
+                {"id": 7, "text": "현대", "type": "", "begin": 13, "end": 13}, 
+                {"id": 8, "text": "지도의", "type": "", "begin": 14, "end": 15}, 
+                {"id": 9, "text": "요소를", "type": "", "begin": 16, "end": 17}, 
+                {"id": 10, "text": "포함하고", "type": "", "begin": 18, "end": 20}, 
+                {"id": 11, "text": "있으며", "type": "", "begin": 21, "end": 22}, 
+                {"id": 12, "text": "근대", "type": "", "begin": 23, "end": 23}, 
+                {"id": 13, "text": "지도의", "type": "", "begin": 24, "end": 25}, 
+                {"id": 14, "text": "효시로", "type": "", "begin": 26, "end": 27}, 
+                {"id": 15, "text": "알려진", "type": "", "begin": 28, "end": 29}, 
+                {"id": 16, "text": "세계지도를", "type": "", "begin": 30, "end": 32}, 
+                {"id": 17, "text": "제작한", "type": "", "begin": 33, "end": 35}, 
+                {"id": 18, "text": "이", "type": "", "begin": 36, "end": 36}, 
+                {"id": 19, "text": "사람은?", "type": "", "begin": 37, "end": 39}
+            ], 
+            "NE": [
+                {"id": 0, "text": "위쪽", "type": "TM_DIRECTION", "begin": 2, "end": 2, "weight": 0.427393, "common_noun": 0}, 
+                {"id": 1, "text": "북쪽", "type": "TM_DIRECTION", "begin": 4, "end": 4, "weight": 0.595239, "common_noun": 0}, 
+                {"id": 2, "text": "현대", "type": "DT_OTHERS", "begin": 13, "end": 13, "weight": 0.384817, "common_noun": 0}, 
+                {"id": 3, "text": "근대", "type": "DT_OTHERS", "begin": 23, "end": 23, "weight": 0.578445, "common_noun": 0}
+            ], 
+            "chunk": [], 
+            "dependency": [
+                {"id": 0, "text": "지도의", "head": 1, "label": "NP_MOD", "mod": [], "weight": 0.654601}, 
+                {"id": 1, "text": "위쪽을", "head": 2, "label": "NP_OBJ", "mod": [0], "weight": 0.717383}, 
+                {"id": 2, "text": "북쪽으로", "head": 3, "label": "NP_AJT", "mod": [1], "weight": 0.717013}, 
+                {"id": 3, "text": "해", "head": 5, "label": "VP", "mod": [2], "weight": 0.637678}, 
+                {"id": 4, "text": "방위를", "head": 5, "label": "NP_OBJ", "mod": [], "weight": 0.817451}, 
+                {"id": 5, "text": "정하는", "head": 6, "label": "VP_MOD", "mod": [3, 4], "weight": 0.819279}, 
+                {"id": 6, "text": "등", "head": 10, "label": "NP_AJT", "mod": [5], "weight": 0.601569}, 
+                {"id": 7, "text": "현대", "head": 8, "label": "NP", "mod": [], "weight": 0.753943}, 
+                {"id": 8, "text": "지도의", "head": 9, "label": "NP_MOD", "mod": [7], "weight": 0.652757}, 
+                {"id": 9, "text": "요소를", "head": 10, "label": "NP_OBJ", "mod": [8], "weight": 0.774471}, 
+                {"id": 10, "text": "포함하고", "head": 11, "label": "VP", "mod": [6, 9], "weight": 0.820442}, 
+                {"id": 11, "text": "있으며", "head": 15, "label": "VP", "mod": [10], "weight": 0.491972}, 
+                {"id": 12, "text": "근대", "head": 13, "label": "NP", "mod": [], "weight": 0.813456}, 
+                {"id": 13, "text": "지도의", "head": 14, "label": "NP_MOD", "mod": [12], "weight": 0.731517}, 
+                {"id": 14, "text": "효시로", "head": 15, "label": "NP_AJT", "mod": [13], "weight": 0.323235}, 
+                {"id": 15, "text": "알려진", "head": 16, "label": "VP_MOD", "mod": [14, 11], "weight": 0.715827}, 
+                {"id": 16, "text": "세계지도를", "head": 17, "label": "NP_OBJ", "mod": [15], "weight": 0.739673}, 
+                {"id": 17, "text": "제작한", "head": 19, "label": "VP_MOD", "mod": [16], "weight": 0.717778}, 
+                {"id": 18, "text": "이", "head": 19, "label": "DP", "mod": [], "weight": 0.774401}, 
+                {"id": 19, "text": "사람은?", "head": -1, "label": "NP_SBJ", "mod": [17, 18], "weight": 0.000279254}
+            ], 
+            "SRL": [
+                {"verb": "하", "sense": 3, "word_id": 3, "weight": 0.126273, "argument": [
+                    {"type": "ARG2", "word_id": 2, "text": "북쪽으로", "weight": 0.126273}, 
+                    {"type": "ARG1", "word_id": 1, "text": "위쪽을", "weight": 1}
+                ]}, 
+                {"verb": "정하", "sense": 1, "word_id": 5, "weight": 0.221735, "argument": [
+                    {"type": "ARGM-MNR", "word_id": 3, "text": "해", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 4, "text": "방위를", "weight": 0.352311}
+                ]}, 
+                {"verb": "포함", "sense": 1, "word_id": 10, "weight": 0.526639, "argument": [
+                    {"type": "ARG1", "word_id": 9, "text": "요소를", "weight": 0.361472}, 
+                    {"type": "AUX", "word_id": 11, "text": "있으며", "weight": 0.691807}
+                ]}, 
+                {"verb": "알려지", "sense": 1, "word_id": 15, "weight": 0.169263, "argument": [
+                    {"type": "ARG2", "word_id": 14, "text": "효시로", "weight": 1}, 
+                    {"type": "ARG1", "word_id": 16, "text": "세계지도를", "weight": 0.260713}
+                ]}, 
+                {"verb": "제작", "sense": 1, "word_id": 17, "weight": 0.194439, "argument": [
+                    {"type": "ARG1", "word_id": 16, "text": "세계지도를", "weight": 0.249968}, 
+                    {"type": "ARG0", "word_id": 19, "text": "사람은?", "weight": 0.138909}
+                ]}
+            ], 
+            "relation": [], 
+            "SA": [], 
+            "ZA": []
+        }
+    ], 
+    "entity": [
+        {"id": 0, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 0, "sent_id": 0, "start_eid": 0, "end_eid": 3, "ne_id": -1, "text": "이 사람이 제작한 세계지도는", "start_eid_short": 3, "end_eid_short": 3, "text_short": "세계지도는"}, 
+            {"id": 14, "sent_id": 1, "start_eid": 12, "end_eid": 16, "ne_id": -1, "text": "근대 지도의 효시로 알려진 세계지도를", "start_eid_short": 16, "end_eid_short": 16, "text_short": "세계지도를"}, 
+            {"id": 15, "sent_id": 1, "start_eid": 12, "end_eid": 14, "ne_id": -1, "text": "근대 지도의 효시로", "start_eid_short": 14, "end_eid_short": 14, "text_short": "효시로"}
+        ]}, 
+        {"id": 1, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 1, "sent_id": 0, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "이 사람이", "start_eid_short": 0, "end_eid_short": 1, "text_short": "이 사람이"}, 
+            {"id": 18, "sent_id": 1, "start_eid": 18, "end_eid": 19, "ne_id": -1, "text": "이 사람은?", "start_eid_short": 19, "end_eid_short": 19, "text_short": "사람은?"}
+        ]}, 
+        {"id": 2, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 2, "sent_id": 0, "start_eid": 4, "end_eid": 6, "ne_id": -1, "text": "기존의 경위선 개념을", "start_eid_short": 5, "end_eid_short": 6, "text_short": "경위선 개념을"}
+        ]}, 
+        {"id": 3, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 3, "sent_id": 0, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "기존의", "start_eid_short": 4, "end_eid_short": 4, "text_short": "기존의"}
+        ]}, 
+        {"id": 4, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 4, "sent_id": 0, "start_eid": 5, "end_eid": 5, "ne_id": -1, "text": "경위선", "start_eid_short": 5, "end_eid_short": 5, "text_short": "경위선"}
+        ]}, 
+        {"id": 5, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 5, "sent_id": 0, "start_eid": 7, "end_eid": 7, "ne_id": -1, "text": "과학적으로", "start_eid_short": 7, "end_eid_short": 7, "text_short": "과학적으로"}
+        ]}, 
+        {"id": 6, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 6, "sent_id": 1, "start_eid": 0, "end_eid": 6, "ne_id": -1, "text": "지도의 위쪽을 북쪽으로 해 방위를 정하는 등", "start_eid_short": 6, "end_eid_short": 6, "text_short": "등"}
+        ]}, 
+        {"id": 7, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 7, "sent_id": 1, "start_eid": 0, "end_eid": 1, "ne_id": -1, "text": "지도의 위쪽을", "start_eid_short": 1, "end_eid_short": 1, "text_short": "위쪽을"}
+        ]}, 
+        {"id": 8, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 8, "sent_id": 1, "start_eid": 0, "end_eid": 0, "ne_id": -1, "text": "지도의", "start_eid_short": 0, "end_eid_short": 0, "text_short": "지도의"}
+        ]}, 
+        {"id": 9, "type": "TM_DIRECTION", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 9, "sent_id": 1, "start_eid": 2, "end_eid": 2, "ne_id": 0, "text": "북쪽으로", "start_eid_short": 2, "end_eid_short": 2, "text_short": "북쪽으로"}
+        ]}, 
+        {"id": 10, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 10, "sent_id": 1, "start_eid": 4, "end_eid": 4, "ne_id": -1, "text": "방위를", "start_eid_short": 4, "end_eid_short": 4, "text_short": "방위를"}
+        ]}, 
+        {"id": 11, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 13, "sent_id": 1, "start_eid": 7, "end_eid": 7, "ne_id": 1, "text": "현대", "start_eid_short": 7, "end_eid_short": 7, "text_short": "현대"}
+        ]}, 
+        {"id": 12, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 11, "sent_id": 1, "start_eid": 7, "end_eid": 9, "ne_id": -1, "text": "현대 지도의 요소를", "start_eid_short": 9, "end_eid_short": 9, "text_short": "요소를"}
+        ]}, 
+        {"id": 13, "type": "DT_OTHERS", "number": "singular", "gender": "", "person": "", "animacy": "time", "mention": [
+            {"id": 17, "sent_id": 1, "start_eid": 12, "end_eid": 12, "ne_id": 2, "text": "근대", "start_eid_short": 12, "end_eid_short": 12, "text_short": "근대"}
+        ]}, 
+        {"id": 14, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 16, "sent_id": 1, "start_eid": 12, "end_eid": 13, "ne_id": -1, "text": "근대 지도의", "start_eid_short": 12, "end_eid_short": 13, "text_short": "근대 지도의"}
+        ]}, 
+        {"id": 15, "type": "", "number": "singular", "gender": "", "person": "", "animacy": "thing", "mention": [
+            {"id": 12, "sent_id": 1, "start_eid": 7, "end_eid": 8, "ne_id": -1, "text": "현대 지도의", "start_eid_short": 7, "end_eid_short": 8, "text_short": "현대 지도의"}
+        ]}
+    ]
+}
